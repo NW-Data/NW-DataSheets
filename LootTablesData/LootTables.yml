@@ -9454,7 +9454,7 @@ VarangianChestFlameCoreNormal:
 ForgeChestFlameCoreEliteTop:
   RollBonusSetting: AddToRoll
   AND/OR: OR
-  Conditions: MinContLevel,VarangianPOI
+  Conditions: MinContLevel,GreatCleave01
   ConditionOverridesRoll: 'TRUE'
   Item1:
     Name: '[LTID]ForgeChestFlameCoreElite'
@@ -9464,7 +9464,7 @@ ForgeChestFlameCoreEliteTop:
 ForgeChestFlameCoreElite:
   RollBonusSetting: AddToRoll
   AND/OR: OR
-  Conditions: VarangianPOI
+  Conditions: GreatCleave01
   Item1:
     Name: FlameCore
     Qty: '1'
@@ -12526,10 +12526,6 @@ ContainerLootSmall:
     Qty: '1'
     Threshold: '97500'
   Item6:
-    Name: '[LTID]VarangianChestFlameCoreNormalTop'
-    Qty: '1'
-    Threshold: '0'
-  Item7:
     Name: '[LBID]FemPattern'
     Qty: '1'
     Threshold: '92500'
@@ -12956,13 +12952,13 @@ ConcealedVault60:
     Threshold: '0'
   MaxRoll: 100000
 SportsmanSpoils_Roll:
-  RollBonusSetting: ClampMax
+  RollBonusSetting: AddToRoll
   AND/OR: OR
   Item1:
     Name: '[LBID]SportsmanSpoils'
-    Qty: '0'
-    Threshold: '1'
-  MaxRoll: 1
+    Qty: '1'
+    Threshold: '50000'
+  MaxRoll: 100000
 SportsmanSpoils:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -19276,114 +19272,13 @@ GypsumWhiteTable:
     Qty: '1'
     Threshold: '59'
   MaxRoll: 0
-SB_WaspGooDrop:
-  AND/OR: OR
-  Item1:
-    Name: SB_WispyWaspGoo
-    Qty: '1'
-    Threshold: '26'
-  MaxRoll: 100
-SpringtideBloom_Village_GiftBag:
-  AND/OR: AND
-  Item1:
-    Name: '[LBID]SpringtideCoinBag'
-    Qty: '1'
-    Threshold: '1'
-  Item2:
-    Name: Springtide_Token
-    Qty: '10'
-    Threshold: '1'
-  Item3:
-    Name: '[LTID]SpringtideBloom_Village_GiftBag_Patterns'
-    Qty: '1'
-    Threshold: '66'
-  MaxRoll: 100
-SpringtideBloom_Village_GiftBag_Patterns:
-  AND/OR: OR
-  Item1:
-    Name: '[LBID]SpringtidePatterns2022'
-    Qty: '1'
-    Threshold: '96000'
-  Item2:
-    Name: '[LBID]SpringtideGS600Patterns2022'
-    Qty: '1'
-    Threshold: '99500'
-  MaxRoll: 100000
-SpringtideBloom_Centerpiece:
-  AND/OR: AND
-  Item1:
-    Name: SB_WispySpritz
-    Qty: 1-3
-    Threshold: '1'
-  Item2:
-    Name: '[LTID]GypsumWhiteTable'
-    Qty: '1'
-    Threshold: '1'
-  Item3:
-    Name: '[LTID]SpringtideBloom_Centerpiece_Extras'
-    Qty: '1'
-    Threshold: '1'
-  Item4:
-    Name: Springtide_Token
-    Qty: '10'
-    Threshold: '1'
-  MaxRoll: 100
-SpringtideBloom_Centerpiece_Extras:
-  AND/OR: AND
-  Item1:
-    Name: SB_WispySpritz
-    Qty: 1-5
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]DyeRandomRoll'
-    Qty: '1'
-    Threshold: '33333'
-  Item3:
-    Name: SBConsumable_SpringtideDram
-    Qty: '1'
-    Threshold: '66666'
-  Item4:
-    Name: SBConsumable_SpringtideWafer
-    Qty: '1'
-    Threshold: '77777'
-  Item5:
-    Name: SBConsumable_SpringtideCrumble
-    Qty: '1'
-    Threshold: '88888'
-  MaxRoll: 100000
 Spring_Prismabloom_Roll:
+  RollBonusSetting: ClampMax
   AND/OR: OR
   Item1:
-    Name: '[LTID]Spring_Prismabloom_Token_Roll'
-    Qty: '1'
-    Threshold: '25000'
-  Item2:
-    Name: '[LTID]Spring_Prismabloom_Premium_Roll'
-    Qty: '1'
-    Threshold: '95000'
-  MaxRoll: 100000
-Spring_Prismabloom_Token_Roll:
-  AND/OR: AND
-  Conditions: '[LIM]Spring_Prismabloom_Token_Limit'
-  Item1:
-    Name: Springtide_Token
-    Qty: '1'
+    Name: WoodT1
+    Qty: '0'
     Threshold: '1'
-  MaxRoll: 100
-Spring_Prismabloom_Premium_Roll:
-  AND/OR: AND
-  Conditions: '[LIM]Spring_Prismabloom_Premium_Limit'
-  Item1:
-    Name: Springtide_PremiumToken
-    Qty: '1'
-    Threshold: '1'
-  MaxRoll: 100
-Spring_Wispybloom:
-  AND/OR: AND
-  Item1:
-    Name: SB_Wispybloom
-    Qty: '14'
-    Threshold: '0'
   MaxRoll: 1
 MutatorLoot_Fire:
   RollBonusSetting: AddToRoll

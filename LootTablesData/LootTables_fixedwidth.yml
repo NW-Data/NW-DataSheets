@@ -5392,7 +5392,7 @@ VarangianChestFlameCoreNormal:
 ForgeChestFlameCoreEliteTop:
   RollBonusSetting: AddToRoll
   AND/OR: OR
-  Conditions: MinContLevel,VarangianPOI
+  Conditions: MinContLevel,GreatCleave01
   ConditionOverridesRoll: 'TRUE'
   MaxRoll: 0
   Items: |
@@ -5402,7 +5402,7 @@ ForgeChestFlameCoreEliteTop:
 ForgeChestFlameCoreElite:
   RollBonusSetting: AddToRoll
   AND/OR: OR
-  Conditions: VarangianPOI
+  Conditions: GreatCleave01
   MaxRoll: 100000
   Items: |
     Entry        Threshold       Qty Name
@@ -7447,8 +7447,7 @@ ContainerLootSmall:
     Item3           82500          1 [LBID]AttributeItems                                        
     Item4           92500          1 [LBID]ContainerResourcesRare                                
     Item5           97500          1 [LTID]RareContainerList                                     
-    Item6               0          1 [LTID]VarangianChestFlameCoreNormalTop                      
-    Item7           92500          1 [LBID]FemPattern                                            
+    Item6           92500          1 [LBID]FemPattern                                            
 ContainerLootSmallAmmoRoll:
   RollBonusSetting: AddToRoll
   AND/OR: OR
@@ -7745,13 +7744,13 @@ ConcealedVault60:
     Item4               0        1-3 AlchemyLifeT1                                               
     Item5               0        1-3 AlchemyFireT1                                               
 SportsmanSpoils_Roll:
-  RollBonusSetting: ClampMax
+  RollBonusSetting: AddToRoll
   AND/OR: OR
-  MaxRoll: 1
+  MaxRoll: 100000
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               1          0 [LBID]SportsmanSpoils                                       
+    Item1           50000          1 [LBID]SportsmanSpoils                                       
 SportsmanSpoils:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -11380,82 +11379,14 @@ GypsumWhiteTable:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1              59          1 GypsumWhite                                                 
-SB_WaspGooDrop:
-  AND/OR: OR
-  MaxRoll: 100
-  Items: |
-    Entry        Threshold       Qty Name
-    __________________________________________________________________________________________
-    Item1              26          1 SB_WispyWaspGoo                                             
-SpringtideBloom_Village_GiftBag:
-  AND/OR: AND
-  MaxRoll: 100
-  Items: |
-    Entry        Threshold       Qty Name
-    __________________________________________________________________________________________
-    Item1               1          1 [LBID]SpringtideCoinBag                                     
-    Item2               1         10 Springtide_Token                                            
-    Item3              66          1 [LTID]SpringtideBloom_Village_GiftBag_Patterns              
-SpringtideBloom_Village_GiftBag_Patterns:
-  AND/OR: OR
-  MaxRoll: 100000
-  Items: |
-    Entry        Threshold       Qty Name
-    __________________________________________________________________________________________
-    Item1           96000          1 [LBID]SpringtidePatterns2022                                
-    Item2           99500          1 [LBID]SpringtideGS600Patterns2022                           
-SpringtideBloom_Centerpiece:
-  AND/OR: AND
-  MaxRoll: 100
-  Items: |
-    Entry        Threshold       Qty Name
-    __________________________________________________________________________________________
-    Item1               1        1-3 SB_WispySpritz                                              
-    Item2               1          1 [LTID]GypsumWhiteTable                                      
-    Item3               1          1 [LTID]SpringtideBloom_Centerpiece_Extras                    
-    Item4               1         10 Springtide_Token                                            
-SpringtideBloom_Centerpiece_Extras:
-  AND/OR: AND
-  MaxRoll: 100000
-  Items: |
-    Entry        Threshold       Qty Name
-    __________________________________________________________________________________________
-    Item1               0        1-5 SB_WispySpritz                                              
-    Item2           33333          1 [LBID]DyeRandomRoll                                         
-    Item3           66666          1 SBConsumable_SpringtideDram                                 
-    Item4           77777          1 SBConsumable_SpringtideWafer                                
-    Item5           88888          1 SBConsumable_SpringtideCrumble                              
 Spring_Prismabloom_Roll:
+  RollBonusSetting: ClampMax
   AND/OR: OR
-  MaxRoll: 100000
-  Items: |
-    Entry        Threshold       Qty Name
-    __________________________________________________________________________________________
-    Item1           25000          1 [LTID]Spring_Prismabloom_Token_Roll                         
-    Item2           95000          1 [LTID]Spring_Prismabloom_Premium_Roll                       
-Spring_Prismabloom_Token_Roll:
-  AND/OR: AND
-  Conditions: '[LIM]Spring_Prismabloom_Token_Limit'
-  MaxRoll: 100
-  Items: |
-    Entry        Threshold       Qty Name
-    __________________________________________________________________________________________
-    Item1               1          1 Springtide_Token                                            
-Spring_Prismabloom_Premium_Roll:
-  AND/OR: AND
-  Conditions: '[LIM]Spring_Prismabloom_Premium_Limit'
-  MaxRoll: 100
-  Items: |
-    Entry        Threshold       Qty Name
-    __________________________________________________________________________________________
-    Item1               1          1 Springtide_PremiumToken                                     
-Spring_Wispybloom:
-  AND/OR: AND
   MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0         14 SB_Wispybloom                                               
+    Item1               1          0 WoodT1                                                      
 MutatorLoot_Fire:
   RollBonusSetting: AddToRoll
   AND/OR: OR
