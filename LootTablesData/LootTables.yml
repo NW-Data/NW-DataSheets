@@ -33,6 +33,10 @@ TreeTiny:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Wood_T2
+    Qty: '1'
+    Threshold: '98000'
   MaxRoll: 100000
 TreeSmall:
   RollBonusSetting: AddToRoll
@@ -61,6 +65,10 @@ TreeSmall:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Wood_T2
+    Qty: '1'
+    Threshold: '97000'
   MaxRoll: 100000
 TreeMedium:
   RollBonusSetting: AddToRoll
@@ -89,6 +97,10 @@ TreeMedium:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Wood_T2
+    Qty: '1'
+    Threshold: '96000'
   MaxRoll: 100000
 TreeLarge:
   RollBonusSetting: AddToRoll
@@ -117,6 +129,10 @@ TreeLarge:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Wood_T2
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 TreeHuge:
   RollBonusSetting: AddToRoll
@@ -145,6 +161,10 @@ TreeHuge:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Wood_T2
+    Qty: '1'
+    Threshold: '90000'
   MaxRoll: 100000
 FallTreeSmall:
   RollBonusSetting: AddToRoll
@@ -173,6 +193,10 @@ FallTreeSmall:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Wood_T2
+    Qty: '1'
+    Threshold: '97000'
   MaxRoll: 100000
 FallTreeMedium:
   RollBonusSetting: AddToRoll
@@ -201,6 +225,10 @@ FallTreeMedium:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Wood_T2
+    Qty: '1'
+    Threshold: '96000'
   MaxRoll: 100000
 FallTreeLarge:
   RollBonusSetting: AddToRoll
@@ -229,6 +257,10 @@ FallTreeLarge:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Wood_T2
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 WinterTreeSmall:
   RollBonusSetting: AddToRoll
@@ -257,6 +289,10 @@ WinterTreeSmall:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Wood_T2
+    Qty: '1'
+    Threshold: '97000'
   MaxRoll: 100000
 WinterTreeMedium:
   RollBonusSetting: AddToRoll
@@ -285,6 +321,10 @@ WinterTreeMedium:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Wood_T2
+    Qty: '1'
+    Threshold: '96000'
   MaxRoll: 100000
 WinterTreeLarge:
   RollBonusSetting: AddToRoll
@@ -313,6 +353,10 @@ WinterTreeLarge:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Wood_T2
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 WyrdwoodTreeTiny:
   RollBonusSetting: AddToRoll
@@ -345,6 +389,10 @@ WyrdwoodTreeTiny:
     Name: '[LTID]SE_Music_Wyrd_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Unusual_Wood_T3
+    Qty: '1'
+    Threshold: '90000'
   MaxRoll: 100000
 WyrdwoodTreeSmall:
   RollBonusSetting: AddToRoll
@@ -377,6 +425,10 @@ WyrdwoodTreeSmall:
     Name: '[LTID]SE_Music_Wyrd_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Unusual_Wood_T3
+    Qty: '1'
+    Threshold: '88000'
   MaxRoll: 100000
 WyrdwoodTreeMedium:
   RollBonusSetting: AddToRoll
@@ -409,6 +461,10 @@ WyrdwoodTreeMedium:
     Name: '[LTID]SE_Music_Wyrd_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Unusual_Wood_T3
+    Qty: '1'
+    Threshold: '86000'
   MaxRoll: 100000
 WyrdwoodTreeLarge:
   RollBonusSetting: AddToRoll
@@ -441,6 +497,10 @@ WyrdwoodTreeLarge:
     Name: '[LTID]SE_Music_Wyrd_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Unusual_Wood_T3
+    Qty: '1'
+    Threshold: '85000'
   MaxRoll: 100000
 WyrdwoodTreeHuge:
   RollBonusSetting: AddToRoll
@@ -473,6 +533,10 @@ WyrdwoodTreeHuge:
     Name: '[LTID]SE_Music_Wyrd_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Unusual_Wood_T3
+    Qty: '1'
+    Threshold: '84000'
   MaxRoll: 100000
 IronwoodTreeTiny:
   RollBonusSetting: AddToRoll
@@ -505,6 +569,10 @@ IronwoodTreeTiny:
     Name: '[LTID]SE_Music_Ironwood_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Abnormal_Wood_T4
+    Qty: '1'
+    Threshold: '103000'
   MaxRoll: 100000
 IronwoodTreeSmall:
   RollBonusSetting: AddToRoll
@@ -537,6 +605,10 @@ IronwoodTreeSmall:
     Name: '[LTID]SE_Music_Ironwood_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Abnormal_Wood_T4
+    Qty: '1'
+    Threshold: '102000'
   MaxRoll: 100000
 IronwoodTreeMedium:
   RollBonusSetting: AddToRoll
@@ -569,6 +641,10 @@ IronwoodTreeMedium:
     Name: '[LTID]SE_Music_Ironwood_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Abnormal_Wood_T4
+    Qty: '1'
+    Threshold: '101000'
   MaxRoll: 100000
 IronwoodTreeLarge:
   RollBonusSetting: AddToRoll
@@ -601,6 +677,10 @@ IronwoodTreeLarge:
     Name: '[LTID]SE_Music_Ironwood_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Abnormal_Wood_T4
+    Qty: '1'
+    Threshold: '101000'
   MaxRoll: 100000
 IronwoodTreeHuge:
   RollBonusSetting: AddToRoll
@@ -633,6 +713,10 @@ IronwoodTreeHuge:
     Name: '[LTID]SE_Music_Ironwood_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Abnormal_Wood_T4
+    Qty: '1'
+    Threshold: '101000'
   MaxRoll: 100000
 CactusTiny:
   RollBonusSetting: AddToRoll
@@ -920,7 +1004,11 @@ WitheredBush:
   Item2:
     Name: BaitFreshWoodliceT2
     Qty: '1'
-    Threshold: '88000'
+    Threshold: '75000'
+  Item3:
+    Name: RareBaitWoodliceT4
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 BushXSmall:
   RollBonusSetting: AddToRoll
@@ -932,7 +1020,11 @@ BushXSmall:
   Item2:
     Name: BaitFreshWoodliceT2
     Qty: '1'
-    Threshold: '88000'
+    Threshold: '75000'
+  Item3:
+    Name: RareBaitWoodliceT4
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 BushSmall:
   RollBonusSetting: AddToRoll
@@ -944,7 +1036,11 @@ BushSmall:
   Item2:
     Name: BaitFreshWoodliceT2
     Qty: '1'
-    Threshold: '88000'
+    Threshold: '75000'
+  Item3:
+    Name: RareBaitWoodliceT4
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 BushMedium:
   RollBonusSetting: AddToRoll
@@ -956,7 +1052,11 @@ BushMedium:
   Item2:
     Name: BaitFreshWoodliceT2
     Qty: 1-2
-    Threshold: '88000'
+    Threshold: '75000'
+  Item3:
+    Name: RareBaitWoodliceT4
+    Qty: 1-2
+    Threshold: '95000'
   MaxRoll: 100000
 BushLarge:
   RollBonusSetting: AddToRoll
@@ -968,7 +1068,11 @@ BushLarge:
   Item2:
     Name: BaitFreshWoodliceT2
     Qty: 2-3
-    Threshold: '88000'
+    Threshold: '75000'
+  Item3:
+    Name: RareBaitWoodliceT4
+    Qty: 2-3
+    Threshold: '95000'
   MaxRoll: 100000
 BushHuge:
   RollBonusSetting: AddToRoll
@@ -980,7 +1084,11 @@ BushHuge:
   Item2:
     Name: BaitFreshWoodliceT2
     Qty: 3-4
-    Threshold: '88000'
+    Threshold: '75000'
+  Item3:
+    Name: RareBaitWoodliceT4
+    Qty: 3-4
+    Threshold: '95000'
   MaxRoll: 100000
 BerryBushSmall:
   RollBonusSetting: AddToRoll
@@ -1097,6 +1205,10 @@ SingleStone:
     Name: '[LBID]DayNightFishBait'
     Qty: '1'
     Threshold: '87500'
+  Item3:
+    Name: '[LBID]DayNightFishRareBait'
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 BoulderFinishSmall:
   RollBonusSetting: AddToRoll
@@ -1489,6 +1601,10 @@ OreVeinFinishSmall:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Strange_Ore_T2
+    Qty: '1'
+    Threshold: '88000'
   MaxRoll: 100000
 OreVeinFinishMedium:
   RollBonusSetting: AddToRoll
@@ -1521,6 +1637,10 @@ OreVeinFinishMedium:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Strange_Ore_T2
+    Qty: '1'
+    Threshold: '86000'
   MaxRoll: 100000
 OreVeinFinishLarge:
   RollBonusSetting: AddToRoll
@@ -1553,6 +1673,10 @@ OreVeinFinishLarge:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Strange_Ore_T2
+    Qty: '1'
+    Threshold: '82000'
   MaxRoll: 100000
 StarmetalOreVeinFinishSmall:
   RollBonusSetting: AddToRoll
@@ -1585,6 +1709,10 @@ StarmetalOreVeinFinishSmall:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Unusual_Ore_T3
+    Qty: '1'
+    Threshold: '85000'
   MaxRoll: 100000
 StarmetalOreVeinFinishMedium:
   RollBonusSetting: AddToRoll
@@ -1617,6 +1745,10 @@ StarmetalOreVeinFinishMedium:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Unusual_Ore_T3
+    Qty: '1'
+    Threshold: '84000'
   MaxRoll: 100000
 StarmetalOreVeinFinishLarge:
   RollBonusSetting: AddToRoll
@@ -1649,6 +1781,10 @@ StarmetalOreVeinFinishLarge:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: Gatherable_Research_Unusual_Ore_T3
+    Qty: '1'
+    Threshold: '82000'
   MaxRoll: 100000
 OrichalcumOreVeinFinishSmall:
   RollBonusSetting: AddToRoll
@@ -1685,6 +1821,10 @@ OrichalcumOreVeinFinishSmall:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item9:
+    Name: Gatherable_Research_Abnormal_Ore_T4
+    Qty: '1'
+    Threshold: '85000'
   MaxRoll: 100000
 OrichalcumOreVeinFinishMedium:
   RollBonusSetting: AddToRoll
@@ -1721,6 +1861,10 @@ OrichalcumOreVeinFinishMedium:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item9:
+    Name: Gatherable_Research_Abnormal_Ore_T4
+    Qty: '1'
+    Threshold: '82000'
   MaxRoll: 100000
 OrichalcumOreVeinFinishLarge:
   RollBonusSetting: AddToRoll
@@ -1757,6 +1901,10 @@ OrichalcumOreVeinFinishLarge:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item9:
+    Name: Gatherable_Research_Abnormal_Ore_T4
+    Qty: '1'
+    Threshold: '80000'
   MaxRoll: 100000
 OrichalcumSpire:
   RollBonusSetting: AddToRoll
@@ -1829,6 +1977,10 @@ Silver_Small:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Ore_T2
+    Qty: '1'
+    Threshold: '85000'
   MaxRoll: 100000
 Silver_Medium:
   RollBonusSetting: AddToRoll
@@ -1857,6 +2009,10 @@ Silver_Medium:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Ore_T2
+    Qty: '1'
+    Threshold: '84000'
   MaxRoll: 100000
 Silver_Large:
   RollBonusSetting: AddToRoll
@@ -1885,6 +2041,10 @@ Silver_Large:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Strange_Ore_T2
+    Qty: '1'
+    Threshold: '82000'
   MaxRoll: 100000
 Gold_Small:
   RollBonusSetting: AddToRoll
@@ -1913,6 +2073,10 @@ Gold_Small:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Unusual_Ore_T3
+    Qty: '1'
+    Threshold: '85000'
   MaxRoll: 100000
 Gold_Medium:
   RollBonusSetting: AddToRoll
@@ -1941,6 +2105,10 @@ Gold_Medium:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Unusual_Ore_T3
+    Qty: '1'
+    Threshold: '84000'
   MaxRoll: 100000
 Gold_Large:
   RollBonusSetting: AddToRoll
@@ -1969,6 +2137,10 @@ Gold_Large:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Unusual_Ore_T3
+    Qty: '1'
+    Threshold: '82000'
   MaxRoll: 100000
 Platinum_Small:
   RollBonusSetting: AddToRoll
@@ -1997,6 +2169,10 @@ Platinum_Small:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Abnormal_Ore_T4
+    Qty: '1'
+    Threshold: '85000'
   MaxRoll: 100000
 Platinum_Medium:
   RollBonusSetting: AddToRoll
@@ -2025,6 +2201,10 @@ Platinum_Medium:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Abnormal_Ore_T4
+    Qty: '1'
+    Threshold: '82000'
   MaxRoll: 100000
 Platinum_Large:
   RollBonusSetting: AddToRoll
@@ -2053,6 +2233,10 @@ Platinum_Large:
     Name: '[LTID]SE_Music_Ore_Loot'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Abnormal_Ore_T4
+    Qty: '1'
+    Threshold: '80000'
   MaxRoll: 100000
 BoulderResources:
   RollBonusSetting: AddToRoll
@@ -2729,6 +2913,10 @@ HempSmallT1:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item6:
+    Name: Gatherable_Research_Strange_Fiber_T2
+    Qty: '1'
+    Threshold: '98000'
   MaxRoll: 100000
 HempMediumT1:
   RollBonusSetting: AddToRoll
@@ -2753,6 +2941,10 @@ HempMediumT1:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item6:
+    Name: Gatherable_Research_Strange_Fiber_T2
+    Qty: '1'
+    Threshold: '97000'
   MaxRoll: 100000
 HempLargeT1:
   RollBonusSetting: AddToRoll
@@ -2777,6 +2969,10 @@ HempLargeT1:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
     Threshold: '0'
+  Item6:
+    Name: Gatherable_Research_Strange_Fiber_T2
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 HempSmallT4:
   RollBonusSetting: AddToRoll
@@ -2801,6 +2997,10 @@ HempSmallT4:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item6:
+    Name: Gatherable_Research_Unusual_Fiber_T3
+    Qty: '1'
+    Threshold: '88000'
   MaxRoll: 100000
 HempMediumT4:
   RollBonusSetting: AddToRoll
@@ -2825,6 +3025,10 @@ HempMediumT4:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item6:
+    Name: Gatherable_Research_Unusual_Fiber_T3
+    Qty: '1'
+    Threshold: '86000'
   MaxRoll: 100000
 HempLargeT4:
   RollBonusSetting: AddToRoll
@@ -2849,6 +3053,10 @@ HempLargeT4:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
     Threshold: '0'
+  Item6:
+    Name: Gatherable_Research_Unusual_Fiber_T3
+    Qty: '1'
+    Threshold: '84000'
   MaxRoll: 100000
 HempSmallT5:
   RollBonusSetting: AddToRoll
@@ -2877,6 +3085,10 @@ HempSmallT5:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Abnormal_Fiber_T4
+    Qty: '1'
+    Threshold: '85000'
   MaxRoll: 100000
 HempMediumT5:
   RollBonusSetting: AddToRoll
@@ -2905,6 +3117,10 @@ HempMediumT5:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Abnormal_Fiber_T4
+    Qty: '1'
+    Threshold: '84000'
   MaxRoll: 100000
 HempLargeT5:
   RollBonusSetting: AddToRoll
@@ -2933,6 +3149,10 @@ HempLargeT5:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
     Threshold: '0'
+  Item7:
+    Name: Gatherable_Research_Abnormal_Fiber_T4
+    Qty: '1'
+    Threshold: '82000'
   MaxRoll: 100000
 CactusTinyBush:
   RollBonusSetting: AddToRoll
@@ -4881,6 +5101,10 @@ CattailSmall:
     Name: BaitFreshFireflyT3
     Qty: 1-2
     Threshold: '75000'
+  Item4:
+    Name: RareBaitFireflyT4
+    Qty: 1-2
+    Threshold: '95000'
   MaxRoll: 100000
 CattailMedium:
   RollBonusSetting: AddToRoll
@@ -4897,6 +5121,10 @@ CattailMedium:
     Name: BaitFreshFireflyT3
     Qty: 2-3
     Threshold: '75000'
+  Item4:
+    Name: RareBaitFireflyT4
+    Qty: 2-3
+    Threshold: '95000'
   MaxRoll: 100000
 CattailLarge:
   RollBonusSetting: AddToRoll
@@ -4913,6 +5141,10 @@ CattailLarge:
     Name: BaitFreshFireflyT3
     Qty: 3-4
     Threshold: '75000'
+  Item4:
+    Name: RareBaitFireflyT4
+    Qty: 3-4
+    Threshold: '95000'
   MaxRoll: 100000
 BriarPlant:
   RollBonusSetting: AddToRoll
@@ -4929,6 +5161,10 @@ BriarPlant:
     Name: BaitFreshFireflyT3
     Qty: 1-2
     Threshold: '75000'
+  Item4:
+    Name: RareBaitFireflyT4
+    Qty: 1-2
+    Threshold: '95000'
   MaxRoll: 100000
 DyePlantRed:
   RollBonusSetting: ClampMax
@@ -5203,13 +5439,13 @@ ArenaKeysAndParts:
   AND/OR: OR
   Item1:
     Name: '[LBID]ArenaKeyWhole'
-    Qty: '1'
-    Threshold: '94000'
+    Qty: '0'
+    Threshold: '100000'
   Item2:
     Name: '[LBID]ArenaKeyParts'
-    Qty: '1'
-    Threshold: '95000'
-  MaxRoll: 100000
+    Qty: '0'
+    Threshold: '100000'
+  MaxRoll: 0
 MyrkgardKeyFragment1:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -5356,6 +5592,10 @@ OutpostRush_WolfAlpha:
   Item1:
     Name: OutpostRushRawhide
     Qty: '60'
+    Threshold: '0'
+  Item2:
+    Name: OR_SummonStoneBear
+    Qty: '1'
     Threshold: '0'
   MaxRoll: 10000
 OutpostRush_Bear:
@@ -6238,6 +6478,10 @@ WolfSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: '[LTID]GatherableBonusItems'
+    Qty: '1'
+    Threshold: '98000'
   MaxRoll: 100000
 WolfMeats:
   RollBonusSetting: AddToRoll
@@ -6364,6 +6608,10 @@ WolfCorruptedSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: '[LTID]GatherableBonusItems'
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 WolfCorruptedResources:
   RollBonusSetting: AddToRoll
@@ -6445,6 +6693,10 @@ CatSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: '[LTID]GatherableBonusItems'
+    Qty: '1'
+    Threshold: '98000'
   MaxRoll: 100000
 CatBabySkinning:
   RollBonusSetting: AddToRoll
@@ -6575,6 +6827,10 @@ AlligatorSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: '[LTID]GatherableBonusItems'
+    Qty: '1'
+    Threshold: '98000'
   MaxRoll: 100000
 AlligatorMeats:
   RollBonusSetting: AddToRoll
@@ -6771,6 +7027,10 @@ BoarSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: '[LTID]GatherableBonusItems'
+    Qty: '1'
+    Threshold: '99000'
   MaxRoll: 100000
 BoarMeats:
   RollBonusSetting: AddToRoll
@@ -6881,6 +7141,10 @@ BearSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: '[LTID]GatherableBonusItems'
+    Qty: '1'
+    Threshold: '98000'
   MaxRoll: 100000
 BearMeats:
   RollBonusSetting: AddToRoll
@@ -7007,6 +7271,10 @@ BearCorruptedSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: '[LTID]GatherableBonusItems'
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 BearCorruptedResources:
   RollBonusSetting: AddToRoll
@@ -7145,6 +7413,10 @@ ScarabSkinning:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
     Threshold: '0'
+  Item7:
+    Name: '[LTID]GatherableBonusItems'
+    Qty: '1'
+    Threshold: '98000'
   MaxRoll: 100000
 ScarabMeats:
   RollBonusSetting: AddToRoll
@@ -7235,6 +7507,10 @@ ScorpionLargeSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: '[LTID]GatherableBonusItems'
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 ScorpionMediumSkinning:
   RollBonusSetting: AddToRoll
@@ -7259,6 +7535,10 @@ ScorpionMediumSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: '[LTID]GatherableBonusItems'
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 ScorpionSmallSkinning:
   RollBonusSetting: AddToRoll
@@ -7316,6 +7596,23 @@ ArmadilloSkinning:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
+GatherableBonusItems:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: EnemyLevel
+  Item1:
+    Name: Gatherable_Research_Strange_Hide_T2
+    Qty: 0-1
+    Threshold: '0'
+  Item2:
+    Name: Gatherable_Research_Unusual_Hide_T3
+    Qty: 0-1
+    Threshold: '40'
+  Item3:
+    Name: Gatherable_Research_Abnormal_Hide_T4
+    Qty: 0-1
+    Threshold: '55'
+  MaxRoll: 5
 ElkSkinning:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -9454,7 +9751,7 @@ VarangianChestFlameCoreNormal:
 ForgeChestFlameCoreEliteTop:
   RollBonusSetting: AddToRoll
   AND/OR: OR
-  Conditions: MinContLevel,VarangianPOI
+  Conditions: MinContLevel,GreatCleave01
   ConditionOverridesRoll: 'TRUE'
   Item1:
     Name: '[LTID]ForgeChestFlameCoreElite'
@@ -9464,7 +9761,7 @@ ForgeChestFlameCoreEliteTop:
 ForgeChestFlameCoreElite:
   RollBonusSetting: AddToRoll
   AND/OR: OR
-  Conditions: VarangianPOI
+  Conditions: GreatCleave01
   Item1:
     Name: FlameCore
     Qty: '1'
@@ -9618,6 +9915,10 @@ ChestLootEliteItemRoll:
     Name: '[LTID]ChestLootEliteItemBonusRoll'
     Qty: '1'
     Threshold: '0'
+  Item4:
+    Name: '[LTID]PVPLootFilter'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 ChestLootEliteItemBonusRoll:
   RollBonusSetting: ClampMax
@@ -9691,15 +9992,6 @@ VoidEssence:
     Qty: '1'
     Threshold: '100001'
   MaxRoll: 100000
-PlayerMaster:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Conditions: Level
-  Item1:
-    Name: '[LTID]CreatureLootCommonGear'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 0
 AlchemyEarthT2Salvage:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -9970,13 +10262,17 @@ FreshwaterFishRarity:
     Qty: '1'
     Threshold: '96900'
   Item6:
-    Name: '[LBID]NonFishRare'
+    Name: '[LTID]FishingChestsFresh'
     Qty: '1'
     Threshold: '98900'
   Item7:
-    Name: '[LBID]FishUltraFresh'
+    Name: '[LBID]FishUltraRandom'
     Qty: '1'
     Threshold: '99900'
+  Item8:
+    Name: '[LBID]FishUltraFresh'
+    Qty: '1'
+    Threshold: '99990'
   MaxRoll: 100000
 FreshFishCommonSize:
   RollBonusSetting: ClampMax
@@ -10054,13 +10350,17 @@ SaltwaterFishRarity:
     Qty: '1'
     Threshold: '96900'
   Item6:
-    Name: '[LBID]NonFishRare'
+    Name: '[LTID]FishingChestsSalt'
     Qty: '1'
     Threshold: '98900'
   Item7:
-    Name: '[LBID]FishUltraSalt'
+    Name: '[LBID]FishUltraRandom'
     Qty: '1'
     Threshold: '99900'
+  Item8:
+    Name: '[LBID]FishUltraSalt'
+    Qty: '1'
+    Threshold: '99990'
   MaxRoll: 100000
 SaltFishCommonSize:
   RollBonusSetting: ClampMax
@@ -10113,6 +10413,36 @@ SaltFishRareSize:
     Qty: '1'
     Threshold: '90000'
   MaxRoll: 100000
+FishingChestsFresh:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: Fresh
+  Item1:
+    Name: '[LBID]NonFishRare'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]NonFishRareFreshOnly'
+    Qty: '1'
+    Threshold: '6'
+  MaxRoll: 0
+FishingChestsSalt:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: Salt
+  Item1:
+    Name: '[LBID]NonFishRare'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]NonFishRareSaltOnly'
+    Qty: '1'
+    Threshold: '60'
+  Item3:
+    Name: FishingTreasureBigAnchorT3
+    Qty: '1'
+    Threshold: '91'
+  MaxRoll: 100
 FishingLootDiverted:
   RollBonusSetting: AddToRoll
   AND/OR: OR
@@ -10148,27 +10478,35 @@ FreshwaterFishHotspotRarity:
   Item2:
     Name: '[LBID]NonFishUncommon'
     Qty: '1'
-    Threshold: '2'
+    Threshold: '5000'
   Item3:
     Name: '[LTID]FreshFishHotspotCommonSize'
     Qty: '1'
-    Threshold: '3'
+    Threshold: '10000'
   Item4:
     Name: '[LTID]FreshFishHotspotUncommonSize'
     Qty: '1'
-    Threshold: '132841'
+    Threshold: '180000'
   Item5:
     Name: '[LTID]FreshFishHotspotRareSize'
     Qty: '1'
-    Threshold: '265683'
+    Threshold: '260000'
   Item6:
-    Name: '[LBID]NonFishRare'
+    Name: '[LTID]FishingChestsFresh'
     Qty: '1'
-    Threshold: '287823'
+    Threshold: '290000'
   Item7:
+    Name: '[LBID]FishUltraRandom'
+    Qty: '1'
+    Threshold: '295000'
+  Item8:
     Name: '[LBID]FishUltraFresh'
     Qty: '1'
-    Threshold: '298893'
+    Threshold: '297500'
+  Item9:
+    Name: '[LBID]FishUltraFresh'
+    Qty: '1'
+    Threshold: '99990'
   MaxRoll: 300000
 FreshFishHotspotCommonSize:
   RollBonusSetting: ClampMax
@@ -10232,27 +10570,35 @@ SaltwaterFishHotspotRarity:
   Item2:
     Name: '[LBID]NonFishUncommon'
     Qty: '1'
-    Threshold: '2'
+    Threshold: '5000'
   Item3:
     Name: '[LTID]SaltFishHotspotCommonSize'
     Qty: '1'
-    Threshold: '3'
+    Threshold: '10000'
   Item4:
     Name: '[LTID]SaltFishHotspotUncommonSize'
     Qty: '1'
-    Threshold: '132841'
+    Threshold: '180000'
   Item5:
     Name: '[LTID]SaltFishHotspotRareSize'
     Qty: '1'
-    Threshold: '265683'
+    Threshold: '260000'
   Item6:
-    Name: '[LBID]NonFishRare'
+    Name: '[LTID]FishingChestsSalt'
     Qty: '1'
-    Threshold: '287823'
+    Threshold: '290000'
   Item7:
+    Name: '[LBID]FishUltraRandom'
+    Qty: '1'
+    Threshold: '295000'
+  Item8:
     Name: '[LBID]FishUltraSalt'
     Qty: '1'
-    Threshold: '298893'
+    Threshold: '297500'
+  Item9:
+    Name: '[LBID]FishUltraSalt'
+    Qty: '1'
+    Threshold: '99990'
   MaxRoll: 300000
 SaltFishHotspotCommonSize:
   RollBonusSetting: ClampMax
@@ -10315,8 +10661,74 @@ FishingSalmonSpecial:
   Item2:
     Name: FishingSalmonLargeT1
     Qty: '1'
-    Threshold: '4'
-  MaxRoll: 10
+    Threshold: '40'
+  Item3:
+    Name: FishingSalmonFatT1
+    Qty: '1'
+    Threshold: '96'
+  MaxRoll: 100
+FishingSummerMedleyHotspot:
+  RollBonusSetting: ClampMax
+  AND/OR: OR
+  Conditions: SummerFishRarity
+  Item1:
+    Name: FishingSummerMedleyCacheT3
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: FishingSummerMedleySturgeonSmallT3
+    Qty: '1'
+    Threshold: '30000'
+  Item3:
+    Name: FishingSummerMedleySturgeonMediumT3
+    Qty: '1'
+    Threshold: '60000'
+  Item4:
+    Name: FishingSummerMedleySturgeonLargeT3
+    Qty: '1'
+    Threshold: '85000'
+  MaxRoll: 100000
+FishingSummerMedley:
+  RollBonusSetting: ClampMax
+  AND/OR: OR
+  Conditions: SummerFishRarity
+  Item1:
+    Name: '[LTID]FishingSummerMedleyTrash'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: FishingSummerMedleyCacheT3
+    Qty: '1'
+    Threshold: '65000'
+  Item3:
+    Name: FishingSummerMedleySturgeonSmallT3
+    Qty: '1'
+    Threshold: '85000'
+  Item4:
+    Name: FishingSummerMedleySturgeonMediumT3
+    Qty: '1'
+    Threshold: '105000'
+  Item5:
+    Name: FishingSummerMedleySturgeonLargeT3
+    Qty: '1'
+    Threshold: '115000'
+  MaxRoll: 120000
+FishingSummerMedleyTrash:
+  RollBonusSetting: ClampMax
+  AND/OR: OR
+  Item1:
+    Name: SummerMedley_PristineSoakedWood
+    Qty: 1-4
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_AssortedCoral
+    Qty: 1-4
+    Threshold: '0'
+  Item3:
+    Name: SummerMedley_CautiouslyWrappedStuffing
+    Qty: 1-4
+    Threshold: '0'
+  MaxRoll: 0
 FishSalvageSmallCommon:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10460,6 +10872,10 @@ FishSalvageClam:
     Name: '[LTID]FishSalvagePearlsLow'
     Qty: '1'
     Threshold: '50000'
+  Item4:
+    Name: RareBaitClamT4
+    Qty: 3-4
+    Threshold: '85000'
   MaxRoll: 100000
 FishSalvagePearlsLow:
   RollBonusSetting: AddToRoll
@@ -10488,6 +10904,10 @@ FishSalvageOyster:
     Name: '[LTID]FishSalvagePearlsHigh'
     Qty: '1'
     Threshold: '0'
+  Item4:
+    Name: RareBaitOysterT4
+    Qty: 3-4
+    Threshold: '85000'
   MaxRoll: 100000
 FishSalvagePearlsHigh:
   RollBonusSetting: AddToRoll
@@ -10512,6 +10932,10 @@ FishSalvageElectricEelSmall:
     Name: FishT4
     Qty: '1'
     Threshold: '0'
+  Item3:
+    Name: RareBaitElectricEelT4
+    Qty: 3-4
+    Threshold: '85000'
   MaxRoll: 100000
 FishSalvageElectricEelMedium:
   RollBonusSetting: AddToRoll
@@ -10524,6 +10948,10 @@ FishSalvageElectricEelMedium:
     Name: FishT4
     Qty: 2-3
     Threshold: '0'
+  Item3:
+    Name: RareBaitElectricEelT4
+    Qty: 3-4
+    Threshold: '85000'
   MaxRoll: 100000
 FishSalvageElectricEelLarge:
   RollBonusSetting: AddToRoll
@@ -10536,6 +10964,10 @@ FishSalvageElectricEelLarge:
     Name: FishT4
     Qty: 3-4
     Threshold: '0'
+  Item3:
+    Name: RareBaitElectricEelT4
+    Qty: 3-4
+    Threshold: '85000'
   MaxRoll: 100000
 FishSalvageSquidSmall:
   RollBonusSetting: AddToRoll
@@ -10584,6 +11016,10 @@ FishSalvageSnail:
     Name: SnailSlimeT1
     Qty: '1'
     Threshold: '0'
+  Item3:
+    Name: RareBaitSnailT4
+    Qty: 3-4
+    Threshold: '85000'
   MaxRoll: 100000
 FishSalvageTreasure:
   RollBonusSetting: AddToRoll
@@ -10617,6 +11053,178 @@ FishSalvageTreasureIngots:
     Qty: 2-3
     Threshold: '0'
   MaxRoll: 100000
+FishSalvageTreasureGoodProvisions:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LBID]SE_Music_Fishing_Bucket'
+    Qty: '1'
+    Threshold: '50000'
+  Item2:
+    Name: '[LBID]CookingRecipes'
+    Qty: '1'
+    Threshold: '75000'
+  Item3:
+    Name: '[LBID]FishingTreasureProvisionsHerbs'
+    Qty: 1-2
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]FishingTreasureProvisionsIngredients'
+    Qty: 2-3
+    Threshold: '0'
+  Item5:
+    Name: '[LBID]FishingTreasureProvisionsMeat'
+    Qty: '1'
+    Threshold: '0'
+  Item6:
+    Name: fishsaucet1
+    Qty: 1-2
+    Threshold: '90000'
+  Item7:
+    Name: FishPheromonesT1
+    Qty: '1'
+    Threshold: '95000'
+  MaxRoll: 100000
+FishSalvageTreasurePigment:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LBID]SE_Music_Fishing_Bucket'
+    Qty: '1'
+    Threshold: '50000'
+  Item2:
+    Name: '[LBID]FishingTreasurePigments'
+    Qty: 3-5
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]DyeRandomRoll'
+    Qty: '1'
+    Threshold: '90000'
+  MaxRoll: 100000
+FishSalvageTreasureFishingGear:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LBID]SE_Music_Fishing_Bucket'
+    Qty: '1'
+    Threshold: '50000'
+  Item2:
+    Name: '[LTID]FishSalvageTreasureFishingGearQuality'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]RareBait'
+    Qty: '1'
+    Threshold: '90000'
+  MaxRoll: 100000
+FishSalvageTreasureFishingGearQuality:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: '[LBID]FishingTreasureGearT3'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]FishingTreasureGearT4'
+    Qty: '1'
+    Threshold: '90000'
+  MaxRoll: 100000
+FishSalvageTreasureMote:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LBID]SE_Music_Fishing_Bucket'
+    Qty: '1'
+    Threshold: '50000'
+  Item2:
+    Name: '[LBID]FishingTreasureMotes'
+    Qty: '3'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]FishingTreasureCreatures'
+    Qty: '1'
+    Threshold: '90000'
+  MaxRoll: 100000
+FishSalvageTreasureSeaweed:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LBID]SE_Music_Fishing_Bucket'
+    Qty: '1'
+    Threshold: '50000'
+  Item2:
+    Name: FishingSeaweedT1
+    Qty: 5-10
+    Threshold: '0'
+  Item3:
+    Name: FishPheromonesT1
+    Qty: '1'
+    Threshold: '95000'
+  MaxRoll: 100000
+FishSalvageTreasureBoot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LBID]SE_Music_Fishing_Bucket'
+    Qty: '1'
+    Threshold: '50000'
+  Item2:
+    Name: FishingBootT2
+    Qty: 5-10
+    Threshold: '0'
+  Item3:
+    Name: FishPheromonesT1
+    Qty: '1'
+    Threshold: '95000'
+  MaxRoll: 100000
+FishSalvageTreasureOar:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LBID]SE_Music_Fishing_Bucket'
+    Qty: '1'
+    Threshold: '50000'
+  Item2:
+    Name: FishingOarT2
+    Qty: 5-10
+    Threshold: '0'
+  Item3:
+    Name: FishPheromonesT1
+    Qty: '1'
+    Threshold: '95000'
+  MaxRoll: 100000
+FishSalvageTreasureSword:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LBID]SE_Music_Fishing_Bucket'
+    Qty: '1'
+    Threshold: '50000'
+  Item2:
+    Name: FishingFishSwordT2
+    Qty: 5-10
+    Threshold: '0'
+  Item3:
+    Name: FishPheromonesT1
+    Qty: '1'
+    Threshold: '95000'
+  MaxRoll: 100000
+FishSalvageTreasureHammer:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LBID]SE_Music_Fishing_Bucket'
+    Qty: '1'
+    Threshold: '50000'
+  Item2:
+    Name: FishingHeadedHammerT2
+    Qty: 5-10
+    Threshold: '0'
+  Item3:
+    Name: FishPheromonesT1
+    Qty: '1'
+    Threshold: '95000'
+  MaxRoll: 100000
 FishSalvageSeaweed:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10639,6 +11247,14 @@ FishSalvageAnchor:
   Item1:
     Name: IngotT2
     Qty: 3-4
+    Threshold: '0'
+  MaxRoll: 100000
+FishSalvageBigAnchor:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: IngotT3
+    Qty: 6-8
     Threshold: '0'
   MaxRoll: 100000
 FishSalvageOar:
@@ -11197,6 +11813,26 @@ FishSalvageStingrayLarge:
     Qty: 3-4
     Threshold: '60000'
   MaxRoll: 100000
+FishSalvageFatSalmon:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: FishT1
+    Qty: 3-4
+    Threshold: '0'
+  Item2:
+    Name: FishOilT1
+    Qty: 4-5
+    Threshold: '60000'
+  Item3:
+    Name: FishT2
+    Qty: 2-3
+    Threshold: '80000'
+  Item4:
+    Name: fishroet1
+    Qty: 4-6
+    Threshold: '0'
+  MaxRoll: 100000
 FishSalvageMissionItemCatfish:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -11253,6 +11889,70 @@ FishSalvageAnmisema:
     Qty: '5'
     Threshold: '0'
   MaxRoll: 100000
+FishSalvageSummerMedleySturgeonSmall:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_AeternumSturgeonBundle
+    Qty: '3'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_BrilliantAeternumSturgeonScale
+    Qty: '1'
+    Threshold: '50000'
+  MaxRoll: 100000
+FishSalvageSummerMedleySturgeonMedium:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_AeternumSturgeonBundle
+    Qty: '5'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_BrilliantAeternumSturgeonScale
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: SummerMedley_IntactAeternumSturgeonGland
+    Qty: '1'
+    Threshold: '90000'
+  MaxRoll: 100000
+FishSalvageSummerMedleySturgeonLarge:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_AeternumSturgeonBundle
+    Qty: '10'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_BrilliantAeternumSturgeonScale
+    Qty: 2-3
+    Threshold: '0'
+  Item3:
+    Name: SummerMedley_IntactAeternumSturgeonGland
+    Qty: '1'
+    Threshold: '75000'
+  MaxRoll: 100000
+FishSalvageSummerMedleyCacheT3:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_PristineSoakedWood
+    Qty: 1-4
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_AssortedCoral
+    Qty: 1-4
+    Threshold: '50000'
+  Item3:
+    Name: SummerMedley_PotentEtherVial
+    Qty: 1-4
+    Threshold: '50000'
+  Item4:
+    Name: SummerMedley_CautiouslyWrappedStuffing
+    Qty: 1-4
+    Threshold: '75000'
+  MaxRoll: 100000
 CreatureLootMaster:
   RollBonusSetting: ClampMax
   AND/OR: AND
@@ -11299,7 +11999,7 @@ CreatureLootMaster:
     Qty: '1'
     Threshold: '0'
   Item11:
-    Name: '[LTID]BagofJuniperBerries_Roll'
+    Name: '[LBID]EventDropKill'
     Qty: '1'
     Threshold: '0'
   Item12:
@@ -11341,6 +12041,10 @@ CreatureLootElite:
     Name: '[LBID]CreatureTrophyArtifacts'
     Qty: '1'
     Threshold: '99500'
+  Item8:
+    Name: '[LTID]PVPLootFilter'
+    Qty: '1'
+    Threshold: '99000'
   MaxRoll: 100000
 CreatureLootNamed:
   RollBonusSetting: AddToRoll
@@ -11374,6 +12078,10 @@ CreatureLootNamed:
     Name: '[LTID]SoloNamedCaches'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: '[LTID]PVPLootFilter'
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 0
 CreatureLootCommon:
   RollBonusSetting: ClampMax
@@ -12526,10 +13234,6 @@ ContainerLootSmall:
     Qty: '1'
     Threshold: '97500'
   Item6:
-    Name: '[LTID]VarangianChestFlameCoreNormalTop'
-    Qty: '1'
-    Threshold: '0'
-  Item7:
     Name: '[LBID]FemPattern'
     Qty: '1'
     Threshold: '92500'
@@ -12823,14 +13527,6 @@ WCGoldLockboxT1:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
-BagofJuniperBerries_Roll:
-  RollBonusSetting: ClampMax
-  AND/OR: OR
-  Item1:
-    Name: JuniperBerryT5
-    Qty: '0'
-    Threshold: '1'
-  MaxRoll: 1
 BagofJuniperBerries:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -12852,13 +13548,13 @@ BagofJuniperBerries60:
     Threshold: '0'
   MaxRoll: 100000
 BagofEarthGifts_Roll:
-  RollBonusSetting: ClampMax
+  RollBonusSetting: AddToRoll
   AND/OR: OR
   Item1:
-    Name: '[LBID]BagofEarthGifts'
-    Qty: '0'
-    Threshold: '1'
-  MaxRoll: 1
+    Name: '[LBID]EventDropGather'
+    Qty: '1'
+    Threshold: '60000'
+  MaxRoll: 100000
 BagofEarthGifts:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -12904,13 +13600,13 @@ BagofEarthGifts60:
     Threshold: '0'
   MaxRoll: 100000
 ConcealedVault_Roll:
-  RollBonusSetting: ClampMax
+  RollBonusSetting: AddToRoll
   AND/OR: OR
   Item1:
-    Name: '[LBID]ConcealedVault'
-    Qty: '0'
-    Threshold: '1'
-  MaxRoll: 1
+    Name: '[LBID]EventDropChest'
+    Qty: '1'
+    Threshold: '70000'
+  MaxRoll: 100000
 ConcealedVault:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -12955,14 +13651,50 @@ ConcealedVault60:
     Qty: 1-3
     Threshold: '0'
   MaxRoll: 100000
+RitualPouch_Roll:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: '[LBID]EventDropChest'
+    Qty: '1'
+    Threshold: '70000'
+  MaxRoll: 100000
+RitualPouch:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LBID]AlchemyCritters'
+    Qty: '1'
+    Threshold: '50000'
+  Item2:
+    Name: '[LBID]ArcanaRecoveryItems_PlayerLevel'
+    Qty: 3-4
+    Threshold: '0'
+  MaxRoll: 100000
+RitualPouch60:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: GypsumWhite
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]AlchemyCritters'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]ArcanaRecoveryItems_PlayerLevel'
+    Qty: 3-4
+    Threshold: '0'
+  MaxRoll: 100000
 SportsmanSpoils_Roll:
-  RollBonusSetting: ClampMax
+  RollBonusSetting: AddToRoll
   AND/OR: OR
   Item1:
     Name: '[LBID]SportsmanSpoils'
-    Qty: '0'
-    Threshold: '1'
-  MaxRoll: 1
+    Qty: '1'
+    Threshold: '50000'
+  MaxRoll: 100000
 SportsmanSpoils:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -14651,10 +15383,14 @@ OutpostRushRewardT1:
     Threshold: '0'
   Item2:
     Name: UmbralShardT1
-    Qty: '50'
+    Qty: '100'
     Threshold: '0'
   Item3:
     Name: GypsumRed
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]OPRPatterns'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -14667,10 +15403,14 @@ OutpostRushRewardLossT1:
     Threshold: '0'
   Item2:
     Name: UmbralShardT1
-    Qty: '50'
+    Qty: '100'
     Threshold: '0'
   Item3:
     Name: GypsumRed
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]OPRPatterns'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -14683,10 +15423,14 @@ OutpostRushRewardT2:
     Threshold: '0'
   Item2:
     Name: UmbralShardT1
-    Qty: '100'
+    Qty: '200'
     Threshold: '0'
   Item3:
     Name: GypsumRed
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]OPRPatterns'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -14699,10 +15443,14 @@ OutpostRushRewardT3:
     Threshold: '0'
   Item2:
     Name: UmbralShardT1
-    Qty: '100'
+    Qty: '300'
     Threshold: '0'
   Item3:
     Name: GypsumRed
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]OPRPatterns'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -14715,10 +15463,14 @@ OutpostRushRewardT4:
     Threshold: '0'
   Item2:
     Name: UmbralShardT1
-    Qty: '100'
+    Qty: '400'
     Threshold: '0'
   Item3:
     Name: GypsumRed
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]OPRPatterns'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -14785,6 +15537,10 @@ Arena3v3Reward_Win:
     Qty: '1'
     Threshold: '0'
   Item2:
+    Name: DailyArenaCache
+    Qty: '1'
+    Threshold: '0'
+  Item3:
     Name: '[LBID]PvP_Arena_Housing_Items'
     Qty: '1'
     Threshold: '97500'
@@ -14793,7 +15549,23 @@ Arena3v3Reward_GyspumGarnet:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Item1:
+    Name: DailyArenaCache
+    Qty: '1'
+    Threshold: '0'
+  Item2:
     Name: '[LTID]Arena3v3_GyspumGate'
+    Qty: '1'
+    Threshold: '50000'
+  MaxRoll: 100000
+DailyArenaCacheResults:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: '[LBID]ORArmors'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]OutpostRushWeaponRoll'
     Qty: '1'
     Threshold: '50000'
   MaxRoll: 100000
@@ -15122,6 +15894,10 @@ DarknessMajorT5:
     Name: '[LTID]DarknessMajorRollT5'
     Qty: '2'
     Threshold: '0'
+  Item2:
+    Name: '[LBID]EventDropDarkness'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMajorRollT3:
   RollBonusSetting: AddToRoll
@@ -15158,6 +15934,10 @@ DarknessMajorRollT5:
     Name: '[LBID]DarknessGearBucket'
     Qty: '1'
     Threshold: '99990'
+  Item3:
+    Name: '[LBID]EventDropDarkness'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 InvasionT4:
   RollBonusSetting: AddToRoll
@@ -16953,6 +17733,14 @@ DarknessMinor1:
     Name: '[LTID]DarknessFragments'
     Qty: '1'
     Threshold: '75000'
+  Item3:
+    Name: '[LTID]DarknessEliteRoll'
+    Qty: '1'
+    Threshold: '90000'
+  Item4:
+    Name: '[LBID]DarknessPerkItems'
+    Qty: '1'
+    Threshold: '99000'
   MaxRoll: 100000
 DarknessMinor2:
   RollBonusSetting: AddToRoll
@@ -16965,17 +17753,25 @@ DarknessMinor2:
     Name: '[LTID]DarknessFragments'
     Qty: '1'
     Threshold: '75000'
+  Item3:
+    Name: '[LTID]DarknessEliteRoll'
+    Qty: '1'
+    Threshold: '90000'
+  Item4:
+    Name: '[LBID]DarknessPerkItems'
+    Qty: '1'
+    Threshold: '99000'
   MaxRoll: 100000
 DarknessMinor1Roll:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
   Item1:
-    Name: '[LBID]ProcWeapons'
+    Name: '[LBID]DarknessWeaponBucket'
     Qty: '1'
     Threshold: '0'
   Item2:
-    Name: '[LTID]ProcArmor'
+    Name: '[LBID]DarknessArmorBucket'
     Qty: '1'
     Threshold: '0'
   Item3:
@@ -16983,7 +17779,7 @@ DarknessMinor1Roll:
     Qty: '1'
     Threshold: '90000'
   Item4:
-    Name: '[LBID]ProcShields'
+    Name: '[LBID]DarknessShieldsBucket'
     Qty: '1'
     Threshold: '91000'
   Item5:
@@ -17008,13 +17804,26 @@ DarknessMinor2Roll:
     Qty: '1'
     Threshold: '90000'
   Item4:
-    Name: '[LBID]ProcShields'
+    Name: '[LBID]DarknessShieldsBucket'
     Qty: '1'
     Threshold: '91000'
   Item5:
     Name: '[LBID]DarknessEventMaterials'
     Qty: '1'
     Threshold: '95000'
+  MaxRoll: 100000
+DarknessEliteRoll:
+  AND/OR: OR
+  UseLevelGS: 'TRUE'
+  HWMMult: 20
+  Item1:
+    Name: '[LBID]DarknessBreach_EliteArmor'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]DarknessBreach_EliteWeapon'
+    Qty: '1'
+    Threshold: '50000'
   MaxRoll: 100000
 DarknessMajor1Roll:
   RollBonusSetting: AddToRoll
@@ -17032,7 +17841,19 @@ DarknessMajor1Roll:
     Name: DarknessCoinBag
     Qty: '1'
     Threshold: '0'
-  MaxRoll: 0
+  Item4:
+    Name: '[LTID]DarknessMajorEliteRolls'
+    Qty: '1'
+    Threshold: '15000'
+  Item5:
+    Name: '[LBID]DarknessPerkItems'
+    Qty: '1'
+    Threshold: '65000'
+  Item6:
+    Name: '[LTID]DarknessMajor_NamedLimit'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100000
 DarknessMajor2Roll:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -17053,6 +17874,18 @@ DarknessMajor2Roll:
     Name: '[LTID]DarknessMajor2NamedRoll'
     Qty: '1'
     Threshold: '99000'
+  Item5:
+    Name: '[LTID]DarknessMajorEliteRolls'
+    Qty: '1'
+    Threshold: '0'
+  Item6:
+    Name: '[LBID]DarknessPerkItems'
+    Qty: 1-2
+    Threshold: '65000'
+  Item7:
+    Name: '[LTID]DarknessMajor_NamedLimit'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 DarknessMajor2Roll65:
   RollBonusSetting: AddToRoll
@@ -17074,6 +17907,18 @@ DarknessMajor2Roll65:
     Name: '[LTID]DarknessMajor2NamedRoll'
     Qty: '1'
     Threshold: '90000'
+  Item5:
+    Name: '[LTID]DarknessMajorEliteRolls'
+    Qty: '1'
+    Threshold: '0'
+  Item6:
+    Name: '[LBID]DarknessPerkItems'
+    Qty: 1-2
+    Threshold: '60000'
+  Item7:
+    Name: '[LTID]DarknessMajor_NamedLimit'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 DarknessMajor2NamedRoll:
   RollBonusSetting: AddToRoll
@@ -17083,25 +17928,36 @@ DarknessMajor2NamedRoll:
     Name: '[LBID]DarknessGearbucket'
     Qty: '1'
     Threshold: '0'
-  Item2:
-    Name: '[LBID]RewardBreachGearBucket'
+  MaxRoll: 100000
+DarknessMajor_NamedLimit:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: '[LIM]DarknessBreachNamed'
+  TriggerLimitOnVisit: '1'
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LBID]DarknessGearbucket'
     Qty: '1'
-    Threshold: '35000'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]GlobalNamedList'
+    Qty: '1'
+    Threshold: '60000'
   MaxRoll: 100000
 DarknessMajor1:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
   Item1:
-    Name: '[LBID]ProcWeapons'
+    Name: '[LBID]DarknessWeaponBucket'
     Qty: '1'
     Threshold: '0'
   Item2:
-    Name: '[LTID]ProcArmor'
+    Name: '[LBID]DarknessArmorBucket'
     Qty: '1'
     Threshold: '0'
   Item3:
-    Name: '[LBID]ProcShields'
+    Name: '[LBID]DarknessShieldsBucket'
     Qty: '1'
     Threshold: '91000'
   Item4:
@@ -17129,6 +17985,19 @@ DarknessMajor2:
     Name: '[LBID]DarknessEventMaterials'
     Qty: '1'
     Threshold: '95000'
+  MaxRoll: 100000
+DarknessMajorEliteRolls:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LTID]DarknessEliteRoll'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]DarknessEliteRoll'
+    Qty: '1'
+    Threshold: '50000'
   MaxRoll: 100000
 AwardCorruptedRoll:
   RollBonusSetting: AddToRoll
@@ -17544,6 +18413,18 @@ AwardSwampBeastEvent:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
+Arena_PVP_Limit_ReachedEvent:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]PvE_OrangeGypsum'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]PvE_Umbrals'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
 PvE_OrangeGypsum:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -17604,6 +18485,10 @@ War:
     Name: '[LBID]WarGearBucket'
     Qty: '1'
     Threshold: '90000'
+  Item5:
+    Name: '[LBID]WarPatterns'
+    Qty: '2'
+    Threshold: '0'
   MaxRoll: 100000
 Invasion1Roll:
   RollBonusSetting: AddToRoll
@@ -18089,6 +18974,442 @@ QuestReward_MedicineChest:
     Name: PotionHealthT1
     Qty: '5'
     Threshold: '0'
+  MaxRoll: 100000
+SummerMedley_Stage_T1:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]SummerMedley_Stage_T1_Levelcheck'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]GypsumWhiteTable'
+    Qty: '2'
+    Threshold: '0'
+  MaxRoll: 100000
+SummerMedley_Stage_T2:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]SummerMedley_Stage_T2_Levelcheck'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]GypsumWhiteTable'
+    Qty: '2'
+    Threshold: '0'
+  MaxRoll: 100000
+SummerMedley_Stage_T3:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]SummerMedley_Stage_T3_Levelcheck'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]GypsumWhiteTable'
+    Qty: '2'
+    Threshold: '0'
+  MaxRoll: 100000
+SummerMedley_Stage_T1_Levelcheck:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: Level
+  Item1:
+    Name: SummerMedley_Container_HastilyPackedBasket
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_Container_HastilyPackedBasket_Lvl15
+    Qty: '1'
+    Threshold: '14'
+  MaxRoll: 0
+SummerMedley_Stage_T2_Levelcheck:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: Level
+  Item1:
+    Name: SummerMedley_Container_BeautifullyPackedBasket
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_Container_BeautifullyPackedBasket_Lvl15
+    Qty: '1'
+    Threshold: '14'
+  MaxRoll: 0
+SummerMedley_Stage_T3_Levelcheck:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: Level
+  Item1:
+    Name: SummerMedley_Container_ExquisitelyPackedBasket
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_Container_ExquisitelyPackedBasket_Lvl15
+    Qty: '1'
+    Threshold: '14'
+  MaxRoll: 0
+HastilyPackedBasket:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_Token
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100000
+BeautifullyPackedBasket:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_Token
+    Qty: '3'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_PremiumToken
+    Qty: '1'
+    Threshold: '95000'
+  Item3:
+    Name: '[LBID]SummerMedleyPatterns'
+    Qty: '1'
+    Threshold: '97500'
+  MaxRoll: 100000
+ExquisitelyPackedBasket:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_Token
+    Qty: '5'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_PremiumToken
+    Qty: '1'
+    Threshold: '90000'
+  Item3:
+    Name: '[LBID]SummerMedleyPatterns'
+    Qty: '1'
+    Threshold: '96500'
+  MaxRoll: 100000
+SummerMedley_Maudlindust_Particle:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: SummerMedley_Maudlindust
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+MaudlinMusicBad:
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_Maudlindust
+    Qty: '2'
+    Threshold: '0'
+  Item2:
+    Name: BaitMaudlinBugT1
+    Qty: '3'
+    Threshold: '0'
+  MaxRoll: 100000
+MaudlinMusicOkay:
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_Maudlindust
+    Qty: '3'
+    Threshold: '0'
+  Item2:
+    Name: BaitMaudlinBugT1
+    Qty: '5'
+    Threshold: '0'
+  MaxRoll: 100000
+MaudlinMusicGreat:
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_Maudlindust
+    Qty: '4'
+    Threshold: '0'
+  Item2:
+    Name: BaitMaudlinBugT1
+    Qty: '7'
+    Threshold: '0'
+  MaxRoll: 100000
+MaudlinMusicAmazing:
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_Maudlindust
+    Qty: '5'
+    Threshold: '0'
+  Item2:
+    Name: BaitMaudlinBugT1
+    Qty: '10'
+    Threshold: '0'
+  MaxRoll: 100000
+ShredlyMusicBad:
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]ShredlyPremiumToken'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_Token
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100000
+ShredlyMusicOkay:
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]ShredlyPremiumToken'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_Token
+    Qty: '2'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]SummerMedleyPatterns'
+    Qty: '1'
+    Threshold: '97500'
+  MaxRoll: 100000
+ShredlyMusicGreat:
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]ShredlyPremiumToken'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_Token
+    Qty: '4'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]SummerMedleyPatterns'
+    Qty: '1'
+    Threshold: '95000'
+  MaxRoll: 100000
+ShredlyMusicAmazing:
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]ShredlyPremiumToken'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_Token
+    Qty: '5'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]SummerMedleyPatterns'
+    Qty: '1'
+    Threshold: '92500'
+  MaxRoll: 100000
+ShredlyPremiumToken:
+  AND/OR: AND
+  Conditions: '[LIM]ShredlyPremiumToken'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: SummerMedley_PremiumToken
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+13_Summer_01_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: 2hInstrumentGuitarT2
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: Waltz_Guitar_Part1_Page1
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: Waltz_Guitar_Part2_Page1
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+13_Summer_02_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: 2hFishingPoleT1
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_ScaledustDelight
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+13_Summer_03_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_PristineSoakedWood
+    Qty: '5'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_AssortedCoral
+    Qty: '3'
+    Threshold: '0'
+  Item3:
+    Name: SummerMedley_CautiouslyWrappedStuffing
+    Qty: '2'
+    Threshold: '0'
+  Item4:
+    Name: SummerMedley_LightEtherVial
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+13_Summer_04_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: 2hInstrumentMandolinT2
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]13_Summer_04_Songs_Loot'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: SummerMedley_Token
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+13_Summer_04_Songs_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: Honey_Mandolin_Part1_Page1
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: Potters_Mandolin_Part1_Page1
+    Qty: '1'
+    Threshold: '33333'
+  Item3:
+    Name: MrHarrison_Mandolin_Part1_Page1
+    Qty: '1'
+    Threshold: '66667'
+  MaxRoll: 100000
+13_Summer_05_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: 2hInstrumentUprightBassT2
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]13_Summer_05_Songs_Loot'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: SummerMedley_Token
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+13_Summer_05_Songs_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: Honey_URBass_Part1_Page1
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: Potters_URBass_Part1_Page1
+    Qty: '1'
+    Threshold: '33333'
+  Item3:
+    Name: MrHarrison_URBass_Part1_Page1
+    Qty: '1'
+    Threshold: '66667'
+  MaxRoll: 100000
+13_Summer_06_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: 2hInstrumentDrumT2
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]13_Summer_06_Songs_Loot'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: SummerMedley_Token
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+13_Summer_06_Songs_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: Honey_Drums_Part1_Page1
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: Potters_Drums_Part1_Page1
+    Qty: '1'
+    Threshold: '33333'
+  Item3:
+    Name: MrHarrison_Drums_Part1_Page1
+    Qty: '1'
+    Threshold: '66667'
+  MaxRoll: 100000
+13_Summer_07_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_GrilledFishPlate
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: SummerMedley_Kebabs
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: SummerMedley_FirecrackerSturgeon
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+13_Summer_08_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: 2hInstrumentFluteT2
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: Flourish_AzothFlute_Part1_Page1
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: SummerMedley_Token
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+13_Summer_09_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: SummerMedley_PremiumToken
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]13_Summer_09_Songs_Loot'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+13_Summer_09_Songs_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: Honey_Guitar_Part1_Page1
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: Potters_Guitar_Part1_Page1
+    Qty: '1'
+    Threshold: '33333'
+  Item3:
+    Name: MrHarrison_Guitar_Part1_Page1
+    Qty: '1'
+    Threshold: '66667'
   MaxRoll: 100000
 QuestReward_MB_HealthPotion_Pouch:
   RollBonusSetting: AddToRoll
@@ -19276,114 +20597,13 @@ GypsumWhiteTable:
     Qty: '1'
     Threshold: '59'
   MaxRoll: 0
-SB_WaspGooDrop:
-  AND/OR: OR
-  Item1:
-    Name: SB_WispyWaspGoo
-    Qty: '1'
-    Threshold: '26'
-  MaxRoll: 100
-SpringtideBloom_Village_GiftBag:
-  AND/OR: AND
-  Item1:
-    Name: '[LBID]SpringtideCoinBag'
-    Qty: '1'
-    Threshold: '1'
-  Item2:
-    Name: Springtide_Token
-    Qty: '10'
-    Threshold: '1'
-  Item3:
-    Name: '[LTID]SpringtideBloom_Village_GiftBag_Patterns'
-    Qty: '1'
-    Threshold: '66'
-  MaxRoll: 100
-SpringtideBloom_Village_GiftBag_Patterns:
-  AND/OR: OR
-  Item1:
-    Name: '[LBID]SpringtidePatterns2022'
-    Qty: '1'
-    Threshold: '96000'
-  Item2:
-    Name: '[LBID]SpringtideGS600Patterns2022'
-    Qty: '1'
-    Threshold: '99500'
-  MaxRoll: 100000
-SpringtideBloom_Centerpiece:
-  AND/OR: AND
-  Item1:
-    Name: SB_WispySpritz
-    Qty: 1-3
-    Threshold: '1'
-  Item2:
-    Name: '[LTID]GypsumWhiteTable'
-    Qty: '1'
-    Threshold: '1'
-  Item3:
-    Name: '[LTID]SpringtideBloom_Centerpiece_Extras'
-    Qty: '1'
-    Threshold: '1'
-  Item4:
-    Name: Springtide_Token
-    Qty: '10'
-    Threshold: '1'
-  MaxRoll: 100
-SpringtideBloom_Centerpiece_Extras:
-  AND/OR: AND
-  Item1:
-    Name: SB_WispySpritz
-    Qty: 1-5
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]DyeRandomRoll'
-    Qty: '1'
-    Threshold: '33333'
-  Item3:
-    Name: SBConsumable_SpringtideDram
-    Qty: '1'
-    Threshold: '66666'
-  Item4:
-    Name: SBConsumable_SpringtideWafer
-    Qty: '1'
-    Threshold: '77777'
-  Item5:
-    Name: SBConsumable_SpringtideCrumble
-    Qty: '1'
-    Threshold: '88888'
-  MaxRoll: 100000
 Spring_Prismabloom_Roll:
+  RollBonusSetting: ClampMax
   AND/OR: OR
   Item1:
-    Name: '[LTID]Spring_Prismabloom_Token_Roll'
-    Qty: '1'
-    Threshold: '25000'
-  Item2:
-    Name: '[LTID]Spring_Prismabloom_Premium_Roll'
-    Qty: '1'
-    Threshold: '95000'
-  MaxRoll: 100000
-Spring_Prismabloom_Token_Roll:
-  AND/OR: AND
-  Conditions: '[LIM]Spring_Prismabloom_Token_Limit'
-  Item1:
-    Name: Springtide_Token
-    Qty: '1'
+    Name: WoodT1
+    Qty: '0'
     Threshold: '1'
-  MaxRoll: 100
-Spring_Prismabloom_Premium_Roll:
-  AND/OR: AND
-  Conditions: '[LIM]Spring_Prismabloom_Premium_Limit'
-  Item1:
-    Name: Springtide_PremiumToken
-    Qty: '1'
-    Threshold: '1'
-  MaxRoll: 100
-Spring_Wispybloom:
-  AND/OR: AND
-  Item1:
-    Name: SB_Wispybloom
-    Qty: '14'
-    Threshold: '0'
   MaxRoll: 1
 MutatorLoot_Fire:
   RollBonusSetting: AddToRoll
@@ -19689,6 +20909,14 @@ BagAT5_MakeGood:
   Item1:
     Name: BagAT5
     Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+BagGypsum10_MakeGood:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: GypsumOrb
+    Qty: '10'
     Threshold: '0'
   MaxRoll: 1
 CS_MakeGood:
@@ -21103,6 +22331,10 @@ Loot_LegacyNamedItems:
     Name: '[LBID]LegacyNamedItems'
     Qty: '1'
     Threshold: '0'
+  Item2:
+    Name: '[LBID]JoelsHiddenTreasures'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 1
 BrimstoneSarcophagi:
   RollBonusSetting: ClampMax
@@ -21230,6 +22462,10 @@ ChestLootEliteSarcophagiItemRoll:
     Name: '[LTID]ProcArmorOrWeapon'
     Qty: '1'
     Threshold: '60000'
+  Item4:
+    Name: '[LTID]PVPLootFilter'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BrimstoneSulfurSarcophagi:
   RollBonusSetting: ClampMax
@@ -21587,6 +22823,37 @@ BrimstoneGlyphCommon_LegionHQ:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
+WorldEvent_Crassus_NormalLoot:
+  AND/OR: OR
+  Item1:
+    Name: '[LTID]WorldEvent_Crassus_ProcArmorOrWeapon'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]WorldEvent_Crassus_GlobalNamedList'
+    Qty: '1'
+    Threshold: '90000'
+  Item3:
+    Name: '[LBID]WorldEvent_Crassus_NamedList'
+    Qty: '1'
+    Threshold: '95000'
+  MaxRoll: 100000
+WorldEvent_Crassus_ProcArmorOrWeapon:
+  AND/OR: OR
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LBID]WorldEvent_Crassus_ProcWeapons'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]WorldEvent_Crassus_ProcArmor'
+    Qty: '1'
+    Threshold: '50000'
+  Item3:
+    Name: '[LBID]WorldEvent_Crassus_ProcShields'
+    Qty: '1'
+    Threshold: '97000'
+  MaxRoll: 100000
 WorldEvent_Crassus_BonusLoot:
   AND/OR: AND
   Item1:
@@ -21611,7 +22878,7 @@ WorldEvent_Crassus_PerkCheck:
   Item1:
     Name: '[LBID]WorldEvent_Crassus_WeaponPerkItems'
     Qty: '1'
-    Threshold: '75000'
+    Threshold: '0'
   MaxRoll: 100000
 WorldEvent_Crassus_BonusOverride:
   AND/OR: AND
@@ -21854,3 +23121,322 @@ Empty:
   AND/OR: AND
   UseLevelGS: 'TRUE'
   MaxRoll: 0
+PlayerMaster:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]PVPLootFilter'
+    Qty: 1-2
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]PVPExtraLootChance'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: '[LTID]PVPCraftingResources_Filter'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+PVPLootFilter:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: Level
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LTID]PVPNoTrinket'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]PVPWithTrinket'
+    Qty: '1'
+    Threshold: '59'
+  MaxRoll: 1
+PVPNoTrinket:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LTID]PVPDropArmor'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]PVPDropWeapon'
+    Qty: '1'
+    Threshold: '65000'
+  MaxRoll: 100000
+PVPWithTrinket:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LTID]PVPDropArmor'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]PVPDropWeapon'
+    Qty: '1'
+    Threshold: '60000'
+  Item3:
+    Name: '[LBID]PVPDropTrinkets'
+    Qty: '1'
+    Threshold: '90000'
+  MaxRoll: 100000
+PVPDropArmor:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LBID]PVPDropArmorHeavy'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]PVPDropArmorMedium'
+    Qty: '1'
+    Threshold: '32000'
+  Item3:
+    Name: '[LBID]PVPDropArmorLight'
+    Qty: '1'
+    Threshold: '66000'
+  MaxRoll: 100000
+PVPExtraLootChance:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LTID]PVPLootFilter'
+    Qty: '1'
+    Threshold: '80000'
+  MaxRoll: 100000
+PVPCraftingResources_Filter:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LTID]PVPCraftingLoot_UncommonChances'
+    Qty: '1'
+    Threshold: '50000'
+  Item2:
+    Name: '[LBID]PVPCraftingLoot_Rare'
+    Qty: '1'
+    Threshold: '95000'
+  MaxRoll: 100000
+PVPCraftingLoot_UncommonChances:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LBID]PVPCraftingLoot_Uncommon'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]PVPCraftingLoot_Uncommon'
+    Qty: 1-2
+    Threshold: '80000'
+  MaxRoll: 100000
+ItemCastLegendaryHead:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryChest:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryHands:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryLegs:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryFeet:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendarySword:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryHatchet:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryRapier:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendarySpear:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryGreatAxe:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryWarHammer:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryGreatSword:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryBow:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryMusket:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryBlunderbuss:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryLifeStaff:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryFireStaff:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryIceGauntlet:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryVoidGauntlet:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryShield:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryRing:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryAmulet:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+ItemCastLegendaryEarring:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]GypsumCasts'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
