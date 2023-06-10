@@ -13957,70 +13957,6 @@ SE_Music_Common:
     SoupDay_Drums_Part1_Page1                                                         1 FALSE                           
     SoupDay_URBass_Part1_Page1                                                        1 FALSE                           
     Canarios_Guitar_Part1_Page1                                                       1 FALSE      CanaryMine           
-    Wayfaring_Guitar_Part1_Page1                                                      1 FALSE                           
-    Wayfaring_Guitar_Part2_Page1                                                      1 FALSE                           
-    Wayfaring_Mandolin_Part1_Page1                                                    1 FALSE                           
-    Wayfaring_Drums_Part1_Page1                                                       1 FALSE                           
-    SecondComing_Guitar_Part1_Page1                                                   1 FALSE                           
-    SecondComing_Guitar_Part1_Page2                                                   1 FALSE                           
-    SecondComing_Guitar_Part1_Page3                                                   1 FALSE                           
-    SecondComing_Mandolin_Part1_Page1                                                 1 FALSE                           
-    SecondComing_Mandolin_Part1_Page2                                                 1 FALSE                           
-    SecondComing_Mandolin_Part1_Page3                                                 1 FALSE                           
-    SecondComing_Mandolin_Part2_Page1                                                 1 FALSE                           
-    SecondComing_Mandolin_Part2_Page2                                                 1 FALSE                           
-    SecondComing_Mandolin_Part2_Page3                                                 1 FALSE                           
-    SecondComing_Drums_Part1_Page1                                                    1 FALSE                           
-    SecondComing_Drums_Part1_Page2                                                    1 FALSE                           
-    SecondComing_Drums_Part1_Page3                                                    1 FALSE                           
-    WindswardShack_Guitar_Part1_Page1                                                 1 FALSE                           
-    WindswardShack_Guitar_Part2_Page1                                                 1 FALSE                           
-    WindswardShack_Mandolin_Part1_Page1                                               1 FALSE                           
-    WindswardShack_Drums_Part1_Page1                                                  1 FALSE                           
-    PoundHammer_Guitar_Part1_Page1                                                    1 FALSE                           
-    PoundHammer_Guitar_Part1_Page2                                                    1 FALSE                           
-    PoundHammer_Guitar_Part2_Page1                                                    1 FALSE                           
-    PoundHammer_Guitar_Part2_Page2                                                    1 FALSE                           
-    PoundHammer_Mandolin_Part1_Page1                                                  1 FALSE                           
-    PoundHammer_Mandolin_Part1_Page2                                                  1 FALSE                           
-    PoundHammer_Drums_Part1_Page1                                                     1 FALSE                           
-    PoundHammer_Drums_Part1_Page2                                                     1 FALSE                           
-    SapBrightwood_Guitar_Part1_Page1                                                  1 FALSE                           
-    SapBrightwood_Guitar_Part2_Page1                                                  1 FALSE                           
-    SapBrightwood_Mandolin_Part1_Page1                                                1 FALSE                           
-    SapBrightwood_Drums_Part1_Page1                                                   1 FALSE                           
-    MyBeef_Guitar_Part1_Page1                                                         1 FALSE                           
-    MyBeef_Guitar_Part1_Page2                                                         1 FALSE                           
-    MyBeef_Mandolin_Part1_Page1                                                       1 FALSE                           
-    MyBeef_Mandolin_Part1_Page2                                                       1 FALSE                           
-    Gatherers_Guitar_Part1_Page1                                                      1 FALSE                           
-    Gatherers_Mandolin_Part1_Page1                                                    1 FALSE                           
-    Gatherers_Drums_Part1_Page1                                                       1 FALSE                           
-    Sword_Guitar_Part1_Page1                                                          1 FALSE                           
-    Sword_Guitar_Part1_Page2                                                          1 FALSE                           
-    Sword_Mandolin_Part1_Page1                                                        1 FALSE                           
-    Sword_Mandolin_Part1_Page2                                                        1 FALSE                           
-    Sword_Drums_Part1_Page1                                                           1 FALSE                           
-    Sword_Drums_Part1_Page2                                                           1 FALSE                           
-    OldWood_Guitar_Part1_Page1                                                        1 FALSE                           
-    OldWood_Guitar_Part1_Page2                                                        1 FALSE                           
-    OldWood_Guitar_Part2_Page1                                                        1 FALSE                           
-    OldWood_Guitar_Part2_Page2                                                        1 FALSE                           
-    OldWood_Mandolin_Part1_Page1                                                      1 FALSE                           
-    OldWood_Mandolin_Part1_Page2                                                      1 FALSE                           
-    OldWood_Drums_Part1_Page1                                                         1 FALSE                           
-    OldWood_Drums_Part1_Page2                                                         1 FALSE                           
-    Honor_Guitar_Part1_Page1                                                          1 FALSE                           
-    Honor_Mandolin_Part1_Page1                                                        1 FALSE                           
-    Honor_Drums_Part1_Page1                                                           1 FALSE                           
-    Tavern_Guitar_Part1_Page1                                                         1 FALSE                           
-    Tavern_Guitar_Part1_Page2                                                         1 FALSE                           
-    Tavern_Guitar_Part2_Page1                                                         1 FALSE                           
-    Tavern_Guitar_Part2_Page2                                                         1 FALSE                           
-    Tavern_Mandolin_Part1_Page1                                                       1 FALSE                           
-    Tavern_Mandolin_Part1_Page2                                                       1 FALSE                           
-    Tavern_Drums_Part1_Page1                                                          1 FALSE                           
-    Tavern_Drums_Part1_Page2                                                          1 FALSE                           
 DevStreamEventGear0:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -19142,12 +19078,103 @@ PVPCraftingLoot_Rare:
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
     ShardOfPrideT1                                                                    1 False      Player               
-SE_MusicPages_Shredly:
+Trial_Sandworm_WeeklyBossLoot:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    YAAAHHHH_Guitar_Part1_Page1                                                       1 FALSE                           
-    YAAAHHHH_Mandolin_Part1_Page1                                                     1                                 
+    MediumHead_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    MediumChest_Sandworm_Trial_Named_T5                                               1 FALSE                           
+    MediumHands_Sandworm_Trial_Named_T5                                               1 FALSE                           
+    MediumLegs_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    MediumFeet_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    HeavyHead_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    HeavyChest_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    HeavyHands_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    HeavyLegs_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    HeavyFeet_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    LightHead_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    LightChest_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    LightHands_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    LightLegs_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    LightFeet_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    Sandworm_Trial_WeaponLongsword_T5                                                 1 FALSE                           
+    Sandworm_Trial_WeaponGreatAxe_T5                                                  1 FALSE                           
+    Sandworm_Trial_WeaponMusket_T5                                                    1 FALSE                           
+    Sandworm_Trial_WeaponBlunderbuss_T5                                               1 FALSE                           
+    Sandworm_Trial_WeaponBow_T5                                                       1 FALSE                           
+    Sandworm_Trial_WeaponThrowingAxe_T5                                               1 FALSE                           
+    Sandworm_Trial_WeaponFireStaff_T5                                                 1 FALSE                           
+    Sandworm_Trial_WeaponLifeStaff_T5                                                 1 FALSE                           
+    Sandworm_Trial_WeaponWarhammer_T5                                                 1 FALSE                           
+    Sandworm_Trial_WeaponGreatsword_T5                                                1 FALSE                           
+    Sandworm_Trial_WeaponRapier_T5                                                    1 FALSE                           
+    Sandworm_Trial_WeaponSpear_T5                                                     1 FALSE                           
+    Sandworm_Trial_WeaponIceGauntlet_T5                                               1 FALSE                           
+    Sandworm_Trial_WeaponVoidGauntlet_T5                                              1 FALSE                           
+    Sandworm_Trial_WeaponKiteShield_T5                                                1 FALSE                           
+    Sandworm_Trial_WeaponRoundShieldT5                                                1 FALSE                           
+    Sandworm_Trial_WeaponTowerShield_T5                                               1 FALSE                           
+    Sandworm_Trial_AmuletT5                                                           1 FALSE                           
+    Sandworm_Trial_RingT5                                                             1 FALSE                           
+    Sandworm_Trial_EarringT5                                                          1 FALSE                           
+Trial_Sandworm_NamedList:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    MediumHead_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    MediumChest_Sandworm_Trial_Named_T5                                               1 FALSE                           
+    MediumHands_Sandworm_Trial_Named_T5                                               1 FALSE                           
+    MediumLegs_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    MediumFeet_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    HeavyHead_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    HeavyChest_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    HeavyHands_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    HeavyLegs_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    HeavyFeet_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    LightHead_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    LightChest_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    LightHands_Sandworm_Trial_Named_T5                                                1 FALSE                           
+    LightLegs_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    LightFeet_Sandworm_Trial_Named_T5                                                 1 FALSE                           
+    Sandworm_Trial_WeaponLongsword_T5                                                 1 FALSE                           
+    Sandworm_Trial_WeaponGreatAxe_T5                                                  1 FALSE                           
+    Sandworm_Trial_WeaponMusket_T5                                                    1 FALSE                           
+    Sandworm_Trial_WeaponBlunderbuss_T5                                               1 FALSE                           
+    Sandworm_Trial_WeaponBow_T5                                                       1 FALSE                           
+    Sandworm_Trial_WeaponThrowingAxe_T5                                               1 FALSE                           
+    Sandworm_Trial_WeaponFireStaff_T5                                                 1 FALSE                           
+    Sandworm_Trial_WeaponLifeStaff_T5                                                 1 FALSE                           
+    Sandworm_Trial_WeaponWarhammer_T5                                                 1 FALSE                           
+    Sandworm_Trial_WeaponGreatsword_T5                                                1 FALSE                           
+    Sandworm_Trial_WeaponRapier_T5                                                    1 FALSE                           
+    Sandworm_Trial_WeaponSpear_T5                                                     1 FALSE                           
+    Sandworm_Trial_WeaponIceGauntlet_T5                                               1 FALSE                           
+    Sandworm_Trial_WeaponVoidGauntlet_T5                                              1 FALSE                           
+    Sandworm_Trial_WeaponKiteShield_T5                                                1 FALSE                           
+    Sandworm_Trial_WeaponRoundShieldT5                                                1 FALSE                           
+    Sandworm_Trial_WeaponTowerShield_T5                                               1 FALSE                           
+    Sandworm_Trial_AmuletT5                                                           1 FALSE                           
+    Sandworm_Trial_RingT5                                                             1 FALSE                           
+    Sandworm_Trial_EarringT5                                                          1 FALSE                           
+Trial_Sandworm_Armor:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    MediumHead_Sandworm_Trial_T5                                                      1 FALSE                           
+    MediumChest_Sandworm_Trial_T5                                                     1 FALSE                           
+    MediumHands_Sandworm_Trial_T5                                                     1 FALSE                           
+    MediumLegs_Sandworm_Trial_T5                                                      1 FALSE                           
+    MediumFeet_Sandworm_Trial_T5                                                      1 FALSE                           
+    HeavyHead_Sandworm_Trial_T5                                                       1 FALSE                           
+    HeavyChest_Sandworm_Trial_T5                                                      1 FALSE                           
+    HeavyHands_Sandworm_Trial_T5                                                      1 FALSE                           
+    HeavyLegs_Sandworm_Trial_T5                                                       1 FALSE                           
+    HeavyFeet_Sandworm_Trial_T5                                                       1 FALSE                           
+    LightHead_Sandworm_Trial_T5                                                       1 FALSE                           
+    LightChest_Sandworm_Trial_T5                                                      1 FALSE                           
+    LightHands_Sandworm_Trial_T5                                                      1 FALSE                           
+    LightLegs_Sandworm_Trial_T5                                                       1 FALSE                           
+    LightFeet_Sandworm_Trial_T5                                                       1 FALSE                           
 Trial_S2_GlyphStones:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
