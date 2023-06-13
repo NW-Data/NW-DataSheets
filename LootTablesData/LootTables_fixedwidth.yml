@@ -5956,7 +5956,7 @@ FishingChestsFresh:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: Fresh
-  MaxRoll: 0
+  MaxRoll: 10
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
@@ -9077,6 +9077,8 @@ Arena3v3Reward_GyspumGarnet:
 DailyArenaCacheResults:
   RollBonusSetting: AddToRoll
   AND/OR: OR
+  UseLevelGS: 'TRUE'
+  HWMMult: 1000
   MaxRoll: 100000
   Items: |
     Entry        Threshold       Qty Name
