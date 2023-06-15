@@ -15441,7 +15441,7 @@ DailyArenaCacheResults:
     Qty: '1'
     Threshold: '0'
   Item2:
-    Name: '[LTID]OutpostRushWeaponRoll'
+    Name: '[LBID]OutpostRushNonNamedWeaponRoll'
     Qty: '1'
     Threshold: '50000'
   MaxRoll: 100000
@@ -22681,7 +22681,7 @@ Trial_Sandworm_MasterLoot:
     Threshold: '0'
   Item4:
     Name: UmbralShardT1
-    Qty: '100'
+    Qty: '500'
     Threshold: '0'
   MaxRoll: 0
 Trial_Sandworm_DailyLoot_Chest:
@@ -22692,7 +22692,7 @@ Trial_Sandworm_DailyLoot_Chest:
     Threshold: '0'
   Item2:
     Name: UmbralShardT1
-    Qty: '1000'
+    Qty: '2000'
     Threshold: '0'
   Item3:
     Name: Sandworm_Trial_Materia
@@ -22731,7 +22731,7 @@ Trial_Sandworm_WeeklyLoot_Chest:
     Threshold: '0'
   Item3:
     Name: UmbralShardT1
-    Qty: '2000'
+    Qty: '8000'
     Threshold: '0'
   Item4:
     Name: Sandworm_Trial_Materia

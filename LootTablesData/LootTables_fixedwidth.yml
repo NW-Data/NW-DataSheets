@@ -9084,7 +9084,7 @@ DailyArenaCacheResults:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LBID]ORArmors                                              
-    Item2           50000          1 [LTID]OutpostRushWeaponRoll                                 
+    Item2           50000          1 [LBID]OutpostRushNonNamedWeaponRoll                         
 Arena3v3_GyspumGate:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -13401,7 +13401,7 @@ Trial_Sandworm_MasterLoot:
     Item1               0          1 Trial_Sandworm_DailyBox                                     
     Item2               0          1 Trial_Sandworm_WeeklyBox                                    
     Item3               0          1 [LBID]Trial_Sandworm_Armor                                  
-    Item4               0        100 UmbralShardT1                                               
+    Item4               0        500 UmbralShardT1                                               
 Trial_Sandworm_DailyLoot_Chest:
   AND/OR: AND
   MaxRoll: 0
@@ -13409,7 +13409,7 @@ Trial_Sandworm_DailyLoot_Chest:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LTID]Trial_Sandworm_NamedOrRolled                          
-    Item2               0       1000 UmbralShardT1                                               
+    Item2               0       2000 UmbralShardT1                                               
     Item3               0        200 Sandworm_Trial_Materia                                      
     Item4               0          1 [LBID]ChestShards                                           
     Item5               0          1 GypsumOrb                                                   
@@ -13430,7 +13430,7 @@ Trial_Sandworm_WeeklyLoot_Chest:
     __________________________________________________________________________________________
     Item1               0          1 [LBID]Trial_Sandworm_WeeklyBossLoot                         
     Item2               0          3 GypsumOrb                                                   
-    Item3               0       2000 UmbralShardT1                                               
+    Item3               0       8000 UmbralShardT1                                               
     Item4               0        200 Sandworm_Trial_Materia                                      
     Item5               0          1 RuneSandwormT1                                              
 ItemCastLegendaryHead:
