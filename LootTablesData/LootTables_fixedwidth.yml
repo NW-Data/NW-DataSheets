@@ -2914,12 +2914,12 @@ DyePlantDesertRose:
 ArenaKeysAndParts:
   RollBonusSetting: AddToRoll
   AND/OR: OR
-  MaxRoll: 0
+  MaxRoll: 100000
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1          100000          0 [LBID]ArenaKeyWhole                                         
-    Item2          100000          0 [LBID]ArenaKeyParts                                         
+    Item1           94000          1 [LBID]ArenaKeyWhole                                         
+    Item2           95000          1 [LBID]ArenaKeyParts                                         
 MyrkgardKeyFragment1:
   RollBonusSetting: AddToRoll
   AND/OR: AND
