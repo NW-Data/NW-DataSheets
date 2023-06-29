@@ -5,11 +5,6 @@
         "ItemClassOverrides": ""
     },
     {
-        "ExclusiveLabelID": "EmptyGem",
-        "Weight": 100,
-        "ItemClassOverrides": ""
-    },
-    {
         "ExclusiveLabelID": "Strength",
         "Weight": 0,
         "ItemClassOverrides": ""
@@ -32,6 +27,11 @@
     {
         "ExclusiveLabelID": "Constitution",
         "Weight": 0,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "EmptyGem",
+        "Weight": 100,
         "ItemClassOverrides": ""
     },
     {

@@ -1612,8 +1612,8 @@
         "LimitNotificationLocTag": ""
     },
     {
-        "LootLimitID": "SummerMedley_PremiumToken",
-        "IsReplicated": true,
+        "LootLimitID": "ShredlyPremiumToken",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
