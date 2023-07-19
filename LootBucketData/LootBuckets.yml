@@ -13957,6 +13957,70 @@ SE_Music_Common:
     SoupDay_Drums_Part1_Page1                                                         1 FALSE                           
     SoupDay_URBass_Part1_Page1                                                        1 FALSE                           
     Canarios_Guitar_Part1_Page1                                                       1 FALSE      CanaryMine           
+    Wayfaring_Guitar_Part1_Page1                                                      1 FALSE                           
+    Wayfaring_Guitar_Part2_Page1                                                      1 FALSE                           
+    Wayfaring_Mandolin_Part1_Page1                                                    1 FALSE                           
+    Wayfaring_Drums_Part1_Page1                                                       1 FALSE                           
+    SecondComing_Guitar_Part1_Page1                                                   1 FALSE                           
+    SecondComing_Guitar_Part1_Page2                                                   1 FALSE                           
+    SecondComing_Guitar_Part1_Page3                                                   1 FALSE                           
+    SecondComing_Mandolin_Part1_Page1                                                 1 FALSE                           
+    SecondComing_Mandolin_Part1_Page2                                                 1 FALSE                           
+    SecondComing_Mandolin_Part1_Page3                                                 1 FALSE                           
+    SecondComing_Mandolin_Part2_Page1                                                 1 FALSE                           
+    SecondComing_Mandolin_Part2_Page2                                                 1 FALSE                           
+    SecondComing_Mandolin_Part2_Page3                                                 1 FALSE                           
+    SecondComing_Drums_Part1_Page1                                                    1 FALSE                           
+    SecondComing_Drums_Part1_Page2                                                    1 FALSE                           
+    SecondComing_Drums_Part1_Page3                                                    1 FALSE                           
+    WindswardShack_Guitar_Part1_Page1                                                 1 FALSE                           
+    WindswardShack_Guitar_Part2_Page1                                                 1 FALSE                           
+    WindswardShack_Mandolin_Part1_Page1                                               1 FALSE                           
+    WindswardShack_Drums_Part1_Page1                                                  1 FALSE                           
+    PoundHammer_Guitar_Part1_Page1                                                    1 FALSE                           
+    PoundHammer_Guitar_Part1_Page2                                                    1 FALSE                           
+    PoundHammer_Guitar_Part2_Page1                                                    1 FALSE                           
+    PoundHammer_Guitar_Part2_Page2                                                    1 FALSE                           
+    PoundHammer_Mandolin_Part1_Page1                                                  1 FALSE                           
+    PoundHammer_Mandolin_Part1_Page2                                                  1 FALSE                           
+    PoundHammer_Drums_Part1_Page1                                                     1 FALSE                           
+    PoundHammer_Drums_Part1_Page2                                                     1 FALSE                           
+    SapBrightwood_Guitar_Part1_Page1                                                  1 FALSE                           
+    SapBrightwood_Guitar_Part2_Page1                                                  1 FALSE                           
+    SapBrightwood_Mandolin_Part1_Page1                                                1 FALSE                           
+    SapBrightwood_Drums_Part1_Page1                                                   1 FALSE                           
+    MyBeef_Guitar_Part1_Page1                                                         1 FALSE                           
+    MyBeef_Guitar_Part1_Page2                                                         1 FALSE                           
+    MyBeef_Mandolin_Part1_Page1                                                       1 FALSE                           
+    MyBeef_Mandolin_Part1_Page2                                                       1 FALSE                           
+    Gatherers_Guitar_Part1_Page1                                                      1 FALSE                           
+    Gatherers_Mandolin_Part1_Page1                                                    1 FALSE                           
+    Gatherers_Drums_Part1_Page1                                                       1 FALSE                           
+    Sword_Guitar_Part1_Page1                                                          1 FALSE                           
+    Sword_Guitar_Part1_Page2                                                          1 FALSE                           
+    Sword_Mandolin_Part1_Page1                                                        1 FALSE                           
+    Sword_Mandolin_Part1_Page2                                                        1 FALSE                           
+    Sword_Drums_Part1_Page1                                                           1 FALSE                           
+    Sword_Drums_Part1_Page2                                                           1 FALSE                           
+    OldWood_Guitar_Part1_Page1                                                        1 FALSE                           
+    OldWood_Guitar_Part1_Page2                                                        1 FALSE                           
+    OldWood_Guitar_Part2_Page1                                                        1 FALSE                           
+    OldWood_Guitar_Part2_Page2                                                        1 FALSE                           
+    OldWood_Mandolin_Part1_Page1                                                      1 FALSE                           
+    OldWood_Mandolin_Part1_Page2                                                      1 FALSE                           
+    OldWood_Drums_Part1_Page1                                                         1 FALSE                           
+    OldWood_Drums_Part1_Page2                                                         1 FALSE                           
+    Honor_Guitar_Part1_Page1                                                          1 FALSE                           
+    Honor_Mandolin_Part1_Page1                                                        1 FALSE                           
+    Honor_Drums_Part1_Page1                                                           1 FALSE                           
+    Tavern_Guitar_Part1_Page1                                                         1 FALSE                           
+    Tavern_Guitar_Part1_Page2                                                         1 FALSE                           
+    Tavern_Guitar_Part2_Page1                                                         1 FALSE                           
+    Tavern_Guitar_Part2_Page2                                                         1 FALSE                           
+    Tavern_Mandolin_Part1_Page1                                                       1 FALSE                           
+    Tavern_Mandolin_Part1_Page2                                                       1 FALSE                           
+    Tavern_Drums_Part1_Page1                                                          1 FALSE                           
+    Tavern_Drums_Part1_Page2                                                          1 FALSE                           
 DevStreamEventGear0:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -19175,6 +19239,12 @@ Trial_Sandworm_Armor:
     LightHands_Sandworm_Trial_T5                                                      1 FALSE                           
     LightLegs_Sandworm_Trial_T5                                                       1 FALSE                           
     LightFeet_Sandworm_Trial_T5                                                       1 FALSE                           
+SE_MusicPages_Shredly:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    YAAAHHHH_Guitar_Part1_Page1                                                       1 FALSE                           
+    YAAAHHHH_Mandolin_Part1_Page1                                                     1                                 
 Trial_S2_GlyphStones:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags

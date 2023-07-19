@@ -6101,6 +6101,41 @@ FishingSalmonSpecial:
     Item1               0          1 FishingSalmonMediumT1                                       
     Item2              40          1 FishingSalmonLargeT1                                        
     Item3              96          1 FishingSalmonFatT1                                          
+FishingSummerMedleyHotspot:
+  RollBonusSetting: ClampMax
+  AND/OR: OR
+  Conditions: SummerFishRarity
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 FishingSummerMedleyCacheT3                                  
+    Item2           30000          1 FishingSummerMedleySturgeonSmallT3                          
+    Item3           60000          1 FishingSummerMedleySturgeonMediumT3                         
+    Item4           85000          1 FishingSummerMedleySturgeonLargeT3                          
+FishingSummerMedley:
+  RollBonusSetting: ClampMax
+  AND/OR: OR
+  Conditions: SummerFishRarity
+  MaxRoll: 120000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 [LTID]FishingSummerMedleyTrash                              
+    Item2           65000          1 FishingSummerMedleyCacheT3                                  
+    Item3           85000          1 FishingSummerMedleySturgeonSmallT3                          
+    Item4          105000          1 FishingSummerMedleySturgeonMediumT3                         
+    Item5          115000          1 FishingSummerMedleySturgeonLargeT3                          
+FishingSummerMedleyTrash:
+  RollBonusSetting: ClampMax
+  AND/OR: OR
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0        1-4 SummerMedley_PristineSoakedWood                             
+    Item2               0        1-4 SummerMedley_AssortedCoral                                  
+    Item3               0        1-4 SummerMedley_CautiouslyWrappedStuffing                      
 FishSalvageSmallCommon:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -6907,6 +6942,46 @@ FishSalvageAnmisema:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          5 BaitLegendaryFishT1                                         
+FishSalvageSummerMedleySturgeonSmall:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          3 SummerMedley_AeternumSturgeonBundle                         
+    Item2           50000          1 SummerMedley_BrilliantAeternumSturgeonScale                 
+FishSalvageSummerMedleySturgeonMedium:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          5 SummerMedley_AeternumSturgeonBundle                         
+    Item2               0          1 SummerMedley_BrilliantAeternumSturgeonScale                 
+    Item3           90000          1 SummerMedley_IntactAeternumSturgeonGland                    
+FishSalvageSummerMedleySturgeonLarge:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0         10 SummerMedley_AeternumSturgeonBundle                         
+    Item2               0        2-3 SummerMedley_BrilliantAeternumSturgeonScale                 
+    Item3           75000          1 SummerMedley_IntactAeternumSturgeonGland                    
+FishSalvageSummerMedleyCacheT3:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0        1-4 SummerMedley_PristineSoakedWood                             
+    Item2           50000        1-4 SummerMedley_AssortedCoral                                  
+    Item3           50000        1-4 SummerMedley_PotentEtherVial                                
+    Item4           75000        1-4 SummerMedley_CautiouslyWrappedStuffing                      
 CreatureLootMaster:
   RollBonusSetting: ClampMax
   AND/OR: AND
@@ -10967,6 +11042,304 @@ QuestReward_MedicineChest:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          5 PotionHealthT1                                              
+SummerMedley_Stage_T1:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 [LTID]SummerMedley_Stage_T1_Levelcheck                      
+    Item2               0          2 [LTID]GypsumWhiteTable                                      
+SummerMedley_Stage_T2:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 [LTID]SummerMedley_Stage_T2_Levelcheck                      
+    Item2               0          2 [LTID]GypsumWhiteTable                                      
+SummerMedley_Stage_T3:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 [LTID]SummerMedley_Stage_T3_Levelcheck                      
+    Item2               0          2 [LTID]GypsumWhiteTable                                      
+SummerMedley_Stage_T1_Levelcheck:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: Level
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 SummerMedley_Container_HastilyPackedBasket                  
+    Item2              14          1 SummerMedley_Container_HastilyPackedBasket_Lvl15            
+SummerMedley_Stage_T2_Levelcheck:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: Level
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 SummerMedley_Container_BeautifullyPackedBasket              
+    Item2              14          1 SummerMedley_Container_BeautifullyPackedBasket_Lvl15        
+SummerMedley_Stage_T3_Levelcheck:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: Level
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 SummerMedley_Container_ExquisitelyPackedBasket              
+    Item2              14          1 SummerMedley_Container_ExquisitelyPackedBasket_Lvl15        
+HastilyPackedBasket:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 SummerMedley_Token                                          
+BeautifullyPackedBasket:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          3 SummerMedley_Token                                          
+    Item2           95000          1 SummerMedley_PremiumToken                                   
+    Item3           97500          1 [LBID]SummerMedleyPatterns                                  
+ExquisitelyPackedBasket:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          5 SummerMedley_Token                                          
+    Item2           90000          1 SummerMedley_PremiumToken                                   
+    Item3           96500          1 [LBID]SummerMedleyPatterns                                  
+SummerMedley_Maudlindust_Particle:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 SummerMedley_Maudlindust                                    
+MaudlinMusicBad:
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          2 SummerMedley_Maudlindust                                    
+    Item2               0          3 BaitMaudlinBugT1                                            
+MaudlinMusicOkay:
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          3 SummerMedley_Maudlindust                                    
+    Item2               0          5 BaitMaudlinBugT1                                            
+MaudlinMusicGreat:
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          4 SummerMedley_Maudlindust                                    
+    Item2               0          7 BaitMaudlinBugT1                                            
+MaudlinMusicAmazing:
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          5 SummerMedley_Maudlindust                                    
+    Item2               0         10 BaitMaudlinBugT1                                            
+ShredlyMusicBad:
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 [LTID]ShredlyPremiumToken                                   
+    Item2               0          1 SummerMedley_Token                                          
+ShredlyMusicOkay:
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 [LTID]ShredlyPremiumToken                                   
+    Item2               0          2 SummerMedley_Token                                          
+    Item3           97500          1 [LBID]SummerMedleyPatterns                                  
+ShredlyMusicGreat:
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 [LTID]ShredlyPremiumToken                                   
+    Item2               0          4 SummerMedley_Token                                          
+    Item3           95000          1 [LBID]SummerMedleyPatterns                                  
+ShredlyMusicAmazing:
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 [LTID]ShredlyPremiumToken                                   
+    Item2               0          5 SummerMedley_Token                                          
+    Item3           92500          1 [LBID]SummerMedleyPatterns                                  
+ShredlyPremiumToken:
+  AND/OR: AND
+  Conditions: '[LIM]SummerMedley_PremiumToken'
+  TriggerLimitOnVisit: 'TRUE'
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 SummerMedley_PremiumToken                                   
+13_Summer_01_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 2hInstrumentGuitarT2                                        
+    Item2               0          1 Waltz_Guitar_Part1_Page1                                    
+    Item3               0          1 Waltz_Guitar_Part2_Page1                                    
+13_Summer_02_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 2hFishingPoleT1                                             
+    Item2               0          1 SummerMedley_ScaledustDelight                               
+13_Summer_03_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          5 SummerMedley_PristineSoakedWood                             
+    Item2               0          3 SummerMedley_AssortedCoral                                  
+    Item3               0          2 SummerMedley_CautiouslyWrappedStuffing                      
+    Item4               0          1 SummerMedley_LightEtherVial                                 
+13_Summer_04_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 2hInstrumentMandolinT2                                      
+    Item2               0          1 [LTID]13_Summer_04_Songs_Loot                               
+    Item3               0          1 SummerMedley_Token                                          
+13_Summer_04_Songs_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 Honey_Mandolin_Part1_Page1                                  
+    Item2           33333          1 Potters_Mandolin_Part1_Page1                                
+    Item3           66667          1 MrHarrison_Mandolin_Part1_Page1                             
+13_Summer_05_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 2hInstrumentUprightBassT2                                   
+    Item2               0          1 [LTID]13_Summer_05_Songs_Loot                               
+    Item3               0          1 SummerMedley_Token                                          
+13_Summer_05_Songs_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 Honey_URBass_Part1_Page1                                    
+    Item2           33333          1 Potters_URBass_Part1_Page1                                  
+    Item3           66667          1 MrHarrison_URBass_Part1_Page1                               
+13_Summer_06_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 2hInstrumentDrumT2                                          
+    Item2               0          1 [LTID]13_Summer_06_Songs_Loot                               
+    Item3               0          1 SummerMedley_Token                                          
+13_Summer_06_Songs_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 Honey_Drums_Part1_Page1                                     
+    Item2           33333          1 Potters_Drums_Part1_Page1                                   
+    Item3           66667          1 MrHarrison_Drums_Part1_Page1                                
+13_Summer_07_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 SummerMedley_GrilledFishPlate                               
+    Item2               0          1 SummerMedley_Kebabs                                         
+    Item3               0          1 SummerMedley_FirecrackerSturgeon                            
+13_Summer_08_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 2hInstrumentFluteT2                                         
+    Item2               0          1 Flourish_AzothFlute_Part1_Page1                             
+    Item3               0          1 SummerMedley_Token                                          
+13_Summer_09_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 SummerMedley_PremiumToken                                   
+    Item2               0          1 [LTID]13_Summer_09_Songs_Loot                               
+13_Summer_09_Songs_Loot:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 Honey_Guitar_Part1_Page1                                    
+    Item2           33333          1 Potters_Guitar_Part1_Page1                                  
+    Item3           66667          1 MrHarrison_Guitar_Part1_Page1                               
 QuestReward_MB_HealthPotion_Pouch:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -12273,6 +12646,8 @@ EUTwitchConCache:
     Item4               0          1 2hInstrumentUprightBassT3                                   
     Item5               0          1 2hInstrumentMandolinT3                                      
     Item6               0          1 2hFishingPoleT3                                             
+    Item7               0          3 BaitMaudlinbugT1                                            
+    Item8               0          5 SummerMedley_Token                                          
 SE_Music_Loot:
   RollBonusSetting: AddToRoll
   AND/OR: OR
