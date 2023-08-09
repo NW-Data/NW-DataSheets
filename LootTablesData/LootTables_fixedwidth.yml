@@ -6007,7 +6007,6 @@ FreshwaterFishHotspotRarity:
     Item6          290000          1 [LTID]FishingChestsFresh                                    
     Item7          295000          1 [LBID]FishUltraRandom                                       
     Item8          297500          1 [LBID]FishUltraFresh                                        
-    Item9           99990          1 [LBID]FishUltraFresh                                        
 FreshFishHotspotCommonSize:
   RollBonusSetting: ClampMax
   AND/OR: OR
@@ -6057,7 +6056,6 @@ SaltwaterFishHotspotRarity:
     Item6          290000          1 [LTID]FishingChestsSalt                                     
     Item7          295000          1 [LBID]FishUltraRandom                                       
     Item8          297500          1 [LBID]FishUltraSalt                                         
-    Item9           99990          1 [LBID]FishUltraSalt                                         
 SaltFishHotspotCommonSize:
   RollBonusSetting: ClampMax
   AND/OR: OR
@@ -8069,13 +8067,13 @@ RitualPouch60:
     Item2               0          1 [LBID]AlchemyCritters                                       
     Item3               0        3-4 [LBID]ArcanaRecoveryItems_PlayerLevel                       
 SportsmanSpoils_Roll:
-  RollBonusSetting: AddToRoll
+  RollBonusSetting: ClampMax
   AND/OR: OR
-  MaxRoll: 100000
+  MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1           50000          1 [LBID]SportsmanSpoils                                       
+    Item1               1          0 [LBID]SportsmanSpoils                                       
 SportsmanSpoils:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -11204,8 +11202,6 @@ ShredlyMusicAmazing:
     Item3           92500          1 [LBID]SummerMedleyPatterns                                  
 ShredlyPremiumToken:
   AND/OR: AND
-  Conditions: '[LIM]SummerMedley_PremiumToken'
-  TriggerLimitOnVisit: 'TRUE'
   MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name

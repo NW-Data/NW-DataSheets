@@ -10503,10 +10503,6 @@ FreshwaterFishHotspotRarity:
     Name: '[LBID]FishUltraFresh'
     Qty: '1'
     Threshold: '297500'
-  Item9:
-    Name: '[LBID]FishUltraFresh'
-    Qty: '1'
-    Threshold: '99990'
   MaxRoll: 300000
 FreshFishHotspotCommonSize:
   RollBonusSetting: ClampMax
@@ -10595,10 +10591,6 @@ SaltwaterFishHotspotRarity:
     Name: '[LBID]FishUltraSalt'
     Qty: '1'
     Threshold: '297500'
-  Item9:
-    Name: '[LBID]FishUltraSalt'
-    Qty: '1'
-    Threshold: '99990'
   MaxRoll: 300000
 SaltFishHotspotCommonSize:
   RollBonusSetting: ClampMax
@@ -13688,13 +13680,13 @@ RitualPouch60:
     Threshold: '0'
   MaxRoll: 100000
 SportsmanSpoils_Roll:
-  RollBonusSetting: AddToRoll
+  RollBonusSetting: ClampMax
   AND/OR: OR
   Item1:
     Name: '[LBID]SportsmanSpoils'
-    Qty: '1'
-    Threshold: '50000'
-  MaxRoll: 100000
+    Qty: '0'
+    Threshold: '1'
+  MaxRoll: 1
 SportsmanSpoils:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -19202,8 +19194,6 @@ ShredlyMusicAmazing:
   MaxRoll: 100000
 ShredlyPremiumToken:
   AND/OR: AND
-  Conditions: '[LIM]SummerMedley_PremiumToken'
-  TriggerLimitOnVisit: 'TRUE'
   Item1:
     Name: SummerMedley_PremiumToken
     Qty: '1'
