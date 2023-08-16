@@ -6065,7 +6065,7 @@ Seasonings:
     MintT1                                                                            1 TRUE       Restless,Weavers,Windsward 
     PeppercornT1                                                                      1 TRUE       Mourning,CutlassKeys,Monarchs 
     CinnamonT1                                                                        1 TRUE       Edengrove,FirstLight,CutlassKeys 
-    NutmegT1                                                                          1 TRUE       GreatCleave,FirstLight,Weavers 
+    NutmegT1                                                                          1 TRUE       Windsward,Reekwater,Weavers 
     PaprikaT1                                                                         1 TRUE       Shattered,Monarchs,Brightwood 
     GingerT1                                                                          1 TRUE       Queensport,Windsward,Reekwater 
     GarlicT1                                                                          1 TRUE       Brimstone,Everfall,GreatCleave 
@@ -20120,6 +20120,127 @@ AlchemyCritters:
     LifemothEyesT1                                                                    1 False                           
     SoulwyrmTongueT1                                                                  1 False                           
     BlightmothDustT1                                                                  1 False                           
+DimensionalTetherPvE:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    2hBow_DimensionalTetherPvE_T5                                                     1 False      Level:59             
+    2hGreatAxe_DimensionalTetherPvE_T5                                                1 False      Level:59             
+    1hSword_DimensionalTetherPvE_T5                                                   1 False      Level:59             
+    2hMusket_DimensionalTetherPvE_T5                                                  1 False      Level:59             
+    1hRapier_DimensionalTetherPvE_T5                                                  1 False      Level:59             
+    2hSpear_DimensionalTetherPvE_T5                                                   1 False      Level:59             
+    1hHatchet_DimensionalTetherPvE_T5                                                 1 False      Level:59             
+    2hWarhammer_DimensionalTetherPvE_T5                                               1 False      Level:59             
+    2hFireStaff_DimensionalTetherPvE_T5                                               1 False      Level:59             
+    2hLifeStaff_DimensionalTetherPvE_T5                                               1 False      Level:59             
+    1hGauntletIce_DimensionalTetherPvE_T5                                             1 False      Level:59             
+    1hGauntletVoid_DimensionalTetherPvE_T5                                            1 False      Level:59             
+    2hBlunderbuss_DimensionalTetherPvE_T5                                             1 False      Level:59             
+    2hGreatsword_DimensionalTetherPvE_T5                                              1 False      Level:59             
+    1hRoundShield_DimensionalTetherPvE_T5                                             1 False      Level:59             
+    1hKiteShield_DimensionalTetherPvE_T5                                              1 False      Level:59             
+    1hTowerShield_DimensionalTetherPvE_T5                                             1 False      Level:59             
+    LightChest_DimensionalTetherPvE_T5                                                1 False      Level:59             
+    LightHead_DimensionalTetherPvE_T5                                                 1 False      Level:59             
+    LightLegs_DimensionalTetherPvE_T5                                                 1 False      Level:59             
+    LightFeet_DimensionalTetherPvE_T5                                                 1 False      Level:59             
+    LightHands_DimensionalTetherPvE_T5                                                1 False      Level:59             
+    MediumChest_DimensionalTetherPvE_T5                                               1 False      Level:59             
+    MediumHead_DimensionalTetherPvE_T5                                                1 False      Level:59             
+    MediumLegs_DimensionalTetherPvE_T5                                                1 False      Level:59             
+    MediumFeet_DimensionalTetherPvE_T5                                                1 False      Level:59             
+    MediumHands_DimensionalTetherPvE_T5                                               1 False      Level:59             
+    HeavyChest_DimensionalTetherPvE_T5                                                1 False      Level:59             
+    HeavyHead_DimensionalTetherPvE_T5                                                 1 False      Level:59             
+    HeavyLegs_DimensionalTetherPvE_T5                                                 1 False      Level:59             
+    HeavyFeet_DimensionalTetherPvE_T5                                                 1 False      Level:59             
+    HeavyHands_DimensionalTetherPvE_T5                                                1 False      Level:59             
+DimensionalTetherPvP:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    2hBow_DimensionalTetherPvP_T5                                                     1 False      Level:59             
+    2hGreatAxe_DimensionalTetherPvP_T5                                                1 False      Level:59             
+    1hSword_DimensionalTetherPvP_T5                                                   1 False      Level:59             
+    2hMusket_DimensionalTetherPvP_T5                                                  1 False      Level:59             
+    1hRapier_DimensionalTetherPvP_T5                                                  1 False      Level:59             
+    2hSpear_DimensionalTetherPvP_T5                                                   1 False      Level:59             
+    1hHatchet_DimensionalTetherPvP_T5                                                 1 False      Level:59             
+    2hWarhammer_DimensionalTetherPvP_T5                                               1 False      Level:59             
+    2hFireStaff_DimensionalTetherPvP_T5                                               1 False      Level:59             
+    2hLifeStaff_DimensionalTetherPvP_T5                                               1 False      Level:59             
+    1hGauntletIce_DimensionalTetherPvP_T5                                             1 False      Level:59             
+    1hGauntletVoid_DimensionalTetherPvP_T5                                            1 False      Level:59             
+    2hBlunderbuss_DimensionalTetherPvP_T5                                             1 False      Level:59             
+    2hGreatsword_DimensionalTetherPvP_T5                                              1 False      Level:59             
+    1hRoundShield_DimensionalTetherPvP_T5                                             1 False      Level:59             
+    1hKiteShield_DimensionalTetherPvP_T5                                              1 False      Level:59             
+    1hTowerShield_DimensionalTetherPvP_T5                                             1 False      Level:59             
+    LightChest_DimensionalTetherPvP_T5                                                1 False      Level:59             
+    LightHead_DimensionalTetherPvP_T5                                                 1 False      Level:59             
+    LightLegs_DimensionalTetherPvP_T5                                                 1 False      Level:59             
+    LightFeet_DimensionalTetherPvP_T5                                                 1 False      Level:59             
+    LightHands_DimensionalTetherPvP_T5                                                1 False      Level:59             
+    MediumChest_DimensionalTetherPvP_T5                                               1 False      Level:59             
+    MediumHead_DimensionalTetherPvP_T5                                                1 False      Level:59             
+    MediumLegs_DimensionalTetherPvP_T5                                                1 False      Level:59             
+    MediumFeet_DimensionalTetherPvP_T5                                                1 False      Level:59             
+    MediumHands_DimensionalTetherPvP_T5                                               1 False      Level:59             
+    HeavyChest_DimensionalTetherPvP_T5                                                1 False      Level:59             
+    HeavyHead_DimensionalTetherPvP_T5                                                 1 False      Level:59             
+    HeavyLegs_DimensionalTetherPvP_T5                                                 1 False      Level:59             
+    HeavyFeet_DimensionalTetherPvP_T5                                                 1 False      Level:59             
+    HeavyHands_DimensionalTetherPvP_T5                                                1 False      Level:59             
+RafflebonesFOTB_DungeonBossGear:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    HeavyChest_LI_Boss_MutT5_V2_new                                                   1 FALSE      Level:59,Goblin      
+    HeavyHead_LI_Boss_MutT5_V2_new                                                    1 FALSE      Level:59,Goblin      
+    HeavyLegs_LI_Boss_MutT5_V2_new                                                    1 FALSE      Level:59,Goblin      
+    HeavyFeet_LI_Boss_MutT5_V2_new                                                    1 FALSE      Level:59,Goblin      
+    HeavyHands_LI_Boss_MutT5_V2_new                                                   1 FALSE      Level:59,Goblin      
+    LightChest_GoG_Boss_MutT5_V2                                                      1 FALSE      Level:59,Goblin      
+    LightHead_GoG_Boss_MutT5_V2                                                       1 FALSE      Level:59,Goblin      
+    LightLegs_GoG_Boss_MutT5_V2                                                       1 FALSE      Level:59,Goblin      
+    LightFeet_GoG_Boss_MutT5_V2                                                       1 FALSE      Level:59,Goblin      
+    LightHands_GoG_Boss_MutT5_V2                                                      1 FALSE      Level:59,Goblin      
+    LightChest_DS_Boss_MutT5_V2                                                       1 FALSE      Level:59,Goblin      
+    LightHead_DS_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    LightLegs_DS_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    LightFeet_DS_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    LightHands_DS_Boss_MutT5_V2                                                       1 FALSE      Level:59,Goblin      
+    HeavyChest_D_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    HeavyHead_D_Boss_MutT5_V2                                                         1 FALSE      Level:59,Goblin      
+    HeavyLegs_D_Boss_MutT5_V2                                                         1 FALSE      Level:59,Goblin      
+    HeavyFeet_D_Boss_MutT5_V2                                                         1 FALSE      Level:59,Goblin      
+    HeavyHands_D_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    MediumChest_BB_Boss2_MutT5_V2                                                     1 FALSE      Level:59,Goblin      
+    MediumHead_BB_Boss2_MutT5_V2                                                      1 FALSE      Level:59,Goblin      
+    MediumLegs_BB_Boss2_MutT5_V2                                                      1 FALSE      Level:59,Goblin      
+    MediumFeet_BB_Boss2_MutT5_V2                                                      1 FALSE      Level:59,Goblin      
+    MediumHands_BB_Boss2_MutT5_V2                                                     1 FALSE      Level:59,Goblin      
+    LightChest_BB_Boss_MutT5_V2                                                       1 FALSE      Level:59,Goblin      
+    LightHead_BB_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    LightLegs_BB_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    LightFeet_BB_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    LightHands_BB_Boss_MutT5_V2                                                       1 FALSE      Level:59,Goblin      
+    LightChest_BS_Boss_MutT5_V2                                                       1 FALSE      Level:59,Goblin      
+    LightHead_BS_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    LightLegs_BS_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    LightFeet_BS_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    LightHands_BS_Boss_MutT5_V2                                                       1 FALSE      Level:59,Goblin      
+    HeavyChest_BS_Boss_MutT5_V2                                                       1 FALSE      Level:59,Goblin      
+    HeavyHead_BS_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    HeavyLegs_BS_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    HeavyFeet_BS_Boss_MutT5_V2                                                        1 FALSE      Level:59,Goblin      
+    HeavyHands_BS_Boss_MutT5_V2                                                       1 FALSE      Level:59,Goblin      
+    HeavyChest_EF_Boss_MutT5                                                          1 FALSE      Level:59,Goblin      
+    HeavyHead_EF_Boss_MutT5                                                           1 FALSE      Level:59,Goblin      
+    HeavyLegs_EF_Boss_MutT5                                                           1 FALSE      Level:59,Goblin      
+    HeavyFeet_EF_Boss_MutT5                                                           1 FALSE      Level:59,Goblin      
+    HeavyHands_EF_Boss_MutT5                                                          1 FALSE      Level:59,Goblin      
 '':
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
