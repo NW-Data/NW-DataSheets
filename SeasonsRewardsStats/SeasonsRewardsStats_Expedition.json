@@ -218,5 +218,60 @@
         "Score": null,
         "MutatorRank": "",
         "IsFlawless": true
+    },
+    {
+        "TrackedStatID": "CompleteExpedition_FirstLight",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonFirstLight01",
+        "Level": null,
+        "MutationLevel": null,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteExpeditionM1_FirstLight",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonFirstLight01",
+        "Level": null,
+        "MutationLevel": 1,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteExpeditionM2_FirstLight",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonFirstLight01",
+        "Level": null,
+        "MutationLevel": 2,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteExpeditionM3_FirstLight",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonFirstLight01",
+        "Level": null,
+        "MutationLevel": 3,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": null
+    },
+    {
+        "TrackedStatID": "CompleteExpeditionM3_FirstLightFlawlessly",
+        "StatType": "CompleteExpedition",
+        "GameMode": "DungeonFirstLight01",
+        "Level": null,
+        "MutationLevel": 3,
+        "RequireGroup": "",
+        "Score": null,
+        "MutatorRank": "",
+        "IsFlawless": true
     }
 ]

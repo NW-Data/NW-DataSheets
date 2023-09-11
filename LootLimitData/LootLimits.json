@@ -10,7 +10,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "GypsumBlue",
@@ -23,7 +25,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "PostCapGypsum",
@@ -36,20 +40,24 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "GypsumBlack",
         "IsReplicated": false,
-        "MinLimitSeconds": 300,
-        "MaxLimitSeconds": 390,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
         "CountLimit": 3,
         "MinLimitMult": 120,
         "MaxLimitMult": 120,
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "GypsumYellow",
@@ -62,7 +70,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "ArenaGypsum",
@@ -75,7 +85,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BreachGypsum",
@@ -88,7 +100,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "WCGoldLockboxT1",
@@ -101,7 +115,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "GypsumGreen",
@@ -114,7 +130,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "GypsumRed",
@@ -127,7 +145,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "GypsumGarnet",
@@ -140,7 +160,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "GypsumPurple",
@@ -153,7 +175,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "GypsumOrange",
@@ -166,7 +190,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "GypsumWhite",
@@ -179,7 +205,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL1",
@@ -192,7 +220,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL10",
@@ -205,7 +235,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL20",
@@ -218,7 +250,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL30",
@@ -231,7 +265,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL40",
@@ -244,7 +280,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL50",
@@ -257,7 +295,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofJuniperBerriesLVL60",
@@ -270,7 +310,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "RabbitSeasonTotem",
@@ -283,7 +325,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "House_HousingItem_Storage_T4_ChestRabbit",
@@ -296,7 +340,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL1",
@@ -309,7 +355,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL10",
@@ -322,7 +370,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL20",
@@ -335,7 +385,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL30",
@@ -348,7 +400,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL40",
@@ -361,7 +415,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL50",
@@ -374,7 +430,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "BagofEarthGiftsLVL60",
@@ -387,7 +445,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "DarknessCoinBag",
@@ -400,7 +460,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "PvP_FortTakeover_Limit",
@@ -413,7 +475,24 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": "@ui_reached_max_fort_takeover_rewards"
+        "LimitNotificationLocTag": "@ui_reached_max_fort_takeover_rewards",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
+    },
+    {
+        "LootLimitID": "PvP_InfluenceTowerTakeover_Limit",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 12,
+        "MinLimitMult": 86400,
+        "MaxLimitMult": 86400,
+        "LimitExpireSeconds": 86400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "@ui_reached_max_influencetower_takeover_rewards",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SoloShard",
@@ -426,7 +505,9 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Arena3v3_Limit",
@@ -439,7 +520,9 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": "@ui_reached_max_daily_pvp_arena_reward"
+        "LimitNotificationLocTag": "@ui_reached_max_daily_pvp_arena_reward",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "1hSkinningKnifeT5_TurkeyTerror",
@@ -452,7 +535,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "CoatingBeastTurkeyT5",
@@ -465,7 +550,9 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "PotionFamilyWardBeastTurkeyT5",
@@ -478,7 +565,9 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "MassiveTurkeyLegT5",
@@ -491,7 +580,9 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "House_HousingItem_Buff_SPECIAL_Food_TurkeyTerror_T1",
@@ -504,7 +595,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "House_HousingItem_Pet_Holiday_Turkey_Pilgrim",
@@ -517,7 +610,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "House_HousingItem_Chair_HolidayTurkey2022_EggStool01",
@@ -530,7 +625,9 @@
         "LimitExpireSeconds": 604800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Skin_Feet_TurkeyTerror_Box",
@@ -543,7 +640,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Kill_TerrorTurkey",
@@ -556,7 +655,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "ConcealedVaultLVL1",
@@ -569,7 +670,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "ConcealedVaultLVL10",
@@ -582,7 +685,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "ConcealedVaultLVL20",
@@ -595,7 +700,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "ConcealedVaultLVL30",
@@ -608,7 +715,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "ConcealedVaultLVL40",
@@ -621,7 +730,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "ConcealedVaultLVL50",
@@ -634,7 +745,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "ConcealedVaultLVL60",
@@ -647,7 +760,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "TurkeyTerrorCoinBagLVL1",
@@ -660,7 +775,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "TurkeyTerrorCoinBagLVL10",
@@ -673,7 +790,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "TurkeyTerrorCoinBagLVL20",
@@ -686,7 +805,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "TurkeyTerrorCoinBagLVL30",
@@ -699,7 +820,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "TurkeyTerrorCoinBagLVL40",
@@ -712,7 +835,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "TurkeyTerrorCoinBagLVL50",
@@ -725,7 +850,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "TurkeyTerrorCoinBagLVL60",
@@ -738,7 +865,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "NightveilCoinBagLVL1",
@@ -751,7 +880,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "NightveilCoinBagLVL10",
@@ -764,7 +895,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "NightveilCoinBagLVL20",
@@ -777,7 +910,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "NightveilCoinBagLVL30",
@@ -790,7 +925,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "NightveilCoinBagLVL40",
@@ -803,7 +940,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "NightveilCoinBagLVL50",
@@ -816,7 +955,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "NightveilCoinBagLVL60",
@@ -829,7 +970,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "GoldenScarab",
@@ -842,7 +985,9 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Cooking_music_box",
@@ -855,7 +1000,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Loom_music_box",
@@ -868,7 +1015,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Furnishing_music_box",
@@ -881,7 +1030,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "WoodenCoin",
@@ -894,7 +1045,9 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SportsmanSpoilsLVL1",
@@ -907,7 +1060,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SportsmanSpoilsLVL10",
@@ -920,7 +1075,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SportsmanSpoilsLVL20",
@@ -933,7 +1090,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SportsmanSpoilsLVL30",
@@ -946,7 +1105,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SportsmanSpoilsLVL40",
@@ -959,7 +1120,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SportsmanSpoilsLVL50",
@@ -972,7 +1135,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SportsmanSpoilsLVL60",
@@ -985,7 +1150,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SpringtideCoinBagLVL1",
@@ -998,7 +1165,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SpringtideCoinBagLVL10",
@@ -1011,7 +1180,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SpringtideCoinBagLVL20",
@@ -1024,7 +1195,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SpringtideCoinBagLVL30",
@@ -1037,7 +1210,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SpringtideCoinBagLVL40",
@@ -1050,7 +1225,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SpringtideCoinBagLVL50",
@@ -1063,7 +1240,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SpringtideCoinBagLVL60",
@@ -1076,7 +1255,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Spring_Prismabloom_Token_Limit",
@@ -1089,7 +1270,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Spring_Prismabloom_Premium_Limit",
@@ -1102,7 +1285,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Skin_Mask_RabbitSeason_Box",
@@ -1115,7 +1300,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "House_HousingItem_Buff_Damage_Vs_Ancients_T0",
@@ -1128,7 +1315,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "House_HousingItem_Buff_Damage_Vs_Beasts_T0",
@@ -1141,7 +1330,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "House_HousingItem_Buff_Damage_Vs_Corrupted_T0",
@@ -1154,7 +1345,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "House_HousingItem_Buff_Damage_Vs_Lost_T0",
@@ -1167,7 +1360,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "DarknessBreachNamed",
@@ -1180,20 +1375,9 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
-    },
-    {
-        "LootLimitID": "DailyArenaCache",
-        "IsReplicated": false,
-        "MinLimitSeconds": 0,
-        "MaxLimitSeconds": 0,
-        "CountLimit": 2,
-        "MinLimitMult": 86400,
-        "MaxLimitMult": 86400,
-        "LimitExpireSeconds": 86400,
-        "LootTagValuePerCount": null,
-        "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "WorldEvent_S1_BonusBox",
@@ -1206,7 +1390,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Schematic_House_HousingItem_Season1_SprigganFlameBrazier",
@@ -1219,7 +1405,9 @@
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Tag_S1Event_PityTicker",
@@ -1232,7 +1420,9 @@
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": 1,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "2hWarhammer_MountainShakerT5",
@@ -1245,7 +1435,9 @@
         "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "2hMusket_BurnweaverT5",
@@ -1258,7 +1450,9 @@
         "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "2hSpear_BlazingBushHookT5",
@@ -1271,7 +1465,9 @@
         "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "1hGauntletVoid_ForestsShadowT5",
@@ -1284,7 +1480,9 @@
         "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "LightHead_BramblehelmT5",
@@ -1297,7 +1495,9 @@
         "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "LightLegs_TrailblazersLegGuardsT5",
@@ -1310,7 +1510,9 @@
         "LimitExpireSeconds": null,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "WorldEvent_Crassus_BonusBox",
@@ -1323,7 +1525,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Tag_RabbitEvent_PityTicker",
@@ -1336,7 +1540,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": 1,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "2hGreataxe_HugoT5",
@@ -1349,7 +1555,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "2hGreatSword_HugoT5",
@@ -1362,7 +1570,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "2hBow_BrevisT5",
@@ -1375,7 +1585,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "2hStaffFire_BrevisT5",
@@ -1388,7 +1600,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "HeavyChest_HugoT5",
@@ -1401,7 +1615,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "HeavyHands_HugoT5",
@@ -1414,7 +1630,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "MediumHead_BrevisT5",
@@ -1427,7 +1645,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "MediumFeet_BrevisT5",
@@ -1440,7 +1660,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Tag_LegacyofCrassus_Ticker",
@@ -1453,7 +1675,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "WorldEvent_S2_BonusBox",
@@ -1466,7 +1690,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Tag_S2Event_PityTicker",
@@ -1479,7 +1705,9 @@
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": 1,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Skin_Head_SandwormHat_Box",
@@ -1492,7 +1720,9 @@
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "House_HousingItem_Season2_SandwormEgg_Variant4",
@@ -1505,7 +1735,9 @@
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Trial_S2_BonusBox",
@@ -1518,7 +1750,9 @@
         "LimitExpireSeconds": 604800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "House_HousingItem_Season2_SandwormEgg_Variant5",
@@ -1531,7 +1765,9 @@
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "House_HousingItem_Season2_TrialDecor",
@@ -1544,7 +1780,9 @@
         "LimitExpireSeconds": 1209600,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "WorldEvent_Lakeside_Limit",
@@ -1557,7 +1795,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "WorldEvent_ScallywagShore_Limit",
@@ -1570,7 +1810,9 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "WorldEvent_TraitorsHold_Limit",
@@ -1583,20 +1825,54 @@
         "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
-        "LootLimitID": "TransmogTokenPurse",
-        "IsReplicated": true,
+        "LootLimitID": "WorldEvent_Swampwaterfishery_Limit",
+        "IsReplicated": false,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 1,
-        "MinLimitMult": 604800,
-        "MaxLimitMult": 604800,
-        "LimitExpireSeconds": 604800,
+        "MinLimitMult": 2678400,
+        "MaxLimitMult": 2678400,
+        "LimitExpireSeconds": 2678400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
+    },
+    {
+        "LootLimitID": "WorldEvent_Piscarianfishery_Limit",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 2678400,
+        "MaxLimitMult": 2678400,
+        "LimitExpireSeconds": 2678400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
+    },
+    {
+        "LootLimitID": "ArenaLimit",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 2,
+        "MinLimitMult": 86400,
+        "MaxLimitMult": 86400,
+        "LimitExpireSeconds": 86400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Trial_Sandworm_DailyBox",
@@ -1609,7 +1885,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Trial_Sandworm_WeeklyBox",
@@ -1622,7 +1900,9 @@
         "LimitExpireSeconds": 604800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "SummerMedley_ShredlyLimit",
@@ -1635,7 +1915,9 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "RidingProgression",
@@ -1648,11 +1930,13 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "Mount_FoodDailyXP_Limit",
-        "IsReplicated": false,
+        "IsReplicated": true,
         "MinLimitSeconds": 0,
         "MaxLimitSeconds": 0,
         "CountLimit": 3,
@@ -1661,7 +1945,9 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "@ui_reached_max_daily_mount_consumable_exp_usage",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "FishingFreshJunk",
@@ -1674,7 +1960,9 @@
         "LimitExpireSeconds": 300,
         "LootTagValuePerCount": 0,
         "LootTagValueOverrideAtLimit": 1,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     },
     {
         "LootLimitID": "FishingSaltJunk",
@@ -1687,7 +1975,699 @@
         "LimitExpireSeconds": 300,
         "LootTagValuePerCount": 0,
         "LootTagValueOverrideAtLimit": 1,
-        "LimitNotificationLocTag": ""
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
+    },
+    {
+        "LootLimitID": "TransmogTokenPurse",
+        "IsReplicated": true,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 604800,
+        "MaxLimitMult": 604800,
+        "LimitExpireSeconds": 604800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
+    },
+    {
+        "LootLimitID": "Skin_WarHammer_TurkeyTerror2023_Box",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 2678400,
+        "MaxLimitMult": 2678400,
+        "LimitExpireSeconds": 2678400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
+    },
+    {
+        "LootLimitID": "PotionTurkeyLuckT5",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 5,
+        "MinLimitMult": 86400,
+        "MaxLimitMult": 86400,
+        "LimitExpireSeconds": 86400,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
+    },
+    {
+        "LootLimitID": "TreatBasket_Tokens",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
+    },
+    {
+        "LootLimitID": "TreatBasket_Masks",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
+    },
+    {
+        "LootLimitID": "Halloween_Costumes",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 3,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
+    },
+    {
+        "LootLimitID": "Halloween_BossArmor",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 5,
+        "MinLimitMult": 64800,
+        "MaxLimitMult": 64800,
+        "LimitExpireSeconds": 64800,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
+    },
+    {
+        "LootLimitID": "Artifact_Set1_HeavyHead",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_HeavyHead",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_HeavyChest",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_HeavyChest",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_HeavyHands",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_HeavyHands",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_HeavyLegs",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_HeavyLegs",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_HeavyFeet",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_HeavyFeet",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_MediumHead",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_MediumHead",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_MediumChest",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_MediumChest",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_MediumHands",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_MediumHands",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_MediumLegs",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_MediumLegs",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_MediumFeet",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_MediumFeet",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_LightHead",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_LightHead",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_LightChest",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_LightChest",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_LightHands",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_LightHands",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_LightLegs",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_LightLegs",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_LightFeet",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_LightFeet",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_1hLongsword",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_1hLongsword",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_1hThrowingAxe",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_1hThrowingAxe",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_2hWarhammer",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_2hWarhammer",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_2hGreatAxe",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_2hGreatAxe",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_2hBow",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_2hBow",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_2hMusket",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_2hMusket",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_1hRoundShield",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_1hRoundShield",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_1hKiteShield",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_1hKiteShield",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_1hTowerShield",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_1hTowerShield",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_2hStaffFire",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_2hStaffFire",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_2hStaffLife",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_2hStaffLife",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_2hSpear",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_2hSpear",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_1hRapier",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_1hRapier",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_1hGauntletIce",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_1hGauntletIce",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_1hGauntletVoid",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_1hGauntletVoid",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_2hBlunderbuss",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_2hBlunderbuss",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_2hGreatSword",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_2hGreatSword",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_1hFlail",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_1hFlail",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_Earring1",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_Earring1",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_Ring1",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_Ring1",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_Amulet1",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_Amulet1",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_Earring2",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_Earring2",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_Ring2",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_Ring2",
+        "IsAchievementBound": true
+    },
+    {
+        "LootLimitID": "Artifact_Set1_Amulet2",
+        "IsReplicated": false,
+        "MinLimitSeconds": 0,
+        "MaxLimitSeconds": 0,
+        "CountLimit": 1,
+        "MinLimitMult": 0,
+        "MaxLimitMult": 0,
+        "LimitExpireSeconds": 0,
+        "LootTagValuePerCount": null,
+        "LootTagValueOverrideAtLimit": null,
+        "LimitNotificationLocTag": "",
+        "AchievementAtLimit": "Artifact_Set1_Amulet2",
+        "IsAchievementBound": true
     },
     {
         "LootLimitID": "RafflebonesPortal",
@@ -1700,6 +2680,8 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": "@ui_reached_max_daily_fotb_rafflebones"
+        "LimitNotificationLocTag": "@ui_reached_max_daily_fotb_rafflebones",
+        "AchievementAtLimit": "",
+        "IsAchievementBound": null
     }
 ]

@@ -1235,8 +1235,8 @@
         "CanPlaceCamp": true,
         "IsArea": true,
         "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 6,
-        "AIVariantVitalsCategoryPostfixOverride": ""
+        "AIVariantLevelOverride": 68,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL01"
     },
     {
         "TerritoryID": 9081,
@@ -1256,8 +1256,8 @@
         "CanPlaceCamp": true,
         "IsArea": true,
         "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 8,
-        "AIVariantVitalsCategoryPostfixOverride": ""
+        "AIVariantLevelOverride": 65,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL02"
     },
     {
         "TerritoryID": 9082,
@@ -1277,8 +1277,8 @@
         "CanPlaceCamp": true,
         "IsArea": true,
         "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 10,
-        "AIVariantVitalsCategoryPostfixOverride": ""
+        "AIVariantLevelOverride": 65,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL03"
     },
     {
         "TerritoryID": 9083,
@@ -1298,8 +1298,8 @@
         "CanPlaceCamp": true,
         "IsArea": true,
         "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 13,
-        "AIVariantVitalsCategoryPostfixOverride": ""
+        "AIVariantLevelOverride": 64,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL04"
     },
     {
         "TerritoryID": 9084,
@@ -1319,8 +1319,8 @@
         "CanPlaceCamp": true,
         "IsArea": true,
         "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 15,
-        "AIVariantVitalsCategoryPostfixOverride": ""
+        "AIVariantLevelOverride": 64,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL05"
     },
     {
         "TerritoryID": 9085,
@@ -1340,8 +1340,8 @@
         "CanPlaceCamp": true,
         "IsArea": true,
         "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 20,
-        "AIVariantVitalsCategoryPostfixOverride": ""
+        "AIVariantLevelOverride": 66,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL06"
     },
     {
         "TerritoryID": 9086,
@@ -1361,8 +1361,8 @@
         "CanPlaceCamp": true,
         "IsArea": true,
         "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 18,
-        "AIVariantVitalsCategoryPostfixOverride": ""
+        "AIVariantLevelOverride": 65,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL07"
     },
     {
         "TerritoryID": 9087,
@@ -1382,8 +1382,8 @@
         "CanPlaceCamp": true,
         "IsArea": true,
         "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 23,
-        "AIVariantVitalsCategoryPostfixOverride": ""
+        "AIVariantLevelOverride": 68,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL08"
     },
     {
         "TerritoryID": 9088,
@@ -1403,8 +1403,8 @@
         "CanPlaceCamp": true,
         "IsArea": true,
         "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 25,
-        "AIVariantVitalsCategoryPostfixOverride": ""
+        "AIVariantLevelOverride": 67,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL09"
     },
     {
         "TerritoryID": 9089,
@@ -1424,8 +1424,8 @@
         "CanPlaceCamp": true,
         "IsArea": true,
         "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 25,
-        "AIVariantVitalsCategoryPostfixOverride": ""
+        "AIVariantLevelOverride": 68,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL10"
     },
     {
         "TerritoryID": 9090,
@@ -1445,8 +1445,8 @@
         "CanPlaceCamp": true,
         "IsArea": true,
         "PoiDiscoveryXpModifier": 0,
-        "AIVariantLevelOverride": 18,
-        "AIVariantVitalsCategoryPostfixOverride": ""
+        "AIVariantLevelOverride": 67,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL11"
     },
     {
         "TerritoryID": 9091,
@@ -3190,5 +3190,26 @@
         "PoiDiscoveryXpModifier": 0,
         "AIVariantLevelOverride": 63,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS12"
+    },
+    {
+        "TerritoryID": 9197,
+        "NameLocalizationKey": "@ui_area_firstlight_12",
+        "IsPOI": true,
+        "IsDiscoverable": "",
+        "IsChartable": true,
+        "DefaultAchievement": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "firstlight12_9197_charted",
+        "POITag": "firstlight12",
+        "AudioGroup": "Music_Territory",
+        "AudioState": "First Light",
+        "AudioBank": "",
+        "POILevel": 2,
+        "CanPlaceCamp": true,
+        "IsArea": true,
+        "PoiDiscoveryXpModifier": 0,
+        "AIVariantLevelOverride": 70,
+        "AIVariantVitalsCategoryPostfixOverride": "_09FL12"
     }
 ]

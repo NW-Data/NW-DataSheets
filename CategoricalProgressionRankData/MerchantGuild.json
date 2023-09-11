@@ -50,8 +50,20 @@
     {
         "Rank": 4,
         "DisplayName": "@owg_rank_merchant_5",
-        "MaximumInfluence": 49000,
+        "MaximumInfluence": 85000,
         "RequiredLevel": 60,
+        "InfluenceCost": 0,
+        "CurrencyCost": 0,
+        "AzothCost": 0,
+        "SanityCheck": true,
+        "GameEventId": "",
+        "EntitlementId": ""
+    },
+    {
+        "Rank": 5,
+        "DisplayName": "@owg_rank_merchant_6",
+        "MaximumInfluence": 85000,
+        "RequiredLevel": 61,
         "InfluenceCost": 0,
         "CurrencyCost": 0,
         "AzothCost": 0,

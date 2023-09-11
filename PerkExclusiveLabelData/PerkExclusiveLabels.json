@@ -1,11 +1,11 @@
 [
     {
-        "ExclusiveLabelID": "Attribute",
-        "Weight": 100,
+        "ExclusiveLabelID": "All",
+        "Weight": 1,
         "ItemClassOverrides": ""
     },
     {
-        "ExclusiveLabelID": "EmptyGem",
+        "ExclusiveLabelID": "Attribute",
         "Weight": 100,
         "ItemClassOverrides": ""
     },
@@ -32,6 +32,11 @@
     {
         "ExclusiveLabelID": "Constitution",
         "Weight": 0,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "EmptyGem",
+        "Weight": 100,
         "ItemClassOverrides": ""
     },
     {
@@ -255,6 +260,11 @@
         "ItemClassOverrides": ""
     },
     {
+        "ExclusiveLabelID": "Flail",
+        "Weight": 1,
+        "ItemClassOverrides": ""
+    },
+    {
         "ExclusiveLabelID": "CDR",
         "Weight": 100,
         "ItemClassOverrides": ""
@@ -331,7 +341,7 @@
     },
     {
         "ExclusiveLabelID": "Health",
-        "Weight": 200,
+        "Weight": 100,
         "ItemClassOverrides": ""
     },
     {
@@ -377,7 +387,7 @@
     {
         "ExclusiveLabelID": "Threat",
         "Weight": 20,
-        "ItemClassOverrides": ""
+        "ItemClassOverrides": "Lifestaff:-20"
     },
     {
         "ExclusiveLabelID": "Consume",
@@ -502,6 +512,21 @@
     {
         "ExclusiveLabelID": "5thPerk",
         "Weight": 500,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "OnHeart",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Physical",
+        "Weight": 100,
+        "ItemClassOverrides": ""
+    },
+    {
+        "ExclusiveLabelID": "Proc2",
+        "Weight": 100,
         "ItemClassOverrides": ""
     }
 ]

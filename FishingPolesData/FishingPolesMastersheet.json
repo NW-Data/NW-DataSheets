@@ -218,5 +218,15 @@
         "FishReelTimeSeconds": 8,
         "LineTensionGainPerSecond": 12.5,
         "LineTensionRecoverPerSecond": 47
+    },
+    {
+        "Id": "2hFishingPoleT52",
+        "CastDistanceRange": "5-20",
+        "FishRarityRollModifier": 1.25,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "FishReelTimeSeconds": 8,
+        "LineTensionGainPerSecond": 12.5,
+        "LineTensionRecoverPerSecond": 47
     }
 ]

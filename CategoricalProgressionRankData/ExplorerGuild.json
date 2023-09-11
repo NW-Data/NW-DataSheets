@@ -50,7 +50,7 @@
     {
         "Rank": 4,
         "DisplayName": "@owg_rank_explorer_5",
-        "MaximumInfluence": 49000,
+        "MaximumInfluence": 85000,
         "RequiredLevel": 60,
         "InfluenceCost": 0,
         "CurrencyCost": 0,
@@ -58,5 +58,17 @@
         "SanityCheck": true,
         "GameEventId": "",
         "EntitlementId": 0
+    },
+    {
+        "Rank": 5,
+        "DisplayName": "@owg_rank_explorer_6",
+        "MaximumInfluence": 85000,
+        "RequiredLevel": 61,
+        "InfluenceCost": 0,
+        "CurrencyCost": 0,
+        "AzothCost": 0,
+        "SanityCheck": true,
+        "GameEventId": "",
+        "EntitlementId": null
     }
 ]

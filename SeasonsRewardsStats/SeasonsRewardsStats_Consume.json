@@ -38,5 +38,15 @@
         "TradingCategories": "",
         "TradingFamilies": "",
         "TradingGroups": "PotionElemDefense,PotionWellness,PotionPurifyB"
+    },
+    {
+        "TrackedStatID": "ConsumeMountBuff",
+        "StatType": "Consume",
+        "Target": "",
+        "ItemTier": null,
+        "ItemClass": "MountBuff1,MountBuff2",
+        "TradingCategories": "",
+        "TradingFamilies": "",
+        "TradingGroups": ""
     }
 ]

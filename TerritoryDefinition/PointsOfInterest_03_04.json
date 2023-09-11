@@ -31,6 +31,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -65,6 +66,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -99,6 +101,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -133,6 +136,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -167,6 +171,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -201,6 +206,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -235,6 +241,7 @@
         "RecommendedLevel": 0,
         "UnchartedIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\brimstone\\brimstone_colossus.png",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -269,6 +276,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -303,6 +311,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -337,6 +346,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -371,6 +381,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -388,7 +399,7 @@
         "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
-        "LootTags": "ScorpionLair,AngryEarth",
+        "LootTags": "ScorpionLair,AngryEarth,EPOI",
         "DiscoveredAchievement": "beast_den_30416_discovered",
         "ChartedAchievement": "beast_den_30416_charted",
         "POITag": "beast_den_30416,elite",
@@ -405,6 +416,7 @@
         "RecommendedLevel": 66,
         "UnchartedIcon": "",
         "GroupSize": 3,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -439,6 +451,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -473,6 +486,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -507,6 +521,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -541,6 +556,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -575,6 +591,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -609,6 +626,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -643,6 +661,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -677,6 +696,7 @@
         "RecommendedLevel": 0,
         "UnchartedIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\ancient_shrine.png",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -711,6 +731,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -745,6 +766,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -779,6 +801,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -796,7 +819,7 @@
         "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
-        "LootTags": "Westwall,Ancient",
+        "LootTags": "Westwall,Ancient,EPOI",
         "DiscoveredAchievement": "ancientwall_elite_30430_discovered",
         "ChartedAchievement": "ancientwall_elite_30430_charted",
         "POITag": "ancientwall_elite_30430,elite",
@@ -813,6 +836,7 @@
         "RecommendedLevel": 66,
         "UnchartedIcon": "",
         "GroupSize": 3,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -847,6 +871,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -881,6 +906,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": true,
         "EventId": ""
     },
     {
@@ -915,6 +941,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     },
     {
@@ -949,6 +976,7 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "GroupSize": null,
+        "IsCollapsible": null,
         "EventId": ""
     }
 ]

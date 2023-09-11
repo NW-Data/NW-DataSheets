@@ -2683,7 +2683,7 @@
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": "",
-        "ActivationCooldown": null
+        "ActivationCooldown": 0.1
     },
     {
         "AbilityID": "Passive_VoidGauntlet_CDRVsDebuff",
@@ -5527,7 +5527,7 @@
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": "",
-        "ActivationCooldown": null
+        "ActivationCooldown": 0.1
     },
     {
         "AbilityID": "Passive_VoidGauntlet_BonusDebuffDurOnHvy",
@@ -6159,7 +6159,7 @@
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": "",
-        "ActivationCooldown": null
+        "ActivationCooldown": 0.1
     },
     {
         "AbilityID": "Passive_VoidGauntlet_ApplySiphonAuraStacks",

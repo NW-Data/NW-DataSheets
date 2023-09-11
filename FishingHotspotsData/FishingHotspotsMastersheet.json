@@ -9,7 +9,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 2,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_2",
@@ -21,31 +22,34 @@
         "LootTag": "Broad",
         "RequiredLevel": 2,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_3",
         "DisplayName": "@hotspot_broad_3",
-        "FishRarityRollModifier": 0,
+        "FishRarityRollModifier": 15.99,
         "FishSizeRollModifier": 0,
         "SummerFishRarityRollModifier": 0,
         "LootTableId": "FishingHotspotLoot",
-        "LootTag": "Broad",
-        "RequiredLevel": 4,
+        "LootTag": "Rare",
+        "RequiredLevel": 55,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": "ElysianWilds"
     },
     {
         "Id": "Hotspot_Broad_4",
         "DisplayName": "@hotspot_broad_4",
-        "FishRarityRollModifier": 0,
+        "FishRarityRollModifier": 24.33,
         "FishSizeRollModifier": 0,
         "SummerFishRarityRollModifier": 0,
         "LootTableId": "FishingHotspotLoot",
-        "LootTag": "Broad",
-        "RequiredLevel": 4,
+        "LootTag": "Secret",
+        "RequiredLevel": 75,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": "ElysianWilds"
     },
     {
         "Id": "Hotspot_Broad_5",
@@ -55,9 +59,10 @@
         "SummerFishRarityRollModifier": 0,
         "LootTableId": "FishingHotspotLoot",
         "LootTag": "Broad",
-        "RequiredLevel": 7,
+        "RequiredLevel": 15,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": "ElysianWilds"
     },
     {
         "Id": "Hotspot_Broad_6",
@@ -67,21 +72,23 @@
         "SummerFishRarityRollModifier": 0,
         "LootTableId": "FishingHotspotLoot",
         "LootTag": "Broad",
-        "RequiredLevel": 3,
+        "RequiredLevel": 38,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": "ElysianWilds"
     },
     {
         "Id": "Hotspot_Broad_7",
         "DisplayName": "@hotspot_broad_7",
-        "FishRarityRollModifier": 0,
+        "FishRarityRollModifier": 15.99,
         "FishSizeRollModifier": 0,
         "SummerFishRarityRollModifier": 0,
         "LootTableId": "FishingHotspotLoot",
-        "LootTag": "Broad",
-        "RequiredLevel": 9,
+        "LootTag": "Rare",
+        "RequiredLevel": 51,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": "ElysianWilds"
     },
     {
         "Id": "Hotspot_Broad_8",
@@ -91,9 +98,10 @@
         "SummerFishRarityRollModifier": 0,
         "LootTableId": "FishingHotspotLoot",
         "LootTag": "Broad",
-        "RequiredLevel": 12,
+        "RequiredLevel": 10,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": "ElysianWilds"
     },
     {
         "Id": "Hotspot_Broad_9",
@@ -105,7 +113,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 16,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_10",
@@ -117,7 +126,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 16,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_11",
@@ -129,7 +139,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 20,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_12",
@@ -141,7 +152,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 25,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_13",
@@ -153,7 +165,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 25,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_14",
@@ -165,7 +178,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 27,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_15",
@@ -177,7 +191,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 30,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_16",
@@ -189,7 +204,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 34,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_17",
@@ -201,7 +217,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 37,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_18",
@@ -213,7 +230,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 37,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_19",
@@ -225,7 +243,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 41,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_20",
@@ -237,7 +256,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 41,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_21",
@@ -249,7 +269,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 45,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_22",
@@ -261,7 +282,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 52,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_23",
@@ -273,7 +295,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 52,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_24",
@@ -285,7 +308,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 56,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_25",
@@ -297,7 +321,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 59,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_26",
@@ -309,7 +334,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 59,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_27",
@@ -321,7 +347,8 @@
         "LootTag": "Broad",
         "RequiredLevel": 70,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_28",
@@ -333,7 +360,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 7,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_29",
@@ -345,7 +373,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 20,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_30",
@@ -357,7 +386,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 30,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_31",
@@ -369,7 +399,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 45,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_32",
@@ -381,7 +412,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 56,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_33",
@@ -393,7 +425,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 60,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_34",
@@ -405,7 +438,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 60,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_35",
@@ -417,7 +451,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 62,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_36",
@@ -429,7 +464,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 67,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_37",
@@ -441,7 +477,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 67,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_38",
@@ -453,7 +490,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 70,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_39",
@@ -465,7 +503,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 74,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_40",
@@ -477,7 +516,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 74,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_41",
@@ -489,7 +529,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 78,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_42",
@@ -501,7 +542,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 83,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_43",
@@ -513,7 +555,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 83,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_44",
@@ -525,7 +568,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 88,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_45",
@@ -537,7 +581,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 95,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_46",
@@ -549,7 +594,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 95,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_47",
@@ -561,7 +607,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 99,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_48",
@@ -573,7 +620,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 103,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_49",
@@ -585,7 +633,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 110,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_50",
@@ -597,7 +646,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 114,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_51",
@@ -609,7 +659,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 117,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_52",
@@ -621,7 +672,8 @@
         "LootTag": "Rare",
         "RequiredLevel": 141,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_53",
@@ -633,7 +685,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 12,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_54",
@@ -645,7 +698,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 27,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_55",
@@ -657,7 +711,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 62,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_56",
@@ -669,7 +724,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 70,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_57",
@@ -681,7 +737,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 88,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_58",
@@ -693,7 +750,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 99,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_59",
@@ -705,7 +763,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 110,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_60",
@@ -717,7 +776,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 117,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_61",
@@ -729,7 +789,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 117,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_62",
@@ -741,7 +802,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 128,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_63",
@@ -753,7 +815,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 134,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_64",
@@ -765,7 +828,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 141,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_65",
@@ -777,7 +841,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 148,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_66",
@@ -789,7 +854,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 153,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_67",
@@ -801,7 +867,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 158,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_68",
@@ -813,7 +880,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 158,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_69",
@@ -825,7 +893,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 165,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_70",
@@ -837,7 +906,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 172,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_71",
@@ -849,7 +919,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 179,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_72",
@@ -861,7 +932,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 185,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_73",
@@ -873,7 +945,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 185,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_74",
@@ -885,7 +958,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 190,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_75",
@@ -897,7 +971,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 193,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_76",
@@ -909,7 +984,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 193,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_77",
@@ -921,7 +997,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 197,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_78",
@@ -933,7 +1010,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 200,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_79",
@@ -945,7 +1023,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 200,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_80",
@@ -957,7 +1036,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 200,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_81",
@@ -969,7 +1049,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 76,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Broad_82",
@@ -981,7 +1062,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 80,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_83",
@@ -993,7 +1075,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 105,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Rare_84",
@@ -1005,7 +1088,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 120,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_85",
@@ -1017,7 +1101,8 @@
         "LootTag": "Secret",
         "RequiredLevel": 150,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     },
     {
         "Id": "Hotspot_Secret_86",
@@ -1029,6 +1114,20 @@
         "LootTag": "Secret",
         "RequiredLevel": 160,
         "TimeToNibbleSecondsRange": "3-6",
-        "TimeToBiteSecondsRange": "1-1.5"
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
+    },
+    {
+        "Id": "Hotspot_Secret_87",
+        "DisplayName": "@hotspot_secret_87",
+        "FishRarityRollModifier": 24.33,
+        "FishSizeRollModifier": 0,
+        "SummerFishRarityRollModifier": 0,
+        "LootTableId": "FishingHotspotLoot",
+        "LootTag": "Secret",
+        "RequiredLevel": 160,
+        "TimeToNibbleSecondsRange": "3-6",
+        "TimeToBiteSecondsRange": "1-1.5",
+        "Notes": ""
     }
 ]

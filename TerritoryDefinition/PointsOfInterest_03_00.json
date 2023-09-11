@@ -29,6 +29,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -62,6 +63,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -95,6 +97,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -128,6 +131,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -161,6 +165,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_masonry.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -194,6 +199,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_unboundedisland.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -227,6 +233,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_poi_graveyard.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -260,6 +267,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_outpostRush_gate.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -293,6 +301,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_smelting.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -326,6 +335,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -359,6 +369,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_fortress8.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -392,6 +403,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -425,6 +437,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -458,6 +471,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_territory13.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -491,6 +505,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -524,6 +539,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -557,6 +573,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -590,6 +607,7 @@
         "TooltipBackground": "",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -623,6 +641,7 @@
         "TooltipBackground": "",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -641,7 +660,7 @@
         "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
-        "LootTags": "CayoMuerte,Lost",
+        "LootTags": "CayoMuerte,Lost,EPOI",
         "DiscoveredAchievement": "pirate_fort_30016_discovered",
         "ChartedAchievement": "pirate_fort_30016_charted",
         "POITag": "pirate_fort_30016,elite",
@@ -656,6 +675,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_StoneSkullFort.png",
         "GameMode": "",
         "GroupSize": 3,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -689,6 +709,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_fortress8.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -722,6 +743,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_fortress6.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -755,6 +777,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_shipwreck.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -788,6 +811,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_poi_catden.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -821,6 +845,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_poi_catden.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -854,6 +879,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -887,6 +913,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -920,6 +947,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -953,6 +981,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -986,6 +1015,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -1019,6 +1049,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -1052,6 +1083,7 @@
         "TooltipBackground": "/LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -1085,6 +1117,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_darkness_minor_hive.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -1118,6 +1151,7 @@
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_outpostRush_gate.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -1151,6 +1185,7 @@
         "TooltipBackground": "",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -1184,6 +1219,7 @@
         "TooltipBackground": "",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -1217,6 +1253,7 @@
         "TooltipBackground": "",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -1250,6 +1287,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "EventId": ""
     },
@@ -1283,6 +1321,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "EventId": ""
     },
@@ -1316,6 +1355,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_DungeonCutlassKeys00.png",
         "GameMode": "DungeonCutlassKeys00",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
@@ -1349,6 +1389,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "EventId": ""
     },
@@ -1382,6 +1423,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "EventId": ""
     },
@@ -1415,6 +1457,7 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "EventId": ""
     },
@@ -1448,6 +1491,109 @@
         "TooltipBackground": "",
         "GameMode": "",
         "GroupSize": null,
+        "IsCollapsible": true,
+        "UnchartedIcon": "",
+        "EventId": ""
+    },
+    {
+        "TerritoryID": 30045,
+        "NameLocalizationKey": "@Cutlass_Keys_Tower_01",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "",
+        "CompassIcon": "",
+        "DiscoveryRadius": 60,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": 1,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "Cutlass_Keys_Tower_01_30045_charted",
+        "POITag": "Cutlass_Keys_Influence_Tower_01",
+        "AudioGroup": "POI_State",
+        "AudioState": "factionarea",
+        "AudioBank": "",
+        "CanPlaceCamp": false,
+        "DevName": "Cutlass_Keys_Influence_Tower_01",
+        "VitalsCategory": "",
+        "LevelRange": "",
+        "Containers": "",
+        "TooltipBackground": "",
+        "GameMode": "",
+        "GroupSize": null,
+        "IsCollapsible": null,
+        "UnchartedIcon": "",
+        "EventId": ""
+    },
+    {
+        "TerritoryID": 30046,
+        "NameLocalizationKey": "@Cutlass_Keys_Tower_02",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "",
+        "CompassIcon": "",
+        "DiscoveryRadius": 60,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": 1,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "Cutlass_Keys_Tower_02_30046_charted",
+        "POITag": "Cutlass_Keys_Influence_Tower_02",
+        "AudioGroup": "POI_State",
+        "AudioState": "factionarea",
+        "AudioBank": "",
+        "CanPlaceCamp": false,
+        "DevName": "Cutlass_Keys_Influence_Tower_02",
+        "VitalsCategory": "",
+        "LevelRange": "",
+        "Containers": "",
+        "TooltipBackground": "",
+        "GameMode": "",
+        "GroupSize": null,
+        "IsCollapsible": null,
+        "UnchartedIcon": "",
+        "EventId": ""
+    },
+    {
+        "TerritoryID": 30047,
+        "NameLocalizationKey": "@Cutlass_Keys_Tower_03",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "",
+        "CompassIcon": "",
+        "DiscoveryRadius": 60,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": 1,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "",
+        "ChartedAchievement": "Cutlass_Keys_Tower_03_30047_charted",
+        "POITag": "Cutlass_Keys_Influence_Tower_03",
+        "AudioGroup": "POI_State",
+        "AudioState": "factionarea",
+        "AudioBank": "",
+        "CanPlaceCamp": false,
+        "DevName": "Cutlass_Keys_Influence_Tower_03",
+        "VitalsCategory": "",
+        "LevelRange": "",
+        "Containers": "",
+        "TooltipBackground": "",
+        "GameMode": "",
+        "GroupSize": null,
+        "IsCollapsible": null,
         "UnchartedIcon": "",
         "EventId": ""
     }

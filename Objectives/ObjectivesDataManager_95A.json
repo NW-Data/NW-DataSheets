@@ -364,8 +364,8 @@
         "ProgressionReward": "",
         "ExperienceReward": "",
         "ObjectiveReward": "",
-        "ItemRewardName": "UmbralShardT1",
-        "ItemRewardQty": 1000,
+        "ItemRewardName": "DarkMatter",
+        "ItemRewardQty": 40,
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
@@ -689,7 +689,7 @@
     },
     {
         "ObjectiveID": "95A_T01_RiseoftheBeast",
-        "Type": "SeasonQuest",
+        "Type": "Journey",
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",
@@ -732,7 +732,7 @@
     },
     {
         "ObjectiveID": "95A_T02_RiseoftheHero",
-        "Type": "SeasonQuest",
+        "Type": "Journey",
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",
