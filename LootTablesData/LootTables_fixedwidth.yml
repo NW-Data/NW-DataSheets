@@ -5550,6 +5550,7 @@ ChestLootElite:
     Item13              0          1 [LTID]ConcealedVault_Roll                                   
     Item14              0          1 [LTID]VarangianChestFlameCoreEliteTop                       
     Item15              0          1 [LTID]ForgeChestFlameCoreEliteTop                           
+    Item16          99000          1 [LTID]TransmogTokenPurse                                    
 ChestLootEliteGemRoll:
   RollBonusSetting: ClampMax
   AND/OR: OR
@@ -6007,7 +6008,6 @@ FreshwaterFishHotspotRarity:
     Item6          290000          1 [LTID]FishingChestsFresh                                    
     Item7          295000          1 [LBID]FishUltraRandom                                       
     Item8          297500          1 [LBID]FishUltraFresh                                        
-    Item9           99990          1 [LBID]FishUltraFresh                                        
 FreshFishHotspotCommonSize:
   RollBonusSetting: ClampMax
   AND/OR: OR
@@ -6057,7 +6057,6 @@ SaltwaterFishHotspotRarity:
     Item6          290000          1 [LTID]FishingChestsSalt                                     
     Item7          295000          1 [LBID]FishUltraRandom                                       
     Item8          297500          1 [LBID]FishUltraSalt                                         
-    Item9           99990          1 [LBID]FishUltraSalt                                         
 SaltFishHotspotCommonSize:
   RollBonusSetting: ClampMax
   AND/OR: OR
@@ -7994,13 +7993,13 @@ RitualPouch60:
     Item2               0          1 [LBID]AlchemyCritters                                       
     Item3               0        3-4 [LBID]ArcanaRecoveryItems_PlayerLevel                       
 SportsmanSpoils_Roll:
-  RollBonusSetting: AddToRoll
+  RollBonusSetting: ClampMax
   AND/OR: OR
-  MaxRoll: 100000
+  MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1           50000          1 [LBID]SportsmanSpoils                                       
+    Item1               1          0 [LBID]SportsmanSpoils                                       
 SportsmanSpoils:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -12016,6 +12015,23 @@ GoblinLoot60:
     Item1               0          1 [LBID]GlobalNamedList                                       
     Item2               0          1 [LBID]LootGoblin                                            
     Item3               0          1 [LBID]LootGoblin60                                          
+GoblinLoot60_Portal:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Conditions: '[LIM]RafflebonesPortal'
+  TriggerLimitOnVisit: 'TRUE'
+  UseLevelGS: 'TRUE'
+  HWMMult: 1000
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 [LBID]GlobalNamedList                                       
+    Item2               0          1 [LBID]LootGoblin                                            
+    Item3               0          1 [LBID]LootGoblin60                                          
+    Item4               0          1 [LBID]DimensionalTetherPvE                                  
+    Item5               0          1 [LBID]DimensionalTetherPvP                                  
+    Item6               0          1 [LBID]RafflebonesFOTB_DungeonBossGear                       
 CreatureLootMaster_MutatedContainer:
   RollBonusSetting: ClampMax
   AND/OR: AND
@@ -12803,6 +12819,7 @@ BrimstoneEliteSarcophagi:
     Item13              0          1 [LTID]BrimstoneGlyphElite                                   
     Item14              0          1 [LTID]ConcealedVault_Roll                                   
     Item15          90000          1 [LTID]BrimstoneNamed                                        
+    Item16          99000          1 [LTID]TransmogTokenPurse                                    
 ChestLootEliteSarcophagiItemRoll:
   RollBonusSetting: ClampMax
   AND/OR: AND
@@ -12840,6 +12857,7 @@ BrimstoneSulfurSarcophagi:
     Item13              0          1 [LTID]BrimstoneGlyphElite                                   
     Item14              0          1 [LTID]ConcealedVault_Roll                                   
     Item15          90000          1 [LTID]BrimstoneNamed                                        
+    Item16          99000          1 [LTID]TransmogTokenPurse                                    
 BrimstoneGlyphCommon:
   RollBonusSetting: ClampMax
   AND/OR: AND
@@ -12931,6 +12949,7 @@ BrimstoneGlyphLockChests:
     Item12          98000          1 GoldenScarab                                                
     Item13              0          1 [LTID]BrimstoneGlyphElite                                   
     Item14              0          1 [LTID]ConcealedVault_Roll                                   
+    Item15          99000          1 [LTID]TransmogTokenPurse                                    
 BrimstoneGlyphCommon_SerpentsPass:
   RollBonusSetting: ClampMax
   AND/OR: AND
@@ -13640,3 +13659,11 @@ ItemCastLegendaryEarring:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LBID]GypsumCasts                                           
+TransmogTokenPurse:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 TransmogTokenPurse                                          
