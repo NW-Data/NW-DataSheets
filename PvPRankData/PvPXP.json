@@ -1,7 +1,7 @@
 [
     {
         "Level": 0,
-        "DisplayName": "@ui_pvp_rank_name_0",
+        "DisplayName": "Recruit",
         "RequiredLevel": 0,
         "MaximumInfluence": 10000,
         "InfluenceCost": 0,
@@ -18,7 +18,7 @@
     },
     {
         "Level": 1,
-        "DisplayName": "@ui_pvp_rank_name_1",
+        "DisplayName": "Steel",
         "RequiredLevel": 0,
         "MaximumInfluence": 10000,
         "InfluenceCost": 10000,
@@ -28,7 +28,7 @@
         "BorderTier": 1,
         "GameEventId": "PvP_LevelUpItemReward",
         "AzothSaltReward": 750,
-        "RewardDescription": "@ui_pvp_track_bannerrewards_1",
+        "RewardDescription": "Reward Pool: \\n+Named Equipment",
         "SkipStage1Salt": 300,
         "SkipStage2Salt": 300,
         "SkipStage3Salt": 300
@@ -86,7 +86,7 @@
     },
     {
         "Level": 5,
-        "DisplayName": "@ui_pvp_rank_name_2",
+        "DisplayName": "Bronze",
         "RequiredLevel": 0,
         "MaximumInfluence": 10000,
         "InfluenceCost": 10000,
@@ -96,7 +96,7 @@
         "BorderTier": 2,
         "GameEventId": "PvP_LevelUpItemReward",
         "AzothSaltReward": 1000,
-        "RewardDescription": "@ui_pvp_track_bannerrewards_2",
+        "RewardDescription": "Reward Pool: \\n+Prestige Equipment",
         "SkipStage1Salt": 300,
         "SkipStage2Salt": 300,
         "SkipStage3Salt": 300
@@ -341,7 +341,7 @@
     },
     {
         "Level": 20,
-        "DisplayName": "@ui_pvp_rank_name_3",
+        "DisplayName": "Silver",
         "RequiredLevel": 0,
         "MaximumInfluence": 10000,
         "InfluenceCost": 10000,
@@ -351,7 +351,7 @@
         "BorderTier": 3,
         "GameEventId": "PvP_LevelUpItemReward",
         "AzothSaltReward": 1500,
-        "RewardDescription": "@ui_pvp_track_bannerrewards_3",
+        "RewardDescription": "Reward Pool: \\n+Grand Armor\\n+Predator Weapons",
         "SkipStage1Salt": 300,
         "SkipStage2Salt": 300,
         "SkipStage3Salt": 300
@@ -851,7 +851,7 @@
     },
     {
         "Level": 50,
-        "DisplayName": "@ui_pvp_rank_name_4",
+        "DisplayName": "Gold",
         "RequiredLevel": 0,
         "MaximumInfluence": 10000,
         "InfluenceCost": 10000,
@@ -861,7 +861,7 @@
         "BorderTier": 4,
         "GameEventId": "PvP_LevelUpItemReward",
         "AzothSaltReward": 2000,
-        "RewardDescription": "@ui_pvp_track_bannerrewards_4",
+        "RewardDescription": "Reward Pool: \\n+More Dark Matter\\n+More Coin\\n+More Tokens\\n+More Potions",
         "SkipStage1Salt": 300,
         "SkipStage2Salt": 300,
         "SkipStage3Salt": 300
@@ -1701,7 +1701,7 @@
     },
     {
         "Level": 100,
-        "DisplayName": "@ui_pvp_rank_name_5",
+        "DisplayName": "Platinum",
         "RequiredLevel": 0,
         "MaximumInfluence": 10000,
         "InfluenceCost": 10000,
@@ -1711,7 +1711,7 @@
         "BorderTier": 5,
         "GameEventId": "PvP_LevelUpItemReward",
         "AzothSaltReward": 2500,
-        "RewardDescription": "@ui_pvp_track_bannerrewards_5",
+        "RewardDescription": "Reward Pool: \\n+More Dark Matter",
         "SkipStage1Salt": 300,
         "SkipStage2Salt": 300,
         "SkipStage3Salt": 300
@@ -3401,7 +3401,7 @@
     },
     {
         "Level": 200,
-        "DisplayName": "@ui_pvp_rank_name_6",
+        "DisplayName": "Starmetal",
         "RequiredLevel": 0,
         "MaximumInfluence": 10000,
         "InfluenceCost": 10000,
@@ -3411,7 +3411,7 @@
         "BorderTier": 6,
         "GameEventId": "",
         "AzothSaltReward": 5000,
-        "RewardDescription": "@ui_pvp_track_bannerrewards_6",
+        "RewardDescription": "Reward Pool: \\n+More Everything",
         "SkipStage1Salt": 300,
         "SkipStage2Salt": 300,
         "SkipStage3Salt": 300

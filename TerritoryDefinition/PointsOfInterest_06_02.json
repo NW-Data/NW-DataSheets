@@ -1,7 +1,7 @@
 [
     {
         "TerritoryID": 60201,
-        "NameLocalizationKey": "@ui_poi_ruins_60201",
+        "NameLocalizationKey": "Fornax",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -35,7 +35,7 @@
     },
     {
         "TerritoryID": 60202,
-        "NameLocalizationKey": "@ui_poi_shrine_60202",
+        "NameLocalizationKey": "Pisces",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -69,7 +69,7 @@
     },
     {
         "TerritoryID": 60203,
-        "NameLocalizationKey": "@ui_poi_cutthroatcavern_60203",
+        "NameLocalizationKey": "Cutthroat Cavern",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -103,7 +103,7 @@
     },
     {
         "TerritoryID": 60204,
-        "NameLocalizationKey": "@ui_poi_archlightcave_60204",
+        "NameLocalizationKey": "Arclight Cavern",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -137,7 +137,7 @@
     },
     {
         "TerritoryID": 60205,
-        "NameLocalizationKey": "@ui_poi_bunnyisland_60205",
+        "NameLocalizationKey": "Rabbit Island",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -171,7 +171,7 @@
     },
     {
         "TerritoryID": 60206,
-        "NameLocalizationKey": "@ui_poi_ancient_lighthouse_60206",
+        "NameLocalizationKey": "Eridanus",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -192,7 +192,7 @@
         "AudioState": "ancient_lighthouse",
         "AudioBank": "",
         "CanPlaceCamp": false,
-        "DevName": "@ui_poi_ancient_lighthouse_60206",
+        "DevName": "Eridanus",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": "",
@@ -205,7 +205,7 @@
     },
     {
         "TerritoryID": 60207,
-        "NameLocalizationKey": "@ui_poi_ancient_lighthouse_60207",
+        "NameLocalizationKey": "Cassiopeia",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -226,7 +226,7 @@
         "AudioState": "ancient_lighthouse_60207",
         "AudioBank": "",
         "CanPlaceCamp": false,
-        "DevName": "@ui_poi_ancient_lighthouse_60207",
+        "DevName": "Cassiopeia",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": "",
@@ -239,7 +239,7 @@
     },
     {
         "TerritoryID": 60208,
-        "NameLocalizationKey": "@ui_poi_shipwreck_60208",
+        "NameLocalizationKey": "Neptune's Fury",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -260,7 +260,7 @@
         "AudioState": "shipwreck",
         "AudioBank": "Shipwreck",
         "CanPlaceCamp": false,
-        "DevName": "@ui_poi_shipwreck_60208",
+        "DevName": "Neptune's Fury",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": "",
@@ -273,7 +273,7 @@
     },
     {
         "TerritoryID": 60209,
-        "NameLocalizationKey": "@ui_poi_bear_den_60209",
+        "NameLocalizationKey": "Smokeclaw Cave",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -294,7 +294,7 @@
         "AudioState": "bear_den",
         "AudioBank": "",
         "CanPlaceCamp": false,
-        "DevName": "@ui_poi_bear_den_60209",
+        "DevName": "Smokeclaw Cave",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": "",
@@ -307,7 +307,7 @@
     },
     {
         "TerritoryID": 60210,
-        "NameLocalizationKey": "@ui_poi_animalden_60210",
+        "NameLocalizationKey": "Fangsnap's Den",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -341,7 +341,7 @@
     },
     {
         "TerritoryID": 60211,
-        "NameLocalizationKey": "@ui_poi_ravagedwreck_60211",
+        "NameLocalizationKey": "Ravaged Wreck",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -375,7 +375,7 @@
     },
     {
         "TerritoryID": 60212,
-        "NameLocalizationKey": "@ui_poi_festeringflotsam_60212",
+        "NameLocalizationKey": "Festering Flotsam",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -409,7 +409,7 @@
     },
     {
         "TerritoryID": 60213,
-        "NameLocalizationKey": "@ui_poi_decayedcamp_60213",
+        "NameLocalizationKey": "Seele's Stake",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -443,7 +443,7 @@
     },
     {
         "TerritoryID": 60214,
-        "NameLocalizationKey": "@ui_poi_eastshorepier_60214",
+        "NameLocalizationKey": "Eastshore Pier",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -477,7 +477,7 @@
     },
     {
         "TerritoryID": 60215,
-        "NameLocalizationKey": "@ui_poi_bombasticwreckage_60215",
+        "NameLocalizationKey": "The Golden Princess",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -511,7 +511,7 @@
     },
     {
         "TerritoryID": 60216,
-        "NameLocalizationKey": "@ui_poi_solitudecemetery_60216",
+        "NameLocalizationKey": "Solitude Cemetery",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -545,7 +545,7 @@
     },
     {
         "TerritoryID": 60217,
-        "NameLocalizationKey": "@ui_poi_blightedwreck_60217",
+        "NameLocalizationKey": "Minnow's Revenge",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -579,7 +579,7 @@
     },
     {
         "TerritoryID": 60218,
-        "NameLocalizationKey": "@ui_poi_googlywreck_60218",
+        "NameLocalizationKey": "The Plundering Shark",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -613,7 +613,7 @@
     },
     {
         "TerritoryID": 60219,
-        "NameLocalizationKey": "@ui_poi_lookoutwest_60219",
+        "NameLocalizationKey": "Channelview Post",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -647,7 +647,7 @@
     },
     {
         "TerritoryID": 60220,
-        "NameLocalizationKey": "@ui_poi_lookouteast_60220",
+        "NameLocalizationKey": "Oceanview Post",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -681,7 +681,7 @@
     },
     {
         "TerritoryID": 60221,
-        "NameLocalizationKey": "@ui_poi_fortdamnation_60221",
+        "NameLocalizationKey": "Fort Damnation",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -715,7 +715,7 @@
     },
     {
         "TerritoryID": 60222,
-        "NameLocalizationKey": "@ui_poi_blightedcamp_60222",
+        "NameLocalizationKey": "Boarsholm",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -749,7 +749,7 @@
     },
     {
         "TerritoryID": 60223,
-        "NameLocalizationKey": "@ui_poi_accursedcamp_60223",
+        "NameLocalizationKey": "Accursed Camp",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -783,7 +783,7 @@
     },
     {
         "TerritoryID": 60224,
-        "NameLocalizationKey": "@ui_poi_jetsamisle_60224",
+        "NameLocalizationKey": "Jetsam Isle",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -817,7 +817,7 @@
     },
     {
         "TerritoryID": 60225,
-        "NameLocalizationKey": "@ui_poi_ancient_lookout_splitfork_60225",
+        "NameLocalizationKey": "Serpans",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -851,7 +851,7 @@
     },
     {
         "TerritoryID": 60226,
-        "NameLocalizationKey": "@ui_poi_poseidonsplunder_60226",
+        "NameLocalizationKey": "Poseidon's Plunder",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -885,7 +885,7 @@
     },
     {
         "TerritoryID": 60227,
-        "NameLocalizationKey": "@ui_poi_treetopterror_60227",
+        "NameLocalizationKey": "Treetop Terror",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -919,7 +919,7 @@
     },
     {
         "TerritoryID": 60228,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_broad",
+        "NameLocalizationKey": "Broad Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -953,7 +953,7 @@
     },
     {
         "TerritoryID": 60229,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_broad",
+        "NameLocalizationKey": "Broad Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -987,7 +987,7 @@
     },
     {
         "TerritoryID": 60230,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_rare",
+        "NameLocalizationKey": "Rare Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1021,7 +1021,7 @@
     },
     {
         "TerritoryID": 60231,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_rare",
+        "NameLocalizationKey": "Rare Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1055,7 +1055,7 @@
     },
     {
         "TerritoryID": 60232,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_rare",
+        "NameLocalizationKey": "Rare Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1089,7 +1089,7 @@
     },
     {
         "TerritoryID": 60233,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_secret",
+        "NameLocalizationKey": "Secret Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1123,7 +1123,7 @@
     },
     {
         "TerritoryID": 60234,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_secret",
+        "NameLocalizationKey": "Secret Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1157,7 +1157,7 @@
     },
     {
         "TerritoryID": 60235,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_secret",
+        "NameLocalizationKey": "Secret Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1191,7 +1191,7 @@
     },
     {
         "TerritoryID": 60236,
-        "NameLocalizationKey": "@ui_poi_factionarea_60236",
+        "NameLocalizationKey": "The Bluffs",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1225,7 +1225,7 @@
     },
     {
         "TerritoryID": 60237,
-        "NameLocalizationKey": "@ui_poi_factionarea_60237",
+        "NameLocalizationKey": "The Mud Bar",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1259,7 +1259,7 @@
     },
     {
         "TerritoryID": 60238,
-        "NameLocalizationKey": "@ui_poi_dungeonentrance_60238",
+        "NameLocalizationKey": "The Depths",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1293,7 +1293,7 @@
     },
     {
         "TerritoryID": 60239,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_01_60239",
+        "NameLocalizationKey": "Shrine of Sisyphos",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1327,7 +1327,7 @@
     },
     {
         "TerritoryID": 60240,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_02_60240",
+        "NameLocalizationKey": "Shiresad Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1361,7 +1361,7 @@
     },
     {
         "TerritoryID": 60241,
-        "NameLocalizationKey": "@RestlessShores_Settlement_01",
+        "NameLocalizationKey": "Moonbay",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1395,7 +1395,7 @@
     },
     {
         "TerritoryID": 60242,
-        "NameLocalizationKey": "@Restless_Shore_Tower_01",
+        "NameLocalizationKey": "Central Restless Shore Watch",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1429,7 +1429,7 @@
     },
     {
         "TerritoryID": 60243,
-        "NameLocalizationKey": "@Restless_Shore_Tower_02",
+        "NameLocalizationKey": "South Restless Shore Watch",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1463,7 +1463,7 @@
     },
     {
         "TerritoryID": 60244,
-        "NameLocalizationKey": "@Restless_Shore_Tower_03",
+        "NameLocalizationKey": "North Restless Shore Watch",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1497,7 +1497,7 @@
     },
     {
         "TerritoryID": 60245,
-        "NameLocalizationKey": "@ui_poi_factionarea_60245",
+        "NameLocalizationKey": "Skite's Rot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",

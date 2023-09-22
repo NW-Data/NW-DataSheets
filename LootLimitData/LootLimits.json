@@ -475,7 +475,7 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": "@ui_reached_max_fort_takeover_rewards",
+        "LimitNotificationLocTag": "Daily Fort Takeover Rewards Limit Reached!",
         "AchievementAtLimit": "",
         "IsAchievementBound": null
     },
@@ -490,7 +490,7 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": "@ui_reached_max_influencetower_takeover_rewards",
+        "LimitNotificationLocTag": "Daily Influence Tower Rewards Limit Reached!",
         "AchievementAtLimit": "",
         "IsAchievementBound": null
     },
@@ -1945,7 +1945,7 @@
         "LimitExpireSeconds": 86400,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": "@ui_reached_max_daily_mount_consumable_exp_usage",
+        "LimitNotificationLocTag": "Mount daily feeding limit reached",
         "AchievementAtLimit": "",
         "IsAchievementBound": null
     },
@@ -2680,7 +2680,7 @@
         "LimitExpireSeconds": 64800,
         "LootTagValuePerCount": null,
         "LootTagValueOverrideAtLimit": null,
-        "LimitNotificationLocTag": "@ui_reached_max_daily_fotb_rafflebones",
+        "LimitNotificationLocTag": "Fortunes of the Bold Rafflebones daily limit reached",
         "AchievementAtLimit": "",
         "IsAchievementBound": null
     }

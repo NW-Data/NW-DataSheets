@@ -1,7 +1,7 @@
 [
     {
         "VitalsID": "FireMine",
-        "DisplayName": "@FireMine_VitalsName",
+        "DisplayName": "Fire Mine",
         "VitalsCategories": "",
         "Level": null,
         "Family": "",
@@ -176,7 +176,7 @@
     },
     {
         "VitalsID": "IceMagicEntomb",
-        "DisplayName": "@IceMagicEntomb_VitalsName",
+        "DisplayName": "Ice Tomb",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -351,7 +351,7 @@
     },
     {
         "VitalsID": "IceMagicPylon",
-        "DisplayName": "@IceMagicPylon_VitalsName",
+        "DisplayName": "Ice Pylon",
         "VitalsCategories": "",
         "Level": 20,
         "Family": "",
@@ -526,7 +526,7 @@
     },
     {
         "VitalsID": "IceMagicPylonUltimate",
-        "DisplayName": "@IceMagicPylonUltimate_VitalsName",
+        "DisplayName": "Ice Pylon",
         "VitalsCategories": "",
         "Level": 20,
         "Family": "",
@@ -701,7 +701,7 @@
     },
     {
         "VitalsID": "LifeMagicShield",
-        "DisplayName": "@LifeMagicShield_VitalsName",
+        "DisplayName": "Shield of Protection",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -876,7 +876,7 @@
     },
     {
         "VitalsID": "Player",
-        "DisplayName": "@Player_VitalsName",
+        "DisplayName": "Player",
         "VitalsCategories": "Player",
         "Level": null,
         "Family": "",
@@ -1051,7 +1051,7 @@
     },
     {
         "VitalsID": "OR_SiegeWeaponLarge",
-        "DisplayName": "@SiegeWeaponLarge_VitalsName",
+        "DisplayName": "Large Siege Weapon",
         "VitalsCategories": "",
         "Level": null,
         "Family": "",
@@ -1226,7 +1226,7 @@
     },
     {
         "VitalsID": "OR_SiegeWeaponSmall",
-        "DisplayName": "@SiegeWeaponSmall_VitalsName",
+        "DisplayName": "Small Siege Weapon",
         "VitalsCategories": "",
         "Level": null,
         "Family": "",
@@ -1401,7 +1401,7 @@
     },
     {
         "VitalsID": "SiegeWeaponLarge",
-        "DisplayName": "@SiegeWeaponLarge_VitalsName",
+        "DisplayName": "Large Siege Weapon",
         "VitalsCategories": "",
         "Level": null,
         "Family": "",
@@ -1576,7 +1576,7 @@
     },
     {
         "VitalsID": "SiegeWeaponSmall",
-        "DisplayName": "@SiegeWeaponSmall_VitalsName",
+        "DisplayName": "Small Siege Weapon",
         "VitalsCategories": "",
         "Level": null,
         "Family": "",
@@ -1751,7 +1751,7 @@
     },
     {
         "VitalsID": "SiegeWeaponLargeResistsRangedDmg",
-        "DisplayName": "@SiegeWeaponLargeResistsRangedDmg_VitalsName",
+        "DisplayName": "Small Siege Weapon",
         "VitalsCategories": "",
         "Level": null,
         "Family": "",
@@ -1926,7 +1926,7 @@
     },
     {
         "VitalsID": "SiegeWeaponSmallResistsRangedDmg",
-        "DisplayName": "@SiegeWeaponSmallResistsRangedDmg_VitalsName",
+        "DisplayName": "Large Siege Weapon",
         "VitalsCategories": "",
         "Level": null,
         "Family": "",
@@ -2101,7 +2101,7 @@
     },
     {
         "VitalsID": "Target_Dummy",
-        "DisplayName": "@Target_Dummy_VitalsName",
+        "DisplayName": "Target Dummy",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -2276,7 +2276,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Armored",
-        "DisplayName": "@Target_Dummy_Armored_VitalsName",
+        "DisplayName": "Armored Target Dummy",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -2451,7 +2451,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Boss",
-        "DisplayName": "@Target_Dummy_Boss_VitalsName",
+        "DisplayName": "Boss Hurley",
         "VitalsCategories": "",
         "Level": 65,
         "Family": "",
@@ -2626,7 +2626,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Boss10",
-        "DisplayName": "@Target_Dummy_Boss10_VitalsName",
+        "DisplayName": "Boss Hall",
         "VitalsCategories": "",
         "Level": 10,
         "Family": "",
@@ -2801,7 +2801,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Boss25",
-        "DisplayName": "@Target_Dummy_Boss25_VitalsName",
+        "DisplayName": "Boss Gee",
         "VitalsCategories": "",
         "Level": 25,
         "Family": "",
@@ -2976,7 +2976,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Boss35",
-        "DisplayName": "@Target_Dummy_Boss35_VitalsName",
+        "DisplayName": "Boss Punchkicker",
         "VitalsCategories": "",
         "Level": 35,
         "Family": "",
@@ -3151,7 +3151,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Boss45",
-        "DisplayName": "@Target_Dummy_Boss45_VitalsName",
+        "DisplayName": "Boss Kickpuncher",
         "VitalsCategories": "",
         "Level": 45,
         "Family": "",
@@ -3326,7 +3326,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Boss5",
-        "DisplayName": "@Target_Dummy_Boss5_VitalsName",
+        "DisplayName": "Boss Smol",
         "VitalsCategories": "",
         "Level": 5,
         "Family": "",
@@ -3501,7 +3501,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Boss55",
-        "DisplayName": "@Target_Dummy_Boss55_VitalsName",
+        "DisplayName": "Boss Chrisp Quarry",
         "VitalsCategories": "",
         "Level": 55,
         "Family": "",
@@ -3676,7 +3676,7 @@
     },
     {
         "VitalsID": "Target_Dummy_CC",
-        "DisplayName": "@Target_Dummy_CC_VitalsName",
+        "DisplayName": "Crowd Control Target Dummy",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -3851,7 +3851,7 @@
     },
     {
         "VitalsID": "Target_Dummy_GRIT",
-        "DisplayName": "@Target_Dummy_GRIT_VitalsName",
+        "DisplayName": "GRIT Target Dummy",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -4026,7 +4026,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Heavy_Attack",
-        "DisplayName": "@Target_Dummy_Heavy_Attack_VitalsName",
+        "DisplayName": "Heavy Attack Target Dummy",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -4201,7 +4201,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Light_Attack",
-        "DisplayName": "@Target_Dummy_Light_Attack_VitalsName",
+        "DisplayName": "Light Attack Target Dummy",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -4376,7 +4376,7 @@
     },
     {
         "VitalsID": "Target_Dummy_OneMillion",
-        "DisplayName": "@Target_Dummy_OneMillion_VitalsName",
+        "DisplayName": "Target Dummy 1 Million HP",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -4551,7 +4551,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Patrol",
-        "DisplayName": "@Target_Dummy_Patrol_VitalsName",
+        "DisplayName": "Patrolling Target Dummy",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -4726,7 +4726,7 @@
     },
     {
         "VitalsID": "Target_Dummy_Ranged",
-        "DisplayName": "@Target_Dummy_Ranged_VitalsName",
+        "DisplayName": "Ranged Target Dummy",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -4901,7 +4901,7 @@
     },
     {
         "VitalsID": "Training_Dummy",
-        "DisplayName": "@Training_Dummy_VitalsName",
+        "DisplayName": "Training Dummy",
         "VitalsCategories": "",
         "Level": 60,
         "Family": "",
@@ -5076,7 +5076,7 @@
     },
     {
         "VitalsID": "Trap",
-        "DisplayName": "@Trap_VitalsName",
+        "DisplayName": "Trap",
         "VitalsCategories": "",
         "Level": 1,
         "Family": "",
@@ -5251,7 +5251,7 @@
     },
     {
         "VitalsID": "Trap_Bear",
-        "DisplayName": "@Trap_Bear_VitalsName",
+        "DisplayName": "Bear Trap",
         "VitalsCategories": "",
         "Level": 1,
         "Family": "",

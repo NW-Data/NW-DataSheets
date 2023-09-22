@@ -213,11 +213,11 @@
         "RequiredCategoricalProgressionLevel": null,
         "RequiredProgressionPointId": "",
         "RequiredProgressionPointLevel": null,
-        "UpgradeCardDescription": "@ui_territory_standing_upgrade_description_increase_rate",
+        "UpgradeCardDescription": "Earn more \u0026lt;font color={color}\u0026gt;{stat}\u0026lt;/font\u0026gt; while in {territory}.",
         "UpgradeCardSprite": "LyShineUI/Images/Territory/StandingRewards/GainStanding.dds",
         "UpgradeCardIcon": "LyShineUI/Images/Territory/StandingRewards/GainStanding_icon.dds",
-        "UpgradeCardCategory": "@ui_territory_standing_upgrade_category_standing_gain",
-        "UpgradeCardStat": "@ui_territory_standing_upgrade_stat_territory_standing"
+        "UpgradeCardCategory": "Standing Gain{info}",
+        "UpgradeCardStat": "Territory standing"
     },
     {
         "ProgressionPointId": "TB_GainXP",
@@ -233,11 +233,11 @@
         "RequiredCategoricalProgressionLevel": null,
         "RequiredProgressionPointId": "",
         "RequiredProgressionPointLevel": null,
-        "UpgradeCardDescription": "@ui_territory_standing_upgrade_description_increase_rate",
+        "UpgradeCardDescription": "Earn more \u0026lt;font color={color}\u0026gt;{stat}\u0026lt;/font\u0026gt; while in {territory}.",
         "UpgradeCardSprite": "LyShineUI/Images/Territory/StandingRewards/ExperienceBoost.dds",
         "UpgradeCardIcon": "LyShineUI/Images/Territory/StandingRewards/ExperienceBoost_icon.dds",
-        "UpgradeCardCategory": "@ui_territory_standing_upgrade_category_xp_gain",
-        "UpgradeCardStat": "@ui_territory_standing_upgrade_stat_xp_gain"
+        "UpgradeCardCategory": "XP Gain{info}",
+        "UpgradeCardStat": "XP Gain"
     },
     {
         "ProgressionPointId": "TB_GainStorage",
@@ -253,11 +253,11 @@
         "RequiredCategoricalProgressionLevel": null,
         "RequiredProgressionPointId": "",
         "RequiredProgressionPointLevel": null,
-        "UpgradeCardDescription": "@ui_territory_standing_upgrade_description_increase_stat_no_territory",
+        "UpgradeCardDescription": "Increase \u0026lt;font color={color}\u0026gt;{stat}\u0026lt;/font\u0026gt;.",
         "UpgradeCardSprite": "LyShineUI/Images/Territory/StandingRewards/Storage.dds",
         "UpgradeCardIcon": "LyShineUI/Images/Territory/StandingRewards/Storage_icon.dds",
-        "UpgradeCardCategory": "@ui_territory_standing_upgrade_category_storage",
-        "UpgradeCardStat": "@ui_territory_standing_upgrade_stat_storage"
+        "UpgradeCardCategory": "Storage{info}",
+        "UpgradeCardStat": "Storage"
     },
     {
         "ProgressionPointId": "TB_GainGatherRate",
@@ -273,11 +273,11 @@
         "RequiredCategoricalProgressionLevel": null,
         "RequiredProgressionPointId": "",
         "RequiredProgressionPointLevel": null,
-        "UpgradeCardDescription": "@ui_territory_standing_upgrade_description_increase_stat",
+        "UpgradeCardDescription": "Increase \u0026lt;font color={color}\u0026gt;{stat}\u0026lt;/font\u0026gt; in {territory}.",
         "UpgradeCardSprite": "LyShineUI/Images/Territory/StandingRewards/GatherBoost.dds",
         "UpgradeCardIcon": "LyShineUI/Images/Territory/StandingRewards/GatherBoost_icon.dds",
-        "UpgradeCardCategory": "@ui_territory_standing_upgrade_category_gather",
-        "UpgradeCardStat": "@ui_territory_standing_upgrade_stat_gathering_speed"
+        "UpgradeCardCategory": "Gather{info}",
+        "UpgradeCardStat": "Gathering speed"
     },
     {
         "ProgressionPointId": "TB_GainFactionRep",
@@ -293,11 +293,11 @@
         "RequiredCategoricalProgressionLevel": null,
         "RequiredProgressionPointId": "",
         "RequiredProgressionPointLevel": null,
-        "UpgradeCardDescription": "@ui_territory_standing_upgrade_description_increase_rate",
+        "UpgradeCardDescription": "Earn more \u0026lt;font color={color}\u0026gt;{stat}\u0026lt;/font\u0026gt; while in {territory}.",
         "UpgradeCardSprite": "LyShineUI/Images/Territory/StandingRewards/FactionReputation.dds",
         "UpgradeCardIcon": "LyShineUI/Images/Territory/StandingRewards/FactionReputation_icon.dds",
-        "UpgradeCardCategory": "@ui_territory_standing_upgrade_category_reputation",
-        "UpgradeCardStat": "@ui_territory_standing_upgrade_stat_faction_rep"
+        "UpgradeCardCategory": "Faction Reputation{info}",
+        "UpgradeCardStat": "Faction Reputation"
     },
     {
         "ProgressionPointId": "TB_GainHousePoints",
@@ -313,11 +313,11 @@
         "RequiredCategoricalProgressionLevel": null,
         "RequiredProgressionPointId": "",
         "RequiredProgressionPointLevel": null,
-        "UpgradeCardDescription": "@ui_territory_standing_upgrade_description_increase_stat",
+        "UpgradeCardDescription": "Increase \u0026lt;font color={color}\u0026gt;{stat}\u0026lt;/font\u0026gt; in {territory}.",
         "UpgradeCardSprite": "LyShineUI/Images/Territory/StandingRewards/HousePoint.dds",
         "UpgradeCardIcon": "LyShineUI/Images/Territory/StandingRewards/HousePoint_icon.dds",
-        "UpgradeCardCategory": "@ui_territory_standing_upgrade_category_housepoint",
-        "UpgradeCardStat": "@ui_territory_standing_upgrade_stat_house_point"
+        "UpgradeCardCategory": "House Items{info}",
+        "UpgradeCardStat": "The maximum number of house items you can place"
     },
     {
         "ProgressionPointId": "TB_TaxTradingPost",
@@ -333,11 +333,11 @@
         "RequiredCategoricalProgressionLevel": null,
         "RequiredProgressionPointId": "",
         "RequiredProgressionPointLevel": null,
-        "UpgradeCardDescription": "@ui_territory_standing_upgrade_description_decrease_stat",
+        "UpgradeCardDescription": "Decrease \u0026lt;font color={color}\u0026gt;{stat}\u0026lt;/font\u0026gt; in {territory}.",
         "UpgradeCardSprite": "LyShineUI/Images/Territory/StandingRewards/TradingTax.dds",
         "UpgradeCardIcon": "LyShineUI/Images/Territory/StandingRewards/TradingTax_icon.dds",
-        "UpgradeCardCategory": "@ui_territory_standing_upgrade_category_trading_tax",
-        "UpgradeCardStat": "@ui_territory_standing_upgrade_stat_trading_tax"
+        "UpgradeCardCategory": "Trading Tax{info}",
+        "UpgradeCardStat": "Trading tax rate"
     },
     {
         "ProgressionPointId": "TB_TaxStations",
@@ -353,11 +353,11 @@
         "RequiredCategoricalProgressionLevel": null,
         "RequiredProgressionPointId": "",
         "RequiredProgressionPointLevel": null,
-        "UpgradeCardDescription": "@ui_territory_standing_upgrade_description_decrease_stat",
+        "UpgradeCardDescription": "Decrease \u0026lt;font color={color}\u0026gt;{stat}\u0026lt;/font\u0026gt; in {territory}.",
         "UpgradeCardSprite": "LyShineUI/Images/Territory/StandingRewards/StationFee.dds",
         "UpgradeCardIcon": "LyShineUI/Images/Territory/StandingRewards/StationFee_icon.dds",
-        "UpgradeCardCategory": "@ui_territory_standing_upgrade_category_crafting_fee",
-        "UpgradeCardStat": "@ui_territory_standing_upgrade_stat_crafting_fee"
+        "UpgradeCardCategory": "Station fee{info}",
+        "UpgradeCardStat": "Crafting fee"
     },
     {
         "ProgressionPointId": "TB_TaxProperty",
@@ -373,11 +373,11 @@
         "RequiredCategoricalProgressionLevel": null,
         "RequiredProgressionPointId": "",
         "RequiredProgressionPointLevel": null,
-        "UpgradeCardDescription": "@ui_territory_standing_upgrade_description_decrease_stat",
+        "UpgradeCardDescription": "Decrease \u0026lt;font color={color}\u0026gt;{stat}\u0026lt;/font\u0026gt; in {territory}.",
         "UpgradeCardSprite": "LyShineUI/Images/Territory/StandingRewards/PropertyTax.dds",
         "UpgradeCardIcon": "LyShineUI/Images/Territory/StandingRewards/PropertyTax_icon.dds",
-        "UpgradeCardCategory": "@ui_territory_standing_upgrade_category_property_tax",
-        "UpgradeCardStat": "@ui_territory_standing_upgrade_stat_property_tax"
+        "UpgradeCardCategory": "Property Upkeep{info}",
+        "UpgradeCardStat": "Property Upkeep"
     },
     {
         "ProgressionPointId": "TB_PurchaseHouse",
@@ -393,10 +393,10 @@
         "RequiredCategoricalProgressionLevel": 1,
         "RequiredProgressionPointId": "",
         "RequiredProgressionPointLevel": null,
-        "UpgradeCardDescription": "@ui_territory_standing_upgrade_description_own_house",
+        "UpgradeCardDescription": "You can own a house in {territory}.",
         "UpgradeCardSprite": "LyShineUI/Images/Territory/StandingRewards/HouseOwnership.dds",
         "UpgradeCardIcon": "LyShineUI/Images/Territory/StandingRewards/HouseOwnership_icon.dds",
-        "UpgradeCardCategory": "@ui_territory_standing_upgrade_category_house_ownership",
+        "UpgradeCardCategory": "House Ownership{info}",
         "UpgradeCardStat": ""
     },
     {

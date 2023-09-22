@@ -901,7 +901,7 @@
     },
     {
         "Level": 50,
-        "DisplayName": "@ui_mount_speedboost",
+        "DisplayName": "Speed Bonus",
         "RequiredLevel": 0,
         "MaximumInfluence": 1350,
         "InfluenceCost": 550,
@@ -913,7 +913,7 @@
         "EntitlementId": "",
         "XpReward": 0,
         "MountDashVfxId": "cfx_mounts.traversal.speedlines.level_2",
-        "Tooltip": "@ui_mount_speedboost_tooltip",
+        "Tooltip": "Increases the max speed of your mount while riding.",
         "IconPath": "LyShineUI/Images/Tradeskills/riding_speedboost.png",
         "IsHighlighted": true
     },
@@ -1801,7 +1801,7 @@
     },
     {
         "Level": 100,
-        "DisplayName": "@ui_mount_speedboost",
+        "DisplayName": "Speed Bonus",
         "RequiredLevel": 0,
         "MaximumInfluence": 4050,
         "InfluenceCost": 1650,
@@ -1813,7 +1813,7 @@
         "EntitlementId": "",
         "XpReward": 0,
         "MountDashVfxId": "cfx_mounts.traversal.speedlines.level_3",
-        "Tooltip": "@ui_mount_speedboost_tooltip",
+        "Tooltip": "Increases the max speed of your mount while riding.",
         "IconPath": "LyShineUI/Images/Tradeskills/riding_speedboost.png",
         "IsHighlighted": true
     },
@@ -2701,7 +2701,7 @@
     },
     {
         "Level": 150,
-        "DisplayName": "@ui_mount_speedboost",
+        "DisplayName": "Speed Bonus",
         "RequiredLevel": 0,
         "MaximumInfluence": 5400,
         "InfluenceCost": 4950,
@@ -2713,7 +2713,7 @@
         "EntitlementId": "",
         "XpReward": 0,
         "MountDashVfxId": "cfx_mounts.traversal.speedlines.level_4",
-        "Tooltip": "@ui_mount_speedboost_tooltip",
+        "Tooltip": "Increases the max speed of your mount while riding.",
         "IconPath": "LyShineUI/Images/Tradeskills/riding_speedboost.png",
         "IsHighlighted": true
     },
@@ -3601,7 +3601,7 @@
     },
     {
         "Level": 200,
-        "DisplayName": "@ui_mount_speedboost",
+        "DisplayName": "Speed Bonus",
         "RequiredLevel": 0,
         "MaximumInfluence": 6000,
         "InfluenceCost": 6000,
@@ -3613,7 +3613,7 @@
         "EntitlementId": "",
         "XpReward": 0,
         "MountDashVfxId": "cfx_mounts.traversal.speedlines.level_5",
-        "Tooltip": "@ui_mount_speedboost_tooltip",
+        "Tooltip": "Increases the max speed of your mount while riding.",
         "IconPath": "LyShineUI/Images/Tradeskills/riding_speedboost.png",
         "IsHighlighted": true
     },

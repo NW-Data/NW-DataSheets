@@ -39,7 +39,7 @@
     },
     {
         "TerritoryID": 2,
-        "NameLocalizationKey": "@Brightwood",
+        "NameLocalizationKey": "Brightwood",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": 1,
@@ -77,7 +77,7 @@
     },
     {
         "TerritoryID": 3,
-        "NameLocalizationKey": "@GreatCleave",
+        "NameLocalizationKey": "Great Cleave",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": 1,
@@ -115,7 +115,7 @@
     },
     {
         "TerritoryID": 4,
-        "NameLocalizationKey": "@Everfall",
+        "NameLocalizationKey": "Everfall",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": 1,
@@ -153,7 +153,7 @@
     },
     {
         "TerritoryID": 5,
-        "NameLocalizationKey": "@Reekwater",
+        "NameLocalizationKey": "Reekwater",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -191,7 +191,7 @@
     },
     {
         "TerritoryID": 6,
-        "NameLocalizationKey": "@Windsward",
+        "NameLocalizationKey": "Windsward",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -229,7 +229,7 @@
     },
     {
         "TerritoryID": 7,
-        "NameLocalizationKey": "@ShatteredMountain",
+        "NameLocalizationKey": "Shattered Mountain",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -267,7 +267,7 @@
     },
     {
         "TerritoryID": 8,
-        "NameLocalizationKey": "@Queensport",
+        "NameLocalizationKey": "Ebonscale Reach",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -305,7 +305,7 @@
     },
     {
         "TerritoryID": 9,
-        "NameLocalizationKey": "@FirstLight",
+        "NameLocalizationKey": "Elysian Wilds",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -343,7 +343,7 @@
     },
     {
         "TerritoryID": 10,
-        "NameLocalizationKey": "@CutlassKeys",
+        "NameLocalizationKey": "Cutlass Keys",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -381,7 +381,7 @@
     },
     {
         "TerritoryID": 11,
-        "NameLocalizationKey": "@Mourningdale",
+        "NameLocalizationKey": "Mourningdale",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -419,7 +419,7 @@
     },
     {
         "TerritoryID": 12,
-        "NameLocalizationKey": "@MonarchsBluffs",
+        "NameLocalizationKey": "Monarch's Bluffs",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -457,7 +457,7 @@
     },
     {
         "TerritoryID": 13,
-        "NameLocalizationKey": "@WeaversFen",
+        "NameLocalizationKey": "Weaver's Fen",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -495,7 +495,7 @@
     },
     {
         "TerritoryID": 14,
-        "NameLocalizationKey": "@Edengrove",
+        "NameLocalizationKey": "Edengrove",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -533,7 +533,7 @@
     },
     {
         "TerritoryID": 15,
-        "NameLocalizationKey": "@RestlessShore",
+        "NameLocalizationKey": "Restless Shore",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -571,7 +571,7 @@
     },
     {
         "TerritoryID": 16,
-        "NameLocalizationKey": "@BrimstoneSands",
+        "NameLocalizationKey": "Brimstone Sands",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -2737,7 +2737,7 @@
     },
     {
         "TerritoryID": 74,
-        "NameLocalizationKey": "@DevWorld_Red",
+        "NameLocalizationKey": "DevWorld RED \\n (PRIMARY HUB)",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": 1,
@@ -2775,7 +2775,7 @@
     },
     {
         "TerritoryID": 75,
-        "NameLocalizationKey": "@DevWorld_Blue",
+        "NameLocalizationKey": "DevWorld BLUE \\n(SECONDARY HUB)",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": 1,
@@ -3725,7 +3725,7 @@
     },
     {
         "TerritoryID": 100,
-        "NameLocalizationKey": "@Campground",
+        "NameLocalizationKey": "Campground",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,

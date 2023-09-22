@@ -1,8 +1,8 @@
 [
     {
         "StatusID": "Rapier_Bleed_DOT",
-        "DisplayName": "@Rapier_Bleed_DoT_DisplayName",
-        "Description": "@Rapier_Bleed_DoT_Description",
+        "DisplayName": "Bleed",
+        "Description": "Deals {[Type_StatusEffectData.Rapier_Bleed_DOT.HealthModifierDamageBased * -100]}% of attacker's weapon damage each second.",
         "EffectCategories": "Debuff+Bleed+Dot",
         "PlaceholderIcon": "lyshineui/images/status/SE_BleedT2.png",
         "ShowInUITray": "TRUE",
@@ -250,7 +250,7 @@
     },
     {
         "StatusID": "Rapier_Riposte_Timer",
-        "DisplayName": "@Status_Timer",
+        "DisplayName": "Timer",
         "Description": "",
         "EffectCategories": "Uninterruptible+IgnoreDebuffs",
         "PlaceholderIcon": "",
@@ -499,8 +499,8 @@
     },
     {
         "StatusID": "Rapier_Evasion_Mod2",
-        "DisplayName": "@Rapier_Evasion_Effect_DisplayName",
-        "Description": "@Rapier_Evasion_Effect_Description",
+        "DisplayName": "Evasion",
+        "Description": "You move 20% faster.",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": "TRUE",
@@ -748,8 +748,8 @@
     },
     {
         "StatusID": "Rapier_Evasion_Mod1",
-        "DisplayName": "@Rapier_Evasion_Effect_DisplayName",
-        "Description": "@Rapier_Evasion_Effect_Description",
+        "DisplayName": "Evasion",
+        "Description": "You move 20% faster.",
         "EffectCategories": "Buff",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": "FALSE",
@@ -997,8 +997,8 @@
     },
     {
         "StatusID": "Rapier_Finish_Stam_Mod2",
-        "DisplayName": "@Rapier_Evasion_Effect_DisplayName",
-        "Description": "@Rapier_Evasion_Effect_Description",
+        "DisplayName": "Evasion",
+        "Description": "You move 20% faster.",
         "EffectCategories": "Buff",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": "FALSE",
@@ -1246,8 +1246,8 @@
     },
     {
         "StatusID": "Rapier_Riposte_Stun",
-        "DisplayName": "@Status_Ability_Riposte",
-        "Description": "@Sword_ShieldBash_Description",
+        "DisplayName": "Riposte",
+        "Description": "Stunned for 2 Seconds.",
         "EffectCategories": "Debuff+Stun+CC",
         "PlaceholderIcon": "lyshineui/images/status/SE_Stun.png",
         "ShowInUITray": "TRUE",
@@ -1495,8 +1495,8 @@
     },
     {
         "StatusID": "Rapier_Riposte_Stun_Enhanced",
-        "DisplayName": "@Status_Ability_Riposte",
-        "Description": "@Sword_ShieldBash_Description",
+        "DisplayName": "Riposte",
+        "Description": "Stunned for 2 Seconds.",
         "EffectCategories": "Debuff+Stun+CC",
         "PlaceholderIcon": "lyshineui/images/status/SE_Stun.png",
         "ShowInUITray": "TRUE",
@@ -1744,8 +1744,8 @@
     },
     {
         "StatusID": "Rapier_Evade_Forward_Damage",
-        "DisplayName": "@Status_Empower",
-        "Description": "@Status_Empower_Description",
+        "DisplayName": "Empower",
+        "Description": "You have an active damage increase buff.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT1.png",
         "ShowInUITray": "TRUE",
@@ -2243,7 +2243,7 @@
     {
         "StatusID": "Rapier_BonusDMGAfterAbility",
         "DisplayName": "",
-        "Description": "@Rapier_BonusDMGAfterAbility_Description",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_BonusDMGAfterAbility.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage on your next light or heavy attack after performing an ability. Ends on hit or after \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusDMGAfterAbility.BaseDuration]}s\u0026lt;/font\u0026gt;.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT5.png",
         "ShowInUITray": "1",
@@ -2740,8 +2740,8 @@
     },
     {
         "StatusID": "Rapier_BonusSpeedOnKill",
-        "DisplayName": "@Status_Haste",
-        "Description": "@Rapier_BonusSpeedOnKill_Description",
+        "DisplayName": "Haste",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusSpeedOnKill.MoveSpeedMod * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusSpeedOnKill.BaseDuration]}s\u0026lt;/font\u0026gt; on rapier hits. Can stack up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusSpeedOnKill.StackMax]}\u0026lt;/font\u0026gt; times. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": "1",
@@ -2989,8 +2989,8 @@
     },
     {
         "StatusID": "Rapier_Riposte_Uninterruptible",
-        "DisplayName": "@GreatAxe_DefiantStature_DisplayName",
-        "Description": "@GreatAxe_DefiantStature_Description",
+        "DisplayName": "Defiant Stature",
+        "Description": "Uninterruptible",
         "EffectCategories": "Buff+Uninterruptible",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT3.png",
         "ShowInUITray": "1",
@@ -3238,8 +3238,8 @@
     },
     {
         "StatusID": "Rapier_Riposte_Uninterruptible_Riposte",
-        "DisplayName": "@GreatAxe_DefiantStature_DisplayName",
-        "Description": "@GreatAxe_DefiantStature_Description",
+        "DisplayName": "Defiant Stature",
+        "Description": "Uninterruptible",
         "EffectCategories": "Buff+Uninterruptible",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT3.png",
         "ShowInUITray": "0",
@@ -3487,8 +3487,8 @@
     },
     {
         "StatusID": "Rapier_Riposte_Empower",
-        "DisplayName": "@Rapier_BonusDMGAfterRiposte_DisplayName",
-        "Description": "@Rapier_BonusDMGAfterRiposte_Description",
+        "DisplayName": "Riposte Empower",
+        "Description": "Damage increased by {[Type_StatusEffectData.Rapier_Riposte_Empower.DMGStandard * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT1.png",
         "ShowInUITray": "1",

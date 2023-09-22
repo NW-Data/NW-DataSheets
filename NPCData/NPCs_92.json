@@ -1,8 +1,8 @@
 [
     {
         "NPCId": "9201_Cleric",
-        "Title": "@9201_Cleric_Title",
-        "GenericName": "@9201_Cleric",
+        "Title": "Cleric",
+        "GenericName": "Kristjan Magnuson",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "9201_00_Cleric",
         "ConversationStateId2": "9201_01_Cleric",
@@ -27,8 +27,8 @@
     },
     {
         "NPCId": "9204_Executioner",
-        "Title": "@9204_Executioner_Title",
-        "GenericName": "@9204_Executioner",
+        "Title": "Executioner",
+        "GenericName": "Joseph Black",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "9204_00_Executioner",
         "ConversationStateId2": "9204_01_Executioner",
@@ -53,8 +53,8 @@
     },
     {
         "NPCId": "9205_Blademaster",
-        "Title": "@9205_Blademaster_Title",
-        "GenericName": "@9205_Blademaster",
+        "Title": "Swashbuckler",
+        "GenericName": "Tillian Parsons",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "9205_00_Blademaster",
         "ConversationStateId2": "9205_01_Blademaster",
@@ -79,8 +79,8 @@
     },
     {
         "NPCId": "9202_Hunter",
-        "Title": "@9202_Hunter_Title",
-        "GenericName": "@9202_Hunter",
+        "Title": "Archer",
+        "GenericName": "Ajax Halfhand",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "9202_00_Hunter",
         "ConversationStateId2": "9202_01_Hunter",
@@ -105,8 +105,8 @@
     },
     {
         "NPCId": "9203_FirePriest",
-        "Title": "@9203_FirePriest_Title",
-        "GenericName": "@9203_FirePriest",
+        "Title": "Pyromancer",
+        "GenericName": "Hariq Azar",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "9203_00_FirePriest",
         "ConversationStateId2": "9203_01_FirePriest",
@@ -131,8 +131,8 @@
     },
     {
         "NPCId": "9206_Guardian",
-        "Title": "@9206_Guardian_Title",
-        "GenericName": "@9206_Guardian",
+        "Title": "Guardian",
+        "GenericName": "Gwendolin Drake",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "9206_00_Guardian",
         "ConversationStateId2": "9206_01_Guardian",
@@ -157,8 +157,8 @@
     },
     {
         "NPCId": "9207_Rogue",
-        "Title": "@9207_Rogue_Title",
-        "GenericName": "@9207_Rogue",
+        "Title": "Rogue",
+        "GenericName": "Julien Blackthorn",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "9207_00_Rogue",
         "ConversationStateId2": "9207_01_Rogue",
@@ -183,8 +183,8 @@
     },
     {
         "NPCId": "9208_Shaman",
-        "Title": "@9208_Shaman_Title",
-        "GenericName": "@9208_Shaman",
+        "Title": "Druid",
+        "GenericName": "Fiona Harrower",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "9208_00_Shaman",
         "ConversationStateId2": "9208_01_Shaman",

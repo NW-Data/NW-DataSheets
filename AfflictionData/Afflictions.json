@@ -14,10 +14,10 @@
         "Icon": "acid",
         "BGImage": "poison",
         "FillingColorHex": "80339127",
-        "LocalizedText": "@ui_affliction_poison",
-        "LocalizedTextAfflicted": "@ui_afflicted_poison",
-        "AfflictionTooltipText": "@ui_affliction_poison_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_poison_tooltip"
+        "LocalizedText": "Acid resistance",
+        "LocalizedTextAfflicted": "Acid Burn",
+        "AfflictionTooltipText": "If you run out of acid resistance, you will suffer Acid burn and take 500% more damage from acid. You can remove Acid Burn with Acid Tinctures which can be crafted at an arcane station.",
+        "AfflictedTooltipText": "While suffering acid burn, you take 500% more damage from acid. You can remove Acid Burn with Acid Tnctures which can be crafted at an arcane station."
     },
     {
         "AfflictionID": "AfflictionFrostbite",
@@ -34,10 +34,10 @@
         "Icon": "frostbite",
         "BGImage": "weakness",
         "FillingColorHex": "802e5daa",
-        "LocalizedText": "@ui_affliction_frostbite",
-        "LocalizedTextAfflicted": "@ui_afflicted_frostbite",
-        "AfflictionTooltipText": "@ui_affliction_frostbite_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_frostbite_tooltip"
+        "LocalizedText": "frostbite resistance",
+        "LocalizedTextAfflicted": "frostbitten",
+        "AfflictionTooltipText": "If you run out of frostbite resistance, you will become frostbitten and be unable to run or dodge for {[Afflictions.AfflictionFrostBite.AfflictedDrainTime]} seconds.",
+        "AfflictedTooltipText": "While frostbitten, you cannot run or dodge."
     },
     {
         "AfflictionID": "AfflictionDisease",
@@ -54,10 +54,10 @@
         "Icon": "disease",
         "BGImage": "disease",
         "FillingColorHex": "80a9842e",
-        "LocalizedText": "@ui_affliction_disease",
-        "LocalizedTextAfflicted": "@ui_afflicted_disease",
-        "AfflictionTooltipText": "@ui_affliction_disease_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_disease_tooltip"
+        "LocalizedText": "disease resistance",
+        "LocalizedTextAfflicted": "diseased",
+        "AfflictionTooltipText": "Test1",
+        "AfflictedTooltipText": "Test2"
     },
     {
         "AfflictionID": "AfflictionBleed",
@@ -74,10 +74,10 @@
         "Icon": "bleeding",
         "BGImage": "bleeding",
         "FillingColorHex": "80a82d2d",
-        "LocalizedText": "@ui_affliction_bleeding",
-        "LocalizedTextAfflicted": "@ui_afflicted_bleeding",
-        "AfflictionTooltipText": "@ui_affliction_bleeding_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_bleeding_tooltip"
+        "LocalizedText": "wound resistance",
+        "LocalizedTextAfflicted": "wounded",
+        "AfflictionTooltipText": "If you run out of wound resistance, you will become wounded and regain stamina at a much lower rate.",
+        "AfflictedTooltipText": "While wounded, you regain stamina at a much lower rate."
     },
     {
         "AfflictionID": "AfflictionCurse",
@@ -94,10 +94,10 @@
         "Icon": "curse",
         "BGImage": "curse",
         "FillingColorHex": "80632791",
-        "LocalizedText": "@ui_affliction_curse",
-        "LocalizedTextAfflicted": "@ui_afflicted_curse",
-        "AfflictionTooltipText": "@ui_affliction_curse_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_curse_tooltip"
+        "LocalizedText": "corruption resistance",
+        "LocalizedTextAfflicted": "corrupted",
+        "AfflictionTooltipText": "If you run out of corruption resistance, you will become corrupted and take damage equal to {[Type_StatusEffectData.Curse.HealthModifierPercent * -100]}% base health instantly.",
+        "AfflictedTooltipText": "While corrupted, you lose {[Type_StatusEffectData.Curse.HealthModifierPercent * 100]}% base health instantly."
     },
     {
         "AfflictionID": "AfflictionDrowning",
@@ -114,10 +114,10 @@
         "Icon": "drowning",
         "BGImage": "",
         "FillingColorHex": "802e5daa",
-        "LocalizedText": "@ui_affliction_drowning",
-        "LocalizedTextAfflicted": "@ui_afflicted_drowning",
-        "AfflictionTooltipText": "@ui_affliction_drowning_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_drowning_tooltip"
+        "LocalizedText": "breath",
+        "LocalizedTextAfflicted": "drowning",
+        "AfflictionTooltipText": "If you run out of breath, you suffocate and die.",
+        "AfflictedTooltipText": "You have drowned to death."
     },
     {
         "AfflictionID": "AfflictionImmobilized",
@@ -134,10 +134,10 @@
         "Icon": "frostbite",
         "BGImage": "",
         "FillingColorHex": "802e5daa",
-        "LocalizedText": "@ui_affliction_drowning",
-        "LocalizedTextAfflicted": "@ui_afflicted_drowning",
-        "AfflictionTooltipText": "@ui_affliction_drowning_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_drowning_tooltip"
+        "LocalizedText": "breath",
+        "LocalizedTextAfflicted": "drowning",
+        "AfflictionTooltipText": "If you run out of breath, you suffocate and die.",
+        "AfflictedTooltipText": "You have drowned to death."
     },
     {
         "AfflictionID": "AfflictionBlight",
@@ -154,10 +154,10 @@
         "Icon": "disease",
         "BGImage": "disease",
         "FillingColorHex": "80a9842e",
-        "LocalizedText": "@ui_affliction_blight",
-        "LocalizedTextAfflicted": "@ui_afflicted_blight",
-        "AfflictionTooltipText": "@ui_affliction_blight_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_blight_tooltip"
+        "LocalizedText": "blight resistance",
+        "LocalizedTextAfflicted": "blighted",
+        "AfflictionTooltipText": "If you run out of blight resistance, you will become blighted and deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * -100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds for {[Afflictions.AfflictionBlight.AfflictedDrainTime]} seconds.",
+        "AfflictedTooltipText": "While blighted, you deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * 100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds."
     },
     {
         "AfflictionID": "AfflictionCurse3",
@@ -174,10 +174,10 @@
         "Icon": "combustible",
         "BGImage": "combustible",
         "FillingColorHex": "80853b22",
-        "LocalizedText": "@ui_affliction_mutcurse3",
-        "LocalizedTextAfflicted": "@ui_afflicted_mutcurse3",
-        "AfflictionTooltipText": "@ui_affliction_mutcurse3_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_mutcurse3_tooltip"
+        "LocalizedText": "combustible resistance",
+        "LocalizedTextAfflicted": "combustion",
+        "AfflictionTooltipText": "At the end of this timer, the player with the lowest health is afflicted with Combustible.",
+        "AfflictedTooltipText": "When this timer expires, the player with the lowest percent health becomes Combustible."
     },
     {
         "AfflictionID": "AfflictionCurse4",
@@ -194,10 +194,10 @@
         "Icon": "blowback",
         "BGImage": "blowback",
         "FillingColorHex": "808f5a1d",
-        "LocalizedText": "@ui_affliction_mutcurse4",
-        "LocalizedTextAfflicted": "@ui_afflicted_mutcurse4",
-        "AfflictionTooltipText": "@ui_affliction_mutcurse4_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_mutcurse4_tooltip"
+        "LocalizedText": "blowback resistance",
+        "LocalizedTextAfflicted": "cursed",
+        "AfflictionTooltipText": "If you run out of resistance, a silence zone will be cast on you. The zone will detonate after a time, dealing damage to players. Resistance is shared among all members of your group.",
+        "AfflictedTooltipText": "Using abilities will fill the bar. Blowback is cast on all players once full."
     },
     {
         "AfflictionID": "AfflictionCurse2",
@@ -214,9 +214,9 @@
         "Icon": "combustible",
         "BGImage": "combustible",
         "FillingColorHex": "80853b22",
-        "LocalizedText": "@ui_affliction_mutcurse2",
+        "LocalizedText": "weary resistance",
         "LocalizedTextAfflicted": "@ui_afflicted_mutcurse2",
-        "AfflictionTooltipText": "@ui_affliction_mutcurse2_tooltip",
+        "AfflictionTooltipText": "If you run out of resistance, a Weary zone will be cast on you, slowing your movement and increasing all damage you take. Using abilities increases resistance. Resistance is shared among all members of your group.",
         "AfflictedTooltipText": "@ui_afflicted_mutcurse2_tooltip"
     },
     {
@@ -234,10 +234,10 @@
         "Icon": "spore",
         "BGImage": "combustible",
         "FillingColorHex": "80b0460c",
-        "LocalizedText": "@ui_affliction_spores",
-        "LocalizedTextAfflicted": "@ui_afflicted_spores",
-        "AfflictionTooltipText": "@ui_affliction_spores_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_spores_tooltip"
+        "LocalizedText": "spores resistance",
+        "LocalizedTextAfflicted": "spore drenched",
+        "AfflictionTooltipText": "If you run out of spores resistance, you will become spore drenched and take 25% increased damage from all sources.",
+        "AfflictedTooltipText": "While spore drenched, you take 25% increased damage from all sources."
     },
     {
         "AfflictionID": "AfflictionStunned",
@@ -254,9 +254,9 @@
         "Icon": "frostbite",
         "BGImage": "frostbite",
         "FillingColorHex": "80f8f5f2",
-        "LocalizedText": "@ui_affliction_stunned",
-        "LocalizedTextAfflicted": "@ui_afflicted_stunned",
-        "AfflictionTooltipText": "@ui_affliction_stunned_tooltip",
-        "AfflictedTooltipText": "@ui_afflicted_stunned_tooltip"
+        "LocalizedText": "stun resitance",
+        "LocalizedTextAfflicted": "stunned",
+        "AfflictionTooltipText": "If you get concussed enough, you get stunned and can't move.",
+        "AfflictedTooltipText": "You are stunned and can't move."
     }
 ]

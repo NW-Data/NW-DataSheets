@@ -331,7 +331,7 @@
     },
     {
         "Level": 15,
-        "DisplayName": "@ui_smallprey",
+        "DisplayName": "Small Prey",
         "RequiredLevel": 0,
         "MaximumInfluence": 250,
         "InfluenceCost": 240,
@@ -881,7 +881,7 @@
     },
     {
         "Level": 40,
-        "DisplayName": "@ui_mediumprey",
+        "DisplayName": "Medium Prey",
         "RequiredLevel": 0,
         "MaximumInfluence": 500,
         "InfluenceCost": 490,
@@ -1431,7 +1431,7 @@
     },
     {
         "Level": 65,
-        "DisplayName": "@ui_largeprey",
+        "DisplayName": "Large Prey",
         "RequiredLevel": 0,
         "MaximumInfluence": 751,
         "InfluenceCost": 741,
@@ -2201,7 +2201,7 @@
     },
     {
         "Level": 100,
-        "DisplayName": "@ui_smallpredator",
+        "DisplayName": "Small Predator",
         "RequiredLevel": 0,
         "MaximumInfluence": 1100,
         "InfluenceCost": 1090,
@@ -2751,7 +2751,7 @@
     },
     {
         "Level": 125,
-        "DisplayName": "@ui_largepredator",
+        "DisplayName": "Large Predator",
         "RequiredLevel": 0,
         "MaximumInfluence": 1225,
         "InfluenceCost": 1220,

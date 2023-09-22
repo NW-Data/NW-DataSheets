@@ -1,7 +1,7 @@
 [
     {
         "GatherableID": "95A_S02_Mural1",
-        "DisplayName": "@95A_S02_Mural1_DisplayName",
+        "DisplayName": "Collect Mural Rubbing",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -42,7 +42,7 @@
     },
     {
         "GatherableID": "95A_S02_MarketStone",
-        "DisplayName": "@95A_S02_MarketStone_DisplayName",
+        "DisplayName": "Take Market Tablet",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -83,7 +83,7 @@
     },
     {
         "GatherableID": "95A_S02_SharifCage",
-        "DisplayName": "@95A_S02_SharifCage_DisplayName",
+        "DisplayName": "Open Cage",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -124,7 +124,7 @@
     },
     {
         "GatherableID": "95A_S02_WordOfWater",
-        "DisplayName": "@95A_S02_WordOfWater_DisplayName",
+        "DisplayName": "Take Word of Water",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -165,7 +165,7 @@
     },
     {
         "GatherableID": "95A_S02_GeyserDoorPedestal",
-        "DisplayName": "@95A_S02_GeyserDoorPedestal_DisplayName",
+        "DisplayName": "Place the Word of Water",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -206,7 +206,7 @@
     },
     {
         "GatherableID": "95A_S02_RoyalEgg1",
-        "DisplayName": "@95A_S02_RoyalEgg1_DisplayName",
+        "DisplayName": "Take Mysterious Egg",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -247,7 +247,7 @@
     },
     {
         "GatherableID": "95A_S02_SatyrFlute",
-        "DisplayName": "@95A_S02_SatyrFlute_DisplayName",
+        "DisplayName": "Take Satyr Flute",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -288,7 +288,7 @@
     },
     {
         "GatherableID": "95A_S02_LionMeatSpice",
-        "DisplayName": "@95A_S02_LionMeatSpice_DisplayName",
+        "DisplayName": "Harvest Spice",
         "GatheringAction": "Cutting",
         "GatheringType": "Cutting",
         "GatheringFragment": "",
@@ -329,7 +329,7 @@
     },
     {
         "GatherableID": "95A_S02_LionDish",
-        "DisplayName": "@95A_S02_LionDish_DisplayName",
+        "DisplayName": "Place Zander's Lion Treat",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -370,7 +370,7 @@
     },
     {
         "GatherableID": "95A_S02_LionSong",
-        "DisplayName": "@95A_S02_LionSong_DisplayName",
+        "DisplayName": "Collect Lion Roar",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_S2_FluteGatherSounds",
@@ -411,7 +411,7 @@
     },
     {
         "GatherableID": "95A_S02_PeacockFeathers",
-        "DisplayName": "@95A_S02_PeacockFeathers_DisplayName",
+        "DisplayName": "Take Peacock Feather",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -452,7 +452,7 @@
     },
     {
         "GatherableID": "95A_S02_PeacockStatue",
-        "DisplayName": "@95A_S02_PeacockStatue_DisplayName",
+        "DisplayName": "Place Peacock Feathers",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -493,7 +493,7 @@
     },
     {
         "GatherableID": "95A_S02_PeacockSong",
-        "DisplayName": "@95A_S02_PeacockSong_DisplayName",
+        "DisplayName": "Collect Peacock Cry",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_S2_FluteGatherSounds",
@@ -534,7 +534,7 @@
     },
     {
         "GatherableID": "95A_S02_JackalSong",
-        "DisplayName": "@95A_S02_JackalSong_DisplayName",
+        "DisplayName": "Collect the Jackal's Laugh",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_S2_FluteGatherSounds",
@@ -575,7 +575,7 @@
     },
     {
         "GatherableID": "95A_S02_OpenCaveSong",
-        "DisplayName": "@95A_S02_OpenCaveSong_DisplayName",
+        "DisplayName": "Play Song",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_S2_FluteOpenDoor",
@@ -616,7 +616,7 @@
     },
     {
         "GatherableID": "95A_S02_LuteChest",
-        "DisplayName": "@95A_S02_LuteChest_DisplayName",
+        "DisplayName": "Open Chest",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -657,7 +657,7 @@
     },
     {
         "GatherableID": "95A_S02_EggAltarAmbush",
-        "DisplayName": "@95A_S02_EggAltarAmbush_DisplayName",
+        "DisplayName": "Place a Decoy Egg",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -698,7 +698,7 @@
     },
     {
         "GatherableID": "95A_S02_MapRoomInteract",
-        "DisplayName": "@95A_S02_MapRoomInteract_DisplayName",
+        "DisplayName": "Place the Word of Stone",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -739,7 +739,7 @@
     },
     {
         "GatherableID": "95A_S02_RoyalEgg2",
-        "DisplayName": "@95A_S02_RoyalEgg2_DisplayName",
+        "DisplayName": "Take Mysterious Egg",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -780,7 +780,7 @@
     },
     {
         "GatherableID": "95A_S02_DroneEggshells",
-        "DisplayName": "@95A_S02_DroneEggshells_DisplayName",
+        "DisplayName": "Inspect Drone Egg Remains",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -821,7 +821,7 @@
     },
     {
         "GatherableID": "95A_S02_DroneEggDestructible",
-        "DisplayName": "@95A_S02_DroneEggDestructible_DisplayName",
+        "DisplayName": "Destroy Drone Egg",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -862,7 +862,7 @@
     },
     {
         "GatherableID": "95A_S02_RoyalEggDestructible",
-        "DisplayName": "@95A_S02_RoyalEggDestructible_DisplayName",
+        "DisplayName": "Destroy Royal Egg",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -903,7 +903,7 @@
     },
     {
         "GatherableID": "95A_S02_SharifEggBasket",
-        "DisplayName": "@95A_S02_SharifEggBasket_DisplayName",
+        "DisplayName": "Place Eggs",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -944,7 +944,7 @@
     },
     {
         "GatherableID": "95A_S02_FollowSharif1",
-        "DisplayName": "@95A_S02_ExamineTracks",
+        "DisplayName": "Examine Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -985,7 +985,7 @@
     },
     {
         "GatherableID": "95A_S02_FollowSharif2",
-        "DisplayName": "@95A_S02_FollowTracks",
+        "DisplayName": "Follow Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1026,7 +1026,7 @@
     },
     {
         "GatherableID": "95A_S02_FollowSharif3",
-        "DisplayName": "@95A_S02_FollowTracks",
+        "DisplayName": "Follow Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1067,7 +1067,7 @@
     },
     {
         "GatherableID": "95A_S02_FollowSharif4",
-        "DisplayName": "@95A_S02_FollowTracks",
+        "DisplayName": "Follow Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1108,7 +1108,7 @@
     },
     {
         "GatherableID": "95A_S02_FollowSharif5",
-        "DisplayName": "@95A_S02_ExamineTracks",
+        "DisplayName": "Examine Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1149,7 +1149,7 @@
     },
     {
         "GatherableID": "09A_M1_AzureBlossom",
-        "DisplayName": "@09A_M1_AzureBlossom_DisplayName",
+        "DisplayName": "Collect Azure Blossom",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1190,7 +1190,7 @@
     },
     {
         "GatherableID": "09A_M1_WhisperPlant",
-        "DisplayName": "@09A_M1_WhisperPlant_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1231,7 +1231,7 @@
     },
     {
         "GatherableID": "09A_M1_Sick_DruidA",
-        "DisplayName": "@09A_M1_Sick_DruidA_DisplayName",
+        "DisplayName": "Treat Oren Eriksson",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1272,7 +1272,7 @@
     },
     {
         "GatherableID": "09A_M1_Sick_DruidB",
-        "DisplayName": "@09A_M1_Sick_DruidB_DisplayName",
+        "DisplayName": "Treat Ferula Novik",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1313,7 +1313,7 @@
     },
     {
         "GatherableID": "09A_M1_Sick_DruidC",
-        "DisplayName": "@09A_M1_Sick_DruidC_DisplayName",
+        "DisplayName": "Treat Zayden Bonaro",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1477,7 +1477,7 @@
     },
     {
         "GatherableID": "09A_M2_InvestigateBarrier",
-        "DisplayName": "@09A_M2_InvestigateBarrier_DisplayName",
+        "DisplayName": "Investigate Activity",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1518,7 +1518,7 @@
     },
     {
         "GatherableID": "09A_M2_Cine_OakesMemory",
-        "DisplayName": "@09A_M2_Cine_OakesMemory_DisplayName",
+        "DisplayName": "Witness Morgaine's Power",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1559,7 +1559,7 @@
     },
     {
         "GatherableID": "09A_M3_FoulPlant",
-        "DisplayName": "@09A_M3_FoulPlant_DisplayName",
+        "DisplayName": "Plant Reekpod",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1600,7 +1600,7 @@
     },
     {
         "GatherableID": "09A_M3_SignalWagon",
-        "DisplayName": "@09A_M3_SignalWagon_DisplayName",
+        "DisplayName": "Create Signal Fire",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1641,7 +1641,7 @@
     },
     {
         "GatherableID": "09A_M3_DazedRangerA",
-        "DisplayName": "@09A_M3_DazedRanger_DisplayName",
+        "DisplayName": "Give Inoculate",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1682,7 +1682,7 @@
     },
     {
         "GatherableID": "09A_M3_DazedRangerB",
-        "DisplayName": "@09A_M3_DazedRanger_DisplayName",
+        "DisplayName": "Give Inoculate",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1723,7 +1723,7 @@
     },
     {
         "GatherableID": "09A_M3_DazedRangerC",
-        "DisplayName": "@09A_M3_DazedRanger_DisplayName",
+        "DisplayName": "Give Inoculate",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1764,7 +1764,7 @@
     },
     {
         "GatherableID": "09A_M4_SuspiciousBlood",
-        "DisplayName": "@09A_M4_SuspiciousBlood_DisplayName",
+        "DisplayName": "Study the Clues",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1805,7 +1805,7 @@
     },
     {
         "GatherableID": "09A_M4_PeculiarFootprints",
-        "DisplayName": "@09A_M4_PeculiarFootprints_DisplayName",
+        "DisplayName": "Study the Nearby Flora",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1846,7 +1846,7 @@
     },
     {
         "GatherableID": "09A_M4_ExtinguishFlames",
-        "DisplayName": "@09A_M4_ExtinguishFlames_DisplayName",
+        "DisplayName": "Extinguish Flames",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1887,7 +1887,7 @@
     },
     {
         "GatherableID": "09A_M4_CutWick",
-        "DisplayName": "@09A_M4_CutWick_DisplayName",
+        "DisplayName": "Cut the Wick",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1928,7 +1928,7 @@
     },
     {
         "GatherableID": "09A_M4_InterestingWreckage",
-        "DisplayName": "@09A_M4_InterestingWreckage_DisplayName",
+        "DisplayName": "Interesting Wreckage",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1969,7 +1969,7 @@
     },
     {
         "GatherableID": "09A_M5_FallenLog",
-        "DisplayName": "@09A_M5_FallenLog_DisplayName",
+        "DisplayName": "Collect Thick Sap",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2010,7 +2010,7 @@
     },
     {
         "GatherableID": "09A_M5_Charcoal",
-        "DisplayName": "@09A_M5_Charcoal_DisplayName",
+        "DisplayName": "Collect Burnt Charcoal",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2051,7 +2051,7 @@
     },
     {
         "GatherableID": "09A_M5_ShrineFragment",
-        "DisplayName": "@09A_M5_ShrineFragment_DisplayName",
+        "DisplayName": "Collect Shrine Fragment",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2092,7 +2092,7 @@
     },
     {
         "GatherableID": "09A_M5_RepairShrine",
-        "DisplayName": "@09A_M5_RepairShrine_DisplayName",
+        "DisplayName": "Place Shrine Fragment",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2133,7 +2133,7 @@
     },
     {
         "GatherableID": "09A_M5_TavernDefenseStart",
-        "DisplayName": "@09A_M5_TavernDefenseStart_DisplayName",
+        "DisplayName": "Defend the Tavern",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2174,7 +2174,7 @@
     },
     {
         "GatherableID": "09A_M5_WindowBoardA",
-        "DisplayName": "@09A_M5_WindowBoardA_DisplayName",
+        "DisplayName": "Nail the First Plank",
         "GatheringAction": "Chopping",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2215,7 +2215,7 @@
     },
     {
         "GatherableID": "09A_M5_WindowBoardB",
-        "DisplayName": "@09A_M5_WindowBoardB_DisplayName",
+        "DisplayName": "Nail the Second Plank",
         "GatheringAction": "Chopping",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2256,7 +2256,7 @@
     },
     {
         "GatherableID": "09A_M5_WindowBoardC",
-        "DisplayName": "@09A_M5_WindowBoardC_DisplayName",
+        "DisplayName": "Nail the Final Plank",
         "GatheringAction": "Chopping",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2297,7 +2297,7 @@
     },
     {
         "GatherableID": "09A_M5_WindowBoardD",
-        "DisplayName": "@09A_M5_WindowBoardA_DisplayName",
+        "DisplayName": "Nail the First Plank",
         "GatheringAction": "Chopping",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2338,7 +2338,7 @@
     },
     {
         "GatherableID": "09A_M5_WindowBoardE",
-        "DisplayName": "@09A_M5_WindowBoardB_DisplayName",
+        "DisplayName": "Nail the Second Plank",
         "GatheringAction": "Chopping",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2379,7 +2379,7 @@
     },
     {
         "GatherableID": "09A_M5_WindowBoardF",
-        "DisplayName": "@09A_M5_WindowBoardC_DisplayName",
+        "DisplayName": "Nail the Final Plank",
         "GatheringAction": "Chopping",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2420,7 +2420,7 @@
     },
     {
         "GatherableID": "09A_M6_DroppedSupplies",
-        "DisplayName": "@09A_M6_DroppedSupplies",
+        "DisplayName": "Collect Ramla's Dropped Supplies",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2461,7 +2461,7 @@
     },
     {
         "GatherableID": "09A_M6_BreakBars",
-        "DisplayName": "@09A_M6_BreakBars",
+        "DisplayName": "Open Cell",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2502,7 +2502,7 @@
     },
     {
         "GatherableID": "09A_M7_SabotageMachineryA",
-        "DisplayName": "@09A_M7_SabotageMachinery",
+        "DisplayName": "Sabotage Ancient Machinery",
         "GatheringAction": "ChoppingVertical",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2543,7 +2543,7 @@
     },
     {
         "GatherableID": "09A_M7_SabotageMachineryB",
-        "DisplayName": "@09A_M7_SabotageMachinery",
+        "DisplayName": "Sabotage Ancient Machinery",
         "GatheringAction": "ChoppingVertical",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2584,7 +2584,7 @@
     },
     {
         "GatherableID": "09A_M7_SabotageMachineryC",
-        "DisplayName": "@09A_M7_SabotageMachinery",
+        "DisplayName": "Sabotage Ancient Machinery",
         "GatheringAction": "ChoppingVertical",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2625,7 +2625,7 @@
     },
     {
         "GatherableID": "09A_M8_Drum",
-        "DisplayName": "@09A_M8_Drum_DisplayName",
+        "DisplayName": "Bang the Ceremonial Drum",
         "GatheringAction": "ChoppingVertical",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2666,7 +2666,7 @@
     },
     {
         "GatherableID": "09A_M12_TaurusStatue",
-        "DisplayName": "@09A_M12_TaurusStatue_DisplayName",
+        "DisplayName": "Free Taurus with the Tincture",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2707,7 +2707,7 @@
     },
     {
         "GatherableID": "09A_M13_ArcaneRitual_0",
-        "DisplayName": "@09A_M13_ArcaneRitual_0_DisplayName",
+        "DisplayName": "Place Your Azoth Staff",
         "GatheringAction": "AzothStaffHigh",
         "GatheringType": "AzothStaff",
         "GatheringFragment": "",
@@ -2748,7 +2748,7 @@
     },
     {
         "GatherableID": "09A_M13_ArcaneRitual_1",
-        "DisplayName": "@09A_M13_ArcaneRitual_1_DisplayName",
+        "DisplayName": "Take the Charged Azoth Staff",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2789,7 +2789,7 @@
     },
     {
         "GatherableID": "09A_M13_ArcaneRitual_2",
-        "DisplayName": "@09A_M13_ArcaneRitual_2_DisplayName",
+        "DisplayName": "The Energy Here Seems Drained",
         "GatheringAction": "AzothStaffHigh",
         "GatheringType": "AzothStaff",
         "GatheringFragment": "",
@@ -2830,7 +2830,7 @@
     },
     {
         "GatherableID": "09A_M14_NatureRitual_0",
-        "DisplayName": "@09A_M14_NatureRitual_0_DisplayName",
+        "DisplayName": "Place Your Azoth Staff",
         "GatheringAction": "AzothStaffHigh",
         "GatheringType": "AzothStaff",
         "GatheringFragment": "",
@@ -2871,7 +2871,7 @@
     },
     {
         "GatherableID": "09A_M14_NatureRitual_1",
-        "DisplayName": "@09A_M14_NatureRitual_1_DisplayName",
+        "DisplayName": "Take the Infused Azoth Staff",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -2912,7 +2912,7 @@
     },
     {
         "GatherableID": "09A_M14_NatureRitual_2",
-        "DisplayName": "@09A_M14_NatureRitual_2_DisplayName",
+        "DisplayName": "The Energy Here Seems Drained",
         "GatheringAction": "AzothStaffHigh",
         "GatheringType": "AzothStaff",
         "GatheringFragment": "",
@@ -2953,7 +2953,7 @@
     },
     {
         "GatherableID": "09A_M14_SeedBulb",
-        "DisplayName": "@09A_M14_SeedBulb_DisplayName",
+        "DisplayName": "Harvest the Infused Seed",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -3322,7 +3322,7 @@
     },
     {
         "GatherableID": "09A_M15_Cine_ArtemisDefeat",
-        "DisplayName": "@09A_M15_Cine_ArtemisDefeat_DisplayName",
+        "DisplayName": "Listen to Artemis",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -3363,7 +3363,7 @@
     },
     {
         "GatherableID": "09A_M15_ImprisonSpell",
-        "DisplayName": "@09A_M15_ImprisonSpell_DisplayName",
+        "DisplayName": "Unleash the Spell",
         "GatheringAction": "AzothStaffHigh",
         "GatheringType": "AzothStaff",
         "GatheringFragment": "",
@@ -3404,7 +3404,7 @@
     },
     {
         "GatherableID": "09A_M15_TearOfGaia",
-        "DisplayName": "@09A_M15_TearOfGaia_DisplayName",
+        "DisplayName": "Collect Tear of Gaea",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -3445,7 +3445,7 @@
     },
     {
         "GatherableID": "09A_S0_SporePod",
-        "DisplayName": "@09A_S0_SporePod_DisplayName",
+        "DisplayName": "Spore Pod",
         "GatheringAction": "Cutting",
         "GatheringType": "Cutting",
         "GatheringFragment": "",
@@ -3486,7 +3486,7 @@
     },
     {
         "GatherableID": "09A_S1_Boar_Trapped",
-        "DisplayName": "@09A_S1_Boar_Trapped_DisplayName",
+        "DisplayName": "Free the Trapped Boar",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -3527,7 +3527,7 @@
     },
     {
         "GatherableID": "09A_S1_Deer_Trapped",
-        "DisplayName": "@09A_S1_Deer_Trapped_DisplayName",
+        "DisplayName": "Free the Trapped Deer",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -3568,7 +3568,7 @@
     },
     {
         "GatherableID": "09A_S1_FloraTrap",
-        "DisplayName": "@09A_S1_FloraTrap_DisplayName",
+        "DisplayName": "Destroy Flora Trap",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -3609,7 +3609,7 @@
     },
     {
         "GatherableID": "09A_S2_Ranger_TrappedA",
-        "DisplayName": "@09A_S2_Ranger_Trapped_DisplayName",
+        "DisplayName": "Burst the Vile Pod",
         "GatheringAction": "Chopping",
         "GatheringType": "Chopping",
         "GatheringFragment": "",
@@ -3650,7 +3650,7 @@
     },
     {
         "GatherableID": "09A_S2_Ranger_TrappedB",
-        "DisplayName": "@09A_S2_Ranger_Trapped_DisplayName",
+        "DisplayName": "Burst the Vile Pod",
         "GatheringAction": "Chopping",
         "GatheringType": "Chopping",
         "GatheringFragment": "",
@@ -3691,7 +3691,7 @@
     },
     {
         "GatherableID": "09A_S2_Ranger_TrappedC",
-        "DisplayName": "@09A_S2_Ranger_Trapped_DisplayName",
+        "DisplayName": "Burst the Vile Pod",
         "GatheringAction": "Chopping",
         "GatheringType": "Chopping",
         "GatheringFragment": "",
@@ -3732,7 +3732,7 @@
     },
     {
         "GatherableID": "09A_S2_Ranger_TrappedD",
-        "DisplayName": "@09A_S2_Ranger_Trapped_DisplayName",
+        "DisplayName": "Burst the Vile Pod",
         "GatheringAction": "Chopping",
         "GatheringType": "Chopping",
         "GatheringFragment": "",
@@ -3773,7 +3773,7 @@
     },
     {
         "GatherableID": "09A_S2_LostPod",
-        "DisplayName": "@09A_S2_LostPod_DisplayName",
+        "DisplayName": "Burst the Vile Pod",
         "GatheringAction": "Chopping",
         "GatheringType": "Chopping",
         "GatheringFragment": "",
@@ -3855,7 +3855,7 @@
     },
     {
         "GatherableID": "09A_S3_FreshKill",
-        "DisplayName": "@09A_S3_FreshKill_DisplayName",
+        "DisplayName": "Inspect Stag Remains",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -3896,7 +3896,7 @@
     },
     {
         "GatherableID": "09A_S3_GorillaBloodTrailA",
-        "DisplayName": "@09A_S3_GorillaBloodTrail_DisplayName",
+        "DisplayName": "Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -3937,7 +3937,7 @@
     },
     {
         "GatherableID": "09A_S3_GorillaBloodTrailB",
-        "DisplayName": "@09A_S3_GorillaBloodTrail_DisplayName",
+        "DisplayName": "Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -3978,7 +3978,7 @@
     },
     {
         "GatherableID": "09A_S3_GorillaBloodTrailC",
-        "DisplayName": "@09A_S3_GorillaBloodTrail_DisplayName",
+        "DisplayName": "Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4019,7 +4019,7 @@
     },
     {
         "GatherableID": "09A_S3_GorillaBloodTrailD",
-        "DisplayName": "@09A_S3_GorillaBloodTrail_DisplayName",
+        "DisplayName": "Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4060,7 +4060,7 @@
     },
     {
         "GatherableID": "09A_S3_GorillaBloodTrailE",
-        "DisplayName": "@09A_S3_GorillaBloodTrail_DisplayName",
+        "DisplayName": "Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4101,7 +4101,7 @@
     },
     {
         "GatherableID": "09A_S3_GorillaBloodTrailF",
-        "DisplayName": "@09A_S3_GorillaBloodTrail_DisplayName",
+        "DisplayName": "Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4142,7 +4142,7 @@
     },
     {
         "GatherableID": "09A_S3_GorillaBloodTrailG",
-        "DisplayName": "@09A_S3_GorillaBloodTrail_DisplayName",
+        "DisplayName": "Tracks",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4183,7 +4183,7 @@
     },
     {
         "GatherableID": "09A_S4_ExplosiveBarrelC",
-        "DisplayName": "@09A_S4_ExplosiveBarrelC_DisplayName",
+        "DisplayName": "Collect Explosive Barrel",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4224,7 +4224,7 @@
     },
     {
         "GatherableID": "09A_S4_ExplosiveBarrelC2",
-        "DisplayName": "@09A_S4_ExplosiveBarrelC2_DisplayName",
+        "DisplayName": "Collect Explosive Barrel",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4265,7 +4265,7 @@
     },
     {
         "GatherableID": "09A_S4_ExplosiveBarrelC3",
-        "DisplayName": "@09A_S4_ExplosiveBarrelC3_DisplayName",
+        "DisplayName": "Collect Explosive Barrel",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4306,7 +4306,7 @@
     },
     {
         "GatherableID": "09A_S4_ExplosiveBarrelP",
-        "DisplayName": "@09A_S4_ExplosiveBarrelP_DisplayName",
+        "DisplayName": "Place Explosive Barrel",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4347,7 +4347,7 @@
     },
     {
         "GatherableID": "09A_S4_ExplosiveBarrelP2",
-        "DisplayName": "@09A_S4_ExplosiveBarrelP2_DisplayName",
+        "DisplayName": "Place Explosive Barrel",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4388,7 +4388,7 @@
     },
     {
         "GatherableID": "09A_S4_ExplosiveBarrelP3",
-        "DisplayName": "@09A_S4_ExplosiveBarrelP3_DisplayName",
+        "DisplayName": "Place Explosive Barrel",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4429,7 +4429,7 @@
     },
     {
         "GatherableID": "09A_S4_LureIngre",
-        "DisplayName": "@09A_S4_LureIngre_DisplayName",
+        "DisplayName": "Collect Pheromone Lure Ingredient",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4470,7 +4470,7 @@
     },
     {
         "GatherableID": "09A_S4_LureIngre2",
-        "DisplayName": "@09A_S4_LureIngre2_DisplayName",
+        "DisplayName": "Collect Pheromone Lure Ingredient",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4511,7 +4511,7 @@
     },
     {
         "GatherableID": "09A_S4_LureIngre3",
-        "DisplayName": "@09A_S4_LureIngre3_DisplayName",
+        "DisplayName": "Collect Pheromone Lure Ingredient",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4552,7 +4552,7 @@
     },
     {
         "GatherableID": "09A_S4_Lure",
-        "DisplayName": "@09A_S4_Lure_DisplayName",
+        "DisplayName": "Create Pheromone Lure",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4593,7 +4593,7 @@
     },
     {
         "GatherableID": "09A_S4_LureSwarm",
-        "DisplayName": "@09A_S4_LureSwarm_DisplayName",
+        "DisplayName": "Wait for Angry Earth to Swarm the Lure",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4634,7 +4634,7 @@
     },
     {
         "GatherableID": "09A_S4_LureSwarmPin",
-        "DisplayName": "@09A_S4_LureSwarmPin_DisplayName",
+        "DisplayName": "Wait for Angry Earth to Swarm the Lure",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4675,7 +4675,7 @@
     },
     {
         "GatherableID": "09A_S4_Detonator",
-        "DisplayName": "@09A_S4_Detonator_DisplayName",
+        "DisplayName": "Use Detonator",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4716,7 +4716,7 @@
     },
     {
         "GatherableID": "09A_S5_AbandonedList",
-        "DisplayName": "@09A_S5_AbandonedList_DisplayName",
+        "DisplayName": "Inspect Abandoned List",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4757,7 +4757,7 @@
     },
     {
         "GatherableID": "09A_S5_DepletedMedicalSupplies",
-        "DisplayName": "@09A_S5_DepletedMedicalSupplies_DisplayName",
+        "DisplayName": "Collect Depleted Medical Supplies",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4798,7 +4798,7 @@
     },
     {
         "GatherableID": "09A_S5_BrokenArms",
-        "DisplayName": "@09A_S5_BrokenArms_DisplayName",
+        "DisplayName": "Collect Broken Arms",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4839,7 +4839,7 @@
     },
     {
         "GatherableID": "09A_S5_CaveFightProx",
-        "DisplayName": "@09A_S5_CaveFightProx_DisplayName",
+        "DisplayName": "Prepare for the Fight",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4880,7 +4880,7 @@
     },
     {
         "GatherableID": "09A_S5_CaveFight",
-        "DisplayName": "@09A_S5_CaveFight_DisplayName",
+        "DisplayName": "Collect Rotten Reserves",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -4921,7 +4921,7 @@
     },
     {
         "GatherableID": "09A_S6_MigrationEvidence",
-        "DisplayName": "@09A_S6_MigrationEvidence_DisplayName",
+        "DisplayName": "Track Migration Evidence",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5126,7 +5126,7 @@
     },
     {
         "GatherableID": "09A_S6_MEInteractable",
-        "DisplayName": "@09A_S6_MEInteractable_DisplayName",
+        "DisplayName": "Collect Migration Evidence",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5167,7 +5167,7 @@
     },
     {
         "GatherableID": "09A_S7_Journal",
-        "DisplayName": "@09A_S7_Journal_DisplayName",
+        "DisplayName": "Examine Journal",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5208,7 +5208,7 @@
     },
     {
         "GatherableID": "09A_S7_Sarcophagus",
-        "DisplayName": "@09A_S7_Sarcophagus_DisplayName",
+        "DisplayName": "Inspect Sarcophagus",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5249,7 +5249,7 @@
     },
     {
         "GatherableID": "Cyclic_09A_S7_CL1",
-        "DisplayName": "@Cyclic_09A_S7_CL1_DisplayName",
+        "DisplayName": "Rotate Stone",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5290,7 +5290,7 @@
     },
     {
         "GatherableID": "Cyclic_09A_S7_CL2",
-        "DisplayName": "@Cyclic_09A_S7_CL2_DisplayName",
+        "DisplayName": "Rotate Stone",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5331,7 +5331,7 @@
     },
     {
         "GatherableID": "Cyclic_09A_S7_CL3",
-        "DisplayName": "@Cyclic_09A_S7_CL3_DisplayName",
+        "DisplayName": "Rotate Stone",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5372,7 +5372,7 @@
     },
     {
         "GatherableID": "09A_S8_Pylon1",
-        "DisplayName": "@09A_S8_Pylon1_DisplayName",
+        "DisplayName": "Repair Ancient Pylon",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5413,7 +5413,7 @@
     },
     {
         "GatherableID": "09A_S8_Pylon2",
-        "DisplayName": "@09A_S8_Pylon2_DisplayName",
+        "DisplayName": "Repair Ancient Pylon",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5454,7 +5454,7 @@
     },
     {
         "GatherableID": "09A_S8_AncientScroll",
-        "DisplayName": "@09A_S8_AncientScroll_DisplayName",
+        "DisplayName": "Study Ancient Writing",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5495,7 +5495,7 @@
     },
     {
         "GatherableID": "09A_S8_Interface",
-        "DisplayName": "@09A_S8_Interface_DisplayName",
+        "DisplayName": "Activate Ancient Interface",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5536,7 +5536,7 @@
     },
     {
         "GatherableID": "09A_S9_Breaker",
-        "DisplayName": "@09A_S9_Breaker_DisplayName",
+        "DisplayName": "Activate Breaker",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5577,7 +5577,7 @@
     },
     {
         "GatherableID": "09A_S9_Tool1",
-        "DisplayName": "@09A_S9_Tool1_DisplayName",
+        "DisplayName": "Collect Tool",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5618,7 +5618,7 @@
     },
     {
         "GatherableID": "09A_S9_Tool2",
-        "DisplayName": "@09A_S9_Tool2_DisplayName",
+        "DisplayName": "Collect Tool",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5659,7 +5659,7 @@
     },
     {
         "GatherableID": "09A_S9_Tool3",
-        "DisplayName": "@09A_S9_Tool3_DisplayName",
+        "DisplayName": "Collect Tool",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5700,7 +5700,7 @@
     },
     {
         "GatherableID": "09A_S9_Drink",
-        "DisplayName": "@09A_S9_Drink_DisplayName",
+        "DisplayName": "Pour Water",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5741,7 +5741,7 @@
     },
     {
         "GatherableID": "09A_S9_BrokenCable",
-        "DisplayName": "@09A_S9_BrokenCable_DisplayName",
+        "DisplayName": "Repair Pylon",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5782,7 +5782,7 @@
     },
     {
         "GatherableID": "09A_S9_DefendHacker",
-        "DisplayName": "@09A_S9_DefendHacker_DisplayName",
+        "DisplayName": "Initiate Hack",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5823,7 +5823,7 @@
     },
     {
         "GatherableID": "09A_S10_MinotaurRelicA",
-        "DisplayName": "@09A_S10_MinotaurRelicA_DisplayName",
+        "DisplayName": "Take Intricately Carved Horn",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5864,7 +5864,7 @@
     },
     {
         "GatherableID": "09A_S10_MinotaurRelicB",
-        "DisplayName": "@09A_S10_MinotaurRelicB_DisplayName",
+        "DisplayName": "Take Bloodstained Shackles",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5905,7 +5905,7 @@
     },
     {
         "GatherableID": "09A_S10_MinotaurRelicC",
-        "DisplayName": "@09A_S10_MinotaurRelicC_DisplayName",
+        "DisplayName": "Take Shattered Rings",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5946,7 +5946,7 @@
     },
     {
         "GatherableID": "09A_S11_BrazierA",
-        "DisplayName": "@09A_S11_BrazierA_DisplayName",
+        "DisplayName": "Light the Brazier of Agility",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -5987,7 +5987,7 @@
     },
     {
         "GatherableID": "09A_S11_BrazierB",
-        "DisplayName": "@09A_S11_BrazierB_DisplayName",
+        "DisplayName": "Light the Brazier of Strength",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6028,7 +6028,7 @@
     },
     {
         "GatherableID": "09A_S11_BrazierC",
-        "DisplayName": "@09A_S11_BrazierC_DisplayName",
+        "DisplayName": "Light the Brazier of Cunning",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6069,7 +6069,7 @@
     },
     {
         "GatherableID": "09A_S11_BrazierD",
-        "DisplayName": "@09A_S11_BrazierD_DisplayName",
+        "DisplayName": "Light the Brazier of Endurance",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6110,7 +6110,7 @@
     },
     {
         "GatherableID": "09A_S12_GorillaMemorial",
-        "DisplayName": "@09A_S12_GorillaMemorial_DisplayName",
+        "DisplayName": "Pay Tribute",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6151,7 +6151,7 @@
     },
     {
         "GatherableID": "09A_S12_MammothMemorial",
-        "DisplayName": "@09A_S12_MammothMemorial_DisplayName",
+        "DisplayName": "Pay Tribute",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6192,7 +6192,7 @@
     },
     {
         "GatherableID": "09A_S12_HumanMemorial",
-        "DisplayName": "@09A_S12_HumanMemorial_DisplayName",
+        "DisplayName": "Pay Tribute",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6233,7 +6233,7 @@
     },
     {
         "GatherableID": "09A_S13_SummonGazsala",
-        "DisplayName": "@09A_S13_SummonGazsala_DisplayName",
+        "DisplayName": "Challenge Gazsala Thiss",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6274,7 +6274,7 @@
     },
     {
         "GatherableID": "09A_S16_ReroutePylonA",
-        "DisplayName": "@09A_S16_ReroutePylon_DisplayName",
+        "DisplayName": "Divert Pylon",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6315,7 +6315,7 @@
     },
     {
         "GatherableID": "09A_S16_ReroutePylonB",
-        "DisplayName": "@09A_S16_ReroutePylon_DisplayName",
+        "DisplayName": "Divert Pylon",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6356,7 +6356,7 @@
     },
     {
         "GatherableID": "09A_S16_ReroutePylonC",
-        "DisplayName": "@09A_S16_ReroutePylon_DisplayName",
+        "DisplayName": "Divert Pylon",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6397,7 +6397,7 @@
     },
     {
         "GatherableID": "09A_S16_ThrowSwitch",
-        "DisplayName": "@09A_S16_ThrowSwitch_DisplayName",
+        "DisplayName": "Throw the Switch",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6438,7 +6438,7 @@
     },
     {
         "GatherableID": "09A_S17_ProtectRanger",
-        "DisplayName": "@09A_S17_ProtectRanger_DisplayName",
+        "DisplayName": "Repair Supply Wagon",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6479,7 +6479,7 @@
     },
     {
         "GatherableID": "09A_S17_WagonSupplies",
-        "DisplayName": "@09A_S17_WagonSupplies_DisplayName",
+        "DisplayName": "Take Supplies",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6520,7 +6520,7 @@
     },
     {
         "GatherableID": "09A_S17_RangerSupplies",
-        "DisplayName": "@09A_S17_RangerSupplies_DisplayName",
+        "DisplayName": "Restock Ammunition",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6561,7 +6561,7 @@
     },
     {
         "GatherableID": "09A_S17_Barricade",
-        "DisplayName": "@09A_S17_Barricade_DisplayName",
+        "DisplayName": "Repair Barricade",
         "GatheringAction": "ChoppingVertical",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6602,7 +6602,7 @@
     },
     {
         "GatherableID": "09A_S17_Cannon",
-        "DisplayName": "@09A_S17_Cannon_DisplayName",
+        "DisplayName": "Fire Cannon",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6643,7 +6643,7 @@
     },
     {
         "GatherableID": "09A_S18_SiphonPlace",
-        "DisplayName": "@09A_S18_SiphonPlace_DisplayName",
+        "DisplayName": "Place Siphon Device",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6684,7 +6684,7 @@
     },
     {
         "GatherableID": "09A_S18_SiphonCollect",
-        "DisplayName": "@09A_S18_SiphonCollect_DisplayName",
+        "DisplayName": "Collect Siphon Device",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6725,7 +6725,7 @@
     },
     {
         "GatherableID": "09A_S19_Plant",
-        "DisplayName": "@09A_S19_Plant_DisplayName",
+        "DisplayName": "Plant Trahern's Sapling",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6766,7 +6766,7 @@
     },
     {
         "GatherableID": "09A_S19_Plant2",
-        "DisplayName": "@09A_S19_Plant_DisplayName",
+        "DisplayName": "Plant Trahern's Sapling",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6807,7 +6807,7 @@
     },
     {
         "GatherableID": "09A_S19_Plant3",
-        "DisplayName": "@09A_S19_Plant_DisplayName",
+        "DisplayName": "Plant Trahern's Sapling",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6848,7 +6848,7 @@
     },
     {
         "GatherableID": "09A_S21_IntriguingArtifacts",
-        "DisplayName": "@09A_S21_IntriguingArtifacts_DisplayName",
+        "DisplayName": "Collect Gorgoneion Relics",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6889,7 +6889,7 @@
     },
     {
         "GatherableID": "09A_WhisperPlant_Nyhart",
-        "DisplayName": "@09A_WhisperPlant_Nyhart_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6930,7 +6930,7 @@
     },
     {
         "GatherableID": "09A_WhisperPlant_Dayspring",
-        "DisplayName": "@09A_WhisperPlant_Dayspring_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -6971,7 +6971,7 @@
     },
     {
         "GatherableID": "09A_WhisperPlant_Settlement",
-        "DisplayName": "@09A_WhisperPlant_Settlement_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7012,7 +7012,7 @@
     },
     {
         "GatherableID": "09A_WhisperPlant_Tanglesnap",
-        "DisplayName": "@09A_WhisperPlant_Tanglesnap_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7053,7 +7053,7 @@
     },
     {
         "GatherableID": "09A_WhisperPlant_Mammoths",
-        "DisplayName": "@09A_WhisperPlant_Mammoths_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7094,7 +7094,7 @@
     },
     {
         "GatherableID": "09A_WhisperPlant_Mahantaram",
-        "DisplayName": "@09A_WhisperPlant_Mahantaram_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7135,7 +7135,7 @@
     },
     {
         "GatherableID": "09A_WhisperPlant_Medusa",
-        "DisplayName": "@09A_WhisperPlant_Medusa_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7176,7 +7176,7 @@
     },
     {
         "GatherableID": "09A_WhisperPlant_ScalefangEnclave",
-        "DisplayName": "@09A_WhisperPlant_ScalefangEnclave_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7217,7 +7217,7 @@
     },
     {
         "GatherableID": "09A_WhisperPlant_LightsCrown",
-        "DisplayName": "@09A_WhisperPlant_LightsCrown_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7258,7 +7258,7 @@
     },
     {
         "GatherableID": "09A_WhisperPlant_ElafryPyrgo",
-        "DisplayName": "@09A_WhisperPlant_ElafryPyrgo_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7299,7 +7299,7 @@
     },
     {
         "GatherableID": "09A_WhisperPlant_Letum",
-        "DisplayName": "@09A_WhisperPlant_ElafryPyrgo_DisplayName",
+        "DisplayName": "Examine Murmuring Root",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7340,7 +7340,7 @@
     },
     {
         "GatherableID": "99D_MSQ_01_BrokenCart",
-        "DisplayName": "@99D_MSQ_01_BrokenCart_DisplayName",
+        "DisplayName": "Fix Cart",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_BlacksmithLoop",
@@ -7381,7 +7381,7 @@
     },
     {
         "GatherableID": "99D_MSQ_01_LootedCart",
-        "DisplayName": "@99D_MSQ_01_LootedCart_DisplayName",
+        "DisplayName": "Place Supplies",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7422,7 +7422,7 @@
     },
     {
         "GatherableID": "99D_MSQ_01_SupplyCrateFood",
-        "DisplayName": "@99D_MSQ_01_SupplyCrateFood_DisplayName",
+        "DisplayName": "Recover Stolen Food",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7463,7 +7463,7 @@
     },
     {
         "GatherableID": "99D_MSQ_01_SupplyCrateArmor",
-        "DisplayName": "@99D_MSQ_01_SupplyCrateArmor_DisplayName",
+        "DisplayName": "Recover Stolen Armor",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7504,7 +7504,7 @@
     },
     {
         "GatherableID": "99D_MSQ_01_SupplyCrateWeapons",
-        "DisplayName": "@99D_MSQ_01_SupplyCrateWeapons_DisplayName",
+        "DisplayName": "Recover Stolen Weapons",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7545,7 +7545,7 @@
     },
     {
         "GatherableID": "99D_MSQ_02_Fountain",
-        "DisplayName": "@99D_MSQ_02_Fountain_DisplayName",
+        "DisplayName": "Recover Ancient Knowledge",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7586,7 +7586,7 @@
     },
     {
         "GatherableID": "99D_MSQ_BarricadesChop1",
-        "DisplayName": "@99D_MSQ_Barricades_DisplayName",
+        "DisplayName": "Chop Barricades",
         "GatheringAction": "Chopping",
         "GatheringType": "Chopping",
         "GatheringFragment": "",
@@ -7627,7 +7627,7 @@
     },
     {
         "GatherableID": "99D_MSQ_BarricadesChop2",
-        "DisplayName": "@99D_MSQ_Barricades_DisplayName",
+        "DisplayName": "Chop Barricades",
         "GatheringAction": "Chopping",
         "GatheringType": "Chopping",
         "GatheringFragment": "",
@@ -7668,7 +7668,7 @@
     },
     {
         "GatherableID": "99D_MSQ_BarricadesChop3",
-        "DisplayName": "@99D_MSQ_Barricades_DisplayName",
+        "DisplayName": "Chop Barricades",
         "GatheringAction": "Chopping",
         "GatheringType": "Chopping",
         "GatheringFragment": "",
@@ -7709,7 +7709,7 @@
     },
     {
         "GatherableID": "99D_MSQ_BallistaExplode",
-        "DisplayName": "@99D_MSQ_Ballista_DisplayName",
+        "DisplayName": "Destroy Cannon",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7750,7 +7750,7 @@
     },
     {
         "GatherableID": "99D_MSQ_04_MineCarts",
-        "DisplayName": "@99D_MSQ_04_MineCarts_DisplayName",
+        "DisplayName": "Destroy Mine Carts",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7791,7 +7791,7 @@
     },
     {
         "GatherableID": "99D_MSQ_04_MineCarts2",
-        "DisplayName": "@99D_MSQ_04_MineCarts_DisplayName",
+        "DisplayName": "Destroy Mine Carts",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7832,7 +7832,7 @@
     },
     {
         "GatherableID": "99D_MSQ_04_MineCarts3",
-        "DisplayName": "@99D_MSQ_04_MineCarts_DisplayName",
+        "DisplayName": "Destroy Mine Carts",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7873,7 +7873,7 @@
     },
     {
         "GatherableID": "99D_MSQ_04_MineCarts4",
-        "DisplayName": "@99D_MSQ_04_MineCarts_DisplayName",
+        "DisplayName": "Destroy Mine Carts",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7914,7 +7914,7 @@
     },
     {
         "GatherableID": "99D_MSQ_BallistaChop",
-        "DisplayName": "@99D_MSQ_Ballista_DisplayName",
+        "DisplayName": "Destroy Cannon",
         "GatheringAction": "Chopping",
         "GatheringType": "Chopping",
         "GatheringFragment": "",
@@ -7955,7 +7955,7 @@
     },
     {
         "GatherableID": "99D_MSQ_FireCannon",
-        "DisplayName": "@99D_MSQ_FireBallista_DisplayName",
+        "DisplayName": "Fire Cannon",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -7996,7 +7996,7 @@
     },
     {
         "GatherableID": "99D_MSQ_BarricadesDamage1",
-        "DisplayName": "@99D_MSQ_Barricades_DisplayName",
+        "DisplayName": "Chop Barricades",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -8037,7 +8037,7 @@
     },
     {
         "GatherableID": "99D_MSQ_BarricadesDamage2",
-        "DisplayName": "@99D_MSQ_Barricades_DisplayName",
+        "DisplayName": "Chop Barricades",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -8078,7 +8078,7 @@
     },
     {
         "GatherableID": "99D_MSQ_BarricadesDamage3",
-        "DisplayName": "@99D_MSQ_Barricades_DisplayName",
+        "DisplayName": "Chop Barricades",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -8119,7 +8119,7 @@
     },
     {
         "GatherableID": "99D_MSQ_06_UnfinishedPortals",
-        "DisplayName": "@99D_MSQ_06_UnfinishedPortals_DisplayName",
+        "DisplayName": "Destroy Unfinished Portal",
         "GatheringAction": "Mining",
         "GatheringType": "Mining",
         "GatheringFragment": "",
@@ -8160,7 +8160,7 @@
     },
     {
         "GatherableID": "99D_MSQ_06_UnfinishedPortals2",
-        "DisplayName": "@99D_MSQ_06_UnfinishedPortals_DisplayName",
+        "DisplayName": "Destroy Unfinished Portal",
         "GatheringAction": "Mining",
         "GatheringType": "Mining",
         "GatheringFragment": "",
@@ -8201,7 +8201,7 @@
     },
     {
         "GatherableID": "99D_MSQ_06_UnfinishedPortals3",
-        "DisplayName": "@99D_MSQ_06_UnfinishedPortals_DisplayName",
+        "DisplayName": "Destroy Unfinished Portal",
         "GatheringAction": "Mining",
         "GatheringType": "Mining",
         "GatheringFragment": "",
@@ -8242,7 +8242,7 @@
     },
     {
         "GatherableID": "99D_MSQ_06_UnfinishedPortals4",
-        "DisplayName": "@99D_MSQ_06_UnfinishedPortals_DisplayName",
+        "DisplayName": "Destroy Unfinished Portal",
         "GatheringAction": "Mining",
         "GatheringType": "Mining",
         "GatheringFragment": "",
@@ -8283,7 +8283,7 @@
     },
     {
         "GatherableID": "99D_MSQ_06_UnfinishedPortals5",
-        "DisplayName": "@99D_MSQ_06_UnfinishedPortals_DisplayName",
+        "DisplayName": "Destroy Unfinished Portal",
         "GatheringAction": "Mining",
         "GatheringType": "Mining",
         "GatheringFragment": "",
@@ -8324,7 +8324,7 @@
     },
     {
         "GatherableID": "99D_MSQ_09_MedicineCrates",
-        "DisplayName": "@99D_MSQ_09_MedicineCrates_DisplayName",
+        "DisplayName": "Search for Medicine",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -8365,7 +8365,7 @@
     },
     {
         "GatherableID": "99D_MSQ_09_MedicineCrates2",
-        "DisplayName": "@99D_MSQ_09_MedicineCrates_DisplayName",
+        "DisplayName": "Search for Medicine",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -8406,7 +8406,7 @@
     },
     {
         "GatherableID": "99D_MSQ_09_MedicineCrates3",
-        "DisplayName": "@99D_MSQ_09_MedicineCrates_DisplayName",
+        "DisplayName": "Search for Medicine",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -8447,7 +8447,7 @@
     },
     {
         "GatherableID": "99D_MSQ_10_LogPile1",
-        "DisplayName": "@99D_MSQ_10_LogPile_DisplayName",
+        "DisplayName": "Chop Wood",
         "GatheringAction": "Chopping",
         "GatheringType": "Chopping",
         "GatheringFragment": "",
@@ -8488,7 +8488,7 @@
     },
     {
         "GatherableID": "99D_MSQ_10_StonePile1",
-        "DisplayName": "@99D_MSQ_10_StonePile_DisplayName",
+        "DisplayName": "Mine Stones",
         "GatheringAction": "Mining",
         "GatheringType": "Mining",
         "GatheringFragment": "",
@@ -8529,7 +8529,7 @@
     },
     {
         "GatherableID": "99D_MSQ_10_LogPile2",
-        "DisplayName": "@99D_MSQ_10_LogPile_DisplayName",
+        "DisplayName": "Chop Wood",
         "GatheringAction": "Chopping",
         "GatheringType": "Chopping",
         "GatheringFragment": "",
@@ -8570,7 +8570,7 @@
     },
     {
         "GatherableID": "99D_MSQ_10_StonePile2",
-        "DisplayName": "@99D_MSQ_10_StonePile_DisplayName",
+        "DisplayName": "Mine Stones",
         "GatheringAction": "Mining",
         "GatheringType": "Mining",
         "GatheringFragment": "",
@@ -8611,7 +8611,7 @@
     },
     {
         "GatherableID": "99D_MSQ_10_BuildBarricade1",
-        "DisplayName": "@99D_MSQ_10_BuildBarricade_DisplayName",
+        "DisplayName": "Build Barricade",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_BlacksmithLoop",
@@ -8652,7 +8652,7 @@
     },
     {
         "GatherableID": "99D_MSQ_10_BuildBarricade2",
-        "DisplayName": "@99D_MSQ_10_BuildBarricade_DisplayName",
+        "DisplayName": "Build Barricade",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_BlacksmithLoop",
@@ -8693,7 +8693,7 @@
     },
     {
         "GatherableID": "99D_MSQ_10_BuildBarricade3",
-        "DisplayName": "@99D_MSQ_10_BuildBarricade_DisplayName",
+        "DisplayName": "Build Barricade",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_BlacksmithLoop",
@@ -8734,7 +8734,7 @@
     },
     {
         "GatherableID": "99D_MSQ_10_BuildBarricade4",
-        "DisplayName": "@99D_MSQ_10_BuildBarricade_DisplayName",
+        "DisplayName": "Build Barricade",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_BlacksmithLoop",
@@ -8775,7 +8775,7 @@
     },
     {
         "GatherableID": "99D_MSQ_ShrineTeleport",
-        "DisplayName": "@99D_MSQ_ShrineTeleport_DisplayName",
+        "DisplayName": "Enter Portal to Svikin's Stand",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -8816,7 +8816,7 @@
     },
     {
         "GatherableID": "99D_MSQ_CorruptedPortal",
-        "DisplayName": "@99D_MSQ_CorruptedPortal_DisplayName",
+        "DisplayName": "Enter Portal",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -8857,7 +8857,7 @@
     },
     {
         "GatherableID": "99D_MSQ_Thorpe_CinematicStart",
-        "DisplayName": "@99D_MSQ_Thorpe_CinematicStart_DisplayName",
+        "DisplayName": "Read about Thorpe's Past",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -8898,7 +8898,7 @@
     },
     {
         "GatherableID": "Cyclic_99D_MSQ_01_Cart",
-        "DisplayName": "@99D_MSQ_01_BrokenCart_DisplayName",
+        "DisplayName": "Fix Cart",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_BlacksmithLoop",
@@ -8939,7 +8939,7 @@
     },
     {
         "GatherableID": "Cyclic_99D_MSQ_corrupt_puzzleStone1",
-        "DisplayName": "@Cyclic_06A_MSQ_puzzlestone_DisplayName",
+        "DisplayName": "Rotate Stone",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -8980,7 +8980,7 @@
     },
     {
         "GatherableID": "Cyclic_99D_MSQ_corrupt_puzzleStone2",
-        "DisplayName": "@Cyclic_06A_MSQ_puzzlestone_DisplayName",
+        "DisplayName": "Rotate Stone",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -9021,7 +9021,7 @@
     },
     {
         "GatherableID": "Cyclic_99D_MSQ_BallistaRotate",
-        "DisplayName": "@Cyclic_99D_MSQ_BallistaRotate_DisplayName",
+        "DisplayName": "Rotate Cannon",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -11358,7 +11358,7 @@
     },
     {
         "GatherableID": "99E_World_ClearingVines",
-        "DisplayName": "@99E_MSQ_01_MuralVines_DisplayName",
+        "DisplayName": "Cut the Overgrowth",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -11440,7 +11440,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Obs_AncientMuralA",
-        "DisplayName": "@99E_MSQ_01_ExamineMural_DisplayName",
+        "DisplayName": "Examine Mural",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -11481,7 +11481,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Obs_AncientMuralB",
-        "DisplayName": "@99E_MSQ_01_ExamineMural_DisplayName",
+        "DisplayName": "Examine Mural",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -11522,7 +11522,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Obs_AncientMuralC",
-        "DisplayName": "@99E_MSQ_01_ExamineMural_DisplayName",
+        "DisplayName": "Examine Mural",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -11563,7 +11563,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Cyclic_AncientTumblerA",
-        "DisplayName": "@99E_MSQ_01_RotateTumbler_DisplayName",
+        "DisplayName": "Rotate Tumbler",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -11604,7 +11604,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Cyclic_AncientTumblerB",
-        "DisplayName": "@99E_MSQ_01_RotateTumbler_DisplayName",
+        "DisplayName": "Rotate Tumbler",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -11645,7 +11645,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Cyclic_AncientTumblerC",
-        "DisplayName": "@99E_MSQ_01_RotateTumbler_DisplayName",
+        "DisplayName": "Rotate Tumbler",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -11686,7 +11686,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Dam_MuralVinesA",
-        "DisplayName": "@99E_MSQ_01_MuralVines_DisplayName",
+        "DisplayName": "Cut the Overgrowth",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -11727,7 +11727,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Dam_MuralVinesB",
-        "DisplayName": "@99E_MSQ_01_MuralVines_DisplayName",
+        "DisplayName": "Cut the Overgrowth",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12014,7 +12014,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Cine_AncientMural",
-        "DisplayName": "@99E_MSQ_01_ExamineMural_DisplayName",
+        "DisplayName": "Examine Mural",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -12055,7 +12055,7 @@
     },
     {
         "GatherableID": "99E_MSQ_02_MyrddinCrystalsA",
-        "DisplayName": "@99E_MSQ_02_CreagCrystals_DisplayName",
+        "DisplayName": "Gather Creag Crystals",
         "GatheringAction": "Mining",
         "GatheringType": "Mining",
         "GatheringFragment": "",
@@ -12096,7 +12096,7 @@
     },
     {
         "GatherableID": "99E_MSQ_02_MyrddinCrystalsB",
-        "DisplayName": "@99E_MSQ_02_CreagCrystals_DisplayName",
+        "DisplayName": "Gather Creag Crystals",
         "GatheringAction": "Mining",
         "GatheringType": "Mining",
         "GatheringFragment": "",
@@ -12137,7 +12137,7 @@
     },
     {
         "GatherableID": "99E_MSQ_02_Obs_CrystalCaveA",
-        "DisplayName": "@99E_MSQ_02_ExamineEtchings_DisplayName",
+        "DisplayName": "Examine Glyphs",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -12178,7 +12178,7 @@
     },
     {
         "GatherableID": "99E_MSQ_02_Obs_CrystalCaveB",
-        "DisplayName": "@99E_MSQ_02_ExamineEquipment_DisplayName",
+        "DisplayName": "Examine the Discarded Book",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -12219,7 +12219,7 @@
     },
     {
         "GatherableID": "99E_MSQ_02_Obs_CrystalCaveC",
-        "DisplayName": "@99E_MSQ_02_ExamineMaterials_DisplayName",
+        "DisplayName": "Inspect the Pendant",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12260,7 +12260,7 @@
     },
     {
         "GatherableID": "99E_MSQ_03_AEPoolA",
-        "DisplayName": "@99E_MSQ_03_AEPool_DisplayName",
+        "DisplayName": "Commune with the Pool",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12301,7 +12301,7 @@
     },
     {
         "GatherableID": "99E_MSQ_03_AEPoolB",
-        "DisplayName": "@99E_MSQ_03_AEPool_DisplayName",
+        "DisplayName": "Commune with the Pool",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12342,7 +12342,7 @@
     },
     {
         "GatherableID": "99E_MSQ_03_AEPoolC",
-        "DisplayName": "@99E_MSQ_03_AEPool_DisplayName",
+        "DisplayName": "Commune with the Pool",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12383,7 +12383,7 @@
     },
     {
         "GatherableID": "99E_MSQ_04_AzothCompassA",
-        "DisplayName": "@99E_MSQ_04_AzothCompass_DisplayName",
+        "DisplayName": "Place Azoth Staff",
         "GatheringAction": "AzothStaffCreate",
         "GatheringType": "AzothStaff",
         "GatheringFragment": "",
@@ -12424,7 +12424,7 @@
     },
     {
         "GatherableID": "99E_MSQ_04_AzothCompassB",
-        "DisplayName": "@99E_MSQ_04_AzothCompass_DisplayName",
+        "DisplayName": "Place Azoth Staff",
         "GatheringAction": "AzothStaffCreate",
         "GatheringType": "AzothStaff",
         "GatheringFragment": "",
@@ -12465,7 +12465,7 @@
     },
     {
         "GatherableID": "99E_MSQ_04_AzothCompassC",
-        "DisplayName": "@99E_MSQ_04_AzothCompass_DisplayName",
+        "DisplayName": "Place Azoth Staff",
         "GatheringAction": "AzothStaffCreate",
         "GatheringType": "AzothStaff",
         "GatheringFragment": "",
@@ -12547,7 +12547,7 @@
     },
     {
         "GatherableID": "99E_MSQ_05_MyrddinDeviceA",
-        "DisplayName": "@99E_MSQ_05_MyrddinDeviceA_DisplayName",
+        "DisplayName": "Insert Morgaine's Crystal",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12588,7 +12588,7 @@
     },
     {
         "GatherableID": "99E_MSQ_05_MyrddinDeviceB",
-        "DisplayName": "@99E_MSQ_05_MyrddinDeviceB_DisplayName",
+        "DisplayName": "Insert Galahad's Crystal",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12629,7 +12629,7 @@
     },
     {
         "GatherableID": "99E_MSQ_05_MyrddinDeviceB_Left",
-        "DisplayName": "@99E_MSQ_05_MyrddinDeviceB_Sides_DisplayName",
+        "DisplayName": "Use Galahad's Crystal",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12670,7 +12670,7 @@
     },
     {
         "GatherableID": "99E_MSQ_05_MyrddinDeviceB_Right",
-        "DisplayName": "@99E_MSQ_05_MyrddinDeviceB_Sides_DisplayName",
+        "DisplayName": "Use Galahad's Crystal",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12711,7 +12711,7 @@
     },
     {
         "GatherableID": "99E_MSQ_05_ArtoriusShield",
-        "DisplayName": "@99E_MSQ_05_ArtoriusShield_DisplayName",
+        "DisplayName": "Take Discarded Shield",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12752,7 +12752,7 @@
     },
     {
         "GatherableID": "99E_MSQ_05_ShieldMount",
-        "DisplayName": "@99E_MSQ_05_ShieldMount_DisplayName",
+        "DisplayName": "Mount Shield",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12793,7 +12793,7 @@
     },
     {
         "GatherableID": "99E_MSQ_05_GalahadKey",
-        "DisplayName": "@99E_MSQ_05_GalahadCrystal_DisplayName",
+        "DisplayName": "Take Crystal",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12834,7 +12834,7 @@
     },
     {
         "GatherableID": "99E_MSQ_05_Tele_TowerPortal",
-        "DisplayName": "@99E_MSQ_05_EnterPortal_DisplayName",
+        "DisplayName": "Enter Portal",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12875,7 +12875,7 @@
     },
     {
         "GatherableID": "99E_MSQ_06_Tele_PrisonPortal",
-        "DisplayName": "@99E_MSQ_05_EnterPortal_DisplayName",
+        "DisplayName": "Enter Portal",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12957,7 +12957,7 @@
     },
     {
         "GatherableID": "99E_MSQ_07_Obs_MineDetailsA",
-        "DisplayName": "@99E_MSQ_07_ExamineWalls_DisplayName",
+        "DisplayName": "Examine Mine Wall",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -12998,7 +12998,7 @@
     },
     {
         "GatherableID": "99E_MSQ_07_Obs_MineDetailsB",
-        "DisplayName": "@99E_MSQ_07_ExamineTools_DisplayName",
+        "DisplayName": "Examine Discarded Tools",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -13039,7 +13039,7 @@
     },
     {
         "GatherableID": "99E_MSQ_07_StaffHeadpiece",
-        "DisplayName": "@99E_MSQ_07_RetrieveStaff_DisplayName",
+        "DisplayName": "Retrieve Myrddin's Staff",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13080,7 +13080,7 @@
     },
     {
         "GatherableID": "99E_MSQ_08_Obs_AELocationA",
-        "DisplayName": "@99E_MSQ_08_ExamineArea_DisplayName",
+        "DisplayName": "Search Area",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -13121,7 +13121,7 @@
     },
     {
         "GatherableID": "99E_MSQ_08_Obs_AELocationB",
-        "DisplayName": "@99E_MSQ_08_ExamineArea_DisplayName",
+        "DisplayName": "Search Area",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -13162,7 +13162,7 @@
     },
     {
         "GatherableID": "99E_MSQ_09_ORI_CorruptStaff",
-        "DisplayName": "@99E_MSQ_09_PlaceCorrStaff_DisplayName",
+        "DisplayName": "Place Corrupted Headpiece",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13203,7 +13203,7 @@
     },
     {
         "GatherableID": "99E_MSQ_09_ORI_PureStaff",
-        "DisplayName": "@99E_MSQ_09_TakePureStaff_DisplayName",
+        "DisplayName": "Take Purified Staff",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13326,7 +13326,7 @@
     },
     {
         "GatherableID": "99E_MSQ_10_Cine_BrokenPole",
-        "DisplayName": "@99E_MSQ_09_BrokenPole_DisplayName",
+        "DisplayName": "Touch Broken Pole",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -13408,7 +13408,7 @@
     },
     {
         "GatherableID": "94_BeastMural",
-        "DisplayName": "@94_BeastMural_DisplayName",
+        "DisplayName": "Commune",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pray",
@@ -13449,7 +13449,7 @@
     },
     {
         "GatherableID": "94_BeastTorch",
-        "DisplayName": "@94_BeastMural_DisplayName",
+        "DisplayName": "Commune",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13490,7 +13490,7 @@
     },
     {
         "GatherableID": "94_AzothOats",
-        "DisplayName": "@94_AzothOats_DisplayName",
+        "DisplayName": "Harvest Azoth Infused Oats",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13531,7 +13531,7 @@
     },
     {
         "GatherableID": "94_CageWolf1",
-        "DisplayName": "@94_Cage_DisplayName",
+        "DisplayName": "Unlock Cage",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13572,7 +13572,7 @@
     },
     {
         "GatherableID": "94_CageWolf2",
-        "DisplayName": "@94_Cage_DisplayName",
+        "DisplayName": "Unlock Cage",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13613,7 +13613,7 @@
     },
     {
         "GatherableID": "94_CageWolf3",
-        "DisplayName": "@94_Cage_DisplayName",
+        "DisplayName": "Unlock Cage",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13654,7 +13654,7 @@
     },
     {
         "GatherableID": "94_CageLion",
-        "DisplayName": "@94_Cage_DisplayName",
+        "DisplayName": "Unlock Cage",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13695,7 +13695,7 @@
     },
     {
         "GatherableID": "9401_Vines",
-        "DisplayName": "@9401_Vines_DisplayName",
+        "DisplayName": "Overgrown Vines",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13736,7 +13736,7 @@
     },
     {
         "GatherableID": "98_S_Q5_01_RelicPileIO",
-        "DisplayName": "@98_S_Q5_RelicPileIO_DisplayName",
+        "DisplayName": "Ancient Relics",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13777,7 +13777,7 @@
     },
     {
         "GatherableID": "98_S_Q5_02_RelicPileIO",
-        "DisplayName": "@98_S_Q5_RelicPileIO_DisplayName",
+        "DisplayName": "Ancient Relics",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13818,7 +13818,7 @@
     },
     {
         "GatherableID": "98_M_Q5_01_GoldStashIO",
-        "DisplayName": "@98_M_Q5_GoldStashIO_DisplayName",
+        "DisplayName": "Labyrinth Chest",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13859,7 +13859,7 @@
     },
     {
         "GatherableID": "98_M_Q5_02_GoldStashIO",
-        "DisplayName": "@98_M_Q5_GoldStashIO_DisplayName",
+        "DisplayName": "Labyrinth Chest",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13900,7 +13900,7 @@
     },
     {
         "GatherableID": "98_M_Q5_03_GoldStashIO",
-        "DisplayName": "@98_M_Q5_GoldStashIO_DisplayName",
+        "DisplayName": "Labyrinth Chest",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13941,7 +13941,7 @@
     },
     {
         "GatherableID": "98_M_Q5_04_GoldStashIO",
-        "DisplayName": "@98_M_Q5_GoldStashIO_DisplayName",
+        "DisplayName": "Labyrinth Chest",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13982,7 +13982,7 @@
     },
     {
         "GatherableID": "98_M_Q5_05_GoldStashIO",
-        "DisplayName": "@98_M_Q5_GoldStashIO_DisplayName",
+        "DisplayName": "Labyrinth Chest",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -14023,7 +14023,7 @@
     },
     {
         "GatherableID": "14_SQ_02_BadStatue_01",
-        "DisplayName": "@14_SQ_02_BadStatue",
+        "DisplayName": "Destroy sculpture",
         "GatheringAction": "none",
         "GatheringType": "none",
         "GatheringFragment": "",
@@ -14064,7 +14064,7 @@
     },
     {
         "GatherableID": "14_SQ_02_BadStatue_02",
-        "DisplayName": "@14_SQ_02_BadStatue",
+        "DisplayName": "Destroy sculpture",
         "GatheringAction": "none",
         "GatheringType": "none",
         "GatheringFragment": "",
@@ -14105,7 +14105,7 @@
     },
     {
         "GatherableID": "14_SQ_02_BadStatue_03",
-        "DisplayName": "@14_SQ_02_BadStatue",
+        "DisplayName": "Destroy sculpture",
         "GatheringAction": "none",
         "GatheringType": "none",
         "GatheringFragment": "",
@@ -14146,7 +14146,7 @@
     },
     {
         "GatherableID": "14_SQ_02_BadStatue_04",
-        "DisplayName": "@14_SQ_02_BadStatue",
+        "DisplayName": "Destroy sculpture",
         "GatheringAction": "none",
         "GatheringType": "none",
         "GatheringFragment": "",
@@ -14187,7 +14187,7 @@
     },
     {
         "GatherableID": "14_SQ_02_BadStatue_05",
-        "DisplayName": "@14_SQ_02_BadStatue",
+        "DisplayName": "Destroy sculpture",
         "GatheringAction": "none",
         "GatheringType": "none",
         "GatheringFragment": "",
@@ -14228,7 +14228,7 @@
     },
     {
         "GatherableID": "03_SQ_03_GraveDigger",
-        "DisplayName": "@03_SQ_03_GraveDigger",
+        "DisplayName": "Dig up Hotspur's Map",
         "GatheringAction": "none",
         "GatheringType": "none",
         "GatheringFragment": "",

@@ -1,7 +1,7 @@
 [
     {
         "ElementalMutationId": "Hellfire_1",
-        "Name": "@FirTitle",
+        "Name": "Hellfire",
         "Description": "Fire element mutator category",
         "CategoryWildcard": "Fir",
         "ElementalDifficultyTier": 1,
@@ -15,7 +15,7 @@
     },
     {
         "ElementalMutationId": "Hellfire_2",
-        "Name": "@FirTitle",
+        "Name": "Hellfire",
         "Description": "Fire element mutator category",
         "CategoryWildcard": "Fir",
         "ElementalDifficultyTier": 2,
@@ -29,7 +29,7 @@
     },
     {
         "ElementalMutationId": "Hellfire_3",
-        "Name": "@FirTitle",
+        "Name": "Hellfire",
         "Description": "Fire element mutator category",
         "CategoryWildcard": "Fir",
         "ElementalDifficultyTier": 3,
@@ -43,7 +43,7 @@
     },
     {
         "ElementalMutationId": "Eternal_1",
-        "Name": "@VoiTitle",
+        "Name": "Eternal",
         "Description": "Void element mutator category",
         "CategoryWildcard": "Voi",
         "ElementalDifficultyTier": 1,
@@ -57,7 +57,7 @@
     },
     {
         "ElementalMutationId": "Eternal_2",
-        "Name": "@VoiTitle",
+        "Name": "Eternal",
         "Description": "Void element mutator category",
         "CategoryWildcard": "Voi",
         "ElementalDifficultyTier": 2,
@@ -71,7 +71,7 @@
     },
     {
         "ElementalMutationId": "Eternal_3",
-        "Name": "@VoiTitle",
+        "Name": "Eternal",
         "Description": "Void element mutator category",
         "CategoryWildcard": "Voi",
         "ElementalDifficultyTier": 3,
@@ -85,7 +85,7 @@
     },
     {
         "ElementalMutationId": "Overgrown_1",
-        "Name": "@NatTitle",
+        "Name": "Overgrown",
         "Description": "Nature element mutator category",
         "CategoryWildcard": "Nat",
         "ElementalDifficultyTier": 1,
@@ -99,7 +99,7 @@
     },
     {
         "ElementalMutationId": "Overgrown_2",
-        "Name": "@NatTitle",
+        "Name": "Overgrown",
         "Description": "Nature element mutator category",
         "CategoryWildcard": "Nat",
         "ElementalDifficultyTier": 2,
@@ -113,7 +113,7 @@
     },
     {
         "ElementalMutationId": "Overgrown_3",
-        "Name": "@NatTitle",
+        "Name": "Overgrown",
         "Description": "Nature element mutator category",
         "CategoryWildcard": "Nat",
         "ElementalDifficultyTier": 3,
@@ -127,7 +127,7 @@
     },
     {
         "ElementalMutationId": "Icebound_1",
-        "Name": "@IceTitle",
+        "Name": "Icebound",
         "Description": "Ice element mutator category",
         "CategoryWildcard": "Ice",
         "ElementalDifficultyTier": 1,
@@ -141,7 +141,7 @@
     },
     {
         "ElementalMutationId": "Icebound_2",
-        "Name": "@IceTitle",
+        "Name": "Icebound",
         "Description": "Ice element mutator category",
         "CategoryWildcard": "Ice",
         "ElementalDifficultyTier": 2,
@@ -155,7 +155,7 @@
     },
     {
         "ElementalMutationId": "Icebound_3",
-        "Name": "@IceTitle",
+        "Name": "Icebound",
         "Description": "Ice element mutator category",
         "CategoryWildcard": "Ice",
         "ElementalDifficultyTier": 3,

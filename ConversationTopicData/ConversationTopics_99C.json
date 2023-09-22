@@ -1,8 +1,8 @@
 [
     {
         "ConversationTopicId": "99C_MSQ_03_Grace_OpenChest",
-        "PlayerPrompt": "@99C_MSQ_03_AncientBridge_GraceChest_prompt",
-        "NPCResponse": "@99C_MSQ_03_AncientBridge_GraceChest_response",
+        "PlayerPrompt": "\"What are you doing here?\"",
+        "NPCResponse": "After you left Caer Dun, that alchemist suggested you might need help, tracking down the Crone and all. \\n\\nOf course, she also mentioned treasure in these ruins... and here we are, a bit of both if we can get this chest open.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -10,8 +10,8 @@
     },
     {
         "ConversationTopicId": "99C_MSQ_03_Grace_EmptyChest",
-        "PlayerPrompt": "@99C_MSQ_03_AncientBridge_GraceEmpty_prompt",
-        "NPCResponse": "@99C_MSQ_03_AncientBridge_GraceEmpty_response",
+        "PlayerPrompt": "\"Just a page from the Crone's journal.\"",
+        "NPCResponse": "Nothing but a mouldy piece of paper? Is that all ? This swamp really is cursed. \\n\\nI suppose that's the kinda clue you were looking for though, isn't it? Does it tell you where to search next?",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -19,8 +19,8 @@
     },
     {
         "ConversationTopicId": "99C_MSQ_05_Morgaine_CorpseCrone",
-        "PlayerPrompt": "@99C_MSQ_05_FindMorgaine_CorpseCrone_prompt",
-        "NPCResponse": "@99C_MSQ_05_FindMorgaine_CorpseCrone_response",
+        "PlayerPrompt": "\"You're the Corpse Crone?\"",
+        "NPCResponse": "Yes, one of many names I've been called. The Witch of Weaver's Fen, Swamp Sorceress, Corpse Crone... the list goes on. \\n\\nIronically, no one even knows me by my given name anymore… Brytmar was the last friend I had.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -28,8 +28,8 @@
     },
     {
         "ConversationTopicId": "99C_MSQ_07_Morgaine_Vision",
-        "PlayerPrompt": "@99C_MSQ_07_DestroyBarrier_Vision_prompt",
-        "NPCResponse": "@99C_MSQ_07_DestroyBarrier_Vision_response",
+        "PlayerPrompt": "\"He went back to Twillen.\"",
+        "NPCResponse": "That's for the best… we can have a more reasonable discussion. Galahad cannot accept that some questions have no answers. \\n\\nI watched Myrddin's fall to Corruption firsthand… I know the Crimson Menace does not play by the rules.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -37,8 +37,8 @@
     },
     {
         "ConversationTopicId": "99C_MSQ_04_FritzConversation",
-        "PlayerPrompt": "@99C_MSQ_04_Settlement01_FritzConversation_prompt",
-        "NPCResponse": "@99C_MSQ_04_Settlement01_FritzConversation_response",
+        "PlayerPrompt": "\"After the curse of the Corpse Crone?\"",
+        "NPCResponse": "How dare you speak the name of that hideous fiend! She twisted the land and turned the living into Lost. \\n\\nWe are still burdened by the tyranny of her evil magic, and the best we can do is try to forget it.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -46,8 +46,8 @@
     },
     {
         "ConversationTopicId": "99C_MSQ_04_RuxandraConversation",
-        "PlayerPrompt": "@99C_MSQ_04_Settlement01_RuxandraConversation_prompt",
-        "NPCResponse": "@99C_MSQ_04_Settlement01_RuxandraConversation_response",
+        "PlayerPrompt": "\"I'm looking for the Corpse Crone.\"",
+        "NPCResponse": "Only the most foolish or desperate would seek out the old sorceress of the swamp. I wonder... which are you? \\n\\nHmm, if anyone around here knows how to find the Crone, it would be Bella Ruby, but I didn't tell you that.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -55,8 +55,8 @@
     },
     {
         "ConversationTopicId": "99C_MSQ_08_Galahad_Convince",
-        "PlayerPrompt": "@99C_MSQ_08_Settlement02_ConvinceGalahad_prompt",
-        "NPCResponse": "@99C_MSQ_08_Settlement02_ConvinceGalahad_response",
+        "PlayerPrompt": "\"Yes, we need her on our side.\"",
+        "NPCResponse": "Very well. Learn what you can from Morgaine, and perhaps convince her to join us at Caer Dun. \\n\\nI shall return to the fortress now to consult with Yonas on military strategy. That's where I belong. Light be with you, warden.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -64,8 +64,8 @@
     },
     {
         "ConversationTopicId": "99C_MSQ_11_Adiana_Blight",
-        "PlayerPrompt": "@99C_MSQ_11_Lepus_AdianaBlight_prompt",
-        "NPCResponse": "@99C_MSQ_11_Lepus_AdianaBlight_response",
+        "PlayerPrompt": "\"Humans caused the Blight?\"",
+        "NPCResponse": "The repugnant incursion of Corruption caused this Blight, but that's what happens when humans traffick in forbidden power. \\n\\nOf course, your curiosity demands you see for yourself… go on then.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",

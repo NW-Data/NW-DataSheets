@@ -14,8 +14,8 @@
         "InjectedCreatureLoot": "MutatorLoot_Fire",
         "InjectedContainerLoot": "MutatorLoot_Fire",
         "InjectedLootTags": "Fire",
-        "Name": "@FirTitle",
-        "Description": "@FirDescription"
+        "Name": "Hellfire",
+        "Description": "Hellfire Description"
     },
     {
         "ElementalMutationTypeId": "Ice",
@@ -32,8 +32,8 @@
         "InjectedCreatureLoot": "MutatorLoot_Ice",
         "InjectedContainerLoot": "MutatorLoot_Ice",
         "InjectedLootTags": "Ice",
-        "Name": "@IceTitle",
-        "Description": "@IceDescription"
+        "Name": "Icebound",
+        "Description": "Icebound Description"
     },
     {
         "ElementalMutationTypeId": "Nat",
@@ -50,8 +50,8 @@
         "InjectedCreatureLoot": "MutatorLoot_Nature",
         "InjectedContainerLoot": "MutatorLoot_Nature",
         "InjectedLootTags": "Nature",
-        "Name": "@NatTitle",
-        "Description": "@NatDescription"
+        "Name": "Overgrown",
+        "Description": "Overgrown Description"
     },
     {
         "ElementalMutationTypeId": "Voi",
@@ -68,7 +68,7 @@
         "InjectedCreatureLoot": "MutatorLoot_Void",
         "InjectedContainerLoot": "MutatorLoot_Void",
         "InjectedLootTags": "Void",
-        "Name": "@VoiTitle",
-        "Description": "@VoiDescription"
+        "Name": "Eternal",
+        "Description": "Eternal Description"
     }
 ]

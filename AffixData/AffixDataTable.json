@@ -1,7 +1,7 @@
 [
     {
         "AffixID": "RarityLevel1",
-        "DisplayName": "@RarityLevel1_DisplayName",
+        "DisplayName": "Uncommon",
         "Category": "Material",
         "AffixDataWeapon": "AffixWeaponRarityLevel1",
         "AffixDataArmor": "AffixArmorRarityLevel1",
@@ -12,7 +12,7 @@
     },
     {
         "AffixID": "RarityLevel2",
-        "DisplayName": "@RarityLevel2_DisplayName",
+        "DisplayName": "Rare",
         "Category": "Material",
         "AffixDataWeapon": "AffixWeaponRarityLevel2",
         "AffixDataArmor": "AffixArmorRarityLevel2",
@@ -23,7 +23,7 @@
     },
     {
         "AffixID": "RarityLevel3",
-        "DisplayName": "@RarityLevel3_DisplayName",
+        "DisplayName": "Epic",
         "Category": "Material",
         "AffixDataWeapon": "AffixWeaponRarityLevel3",
         "AffixDataArmor": "AffixArmorRarityLevel3",
@@ -34,7 +34,7 @@
     },
     {
         "AffixID": "EnchantFire1",
-        "DisplayName": "@EnchantFire1_DisplayName",
+        "DisplayName": "\u0026lt;font color=\"#ff8a43\"\u0026gt;Burning\u0026lt;/font\u0026gt;",
         "Category": "Magic",
         "AffixDataWeapon": "AffixWeaponEnchantFire1",
         "AffixDataArmor": "",
@@ -56,7 +56,7 @@
     },
     {
         "AffixID": "TypeLevel2",
-        "DisplayName": "@TypeLevel2_DisplayName",
+        "DisplayName": "Fine",
         "Category": "Type",
         "AffixDataWeapon": "AffixTypeLevel2",
         "AffixDataArmor": "AffixTypeLevel2",
@@ -67,7 +67,7 @@
     },
     {
         "AffixID": "TypeLevel3",
-        "DisplayName": "@TypeLevel3_DisplayName",
+        "DisplayName": "Superior",
         "Category": "Type",
         "AffixDataWeapon": "AffixTypeLevel3",
         "AffixDataArmor": "AffixTypeLevel3",
@@ -78,7 +78,7 @@
     },
     {
         "AffixID": "TypeLevel4",
-        "DisplayName": "@TypeLevel4_DisplayName",
+        "DisplayName": "Artisan",
         "Category": "Type",
         "AffixDataWeapon": "AffixTypeLevel4",
         "AffixDataArmor": "AffixTypeLevel4",
@@ -89,7 +89,7 @@
     },
     {
         "AffixID": "TypeLevel5",
-        "DisplayName": "@TypeLevel5_DisplayName",
+        "DisplayName": "Flawless",
         "Category": "Type",
         "AffixDataWeapon": "AffixTypeLevel5",
         "AffixDataArmor": "AffixTypeLevel5",
@@ -100,7 +100,7 @@
     },
     {
         "AffixID": "WornItem",
-        "DisplayName": "@WornItem_DisplayName",
+        "DisplayName": "Worn",
         "Category": "Type",
         "AffixDataWeapon": "AffixWornItem",
         "AffixDataArmor": "AffixWornItem",
@@ -133,7 +133,7 @@
     },
     {
         "AffixID": "TypeLevel2Shield",
-        "DisplayName": "@TypeLevel2_DisplayName",
+        "DisplayName": "Fine",
         "Category": "Type",
         "AffixDataWeapon": "AffixTypeLevel2Shield",
         "AffixDataArmor": "AffixTypeLevel2Shield",
@@ -144,7 +144,7 @@
     },
     {
         "AffixID": "TypeLevel3Shield",
-        "DisplayName": "@TypeLevel3_DisplayName",
+        "DisplayName": "Superior",
         "Category": "Type",
         "AffixDataWeapon": "AffixTypeLevel3Shield",
         "AffixDataArmor": "AffixTypeLevel3Shield",
@@ -155,7 +155,7 @@
     },
     {
         "AffixID": "TypeLevel4Shield",
-        "DisplayName": "@TypeLevel4_DisplayName",
+        "DisplayName": "Artisan",
         "Category": "Type",
         "AffixDataWeapon": "AffixTypeLevel4Shield",
         "AffixDataArmor": "AffixTypeLevel4Shield",
@@ -166,7 +166,7 @@
     },
     {
         "AffixID": "TypeLevel5Shield",
-        "DisplayName": "@TypeLevel5_DisplayName",
+        "DisplayName": "Flawless",
         "Category": "Type",
         "AffixDataWeapon": "AffixTypeLevel5Shield",
         "AffixDataArmor": "AffixTypeLevel5Shield",

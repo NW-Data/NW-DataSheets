@@ -1,8 +1,8 @@
 [
     {
         "NPCId": "0207_Commander",
-        "Title": "@0207_Commander_title",
-        "GenericName": "@0207_Commander",
+        "Title": "Marauder Commander",
+        "GenericName": "Jang Na-Bi",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "0207_00_Commander",
         "ConversationStateId2": "0207_01pre_Commander",
@@ -27,8 +27,8 @@
     },
     {
         "NPCId": "0209b_Adjudicator",
-        "Title": "@0209_Adjudicator_title",
-        "GenericName": "@0209b_Adjudicator",
+        "Title": "Covenant Adjudicator",
+        "GenericName": "Violante Delgado",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "0209b_00_Adjudicator",
         "ConversationStateId2": "0209b_01pre_Adjudicator",
@@ -53,8 +53,8 @@
     },
     {
         "NPCId": "0238_Alchemist",
-        "Title": "@0238_Alchemist_title",
-        "GenericName": "@0238_Alchemist",
+        "Title": "Syndicate Alchemist",
+        "GenericName": "Xiaoling Biyu",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "0238_Alchemist_00",
         "ConversationStateId2": "0238_Alchemist_01pre",

@@ -1,7 +1,7 @@
 [
     {
         "CategoricalProgressionId": "Syndicate",
-        "DisplayName": "@ui_faction_name1",
+        "DisplayName": "Syndicate",
         "MaxLevel": 4,
         "Expansion01MaxLevel": 5,
         "AutoRankUp": false,
@@ -25,7 +25,7 @@
     },
     {
         "CategoricalProgressionId": "Marauder",
-        "DisplayName": "@ui_faction_name2",
+        "DisplayName": "Marauders",
         "MaxLevel": 4,
         "Expansion01MaxLevel": 5,
         "AutoRankUp": false,
@@ -49,7 +49,7 @@
     },
     {
         "CategoricalProgressionId": "Covenant",
-        "DisplayName": "@ui_faction_name3",
+        "DisplayName": "Covenant",
         "MaxLevel": 4,
         "Expansion01MaxLevel": 5,
         "AutoRankUp": false,
@@ -73,7 +73,7 @@
     },
     {
         "CategoricalProgressionId": "Repair_T1",
-        "DisplayName": "@ui_repairparts",
+        "DisplayName": "Repair Parts",
         "MaxLevel": 0,
         "Expansion01MaxLevel": null,
         "AutoRankUp": false,
@@ -97,7 +97,7 @@
     },
     {
         "CategoricalProgressionId": "2",
-        "DisplayName": "@Brightwood",
+        "DisplayName": "Brightwood",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -121,7 +121,7 @@
     },
     {
         "CategoricalProgressionId": "4",
-        "DisplayName": "@Everfall",
+        "DisplayName": "Everfall",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -145,7 +145,7 @@
     },
     {
         "CategoricalProgressionId": "5",
-        "DisplayName": "@Reekwater",
+        "DisplayName": "Reekwater",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -169,7 +169,7 @@
     },
     {
         "CategoricalProgressionId": "6",
-        "DisplayName": "@Windsward",
+        "DisplayName": "Windsward",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -193,7 +193,7 @@
     },
     {
         "CategoricalProgressionId": "8",
-        "DisplayName": "@Queensport",
+        "DisplayName": "Ebonscale Reach",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -217,7 +217,7 @@
     },
     {
         "CategoricalProgressionId": "9",
-        "DisplayName": "@FirstLight",
+        "DisplayName": "Elysian Wilds",
         "MaxLevel": 0,
         "Expansion01MaxLevel": null,
         "AutoRankUp": null,
@@ -241,7 +241,7 @@
     },
     {
         "CategoricalProgressionId": "10",
-        "DisplayName": "@CutlassKeys",
+        "DisplayName": "Cutlass Keys",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -265,7 +265,7 @@
     },
     {
         "CategoricalProgressionId": "11",
-        "DisplayName": "@Mourningdale",
+        "DisplayName": "Mourningdale",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -289,7 +289,7 @@
     },
     {
         "CategoricalProgressionId": "12",
-        "DisplayName": "@MonarchsBluffs",
+        "DisplayName": "Monarch's Bluffs",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -313,7 +313,7 @@
     },
     {
         "CategoricalProgressionId": "13",
-        "DisplayName": "@WeaversFen",
+        "DisplayName": "Weaver's Fen",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -337,7 +337,7 @@
     },
     {
         "CategoricalProgressionId": "14",
-        "DisplayName": "@Edengrove",
+        "DisplayName": "Edengrove",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -361,7 +361,7 @@
     },
     {
         "CategoricalProgressionId": "15",
-        "DisplayName": "@RestlessShore",
+        "DisplayName": "Restless Shore",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -385,7 +385,7 @@
     },
     {
         "CategoricalProgressionId": "16",
-        "DisplayName": "@BrimstoneSands",
+        "DisplayName": "Brimstone Sands",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -721,7 +721,7 @@
     },
     {
         "CategoricalProgressionId": "Battle_Token",
-        "DisplayName": "@ui_siege_hud_battle_tokens",
+        "DisplayName": "Battle Tokens",
         "MaxLevel": 0,
         "Expansion01MaxLevel": null,
         "AutoRankUp": false,
@@ -745,7 +745,7 @@
     },
     {
         "CategoricalProgressionId": "HatchetAbilityTable",
-        "DisplayName": "@ui_hatchet_mastery",
+        "DisplayName": "Hatchet Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -769,7 +769,7 @@
     },
     {
         "CategoricalProgressionId": "SwordAbilityTable",
-        "DisplayName": "@ui_straightsword_mastery",
+        "DisplayName": "Sword and Shield Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -793,7 +793,7 @@
     },
     {
         "CategoricalProgressionId": "WarHammerAbilityTable",
-        "DisplayName": "@ui_warhammer_mastery",
+        "DisplayName": "War Hammer Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -817,7 +817,7 @@
     },
     {
         "CategoricalProgressionId": "BowAbilityTable",
-        "DisplayName": "@ui_bow_mastery",
+        "DisplayName": "Bow Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -841,7 +841,7 @@
     },
     {
         "CategoricalProgressionId": "MusketAbilityTable",
-        "DisplayName": "@ui_musket_mastery",
+        "DisplayName": "Musket Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -865,7 +865,7 @@
     },
     {
         "CategoricalProgressionId": "BlunderbussAbilityTable",
-        "DisplayName": "@ui_blunderbuss_mastery",
+        "DisplayName": "Blunderbuss Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -889,7 +889,7 @@
     },
     {
         "CategoricalProgressionId": "LifeMagicAbilityTable",
-        "DisplayName": "@ui_lifemagic_mastery",
+        "DisplayName": "Life Staff Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -913,7 +913,7 @@
     },
     {
         "CategoricalProgressionId": "FireMagicAbilityTable",
-        "DisplayName": "@ui_firemagic_mastery",
+        "DisplayName": "Fire Staff Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -937,7 +937,7 @@
     },
     {
         "CategoricalProgressionId": "GreatAxeAbilityTable",
-        "DisplayName": "@ui_greataxe_mastery",
+        "DisplayName": "Great Axe Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -961,7 +961,7 @@
     },
     {
         "CategoricalProgressionId": "SpearAbilityTable",
-        "DisplayName": "@ui_spear_mastery",
+        "DisplayName": "Spear Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -985,7 +985,7 @@
     },
     {
         "CategoricalProgressionId": "RapierAbilityTable",
-        "DisplayName": "@ui_rapier_mastery",
+        "DisplayName": "Rapier Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1009,7 +1009,7 @@
     },
     {
         "CategoricalProgressionId": "IceMagicAbilityTable",
-        "DisplayName": "@ui_icemagic_mastery",
+        "DisplayName": "Ice Gauntlet Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1033,7 +1033,7 @@
     },
     {
         "CategoricalProgressionId": "VoidGauntletAbilityTable",
-        "DisplayName": "@ui_voidmagic_mastery",
+        "DisplayName": "Void Gauntlet Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1057,7 +1057,7 @@
     },
     {
         "CategoricalProgressionId": "GreatSwordAbilityTable",
-        "DisplayName": "@ui_greatsword_mastery",
+        "DisplayName": "Greatsword Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1081,7 +1081,7 @@
     },
     {
         "CategoricalProgressionId": "FlailAbilityTable",
-        "DisplayName": "@ui_Flail_mastery",
+        "DisplayName": "Flail Mastery",
         "MaxLevel": 19,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1105,7 +1105,7 @@
     },
     {
         "CategoricalProgressionId": "Weaponsmithing",
-        "DisplayName": "@ui_weaponsmithing",
+        "DisplayName": "Weaponsmithing",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1129,7 +1129,7 @@
     },
     {
         "CategoricalProgressionId": "Armoring",
-        "DisplayName": "@ui_armoring",
+        "DisplayName": "Armoring",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1153,7 +1153,7 @@
     },
     {
         "CategoricalProgressionId": "Jewelcrafting",
-        "DisplayName": "@ui_jewelcrafting",
+        "DisplayName": "Jewelcrafting",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1177,7 +1177,7 @@
     },
     {
         "CategoricalProgressionId": "Arcana",
-        "DisplayName": "@ui_arcana",
+        "DisplayName": "Arcana",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1201,7 +1201,7 @@
     },
     {
         "CategoricalProgressionId": "Cooking",
-        "DisplayName": "@ui_cooking",
+        "DisplayName": "Cooking",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1225,7 +1225,7 @@
     },
     {
         "CategoricalProgressionId": "Furnishing",
-        "DisplayName": "@ui_furnishing",
+        "DisplayName": "Furnishing",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1249,7 +1249,7 @@
     },
     {
         "CategoricalProgressionId": "Engineering",
-        "DisplayName": "@ui_engineering",
+        "DisplayName": "Engineering",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1273,7 +1273,7 @@
     },
     {
         "CategoricalProgressionId": "Smelting",
-        "DisplayName": "@ui_smelting",
+        "DisplayName": "Smelting",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1297,7 +1297,7 @@
     },
     {
         "CategoricalProgressionId": "Woodworking",
-        "DisplayName": "@ui_woodworking",
+        "DisplayName": "Woodworking",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1321,7 +1321,7 @@
     },
     {
         "CategoricalProgressionId": "Leatherworking",
-        "DisplayName": "@ui_leatherworking",
+        "DisplayName": "Leatherworking",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1345,7 +1345,7 @@
     },
     {
         "CategoricalProgressionId": "Weaving",
-        "DisplayName": "@ui_weaving",
+        "DisplayName": "Weaving",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1369,7 +1369,7 @@
     },
     {
         "CategoricalProgressionId": "Stonecutting",
-        "DisplayName": "@ui_stonecutting",
+        "DisplayName": "Stonecutting",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1393,7 +1393,7 @@
     },
     {
         "CategoricalProgressionId": "Skinning",
-        "DisplayName": "@ui_skinning",
+        "DisplayName": "Tracking \u0026amp; Skinning",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1417,7 +1417,7 @@
     },
     {
         "CategoricalProgressionId": "Mining",
-        "DisplayName": "@ui_mining",
+        "DisplayName": "Mining",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1441,7 +1441,7 @@
     },
     {
         "CategoricalProgressionId": "Logging",
-        "DisplayName": "@ui_logging",
+        "DisplayName": "Logging",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1465,7 +1465,7 @@
     },
     {
         "CategoricalProgressionId": "Harvesting",
-        "DisplayName": "@ui_harvesting",
+        "DisplayName": "Harvesting",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1489,7 +1489,7 @@
     },
     {
         "CategoricalProgressionId": "AzothStaff",
-        "DisplayName": "@ui_azoth_staff_tradeskill",
+        "DisplayName": "Azoth Staff",
         "MaxLevel": 5,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1513,7 +1513,7 @@
     },
     {
         "CategoricalProgressionId": "Musician",
-        "DisplayName": "@ui_musician",
+        "DisplayName": "Musician",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1537,7 +1537,7 @@
     },
     {
         "CategoricalProgressionId": "Riding",
-        "DisplayName": "@ui_riding",
+        "DisplayName": "Riding",
         "MaxLevel": 0,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -1561,7 +1561,7 @@
     },
     {
         "CategoricalProgressionId": "Weaponsmithing_PostCap",
-        "DisplayName": "@ui_weaponsmithing_postcap",
+        "DisplayName": "Weaponsmithing Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1585,7 +1585,7 @@
     },
     {
         "CategoricalProgressionId": "Armoring_PostCap",
-        "DisplayName": "@ui_armoring_postcap",
+        "DisplayName": "Armoring Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1609,7 +1609,7 @@
     },
     {
         "CategoricalProgressionId": "Jewelcrafting_PostCap",
-        "DisplayName": "@ui_jewelcrafting_postcap",
+        "DisplayName": "Jewelcrafting Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1633,7 +1633,7 @@
     },
     {
         "CategoricalProgressionId": "Arcana_PostCap",
-        "DisplayName": "@ui_arcana_postcap",
+        "DisplayName": "Arcana Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1657,7 +1657,7 @@
     },
     {
         "CategoricalProgressionId": "Cooking_PostCap",
-        "DisplayName": "@ui_cooking_postcap",
+        "DisplayName": "Cooking Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1681,7 +1681,7 @@
     },
     {
         "CategoricalProgressionId": "Fishing_PostCap",
-        "DisplayName": "@ui_Fishing_postcap",
+        "DisplayName": "Fishing Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1705,7 +1705,7 @@
     },
     {
         "CategoricalProgressionId": "Furnishing_PostCap",
-        "DisplayName": "@ui_furnishing_postcap",
+        "DisplayName": "Furnishing Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1729,7 +1729,7 @@
     },
     {
         "CategoricalProgressionId": "Engineering_PostCap",
-        "DisplayName": "@ui_engineering_postcap",
+        "DisplayName": "Engineering Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1753,7 +1753,7 @@
     },
     {
         "CategoricalProgressionId": "Smelting_PostCap",
-        "DisplayName": "@ui_smelting_postcap",
+        "DisplayName": "Smelting Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1777,7 +1777,7 @@
     },
     {
         "CategoricalProgressionId": "Woodworking_PostCap",
-        "DisplayName": "@ui_woodworking_postcap",
+        "DisplayName": "Woodworking Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1801,7 +1801,7 @@
     },
     {
         "CategoricalProgressionId": "Leatherworking_PostCap",
-        "DisplayName": "@ui_leatherworking_postcap",
+        "DisplayName": "Leatherworking Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1825,7 +1825,7 @@
     },
     {
         "CategoricalProgressionId": "Weaving_PostCap",
-        "DisplayName": "@ui_weaving_postcap",
+        "DisplayName": "Weaving Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1849,7 +1849,7 @@
     },
     {
         "CategoricalProgressionId": "Stonecutting_PostCap",
-        "DisplayName": "@ui_stonecutting_postcap",
+        "DisplayName": "Stonecutting Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1873,7 +1873,7 @@
     },
     {
         "CategoricalProgressionId": "Skinning_PostCap",
-        "DisplayName": "@ui_skinning_postcap",
+        "DisplayName": "Skinning Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1897,7 +1897,7 @@
     },
     {
         "CategoricalProgressionId": "Mining_PostCap",
-        "DisplayName": "@ui_mining_postcap",
+        "DisplayName": "Mining Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1921,7 +1921,7 @@
     },
     {
         "CategoricalProgressionId": "Logging_PostCap",
-        "DisplayName": "@ui_logging_postcap",
+        "DisplayName": "Logging Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1945,7 +1945,7 @@
     },
     {
         "CategoricalProgressionId": "Harvesting_PostCap",
-        "DisplayName": "@ui_harvesting_postcap",
+        "DisplayName": "Harvesting Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1969,7 +1969,7 @@
     },
     {
         "CategoricalProgressionId": "Instruments_PostCap",
-        "DisplayName": "@ui_musician_postcap",
+        "DisplayName": "Musician Post Cap",
         "MaxLevel": 1,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -1993,7 +1993,7 @@
     },
     {
         "CategoricalProgressionId": "Azoth_Currency",
-        "DisplayName": "@ui_azoth_currency",
+        "DisplayName": "Azoth",
         "MaxLevel": 0,
         "Expansion01MaxLevel": null,
         "AutoRankUp": false,
@@ -2065,7 +2065,7 @@
     },
     {
         "CategoricalProgressionId": "Fishing",
-        "DisplayName": "@ui_fishing",
+        "DisplayName": "Fishing",
         "MaxLevel": 200,
         "Expansion01MaxLevel": 250,
         "AutoRankUp": true,
@@ -2113,7 +2113,7 @@
     },
     {
         "CategoricalProgressionId": "74",
-        "DisplayName": "@DevWorld_Red",
+        "DisplayName": "DevWorld RED \\n (PRIMARY HUB)",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -2137,7 +2137,7 @@
     },
     {
         "CategoricalProgressionId": "75",
-        "DisplayName": "@DevWorld_Blue",
+        "DisplayName": "DevWorld BLUE \\n(SECONDARY HUB)",
         "MaxLevel": 300,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -2161,7 +2161,7 @@
     },
     {
         "CategoricalProgressionId": "Camping",
-        "DisplayName": "@ui_camping",
+        "DisplayName": "Camping",
         "MaxLevel": 5,
         "Expansion01MaxLevel": 6,
         "AutoRankUp": true,
@@ -2180,12 +2180,12 @@
         "IconPath": "lyshineui/images/campingrestrictions/campingAllowed_large.dds",
         "UsesGlobalProgressionMod": null,
         "ItemClass": "",
-        "DisplayDescription": "@ui_unlock_camping_tooltip",
+        "DisplayDescription": "Unlocking a higher tier of camping allows you to craft more items at your campsite.",
         "EventId": ""
     },
     {
         "CategoricalProgressionId": "SyndicateTokens",
-        "DisplayName": "@ui_faction_name1",
+        "DisplayName": "Syndicate",
         "MaxLevel": 4,
         "Expansion01MaxLevel": 5,
         "AutoRankUp": false,
@@ -2204,12 +2204,12 @@
         "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation1_large.dds",
         "UsesGlobalProgressionMod": null,
         "ItemClass": "",
-        "DisplayDescription": "@owg_faction_unlock_tooltip",
+        "DisplayDescription": "Achieving a higher rank allows players to take on more faction missions and purchase superior gear from the faction shop.",
         "EventId": ""
     },
     {
         "CategoricalProgressionId": "MarauderTokens",
-        "DisplayName": "@ui_faction_name2",
+        "DisplayName": "Marauders",
         "MaxLevel": 4,
         "Expansion01MaxLevel": 5,
         "AutoRankUp": false,
@@ -2228,12 +2228,12 @@
         "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation2_large.dds",
         "UsesGlobalProgressionMod": null,
         "ItemClass": "",
-        "DisplayDescription": "@owg_faction_unlock_tooltip",
+        "DisplayDescription": "Achieving a higher rank allows players to take on more faction missions and purchase superior gear from the faction shop.",
         "EventId": ""
     },
     {
         "CategoricalProgressionId": "CovenantTokens",
-        "DisplayName": "@ui_faction_name3",
+        "DisplayName": "Covenant",
         "MaxLevel": 4,
         "Expansion01MaxLevel": 5,
         "AutoRankUp": false,
@@ -2252,7 +2252,7 @@
         "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation3_large.dds",
         "UsesGlobalProgressionMod": null,
         "ItemClass": "",
-        "DisplayDescription": "@owg_faction_unlock_tooltip",
+        "DisplayDescription": "Achieving a higher rank allows players to take on more faction missions and purchase superior gear from the faction shop.",
         "EventId": ""
     },
     {
@@ -2497,7 +2497,7 @@
     },
     {
         "CategoricalProgressionId": "EventProgress",
-        "DisplayName": "@ui_event_progress_name",
+        "DisplayName": "Event Reputation",
         "MaxLevel": 4,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -2516,12 +2516,12 @@
         "IconPath": "lyshineui/images/icons/objectives/reward_eventProgress_large.dds",
         "UsesGlobalProgressionMod": null,
         "ItemClass": "",
-        "DisplayDescription": "@ui_event_reputation_description",
+        "DisplayDescription": "Event Reputation unlocks new items for purchase at the Event Shop.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_medium.font\" color=\"#aaaaaa\"\u0026gt;Source:\u0026lt;/font\u0026gt; \u0026lt;font face=\"lyshineui/fonts/Nimbus_medium.font\" color=\"#ffffff\"\u0026gt; Completing Event Missions\u0026lt;/font\u0026gt;",
         "EventId": "WinterConvergence"
     },
     {
         "CategoricalProgressionId": "SummerEventProgress",
-        "DisplayName": "@ui_event_summer_progress_name",
+        "DisplayName": "Event Reputation",
         "MaxLevel": 4,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,
@@ -2540,12 +2540,12 @@
         "IconPath": "lyshineui/images/icons/objectives/reward_eventProgress_large.dds",
         "UsesGlobalProgressionMod": null,
         "ItemClass": "",
-        "DisplayDescription": "@ui_event_reputation_description",
+        "DisplayDescription": "Event Reputation unlocks new items for purchase at the Event Shop.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_medium.font\" color=\"#aaaaaa\"\u0026gt;Source:\u0026lt;/font\u0026gt; \u0026lt;font face=\"lyshineui/fonts/Nimbus_medium.font\" color=\"#ffffff\"\u0026gt; Completing Event Missions\u0026lt;/font\u0026gt;",
         "EventId": "SummerMedley"
     },
     {
         "CategoricalProgressionId": "SeasonPass",
-        "DisplayName": "@seasons_rewards_categorical_progression_id",
+        "DisplayName": "Season Pass",
         "MaxLevel": 100,
         "Expansion01MaxLevel": null,
         "AutoRankUp": true,

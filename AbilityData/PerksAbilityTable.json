@@ -25831,8 +25831,8 @@
     },
     {
         "AbilityID": "GlobalDesc_Grit",
-        "DisplayName": "@GlobalDesc_Grit",
-        "Description": "@GlobalDesc_Grit_description",
+        "DisplayName": "Unstoppable",
+        "Description": "you cannot be interrupted while preforming this ability",
         "UICategory": "",
         "Icon": "",
         "StatusEffectIcon": "",
@@ -26077,8 +26077,8 @@
     },
     {
         "AbilityID": "GlobalDesc_Haste",
-        "DisplayName": "@GlobalDesc_Haste",
-        "Description": "@GlobalDesc_Haste_description",
+        "DisplayName": "Haste",
+        "Description": "you move and sprint faster",
         "UICategory": "",
         "Icon": "",
         "StatusEffectIcon": "",

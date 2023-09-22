@@ -1,7 +1,7 @@
 [
     {
         "TerritoryID": 40201,
-        "NameLocalizationKey": "@ui_poi_abandoned_farm_village_40201",
+        "NameLocalizationKey": "Kelleher Farmstead",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -35,7 +35,7 @@
     },
     {
         "TerritoryID": 40202,
-        "NameLocalizationKey": "@ui_poi_lumbermill_40202",
+        "NameLocalizationKey": "Blairadam Mill",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -69,7 +69,7 @@
     },
     {
         "TerritoryID": 40203,
-        "NameLocalizationKey": "@ui_poi_mine_40203",
+        "NameLocalizationKey": "Canary Mine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -103,7 +103,7 @@
     },
     {
         "TerritoryID": 40204,
-        "NameLocalizationKey": "@ui_poi_abandoned_village_40204",
+        "NameLocalizationKey": "Daughterwell",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -137,7 +137,7 @@
     },
     {
         "TerritoryID": 40205,
-        "NameLocalizationKey": "@ui_poi_abandoned_village_40205",
+        "NameLocalizationKey": "Uptonville",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -158,7 +158,7 @@
         "AudioState": "abandoned_village",
         "AudioBank": "AbandonedMine",
         "CanPlaceCamp": "0",
-        "DevName": "@ui_poi_abandoned_village_40205",
+        "DevName": "Uptonville",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
@@ -171,7 +171,7 @@
     },
     {
         "TerritoryID": 40206,
-        "NameLocalizationKey": "@ui_poi_abandoned_village_40206",
+        "NameLocalizationKey": "Bradbury Fields",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -205,7 +205,7 @@
     },
     {
         "TerritoryID": 40207,
-        "NameLocalizationKey": "@ui_poi_undeadbastion_40207",
+        "NameLocalizationKey": "Longshadow Enclave",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -239,7 +239,7 @@
     },
     {
         "TerritoryID": 40208,
-        "NameLocalizationKey": "@ui_poi_abandoned_village_40208",
+        "NameLocalizationKey": "Wilmot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -260,7 +260,7 @@
         "AudioState": "abandoned_village",
         "AudioBank": "AbandonedMine",
         "CanPlaceCamp": "0",
-        "DevName": "@ui_poi_abandoned_village_40208",
+        "DevName": "Wilmot",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
@@ -273,7 +273,7 @@
     },
     {
         "TerritoryID": 40209,
-        "NameLocalizationKey": "@ui_poi_abandoned_village_40209",
+        "NameLocalizationKey": "Sedgrave",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -294,7 +294,7 @@
         "AudioState": "abandoned_village",
         "AudioBank": "AbandonedMine",
         "CanPlaceCamp": "0",
-        "DevName": "@ui_poi_abandoned_village_40209",
+        "DevName": "Sedgrave",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
@@ -307,7 +307,7 @@
     },
     {
         "TerritoryID": 40210,
-        "NameLocalizationKey": "@ui_poi_haunted_village_40210",
+        "NameLocalizationKey": "Pendleton",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -341,7 +341,7 @@
     },
     {
         "TerritoryID": 40211,
-        "NameLocalizationKey": "@ui_poi_abandoned_village_40211",
+        "NameLocalizationKey": "Penkestown",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -362,7 +362,7 @@
         "AudioState": "abandoned_village",
         "AudioBank": "AbandonedMine",
         "CanPlaceCamp": "0",
-        "DevName": "@ui_poi_abandoned_village_40211",
+        "DevName": "Penkestown",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
@@ -375,7 +375,7 @@
     },
     {
         "TerritoryID": 40212,
-        "NameLocalizationKey": "@ui_poi_abandoned_village_40212",
+        "NameLocalizationKey": "Mercerton",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -396,7 +396,7 @@
         "AudioState": "abandoned_village",
         "AudioBank": "AbandonedMine",
         "CanPlaceCamp": "0",
-        "DevName": "@ui_poi_abandoned_village_40212",
+        "DevName": "Mercerton",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
@@ -409,7 +409,7 @@
     },
     {
         "TerritoryID": 40213,
-        "NameLocalizationKey": "@ui_poi_abandoned_village_40213",
+        "NameLocalizationKey": "Lillhollow",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -430,7 +430,7 @@
         "AudioState": "abandoned_village",
         "AudioBank": "AbandonedMine",
         "CanPlaceCamp": "0",
-        "DevName": "@ui_poi_abandoned_village_40213",
+        "DevName": "Lillhollow",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
@@ -443,7 +443,7 @@
     },
     {
         "TerritoryID": 40214,
-        "NameLocalizationKey": "@ui_poi_dryad_ruins_40214",
+        "NameLocalizationKey": "Postrekhin",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -477,7 +477,7 @@
     },
     {
         "TerritoryID": 40215,
-        "NameLocalizationKey": "@ui_poi_ancient_tower_40215",
+        "NameLocalizationKey": "Canis",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -511,7 +511,7 @@
     },
     {
         "TerritoryID": 40216,
-        "NameLocalizationKey": "@ui_poi_ancient_tower_40216",
+        "NameLocalizationKey": "Hercules",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -545,7 +545,7 @@
     },
     {
         "TerritoryID": 40217,
-        "NameLocalizationKey": "@ui_poi_ancient_tower_40217",
+        "NameLocalizationKey": "Leo",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -579,7 +579,7 @@
     },
     {
         "TerritoryID": 40218,
-        "NameLocalizationKey": "@ui_poi_ancient_tower_40218",
+        "NameLocalizationKey": "Norma",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -613,7 +613,7 @@
     },
     {
         "TerritoryID": 40219,
-        "NameLocalizationKey": "@ui_poi_ancient_tower_40219",
+        "NameLocalizationKey": "Lupus",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -647,7 +647,7 @@
     },
     {
         "TerritoryID": 40220,
-        "NameLocalizationKey": "@ui_poi_ancient_tower_40220",
+        "NameLocalizationKey": "Perseus",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -681,7 +681,7 @@
     },
     {
         "TerritoryID": 40221,
-        "NameLocalizationKey": "@ui_poi_brightwoodsisle_40221",
+        "NameLocalizationKey": "Brightwood Isle",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -715,7 +715,7 @@
     },
     {
         "TerritoryID": 40222,
-        "NameLocalizationKey": "@ui_poi_azure_tree_40222",
+        "NameLocalizationKey": "The Azoth Tree",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -749,7 +749,7 @@
     },
     {
         "TerritoryID": 40223,
-        "NameLocalizationKey": "@ui_poi_ancient_ruins_40223",
+        "NameLocalizationKey": "Arcturus",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -783,7 +783,7 @@
     },
     {
         "TerritoryID": 40224,
-        "NameLocalizationKey": "@ui_poi_blighted_cave_40224",
+        "NameLocalizationKey": "Ebonrock Cavern",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -817,7 +817,7 @@
     },
     {
         "TerritoryID": 40225,
-        "NameLocalizationKey": "@ui_poi_bear_den_40225",
+        "NameLocalizationKey": "Pebblepot Cave",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -838,7 +838,7 @@
         "AudioState": "bear_den",
         "AudioBank": "",
         "CanPlaceCamp": "0",
-        "DevName": "@ui_poi_bear_den_40225",
+        "DevName": "Pebblepot Cave",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
@@ -851,7 +851,7 @@
     },
     {
         "TerritoryID": 40226,
-        "NameLocalizationKey": "@ui_poi_wolf_den_40226",
+        "NameLocalizationKey": "Midnight Den",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -885,7 +885,7 @@
     },
     {
         "TerritoryID": 40227,
-        "NameLocalizationKey": "@ui_poi_undeadbastion_40227",
+        "NameLocalizationKey": "Riverworn Grotto",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -919,7 +919,7 @@
     },
     {
         "TerritoryID": 40228,
-        "NameLocalizationKey": "@ui_poi_wolf_den_40228",
+        "NameLocalizationKey": "Grey Wolf Den",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -953,7 +953,7 @@
     },
     {
         "TerritoryID": 40229,
-        "NameLocalizationKey": "@ui_poi_dryad_cavern_40229",
+        "NameLocalizationKey": "Verdant Cavern",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -987,7 +987,7 @@
     },
     {
         "TerritoryID": 40230,
-        "NameLocalizationKey": "@ui_poi_wolf_den_40230",
+        "NameLocalizationKey": "Crawtick Cave",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1463,7 +1463,7 @@
     },
     {
         "TerritoryID": 40244,
-        "NameLocalizationKey": "@ui_poi_outpost_42_1_40244",
+        "NameLocalizationKey": "Outpost Courage",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1484,7 +1484,7 @@
         "AudioState": "outpost",
         "AudioBank": "",
         "CanPlaceCamp": "0",
-        "DevName": "@ui_poi_outpost_42_1_40244",
+        "DevName": "Outpost Courage",
         "VitalsCategory": "",
         "LevelRange": "",
         "Containers": null,
@@ -1497,7 +1497,7 @@
     },
     {
         "TerritoryID": 40245,
-        "NameLocalizationKey": "@ui_poi_abandoned_fishing_village_40245",
+        "NameLocalizationKey": "Salmonspawn",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1531,7 +1531,7 @@
     },
     {
         "TerritoryID": 40246,
-        "NameLocalizationKey": "@ui_poi_abandoned_fishing_village_40246",
+        "NameLocalizationKey": "Meadow Lake Fishery",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1565,7 +1565,7 @@
     },
     {
         "TerritoryID": 40247,
-        "NameLocalizationKey": "@ui_poi_blighted_cave_40247",
+        "NameLocalizationKey": "Ebonrock Quarry",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1599,7 +1599,7 @@
     },
     {
         "TerritoryID": 40248,
-        "NameLocalizationKey": "@ui_poi_dryad_cavern_40248",
+        "NameLocalizationKey": "Lush Hideaway",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1633,7 +1633,7 @@
     },
     {
         "TerritoryID": 40249,
-        "NameLocalizationKey": "@ui_poi_haunted_village_40249",
+        "NameLocalizationKey": "Vigil's Stand",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1667,7 +1667,7 @@
     },
     {
         "TerritoryID": 40250,
-        "NameLocalizationKey": "@ui_poi_haunted_village_40250",
+        "NameLocalizationKey": "Twineborough",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1701,7 +1701,7 @@
     },
     {
         "TerritoryID": 40251,
-        "NameLocalizationKey": "@ui_poi_haunted_farm_40251",
+        "NameLocalizationKey": "Sinanovic Farm",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1735,7 +1735,7 @@
     },
     {
         "TerritoryID": 40252,
-        "NameLocalizationKey": "@ui_poi_haunted_graveyard_40252",
+        "NameLocalizationKey": "Graybrooke Farmstead",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1769,7 +1769,7 @@
     },
     {
         "TerritoryID": 40253,
-        "NameLocalizationKey": "@ui_poi_roots_of_pain_40253",
+        "NameLocalizationKey": "Brightrest Cemetery",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1803,7 +1803,7 @@
     },
     {
         "TerritoryID": 40254,
-        "NameLocalizationKey": "@ui_poi_haunted_village_40254",
+        "NameLocalizationKey": "Mortemer Manor",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1837,7 +1837,7 @@
     },
     {
         "TerritoryID": 40255,
-        "NameLocalizationKey": "@ui_poi_haunted_farm_40255",
+        "NameLocalizationKey": "Dragsholm Jetty",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1871,7 +1871,7 @@
     },
     {
         "TerritoryID": 40256,
-        "NameLocalizationKey": "@ui_poi_haunted_village_40256",
+        "NameLocalizationKey": "Marcel's Hamlet",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1905,7 +1905,7 @@
     },
     {
         "TerritoryID": 40257,
-        "NameLocalizationKey": "@ui_poi_haunted_village_40257",
+        "NameLocalizationKey": "Walsham",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1939,7 +1939,7 @@
     },
     {
         "TerritoryID": 40258,
-        "NameLocalizationKey": "@ui_poi_haunted_graveyard_40258",
+        "NameLocalizationKey": "Walsham's Field",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1973,7 +1973,7 @@
     },
     {
         "TerritoryID": 40259,
-        "NameLocalizationKey": "@ui_poi_haunted_church_40259",
+        "NameLocalizationKey": "The Walsh Congregation",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2007,7 +2007,7 @@
     },
     {
         "TerritoryID": 40260,
-        "NameLocalizationKey": "@ui_poi_haunted_church_40260",
+        "NameLocalizationKey": "Ballard's Manor",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2041,7 +2041,7 @@
     },
     {
         "TerritoryID": 40261,
-        "NameLocalizationKey": "@ui_poi_haunted_village_40261",
+        "NameLocalizationKey": "Deggendorf",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2075,7 +2075,7 @@
     },
     {
         "TerritoryID": 40262,
-        "NameLocalizationKey": "@ui_poi_haunted_village_40262",
+        "NameLocalizationKey": "Tillingast",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2109,7 +2109,7 @@
     },
     {
         "TerritoryID": 40263,
-        "NameLocalizationKey": "@ui_poi_haunted_village_40263",
+        "NameLocalizationKey": "Wolfsegg Village",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2143,7 +2143,7 @@
     },
     {
         "TerritoryID": 40264,
-        "NameLocalizationKey": "@ui_poi_haunted_graveyard_40264",
+        "NameLocalizationKey": "Staudt Manor",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2177,7 +2177,7 @@
     },
     {
         "TerritoryID": 40266,
-        "NameLocalizationKey": "@ui_poi_haunted_village_40266",
+        "NameLocalizationKey": "Daybreak Borough",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2211,7 +2211,7 @@
     },
     {
         "TerritoryID": 40267,
-        "NameLocalizationKey": "@ui_poi_abandoned_farm_village_40267",
+        "NameLocalizationKey": "Fallowhill Farm",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2245,7 +2245,7 @@
     },
     {
         "TerritoryID": 40268,
-        "NameLocalizationKey": "@ui_poi_green_defile_40268",
+        "NameLocalizationKey": "Pendle Hollow",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2279,7 +2279,7 @@
     },
     {
         "TerritoryID": 40269,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_broad",
+        "NameLocalizationKey": "Broad Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2313,7 +2313,7 @@
     },
     {
         "TerritoryID": 40272,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_broad",
+        "NameLocalizationKey": "Broad Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2347,7 +2347,7 @@
     },
     {
         "TerritoryID": 40274,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_broad",
+        "NameLocalizationKey": "Broad Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2381,7 +2381,7 @@
     },
     {
         "TerritoryID": 40270,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_rare",
+        "NameLocalizationKey": "Rare Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2415,7 +2415,7 @@
     },
     {
         "TerritoryID": 40271,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_rare",
+        "NameLocalizationKey": "Rare Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2449,7 +2449,7 @@
     },
     {
         "TerritoryID": 40273,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_rare",
+        "NameLocalizationKey": "Rare Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2483,7 +2483,7 @@
     },
     {
         "TerritoryID": 40275,
-        "NameLocalizationKey": "@ui_poi_alligator_habitat_40275",
+        "NameLocalizationKey": "Alligator Habitat",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2517,7 +2517,7 @@
     },
     {
         "TerritoryID": 40276,
-        "NameLocalizationKey": "@ui_poi_covenant_outpost_40276",
+        "NameLocalizationKey": "Covenant Outpost",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2551,7 +2551,7 @@
     },
     {
         "TerritoryID": 40277,
-        "NameLocalizationKey": "@ui_poi_factionarea_40277",
+        "NameLocalizationKey": "Stonereach Pass",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2585,7 +2585,7 @@
     },
     {
         "TerritoryID": 40278,
-        "NameLocalizationKey": "@ui_poi_factionarea_40278",
+        "NameLocalizationKey": "Eldritch Hollow",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2619,7 +2619,7 @@
     },
     {
         "TerritoryID": 40279,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_01_40279",
+        "NameLocalizationKey": "Postrehkin Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2653,7 +2653,7 @@
     },
     {
         "TerritoryID": 40280,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_02_40280",
+        "NameLocalizationKey": "Wolfbough Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2687,7 +2687,7 @@
     },
     {
         "TerritoryID": 40281,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_01_40281",
+        "NameLocalizationKey": "Bearclaw Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2721,7 +2721,7 @@
     },
     {
         "TerritoryID": 40282,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_02_40282",
+        "NameLocalizationKey": "Shadowmine Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2755,7 +2755,7 @@
     },
     {
         "TerritoryID": 40283,
-        "NameLocalizationKey": "@ui_poi_keep_40283",
+        "NameLocalizationKey": "Stonereach Keep",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2789,7 +2789,7 @@
     },
     {
         "TerritoryID": 40284,
-        "NameLocalizationKey": "@ui_poi_factionarea_40284",
+        "NameLocalizationKey": "Ravenridge Grazing Lands",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2823,7 +2823,7 @@
     },
     {
         "TerritoryID": 40285,
-        "NameLocalizationKey": "@ui_poi_factionarea_40285",
+        "NameLocalizationKey": "Hodge Gully",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2857,7 +2857,7 @@
     },
     {
         "TerritoryID": 40286,
-        "NameLocalizationKey": "@ui_poi_factionarea_40286",
+        "NameLocalizationKey": "Acre Atwix",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2891,7 +2891,7 @@
     },
     {
         "TerritoryID": 40287,
-        "NameLocalizationKey": "@ui_poi_keep_40287",
+        "NameLocalizationKey": "Riverside Keep",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2925,7 +2925,7 @@
     },
     {
         "TerritoryID": 40288,
-        "NameLocalizationKey": "@ui_poi_stockpile_40288",
+        "NameLocalizationKey": "Greedfall Grotto",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2959,7 +2959,7 @@
     },
     {
         "TerritoryID": 40289,
-        "NameLocalizationKey": "@ui_poi_abandoned_village_40289",
+        "NameLocalizationKey": "Lugdunum Fields",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -2993,7 +2993,7 @@
     },
     {
         "TerritoryID": 40290,
-        "NameLocalizationKey": "@ui_poi_armory_40290",
+        "NameLocalizationKey": "Ebonrock Armory",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3027,7 +3027,7 @@
     },
     {
         "TerritoryID": 40291,
-        "NameLocalizationKey": "@ui_poi_tomb_40291",
+        "NameLocalizationKey": "Tomb of the Old Warrior",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3061,7 +3061,7 @@
     },
     {
         "TerritoryID": 40292,
-        "NameLocalizationKey": "@ui_poi_marauderenclave_40292",
+        "NameLocalizationKey": "Marauder Enclave",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3095,7 +3095,7 @@
     },
     {
         "TerritoryID": 40293,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_03_40293",
+        "NameLocalizationKey": "Marauder Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3129,7 +3129,7 @@
     },
     {
         "TerritoryID": 40294,
-        "NameLocalizationKey": "@ui_poi_syndicateenclave_40294",
+        "NameLocalizationKey": "Syndicate Enclave",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3163,7 +3163,7 @@
     },
     {
         "TerritoryID": 40295,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_04_40295",
+        "NameLocalizationKey": "Syndicate Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3197,7 +3197,7 @@
     },
     {
         "TerritoryID": 40296,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_05_40296",
+        "NameLocalizationKey": "Hermit Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3231,7 +3231,7 @@
     },
     {
         "TerritoryID": 40297,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_06_40297",
+        "NameLocalizationKey": "Dustmeadow Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3265,7 +3265,7 @@
     },
     {
         "TerritoryID": 40298,
-        "NameLocalizationKey": "@ui_poi_abandoned_farm_village_40298",
+        "NameLocalizationKey": "The Spread",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3299,7 +3299,7 @@
     },
     {
         "TerritoryID": 40299,
-        "NameLocalizationKey": "@ui_poi_abandoned_fishing_village_40299",
+        "NameLocalizationKey": "Meadowlake Fishery",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3333,7 +3333,7 @@
     },
     {
         "TerritoryID": 40300,
-        "NameLocalizationKey": "@Everfall_Settlement_01",
+        "NameLocalizationKey": "Oxboro",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3367,7 +3367,7 @@
     },
     {
         "TerritoryID": 42000,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_07_42000",
+        "NameLocalizationKey": "Lakeshore Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3401,7 +3401,7 @@
     },
     {
         "TerritoryID": 42001,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_08_42001",
+        "NameLocalizationKey": "Pennine Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3435,7 +3435,7 @@
     },
     {
         "TerritoryID": 42002,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_09_42002",
+        "NameLocalizationKey": "Wolfsegg Shrine",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3469,7 +3469,7 @@
     },
     {
         "TerritoryID": 42004,
-        "NameLocalizationKey": "@Everfall_Tower_01",
+        "NameLocalizationKey": "North Everfall Watch",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3503,7 +3503,7 @@
     },
     {
         "TerritoryID": 42005,
-        "NameLocalizationKey": "@Brightwood_Tower_01",
+        "NameLocalizationKey": "East Brightwood Watch",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3537,7 +3537,7 @@
     },
     {
         "TerritoryID": 42006,
-        "NameLocalizationKey": "@Brightwood_Tower_02",
+        "NameLocalizationKey": "South Brightwood Watch",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3571,7 +3571,7 @@
     },
     {
         "TerritoryID": 42007,
-        "NameLocalizationKey": "@Brightwood_Tower_03",
+        "NameLocalizationKey": "West Brightwood Watch",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -3605,7 +3605,7 @@
     },
     {
         "TerritoryID": 42008,
-        "NameLocalizationKey": "@ui_poi_factionarea_42008",
+        "NameLocalizationKey": "Widow Spree",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
