@@ -176,7 +176,7 @@
         "encumbrance max limit modifier": 2,
         "max camp respawn distance meters": 500,
         "pvp camp respawn cooldown seconds": 15,
-        "pvp respawn extend per death seconds": 5,
+        "pvp respawn extend per death seconds": 10,
         "max pvp respawn extend deaths": 10,
         "pvp death extend timeout seconds": 600,
         "player display level unlock free gear sets": 25,
@@ -327,25 +327,17 @@
             }
         },
         "equipped tag ignore classes": {
-            "__type": "SBItemClass",
-            "m_itemclasses": [
-                157
-            ],
-            "m_classesbits": {
-                "__type": "c55596b7-478a-5cbd-8828-6177e5403658",
-                "__value": "AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA"
-            }
+            "__type": "f28b9012-a592-5305-858f-88abe1ebb944",
+            "element": 157
         },
         "loot biasing item classes": {
-            "__type": "SBItemClass",
-            "m_itemclasses": [
-                141,
-                121
-            ],
-            "m_classesbits": {
-                "__type": "c55596b7-478a-5cbd-8828-6177e5403658",
-                "__value": "AAAAAAAAAAAAAAAAAAAAAgAgAAAAAAAA"
-            }
+            "__type": "f28b9012-a592-5305-858f-88abe1ebb944",
+            "element": 141,
+            "element": 141
+        },
+        "0x89a11f3c": {
+            "__type": "f28b9012-a592-5305-858f-88abe1ebb944",
+            "element": 157
         },
         "attribute bias exclusive label": {
             "__type": "EditCrc",

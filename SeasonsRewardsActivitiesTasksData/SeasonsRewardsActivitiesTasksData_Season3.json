@@ -162,9 +162,16 @@
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task25",
-        "Task": "Craft5T5WeaponOrApparel",
+        "Task": "Craft5T5Weapon",
         "Type": "Crafting",
-        "Description": "Craft Tier 5 Weapon or Apparel Items",
+        "Description": "Craft Tier 5 Weapon Items",
+        "Disabled": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task31",
+        "Task": "Craft5T5Apparel",
+        "Type": "Crafting",
+        "Description": "Craft Tier 5 Apparel Items",
         "Disabled": ""
     },
     {

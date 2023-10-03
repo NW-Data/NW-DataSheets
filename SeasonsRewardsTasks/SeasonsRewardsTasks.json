@@ -826,6 +826,20 @@
         "Description": "@ui_seasons_task_placeholder_desc"
     },
     {
+        "SeasonsTaskID": "Craft5T5Weapon",
+        "SeasonsTrackedStatID": "CraftT5Weapon",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
+        "SeasonsTaskID": "Craft5T5Apparel",
+        "SeasonsTrackedStatID": "CraftT5Apparel",
+        "TaskMaxValue": 3,
+        "Name": "@ui_seasons_task_placeholder_name",
+        "Description": "@ui_seasons_task_placeholder_desc"
+    },
+    {
         "SeasonsTaskID": "DealOrHeal50000InArena3v3",
         "SeasonsTrackedStatID": "DamageOrHealInArena3v3",
         "TaskMaxValue": 50000,
@@ -1733,7 +1747,7 @@
         "SeasonsTrackedStatID": "ObtainLevel65",
         "TaskMaxValue": 1,
         "Name": "Exceptionally Experienced",
-        "Description": "Reach level {maxCount}"
+        "Description": "Reach level 65"
     },
     {
         "SeasonsTaskID": "S3_AcquireFlail",
@@ -1782,7 +1796,7 @@
         "SeasonsTrackedStatID": "GatherSporePods",
         "TaskMaxValue": 10,
         "Name": "Speaker for the Spores",
-        "Description": "Gather from {maxCount} Spore Pods"
+        "Description": "Harvest {maxCount} Spore Pods"
     },
     {
         "SeasonsTaskID": "S3_CompleteFactionMissions_1",
@@ -1838,7 +1852,7 @@
         "SeasonsTrackedStatID": "ConsumeMountBuff",
         "TaskMaxValue": 15,
         "Name": "Beastly Buffs",
-        "Description": "Use {maxCount} Mount Buffs"
+        "Description": "Use {maxCount} Mount Consumables"
     },
     {
         "SeasonsTaskID": "S3_CompleteActivityCards_2",
@@ -1956,8 +1970,8 @@
         "SeasonsTaskID": "S3_FirstLightQuest_ExtractKim",
         "SeasonsTrackedStatID": "CompleteQuest_09A_M7",
         "TaskMaxValue": 1,
-        "Name": "Divided and Conquered",
-        "Description": "Complete Quest: To Divide and Conquer"
+        "Name": "Escape Artist",
+        "Description": "Complete Quest: Escaping the Ruins"
     },
     {
         "SeasonsTaskID": "S3_CompleteOPR_1",
@@ -2026,7 +2040,7 @@
         "SeasonsTaskID": "S3_FlailMastery",
         "SeasonsTrackedStatID": "CategoricalProgressionFlail",
         "TaskMaxValue": 19,
-        "Name": "Fellowship of the Flail II",
+        "Name": "Fellowship of the Flail III",
         "Description": "Reach Mastery {maxCount} with the Flail"
     },
     {
@@ -2186,7 +2200,7 @@
     {
         "SeasonsTaskID": "S3_Challenge_DiscoverAllFirstLightPOI",
         "SeasonsTrackedStatID": "DiscoverAllPOIFirstLight",
-        "TaskMaxValue": 27,
+        "TaskMaxValue": 24,
         "Name": "Undaunted Explorer",
         "Description": "Discover every Elysian Wilds POI"
     },
@@ -2217,6 +2231,13 @@
         "TaskMaxValue": 3,
         "Name": "Legendary Adventurer",
         "Description": "Equip a Weapon Artifact, Armor Artifact and Trinket Artifact at once"
+    },
+    {
+        "SeasonsTaskID": "S3_Challenge_LootBeastChest",
+        "SeasonsTrackedStatID": "LootBeastChest",
+        "TaskMaxValue": 100,
+        "Name": "Beastly Treasure Hunter",
+        "Description": "Loot {maxCount} Elite Beast Hoards."
     },
     {
         "SeasonsTaskID": "CompleteSavageDivide",

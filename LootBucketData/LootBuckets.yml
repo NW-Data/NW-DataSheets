@@ -3232,6 +3232,15 @@ NamedWeaponsCreatures:
     Amulet_AcornT5_V2                                                                 1 FALSE      Level:59,Megaflora02 
     2hGreataxe_FlowerPetalT5_V2                                                       1 FALSE      Level:59,Megaflora01 
     2hGreatSword_RazorLeafT5_V2                                                       1 FALSE      Level:59,Megaflora02 
+    1hGauntletVoid_TheRingT5                                                          1 FALSE      Level:60,Campbells00 
+    1hGauntletIce_WindbiteT5                                                          1 0          Level:60,Scalefang00 
+    2hStaffFire_ImmolationT5                                                          1 0          Level:60,Nyhart02    
+    2hGreataxe_BruisersAxeT5                                                          1 0          Level:60,Dayspring00 
+    2hWarhammer_HeroOfTheHillsT5                                                      1 0          Level:60,Riches03    
+    2hGreatSword_WarcryOfTheSentryT5                                                  1 0          Level:60,Elafry02    
+    2hBlunderbuss_VoidblastT5                                                         1 0          Level:60,Tempestas00 
+    1hThrowingAxe_CalmingRageT5                                                       1 0          Level:60,Hornhold01  
+    2hSpear_HavocT5                                                                   1 0          Level:60,Trampled01  
 DungeonBossGear:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -3294,11 +3303,11 @@ DungeonBossGear:
     LightHead_Mask1_T3_V2                                                             1 FALSE      Level:29-59,Regent,ShatteredObelisk 
     1hRapier_RapierofForgottenQueensT4_V2                                             1 FALSE      Level:49-59-59,ShipyardMB,Ebonscale00 
     EarringT4_ShardofLithomancy_V2                                                    1 FALSE      Level:49-59-59,ShipyardMB,Ebonscale00 
-    1hLongsword_PromiseofPowerT4_V2                                                   1 FALSE      Level:49-59,IsabellaDynasty,Ebonscale00 
-    2hSpear_FarseersSpearT4_V2                                                        1 FALSE      Level:49-59,IsabellaDynasty,Ebonscale00 
-    RingT4_BandofOceansOath_V2                                                        1 FALSE      Level:49-59,IsabellaDynasty,Ebonscale00 
-    EarringT4_BloodlinesCurseEarring_V2                                               1 FALSE      Level:49-59,IsabellaDynasty,Ebonscale00 
-    1hThrowingAxe_DreadwakeT4_V2                                                      1 FALSE      Level:49-59,IsabellaDynasty,Ebonscale00 
+    1hLongsword_PromiseofPowerT4_V2                                                   1 FALSE      Level:49-59,IsabellaDynasty3,Ebonscale00 
+    2hSpear_FarseersSpearT4_V2                                                        1 FALSE      Level:49-59,IsabellaDynasty3,Ebonscale00 
+    RingT4_BandofOceansOath_V2                                                        1 FALSE      Level:49-59,IsabellaDynasty3,Ebonscale00 
+    EarringT4_BloodlinesCurseEarring_V2                                               1 FALSE      Level:49-59,IsabellaDynasty3,Ebonscale00 
+    1hThrowingAxe_DreadwakeT4_V2                                                      1 FALSE      Level:49-59,IsabellaDynasty3,Ebonscale00 
     2hStaffLife_GlowingLifecrystalStaffT4_V2                                          1 FALSE      Level:49-59,ZhouNaga,Ebonscale00 
     2hStaffFire_FlamewakeT4_V2                                                        1 FALSE      Level:49-59,ZhouNaga,Ebonscale00 
     2hBow_TempestsCallT4_V2                                                           1 FALSE      Level:49-59,ZhouNaga,Ebonscale00 
@@ -3422,11 +3431,11 @@ DungeonBossGear:
     2hMusket_TundraWardensRifleT4_V2                                                  1 FALSE      MinContLevel:39-59,Despar,RestlessShores01 
     1hRapier_RapierofForgottenQueensT5_V2                                             1 FALSE      Level:59-59,ShipyardMB,Ebonscale00_Mut 
     EarringT5_ShardofLithomancy_V2                                                    1 FALSE      Level:59-59,ShipyardMB,Ebonscale00_Mut 
-    1hLongsword_PromiseofPowerT5_V2                                                   1 FALSE      Level:59-59,IsabellaDynasty,Ebonscale00_Mut 
-    2hSpear_FarseersSpearT5_V2                                                        1 FALSE      Level:59-59,IsabellaDynasty,Ebonscale00_Mut 
-    RingT5_BandofOceansOath_V2                                                        1 FALSE      Level:59-59,IsabellaDynasty,Ebonscale00_Mut 
-    EarringT5_BloodlinesCurseEarring_V2                                               1 FALSE      Level:59-59,IsabellaDynasty,Ebonscale00_Mut 
-    1hThrowingAxe_DreadwakeT5_V2                                                      1 FALSE      Level:59-59,IsabellaDynasty,Ebonscale00_Mut 
+    1hLongsword_PromiseofPowerT5_V2                                                   1 FALSE      Level:59-59,IsabellaDynasty3,Ebonscale00_Mut 
+    2hSpear_FarseersSpearT5_V2                                                        1 FALSE      Level:59-59,IsabellaDynasty3,Ebonscale00_Mut 
+    RingT5_BandofOceansOath_V2                                                        1 FALSE      Level:59-59,IsabellaDynasty3,Ebonscale00_Mut 
+    EarringT5_BloodlinesCurseEarring_V2                                               1 FALSE      Level:59-59,IsabellaDynasty3,Ebonscale00_Mut 
+    1hThrowingAxe_DreadwakeT5_V2                                                      1 FALSE      Level:59-59,IsabellaDynasty3,Ebonscale00_Mut 
     2hStaffLife_GlowingLifecrystalStaffT5_V2                                          1 FALSE      Level:59-59,ZhouNaga,Ebonscale00_Mut 
     2hStaffFire_FlamewakeT5_V2                                                        1 FALSE      Level:59-59,ZhouNaga,Ebonscale00_Mut 
     2hBow_TempestsCallT5_V2                                                           1 FALSE      Level:59-59,ZhouNaga,Ebonscale00_Mut 
@@ -4018,6 +4027,13 @@ MountAttachments:
     MountAttachmentItem_Shield27                                                      1 False      ShatterMtn00,MuffDiff2 
     MountAttachmentItem_Shield29                                                      1 False      EXPFirstLight01,MuffDiff2 
     MountAttachmentItem_Shield16                                                      1 False      Ebonscale00,MuffDiff2 
+MountReward_Epic:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    MountItem_MountReward_Box_9                                                       1 False      Ebonscale00_Mut,MutDiff3 
+    MountItem_MountReward_Box_20                                                      1 False      ShatteredObelisk_Mut,MutDiff3 
+    MountItem_MountReward_Box_30                                                      1 False      Restless01_Mut,MutDiff3 
 MountBuffs:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -10077,7 +10093,7 @@ DungeonResources:
     BlackPowderPouchT1                                                              2-3 FALSE      Level:54,CutlassKeys00 
     AncientTalismansT1                                                              2-3 FALSE      Level:54,BrimstoneSands00 
     FierySludgeT1                                                                   2-3 FALSE      level:54,GreatCleave01 
-    WrithingSeedlingT1                                                              2-3 FALSE      Level:59,EXPFirstLight01 
+    WrithingSeedlingT1                                                              1-2 FALSE      Level:59,EXPFirstLight01 
 DungeonBossResources:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -13177,10 +13193,10 @@ PostCapIngredients:
     TimberT5                                                                      20-30 TRUE       PostCapFurnishingT1,PostCapFurnishingT2,PostCapFurnishingT3 
     ClothT5                                                                       20-30 TRUE       PostCapFurnishingT1,PostCapFurnishingT2,PostCapFurnishingT3 
     LeatherT5                                                                     20-30 TRUE       PostCapFurnishingT1,PostCapFurnishingT2,PostCapFurnishingT3 
-    IngotT53                                                                        2-5 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
-    TimberT53                                                                       2-5 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
-    ClothT53                                                                        2-5 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
-    LeatherT53                                                                      2-5 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
+    IngotT53                                                                        2-3 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
+    TimberT53                                                                       2-3 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
+    ClothT53                                                                        2-3 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    LeatherT53                                                                      2-3 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
     FluxT5                                                                        20-33 TRUE       PostCapSmeltingT1,PostCapSmeltingT2,PostCapSmeltingT3,PostCapSmeltingT1_B,PostCapSmeltingT2_B,PostCapSmeltingT3_B 
     SandpaperT5                                                                   20-33 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3,PostCapStonecuttingT1_B,PostCapStonecuttingT2_B,PostCapStonecuttingT3_B 
     TanninT5                                                                      20-33 TRUE       PostCapLeatherworkingT1,PostCapLeatherworkingT2,PostCapLeatherworkingT3,PostCapLeatherworkingT1_B,PostCapLeatherworkingT2_B,PostCapLeatherworkingT3_B 
@@ -21650,6 +21666,21 @@ JoelsHiddenTreasures:
     AzothInductor                                                                  None                                 
     PrismaticScarab                                                                None                                 
     gatherable_research_bizzare_bait_t5                                            None                                 
+    HeavyHead_CovenantInquisitorT5_v2                                              None                                 
+    HeavyChest_CovenantInquisitorT5_v2                                             None                                 
+    HeavyHands_CovenantInquisitorT5_v2                                             None                                 
+    HeavyLegs_CovenantInquisitorT5_v2                                              None                                 
+    HeavyFeet_CovenantInquisitorT5_v2                                              None                                 
+    MediumHead_SyndicatePlagueDoctorT5_v2                                          None                                 
+    MediumChest_SyndicatePlagueDoctorT5_v2                                         None                                 
+    MediumHands_SyndicatePlagueDoctorT5_v2                                         None                                 
+    MediumLegs_SyndicatePlagueDoctorT5_v2                                          None                                 
+    MediumFeet_SyndicatePlagueDoctorT5_v2                                          None                                 
+    HeavyHead_MarauderLegatusT5_v2                                                 None                                 
+    HeavyChest_MarauderLegatusT5_v2                                                None                                 
+    HeavyHands_MarauderLegatusT5_v2                                                None                                 
+    HeavyLegs_MarauderLegatusT5_v2                                                 None                                 
+    HeavyFeet_MarauderLegatusT5_v2                                                 None                                 
 ProcWeapons_GuaranteeRare:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22311,22 +22342,22 @@ ArtifactMaster:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    Artifact_Set1_HeavyChest                                                          1 False      Level:61,MinContLevel:61,DryadSiren 
-    Artifact_Set1_HeavyHands                                                          1 False      Level:61,MinContLevel:61,Isabella2 
+    Artifact_Set1_HeavyChest                                                          1 False      Level:61,MinContLevel:61,DryadSiren,MutDiff1 
+    Artifact_Set1_HeavyHands                                                          1 False      Level:61,MinContLevel:61,Isabella2,MutDiff1 
     Artifact_Set1_MediumHands                                                         1 False      Level:61,MinContLevel:61,DryadBeast 
     Artifact_Set1_LightChest                                                          1 False      Level:61,MinContLevel:61,NerMur 
-    Artifact_Set1_1hLongsword                                                         1 False      Level:61,MinContLevel:61,ZhouNaga 
-    Artifact_Set1_1hThrowingAxe                                                       1 False      Level:61,MinContLevel:61,Greenskeeper 
-    Artifact_Set1_2hWarhammer                                                         1 False      Level:61,MinContLevel:61,Chardis 
+    Artifact_Set1_1hLongsword                                                         1 False      Level:61,MinContLevel:61,ZhouNaga,MutDiff1 
+    Artifact_Set1_1hThrowingAxe                                                       1 False      Level:61,MinContLevel:61,Greenskeeper,MutDiff1 
+    Artifact_Set1_2hWarhammer                                                         1 False      Level:61,MinContLevel:61,Chardis,MutDiff1 
     Artifact_Set1_2hMusket                                                            1 False      Level:61,MinContLevel:61,ToyMaker 
-    Artifact_Set1_1hTowerShield                                                       1 False      Level:61,MinContLevel:61,Horus 
-    Artifact_Set1_2hStaffFire                                                         1 False      Level:61,MinContLevel:61,Marius 
+    Artifact_Set1_1hTowerShield                                                       1 False      Level:61,MinContLevel:61,Horus,MutDiff1 
+    Artifact_Set1_2hStaffFire                                                         1 False      Level:61,MinContLevel:61,Marius,MutDiff1 
     Artifact_Set1_2hSpear                                                             1 False      Level:61,MinContLevel:61,DenScorpion04 
     Artifact_Set1_1hRapier                                                            1 False      Level:61,MinContLevel:61,RainbowMammoth 
     Artifact_Set1_1hGauntletVoid                                                      1 False      Level:61,MinContLevel:61,RainbowGorilla 
     Artifact_Set1_1hFlail                                                             1 False      Level:61,MinContLevel:61,PrinceJohn 
-    Artifact_Set1_Ring1                                                               1 False      Level:61,MinContLevel:61,Regent 
-    Artifact_Set1_Amulet1                                                             1 False      Level:61,MinContLevel:61,DungeonThorpe 
+    Artifact_Set1_Ring1                                                               1 False      Level:61,MinContLevel:61,Regent,MutDiff1 
+    Artifact_Set1_Amulet1                                                             1 False      Level:61,MinContLevel:61,DungeonThorpe,MutDiff1 
 ArtifactMasterPvP:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags

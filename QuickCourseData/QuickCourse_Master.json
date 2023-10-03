@@ -34,7 +34,7 @@
         "PathReferenceQuickCourseId": "",
         "IsTimed": true,
         "AccumulateTime": null,
-        "StartingTimerSeconds": 260,
+        "StartingTimerSeconds": 200,
         "NodeTimeOverrideMultiplier": null,
         "AudioGroup": "MNT_Race_Tour_Everfall",
         "NOTES": "King's Road Tour"
@@ -44,7 +44,7 @@
         "PathReferenceQuickCourseId": "",
         "IsTimed": true,
         "AccumulateTime": null,
-        "StartingTimerSeconds": 310,
+        "StartingTimerSeconds": 280,
         "NodeTimeOverrideMultiplier": null,
         "AudioGroup": "MNT_Race_Tour_Everfall",
         "NOTES": "Dogma Tour"
@@ -54,7 +54,7 @@
         "PathReferenceQuickCourseId": "",
         "IsTimed": true,
         "AccumulateTime": null,
-        "StartingTimerSeconds": 320,
+        "StartingTimerSeconds": 180,
         "NodeTimeOverrideMultiplier": null,
         "AudioGroup": "MNT_Race_Tour_Everfall",
         "NOTES": "Ghosts and Groves Tour"
@@ -187,7 +187,7 @@
         "StartingTimerSeconds": 380,
         "NodeTimeOverrideMultiplier": null,
         "AudioGroup": "MNT_Race_Tour_Great_Cleave",
-        "NOTES": "Azure Fire Tour"
+        "NOTES": "Ancient Alley Tour"
     },
     {
         "QuickCourseId": "GC_Tour_2",
@@ -197,7 +197,7 @@
         "StartingTimerSeconds": 360,
         "NodeTimeOverrideMultiplier": null,
         "AudioGroup": "MNT_Race_Tour_Great_Cleave",
-        "NOTES": "Leap of Faith Rally"
+        "NOTES": "Downhill Rush Rally"
     },
     {
         "QuickCourseId": "GC_Tour_3",

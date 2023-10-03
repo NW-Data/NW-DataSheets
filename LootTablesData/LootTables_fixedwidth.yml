@@ -12164,7 +12164,7 @@ MutatorLoot_Creature_RollChance:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1           50000          1 [LTID]MutatorLoot_Creature                                  
+    Item1           70000          1 [LTID]MutatorLoot_Creature                                  
 MutatorLoot_Creature:
   RollBonusSetting: AddToRoll
   AND/OR: OR
@@ -12902,81 +12902,144 @@ Loot_MutDiff1T1:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0         50 DungeonDiamonds_FLXpac_Mutator                              
-    Item2               0          1 Coin_Stack_500                                              
-    Item3               0          1 [LTID]MutatorLoot_Difficulty                                
+    Item1               0         50 DungeonDiamonds_Mutator                                     
+    Item2               0          8 DarkMatter                                                  
 Loot_MutDiff1T2:
   AND/OR: AND
   MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0        100 DungeonDiamonds_FLXpac_Mutator                              
-    Item2               0          1 Coin_Stack_500                                              
-    Item3               0          2 [LTID]MutatorLoot_Difficulty                                
+    Item1               0        100 DungeonDiamonds_Mutator                                     
+    Item2               0         16 DarkMatter                                                  
 Loot_MutDiff1T3:
   AND/OR: AND
   MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0        150 DungeonDiamonds_FLXpac_Mutator                              
-    Item2               0          1 Coin_Stack_500                                              
-    Item3               0          3 [LTID]MutatorLoot_Difficulty                                
+    Item1               0        150 DungeonDiamonds_Mutator                                     
+    Item2               0         24 DarkMatter                                                  
 Loot_MutDiff2T1:
   AND/OR: AND
   MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0        100 DungeonDiamonds_FLXpac_Mutator                              
-    Item2               0          1 Coin_Stack_500                                              
-    Item3               0          1 [LTID]MutatorLoot_Difficulty                                
+    Item1               0        100 DungeonDiamonds_Mutator                                     
+    Item2               0         16 DarkMatter                                                  
 Loot_MutDiff2T2:
   AND/OR: AND
   MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0        250 DungeonDiamonds_FLXpac_Mutator                              
-    Item2               0          1 Coin_Stack_500                                              
-    Item3               0          2 [LTID]MutatorLoot_Difficulty                                
+    Item1               0        250 DungeonDiamonds_Mutator                                     
+    Item2               0         24 DarkMatter                                                  
 Loot_MutDiff2T3:
   AND/OR: AND
   MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0        200 DungeonDiamonds_FLXpac_Mutator                              
-    Item2               0          1 Coin_Stack_500                                              
-    Item3               0          3 [LTID]MutatorLoot_Difficulty                                
+    Item1               0        200 DungeonDiamonds_Mutator                                     
+    Item2               0         32 DarkMatter                                                  
 Loot_MutDiff3T1:
   AND/OR: AND
   MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0        250 DungeonDiamonds_FLXpac_Mutator                              
-    Item2               0          1 Coin_Stack_500                                              
-    Item3               0          1 [LTID]MutatorLoot_Difficulty                                
+    Item1               0        250 DungeonDiamonds_Mutator                                     
+    Item2               0         24 DarkMatter                                                  
 Loot_MutDiff3T2:
   AND/OR: AND
   MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0        500 DungeonDiamonds_FLXpac_Mutator                              
-    Item2               0          1 Coin_Stack_500                                              
-    Item3               0          2 [LTID]MutatorLoot_Difficulty                                
+    Item1               0        500 DungeonDiamonds_Mutator                                     
+    Item2               0         32 DarkMatter                                                  
 Loot_MutDiff3T3:
   AND/OR: AND
   MaxRoll: 1
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
+    Item1               0        750 DungeonDiamonds_Mutator                                     
+    Item2               0         40 DarkMatter                                                  
+Loot_MutDiff1T1_FLXpac:
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0         50 DungeonDiamonds_FLXpac_Mutator                              
+    Item2               0          8 DarkMatter                                                  
+Loot_MutDiff1T2_FLXpac:
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0         75 DungeonDiamonds_FLXpac_Mutator                              
+    Item2               0         16 DarkMatter                                                  
+Loot_MutDiff1T3_FLXpac:
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0        125 DungeonDiamonds_FLXpac_Mutator                              
+    Item2               0         24 DarkMatter                                                  
+Loot_MutDiff2T1_FLXpac:
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0        100 DungeonDiamonds_FLXpac_Mutator                              
+    Item2               0         16 DarkMatter                                                  
+Loot_MutDiff2T2_FLXpac:
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0        150 DungeonDiamonds_FLXpac_Mutator                              
+    Item2               0         24 DarkMatter                                                  
+Loot_MutDiff2T3_FLXpac:
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0        200 DungeonDiamonds_FLXpac_Mutator                              
+    Item2               0         32 DarkMatter                                                  
+Loot_MutDiff3T1_FLXpac:
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0        250 DungeonDiamonds_FLXpac_Mutator                              
+    Item2               0         24 DarkMatter                                                  
+Loot_MutDiff3T2_FLXpac:
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0        500 DungeonDiamonds_FLXpac_Mutator                              
+    Item2               0         32 DarkMatter                                                  
+Loot_MutDiff3T3_FLXpac:
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
     Item1               0        750 DungeonDiamonds_FLXpac_Mutator                              
-    Item2               0          1 Coin_Stack_500                                              
-    Item3               0          3 [LTID]MutatorLoot_Difficulty                                
+    Item2               0         40 DarkMatter                                                  
 Loot_ToolMotes:
   AND/OR: AND
   MaxRoll: 1
@@ -13680,7 +13743,7 @@ PVPCraftingResources_Filter:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1           50000          1 [LTID]PVPCraftingLoot_UncommonChances                       
-    Item2           95000          1 [LBID]PVPCraftingLoot_Rare                                  
+    Item2           99000          1 [LBID]PVPCraftingLoot_Rare                                  
 PVPCraftingLoot_UncommonChances:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -13690,7 +13753,7 @@ PVPCraftingLoot_UncommonChances:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LBID]PVPCraftingLoot_Uncommon                              
-    Item2           80000        1-2 [LBID]PVPCraftingLoot_Uncommon                              
+    Item2           90000        1-2 [LBID]PVPCraftingLoot_Uncommon                              
 Trial_Sandworm_MasterLoot:
   AND/OR: AND
   MaxRoll: 0

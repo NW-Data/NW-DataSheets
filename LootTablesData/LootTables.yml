@@ -21076,7 +21076,7 @@ MutatorLoot_Creature_RollChance:
   Item1:
     Name: '[LTID]MutatorLoot_Creature'
     Qty: '1'
-    Threshold: '50000'
+    Threshold: '70000'
   MaxRoll: 1
 MutatorLoot_Creature:
   RollBonusSetting: AddToRoll
@@ -22361,136 +22361,199 @@ SE_Music_Goat_Loot:
 Loot_MutDiff1T1:
   AND/OR: AND
   Item1:
+    Name: DungeonDiamonds_Mutator
+    Qty: '50'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '8'
+    Threshold: '0'
+  MaxRoll: 1
+Loot_MutDiff1T2:
+  AND/OR: AND
+  Item1:
+    Name: DungeonDiamonds_Mutator
+    Qty: '100'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '16'
+    Threshold: '0'
+  MaxRoll: 1
+Loot_MutDiff1T3:
+  AND/OR: AND
+  Item1:
+    Name: DungeonDiamonds_Mutator
+    Qty: '150'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '24'
+    Threshold: '0'
+  MaxRoll: 1
+Loot_MutDiff2T1:
+  AND/OR: AND
+  Item1:
+    Name: DungeonDiamonds_Mutator
+    Qty: '100'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '16'
+    Threshold: '0'
+  MaxRoll: 1
+Loot_MutDiff2T2:
+  AND/OR: AND
+  Item1:
+    Name: DungeonDiamonds_Mutator
+    Qty: '250'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '24'
+    Threshold: '0'
+  MaxRoll: 1
+Loot_MutDiff2T3:
+  AND/OR: AND
+  Item1:
+    Name: DungeonDiamonds_Mutator
+    Qty: '200'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '32'
+    Threshold: '0'
+  MaxRoll: 1
+Loot_MutDiff3T1:
+  AND/OR: AND
+  Item1:
+    Name: DungeonDiamonds_Mutator
+    Qty: '250'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '24'
+    Threshold: '0'
+  MaxRoll: 1
+Loot_MutDiff3T2:
+  AND/OR: AND
+  Item1:
+    Name: DungeonDiamonds_Mutator
+    Qty: '500'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '32'
+    Threshold: '0'
+  MaxRoll: 1
+Loot_MutDiff3T3:
+  AND/OR: AND
+  Item1:
+    Name: DungeonDiamonds_Mutator
+    Qty: '750'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '40'
+    Threshold: '0'
+  MaxRoll: 1
+Loot_MutDiff1T1_FLXpac:
+  AND/OR: AND
+  Item1:
     Name: DungeonDiamonds_FLXpac_Mutator
     Qty: '50'
     Threshold: '0'
   Item2:
-    Name: Coin_Stack_500
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]MutatorLoot_Difficulty'
-    Qty: '1'
+    Name: DarkMatter
+    Qty: '8'
     Threshold: '0'
   MaxRoll: 1
-Loot_MutDiff1T2:
+Loot_MutDiff1T2_FLXpac:
+  AND/OR: AND
+  Item1:
+    Name: DungeonDiamonds_FLXpac_Mutator
+    Qty: '75'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '16'
+    Threshold: '0'
+  MaxRoll: 1
+Loot_MutDiff1T3_FLXpac:
+  AND/OR: AND
+  Item1:
+    Name: DungeonDiamonds_FLXpac_Mutator
+    Qty: '125'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '24'
+    Threshold: '0'
+  MaxRoll: 1
+Loot_MutDiff2T1_FLXpac:
   AND/OR: AND
   Item1:
     Name: DungeonDiamonds_FLXpac_Mutator
     Qty: '100'
     Threshold: '0'
   Item2:
-    Name: Coin_Stack_500
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]MutatorLoot_Difficulty'
-    Qty: '2'
+    Name: DarkMatter
+    Qty: '16'
     Threshold: '0'
   MaxRoll: 1
-Loot_MutDiff1T3:
+Loot_MutDiff2T2_FLXpac:
   AND/OR: AND
   Item1:
     Name: DungeonDiamonds_FLXpac_Mutator
     Qty: '150'
     Threshold: '0'
   Item2:
-    Name: Coin_Stack_500
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]MutatorLoot_Difficulty'
-    Qty: '3'
+    Name: DarkMatter
+    Qty: '24'
     Threshold: '0'
   MaxRoll: 1
-Loot_MutDiff2T1:
-  AND/OR: AND
-  Item1:
-    Name: DungeonDiamonds_FLXpac_Mutator
-    Qty: '100'
-    Threshold: '0'
-  Item2:
-    Name: Coin_Stack_500
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]MutatorLoot_Difficulty'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-Loot_MutDiff2T2:
-  AND/OR: AND
-  Item1:
-    Name: DungeonDiamonds_FLXpac_Mutator
-    Qty: '250'
-    Threshold: '0'
-  Item2:
-    Name: Coin_Stack_500
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]MutatorLoot_Difficulty'
-    Qty: '2'
-    Threshold: '0'
-  MaxRoll: 1
-Loot_MutDiff2T3:
+Loot_MutDiff2T3_FLXpac:
   AND/OR: AND
   Item1:
     Name: DungeonDiamonds_FLXpac_Mutator
     Qty: '200'
     Threshold: '0'
   Item2:
-    Name: Coin_Stack_500
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]MutatorLoot_Difficulty'
-    Qty: '3'
+    Name: DarkMatter
+    Qty: '32'
     Threshold: '0'
   MaxRoll: 1
-Loot_MutDiff3T1:
+Loot_MutDiff3T1_FLXpac:
   AND/OR: AND
   Item1:
     Name: DungeonDiamonds_FLXpac_Mutator
     Qty: '250'
     Threshold: '0'
   Item2:
-    Name: Coin_Stack_500
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]MutatorLoot_Difficulty'
-    Qty: '1'
+    Name: DarkMatter
+    Qty: '24'
     Threshold: '0'
   MaxRoll: 1
-Loot_MutDiff3T2:
+Loot_MutDiff3T2_FLXpac:
   AND/OR: AND
   Item1:
     Name: DungeonDiamonds_FLXpac_Mutator
     Qty: '500'
     Threshold: '0'
   Item2:
-    Name: Coin_Stack_500
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]MutatorLoot_Difficulty'
-    Qty: '2'
+    Name: DarkMatter
+    Qty: '32'
     Threshold: '0'
   MaxRoll: 1
-Loot_MutDiff3T3:
+Loot_MutDiff3T3_FLXpac:
   AND/OR: AND
   Item1:
     Name: DungeonDiamonds_FLXpac_Mutator
     Qty: '750'
     Threshold: '0'
   Item2:
-    Name: Coin_Stack_500
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]MutatorLoot_Difficulty'
-    Qty: '3'
+    Name: DarkMatter
+    Qty: '40'
     Threshold: '0'
   MaxRoll: 1
 Loot_ToolMotes:
@@ -23489,7 +23552,7 @@ PVPCraftingResources_Filter:
   Item2:
     Name: '[LBID]PVPCraftingLoot_Rare'
     Qty: '1'
-    Threshold: '95000'
+    Threshold: '99000'
   MaxRoll: 100000
 PVPCraftingLoot_UncommonChances:
   RollBonusSetting: AddToRoll
@@ -23502,7 +23565,7 @@ PVPCraftingLoot_UncommonChances:
   Item2:
     Name: '[LBID]PVPCraftingLoot_Uncommon'
     Qty: 1-2
-    Threshold: '80000'
+    Threshold: '90000'
   MaxRoll: 100000
 Trial_Sandworm_MasterLoot:
   AND/OR: AND
