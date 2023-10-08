@@ -55,20 +55,6 @@
         "GatherableIds": "LootLargeT3ElitePOI"
     },
     {
-<<<<<<< HEAD
-        "TrackedStatID": "Gather3AeternumSturgeon",
-        "StatType": "Gather",
-        "TargetID": "FishingSummerMedleySturgeonSmallT3,FishingSummerMedleySturgeonMediumT3,FishingSummerMedleySturgeonLargeT3",
-        "Level": null,
-        "ItemType": "Resource",
-        "ItemClass": "",
-        "PerUse": true,
-        "Tradeskills": "Fishing",
-        "GatherableIds": ""
-    },
-    {
-=======
->>>>>>> PTR
         "TrackedStatID": "GatherPrismabloom",
         "StatType": "Gather",
         "TargetID": "",
@@ -78,8 +64,6 @@
         "PerUse": true,
         "Tradeskills": "",
         "GatherableIds": "DyePlantDesertRose"
-<<<<<<< HEAD
-=======
     },
     {
         "TrackedStatID": "GatherSporePods",
@@ -102,6 +86,5 @@
         "PerUse": true,
         "Tradeskills": "",
         "GatherableIds": "LootLargeT3ElitePOI_BeastChestOnly"
->>>>>>> PTR
     }
 ]

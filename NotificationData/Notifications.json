@@ -31,13 +31,8 @@
     },
     {
         "NotificationId": "Place_Camp",
-<<<<<<< HEAD
-        "DisplayTitle": "@ui_notification_camp_placed_title",
-        "DisplayText": "@ui_notification_camp_placed_description",
-=======
         "DisplayTitle": "Camp Placed!",
         "DisplayText": "You can only have one camp at a time. Use this camp to respawn, recover, and do basic crafting.",
->>>>>>> PTR
         "SecondaryText": "Youcanonlyhaveonecampatatime.Usethiscamptorespawn,recover,dobasiccrafting,andrefinewoodandstone.",
         "IconPath": "",
         "MaxDisplayCount": 1,
@@ -413,21 +408,6 @@
         "NotificationId": "Trade_Failure_Global_Storage_Settlement_Inaccessible",
         "DisplayTitle": "Trade Failed",
         "DisplayText": "You cannot deposit items into inaccessible Settlements.",
-        "SecondaryText": "",
-        "IconPath": "",
-        "MaxDisplayCount": -1,
-        "NotificationType": "Minor",
-        "TrackDisplayCount": null,
-        "DurationOverride": null,
-        "CooldownSeconds": null,
-        "Keybind": "",
-        "KeybindActionmap": "",
-        "NumberFields": ""
-    },
-    {
-        "NotificationId": "Trade_Failure_Global_Storage_Settlement_Inaccessible",
-        "DisplayTitle": "@ui_trade_failure",
-        "DisplayText": "@ui_trade_failure_global_storage_settlement_inaccessible",
         "SecondaryText": "",
         "IconPath": "",
         "MaxDisplayCount": -1,

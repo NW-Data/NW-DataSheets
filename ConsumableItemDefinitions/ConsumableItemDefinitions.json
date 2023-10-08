@@ -10296,68 +10296,6 @@
         "IsMountConsumable": null
     },
     {
-        "ConsumableID": "Artisan_FoodCONT5",
-        "AddStatusEffects": "FoodCONT5+FoodRecoveryT5",
-        "StatusEffectMod": 1,
-        "DurationOverrides": 3600,
-        "MinDurationModifier": null,
-        "MaxDurationModifier": null,
-        "DurationScaleFactor": null,
-        "MinPotencyModifier": null,
-        "MaxPotencyModifier": null,
-        "PotencyScaleFactor": null,
-        "RemoveStatusEffects": "",
-        "RemoveStatusEffectCategories": "Attributes+Recovery",
-        "DisplayStatusEffect": "",
-        "UseCount": null,
-        "WeaponUseCount": "",
-        "DisableUseInCombat": null,
-        "AfflictionDamage": "",
-        "BaseDamageModifier": "",
-        "BaseDamageType": "",
-        "DamageType": "",
-        "Damage": "",
-        "DMGVitalsCategory": "",
-        "OnUseAffliction": "",
-        "StatMultipliers": "",
-        "RequiredItemClass": "",
-        "MannequinTag": "Eat",
-        "EquipAbility": "",
-        "CooldownDuration": null,
-        "CooldownId": ""
-    },
-    {
-        "ConsumableID": "Artisan_HealthRecoveryT5",
-        "AddStatusEffects": "FoodInitialRecoveryT5+FoodRecoveryT5",
-        "StatusEffectMod": 1,
-        "DurationOverrides": 40,
-        "MinDurationModifier": null,
-        "MaxDurationModifier": null,
-        "DurationScaleFactor": null,
-        "MinPotencyModifier": null,
-        "MaxPotencyModifier": null,
-        "PotencyScaleFactor": null,
-        "RemoveStatusEffects": "",
-        "RemoveStatusEffectCategories": "Recovery+FoodInitialRecovery",
-        "DisplayStatusEffect": "",
-        "UseCount": null,
-        "WeaponUseCount": "",
-        "DisableUseInCombat": null,
-        "AfflictionDamage": "",
-        "BaseDamageModifier": "",
-        "BaseDamageType": "",
-        "DamageType": "",
-        "Damage": "",
-        "DMGVitalsCategory": "",
-        "OnUseAffliction": "",
-        "StatMultipliers": "",
-        "RequiredItemClass": "",
-        "MannequinTag": "Eat",
-        "EquipAbility": "",
-        "CooldownDuration": null,
-        "CooldownId": ""
-    },
-    {
         "ConsumableID": "FoodSTRT2",
         "AddStatusEffects": "FoodSTRT2+FoodRecoveryT2",
         "StatusEffectMod": null,
@@ -16985,15 +16923,10 @@
         "RequiredItemClass": "",
         "MannequinTag": "",
         "EquipAbility": "",
-<<<<<<< HEAD
-        "CooldownDuration": 120,
-        "CooldownId": "AcidCurse"
-=======
         "CooldownDuration": 100,
         "CooldownId": "AcidCurse",
         "RequiredInactiveLootLimitId": "",
         "IsMountConsumable": null
->>>>>>> PTR
     },
     {
         "ConsumableID": "95_s01_07_SearingTemper",
@@ -17024,13 +16957,9 @@
         "MannequinTag": "WeaponOil",
         "EquipAbility": "",
         "CooldownDuration": null,
-<<<<<<< HEAD
-        "CooldownId": ""
-=======
         "CooldownId": "",
         "RequiredInactiveLootLimitId": "",
         "IsMountConsumable": null
->>>>>>> PTR
     },
     {
         "ConsumableID": "95a_s02_FirebloodOil_item",
@@ -17053,11 +16982,7 @@
         "BaseDamageModifier": "",
         "BaseDamageType": "",
         "DamageType": "",
-<<<<<<< HEAD
-        "Damage": "",
-=======
         "Damage": null,
->>>>>>> PTR
         "DMGVitalsCategory": "",
         "OnUseAffliction": "",
         "StatMultipliers": "",
@@ -17065,9 +16990,6 @@
         "MannequinTag": "WeaponOil",
         "EquipAbility": "",
         "CooldownDuration": null,
-<<<<<<< HEAD
-        "CooldownId": ""
-=======
         "CooldownId": "",
         "RequiredInactiveLootLimitId": "",
         "IsMountConsumable": null
@@ -18061,6 +17983,5 @@
         "CooldownId": "",
         "RequiredInactiveLootLimitId": "",
         "IsMountConsumable": null
->>>>>>> PTR
     }
 ]

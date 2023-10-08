@@ -8142,11 +8142,7 @@
     {
         "VariantID": "9809_covenantguard_f_v2",
         "NPCId": "9809_covenantguard_f",
-<<<<<<< HEAD
-        "Name": "@9809_covenantguard",
-=======
         "Name": "Covenant Guardian",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9809_covenantguard_f.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -8212,11 +8208,7 @@
     {
         "VariantID": "9809_covenantguard_m_Sitting_v2",
         "NPCId": "9809_covenantguard_m",
-<<<<<<< HEAD
-        "Name": "@9809_covenantguard",
-=======
         "Name": "Covenant Guardian",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9809_covenantguard_m_Unarmed.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Sit\\Generic\\settle_generic_sit_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Sit\\Generic\\settle_generic_sit_greet.timeline",
@@ -8282,38 +8274,11 @@
     {
         "VariantID": "9809_covenantguard_m_v2",
         "NPCId": "9809_covenantguard_m",
-<<<<<<< HEAD
-        "Name": "@9809_covenantguard",
+        "Name": "Covenant Guardian",
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9809_covenantguard_m.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
         "IdleTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_ambient.timeline",
-        "InteractTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_interact.timeline",
-        "SwapAchievementId": "",
-        "PlaceholderMesh": "",
-        "AttachedMesh": "",
-        "AttachmentPositionX": null,
-        "AttachmentPositionY": null,
-        "AttachmentPositionZ": null,
-        "AttachmentRotationX": null,
-        "AttachmentRotationY": null,
-        "AttachmentRotationZ": null,
-        "InteractOverride_X": null,
-        "InteractOverride_Y": null,
-        "MarkerOffset_Z": null
-    },
-    {
-        "VariantID": "9810_Alejandro",
-        "NPCId": "9810_Alejandro",
-        "Name": "@9810_Alejandro",
-        "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9810_Alejandro.cdf",
-=======
-        "Name": "Covenant Guardian",
-        "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9809_covenantguard_m.cdf",
->>>>>>> PTR
-        "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
-        "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
-        "IdleTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\unarmed_pondering_ambient.timeline",
         "InteractTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_interact.timeline",
         "SwapAchievementId": "",
         "PlaceholderMesh": "",
@@ -8485,11 +8450,7 @@
     {
         "VariantID": "9815_marauderguard_f_v2",
         "NPCId": "9815_marauderguard_f",
-<<<<<<< HEAD
-        "Name": "@9815_marauderguard",
-=======
         "Name": "Marauder Sentinel",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9815_marauderguard_f.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\settle_watcher_exit_01.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\settle_watcher_intro_01.timeline",
@@ -8555,11 +8516,7 @@
     {
         "VariantID": "9815_marauderguard_m_v2",
         "NPCId": "9815_marauderguard_m",
-<<<<<<< HEAD
-        "Name": "@9815_marauderguard",
-=======
         "Name": "Marauder Sentinel",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9815_marauderguard_m.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\settle_warden_exit_01.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\settle_warden_intro_01.timeline",
@@ -8581,11 +8538,7 @@
     {
         "VariantID": "9815_marauderguard_m_v3",
         "NPCId": "9815_marauderguard_m",
-<<<<<<< HEAD
-        "Name": "@9815_marauderguard",
-=======
         "Name": "Marauder Sentinel",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9815_marauderguard_m.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -8761,11 +8714,7 @@
     {
         "VariantID": "9821_syndicateguard_f_v2",
         "NPCId": "9821_syndicateguard_f",
-<<<<<<< HEAD
-        "Name": "@9821_syndicateguard",
-=======
         "Name": "Syndicate Watchman",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9821_syndicateguard_f.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -8831,11 +8780,7 @@
     {
         "VariantID": "9821_syndicateguard_m_v2",
         "NPCId": "9821_syndicateguard_m",
-<<<<<<< HEAD
-        "Name": "@9821_syndicateguard",
-=======
         "Name": "Syndicate Watchman",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9821_syndicateguard_m.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -9105,11 +9050,7 @@
         "GreetTimeline": "Libs\\Timeline\\Npc\\Dog_LyingToSit_Intro.timeline",
         "IdleTimeline": "Libs\\Timeline\\Npc\\Dog_LyingToSit_Idle.timeline",
         "InteractTimeline": "Libs\\Timeline\\Npc\\Dog_LyingToSit_Interact.timeline",
-<<<<<<< HEAD
-        "SwapAchievementId": "SwapActive_95_Dog_s01_03  || 95_s01_05",
-=======
         "SwapAchievementId": "(SwapActive_95_Dog_s01_03  || 95_s01_05) \u0026\u0026 !SwapOff_9503_Dog_legacy",
->>>>>>> PTR
         "PlaceholderMesh": "",
         "AttachedMesh": "",
         "AttachmentPositionX": null,
@@ -13261,11 +13202,7 @@
     {
         "VariantID": "9202_Hunter",
         "NPCId": "9202_Hunter",
-<<<<<<< HEAD
-        "Name": "@9202_Hunter",
-=======
         "Name": "Ajax Halfhand",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9202_Hunter.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\NPC_PlayByeAnim.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\NPC_PlayGreetAnim.timeline",
@@ -13287,11 +13224,7 @@
     {
         "VariantID": "9203_FirePriest",
         "NPCId": "9203_FirePriest",
-<<<<<<< HEAD
-        "Name": "@9203_FirePriest",
-=======
         "Name": "Hariq Azar",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9203_FirePriest.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\settle_magistrate_exit_01.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\settle_magistrate_intro_01.timeline",
@@ -13313,11 +13246,7 @@
     {
         "VariantID": "9204_Executioner",
         "NPCId": "9204_Executioner",
-<<<<<<< HEAD
-        "Name": "@9204_Executioner",
-=======
         "Name": "Joseph Black",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\9204_Executioner.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\settle_commander_exit_01.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\settle_commander_intro_01.timeline",
@@ -13535,11 +13464,6 @@
         "MarkerOffset_Z": null
     },
     {
-<<<<<<< HEAD
-        "VariantID": "95A_Grace_s02_01",
-        "NPCId": "95A_Grace_s02_01",
-        "Name": "@95A_Grace",
-=======
         "VariantID": "99D_Yonas_A",
         "NPCId": "99D_Yonas_A",
         "Name": "Yonas Alazar",
@@ -14401,7 +14325,6 @@
         "VariantID": "95A_Grace_s02_01",
         "NPCId": "95A_Grace_s02_01",
         "Name": "Grace O'Malley",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\natural\\GraceOMalley\\GraceOMalley.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -14423,11 +14346,7 @@
     {
         "VariantID": "95A_Grace_s02_02",
         "NPCId": "95A_Grace_s02_02",
-<<<<<<< HEAD
-        "Name": "@95A_Grace",
-=======
         "Name": "Grace O'Malley",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\natural\\GraceOMalley\\GraceOMalley.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -14449,11 +14368,7 @@
     {
         "VariantID": "95A_Malek_s02_01",
         "NPCId": "95A_Malek_s02_01",
-<<<<<<< HEAD
-        "Name": "@95A_Malek",
-=======
         "Name": "Malek",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\malek\\malek.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\malek_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\malek_standing_greet.timeline",
@@ -14475,11 +14390,7 @@
     {
         "VariantID": "95A_Sadiki_s02_01",
         "NPCId": "95A_Sadiki_s02_01",
-<<<<<<< HEAD
-        "Name": "@95A_Sadiki",
-=======
         "Name": "Sadiki Masufa",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\95a_sadiki_s02.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -14501,11 +14412,7 @@
     {
         "VariantID": "95A_Sharif_s02_01",
         "NPCId": "95A_Sharif_s02_01",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14527,11 +14434,7 @@
     {
         "VariantID": "95A_Sharif_s02_02",
         "NPCId": "95A_Sharif_s02_02",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14553,11 +14456,7 @@
     {
         "VariantID": "95A_Sharif_s02_03",
         "NPCId": "95A_Sharif_s02_03",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14579,11 +14478,7 @@
     {
         "VariantID": "95A_Sharif_s02_04",
         "NPCId": "95A_Sharif_s02_04",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14605,11 +14500,7 @@
     {
         "VariantID": "95A_Sharif_s02_05",
         "NPCId": "95A_Sharif_s02_05",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14631,11 +14522,7 @@
     {
         "VariantID": "95A_Sharif_s02_06",
         "NPCId": "95A_Sharif_s02_06",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14657,11 +14544,7 @@
     {
         "VariantID": "95A_Sharif_s02_07",
         "NPCId": "95A_Sharif_s02_07",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14683,11 +14566,7 @@
     {
         "VariantID": "95A_Sharif_s02_08",
         "NPCId": "95A_Sharif_s02_08",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14709,11 +14588,7 @@
     {
         "VariantID": "95A_Sharif_s02_09",
         "NPCId": "95A_Sharif_s02_09",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14735,11 +14610,7 @@
     {
         "VariantID": "95A_Sharif_s02_10",
         "NPCId": "95A_Sharif_s02_10",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14761,11 +14632,7 @@
     {
         "VariantID": "95A_Sharif_s02_11",
         "NPCId": "95A_Sharif_s02_11",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14787,11 +14654,7 @@
     {
         "VariantID": "95A_Sharif_s02_12",
         "NPCId": "95A_Sharif_s02_12",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14813,11 +14676,7 @@
     {
         "VariantID": "95A_Sharif_s02_13",
         "NPCId": "95A_Sharif_s02_13",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\sharif_standing_greet.timeline",
@@ -14839,11 +14698,7 @@
     {
         "VariantID": "95A_Rima_s02_01",
         "NPCId": "95A_Rima_s02_01",
-<<<<<<< HEAD
-        "Name": "@95A_Rima",
-=======
         "Name": "Rima Bahar",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\rima\\rima.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -14865,11 +14720,7 @@
     {
         "VariantID": "95A_Rima_s02_02",
         "NPCId": "95A_Rima_s02_02",
-<<<<<<< HEAD
-        "Name": "@95A_Rima",
-=======
         "Name": "Rima Bahar",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\rima\\rima.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -14891,11 +14742,7 @@
     {
         "VariantID": "95A_Rima_s02_03",
         "NPCId": "95A_Rima_s02_03",
-<<<<<<< HEAD
-        "Name": "@95A_Rima",
-=======
         "Name": "Rima Bahar",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\rima\\rima.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -14917,11 +14764,7 @@
     {
         "VariantID": "95A_Rima_s02_04",
         "NPCId": "95A_Rima_s02_04",
-<<<<<<< HEAD
-        "Name": "@95A_Rima",
-=======
         "Name": "Rima Bahar",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\rima\\rima.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -14943,11 +14786,7 @@
     {
         "VariantID": "95A_Rima_s02_05",
         "NPCId": "95A_Rima_s02_05",
-<<<<<<< HEAD
-        "Name": "@95A_Rima",
-=======
         "Name": "Rima Bahar",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\rima\\rima.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -14969,11 +14808,7 @@
     {
         "VariantID": "95A_Rima_s02_06",
         "NPCId": "95A_Rima_s02_06",
-<<<<<<< HEAD
-        "Name": "@95A_Rima",
-=======
         "Name": "Rima Bahar",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\rima\\rima.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -14995,11 +14830,7 @@
     {
         "VariantID": "95A_Rima_s02_07",
         "NPCId": "95A_Rima_s02_07",
-<<<<<<< HEAD
-        "Name": "@95A_Rima",
-=======
         "Name": "Rima Bahar",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\rima\\rima.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15021,11 +14852,7 @@
     {
         "VariantID": "95A_Rima_s02_08",
         "NPCId": "95A_Rima_s02_08",
-<<<<<<< HEAD
-        "Name": "@95A_Rima",
-=======
         "Name": "Rima Bahar",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\rima\\rima.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15047,11 +14874,7 @@
     {
         "VariantID": "95A_Zander_s02_01",
         "NPCId": "95A_Zander_s02_01",
-<<<<<<< HEAD
-        "Name": "@95A_Zander",
-=======
         "Name": "Zander \"The Undying\"",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\theo\\theo.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\zander_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\zander_greet.timeline",
@@ -15073,11 +14896,7 @@
     {
         "VariantID": "95A_Zander_s02_02",
         "NPCId": "95A_Zander_s02_02",
-<<<<<<< HEAD
-        "Name": "@95A_Zander",
-=======
         "Name": "Zander \"The Undying\"",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\theo\\theo.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\zander_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\zander_greet.timeline",
@@ -15099,11 +14918,7 @@
     {
         "VariantID": "95A_Zander_s02_03",
         "NPCId": "95A_Zander_s02_03",
-<<<<<<< HEAD
-        "Name": "@95A_Zander",
-=======
         "Name": "Zander \"The Undying\"",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\theo\\theo.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\zander_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\zander_greet.timeline",
@@ -15125,11 +14940,7 @@
     {
         "VariantID": "95A_Zander_s02_04",
         "NPCId": "95A_Zander_s02_04",
-<<<<<<< HEAD
-        "Name": "@95A_Zander",
-=======
         "Name": "Zander \"The Undying\"",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\theo\\theo.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\zander_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\zander_greet.timeline",
@@ -15151,11 +14962,7 @@
     {
         "VariantID": "95A_Zander_s02_05",
         "NPCId": "95A_Zander_s02_05",
-<<<<<<< HEAD
-        "Name": "@95A_Zander",
-=======
         "Name": "Zander \"The Undying\"",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\theo\\theo.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\zander_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\zander_greet.timeline",
@@ -15177,11 +14984,7 @@
     {
         "VariantID": "95A_Zander_s02_06",
         "NPCId": "95A_Zander_s02_06",
-<<<<<<< HEAD
-        "Name": "@95A_Zander",
-=======
         "Name": "Zander \"The Undying\"",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\theo\\theo.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\zander_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\zander_greet.timeline",
@@ -15203,11 +15006,7 @@
     {
         "VariantID": "95A_Zander_s02_07",
         "NPCId": "95A_Zander_s02_07",
-<<<<<<< HEAD
-        "Name": "@95A_Zander",
-=======
         "Name": "Zander \"The Undying\"",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\theo\\theo.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\zander_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\zander_greet.timeline",
@@ -15229,11 +15028,7 @@
     {
         "VariantID": "95A_Dog_s02_01",
         "NPCId": "95A_Dog_s02_01",
-<<<<<<< HEAD
-        "Name": "@95A_Dog",
-=======
         "Name": "Dog",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\babylynxdog\\babylynxdog.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Outro.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Intro.timeline",
@@ -15255,11 +15050,7 @@
     {
         "VariantID": "95A_Dog_s02_02",
         "NPCId": "95A_Dog_s02_02",
-<<<<<<< HEAD
-        "Name": "@95A_Dog",
-=======
         "Name": "Dog",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\babylynxdog\\babylynxdog.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Outro.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Intro.timeline",
@@ -15281,11 +15072,7 @@
     {
         "VariantID": "95A_Dog_s02_03",
         "NPCId": "95A_Dog_s02_03",
-<<<<<<< HEAD
-        "Name": "@95A_Dog",
-=======
         "Name": "Dog",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\babylynxdog\\babylynxdog.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Outro.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Intro.timeline",
@@ -15307,11 +15094,7 @@
     {
         "VariantID": "95A_Dog_s02_04",
         "NPCId": "95A_Dog_s02_04",
-<<<<<<< HEAD
-        "Name": "@95A_Dog",
-=======
         "Name": "Dog",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\babylynxdog\\babylynxdog.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Outro.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Intro.timeline",
@@ -15333,11 +15116,7 @@
     {
         "VariantID": "95A_Dog_s02_05",
         "NPCId": "95A_Dog_s02_05",
-<<<<<<< HEAD
-        "Name": "@95A_Dog",
-=======
         "Name": "Dog",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\babylynxdog\\babylynxdog.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Outro.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Intro.timeline",
@@ -15359,11 +15138,7 @@
     {
         "VariantID": "95A_Dog_s02_06",
         "NPCId": "95A_Dog_s02_06",
-<<<<<<< HEAD
-        "Name": "@95A_Dog",
-=======
         "Name": "Dog",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\babylynxdog\\babylynxdog.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Outro.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Intro.timeline",
@@ -15385,11 +15160,7 @@
     {
         "VariantID": "95A_Dog_s02_07",
         "NPCId": "95A_Dog_s02_07",
-<<<<<<< HEAD
-        "Name": "@95A_Dog",
-=======
         "Name": "Dog",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\babylynxdog\\babylynxdog.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Outro.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Dog_sick_LyingToSit_Intro.timeline",
@@ -15411,11 +15182,7 @@
     {
         "VariantID": "95A_Phaedra_s02_01",
         "NPCId": "95A_Phaedra_s02_01",
-<<<<<<< HEAD
-        "Name": "@95A_Phaedra",
-=======
         "Name": "Phaedra Kanelos",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\95A_Phaedra_S02.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15437,11 +15204,7 @@
     {
         "VariantID": "95A_Phaedra_s02_02",
         "NPCId": "95A_Phaedra_s02_02",
-<<<<<<< HEAD
-        "Name": "@95A_Phaedra",
-=======
         "Name": "Phaedra Kanelos",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\95A_Phaedra_S02.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15463,11 +15226,7 @@
     {
         "VariantID": "95A_Phaedra_s02_03",
         "NPCId": "95A_Phaedra_s02_03",
-<<<<<<< HEAD
-        "Name": "@95A_Phaedra",
-=======
         "Name": "Phaedra Kanelos",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\95A_Phaedra_S02.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15487,11 +15246,6 @@
         "MarkerOffset_Z": null
     },
     {
-<<<<<<< HEAD
-        "VariantID": "06_GunterRost",
-        "NPCId": "06_GunterRost",
-        "Name": "@06_GunterRost",
-=======
         "VariantID": "9401_Horse",
         "NPCId": "9401_Horse",
         "Name": "Jochi Khan",
@@ -15737,7 +15491,6 @@
         "VariantID": "06_GunterRost",
         "NPCId": "06_GunterRost",
         "Name": "Gunter Rost",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\0910_Barkeep.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_stand_convo_disappointed_greet_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_stand_convo_shouldershrug_greet_bye.timeline",
@@ -15759,11 +15512,7 @@
     {
         "VariantID": "02_Outfitter",
         "NPCId": "02_Outfitter",
-<<<<<<< HEAD
-        "Name": "@02_Outfitter",
-=======
         "Name": "Rolanda Freemane",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\rolanda.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15785,11 +15534,7 @@
     {
         "VariantID": "04_Outfitter",
         "NPCId": "04_Outfitter",
-<<<<<<< HEAD
-        "Name": "@04_Outfitter",
-=======
         "Name": "Gianni Verdelli",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_gianni.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15811,11 +15556,7 @@
     {
         "VariantID": "05_Outfitter",
         "NPCId": "05_Outfitter",
-<<<<<<< HEAD
-        "Name": "@05_Outfitter",
-=======
         "Name": "Matsukura Choshiro",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_matsukura.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15837,11 +15578,7 @@
     {
         "VariantID": "06_Outfitter",
         "NPCId": "06_Outfitter",
-<<<<<<< HEAD
-        "Name": "@06_Outfitter",
-=======
         "Name": "Mohini Rao",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\mohini.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15863,11 +15600,7 @@
     {
         "VariantID": "07_Outfitter",
         "NPCId": "07_Outfitter",
-<<<<<<< HEAD
-        "Name": "@07_Outfitter",
-=======
         "Name": "Liang Zheng",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_zheng.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15889,11 +15622,7 @@
     {
         "VariantID": "08_Outfitter",
         "NPCId": "08_Outfitter",
-<<<<<<< HEAD
-        "Name": "@08_Outfitter",
-=======
         "Name": "Liang Iwa",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_madameliang.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15915,11 +15644,7 @@
     {
         "VariantID": "11_Outfitter",
         "NPCId": "11_Outfitter",
-<<<<<<< HEAD
-        "Name": "@11_Outfitter",
-=======
         "Name": "Susana Ortiz",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_susana.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15941,11 +15666,7 @@
     {
         "VariantID": "12_Outfitter",
         "NPCId": "12_Outfitter",
-<<<<<<< HEAD
-        "Name": "@12_Outfitter",
-=======
         "Name": "Lucas Draper",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_lucas.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15967,11 +15688,7 @@
     {
         "VariantID": "13_Outfitter",
         "NPCId": "13_Outfitter",
-<<<<<<< HEAD
-        "Name": "@13_Outfitter",
-=======
         "Name": "Ampho Bosch",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_ampho.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -15993,11 +15710,7 @@
     {
         "VariantID": "15_Outfitter",
         "NPCId": "15_Outfitter",
-<<<<<<< HEAD
-        "Name": "@15_Outfitter",
-=======
         "Name": "Trian O' Cairre",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_trian.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -16019,11 +15732,7 @@
     {
         "VariantID": "16_Outfitter",
         "NPCId": "16_Outfitter",
-<<<<<<< HEAD
-        "Name": "@16_Outfitter",
-=======
         "Name": "Akila Jameel",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_akila.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -16045,11 +15754,7 @@
     {
         "VariantID": "10_Outfitter",
         "NPCId": "10_Outfitter",
-<<<<<<< HEAD
-        "Name": "@10_Outfitter",
-=======
         "Name": "Isbell Xiphias",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_isbell.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -16071,11 +15776,7 @@
     {
         "VariantID": "03_Outfitter",
         "NPCId": "03_Outfitter",
-<<<<<<< HEAD
-        "Name": "@03_Outfitter",
-=======
         "Name": "Kadia Bello",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_kadia.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -16097,11 +15798,7 @@
     {
         "VariantID": "14_Outfitter",
         "NPCId": "14_Outfitter",
-<<<<<<< HEAD
-        "Name": "@14_Outfitter",
-=======
         "Name": "Emelot Barbier",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\outfitter_acalan.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_exit.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_generic_stand_greet.timeline",
@@ -16121,11 +15818,6 @@
         "MarkerOffset_Z": null
     },
     {
-<<<<<<< HEAD
-        "VariantID": "14_WolcottPainting",
-        "NPCId": "14_WolcottPainting",
-        "Name": "@14_WolcottPainting",
-=======
         "VariantID": "03_Kazu",
         "NPCId": "03_Kazu",
         "Name": "Ishida Kazu",
@@ -16877,7 +16569,6 @@
         "VariantID": "14_WolcottPainting",
         "NPCId": "14_WolcottPainting",
         "Name": "Wolcott's Easel",
->>>>>>> PTR
         "CharacterDefinition": "",
         "ByeTimeline": "",
         "GreetTimeline": "",
@@ -16897,11 +16588,6 @@
         "MarkerOffset_Z": null
     },
     {
-<<<<<<< HEAD
-        "VariantID": "06_FLCrier1",
-        "NPCId": "06_FLCrier1",
-        "Name": "@06_FLCrier1",
-=======
         "VariantID": "99E_Sun_p3",
         "NPCId": "99E_Sun_p3",
         "Name": "Sun Fuchun",
@@ -17477,7 +17163,6 @@
         "VariantID": "06_FLCrier1",
         "NPCId": "06_FLCrier1",
         "Name": "Beatrice Marchand",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\1205_artificer.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\settle_magistrate_exit_01.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\settle_magistrate_intro_01.timeline",
@@ -17499,11 +17184,7 @@
     {
         "VariantID": "06_FLCrier2",
         "NPCId": "06_FLCrier2",
-<<<<<<< HEAD
-        "Name": "@06_FLCrier2",
-=======
         "Name": "Yuta Aoki",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\1303_survivalist.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_stand_convo_disappointed_greet_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_stand_convo_shouldershrug_greet_bye.timeline",
@@ -17525,11 +17206,7 @@
     {
         "VariantID": "10_FLCrier1",
         "NPCId": "10_FLCrier1",
-<<<<<<< HEAD
-        "Name": "@10_FLCrier1",
-=======
         "Name": "Agnetha Dahlberg",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\0603_survivalist.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\settle_ranger_exit_01.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\settle_ranger_intro_01.timeline",
@@ -17551,11 +17228,7 @@
     {
         "VariantID": "10_FLCrier2",
         "NPCId": "10_FLCrier2",
-<<<<<<< HEAD
-        "Name": "@10_FLCrier2",
-=======
         "Name": "Julian Wade",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\1202_magistrate.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\settle_magistrate_exit_01.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\settle_magistrate_intro_01.timeline",
@@ -17577,11 +17250,7 @@
     {
         "VariantID": "12_FLCrier1",
         "NPCId": "12_FLCrier1",
-<<<<<<< HEAD
-        "Name": "@12_FLCrier1",
-=======
         "Name": "Idris Makonnen",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\1302_magistrate.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\settle_magistrate_exit_01.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\settle_magistrate_intro_01.timeline",
@@ -17603,11 +17272,7 @@
     {
         "VariantID": "12_FLCrier2",
         "NPCId": "12_FLCrier2",
-<<<<<<< HEAD
-        "Name": "@12_FLCrier2",
-=======
         "Name": "Tatsuya Ito",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\12_FLCrier2.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_stand_convo_disappointed_greet_bye.timeline",
         "GreetTimeline": "Libs\\Timeline\\Npc\\Interactions\\Stand\\Generic\\settle_stand_convo_shouldershrug_greet_bye.timeline",
@@ -17625,8 +17290,6 @@
         "InteractOverride_X": null,
         "InteractOverride_Y": null,
         "MarkerOffset_Z": null
-<<<<<<< HEAD
-=======
     },
     {
         "VariantID": "14_Abiathar",
@@ -17803,6 +17466,5 @@
         "InteractOverride_X": null,
         "InteractOverride_Y": null,
         "MarkerOffset_Z": null
->>>>>>> PTR
     }
 ]

@@ -1,11 +1,7 @@
 [
     {
         "GatherableID": "95A_S02_Mural1",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_Mural1_DisplayName",
-=======
         "DisplayName": "Collect Mural Rubbing",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
@@ -14,21 +10,12 @@
         "MinRespawnRate": 30,
         "MaxRespawnRate": 40,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 2,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 2,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_Mural1_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -36,17 +23,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -62,11 +42,7 @@
     },
     {
         "GatherableID": "95A_S02_MarketStone",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_MarketStone_DisplayName",
-=======
         "DisplayName": "Take Market Tablet",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -75,21 +51,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_MarketStone_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -97,17 +64,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -123,11 +83,7 @@
     },
     {
         "GatherableID": "95A_S02_SharifCage",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_SharifCage_DisplayName",
-=======
         "DisplayName": "Open Cage",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -136,21 +92,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 2,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 2,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_SharifCage_interact",
         "ItemRestrictionId": "95a_s02_CageKey_item",
         "ItemRestrictionQuantity": 1,
@@ -158,17 +105,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -184,11 +124,7 @@
     },
     {
         "GatherableID": "95A_S02_WordOfWater",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_WordOfWater_DisplayName",
-=======
         "DisplayName": "Take Word of Water",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -197,21 +133,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_WordOfWater_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -219,17 +146,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -245,11 +165,7 @@
     },
     {
         "GatherableID": "95A_S02_GeyserDoorPedestal",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_GeyserDoorPedestal_DisplayName",
-=======
         "DisplayName": "Place the Word of Water",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -258,21 +174,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 3,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 3,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_GeyserDoorPedestal_interact",
         "ItemRestrictionId": "95a_s02_WordofWater_item",
         "ItemRestrictionQuantity": 1,
@@ -280,17 +187,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -306,11 +206,7 @@
     },
     {
         "GatherableID": "95A_S02_RoyalEgg1",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_RoyalEgg1_DisplayName",
-=======
         "DisplayName": "Take Mysterious Egg",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -319,21 +215,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 2,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 2,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_RoyalEgg1_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -341,17 +228,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -367,11 +247,7 @@
     },
     {
         "GatherableID": "95A_S02_SatyrFlute",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_SatyrFlute_DisplayName",
-=======
         "DisplayName": "Take Satyr Flute",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -380,21 +256,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_SatyrFlute_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -402,17 +269,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -428,11 +288,7 @@
     },
     {
         "GatherableID": "95A_S02_LionMeatSpice",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_LionMeatSpice_DisplayName",
-=======
         "DisplayName": "Harvest Spice",
->>>>>>> PTR
         "GatheringAction": "Cutting",
         "GatheringType": "Cutting",
         "GatheringFragment": "",
@@ -441,21 +297,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "Harvesting",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "0",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 3,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": 0,
         "DepletedGatherableID": "",
         "BaseGatherTime": 3,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_LionMeatSpice_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -463,17 +310,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -489,11 +329,7 @@
     },
     {
         "GatherableID": "95A_S02_LionDish",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_LionDish_DisplayName",
-=======
         "DisplayName": "Place Zander's Lion Treat",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -502,21 +338,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_LionDish_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -524,17 +351,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -550,11 +370,7 @@
     },
     {
         "GatherableID": "95A_S02_LionSong",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_LionSong_DisplayName",
-=======
         "DisplayName": "Collect Lion Roar",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_S2_FluteGatherSounds",
@@ -563,21 +379,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 9.5,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 9.5,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_LionSong_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -585,17 +392,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -611,11 +411,7 @@
     },
     {
         "GatherableID": "95A_S02_PeacockFeathers",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_PeacockFeathers_DisplayName",
-=======
         "DisplayName": "Take Peacock Feather",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -624,21 +420,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_PeacockFeathers_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -646,17 +433,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -672,11 +452,7 @@
     },
     {
         "GatherableID": "95A_S02_PeacockStatue",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_PeacockStatue_DisplayName",
-=======
         "DisplayName": "Place Peacock Feathers",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -685,21 +461,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 2,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 2,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_PeacockStatue_interact",
         "ItemRestrictionId": "95a_s02_PeacockFeather_item",
         "ItemRestrictionQuantity": 3,
@@ -707,17 +474,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -733,11 +493,7 @@
     },
     {
         "GatherableID": "95A_S02_PeacockSong",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_PeacockSong_DisplayName",
-=======
         "DisplayName": "Collect Peacock Cry",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_S2_FluteGatherSounds",
@@ -746,21 +502,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 9.5,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 9.5,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_PeacockSong_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -768,17 +515,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -794,11 +534,7 @@
     },
     {
         "GatherableID": "95A_S02_JackalSong",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_JackalSong_DisplayName",
-=======
         "DisplayName": "Collect the Jackal's Laugh",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_S2_FluteGatherSounds",
@@ -807,21 +543,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 9.5,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 9.5,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_JackalSong_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -829,17 +556,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -855,11 +575,7 @@
     },
     {
         "GatherableID": "95A_S02_OpenCaveSong",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_OpenCaveSong_DisplayName",
-=======
         "DisplayName": "Play Song",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Interact_S2_FluteOpenDoor",
@@ -868,21 +584,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 16.5,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 16.5,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_OpenCaveSong_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -890,17 +597,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -916,11 +616,7 @@
     },
     {
         "GatherableID": "95A_S02_LuteChest",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_LuteChest_DisplayName",
-=======
         "DisplayName": "Open Chest",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -929,21 +625,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 3,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 3,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_LuteChest_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -951,17 +638,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -977,11 +657,7 @@
     },
     {
         "GatherableID": "95A_S02_EggAltarAmbush",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_EggAltarAmbush_DisplayName",
-=======
         "DisplayName": "Place a Decoy Egg",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -990,21 +666,12 @@
         "MinRespawnRate": 86400,
         "MaxRespawnRate": 86400,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -1012,17 +679,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": false,
         "IsLootContainer": false,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -1038,11 +698,7 @@
     },
     {
         "GatherableID": "95A_S02_MapRoomInteract",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_MapRoomInteract_DisplayName",
-=======
         "DisplayName": "Place the Word of Stone",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1051,21 +707,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_MapRoomInteract_interact",
         "ItemRestrictionId": "95a_s02_WordofStone_item",
         "ItemRestrictionQuantity": 1,
@@ -1073,17 +720,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -1099,11 +739,7 @@
     },
     {
         "GatherableID": "95A_S02_RoyalEgg2",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_RoyalEgg2_DisplayName",
-=======
         "DisplayName": "Take Mysterious Egg",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1112,21 +748,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 2,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 2,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_RoyalEgg2_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -1134,17 +761,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -1160,11 +780,7 @@
     },
     {
         "GatherableID": "95A_S02_DroneEggshells",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_DroneEggshells_DisplayName",
-=======
         "DisplayName": "Inspect Drone Egg Remains",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1173,21 +789,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_DroneEggshells_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -1195,17 +802,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -1221,11 +821,7 @@
     },
     {
         "GatherableID": "95A_S02_DroneEggDestructible",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_DroneEggDestructible_DisplayName",
-=======
         "DisplayName": "Destroy Drone Egg",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1234,21 +830,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_DroneEggDestructible_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -1256,17 +843,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -1282,11 +862,7 @@
     },
     {
         "GatherableID": "95A_S02_RoyalEggDestructible",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_RoyalEggDestructible_DisplayName",
-=======
         "DisplayName": "Destroy Royal Egg",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1295,21 +871,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "95A_S02_RoyalEggDestructible_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -1317,17 +884,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -1343,11 +903,7 @@
     },
     {
         "GatherableID": "95A_S02_SharifEggBasket",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_SharifEggBasket_DisplayName",
-=======
         "DisplayName": "Place Eggs",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1356,21 +912,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 2,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 2,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_SharifEggBasket_interact",
         "ItemRestrictionId": "95a_s02_MysteriousEgg_item",
         "ItemRestrictionQuantity": 1,
@@ -1378,17 +925,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -1404,11 +944,7 @@
     },
     {
         "GatherableID": "95A_S02_FollowSharif1",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_ExamineTracks",
-=======
         "DisplayName": "Examine Tracks",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1417,21 +953,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_FollowSharif1_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -1439,17 +966,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -1465,11 +985,7 @@
     },
     {
         "GatherableID": "95A_S02_FollowSharif2",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_FollowTracks",
-=======
         "DisplayName": "Follow Tracks",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1478,21 +994,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_FollowSharif2_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -1500,17 +1007,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -1526,11 +1026,7 @@
     },
     {
         "GatherableID": "95A_S02_FollowSharif3",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_FollowTracks",
-=======
         "DisplayName": "Follow Tracks",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1539,21 +1035,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_FollowSharif3_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -1561,17 +1048,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -1587,11 +1067,7 @@
     },
     {
         "GatherableID": "95A_S02_FollowSharif4",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_FollowTracks",
-=======
         "DisplayName": "Follow Tracks",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1600,21 +1076,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_FollowSharif4_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -1622,17 +1089,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -1648,11 +1108,7 @@
     },
     {
         "GatherableID": "95A_S02_FollowSharif5",
-<<<<<<< HEAD
-        "DisplayName": "@95A_S02_ExamineTracks",
-=======
         "DisplayName": "Examine Tracks",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -1661,21 +1117,12 @@
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "1",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": true,
->>>>>>> PTR
         "GameEventID": "95A_S02_FollowSharif5_interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -1683,12 +1130,6 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -5117,8 +4558,8 @@
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 120,
-        "MaxRespawnRate": 120,
+        "MinRespawnRate": 86400,
+        "MaxRespawnRate": 86400,
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -5132,7 +4573,7 @@
         "RequiredSongId": "",
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
-        "IsLootContainer": false,
+        "IsLootContainer": true,
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -5255,7 +4696,7 @@
         "RequiredSongId": "",
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
-        "IsLootContainer": false,
+        "IsLootContainer": true,
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -5691,8 +5132,8 @@
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 86400,
-        "MaxRespawnRate": 86400,
+        "MinRespawnRate": 60,
+        "MaxRespawnRate": 60,
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -11287,7 +10728,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -11312,21 +10752,12 @@
         "MinRespawnRate": 7,
         "MaxRespawnRate": 7,
         "Tradeskill": "None",
-<<<<<<< HEAD
-        "RequiredTradeskillLevel": "",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": 1,
-        "WaitForImpact": "0",
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": "0",
-=======
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
         "BaseGatherTime": 1,
         "WaitForImpact": false,
         "Restriction": "NoToolNecessary",
         "AlignGatherer": false,
->>>>>>> PTR
         "GameEventID": "IO_94_EF_Checkpoint0_Interact",
         "ItemRestrictionId": "",
         "ItemRestrictionQuantity": null,
@@ -11334,17 +10765,10 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": false,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": false,
         "AddedStatusEffect": "",
@@ -11359,8 +10783,6 @@
         "RequiredWhisperId": ""
     },
     {
-<<<<<<< HEAD
-=======
         "GatherableID": "94_EF_Checkpoint1",
         "DisplayName": "",
         "GatheringAction": "None",
@@ -11976,7 +11398,6 @@
         "RequiredWhisperId": ""
     },
     {
->>>>>>> PTR
         "GatherableID": "99E_MSQ_01_IGC_EdengroveStory",
         "DisplayName": "",
         "GatheringAction": "None",
@@ -11986,17 +11407,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_IGC_EdengroveStory_interact",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12006,24 +11416,15 @@
         "AlignGatherer": false,
         "GameEventID": "99E_MSQ_01_IGC_EdengroveStory_interact",
         "ItemRestrictionId": "",
->>>>>>> PTR
         "ItemRestrictionQuantity": null,
         "RequiredSongId": "",
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": null,
-<<<<<<< HEAD
-        "IsLootContainer": null,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsLootContainer": true,
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12039,41 +11440,14 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Obs_AncientMuralA",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_01_ExamineMural_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-=======
         "DisplayName": "Examine Mural",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
->>>>>>> PTR
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Obs_AncientMuralA_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12092,7 +11466,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12108,41 +11481,14 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Obs_AncientMuralB",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_01_ExamineMural_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-=======
         "DisplayName": "Examine Mural",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
->>>>>>> PTR
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Obs_AncientMuralB_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12161,7 +11507,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12177,41 +11522,14 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Obs_AncientMuralC",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_01_ExamineMural_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-=======
         "DisplayName": "Examine Mural",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
->>>>>>> PTR
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Obs_AncientMuralC_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12230,7 +11548,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12246,11 +11563,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Cyclic_AncientTumblerA",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_01_RotateTumbler_DisplayName",
-=======
         "DisplayName": "Rotate Tumbler",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12258,26 +11571,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Cyclic_AncientTumblerA_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12296,7 +11589,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12312,11 +11604,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Cyclic_AncientTumblerB",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_01_RotateTumbler_DisplayName",
-=======
         "DisplayName": "Rotate Tumbler",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12324,26 +11612,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Cyclic_AncientTumblerB_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12362,7 +11630,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12378,11 +11645,7 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Cyclic_AncientTumblerC",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_01_RotateTumbler_DisplayName",
-=======
         "DisplayName": "Rotate Tumbler",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -12390,26 +11653,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Cyclic_AncientTumblerC_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12510,7 +11753,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12534,26 +11776,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Prox_MuralBreadcrumbsA_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12572,7 +11794,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12596,26 +11817,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Prox_MuralBreadcrumbsB_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12634,7 +11835,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12658,26 +11858,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Prox_MuralBreadcrumbsC_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12696,7 +11876,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12720,26 +11899,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Prox_MuralBreadcrumbsD_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12758,7 +11917,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12782,26 +11940,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Prox_MuralBreadcrumbsE_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12820,7 +11958,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12844,26 +11981,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Prox_MuralBreadcrumbsF_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12882,7 +11999,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12898,41 +12014,14 @@
     },
     {
         "GatherableID": "99E_MSQ_01_Cine_AncientMural",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_01_ExamineMural_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-=======
         "DisplayName": "Examine Mural",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
->>>>>>> PTR
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_01_Cine_AncientMural_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -12951,7 +12040,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -12966,42 +12054,15 @@
         "RequiredWhisperId": ""
     },
     {
-<<<<<<< HEAD
-        "GatherableID": "99E_MSQ_02_MyrddinRelicA",
-        "DisplayName": "@99E_MSQ_02_CollectRelic_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-=======
         "GatherableID": "99E_MSQ_02_MyrddinCrystalsA",
         "DisplayName": "Gather Creag Crystals",
         "GatheringAction": "Mining",
         "GatheringType": "Mining",
->>>>>>> PTR
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_02_MyrddinRelicA_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "Mining",
         "RequiredTradeskillLevel": 0,
         "DepletedGatherableID": "",
@@ -13020,7 +12081,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13035,83 +12095,15 @@
         "RequiredWhisperId": ""
     },
     {
-<<<<<<< HEAD
-        "GatherableID": "99E_MSQ_02_MyrddinRelicB",
-        "DisplayName": "@99E_MSQ_02_CollectRelic_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-=======
         "GatherableID": "99E_MSQ_02_MyrddinCrystalsB",
         "DisplayName": "Gather Creag Crystals",
         "GatheringAction": "Mining",
         "GatheringType": "Mining",
->>>>>>> PTR
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_02_MyrddinRelicB_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-        "ObstructBuildables": "",
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": "",
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": "",
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "99E_MSQ_02_MyrddinRelicC",
-        "DisplayName": "@99E_MSQ_02_CollectRelic_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 80,
-        "MaxRespawnRate": 100,
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_02_MyrddinRelicC_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "Mining",
         "RequiredTradeskillLevel": 0,
         "DepletedGatherableID": "",
@@ -13130,7 +12122,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13146,41 +12137,14 @@
     },
     {
         "GatherableID": "99E_MSQ_02_Obs_CrystalCaveA",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_02_ExamineEtchings_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-=======
         "DisplayName": "Examine Glyphs",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
->>>>>>> PTR
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_02_Obs_CrystalCaveA_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -13199,7 +12163,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13215,41 +12178,14 @@
     },
     {
         "GatherableID": "99E_MSQ_02_Obs_CrystalCaveB",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_02_ExamineMaterials_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-=======
         "DisplayName": "Examine the Discarded Book",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
->>>>>>> PTR
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_02_Obs_CrystalCaveB_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -13268,7 +12204,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13284,39 +12219,14 @@
     },
     {
         "GatherableID": "99E_MSQ_02_Obs_CrystalCaveC",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_02_ExamineEquipment_DisplayName",
-        "GatheringAction": "None",
-=======
         "DisplayName": "Inspect the Pendant",
         "GatheringAction": "Handcrafting",
->>>>>>> PTR
         "GatheringType": "None",
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_02_Obs_CrystalCaveC_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -13458,7 +12368,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13474,40 +12383,14 @@
     },
     {
         "GatherableID": "99E_MSQ_04_AzothCompassA",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_04_AzothCompass_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-=======
         "DisplayName": "Place Azoth Staff",
         "GatheringAction": "AzothStaffCreate",
         "GatheringType": "AzothStaff",
->>>>>>> PTR
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_04_AzothCompassA_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "AzothStaff",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -13526,7 +12409,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13542,40 +12424,14 @@
     },
     {
         "GatherableID": "99E_MSQ_04_AzothCompassB",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_04_AzothCompass_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-=======
         "DisplayName": "Place Azoth Staff",
         "GatheringAction": "AzothStaffCreate",
         "GatheringType": "AzothStaff",
->>>>>>> PTR
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_04_AzothCompassB_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "AzothStaff",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -13594,7 +12450,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13610,40 +12465,14 @@
     },
     {
         "GatherableID": "99E_MSQ_04_AzothCompassC",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_04_AzothCompass_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-=======
         "DisplayName": "Place Azoth Staff",
         "GatheringAction": "AzothStaffCreate",
         "GatheringType": "AzothStaff",
->>>>>>> PTR
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_04_AzothCompassC_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "AzothStaff",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -13662,7 +12491,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13686,17 +12514,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_05_IGC_PrisonReveal_interact",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -13706,24 +12523,15 @@
         "AlignGatherer": false,
         "GameEventID": "99E_MSQ_05_IGC_PrisonReveal_interact",
         "ItemRestrictionId": "",
->>>>>>> PTR
         "ItemRestrictionQuantity": null,
         "RequiredSongId": "",
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": null,
-<<<<<<< HEAD
-        "IsLootContainer": null,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsLootContainer": true,
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13739,39 +12547,14 @@
     },
     {
         "GatherableID": "99E_MSQ_05_MyrddinDeviceA",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_05_MyrddinDeviceA_DisplayName",
-        "GatheringAction": "None",
-=======
         "DisplayName": "Insert Morgaine's Crystal",
         "GatheringAction": "Handcrafting",
->>>>>>> PTR
         "GatheringType": "None",
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_05_MyrddinDeviceA_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -13790,7 +12573,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13806,39 +12588,14 @@
     },
     {
         "GatherableID": "99E_MSQ_05_MyrddinDeviceB",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_05_MyrddinDeviceB_DisplayName",
-        "GatheringAction": "None",
-=======
         "DisplayName": "Insert Galahad's Crystal",
         "GatheringAction": "Handcrafting",
->>>>>>> PTR
         "GatheringType": "None",
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_05_MyrddinDeviceB_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -13857,7 +12614,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13873,39 +12629,14 @@
     },
     {
         "GatherableID": "99E_MSQ_05_MyrddinDeviceB_Left",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_05_MyrddinDeviceB_Sides_DisplayName",
-        "GatheringAction": "None",
-=======
         "DisplayName": "Use Galahad's Crystal",
         "GatheringAction": "Handcrafting",
->>>>>>> PTR
         "GatheringType": "None",
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_05_MyrddinDeviceB_Left_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -13924,7 +12655,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -13940,9 +12670,6 @@
     },
     {
         "GatherableID": "99E_MSQ_05_MyrddinDeviceB_Right",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_05_MyrddinDeviceB_Sides_DisplayName",
-=======
         "DisplayName": "Use Galahad's Crystal",
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
@@ -13985,7 +12712,6 @@
     {
         "GatherableID": "99E_MSQ_05_ArtoriusShield",
         "DisplayName": "Take Discarded Shield",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -13993,26 +12719,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_05_MyrddinDeviceB_Right_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14113,7 +12819,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14129,11 +12834,7 @@
     },
     {
         "GatherableID": "99E_MSQ_05_Tele_TowerPortal",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_05_EnterPortal_DisplayName",
-=======
         "DisplayName": "Enter Portal",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -14141,26 +12842,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_05_Tele_TowerPortal_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14179,7 +12860,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14195,11 +12875,7 @@
     },
     {
         "GatherableID": "99E_MSQ_06_Tele_PrisonPortal",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_05_EnterPortal_DisplayName",
-=======
         "DisplayName": "Enter Portal",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -14207,26 +12883,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_06_Tele_PrisonPortal_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14245,7 +12901,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14269,17 +12924,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_06_IGC_MyrdArgument_interact",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14289,24 +12933,15 @@
         "AlignGatherer": false,
         "GameEventID": "99E_MSQ_06_IGC_MyrdArgument_interact",
         "ItemRestrictionId": "",
->>>>>>> PTR
         "ItemRestrictionQuantity": null,
         "RequiredSongId": "",
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": null,
-<<<<<<< HEAD
-        "IsLootContainer": null,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "IsLootContainer": true,
         "IsDynamicPoiTarget": "",
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14322,41 +12957,14 @@
     },
     {
         "GatherableID": "99E_MSQ_07_Obs_MineDetailsA",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_07_ExamineWalls_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-=======
         "DisplayName": "Examine Mine Wall",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
->>>>>>> PTR
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_07_Obs_MineDetailsA_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14375,7 +12983,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14391,41 +12998,14 @@
     },
     {
         "GatherableID": "99E_MSQ_07_Obs_MineDetailsB",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_07_ExamineTools_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-=======
         "DisplayName": "Examine Discarded Tools",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
->>>>>>> PTR
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_07_Obs_MineDetailsB_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14444,7 +13024,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14460,11 +13039,7 @@
     },
     {
         "GatherableID": "99E_MSQ_07_StaffHeadpiece",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_07_RetrieveStaff_DisplayName",
-=======
         "DisplayName": "Retrieve Myrddin's Staff",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -14472,67 +13047,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_07_StaffHeadpiece_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-        "ObstructBuildables": "",
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": "",
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": "",
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "99E_MSQ_07_Prox_StaffEncounter",
-        "DisplayName": "",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 10,
-        "MaxRespawnRate": 15,
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_07_Prox_StaffEncounter_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14551,7 +13065,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14567,41 +13080,14 @@
     },
     {
         "GatherableID": "99E_MSQ_08_Obs_AELocationA",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_08_ExamineArea_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-=======
         "DisplayName": "Search Area",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
->>>>>>> PTR
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_08_Obs_AELocationA_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14620,7 +13106,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14636,41 +13121,14 @@
     },
     {
         "GatherableID": "99E_MSQ_08_Obs_AELocationB",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_08_ExamineArea_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-=======
         "DisplayName": "Search Area",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
->>>>>>> PTR
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_08_Obs_AELocationB_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14689,7 +13147,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14705,11 +13162,7 @@
     },
     {
         "GatherableID": "99E_MSQ_09_ORI_CorruptStaff",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_09_PlaceCorrStaff_DisplayName",
-=======
         "DisplayName": "Place Corrupted Headpiece",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -14717,26 +13170,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_09_ORI_CorruptStaff_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14755,7 +13188,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14771,11 +13203,7 @@
     },
     {
         "GatherableID": "99E_MSQ_09_ORI_PureStaff",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_09_TakePureStaff_DisplayName",
-=======
         "DisplayName": "Take Purified Staff",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "",
@@ -14783,26 +13211,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 80,
         "MaxRespawnRate": 100,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_09_ORI_PureStaff_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14821,7 +13229,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14836,11 +13243,7 @@
         "RequiredWhisperId": ""
     },
     {
-<<<<<<< HEAD
-        "GatherableID": "99E_MSQ_09_Prox_IsabellaImage",
-=======
         "GatherableID": "99E_MSQ_04_Prox_BlightEnc",
->>>>>>> PTR
         "DisplayName": "",
         "GatheringAction": "None",
         "GatheringType": "None",
@@ -14849,26 +13252,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 10,
         "MaxRespawnRate": 15,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "4",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_09_Prox_IsabellaImage_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14928,7 +13311,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -14944,41 +13326,14 @@
     },
     {
         "GatherableID": "99E_MSQ_10_Cine_BrokenPole",
-<<<<<<< HEAD
-        "DisplayName": "@99E_MSQ_09_BrokenPole_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "",
-=======
         "DisplayName": "Touch Broken Pole",
         "GatheringAction": "None",
         "GatheringType": "None",
         "GatheringFragment": "Emote_Pondering",
->>>>>>> PTR
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 200,
         "MaxRespawnRate": 300,
-<<<<<<< HEAD
-        "Tradeskill": "",
-        "RequiredTradeskillLevel": "None",
-        "DepletedGatherableID": "",
-        "BaseGatherTime": null,
-        "WaitForImpact": "3",
-        "Restriction": "0",
-        "AlignGatherer": "NoToolNecessary",
-        "GameEventID": "0",
-        "ItemRestrictionId": "99E_MSQ_10_Cine_BrokenPole_interact",
-        "ItemRestrictionQuantity": null,
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": null,
-        "IgnoreAllObstructions": "",
-=======
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "DepletedGatherableID": "",
@@ -14997,7 +13352,6 @@
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": null,
->>>>>>> PTR
         "ObstructBuildables": "",
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
@@ -15010,8 +13364,6 @@
         "TooltipImage": "",
         "LandmarkIconPath": "",
         "RequiredWhisperId": ""
-<<<<<<< HEAD
-=======
     },
     {
         "GatherableID": "99E_Lore_Prox_Edengrove_05_03",
@@ -15914,6 +14266,5 @@
         "TooltipImage": "",
         "LandmarkIconPath": "",
         "RequiredWhisperId": ""
->>>>>>> PTR
     }
 ]

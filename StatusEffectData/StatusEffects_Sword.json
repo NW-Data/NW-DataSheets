@@ -3721,13 +3721,8 @@
     },
     {
         "StatusID": "Status_Passive_Sword_Swordmaster_RendOnFinal",
-<<<<<<< HEAD
-        "DisplayName": "@Status_Rend",
-        "Description": "@Status_Rend_Description",
-=======
         "DisplayName": "Rend",
         "Description": "You have an active reduction to armor.",
->>>>>>> PTR
         "EffectCategories": "Debuff+ArmorRend+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_RendT2.png",
         "ShowInUITray": true,
@@ -3883,10 +3878,7 @@
         "ABSNature": null,
         "ABSLightning": null,
         "ABSCorruption": null,
-<<<<<<< HEAD
-=======
         "ABSAcid": null,
->>>>>>> PTR
         "ABSVitalsCategory": null,
         "RESPoison": "",
         "RESDisease": "",
@@ -3932,10 +3924,7 @@
         "DMGNature": null,
         "DMGLightning": null,
         "DMGCorruption": null,
-<<<<<<< HEAD
-=======
         "DMGAcid": null,
->>>>>>> PTR
         "DMGVitalsCategory": null,
         "AFAPoison": "",
         "AFADisease": "",

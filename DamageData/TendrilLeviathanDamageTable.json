@@ -1,16 +1,5 @@
 [
     {
-<<<<<<< HEAD
-        "DamageID": "Attack_Barb_Strike",
-        "WeaponCategory": "Blunt_AI",
-        "IgnoreInvulnerable": 0,
-        "NoReaction": 0,
-        "IsRanged": null,
-        "SurfaceImpactEffect": "Bullet",
-        "DeflectDamageID": "Unarmed",
-        "AttackType": "Light",
-        "DamageType": "Thrust",
-=======
         "DamageID": "Attack_IchorSplash",
         "WeaponCategory": "Blunt_AI",
         "IgnoreInvulnerable": 0,
@@ -20,22 +9,14 @@
         "DeflectDamageID": "Unarmed",
         "AttackType": "Magic",
         "DamageType": "Corruption",
->>>>>>> PTR
         "Affliction": "",
         "AddAffliction": "",
         "AfflictionPercent": "",
         "Affixes": "",
-<<<<<<< HEAD
-        "StatusEffect": "",
-        "EffectOnlyOnDamage": "",
-        "CanCrit": false,
-        "DmgCoef": 0.3,
-=======
         "StatusEffect": "AI_CorruptedLeviathan_IchorCoating",
         "EffectOnlyOnDamage": false,
         "CanCrit": false,
         "DmgCoef": 0.6,
->>>>>>> PTR
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
         "PowerLevel": 0,
@@ -86,19 +67,11 @@
         "Affliction": "",
         "AddAffliction": "",
         "AfflictionPercent": "",
-<<<<<<< HEAD
-        "Affixes": "",
-        "StatusEffect": "",
-        "EffectOnlyOnDamage": "",
-        "CanCrit": false,
-        "DmgCoef": 0.8,
-=======
         "Affixes": "AI_CorruptionDMG_25",
         "StatusEffect": "",
         "EffectOnlyOnDamage": null,
         "CanCrit": false,
         "DmgCoef": 1,
->>>>>>> PTR
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
         "PowerLevel": 5,
@@ -151,15 +124,9 @@
         "AfflictionPercent": "",
         "Affixes": "",
         "StatusEffect": "",
-<<<<<<< HEAD
-        "EffectOnlyOnDamage": "",
-        "CanCrit": false,
-        "DmgCoef": 0.7,
-=======
         "EffectOnlyOnDamage": null,
         "CanCrit": false,
         "DmgCoef": 0.6,
->>>>>>> PTR
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
         "PowerLevel": 2,
@@ -212,15 +179,9 @@
         "AfflictionPercent": "",
         "Affixes": "",
         "StatusEffect": "",
-<<<<<<< HEAD
-        "EffectOnlyOnDamage": "",
-        "CanCrit": false,
-        "DmgCoef": 0.5,
-=======
         "EffectOnlyOnDamage": null,
         "CanCrit": false,
         "DmgCoef": 0.6,
->>>>>>> PTR
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
         "PowerLevel": 3,
@@ -272,17 +233,10 @@
         "AddAffliction": "",
         "AfflictionPercent": "",
         "Affixes": "",
-<<<<<<< HEAD
-        "StatusEffect": "",
-        "EffectOnlyOnDamage": "",
-        "CanCrit": false,
-        "DmgCoef": 0.4,
-=======
         "StatusEffect": "AI_CorruptedLeviathan_IchorBurn",
         "EffectOnlyOnDamage": false,
         "CanCrit": false,
         "DmgCoef": 0.6,
->>>>>>> PTR
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
         "PowerLevel": 0,
@@ -335,11 +289,7 @@
         "AfflictionPercent": "",
         "Affixes": "",
         "StatusEffect": "",
-<<<<<<< HEAD
-        "EffectOnlyOnDamage": "",
-=======
         "EffectOnlyOnDamage": null,
->>>>>>> PTR
         "CanCrit": false,
         "DmgCoef": 0.6,
         "DmgCoefHead": 1,

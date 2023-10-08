@@ -1,17 +1,10 @@
 [
     {
         "ItemID": "Jun2023_Container",
-<<<<<<< HEAD
-        "Name": "@Jun2023_Container_MasterName",
-        "ItemType": "Resource",
-        "ItemTypeDisplayName": "@ui_itemtypedescription_resource",
-        "Description": "@Jun2023_Container_Description",
-=======
         "Name": "Frontier Supply Crate",
         "ItemType": "Resource",
         "ItemTypeDisplayName": "Resource",
         "Description": "Everything you need for venturing into the vast unknown.",
->>>>>>> PTR
         "ItemClass": "Resource+LootContainer",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -98,17 +91,10 @@
     },
     {
         "ItemID": "PrimeDay2023_Container",
-<<<<<<< HEAD
-        "Name": "@PrimeDay2023_Container_MasterName",
-        "ItemType": "Resource",
-        "ItemTypeDisplayName": "@ui_itemtypedescription_resource",
-        "Description": "@PrimeDay2023_Container_Description",
-=======
         "Name": "Prime Bounty",
         "ItemType": "Resource",
         "ItemTypeDisplayName": "Resource",
         "Description": "A cache of fine items that had been stashed away for a special day.",
->>>>>>> PTR
         "ItemClass": "Resource+LootContainer",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -195,17 +181,10 @@
     },
     {
         "ItemID": "Skin_Chest_Jun2023_FrontWasteShawl",
-<<<<<<< HEAD
-        "Name": "@Skin_Chest_Jun2023_FrontWasteShawl_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Chest_Jun2023_FrontWasteShawl_Description",
-=======
         "Name": "Outback Pioneer's Raw Poncho",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "No quarry is beyond your reach, from the mountains to the badlands.",
->>>>>>> PTR
         "ItemClass": "EquippableChest",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -292,17 +271,10 @@
     },
     {
         "ItemID": "Skin_Head_Jun2023_FrontWasteShawl",
-<<<<<<< HEAD
-        "Name": "@Skin_Head_Jun2023_FrontWasteShawl_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Head_Jun2023_FrontWasteShawl_Description",
-=======
         "Name": "Outback Pioneer's Slouch Hat",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "No quarry is beyond your reach, from the mountains to the badlands.",
->>>>>>> PTR
         "ItemClass": "EquippableHead",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -389,17 +361,10 @@
     },
     {
         "ItemID": "Skin_Legs_Jun2023_FrontWasteShawl",
-<<<<<<< HEAD
-        "Name": "@Skin_Legs_Jun2023_FrontWasteShawl_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Legs_Jun2023_FrontWasteShawl_Description",
-=======
         "Name": "Outback Pioneer's Hiking Trousers",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "No quarry is beyond your reach, from the mountains to the badlands.",
->>>>>>> PTR
         "ItemClass": "EquippableLegs",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -486,17 +451,10 @@
     },
     {
         "ItemID": "Skin_Feet_Jun2023_FrontWasteShawl",
-<<<<<<< HEAD
-        "Name": "@Skin_Feet_Jun2023_FrontWasteShawl_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Feet_Jun2023_FrontWasteShawl_Description",
-=======
         "Name": "Outback Pioneer's Steel-Toed Boots",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "No quarry is beyond your reach, from the mountains to the badlands.",
->>>>>>> PTR
         "ItemClass": "EquippableFeet",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -583,17 +541,10 @@
     },
     {
         "ItemID": "Skin_Hands_Jun2023_FrontWasteShawl",
-<<<<<<< HEAD
-        "Name": "@Skin_Hands_Jun2023_FrontWasteShawl_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Hands_Jun2023_FrontWasteShawl_Description",
-=======
         "Name": "Outback Pioneer's Thick Gloves",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "No quarry is beyond your reach, from the mountains to the badlands.",
->>>>>>> PTR
         "ItemClass": "EquippableHands",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -680,17 +631,10 @@
     },
     {
         "ItemID": "Skin_Chest_Jun2023_FrontWasteGambeson",
-<<<<<<< HEAD
-        "Name": "@Skin_Chest_Jun2023_FrontWasteGambeson_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Chest_Jun2023_FrontWasteGambeson_Description",
-=======
         "Name": "Longhorn Plated Gambeson",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "The perfect suit of armor to accomodate your majestic horns, or to simply leave your enemies guessing.",
->>>>>>> PTR
         "ItemClass": "EquippableChest",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -777,17 +721,10 @@
     },
     {
         "ItemID": "Skin_Head_Jun2023_FrontWasteGambeson",
-<<<<<<< HEAD
-        "Name": "@Skin_Head_Jun2023_FrontWasteGambeson_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Head_Jun2023_FrontWasteGambeson_Description",
-=======
         "Name": "The Longhorn",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "The perfect suit of armor to accomodate your majestic horns, or to simply leave your enemies guessing.",
->>>>>>> PTR
         "ItemClass": "EquippableHead",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -874,17 +811,10 @@
     },
     {
         "ItemID": "Skin_Legs_Jun2023_FrontWasteGambeson",
-<<<<<<< HEAD
-        "Name": "@Skin_Legs_Jun2023_FrontWasteGambeson_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Legs_Jun2023_FrontWasteGambeson_Description",
-=======
         "Name": "Longhorn Layered Tassets",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "The perfect suit of armor to accomodate your majestic horns, or to simply leave your enemies guessing.",
->>>>>>> PTR
         "ItemClass": "EquippableLegs",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -971,17 +901,10 @@
     },
     {
         "ItemID": "Skin_Feet_Jun2023_FrontWasteGambeson",
-<<<<<<< HEAD
-        "Name": "@Skin_Feet_Jun2023_FrontWasteGambeson_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Feet_Jun2023_FrontWasteGambeson_Description",
-=======
         "Name": "Longhorn Fringed Schynbalds",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "The perfect suit of armor to accomodate your majestic horns, or to simply leave your enemies guessing.",
->>>>>>> PTR
         "ItemClass": "EquippableFeet",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -1068,17 +991,10 @@
     },
     {
         "ItemID": "Skin_Hands_Jun2023_FrontWasteGambeson",
-<<<<<<< HEAD
-        "Name": "@Skin_Hands_Jun2023_FrontWasteGambeson_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Hands_Jun2023_FrontWasteGambeson_Description",
-=======
         "Name": "Longhorn Layered Gauntlets",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "The perfect suit of armor to accomodate your majestic horns, or to simply leave your enemies guessing.",
->>>>>>> PTR
         "ItemClass": "EquippableHands",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -1165,17 +1081,10 @@
     },
     {
         "ItemID": "Skin_Chest_Jun2023_FrontWasteDeluxe",
-<<<<<<< HEAD
-        "Name": "@Skin_Chest_Jun2023_FrontWasteDeluxe_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Chest_Jun2023_FrontWasteDeluxe_Description",
-=======
         "Name": "Alated Cuirass of the Badlands",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "Cut an imposing silhouette as you roam the frontier, striking fear into the hearts of your foes.",
->>>>>>> PTR
         "ItemClass": "EquippableChest",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -1262,17 +1171,10 @@
     },
     {
         "ItemID": "Skin_Head_Jun2023_FrontWasteDeluxe",
-<<<<<<< HEAD
-        "Name": "@Skin_Head_Jun2023_FrontWasteDeluxe_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Head_Jun2023_FrontWasteDeluxe_Description",
-=======
         "Name": "Etched Bascinet of the Badlands",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "Cut an imposing silhouette as you roam the frontier, striking fear into the hearts of your foes.",
->>>>>>> PTR
         "ItemClass": "EquippableHead",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -1359,17 +1261,10 @@
     },
     {
         "ItemID": "Skin_Legs_Jun2023_FrontWasteDeluxe",
-<<<<<<< HEAD
-        "Name": "@Skin_Legs_Jun2023_FrontWasteDeluxe_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Legs_Jun2023_FrontWasteDeluxe_Description",
-=======
         "Name": "Reinforced Poleyn of the Badlands",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "Cut an imposing silhouette as you roam the frontier, striking fear into the hearts of your foes.",
->>>>>>> PTR
         "ItemClass": "EquippableLegs",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -1456,17 +1351,10 @@
     },
     {
         "ItemID": "Skin_Feet_Jun2023_FrontWasteDeluxe",
-<<<<<<< HEAD
-        "Name": "@Skin_Feet_Jun2023_FrontWasteDeluxe_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Feet_Jun2023_FrontWasteDeluxe_Description",
-=======
         "Name": "Spurred Greaves of the Badlands",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "Cut an imposing silhouette as you roam the frontier, striking fear into the hearts of your foes.",
->>>>>>> PTR
         "ItemClass": "EquippableFeet",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -1553,17 +1441,10 @@
     },
     {
         "ItemID": "Skin_Hands_Jun2023_FrontWasteDeluxe",
-<<<<<<< HEAD
-        "Name": "@Skin_Hands_Jun2023_FrontWasteDeluxe_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Hands_Jun2023_FrontWasteDeluxe_Description",
-=======
         "Name": "Barbed Gauntlets of the Badlands",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "Cut an imposing silhouette as you roam the frontier, striking fear into the hearts of your foes.",
->>>>>>> PTR
         "ItemClass": "EquippableHands",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -1650,17 +1531,10 @@
     },
     {
         "ItemID": "Skin_Chest_Jun2023_FrontWasteTwitch",
-<<<<<<< HEAD
-        "Name": "@Skin_Chest_Jun2023_FrontWasteTwitch_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Chest_Jun2023_FrontWasteTwitch_Description",
-=======
         "Name": "Wasteland Wanderer's Weathered Duster",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "Stalk the plains and mountains alike with the fear of no beast or being.",
->>>>>>> PTR
         "ItemClass": "EquippableChest",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -1747,17 +1621,10 @@
     },
     {
         "ItemID": "Skin_Head_Jun2023_FrontWasteTwitch",
-<<<<<<< HEAD
-        "Name": "@Skin_Head_Jun2023_FrontWasteTwitch_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Head_Jun2023_FrontWasteTwitch_Description",
-=======
         "Name": "Wasteland Wanderer's Rimmed Armet",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "Stalk the plains and mountains alike with the fear of no beast or being.",
->>>>>>> PTR
         "ItemClass": "EquippableHead",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -1844,17 +1711,10 @@
     },
     {
         "ItemID": "Skin_Legs_Jun2023_FrontWasteTwitch",
-<<<<<<< HEAD
-        "Name": "@Skin_Legs_Jun2023_FrontWasteTwitch_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Legs_Jun2023_FrontWasteTwitch_Description",
-=======
         "Name": "Wasteland Wanderer's Layered Chaps",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "Stalk the plains and mountains alike with the fear of no beast or being.",
->>>>>>> PTR
         "ItemClass": "EquippableLegs",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -1941,17 +1801,10 @@
     },
     {
         "ItemID": "Skin_Feet_Jun2023_FrontWasteTwitch",
-<<<<<<< HEAD
-        "Name": "@Skin_Feet_Jun2023_FrontWasteTwitch_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Feet_Jun2023_FrontWasteTwitch_Description",
-=======
         "Name": "Wasteland Wanderer's Guarded Buskins",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "Stalk the plains and mountains alike with the fear of no beast or being.",
->>>>>>> PTR
         "ItemClass": "EquippableFeet",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -2038,17 +1891,10 @@
     },
     {
         "ItemID": "Skin_Hands_Jun2023_FrontWasteTwitch",
-<<<<<<< HEAD
-        "Name": "@Skin_Hands_Jun2023_FrontWasteTwitch_MasterName",
-        "ItemType": "Armor",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Hands_Jun2023_FrontWasteTwitch_Description",
-=======
         "Name": "Wasteland Wanderer's Finger-Gloves",
         "ItemType": "Armor",
         "ItemTypeDisplayName": "",
         "Description": "Stalk the plains and mountains alike with the fear of no beast or being.",
->>>>>>> PTR
         "ItemClass": "EquippableHands",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -2135,17 +1981,10 @@
     },
     {
         "ItemID": "Skin_ShieldT_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_ShieldT_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_ShieldT_FrontierWastelander_Description",
-=======
         "Name": "Tower Shield of the Briar Rose",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "Determined as the Briar, Exceptional as the Rose.",
->>>>>>> PTR
         "ItemClass": "EquippableOffHand+Shield+TowerShield",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -2232,17 +2071,10 @@
     },
     {
         "ItemID": "Skin_Warhammer_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_Warhammer_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Warhammer_FrontierWastelander_Description",
-=======
         "Name": "Warhammer of the Briar Rose",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "Stubborn as the Briar, Striking as the Rose.",
->>>>>>> PTR
         "ItemClass": "EquippableTwoHand+2HHammer+Melee",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -2329,17 +2161,10 @@
     },
     {
         "ItemID": "Skin_Bow_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_Bow_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Bow_FrontierWastelander_Description",
-=======
         "Name": "Bow of the Briar Rose",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "Relentless as the Briar, Thorny as the Rose.",
->>>>>>> PTR
         "ItemClass": "EquippableTwoHand+Bow+Ranged",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -2426,17 +2251,10 @@
     },
     {
         "ItemID": "Skin_Greatsword_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_Greatsword_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Greatsword_FrontierWastelander_Description",
-=======
         "Name": "Greatsword of the Briar Rose",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "Enduring as the Briar, Dignified as the Rose.",
->>>>>>> PTR
         "ItemClass": "Weapon+EquippableTwoHand+GreatSword+Melee",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -2523,17 +2341,10 @@
     },
     {
         "ItemID": "Skin_LifeStaff_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_LifeStaff_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_LifeStaff_FrontierWastelander_Description",
-=======
         "Name": "Lifestaff of the Briar Rose",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "Hardy as the Briar, Benevolent as the Rose.",
->>>>>>> PTR
         "ItemClass": "EquippableMainHand+LifeStaff+Magic",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -2620,17 +2431,10 @@
     },
     {
         "ItemID": "Skin_IceGauntlet_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_IceGauntlet_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_IceGauntlet_FrontierWastelander_Description",
-=======
         "Name": "Ice Gauntlet of the Briar Rose",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "Ceaseless as the Briar, Magnificent as the Rose.",
->>>>>>> PTR
         "ItemClass": "EquippableMainHand+IceMagic+Magic",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -2717,17 +2521,10 @@
     },
     {
         "ItemID": "Skin_FishingPole_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_FishingPole_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_FishingPole_FrontierWastelander_Description",
-=======
         "Name": "Nameless Vagabond's Fishing Pole",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "The land provides - but so do the waters, if you know where to look.",
->>>>>>> PTR
         "ItemClass": "EquippableTool+FishingPole",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -2814,17 +2611,10 @@
     },
     {
         "ItemID": "Skin_AzothStaff_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_AzothStaff_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_AzothStaff_FrontierWastelander_Description",
-=======
         "Name": "Nameless Vagabond's Azoth Scepter",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "A rugged implement meant to withstand the fury of nature and humankind alike.",
->>>>>>> PTR
         "ItemClass": "Weapon+EquippableTool+Axe+AzothStaff",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -2911,17 +2701,10 @@
     },
     {
         "ItemID": "Skin_LoggingAxe_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_LoggingAxe_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_LoggingAxe_FrontierWastelander_Description",
-=======
         "Name": "Nameless Vagabond's Logging Axe",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "Better used for trees, but sharp enough for other uses.",
->>>>>>> PTR
         "ItemClass": "EquippableTool+Axe+LoggingAxe",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -3008,17 +2791,10 @@
     },
     {
         "ItemID": "Skin_Pickaxe_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_Pickaxe_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Pickaxe_FrontierWastelander_Description",
-=======
         "Name": "Nameless Vagabond's Pickaxe",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "Unearth Aeternum's undiscovered treasures. Or at least some precious minerals.",
->>>>>>> PTR
         "ItemClass": "EquippableTool+Axe+Pickaxe",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -3105,17 +2881,10 @@
     },
     {
         "ItemID": "Skin_Sickle_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_Sickle_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_Sickle_FrontierWastelander_Description",
-=======
         "Name": "Nameless Vagabond's Sickle",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "For a different sort of reaping away from the field of battle.",
->>>>>>> PTR
         "ItemClass": "EquippableTool+Axe+Sickle",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -3202,17 +2971,10 @@
     },
     {
         "ItemID": "Skin_SkinningKnife_FrontierWastelander",
-<<<<<<< HEAD
-        "Name": "@Skin_SkinningKnife_FrontierWastelander_MasterName",
-        "ItemType": "Weapon",
-        "ItemTypeDisplayName": "",
-        "Description": "@Skin_SkinningKnife_FrontierWastelander_Description",
-=======
         "Name": "Nameless Vagabond's Skinning Knife",
         "ItemType": "Weapon",
         "ItemTypeDisplayName": "",
         "Description": "Waste not - all parts of your quarry are useful in their own way.",
->>>>>>> PTR
         "ItemClass": "EquippableTool+Axe+SkinningKnife",
         "TradingCategory": "",
         "TradingFamily": "",

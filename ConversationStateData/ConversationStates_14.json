@@ -900,12 +900,6 @@
         "ConversationService3": ""
     },
     {
-<<<<<<< HEAD
-        "ConversationStateId": "14_00_Milosh",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": true,
-        "DefaultDialogue": "@14_00_Milosh_DefaultDialog",
-=======
         "ConversationStateId": "1427_CultMother_00_INIT",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
@@ -3971,7 +3965,6 @@
         "IsInitialState": true,
         "DefaultDialogue": "Can I read you my latest poem? It's only 200 lines.\\n\\nAndeolus says my skills are improving. But Joan says she'd rather lose her right arm than hear another line.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4006,12 +3999,8 @@
         "ConversationStateId": "14_00_Andeolus",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Andeolus_DefaultDialog",
-=======
         "DefaultDialogue": "You look learned. I humor Milosh but he has to work on himself and ahem…his poetry, a bit more.  \\n\\nLuckily for him, I've read Meditations and learnt how to accept the shortcomings of those who aren't as gifted as I am.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4028,11 +4017,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Andeolus_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4050,12 +4035,8 @@
         "ConversationStateId": "14_00_Joan",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Joan_DefaultDialog",
-=======
         "DefaultDialogue": "Can I trust you or will you disappear as soon as you get what you want from me? Like my family did. \\n\\nMilosh wants me to hear his poetry. Andeolus wants me to make him look smart. I'm just looking for people who won't leave me.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4072,11 +4053,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Joan_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4094,12 +4071,8 @@
         "ConversationStateId": "14_00_Tello",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Tello_DefaultDialog",
-=======
         "DefaultDialogue": "If you see an Auberon Gowering, tell him Tello is onto him and won't rest till he avenges his friends. \\n\\nHe sold the mine to the Corrupted to line his pockets. And now he cries over what happened? He's a damned fool!",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4116,11 +4089,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Tello_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4138,12 +4107,8 @@
         "ConversationStateId": "14_00_Babak",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Babak_DefaultDialog",
-=======
         "DefaultDialogue": "Do you know how to escape the island safely? I've heard stories of storms at sea and cursed ships, how no one survives. \\n\\nI can't stay here without my wife. Everything reminds me of her. How do I heal when I can't let her go?",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4160,11 +4125,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Babak_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4182,12 +4143,8 @@
         "ConversationStateId": "14_00_Zhao",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Zhao_DefaultDialog",
-=======
         "DefaultDialogue": "If everything is an illusion, why do we make an effort to hide the truth? \\n\\nI used to make wigs to cover up baldness once. Mousy brown. Now? I help people express who they truly are; every color of the rainbow.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4204,11 +4161,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Zhao_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4226,12 +4179,8 @@
         "ConversationStateId": "14_00_Yadira",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Yadira_DefaultDialog",
-=======
         "DefaultDialogue": "Who needs a husband when you have wealth of your own?  \\n\\nA few gems to buy a house, a few more to hire a pair of handsome guards. Life is good.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4248,11 +4197,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Yadira_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4270,12 +4215,8 @@
         "ConversationStateId": "14_00_Zorzi",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Zorzi_DefaultDialog",
-=======
         "DefaultDialogue": "Hellooo! Are you paying attention? I am looking for an adventurer to write songs about, one that doesn't hunt dryads, like my last one did. \\n\\nDryads are such exquisite creatures. To hurt one is nothing short of uncultured.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4292,11 +4233,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Zorzi_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4314,12 +4251,8 @@
         "ConversationStateId": "14_00_Faramarz",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Faramarz_DefaultDialog",
-=======
         "DefaultDialogue": "Isn't Yadira divine? Her smile is like the sun bordering the horizon. Fleeting, but it fills my soul with joy. \\n\\nTo see her is to experience God. To kiss her is to be reborn.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4336,11 +4269,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Faramarz_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4358,12 +4287,8 @@
         "ConversationStateId": "14_00_Yazdan",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Yazdan_DefaultDialog",
-=======
         "DefaultDialogue": "Yadira is a practical woman. And my brother is a dreamer. The two would never work out. \\n\\nWhat she needs is a strong man. A man of the earth. Like me. If only my brother would admit it and get out of our way.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4380,11 +4305,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Yazdan_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4402,12 +4323,8 @@
         "ConversationStateId": "14_00_Eva",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Eva_DefaultDialog",
-=======
         "DefaultDialogue": "Have you seen Auberon? He's a good man. Was a good father. \\n\\nWe lost our sons to the Angry Earth. He blames himself for not being able to buy them the armor they needed.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4424,11 +4341,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Eva_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4446,12 +4359,8 @@
         "ConversationStateId": "14_00_Gwen",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Gwen_DefaultDialog",
-=======
         "DefaultDialogue": "Stay wary of Auberon. He is a conniving snake who has fooled my sister. \\n\\nThe Angry Earth wouldn't have attacked the mines, if he hadn't agitated them. The Corrupted? Ask around and you'll find the truth about that.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4468,11 +4377,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Gwen_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4490,12 +4395,8 @@
         "ConversationStateId": "14_00_Roger",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Roger_DefaultDialog",
-=======
         "DefaultDialogue": "Hmm…stay wary of dangers.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4512,11 +4413,7 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Roger_T1",
-=======
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",
@@ -4534,12 +4431,8 @@
         "ConversationStateId": "14_00_Walter",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-<<<<<<< HEAD
-        "DefaultDialogue": "@14_00_Walter_DefaultDialog",
-=======
         "DefaultDialogue": "Hmm…stay alert and don't die.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -4556,9 +4449,6 @@
         "LinearObjectiveId8": "",
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
-<<<<<<< HEAD
-        "TopicId1": "14_Walter_T1",
-=======
         "TopicId1": "",
         "TopicId2": "",
         "TopicId3": "",
@@ -5100,7 +4990,6 @@
         "LinearObjectiveId9": "",
         "LinearObjectiveId10": "",
         "TopicId1": "",
->>>>>>> PTR
         "TopicId2": "",
         "TopicId3": "",
         "TopicId4": "",

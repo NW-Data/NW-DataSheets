@@ -37,13 +37,8 @@
     },
     {
         "ScheduleId": "EggcitingDefense",
-<<<<<<< HEAD
-        "StartDate": "2023-08-30T*:*:*",
-        "EndDate": "2023-09-12T*:*:*",
-=======
         "StartDate": "2023-08-14T*:*:*",
         "EndDate": "2023-08-28T*:*:*",
->>>>>>> PTR
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
@@ -51,13 +46,8 @@
     },
     {
         "ScheduleId": "EventKill",
-<<<<<<< HEAD
-        "StartDate": "*-01-*T*:*:*",
-        "EndDate": "*-03-*T*:*:*",
-=======
         "StartDate": "*-01-01T*:*:*",
         "EndDate": "*-03-31T*:*:*",
->>>>>>> PTR
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
@@ -65,13 +55,8 @@
     },
     {
         "ScheduleId": "EventDarkness",
-<<<<<<< HEAD
-        "StartDate": "*-04-*T*:*:*",
-        "EndDate": "*-06-*T*:*:*",
-=======
         "StartDate": "*-04-01T*:*:*",
         "EndDate": "*-06-30T*:*:*",
->>>>>>> PTR
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
@@ -79,13 +64,8 @@
     },
     {
         "ScheduleId": "EventGather",
-<<<<<<< HEAD
-        "StartDate": "*-07-*T*:*:*",
-        "EndDate": "*-09-*T*:*:*",
-=======
         "StartDate": "*-07-01T*:*:*",
         "EndDate": "*-09-30T*:*:*",
->>>>>>> PTR
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
@@ -93,13 +73,8 @@
     },
     {
         "ScheduleId": "EventChest",
-<<<<<<< HEAD
-        "StartDate": "*-10-*T*:*:*",
-        "EndDate": "*-12-*T*:*:*",
-=======
         "StartDate": "*-10-01T*:*:*",
         "EndDate": "*-12-31T*:*:*",
->>>>>>> PTR
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
@@ -108,17 +83,11 @@
     {
         "ScheduleId": "FortunesOfTheBold",
         "StartDate": "2023-08-16T*:*:*",
-<<<<<<< HEAD
-        "EndDate": "2023-08-29T*:*:*",
-=======
         "EndDate": "2023-08-30T*:*:*",
->>>>>>> PTR
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": false,
         "Comments": "For C2C event Fortunes of the Bold (Rafflebones)"
-<<<<<<< HEAD
-=======
     },
     {
         "ScheduleId": "EventSummer",
@@ -155,6 +124,5 @@
         "EndWeekday": "",
         "UTC": null,
         "Comments": "Springtide Bloom"
->>>>>>> PTR
     }
 ]

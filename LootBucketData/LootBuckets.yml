@@ -4016,8 +4016,6 @@ DarknessResources:
     CorruptedIchorT1                                                                  1 TRUE                            
     CorruptedIchorT2                                                                  1 TRUE                            
     CorruptedIchorT3                                                                  1 TRUE                            
-<<<<<<< HEAD
-=======
 MountAttachments:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -4344,7 +4342,6 @@ ZoneNamedItems:
     LightLegs_Sporelight                                                              1 False      Level:60-64,EPOI,FirstLight 
     LightFeet_Sporelight                                                              1 False      Level:60-64,EPOI,FirstLight 
     LightHands_Sporelight                                                             1 False      Level:60-64,EPOI,FirstLight 
->>>>>>> PTR
 CreatureRawGems:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -5314,8 +5311,6 @@ RewardFamilyGearBucket:
     2hGreatSwordAngryEarthT5                                                          1 FALSE      RewardFamilyGearAngryEarthT5 
     2hGreatSwordAncientT4                                                             1 FALSE      RewardFamilyGearAncientT4 
     2hGreatSwordAncientT5                                                             1 FALSE      RewardFamilyGearAncientT5 
-<<<<<<< HEAD
-=======
     1hFlailDropT2                                                                     1 FALSE      RewardFamilyGearAncientT2 
     1hFlailDropT3                                                                     1 FALSE      RewardFamilyGearAncientT3 
     1hFlailCorruptedT4                                                                1 FALSE      RewardFamilyGearCorruptedT4 
@@ -5326,7 +5321,6 @@ RewardFamilyGearBucket:
     1hFlailAngryEarthT5                                                               1 FALSE      RewardFamilyGearAngryEarthT5 
     1hFlailAncientT4                                                                  1 FALSE      RewardFamilyGearAncientT4 
     1hFlailAncientT5                                                                  1 FALSE      RewardFamilyGearAncientT5 
->>>>>>> PTR
 SprigganGearBucket:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -5822,22 +5816,6 @@ DarknessGearBucket:
     1hRapier_ForeverMourningT4_V2                                                     1 FALSE      MinContLevel:39-58   
     1hGauntletIce_GlacialRageT5_V3                                                    1 FALSE      MinContLevel:59      
     1hGauntletVoid_GreatDesolationT4_V2                                               1 0          MinContLevel:39-58   
-<<<<<<< HEAD
-    1hLongsword_MoonlessNightT5_V3                                                    1 FALSE      MinContLevel:59      
-    1hThrowingAxe_MalthazarsLostHatchetT5_V2                                          1 FALSE      MinContLevel:59      
-    2hWarhammer_PortalsmasherT5_V3                                                    1 FALSE      MinContLevel:59      
-    2hBow_FerocityoftheImpalerT5_V2                                                   1 FALSE      MinContLevel:59      
-    2hSpear_VeilstrikeT5_V2                                                           1 FALSE      MinContLevel:59      
-    2hStaffLife_SoulwardensLifeStaffT5_V2                                             1 FALSE      MinContLevel:59      
-    2hStaffFire_FlamesoftheBreachT5_V3                                                1 FALSE      MinContLevel:59      
-    2hMusket_BreachBloodiedRifleT5_V3                                                 1 FALSE      MinContLevel:59      
-    2hGreataxe_DarkofNightT5_V3                                                       1 FALSE      MinContLevel:59      
-    1hRapier_WhenTheyComeT5_V3                                                        1 FALSE      MinContLevel:59      
-    1hGauntletIce_FrostbittenMittT5_V3                                                1 FALSE      MinContLevel:59      
-    1hGauntletVoid_HeavensRiftT5_V2                                                   1 0          MinContLevel:59      
-    2hGreatSword_PaladinsHolySwordT5_V2                                               1 FALSE      MinContLevel:59      
-    2hBlunderbuss_CannonadeT5                                                         1 FALSE      MinContLevel:59      
-=======
     1hLongsword_MoonlessNightT5_V3                                                    1 FALSE      MinContLevel:59-59   
     1hThrowingAxe_MalthazarsLostHatchetT5_V2                                          1 FALSE      MinContLevel:59-59   
     2hWarhammer_PortalsmasherT5_V3                                                    1 FALSE      MinContLevel:59-59   
@@ -5877,7 +5855,6 @@ DarknessGearBucket:
     MediumFeet_DaemonFoot                                                             1 FALSE      MinContLevel:60-64   
     MediumHands_DaemonHand                                                            1 FALSE      MinContLevel:60-64   
     MediumLegs_DaemonLeg                                                              1 FALSE      MinContLevel:60-64   
->>>>>>> PTR
 DarknessWeaponBucket:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -5924,12 +5901,9 @@ DarknessWeaponBucket:
     2hGreatSwordDarknessBreachT3                                                      1 0          MinContLevel:19-38   
     2hGreatSwordDarknessBreachT4                                                      1 0          MinContLevel:39-58   
     2hGreatSwordDarknessBreachT5                                                      1 0          MinContLevel:59      
-<<<<<<< HEAD
-=======
     1hFlailDarknessBreachT3                                                           1 0          MinContLevel:59-64   
     1hFlailDarknessBreachT4                                                           1 0          MinContLevel:59-64   
     1hFlailDarknessBreachT5                                                           1 0          MinContLevel:59-64   
->>>>>>> PTR
 DarknessShieldsBucket:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -12847,21 +12821,6 @@ GlobalNamedList:
     1hRapier_ForeverMourningT4_V2                                                     1 FALSE      MinContLevel:39-58   
     1hGauntletIce_GlacialRageT5_V3                                                    1 FALSE      MinContLevel:39-58   
     1hGauntletVoid_GreatDesolationT4_V2                                               1 0          MinContLevel:39-58   
-<<<<<<< HEAD
-    1hLongsword_MoonlessNightT5_V3                                                    1 FALSE      MinContLevel:59      
-    1hThrowingAxe_MalthazarsLostHatchetT5_V2                                          1 FALSE      MinContLevel:59      
-    2hWarhammer_PortalsmasherT5_V3                                                    1 FALSE      MinContLevel:59      
-    2hBow_FerocityoftheImpalerT5_V2                                                   1 FALSE      MinContLevel:59      
-    2hSpear_VeilstrikeT5_V2                                                           1 FALSE      MinContLevel:59      
-    2hStaffLife_SoulwardensLifeStaffT5_V2                                             1 FALSE      MinContLevel:59      
-    2hStaffFire_FlamesoftheBreachT5_V3                                                1 FALSE      MinContLevel:59      
-    2hMusket_BreachBloodiedRifleT5_V3                                                 1 FALSE      MinContLevel:59      
-    2hGreataxe_DarkofNightT5_V3                                                       1 FALSE      MinContLevel:59      
-    1hRapier_WhenTheyComeT5_V3                                                        1 FALSE      MinContLevel:59      
-    1hGauntletIce_FrostbittenMittT5_V3                                                1 FALSE      MinContLevel:59      
-    1hGauntletVoid_HeavensRiftT5_V2                                                   1 0          MinContLevel:59      
-    2hGreatSword_PaladinsHolySwordT5_V2                                               1 FALSE      MinContLevel:59      
-=======
     1hLongsword_MoonlessNightT5_V3                                                    1 FALSE      MinContLevel:59-59   
     1hThrowingAxe_MalthazarsLostHatchetT5_V2                                          1 FALSE      MinContLevel:59-59   
     2hWarhammer_PortalsmasherT5_V3                                                    1 FALSE      MinContLevel:59-59   
@@ -12893,7 +12852,6 @@ GlobalNamedList:
     1hFlail_Named74_T5                                                                1 0          MinContLevel:59-59   
     1hFlail_Named75_T5                                                                1 0          MinContLevel:59-59   
     1hFlail_Named76_T5                                                                1 0          MinContLevel:59-59   
->>>>>>> PTR
 CookingRecipes:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -13033,176 +12991,6 @@ PostCapPerkItems:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-<<<<<<< HEAD
-    AdderstoneT3                                                                    1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    AnimusT1                                                                        1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    AnimusT2                                                                        1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    AnimusT3                                                                        1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    BaetylusT2                                                                      1-2 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    BearPawT2                                                                       1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    BearPawT3                                                                       1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    ClawT2                                                                          1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    ClawT3                                                                          1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    CobaltT2                                                                        1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    CorruptedMatterT3                                                               1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    CrystalizedAzothT2                                                              1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    CrystalizedAzothT3                                                              1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    EctoplasmT2                                                                     1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    EctoplasmT3                                                                     1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    ElkHoofT3                                                                       1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    FrozenFangT1                                                                    1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    FrozenFangT3                                                                    1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    HolyWaterT2                                                                     1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    HornT2                                                                          1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    MangyHideT2                                                                     1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    MangyHideT3                                                                     1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    NiterT3                                                                         1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    QuicksilverT2                                                                   1-2 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    RivetedMailT3                                                                   1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    SparkmetalT3                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    TallowT2                                                                        1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    ThunderstoneT1                                                                  1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    ThunderstoneT3                                                                  1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    TravelersCharmT2                                                                1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    ViscousAzothT3                                                                  1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    WeaponsmithCharmT2                                                              1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    WhetstoneT1                                                                     1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    WhetstoneT2                                                                     1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    WhetstoneT3                                                                     1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    WitheredEssenceT3                                                               1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    WolfEssenceT3                                                                   1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    WrithingBriarT2                                                                 1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    LostEssenceT2                                                                   1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    AdamantT2                                                                       1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    AdderstoneT1                                                                    1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    AdderStoneT2                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    AncientEssenceT3                                                                1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    ArcanistCharmT1                                                                 1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    ArmorerCharmT1                                                                  1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    ArmorerCharmT3                                                                  1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    ArmorScrapsT1                                                                   1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    AzothOilT2                                                                      1-2 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    BaetylusT1                                                                      1-2 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    BaetylusT3                                                                      1-2 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    BatrachiteT1                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    BatrachiteT2                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    ChefCharmT1                                                                     1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    CobaltT1                                                                        1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    ConsecratedIronT2                                                               1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    ConsecratedIronT3                                                               1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    CorruptedInsigniaT3                                                             1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    CorruptedMatterT2                                                               1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    ElkHoofT1                                                                       1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    EngineerCharmT1                                                                 1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    EngineerCharmT2                                                                 1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    FangT1                                                                          1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    FangT2                                                                          1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    JewelcrafterCharmT1                                                             1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    SapT1                                                                           1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    SapT2                                                                           1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    VerbenaT1                                                                       1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    VerbenaT2                                                                       1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    WeaponsmithCharmT1                                                              1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    WolfEssenceT2                                                                   1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    WrithingBriarT3                                                                 1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    ViscousAzothT1                                                                  1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    LostEssenceT1                                                                   1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    AdamantT1                                                                       1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    AncientEssenceT2                                                                1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    AzothOilT1                                                                      1-2 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    BotanistCharmT1                                                                 1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    BotanistCharmT2                                                                 1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    BotanistCharmT3                                                                 1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    CorruptedInsigniaT2                                                             1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    LumberjackCharmT1                                                               1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    LumberjackCharmT2                                                               1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    LumberjackCharmT3                                                               1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    MinerCharmT1                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    MinerCharmT2                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    MinerCharmT3                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    ResinT1                                                                         1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    ResinT2                                                                         1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    ResinT3                                                                         1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    RivetedMailT1                                                                   1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    RivetedMailT2                                                                   1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    SkinnerCharmT1                                                                  1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    SkinnerCharmT2                                                                  1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    SkinnerCharmT3                                                                  1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    SparkmetalT1                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    TallowT1                                                                        1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    AdamantT3                                                                       1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    AncientEssenceT1                                                                1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    ArcanistCharmT3                                                                 1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    AzaleaNectarT1                                                                  1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    AzaleaNectarT2                                                                  1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    AzaleaNectarT3                                                                  1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    AzothOilT3                                                                      1-2 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    BatrachiteT3                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    BearPawT1                                                                       1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    ChefCharmT3                                                                     1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    ClawT1                                                                          1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    CobaltT3                                                                        1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    ConsecratedIronT1                                                               1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedClothT1                                                                1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedClothT2                                                                1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedClothT3                                                                1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedEssenceT1                                                              1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedEssenceT2                                                              1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedEssenceT3                                                              1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedIchorT1                                                                1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedIchorT2                                                                1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedIchorT3                                                                1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedInsigniaT1                                                             1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedSigilT1                                                                1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedSigilT2                                                                1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CorruptedSigilT3                                                                1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CrystalizedAzothT1                                                              1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CrystalizedEctoplasmT1                                                          1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CrystalizedEctoplasmT2                                                          1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CrystalizedEctoplasmT3                                                          1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CrystalT1                                                                       1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    CrystalT2                                                                       1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    CrystalT3                                                                       1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    EctoplasmT1                                                                     1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    ElkHoofT2                                                                       1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    EngineerCharmT3                                                                 1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    FangT3                                                                          1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    FrozenFangT2                                                                    1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    HornT1                                                                          1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    HornT3                                                                          1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    IronwoodResinT2                                                                 1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    IronwoodSapT3                                                                   1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    JewelcrafterCharmT3                                                             1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    MangyHideT1                                                                     1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    NiterT1                                                                         1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    NiterT2                                                                         1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    QuicksilverT1                                                                   1-2 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    QuicksilverT3                                                                   1-2 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    SapT3                                                                           1-2 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    SparkmetalT2                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    TallowT3                                                                        1-2 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    ThunderstoneT2                                                                  1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    VerbenaT3                                                                       1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    ViscousAzothT2                                                                  1-2 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    WeaponsmithCharmT3                                                              1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    WitheredEssenceT1                                                               1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    WitheredEssenceT2                                                               1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    AdderStoneT1                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    AdderStoneT3                                                                    1-2 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    ArmorerCharmT2                                                                  1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    WyrdwoodSapT3                                                                   1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    WyrdwoodSapT2                                                                   1-2 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    TravelersStoneT2                                                                1-2 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    WolfPawT3                                                                       1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    WrithingVinesT1                                                                 1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    WrithingVinesT2                                                                 1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    AshResinT1                                                                      1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    EvergreenResinT1                                                                1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    GlacierResinT1                                                                  1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    FulguriteResinT1                                                                1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    ReaperResinT1                                                                   1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    CrystallineResinT1                                                              1-2 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-=======
     AdderstoneT3                                                                    1-2 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
     AnimusT3                                                                        1-2 TRUE       PostCapRidingT1_B,PostCapRidingT2_B,PostCapRidingT3_B 
     BearPawT2                                                                       1-2 TRUE       PostCapRidingT1_B,PostCapRidingT2_B,PostCapRidingT3_B 
@@ -13363,7 +13151,6 @@ PostCapPerkItems:
     PerkItem_Shield_Kite_OnBlockHeal                                                1-2 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
     PerkItem_Shield_Kite_OnBlockDmg                                                 1-2 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
     PerkItem_Bags_BonusTown                                                         1-2 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
->>>>>>> PTR
 PostCapIngredients:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -13423,116 +13210,6 @@ PostCapResources:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-<<<<<<< HEAD
-    AlchemyEarthT2                                                                  3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3 
-    AlchemyFireT2                                                                   3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3 
-    AlchemyAirT2                                                                    3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3 
-    AlchemyWaterT2                                                                  3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3 
-    AlchemySpiritT2                                                                 3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3 
-    AlchemyDeathT2                                                                  2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3 
-    AlchemyLifeT2                                                                   3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3 
-    AlchemyEarthT3                                                                  2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3 
-    AlchemyFireT3                                                                   2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3 
-    AlchemyAirT3                                                                    2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3 
-    AlchemyWaterT3                                                                  2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3 
-    AlchemySpiritT3                                                                 2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3 
-    AlchemyLifeT3                                                                   2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3 
-    EssenceEarthT1                                                                  1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    EssenceFireT1                                                                   1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    EssenceAirT1                                                                    1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    EssenceWaterT1                                                                  1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    EssenceSpiritT1                                                                 1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    EssenceLifeT1                                                                   1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    EssenceDeathT1                                                                  1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    CinnabarT1                                                                      2-3 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    TolviumT1                                                                       2-3 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
-    WildwoodT1                                                                      2-3 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    BarbvineT1                                                                      2-3 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
-    SmolderhideT1                                                                   3-5 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    ScarhideT1                                                                      3-5 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
-    BlisterweaveT1                                                                  2-3 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    ScaleclothT1                                                                    2-3 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
-    AmberT4                                                                         2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    AmethystT4                                                                      2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    AquamarineT4                                                                    2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    CarnelianT4                                                                     2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    DiamondT4                                                                       2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    EmeraldT4                                                                       2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    JasperT4                                                                        2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    MalachiteT4                                                                     2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    MoonstoneT4                                                                     2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    OnyxT4                                                                          2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    OpalT4                                                                          2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    PearlT4                                                                         2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    RubyT4                                                                          2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    SapphireT4                                                                      2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    TopazT4                                                                         2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3 
-    PigmentRed                                                                      1-3 TRUE       PostCapCookingT3     
-    PigmentOrange                                                                   1-3 TRUE       PostCapCookingT3     
-    PigmentYellow                                                                   1-3 TRUE       PostCapCookingT3     
-    PigmentGreen                                                                    1-3 TRUE       PostCapCookingT3     
-    PigmentBlue                                                                     1-3 TRUE       PostCapCookingT3     
-    PigmentPurple                                                                   1-3 TRUE       PostCapCookingT3     
-    PigmentWhite                                                                    1-3 TRUE       PostCapCookingT3     
-    PigmentBrown                                                                    1-3 TRUE       PostCapCookingT3     
-    PigmentBlack                                                                    1-3 TRUE       PostCapCookingT3     
-    PigmentTurquoise                                                                1-3 TRUE       PostCapCookingT3     
-    PigmentCyan                                                                     1-3 TRUE       PostCapCookingT3     
-    PigmentMagenta                                                                  1-3 TRUE       PostCapCookingT3     
-    BasilT1                                                                         3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    SaffronT1                                                                       3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    ThymeT1                                                                         3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    OreganoT1                                                                       3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    DillT1                                                                          3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    ParsleyT1                                                                       3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    RosemaryT1                                                                      3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    TarragonT1                                                                      3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    SageT1                                                                          3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    MintT1                                                                          3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    PeppercornT1                                                                    3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    CinnamonT1                                                                      3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    NutmegT1                                                                        3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    PaprikaT1                                                                       3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    GingerT1                                                                        3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    GarlicT1                                                                        3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    SaltT1                                                                          3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    SugarT1                                                                         3-5 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3 
-    TurkeyThighT1                                                                   1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    BearFlankT1                                                                     1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    RabbitT1                                                                        1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    PrimeRedMeatT1                                                                  1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    PorkBellyT1                                                                     1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    FishRoeT1                                                                       1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    SquidInkT1                                                                      1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    RiceT1                                                                          1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    AppleT1                                                                         1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    StringBeanT1                                                                    1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    CoconutT1                                                                       1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    TomatoT1                                                                        1-2 TRUE       PostCapCookingT2,PostCapCookingT3 
-    SnailSlimeT1                                                                    1-2 TRUE       PostCapInstrumentsT2,PostCapInstrumentsT3 
-    CatfishWhiskersT1                                                               2-5 TRUE       PostCapInstrumentsT2,PostCapInstrumentsT3 
-    PearlT3                                                                         2-5 TRUE       PostCapInstrumentsT2,PostCapInstrumentsT3 
-    TimberT3                                                                       5-10 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    IngotPreciousT2                                                                 2-5 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    AmberT3                                                                         2-5 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    AmethystT3                                                                      1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    AquamarineT3                                                                    1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    CarnelianT3                                                                     1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    DiamondT3                                                                       1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    EmeraldT3                                                                       1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    JasperT3                                                                        1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    MalachiteT3                                                                     1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    MoonstoneT3                                                                     1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    OnyxT3                                                                          1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    OpalT3                                                                          1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    RubyT3                                                                          1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    SapphireT3                                                                      1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    TopazT3                                                                         1-2 TRUE       PostCapInstrumentsT1,PostCapInstrumentsT2,PostCapInstrumentsT3 
-    HoneyT1                                                                         3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    NutT1                                                                           3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    ButterT1                                                                        3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-    MilkT1                                                                          3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3 
-=======
     AlchemyEarthT2                                                                  3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
     AlchemyFireT2                                                                   3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
     AlchemyAirT2                                                                    3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
@@ -13645,7 +13322,6 @@ PostCapResources:
     TimberT52                                                                       2-3 TRUE       PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
     RawhideT52                                                                      3-5 TRUE       PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
     FiberT52                                                                        2-3 TRUE       PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
->>>>>>> PTR
 PostCapRecipes:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -14872,25 +14548,6 @@ OutpostRushNonNamedWeaponRoll:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-<<<<<<< HEAD
-    2hSpearOutpostRushT5                                                              1 FALSE      Level:59             
-    2hBowOutpostRushT5                                                                1 FALSE      Level:59             
-    2hMusketOutpostRushT5                                                             1 FALSE      Level:59             
-    2hGreatAxeOutpostRushT5                                                           1 FALSE      Level:59             
-    2hFireStaffOutpostRushT5                                                          1 FALSE      Level:59             
-    2hLifeStaffOutpostRushT5                                                          1 FALSE      Level:59             
-    1hRoundShieldOutpostRushT5                                                        1 FALSE      Level:59             
-    1hKiteShieldOutpostRushT5                                                         1 FALSE      Level:59             
-    1hTowerShieldOutpostRushT5                                                        1 FALSE      Level:59             
-    1hGauntletIceOutpostRushT5                                                        1 FALSE      Level:59             
-    2hBlunderbussOutpostRushT5                                                        1 FALSE      Level:59             
-    1hGauntletVoidOutpostRushT5                                                       1 FALSE      Level:59             
-    1hSwordOutpostRushT5                                                              1 FALSE      Level:59             
-    1hRapierOutpostRushT5                                                             1 FALSE      Level:59             
-    1hHatchetOutpostRushT5                                                            1 FALSE      Level:59             
-    2hWarhammerOutpostRushT5                                                          1 FALSE      Level:59             
-    2hGreatSwordOutpostRushT5                                                         1 FALSE      Level:59             
-=======
     2hSpearOutpostRushT5                                                              1 FALSE      Level:59-64          
     2hBowOutpostRushT5                                                                1 FALSE      Level:59-64          
     2hMusketOutpostRushT5                                                             1 FALSE      Level:59-64          
@@ -14909,7 +14566,6 @@ OutpostRushNonNamedWeaponRoll:
     2hWarhammerOutpostRushT5                                                          1 FALSE      Level:59-64          
     2hGreatSwordOutpostRushT5                                                         1 FALSE      Level:59-64          
     1hFlailOutpostRushT5                                                              1 FALSE      Level:59-64          
->>>>>>> PTR
 BagofJuniperBerries_14_18:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -15888,10 +15544,7 @@ HeartGemRunes:
     RuneBileBombT1                                                                    1 FALSE      Level:59,Simon       
     RuneFireStormT1                                                                   1 FALSE      Level:59,Marius      
     RuneSandwormT1                                                                    1 FALSE      Level:59,Sandworm    
-<<<<<<< HEAD
-=======
     RuneBeastModeT1                                                                   1 FALSE      Level:59,GorillaDGBoss 
->>>>>>> PTR
 SE_Music_Camp:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -17531,8 +17184,6 @@ LegacyNamedItems:
     LightFeet_Breach1T3                                                               1 FALSE                           
     LightFeet_Breach1T4                                                               1 FALSE                           
     LightFeet_Breach1T5                                                               1 FALSE                           
-<<<<<<< HEAD
-=======
     1hFlailBreachT5                                                                   1 FALSE                           
     AmuletT5_Grovelight                                                               1 FALSE                           
     RingT5_Soulpollen                                                                 1 FALSE                           
@@ -18143,7 +17794,6 @@ LegacyNamedItems:
     HeavyLegs_EF_BossXPAC_MutT5                                                       1 FALSE                           
     HeavyFeet_EF_BossXPAC_MutT5                                                       1 FALSE                           
     HeavyHands_EF_BossXPAC_MutT5                                                      1 FALSE                           
->>>>>>> PTR
 EventDropChest:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -18551,10 +18201,7 @@ DungeonMateriaSingle:
     DungeonDiamonds_Isabella                                                          1 FALSE      ShatterMtn00         
     DungeonDiamonds_Brimstone                                                         1 FALSE      BrimstoneSands00     
     DungeonDiamonds_Empyrean                                                          1 FALSE      GreatCleave01        
-<<<<<<< HEAD
-=======
     DungeonDiamonds_FLXpac_Crystalclaw                                                1 FALSE      EXPFirstLight01      
->>>>>>> PTR
 SeasonsWeapon:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -19253,11 +18900,6 @@ WorldEvent_S1_WeaponPerkItems:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-<<<<<<< HEAD
-    AnimusT1                                                                          1 FALSE                           
-    AnimusT2                                                                          1 FALSE                           
-=======
->>>>>>> PTR
     AnimusT3                                                                          1 FALSE                           
     ConsecratedIronT1                                                                 1 FALSE                           
     ConsecratedIronT2                                                                 1 FALSE                           
@@ -19789,11 +19431,6 @@ WorldEvent_Crassus_WeaponPerkItems:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-<<<<<<< HEAD
-    AnimusT1                                                                          1 FALSE                           
-    AnimusT2                                                                          1 FALSE                           
-=======
->>>>>>> PTR
     AnimusT3                                                                          1 FALSE                           
     ConsecratedIronT1                                                                 1 FALSE                           
     ConsecratedIronT2                                                                 1 FALSE                           
@@ -20998,19 +20635,6 @@ DarknessPerkItems:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-<<<<<<< HEAD
-    WolfEssenceT2                                                                     1 False                           
-    WolfEssenceT3                                                                     1 False                           
-    WrithingBriarT2                                                                   1 False                           
-    WrithingBriarT3                                                                   1 False                           
-    CorruptedMatterT3                                                                 1 False                           
-    CorruptedInsigniaT3                                                               1 False                           
-    RivetedMailT3                                                                     1 False                           
-    AncientEssenceT3                                                                  1 False                           
-    BaetylusT3                                                                        1 False                           
-    BaetylusT2                                                                        1 False                           
-=======
->>>>>>> PTR
     LostEssenceT2                                                                     1 False                           
     LostEssenceT1                                                                     1 False                           
 Trial_S2_Armor:
@@ -21142,17 +20766,6 @@ PVPDropWeapon:
     1hGauntletVoidPVPDropT2                                                           1 0          MinContLevel:0-18    
     1hGauntletVoidPVPDropT3                                                           1 0          MinContLevel:19-38   
     1hGauntletVoidPVPDropT4                                                           1 0          MinContLevel:39-58   
-<<<<<<< HEAD
-    1hGauntletVoidPVPDropT5                                                           1            MinContLevel:59      
-    2hBlunderbussPVPDropT2                                                            1            MinContLevel:0-18    
-    2hBlunderbussPVPDropT3                                                            1            MinContLevel:19-38   
-    2hBlunderbussPVPDropT4                                                            1            MinContLevel:39-58   
-    2hBlunderbussPVPDropT5                                                            1            MinContLevel:59      
-    2hGreatSwordPVPDropT2                                                             1            MinContLevel:0-18    
-    2hGreatSwordPVPDropT3                                                             1            MinContLevel:19-38   
-    2hGreatSwordPVPDropT4                                                             1            MinContLevel:39-58   
-    2hGreatSwordPVPDropT5                                                             1            MinContLevel:59      
-=======
     1hGauntletVoidPVPDropT5                                                           1 0          MinContLevel:59      
     2hBlunderbussPVPDropT2                                                            1 0          MinContLevel:0-18    
     2hBlunderbussPVPDropT3                                                            1 0          MinContLevel:19-38   
@@ -21162,7 +20775,6 @@ PVPDropWeapon:
     2hGreatSwordPVPDropT3                                                             1 0          MinContLevel:19-38   
     2hGreatSwordPVPDropT4                                                             1 0          MinContLevel:39-58   
     2hGreatSwordPVPDropT5                                                             1 0          MinContLevel:59      
->>>>>>> PTR
 PVPDropArmorHeavy:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -21341,10 +20953,7 @@ Trial_Sandworm_WeeklyBossLoot:
     Sandworm_Trial_AmuletT5                                                           1 FALSE                           
     Sandworm_Trial_RingT5                                                             1 FALSE                           
     Sandworm_Trial_EarringT5                                                          1 FALSE                           
-<<<<<<< HEAD
-=======
     Sandworm_Trial_WeaponFlail_T5                                                     1 FALSE                           
->>>>>>> PTR
 Trial_Sandworm_NamedList:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -21384,10 +20993,7 @@ Trial_Sandworm_NamedList:
     Sandworm_Trial_AmuletT5                                                           1 FALSE                           
     Sandworm_Trial_RingT5                                                             1 FALSE                           
     Sandworm_Trial_EarringT5                                                          1 FALSE                           
-<<<<<<< HEAD
-=======
     Sandworm_Trial_WeaponFlail_T5                                                     1 FALSE                           
->>>>>>> PTR
 Trial_Sandworm_Armor:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22029,8 +21635,6 @@ JoelsHiddenTreasures:
     Pattern_OPR_LightHands                                                         None                                 
     Pattern_OPR_LightLegs                                                          None                                 
     Pattern_OPR_LightFeet                                                          None                                 
-<<<<<<< HEAD
-=======
     ClothingHead_MinerT52                                                          None                                 
     ClothingChest_MinerT52                                                         None                                 
     ClothingHands_MinerT52                                                         None                                 
@@ -22077,7 +21681,6 @@ JoelsHiddenTreasures:
     HeavyHands_MarauderLegatusT5_v2                                                None                                 
     HeavyLegs_MarauderLegatusT5_v2                                                 None                                 
     HeavyFeet_MarauderLegatusT5_v2                                                 None                                 
->>>>>>> PTR
 ProcWeapons_GuaranteeRare:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22096,10 +21699,7 @@ ProcWeapons_GuaranteeRare:
     1hGauntletVoidDropT5_GuaranteeRare                                                1 FALSE                           
     2hBlunderbussDropT5_GuaranteeRare                                                 1 FALSE                           
     2hGreatSwordDropT5_GuaranteeRare                                                  1 FALSE                           
-<<<<<<< HEAD
-=======
     1hFlailDropT5_GuaranteeRare                                                       1 FALSE                           
->>>>>>> PTR
 ProcShields_GuaranteeRare:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22178,10 +21778,7 @@ ProcWeapons_GuaranteeEpic:
     1hGauntletVoidDropT5_GuaranteeEpic                                                1 FALSE                           
     2hBlunderbussDropT5_GuaranteeEpic                                                 1 FALSE                           
     2hGreatSwordDropT5_GuaranteeEpic                                                  1 FALSE                           
-<<<<<<< HEAD
-=======
     1hFlailDropT5_GuaranteeEpic                                                       1 0                               
->>>>>>> PTR
 ProcShields_GuaranteeEpic:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22278,10 +21875,7 @@ WarPatterns:
     Pattern_War_LightHands                                                            1 FALSE      Level:59             
     Pattern_War_LightLegs                                                             1 FALSE      Level:59             
     Pattern_War_LightFeet                                                             1 FALSE      Level:59             
-<<<<<<< HEAD
-=======
     Pattern_1hFlailWarT5                                                              1 FALSE      Level:59             
->>>>>>> PTR
 OPRPatterns:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22318,10 +21912,7 @@ OPRPatterns:
     Pattern_OPR_LightHands                                                            1 FALSE      Level:59             
     Pattern_OPR_LightLegs                                                             1 FALSE      Level:59             
     Pattern_OPR_LightFeet                                                             1 FALSE      Level:59             
-<<<<<<< HEAD
-=======
     Pattern_1hFlailOPRT5                                                              1 FALSE      Level:59             
->>>>>>> PTR
 EventDropKill:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22353,8 +21944,6 @@ AlchemyCritters:
     LifemothEyesT1                                                                    1 False                           
     SoulwyrmTongueT1                                                                  1 False                           
     BlightmothDustT1                                                                  1 False                           
-<<<<<<< HEAD
-=======
 ArtemisSporeBonus:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22786,7 +22375,6 @@ ArtifactMasterDarkness:
     ________________________________________________________________________________________________________________
     Artifact_Set1_LightHead                                                           1 False      Level:61             
     Artifact_Set1_2hGreatAxe                                                          1 False      Level:61             
->>>>>>> PTR
 DimensionalTetherPvE:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22908,8 +22496,6 @@ RafflebonesFOTB_DungeonBossGear:
     HeavyLegs_EF_Boss_MutT5                                                           1 FALSE      Level:59,Goblin      
     HeavyFeet_EF_Boss_MutT5                                                           1 FALSE      Level:59,Goblin      
     HeavyHands_EF_Boss_MutT5                                                          1 FALSE      Level:59,Goblin      
-<<<<<<< HEAD
-=======
 HalloweenOldPatterns:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -23223,158 +22809,42 @@ ExpeditionBoxMateria:
     DungeonDiamonds_FLXPac_Brimstone                                               3500 False      BrimstoneSands00     
     DungeonDiamonds_FLXPac_Empyrean                                                3500 False      GreatCleave01        
     DungeonDiamonds_FLXpac_Crystalclaw                                             3500 False      EXPFirstLight01      
->>>>>>> PTR
 '':
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-<<<<<<< HEAD
-    FishingPerchSmallT1                                                               1 TRUE       CutlassKeys,FirstLight,Windsward,Monarchs,Reekwater,Everfall,Queensport,Brightwood,Weavers,Brimstone 
-    FishingMackerelSmallT1                                                            1 TRUE       CutlassKeys,Windsward,Monarchs,Brimstone 
-    FishingPerchMediumT1                                                              1 TRUE       CutlassKeys,FirstLight,Windsward,Monarchs,Reekwater,Everfall,Queensport,Brightwood,Weavers,Brimstone 
-    FishingMackerelMediumT1                                                           1 TRUE       CutlassKeys,Windsward,Monarchs,Brimstone 
-    FishingTroutLargeT1                                                               1 TRUE       Reekwater,Everfall,Queensport,Brightwood,Weavers,Restless,Mourning,Edengrove,GreatCleave,Shattered 
-    FishingMackerelLargeT1                                                            1 TRUE       CutlassKeys,Windsward,Monarchs,Brimstone 
-    FishingTadpolesSmallT2                                                            1 TRUE       CutlassKeys,Windsward,Everfall,Queensport,Weavers,Mourning,GreatCleave,Shattered 
-    FishingClamsSmallT2                                                               1 TRUE       FirstLight,Monarchs,Queensport,Weavers,Mourning,Everfall 
-    FishingSturgeonMediumT2                                                           1 TRUE       FirstLight,Monarchs,Reekwater,Brightwood,Mourning,GreatCleave,Brimstone 
-    FishingHalibutMediumT2                                                            1 TRUE       FirstLight,Windsward,Restless,Reekwater,Brimstone 
-    FishingSturgeonLargeT2                                                            1 TRUE       FirstLight,Monarchs,Reekwater,Brightwood,Mourning,GreatCleave,Brimstone 
-    FishingHalibutLargeT2                                                             1 TRUE       FirstLight,Windsward,Restless,Reekwater,Brimstone 
-    FishingPiranhaSmallT3                                                             1 TRUE       Windsward,Reekwater,Restless,Edengrove,GreatCleave 
-    FishingDragonFishSmallT3                                                          1 TRUE       Windsward,Everfall,Weavers,Edengrove,Shattered 
-    FishingPiranhaMediumT3                                                            1 TRUE       Windsward,Reekwater,Restless,Edengrove,GreatCleave 
-    FishingDragonFishMediumT3                                                         1 TRUE       Windsward,Everfall,Weavers,Edengrove,Shattered 
-    FishingSpeartoothSharkLargeT3                                                     1 TRUE       CutlassKeys,Reekwater,Queensport,Mourning,Shattered,Brimstone 
-    FishingSwordfishLargeT3                                                           1 TRUE       CutlassKeys,Everfall,Weavers,Mourning 
-    FishingMoragT5                                                                    1 TRUE       Monarchs             
-    FishingAnglerFishT5                                                               1 TRUE       FirstLight           
-    FishingAnchorT2                                                                   1 TRUE                            
-=======
->>>>>>> PTR
     HeavyChest_PVP_Prestige600T5                                                      1 FALSE      Level:59             
     1hLongsword_PVPT3                                                                 1 FALSE      Level:19-38          
     1hLongsword_PVP_PrestigeT3                                                        1 FALSE      Level:19-38          
     1hLongsword_PVP_NamedT3                                                           1 FALSE      Level:19-38          
-<<<<<<< HEAD
-    FishingPikeSmallT1                                                                1 TRUE                            
-    FishingSnapperSmallT1                                                             1 TRUE       CutlassKeys,FirstLight,Monarchs,Reekwater,Everfall,Queensport,Weavers,Brimstone 
-    FishingPikeMediumT1                                                               1 TRUE                            
-    FishingSnapperMediumT1                                                            1 TRUE       CutlassKeys,FirstLight,Monarchs,Reekwater,Everfall,Queensport,Weavers,Brimstone 
-    FishingSunfishLargeT1                                                             1 TRUE       Restless,Mourning,Edengrove,GreatCleave,Shattered,Brimstone 
-    FishingSnapperLargeT1                                                             1 TRUE       CutlassKeys,FirstLight,Monarchs,Reekwater,Everfall,Queensport,Weavers,Brimstone 
-    FishingSnailSmallT2                                                               1 TRUE       FirstLight,Monarchs,Everfall,Brightwood,Restless,Edengrove,Brimstone 
-    FishingSquidSmallT2                                                               1 TRUE       CutlassKeys,Monarchs,Reekwater,Restless,Brimstone 
-    FishingSquidMediumT2                                                              1 TRUE       CutlassKeys,Monarchs,Reekwater,Restless,Brimstone 
-    FishingSquidLargeT2                                                               1 TRUE       CutlassKeys,Monarchs,Reekwater,Restless,Brimstone 
-    FishingPaddlefishSmallT3                                                          1 TRUE       CutlassKeys,Monarchs,Queensport,Restless,GreatCleave 
-    FishingPearlOysterSmallT3                                                         1 TRUE       FirstLight,Reekwater,Restless,Brimstone 
-    FishingPaddlefishMediumT3                                                         1 TRUE       CutlassKeys,Monarchs,Queensport,Restless,GreatCleave 
-    FishingStingRayMediumT3                                                           1 TRUE       CutlassKeys,Monarchs,Queensport,Mourning,Brimstone 
-    FishingElectricEelLargeT3                                                         1 TRUE       FirstLight,Everfall,Brightwood,Restless,Shattered,Brimstone 
-    FishingFrogfishLargeT3                                                            1 TRUE       FirstLight,Reekwater,Brightwood,Mourning,GreatCleave 
-    FishingMandjeMandjeT5                                                             1 TRUE       Everfall             
-    FishingSelkieT5                                                                   1 TRUE       Restless             
-    FishingFishSwordT2                                                                1 TRUE                            
-=======
->>>>>>> PTR
     HeavyHands_PVP_Prestige600T5                                                      1 FALSE      Level:59             
     1hLongsword_PVPT4                                                                 1 FALSE      Level:39-58          
     1hLongsword_PVP_PrestigeT4                                                        1 FALSE      Level:39-58          
     1hLongsword_PVP_NamedT4                                                           1 FALSE      Level:39-58          
-<<<<<<< HEAD
-    FishingTroutSmallT1                                                               1 TRUE       Reekwater,Everfall,Queensport,Brightwood,Weavers,Restless,Mourning,Edengrove,GreatCleave,Shattered 
-    FishingFlounderSmallT1                                                            1 TRUE       CutlassKeys,FirstLight,Windsward,Reekwater,Everfall,Queensport,Weavers,Restless,Mourning 
-    FishingTroutMediumT1                                                              1 TRUE       Reekwater,Everfall,Queensport,Brightwood,Weavers,Restless,Mourning,Edengrove,GreatCleave,Shattered 
-    FishingFlounderMediumT1                                                           1 TRUE       CutlassKeys,FirstLight,Windsward,Reekwater,Everfall,Queensport,Weavers,Restless,Mourning 
-    FishingSalmonLargeT1                                                              1 TRUE                            
-    FishingFlounderLargeT1                                                            1 TRUE       CutlassKeys,FirstLight,Windsward,Reekwater,Everfall,Queensport,Weavers,Restless,Mourning 
-    FishingSturgeonSmallT2                                                            1 TRUE       FirstLight,Monarchs,Reekwater,Brightwood,Mourning,GreatCleave,Brimstone 
-    FishingHalibutSmallT2                                                             1 TRUE       FirstLight,Windsward,Restless,Reekwater,Brimstone 
-    FishingSpeartoothSharkSmallT3                                                     1 TRUE       CutlassKeys,Reekwater,Queensport,Mourning,Shattered,Brimstone 
-    StarfishT1                                                                        1 TRUE       Monarchs,Queensport,Weavers,Restless,Brimstone 
-    FishingSpeartoothSharkMediumT3                                                    1 TRUE       CutlassKeys,Reekwater,Queensport,Mourning,Shattered,Brimstone 
-    FishingSculpinMediumT3                                                            1 TRUE       Windsward,Reekwater,Queensport,Restless 
-    FishingPiranhaLargeT3                                                             1 TRUE       Windsward,Reekwater,Restless,Edengrove,GreatCleave 
-    FishingDragonFishLargeT3                                                          1 TRUE       Windsward,Everfall,Weavers,Edengrove,Shattered 
-    FishingNamazuT5                                                                   1 TRUE       Brightwood           
-    FishingEgedeSerpeT5                                                               1 TRUE       Mourning             
-    FishingHeadedHammerT2                                                             1 TRUE                            
-=======
->>>>>>> PTR
     HeavyLegs_PVP_Prestige600T5                                                       1 FALSE      Level:59             
     1hLongsword_PVPT5                                                                 1 FALSE      Level:59             
     1hLongsword_PVP_PrestigeT5                                                        1 FALSE      Level:59             
     1hLongsword_PVP_NamedT5                                                           1 FALSE      Level:59             
-<<<<<<< HEAD
-    FishingSunfishSmallT1                                                             1 TRUE       Restless,Mourning,Edengrove,GreatCleave,Shattered,Brimstone 
-    FishingBluefishSmallT1                                                            1 TRUE       FirstLight,Monarchs,Reekwater,Everfall,Queensport,Weavers,Restless,Mourning 
-    FishingSunfishMediumT1                                                            1 TRUE       Restless,Mourning,Edengrove,GreatCleave,Shattered,Brimstone 
-    FishingBluefishMediumT1                                                           1 TRUE       FirstLight,Monarchs,Reekwater,Everfall,Queensport,Weavers,Restless,Mourning 
-    FishingBassLargeT1                                                                1 TRUE       CutlassKeys,FirstLight,Windsward,Monarchs,Brimstone 
-    FishingBluefishLargeT1                                                            1 TRUE       FirstLight,Monarchs,Reekwater,Everfall,Queensport,Weavers,Restless,Mourning 
-    FishingMadtomSmallT3                                                              1 TRUE       Monarchs,Queensport,Weavers,Edengrove,Brimstone 
-    FishingStingRaySmallT3                                                            1 TRUE       CutlassKeys,Monarchs,Queensport,Mourning,Brimstone 
-    FishingMadtomMediumT3                                                             1 TRUE       Monarchs,Queensport,Weavers,Edengrove,Brimstone 
-    FishingSwordfishMediumT3                                                          1 TRUE       CutlassKeys,Everfall,Weavers,Mourning 
-    FishingMadtomLargeT3                                                              1 TRUE       Monarchs,Queensport,Weavers,Edengrove,Brimstone 
-    FishingSculpinLargeT3                                                             1 TRUE       Windsward,Reekwater,Queensport,Restless 
-    FishingOgopogoT5                                                                  1 TRUE       Weavers              
-    FishingHafgufaT5                                                                  1 TRUE       Queensport           
-    FishingOarT2                                                                      1 TRUE                            
-=======
->>>>>>> PTR
     HeavyFeet_PVP_Prestige600T5                                                       1 FALSE      Level:59             
     1hThrowingAxe_PVPT2                                                               1 FALSE      Level:0-18           
     1hThrowingAxe_PVP_PrestigeT2                                                      1 FALSE      Level:0-18           
     1hThrowingAxe_PVP_NamedT2                                                         1 FALSE      Level:0-18           
-<<<<<<< HEAD
-    FishingSalmonSmallT1                                                              1 TRUE                            
-    FishingHakeSmallT1                                                                1 TRUE       Windsward,Restless,Mourning,Brimstone 
-    FishingSalmonMediumT1                                                             1 TRUE                            
-    FishingHakeMediumT1                                                               1 TRUE       Windsward,Restless,Mourning,Brimstone 
-    FishingPerchLargeT1                                                               1 TRUE       CutlassKeys,FirstLight,Windsward,Monarchs,Reekwater,Everfall,Queensport,Brightwood,Weavers,Brimstone 
-    FishingHakeLargeT1                                                                1 TRUE       Windsward,Restless,Mourning,Brimstone 
-    FishingFrogfishSmallT3                                                            1 TRUE       FirstLight,Reekwater,Brightwood,Mourning,GreatCleave 
-    FishingSculpinSmallT3                                                             1 TRUE       Windsward,Reekwater,Queensport,Restless 
-    FishingFrogfishMediumT3                                                           1 TRUE       FirstLight,Reekwater,Brightwood,Mourning,GreatCleave 
-    FishingTessieT5                                                                   1 TRUE       Reekwater            
-    FishingBishopFishT5                                                               1 TRUE       Windsward            
-=======
->>>>>>> PTR
     MediumHead_PVP_Prestige600T5                                                      1 FALSE      Level:59             
     1hThrowingAxe_PVPT3                                                               1 FALSE      Level:19-38          
     1hThrowingAxe_PVP_PrestigeT3                                                      1 FALSE      Level:19-38          
     1hThrowingAxe_PVP_NamedT3                                                         1 FALSE      Level:19-38          
-<<<<<<< HEAD
-    FishingSwordfishSmallT3                                                           1 TRUE       CutlassKeys,Everfall,Weavers,Mourning 
-    FishingAbaiaT5                                                                    1 TRUE       Edengrove            
-=======
->>>>>>> PTR
     MediumChest_PVP_Prestige600T5                                                     1 FALSE      Level:59             
     1hThrowingAxe_PVPT4                                                               1 FALSE      Level:39-58          
     1hThrowingAxe_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
     1hThrowingAxe_PVP_NamedT4                                                         1 FALSE      Level:39-58          
-<<<<<<< HEAD
-    FishingMerlionT5                                                                  1 TRUE       GreatCleave          
-=======
->>>>>>> PTR
     MediumHands_PVP_Prestige600T5                                                     1 FALSE      Level:59             
     1hThrowingAxe_PVPT5                                                               1 FALSE      Level:59             
     1hThrowingAxe_PVP_PrestigeT5                                                      1 FALSE      Level:59             
     1hThrowingAxe_PVP_NamedT5                                                         1 FALSE      Level:59             
-<<<<<<< HEAD
-    FishingMishipeshuT5                                                               1 TRUE       Shattered            
-=======
->>>>>>> PTR
     MediumLegs_PVP_Prestige600T5                                                      1 FALSE      Level:59             
     2hWarhammer_PVPT2                                                                 1 FALSE      Level:0-18           
     2hWarhammer_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
     2hWarhammer_PVP_NamedT2                                                           1 FALSE      Level:0-18           
-<<<<<<< HEAD
-    FishingMerrowT5                                                                   1 TRUE       CutlassKeys          
-=======
->>>>>>> PTR
     MediumFeet_PVP_Prestige600T5                                                      1 FALSE      Level:59             
     2hWarhammer_PVPT3                                                                 1 FALSE      Level:19-38          
     2hWarhammer_PVP_PrestigeT3                                                        1 FALSE      Level:19-38          
@@ -23395,10 +22865,6 @@ ExpeditionBoxMateria:
     2hGreatAxe_PVPT3                                                                  1 FALSE      Level:19-38          
     2hGreatAxe_PVP_PrestigeT3                                                         1 FALSE      Level:19-38          
     2hGreatAxe_PVP_NamedT3                                                            1 FALSE      Level:19-38          
-<<<<<<< HEAD
-    FishingAnmisemaT5                                                                 1 TRUE       Brimstone            
-=======
->>>>>>> PTR
     LightFeet_PVP_Prestige600T5                                                       1 FALSE      Level:59             
     2hGreatAxe_PVPT4                                                                  1 FALSE      Level:39-58          
     2hGreatAxe_PVP_PrestigeT4                                                         1 FALSE      Level:39-58          

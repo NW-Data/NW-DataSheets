@@ -18097,19 +18097,11 @@
         "ProgressIdParent": "",
         "UIDisplayCategory": "Territory_Standing",
         "HideFromUI": null,
-<<<<<<< HEAD
-        "Title": "@ui_metachievement_territorystanding_firstlight_title_retract_10",
-        "Description": "@ui_metachievement_territorystanding_generic_desc",
-        "Hidden Text": "",
-        "Notification Verbosity": "OneHundred",
-        "Tier": "@ui_meta_achievements_roman_numeral_ii",
-=======
         "Title": "Getting to Know New People",
         "Description": "Reach a Territory Standing Level of {number}.",
         "Hidden Text": "",
         "Notification Verbosity": "OneHundred",
         "Tier": "II",
->>>>>>> PTR
         "Icon": "lyshineui\\images\\Icons\\Achievements\\TerritoryStanding_FirstLight1.png",
         "Entitlement Id": "",
         "AchievePoints": 0,
@@ -37181,13 +37173,8 @@
         "ProgressIdParent": "",
         "UIDisplayCategory": "Musical_Instruments",
         "HideFromUI": null,
-<<<<<<< HEAD
-        "Title": "@ui_metaachievement_Music_Summer_GuitarHero_title",
-        "Description": "@ui_metaachievement_Music_Summer_GuitarHero_desc",
-=======
         "Title": "Guitar Hero",
         "Description": "Complete the Expert version of YAAAHHHH! with a perfect score.",
->>>>>>> PTR
         "Hidden Text": "",
         "Notification Verbosity": "OneHundred",
         "Tier": "",
@@ -37224,19 +37211,11 @@
         "ProgressIdParent": "",
         "UIDisplayCategory": "Trials",
         "HideFromUI": true,
-<<<<<<< HEAD
-        "Title": "@ui_metaachievement_all_territories_leaderboard_top1_trial_devourer_title",
-        "Description": "@ui_metaachievement_all_territories_leaderboard_top1_trial_devourer_desc",
-        "Hidden Text": "",
-        "Notification Verbosity": "OneHundred",
-        "Tier": "@ui_meta_achievements_roman_numeral_i",
-=======
         "Title": "The Devourer Victor",
         "Description": "Title earned by placing Top 10 on the Devourer Elite Trial Leaderboard.",
         "Hidden Text": "",
         "Notification Verbosity": "OneHundred",
         "Tier": "I",
->>>>>>> PTR
         "Icon": "LyShineUI\\Images\\Entitlements\\NewTitleIcon.png",
         "Entitlement Id": "",
         "AchievePoints": 0,
@@ -37270,19 +37249,11 @@
         "ProgressIdParent": "",
         "UIDisplayCategory": "Trials",
         "HideFromUI": true,
-<<<<<<< HEAD
-        "Title": "@ui_metaachievement_all_territories_leaderboard_top10_trial_devourer_title",
-        "Description": "@ui_metaachievement_all_territories_leaderboard_top10_trial_devourer_desc",
-        "Hidden Text": "",
-        "Notification Verbosity": "OneHundred",
-        "Tier": "@ui_meta_achievements_roman_numeral_ii",
-=======
         "Title": "The Devourer Medalist",
         "Description": "Title earned by placing Top 50 on the Devourer Elite Trial Leaderboard.",
         "Hidden Text": "",
         "Notification Verbosity": "OneHundred",
         "Tier": "II",
->>>>>>> PTR
         "Icon": "LyShineUI\\Images\\Entitlements\\NewTitleIcon.png",
         "Entitlement Id": "",
         "AchievePoints": 0,
@@ -37316,13 +37287,8 @@
         "ProgressIdParent": "",
         "UIDisplayCategory": "Trials",
         "HideFromUI": null,
-<<<<<<< HEAD
-        "Title": "@ui_metachievement_pve_bossKill_trial_sandworm_title",
-        "Description": "@ui_metachievement_pve_bossKill_trial_sandworm_desc",
-=======
         "Title": "Slayer of Shah Neshen",
         "Description": "Defeat Shah Neshen in Brimstone Sands",
->>>>>>> PTR
         "Hidden Text": "",
         "Notification Verbosity": "OneHundred",
         "Tier": "",
@@ -37348,8 +37314,6 @@
         "AttributeType": "",
         "AchievementsID": "",
         "AchievementCategory": ""
-<<<<<<< HEAD
-=======
     },
     {
         "MetaAchievementId": "Leaderboard_EdengroveCompanyScoreTopTier",
@@ -37616,6 +37580,5 @@
         "AttributeType": "",
         "AchievementsID": "",
         "AchievementCategory": ""
->>>>>>> PTR
     }
 ]

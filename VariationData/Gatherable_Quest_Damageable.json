@@ -3080,8 +3080,6 @@
         "Marker_Vertical_Offset": -65
     },
     {
-<<<<<<< HEAD
-=======
         "VariantID": "99D_MSQ_04_MineCarts",
         "Visual_Healthy": "slices\\WorldEvents\\MSQ2_GreatCleave\\99D_MSQ2_MineCart_Healthy.dynamicslice",
         "Visual_Depleted": "slices\\WorldEvents\\MSQ2_GreatCleave\\99D_MSQ2_MineCart_Depleted.dynamicslice",
@@ -3522,7 +3520,6 @@
         "Marker_Vertical_Offset": -65
     },
     {
->>>>>>> PTR
         "VariantID": "95A_S02_RoyalEggDestructible",
         "Visual_Healthy": "slices/SEASONS/SEASON_02/IOs/S02_Royal_egg_AWAKENED.dynamicslice",
         "Visual_Depleted": "slices\\SEASONS\\SEASON_02\\IOs\\S02_Royal_Egg_CRASHED.dynamicslice",
@@ -3601,8 +3598,6 @@
         "Force_Display_Health_Bar": true,
         "Marker_Creature_Type_Override": "DamageableGatherable",
         "Marker_Vertical_Offset": 0
-<<<<<<< HEAD
-=======
     },
     {
         "VariantID": "09A_S1_FloraTrap",
@@ -3923,6 +3918,5 @@
         "Force_Display_Health_Bar": true,
         "Marker_Creature_Type_Override": "DamageableGatherable",
         "Marker_Vertical_Offset": null
->>>>>>> PTR
     }
 ]

@@ -733,15 +733,9 @@
         "AnimDbPath": "Animations/Mannequin/ADB/PlayerMaleAnims_1H_MeleeAttach.adb",
         "GatheringTypes": "Dressing",
         "GatheringMultiplier": 1,
-<<<<<<< HEAD
-        "GatheringEfficiency": 8,
-        "MinGatherEFF": 8,
-        "MaxGatherEFF": 8.5,
-=======
         "GatheringEfficiency": 9,
         "MinGatherEFF": 9,
         "MaxGatherEFF": 11,
->>>>>>> PTR
         "AudioPickup": "Play_Beep1_2D",
         "AudioPlace": "Play_Beep3_2D",
         "Primary Hand": "Main",
@@ -1333,15 +1327,9 @@
         "AnimDbPath": "Animations/Mannequin/ADB/PlayerMaleAnims_1H_MeleeAttach.adb",
         "GatheringTypes": "Cutting",
         "GatheringMultiplier": 1,
-<<<<<<< HEAD
-        "GatheringEfficiency": 8,
-        "MinGatherEFF": 8,
-        "MaxGatherEFF": 8.5,
-=======
         "GatheringEfficiency": 9,
         "MinGatherEFF": 9,
         "MaxGatherEFF": 11,
->>>>>>> PTR
         "AudioPickup": "Play_Beep1_2D",
         "AudioPlace": "Play_Beep3_2D",
         "Primary Hand": "Main",
@@ -1933,15 +1921,9 @@
         "AnimDbPath": "Animations/Mannequin/ADB/PlayerMaleAnims_2H_MeleeAttach.adb",
         "GatheringTypes": "Chopping",
         "GatheringMultiplier": 1,
-<<<<<<< HEAD
-        "GatheringEfficiency": 8,
-        "MinGatherEFF": 8,
-        "MaxGatherEFF": 8.5,
-=======
         "GatheringEfficiency": 9,
         "MinGatherEFF": 9,
         "MaxGatherEFF": 11,
->>>>>>> PTR
         "AudioPickup": "Play_Beep1_2D",
         "AudioPlace": "Play_Beep3_2D",
         "Primary Hand": "Main",
@@ -2632,15 +2614,9 @@
         "AnimDbPath": "Animations/Mannequin/ADB/PlayerMaleAnims_2H_MeleeAttach.adb",
         "GatheringTypes": "Mining",
         "GatheringMultiplier": 1,
-<<<<<<< HEAD
-        "GatheringEfficiency": 8,
-        "MinGatherEFF": 8,
-        "MaxGatherEFF": 8.5,
-=======
         "GatheringEfficiency": 9,
         "MinGatherEFF": 9,
         "MaxGatherEFF": 11,
->>>>>>> PTR
         "AudioPickup": "Play_Beep1_2D",
         "AudioPlace": "Play_Beep3_2D",
         "Primary Hand": "Main",
@@ -5764,8 +5740,6 @@
         "SoundTableID": "1H_Sword",
         "IsShieldCompatible": true,
         "HideMainWeaponMeshWhileSheathed": null
-<<<<<<< HEAD
-=======
     },
     {
         "WeaponID": "FlailT2",
@@ -6162,7 +6136,6 @@
         "SoundTableID": "1H_Flail",
         "IsShieldCompatible": true,
         "HideMainWeaponMeshWhileSheathed": null
->>>>>>> PTR
     },
     {
         "WeaponID": "RapierT2",
@@ -11224,11 +11197,7 @@
         "DamageStatMultiplier": "RifleDamage",
         "WeaponMasteryCategoryId": "BlunderbussAbilityTable",
         "TierNumber": 0,
-<<<<<<< HEAD
-        "BaseDamage": 75,
-=======
         "BaseDamage": 80,
->>>>>>> PTR
         "CritChance": 0.06,
         "CritDamageMultiplier": 1.15,
         "BaseStaggerDamage": 48,
@@ -13618,108 +13587,6 @@
         "AmmoMesh": "",
         "MannequinTag": "",
         "OffHandMannequinTag": "Shield_OH,TowerShield",
-<<<<<<< HEAD
-        "MeshOverride": "Objects/Weapons/Shields/C_Tower/TowerA/wep_shld_towera_proxy.cdf",
-        "SkinOverride1": "",
-        "MaterialOverride1": "",
-        "SkinOverride2": "",
-        "MaterialOverride2": "",
-        "SkinOverride3": "",
-        "MaterialOverride3": "",
-        "SkinOverride4": "",
-        "MaterialOverride4": "",
-        "FireJoint": "",
-        "DamageTableRow": "",
-        "TooltipPrimaryAttackData": "",
-        "TooltipAlternateAttackData": "",
-        "AnimDbPath": "Animations/Mannequin/ADB/PlayerMaleAnims_1H_MeleeAttach.adb",
-        "GatheringTypes": "None",
-        "GatheringMultiplier": 1,
-        "GatheringEfficiency": 0,
-        "MinGatherEFF": null,
-        "MaxGatherEFF": null,
-        "AudioPickup": "Play_Beep1_2D",
-        "AudioPlace": "Play_Beep3_2D",
-        "Primary Hand": "Main",
-        "EquipmentCategories": "",
-        "RequiredStrength": 0,
-        "RequiredDexterity": 0,
-        "RequiredIntelligence": 0,
-        "RequiredFocus": 0,
-        "ScalingStrength": 0.009,
-        "ScalingDexterity": 0.0065,
-        "ScalingIntelligence": 0,
-        "ScalingFocus": 0,
-        "Resistances": "",
-        "Weaknesses": "",
-        "StatBonuses": "",
-        "StatMultipliers": "",
-        "EquipmentCategoryMultiplier": "",
-        "AttackGameEventID": "WeaponHit5",
-        "PhysicalArmorSetScaleFactor": 0.22,
-        "ElementalArmorSetScaleFactor": 0.22,
-        "ArmorRatingScaleFactor": 0.25,
-        "WeightOverride": 110,
-        "BlockStaminaDamage": 46,
-        "BlockStability": 45,
-        "DeflectionRating": 1,
-        "BLAStandard": "1",
-        "BLASiege": 1,
-        "BLAStrike": 1,
-        "BLASlash": 1,
-        "BLAThrust": 1,
-        "BLAArcane": 1,
-        "BLAFire": 1,
-        "BLAIce": 1,
-        "BLANature": 1,
-        "BLALightning": 1,
-        "BLACorruption": 1,
-        "ABAPoison": 0.89,
-        "ABADisease": 0.89,
-        "ABABleed": 0.89,
-        "ABAFrostbite": 0.89,
-        "ABACurse": 0.89,
-        "RangedAttackProfile": "",
-        "AttachedSpellData": "",
-        "Appearance": "",
-        "FemaleAppearance": "",
-        "CanBlockRanged": true,
-        "RangedBlockHealthDamageScaling": 0,
-        "RangedBlockStaminaDamageScaling": 1,
-        "ManaCostId": "SpecialAttack",
-        "WeaponEffectId": "Shield",
-        "BaseAccuracy": 89,
-        "SoundTableID": "1H_ShieldA_metal",
-        "IsShieldCompatible": null,
-        "HideMainWeaponMeshWhileSheathed": null
-    },
-    {
-        "WeaponID": "1hShieldDT5",
-        "BaseWeaponID": "",
-        "DEV Prio": 1,
-        "PrimaryUse": "Combat Melee",
-        "IconPath": "LoggingAxe",
-        "MaxStackSize": 1,
-        "EquipType": "Shield",
-        "DamageStatMultiplier": "",
-        "WeaponMasteryCategoryId": "SwordAbilityTable",
-        "TierNumber": 4,
-        "BaseDamage": 56,
-        "CritChance": 0.07,
-        "CritDamageMultiplier": 1.3,
-        "BaseStaggerDamage": 43,
-        "CritStaggerDamageMultiplier": 1.5,
-        "ReticleName": "melee",
-        "ReticleTargetName": "meleeHaveTarget",
-        "ReticleRayCastDistance": 3,
-        "AmmoType": "",
-        "MaxLoadedAmmo": null,
-        "AutoReloadAmmoSeconds": null,
-        "AmmoMesh": "",
-        "MannequinTag": "",
-        "OffHandMannequinTag": "Shield_OH,TowerShield",
-=======
->>>>>>> PTR
         "MeshOverride": "Objects/Weapons/Shields/C_Tower/TowerA/wep_shld_towera_proxy.cdf",
         "SkinOverride1": "",
         "MaterialOverride1": "",
@@ -15476,8 +15343,6 @@
         "SoundTableID": "1H_Axe",
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
-<<<<<<< HEAD
-=======
     },
     {
         "WeaponID": "1hFlail_Debug_NoCrits",
@@ -15577,7 +15442,6 @@
         "SoundTableID": "1H_Flail",
         "IsShieldCompatible": true,
         "HideMainWeaponMeshWhileSheathed": true
->>>>>>> PTR
     },
     {
         "WeaponID": "1hGreatsword_Debug_NoCrits",
@@ -18746,207 +18610,6 @@
         "SoundTableID": "",
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
-<<<<<<< HEAD
-    },
-    {
-        "WeaponID": "Instrument_Flute_T0",
-        "BaseWeaponID": "",
-        "DEV Prio": 1,
-        "PrimaryUse": "Tool",
-        "IconPath": "LoggingAxe",
-        "MaxStackSize": 1,
-        "EquipType": "RSword_LeftHolster",
-        "DamageStatMultiplier": "",
-        "WeaponMasteryCategoryId": "",
-        "TierNumber": 0,
-        "BaseDamage": 5,
-        "CritChance": 0.03,
-        "CritDamageMultiplier": 1.3,
-        "BaseStaggerDamage": 0,
-        "CritStaggerDamageMultiplier": 1.5,
-        "ReticleName": "melee",
-        "ReticleTargetName": "meleeHaveTarget",
-        "ReticleRayCastDistance": 3,
-        "AmmoType": "",
-        "MaxLoadedAmmo": null,
-        "AutoReloadAmmoSeconds": null,
-        "AmmoMesh": "",
-        "MannequinTag": "1H_Melee,Instrument,InstrumentFife",
-        "OffHandMannequinTag": "",
-        "MeshOverride": "Objects/Instruments/Wind/FifeA/jav_inst_fifea_t0.cgf",
-        "SkinOverride1": "",
-        "MaterialOverride1": "Objects/Instruments/Wind/FifeA/jav_inst_FifeA_mat.mtl",
-        "SkinOverride2": "",
-        "MaterialOverride2": "",
-        "SkinOverride3": "",
-        "MaterialOverride3": "",
-        "SkinOverride4": "",
-        "MaterialOverride4": "",
-        "FireJoint": "",
-        "DamageTableRow": "",
-        "TooltipPrimaryAttackData": "",
-        "TooltipAlternateAttackData": "",
-        "AnimDbPath": "Animations/Mannequin/ADB/PlayerMaleAnims_1H_MeleeAttach.adb",
-        "GatheringTypes": "None",
-        "GatheringMultiplier": 1,
-        "GatheringEfficiency": 0,
-        "MinGatherEFF": null,
-        "MaxGatherEFF": null,
-        "AudioPickup": "Play_Beep1_2D",
-        "AudioPlace": "Play_Beep3_2D",
-        "Primary Hand": "Main",
-        "EquipmentCategories": "",
-        "RequiredStrength": 0,
-        "RequiredDexterity": 0,
-        "RequiredIntelligence": 0,
-        "RequiredFocus": 0,
-        "ScalingStrength": 0,
-        "ScalingDexterity": 0,
-        "ScalingIntelligence": 0,
-        "ScalingFocus": 0,
-        "Resistances": "",
-        "Weaknesses": "",
-        "StatBonuses": "",
-        "StatMultipliers": "",
-        "EquipmentCategoryMultiplier": "",
-        "AttackGameEventID": "WeaponHit1",
-        "PhysicalArmorSetScaleFactor": null,
-        "ElementalArmorSetScaleFactor": null,
-        "ArmorRatingScaleFactor": null,
-        "WeightOverride": null,
-        "BlockStaminaDamage": 0,
-        "BlockStability": 100,
-        "DeflectionRating": 0,
-        "BLAStandard": "",
-        "BLASiege": null,
-        "BLAStrike": null,
-        "BLASlash": null,
-        "BLAThrust": null,
-        "BLAArcane": null,
-        "BLAFire": null,
-        "BLAIce": null,
-        "BLANature": null,
-        "BLALightning": null,
-        "BLACorruption": null,
-        "ABAPoison": null,
-        "ABADisease": null,
-        "ABABleed": null,
-        "ABAFrostbite": null,
-        "ABACurse": null,
-        "RangedAttackProfile": "",
-        "AttachedSpellData": "",
-        "Appearance": "",
-        "FemaleAppearance": "",
-        "CanBlockRanged": null,
-        "RangedBlockHealthDamageScaling": null,
-        "RangedBlockStaminaDamageScaling": null,
-        "ManaCostId": "",
-        "WeaponEffectId": "",
-        "BaseAccuracy": 89,
-        "SoundTableID": "",
-        "IsShieldCompatible": null,
-        "HideMainWeaponMeshWhileSheathed": null
-    },
-    {
-        "WeaponID": "Instrument_Drum_T0",
-        "BaseWeaponID": "",
-        "DEV Prio": 1,
-        "PrimaryUse": "Tool",
-        "IconPath": "LoggingAxe",
-        "MaxStackSize": 1,
-        "EquipType": "Drum",
-        "DamageStatMultiplier": "",
-        "WeaponMasteryCategoryId": "",
-        "TierNumber": 0,
-        "BaseDamage": 5,
-        "CritChance": 0.03,
-        "CritDamageMultiplier": 1.3,
-        "BaseStaggerDamage": 0,
-        "CritStaggerDamageMultiplier": 1.5,
-        "ReticleName": "melee",
-        "ReticleTargetName": "meleeHaveTarget",
-        "ReticleRayCastDistance": 3,
-        "AmmoType": "",
-        "MaxLoadedAmmo": null,
-        "AutoReloadAmmoSeconds": null,
-        "AmmoMesh": "",
-        "MannequinTag": "1H_Melee,Instrument,InstrumentSnare",
-        "OffHandMannequinTag": "",
-        "MeshOverride": "Objects/Instruments/Percussion/FieldDrumA/jav_inst_fielddruma_t0.cgf",
-        "SkinOverride1": "",
-        "MaterialOverride1": "Objects/Instruments/Percussion/FieldDrumA/jav_inst_FieldDrumA_mat.mtl",
-        "SkinOverride2": "",
-        "MaterialOverride2": "",
-        "SkinOverride3": "",
-        "MaterialOverride3": "",
-        "SkinOverride4": "",
-        "MaterialOverride4": "",
-        "FireJoint": "",
-        "DamageTableRow": "",
-        "TooltipPrimaryAttackData": "",
-        "TooltipAlternateAttackData": "",
-        "AnimDbPath": "Animations/Mannequin/ADB/PlayerMaleAnims_1H_MeleeAttach.adb",
-        "GatheringTypes": "None",
-        "GatheringMultiplier": 1,
-        "GatheringEfficiency": 0,
-        "MinGatherEFF": null,
-        "MaxGatherEFF": null,
-        "AudioPickup": "Play_Beep1_2D",
-        "AudioPlace": "Play_Beep3_2D",
-        "Primary Hand": "Main",
-        "EquipmentCategories": "",
-        "RequiredStrength": 0,
-        "RequiredDexterity": 0,
-        "RequiredIntelligence": 0,
-        "RequiredFocus": 0,
-        "ScalingStrength": 0,
-        "ScalingDexterity": 0,
-        "ScalingIntelligence": 0,
-        "ScalingFocus": 0,
-        "Resistances": "",
-        "Weaknesses": "",
-        "StatBonuses": "",
-        "StatMultipliers": "",
-        "EquipmentCategoryMultiplier": "",
-        "AttackGameEventID": "WeaponHit1",
-        "PhysicalArmorSetScaleFactor": null,
-        "ElementalArmorSetScaleFactor": null,
-        "ArmorRatingScaleFactor": null,
-        "WeightOverride": null,
-        "BlockStaminaDamage": 0,
-        "BlockStability": 100,
-        "DeflectionRating": 0,
-        "BLAStandard": "",
-        "BLASiege": null,
-        "BLAStrike": null,
-        "BLASlash": null,
-        "BLAThrust": null,
-        "BLAArcane": null,
-        "BLAFire": null,
-        "BLAIce": null,
-        "BLANature": null,
-        "BLALightning": null,
-        "BLACorruption": null,
-        "ABAPoison": null,
-        "ABADisease": null,
-        "ABABleed": null,
-        "ABAFrostbite": null,
-        "ABACurse": null,
-        "RangedAttackProfile": "",
-        "AttachedSpellData": "",
-        "Appearance": "",
-        "FemaleAppearance": "",
-        "CanBlockRanged": null,
-        "RangedBlockHealthDamageScaling": null,
-        "RangedBlockStaminaDamageScaling": null,
-        "ManaCostId": "",
-        "WeaponEffectId": "",
-        "BaseAccuracy": 89,
-        "SoundTableID": "",
-        "IsShieldCompatible": null,
-        "HideMainWeaponMeshWhileSheathed": null
-=======
->>>>>>> PTR
     },
     {
         "WeaponID": "KeyBronze",
@@ -21628,11 +21291,7 @@
         "PrimaryUse": "Combat Melee",
         "IconPath": "LoggingAxe",
         "MaxStackSize": 1,
-<<<<<<< HEAD
-        "EquipType": "AlwaysUnsheathed_RHand",
-=======
         "EquipType": "RSword_LeftHolster",
->>>>>>> PTR
         "DamageStatMultiplier": "OneHandAxeDamage",
         "WeaponMasteryCategoryId": "",
         "TierNumber": 0,
@@ -21710,11 +21369,7 @@
         "ABABleed": null,
         "ABAFrostbite": null,
         "ABACurse": null,
-<<<<<<< HEAD
-        "RangedAttackProfile": "Hatchet",
-=======
         "RangedAttackProfile": "AI_Yonas",
->>>>>>> PTR
         "AttachedSpellData": "",
         "Appearance": "",
         "FemaleAppearance": "",
@@ -21753,11 +21408,7 @@
         "AmmoMesh": "",
         "MannequinTag": "2H_Melee,Axe,Tool",
         "OffHandMannequinTag": "",
-<<<<<<< HEAD
-        "MeshOverride": "Objects\\Weapons\\Melee\\Axes\\2h\\GreatAxeA\\wep_axe2h_greataxea_t5.cdf",
-=======
         "MeshOverride": "objects/weapons/melee/axes/2h/greataxeguardian/wep_axe2h_greataxeguardian_corrupted.cdf",
->>>>>>> PTR
         "SkinOverride1": "",
         "MaterialOverride1": "",
         "SkinOverride2": "",
@@ -21817,11 +21468,7 @@
         "ABABleed": 0.6,
         "ABAFrostbite": 0.6,
         "ABACurse": 0.6,
-<<<<<<< HEAD
-        "RangedAttackProfile": "",
-=======
         "RangedAttackProfile": "AI_Yonas",
->>>>>>> PTR
         "AttachedSpellData": "",
         "Appearance": "",
         "FemaleAppearance": "",
@@ -27500,11 +27147,7 @@
         "AmmoType": "Thrown",
         "MaxLoadedAmmo": null,
         "AutoReloadAmmoSeconds": null,
-<<<<<<< HEAD
-        "AmmoMesh": "objects/weapons/melee/spears/2h/spearAncientJavelineer/wep_me1h_spearAncientJavelineer.cdf",
-=======
         "AmmoMesh": "",
->>>>>>> PTR
         "MannequinTag": "1H_Melee,Spear",
         "OffHandMannequinTag": "",
         "MeshOverride": "objects/weapons/melee/spears/2h/spearAncientJavelineer/wep_me1h_spearAncientJavelineer_lookbase.cdf",
@@ -27679,8 +27322,6 @@
         "SoundTableID": "",
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
-<<<<<<< HEAD
-=======
     },
     {
         "WeaponID": "AnubianGuardian_Weapon_1H_Spear",
@@ -27879,7 +27520,6 @@
         "SoundTableID": "",
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
->>>>>>> PTR
     },
     {
         "WeaponID": "Elk_Corrupted_Weapon",
@@ -37087,8 +36727,6 @@
         "SoundTableID": "",
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
-<<<<<<< HEAD
-=======
     },
     {
         "WeaponID": "Hercyne_Boar_Weapon",
@@ -37386,7 +37024,6 @@
         "SoundTableID": "",
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
->>>>>>> PTR
     },
     {
         "WeaponID": "DryadSiren_Spear",
@@ -40753,8 +40390,6 @@
         "SoundTableID": "",
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
-<<<<<<< HEAD
-=======
     },
     {
         "WeaponID": "Rat_HercyneRat_Weapon",
@@ -40854,7 +40489,6 @@
         "SoundTableID": "",
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
->>>>>>> PTR
     },
     {
         "WeaponID": "Ranger_Sword",
@@ -42538,8 +42172,6 @@
         "SoundTableID": "",
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
-<<<<<<< HEAD
-=======
     },
     {
         "WeaponID": "Mammoth",
@@ -43431,7 +43063,6 @@
         "SoundTableID": "",
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
->>>>>>> PTR
     },
     {
         "WeaponID": "FTUE Items",
@@ -43528,11 +43159,7 @@
         "ManaCostId": "",
         "WeaponEffectId": "",
         "BaseAccuracy": null,
-<<<<<<< HEAD
-        "SoundTableID": "",
-=======
         "SoundTableID": "1H_Sword",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -43631,11 +43258,7 @@
         "ManaCostId": "SpecialAttack",
         "WeaponEffectId": "Sword",
         "BaseAccuracy": 89,
-<<<<<<< HEAD
-        "SoundTableID": "1H_Sword",
-=======
         "SoundTableID": "1H_ShieldA_wood",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -43734,11 +43357,7 @@
         "ManaCostId": "SpecialAttack",
         "WeaponEffectId": "Shield",
         "BaseAccuracy": 89,
-<<<<<<< HEAD
-        "SoundTableID": "1H_ShieldA_wood",
-=======
         "SoundTableID": "",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -44926,11 +44545,7 @@
         "ManaCostId": "SpecialAttack",
         "WeaponEffectId": "FireStaff",
         "BaseAccuracy": 90,
-<<<<<<< HEAD
-        "SoundTableID": "Staff_Fire",
-=======
         "SoundTableID": "1H_Sword",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -45128,11 +44743,7 @@
         "ManaCostId": "SpecialAttack",
         "WeaponEffectId": "Rapier",
         "BaseAccuracy": 89,
-<<<<<<< HEAD
-        "SoundTableID": "1H_Sword",
-=======
         "SoundTableID": "1H_Axe",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -45231,11 +44842,7 @@
         "ManaCostId": "SpecialAttack",
         "WeaponEffectId": "Hatchet",
         "BaseAccuracy": 90,
-<<<<<<< HEAD
-        "SoundTableID": "1H_Axe",
-=======
         "SoundTableID": "2H_WarHammer",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -45334,11 +44941,7 @@
         "ManaCostId": "SpecialAttack",
         "WeaponEffectId": "Warhammer",
         "BaseAccuracy": 89,
-<<<<<<< HEAD
-        "SoundTableID": "2H_WarHammer",
-=======
         "SoundTableID": "2H_GreatAxe",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -45437,11 +45040,7 @@
         "ManaCostId": "SpecialAttack",
         "WeaponEffectId": "GreatAxe",
         "BaseAccuracy": 89,
-<<<<<<< HEAD
-        "SoundTableID": "2H_GreatAxe",
-=======
         "SoundTableID": "2H_Spear",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -45540,11 +45139,7 @@
         "ManaCostId": "SpecialAttack",
         "WeaponEffectId": "Spear",
         "BaseAccuracy": 100,
-<<<<<<< HEAD
-        "SoundTableID": "2H_Spear",
-=======
         "SoundTableID": "2H_Bow",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -45643,11 +45238,7 @@
         "ManaCostId": "",
         "WeaponEffectId": "Bow",
         "BaseAccuracy": 89,
-<<<<<<< HEAD
-        "SoundTableID": "2H_Bow",
-=======
         "SoundTableID": "2H_Rifle",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -45746,11 +45337,7 @@
         "ManaCostId": "",
         "WeaponEffectId": "Musket",
         "BaseAccuracy": 90,
-<<<<<<< HEAD
-        "SoundTableID": "2H_Rifle",
-=======
         "SoundTableID": "Gauntlet_Ice",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -45849,11 +45436,7 @@
         "ManaCostId": "",
         "WeaponEffectId": "IceGauntlet",
         "BaseAccuracy": 90,
-<<<<<<< HEAD
-        "SoundTableID": "Gauntlet_Ice",
-=======
         "SoundTableID": "Gauntlet_Void",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -45952,11 +45535,7 @@
         "ManaCostId": "",
         "WeaponEffectId": "VoidGauntlet",
         "BaseAccuracy": 100,
-<<<<<<< HEAD
-        "SoundTableID": "Gauntlet_Void",
-=======
         "SoundTableID": "Staff_Life",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -46055,11 +45634,7 @@
         "ManaCostId": "SpecialAttack",
         "WeaponEffectId": "LifeStaff",
         "BaseAccuracy": 90,
-<<<<<<< HEAD
-        "SoundTableID": "Staff_Life",
-=======
         "SoundTableID": "1H_ShieldA_metal",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -46158,11 +45733,7 @@
         "ManaCostId": "SpecialAttack",
         "WeaponEffectId": "Shield",
         "BaseAccuracy": 89,
-<<<<<<< HEAD
-        "SoundTableID": "1H_ShieldA_metal",
-=======
         "SoundTableID": "",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -46756,11 +46327,7 @@
         "ManaCostId": "",
         "WeaponEffectId": "AzothStaff",
         "BaseAccuracy": 89,
-<<<<<<< HEAD
-        "SoundTableID": "",
-=======
         "SoundTableID": "2H_Blunderbuss",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -46859,11 +46426,7 @@
         "ManaCostId": "",
         "WeaponEffectId": "Blunderbuss",
         "BaseAccuracy": 90,
-<<<<<<< HEAD
-        "SoundTableID": "2H_Blunderbuss",
-=======
         "SoundTableID": "2H_Greatsword",
->>>>>>> PTR
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
     },
@@ -46962,11 +46525,6 @@
         "ManaCostId": "SpecialAttack",
         "WeaponEffectId": "GreatSword",
         "BaseAccuracy": 89,
-<<<<<<< HEAD
-        "SoundTableID": "2H_Greatsword",
-        "IsShieldCompatible": null,
-        "HideMainWeaponMeshWhileSheathed": null
-=======
         "SoundTableID": "",
         "IsShieldCompatible": null,
         "HideMainWeaponMeshWhileSheathed": null
@@ -47069,6 +46627,5 @@
         "SoundTableID": "1H_Flail",
         "IsShieldCompatible": true,
         "HideMainWeaponMeshWhileSheathed": null
->>>>>>> PTR
     }
 ]

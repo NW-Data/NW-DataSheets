@@ -826,8 +826,6 @@
         "Description": "@ui_seasons_task_placeholder_desc"
     },
     {
-<<<<<<< HEAD
-=======
         "SeasonsTaskID": "Craft5T5Weapon",
         "SeasonsTrackedStatID": "CraftT5Weapon",
         "TaskMaxValue": 3,
@@ -842,7 +840,6 @@
         "Description": "@ui_seasons_task_placeholder_desc"
     },
     {
->>>>>>> PTR
         "SeasonsTaskID": "DealOrHeal50000InArena3v3",
         "SeasonsTrackedStatID": "DamageOrHealInArena3v3",
         "TaskMaxValue": 50000,
@@ -1000,793 +997,463 @@
         "SeasonsTaskID": "S2_CollectGlyph_1",
         "SeasonsTrackedStatID": "UnlockBrimstoneGlyphAchievement",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CollectGlyph_1",
-        "Description": "@ui_seasons_task_description_CollectGlyphSingle"
-=======
         "Name": "Glyph Scholar I",
         "Description": "Visit and collect {maxCount} Glyph in Brimstone Sands"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CraftGoldenScarab_1",
         "SeasonsTrackedStatID": "CraftUsingGoldenScarab",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CraftGoldenScarab_1",
-        "Description": "@ui_seasons_task_description_CraftGoldenScarabSingle"
-=======
         "Name": "Scarab Smith I",
         "Description": "Craft an item with a Golden Scarab"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteEnnead",
         "SeasonsTrackedStatID": "CompleteExpedition_TheEnnead",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteEnnead",
-        "Description": "@ui_seasons_task_description_CompleteEnnead"
-=======
         "Name": "The Ennead",
         "Description": "Complete the Ennead Expedition"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_SongCallOfTheAncientsExpert",
         "SeasonsTrackedStatID": "CompleteSongCallOfTheAncientsWithExpertRating",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_SongCallOfTheAncientsExpert",
-        "Description": "@ui_seasons_task_description_SongCallOfTheAncientsExpert"
-=======
         "Name": "Call of the Ancients",
         "Description": "Play the song Call of the Ancients with a 4 star rating"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_WinArenaMatches_1",
         "SeasonsTrackedStatID": "WinArena3x3",
         "TaskMaxValue": 5,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_WinArenaMatches_1",
-        "Description": "@ui_seasons_task_WinPvPMatches_desc"
-=======
         "Name": "Gladiator I",
         "Description": "Win {maxCount} PvP Arena matches"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CaptureFactionControlPoints_1",
         "SeasonsTrackedStatID": "CaptureFCP",
         "TaskMaxValue": 2,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CaptureFactionControlPoints_1",
-        "Description": "@ui_seasons_task_description_CaptureFactionControlPoints"
-=======
         "Name": "Control Point Conquest I",
         "Description": "Capture {maxCount} Faction Control Points"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteTownProjects_1",
         "SeasonsTrackedStatID": "CompleteTownProject",
         "TaskMaxValue": 10,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteTownProjects_1",
-        "Description": "@ui_seasons_task_description_CompleteTownProjects"
-=======
         "Name": "Project Progenitor I",
         "Description": "Complete {maxCount} Town Projects"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_KillAnubianGuardians",
         "SeasonsTrackedStatID": "KillAnubianGuardian",
         "TaskMaxValue": 10,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_KillAnubianGuardians_1",
-        "Description": "@ui_seasons_task_description_KillAnubianGuardians"
-=======
         "Name": "Anubian Annihilation",
         "Description": "Kill {maxCount} Anubian Guardians"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CloseBreaches_1",
         "SeasonsTrackedStatID": "GameEvent_Breach",
         "TaskMaxValue": 5,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CloseBreaches_1",
-        "Description": "@ui_seasons_task_description_CloseBreaches"
-=======
         "Name": "Breach Bustin' I",
         "Description": "Close {maxCount} Corrupted Breaches"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteQuest_WordOfAThief",
         "SeasonsTrackedStatID": "CompleteQuest_WordOfAThief",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteQuest_WordOfAThief",
-        "Description": "@ui_seasons_task_descriptionCompleteQuest_WordOfAThief"
-=======
         "Name": "Word of a Thief",
         "Description": "Complete the Quest: Word of a Thief"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CollectGlyph_2",
         "SeasonsTrackedStatID": "UnlockBrimstoneGlyphAchievement",
         "TaskMaxValue": 5,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CollectGlyph_2",
-        "Description": "@ui_seasons_task_description_CollectGlyph"
-=======
         "Name": "Glyph Scholar II",
         "Description": "Visit and collect {maxCount} Glyphs in Brimstone Sands"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_SongsExpertWithFullBand",
         "SeasonsTrackedStatID": "CompleteSongOnExpert",
         "TaskMaxValue": 5,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_SongsExpertWithFullBand_1",
-        "Description": "@ui_seasons_task_description_SongsExpertWithFullBand"
-=======
         "Name": "Mastering the Music",
         "Description": "Play {maxCount} songs on Expert difficulty"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteFactionMissions_1",
         "SeasonsTrackedStatID": "CompleteFactionMission",
         "TaskMaxValue": 12,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteFactionMissions_1",
-        "Description": "@ui_seasons_task_description_CompleteFactionMissions"
-=======
         "Name": "Faction Fanatic I",
         "Description": "Complete {maxCount} Faction Missions"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteActivityCards_1",
         "SeasonsTrackedStatID": "CompleteActivityCard",
         "TaskMaxValue": 3,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteActivityCards_1",
-        "Description": "@ui_seasons_task_description_CompleteActivityCards"
-=======
         "Name": "Seasoned Adventurer I",
         "Description": "Complete {maxCount} Activity Cards"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteM1Ennead",
         "SeasonsTrackedStatID": "CompleteM1Expedition_TheEnnead",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteEnneadM1",
-        "Description": "@ui_seasons_task_description_CompleteEnneadM1"
-=======
         "Name": "Ennead Expert I",
         "Description": "Complete Mutation 1 Ennead"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CatchBrimstoneLegendaryFish",
         "SeasonsTrackedStatID": "CatchBrimstoneLegendaryFish",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CatchBrimstoneLegendaryFish",
-        "Description": "@ui_seasons_task_description_CatchBrimstoneLegendaryFish"
-=======
         "Name": "Desert Angler",
         "Description": "Catch the Brimstone Sands Legendary fish"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_WinArenaMatches_2",
         "SeasonsTrackedStatID": "WinArena3x3",
         "TaskMaxValue": 10,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_WinArenaMatches_2",
-        "Description": "@ui_seasons_task_WinPvPMatches_desc"
-=======
         "Name": "Gladiator II",
         "Description": "Win {maxCount} PvP Arena matches"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_PlayOutpostRush_1",
         "SeasonsTrackedStatID": "PlayOutpostRush",
         "TaskMaxValue": 3,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_PlayOutpostRush_1",
-        "Description": "@ui_seasons_task_description_PlayOutpostRush"
-=======
         "Name": "Rush Rumble I",
         "Description": "Participate in {maxCount} Outpost Rush matches"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CloseBreaches_2",
         "SeasonsTrackedStatID": "GameEvent_MajorBreach",
         "TaskMaxValue": 5,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CloseBreaches_2",
-        "Description": "@ui_seasons_task_description_CloseMajorBreaches"
-=======
         "Name": "Breach Bustin' II",
         "Description": "Close {maxCount} Major Corrupted Breaches"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteQuest_SecondThoughts",
         "SeasonsTrackedStatID": "CompleteQuest_SecondThoughts",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteQuest_SecondThoughts",
-        "Description": "@ui_seasons_task_description_CompleteQuest_SecondThoughts"
-=======
         "Name": "Second Thoughts",
         "Description": "Complete the Quest: Second Thoughts"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_LocateBrimstoneLostEasel",
         "SeasonsTrackedStatID": "LocateBrimstoneLostEasel",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_LootBrimstoneEasel",
-        "Description": "@ui_seasons_task_description_LootBrimstoneEasel"
-=======
         "Name": "Sights of Brimstone",
         "Description": "Visit one of the Brimstone Sands Lost Easels"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CollectGlyph_3",
         "SeasonsTrackedStatID": "UnlockBrimstoneGlyphAchievement",
         "TaskMaxValue": 10,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CollectGlyph_3",
-        "Description": "@ui_seasons_task_description_CollectGlyph"
-=======
         "Name": "Glyph Scholar III",
         "Description": "Visit and collect {maxCount} Glyphs in Brimstone Sands"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_DefeatSolariumKhepri",
         "SeasonsTrackedStatID": "KillKhepri",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_DefeatSolariumKhepri",
-        "Description": "@ui_seasons_task_description_DefeatSolariumKhepri"
-=======
         "Name": "Solarium Scarab Slayer",
         "Description": "Defeat Dawn's Chariot Khepri in the Solarium"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteTownProjects_2",
         "SeasonsTrackedStatID": "CompleteTownProject",
         "TaskMaxValue": 25,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteTownProjects_2",
-        "Description": "@ui_seasons_task_description_CompleteTownProjects"
-=======
         "Name": "Project Progenitor II",
         "Description": "Complete {maxCount} Town Projects"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteActivityCards_2",
         "SeasonsTrackedStatID": "CompleteActivityCard",
         "TaskMaxValue": 10,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteActivityCards_1",
-        "Description": "@ui_seasons_task_description_CompleteActivityCards"
-=======
         "Name": "Seasoned Adventurer I",
         "Description": "Complete {maxCount} Activity Cards"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteSeasonalChallenge_1",
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 2,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteSeasonalChallenge_1",
-        "Description": "@ui_seasons_task_descripion_CompleteSeasonalChallenge"
-=======
         "Name": "Conquered the Challenge I",
         "Description": "Complete {maxCount} Seasonal Challenge"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_KillDunewalkers",
         "SeasonsTrackedStatID": "KillDunewalker",
         "TaskMaxValue": 100,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_KillDunewalkers_1",
-        "Description": "@ui_seasons_task_description_KillDunewalkers"
-=======
         "Name": "Demise of the Dunewalkers I",
         "Description": "Kill {maxCount} Dunewalkers"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_KillPlayerOpenWorld_1",
         "SeasonsTrackedStatID": "KillPlayerInOpenWorld",
         "TaskMaxValue": 25,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_KillPlayerOpenWorld_1",
-        "Description": "@ui_seasons_task_description_KillPlayerOpenWorld"
-=======
         "Name": "Open World Menace",
         "Description": "Kill {maxCount} Players for Azoth Salt in the Open World"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CraftGypsumOrbs_1",
         "SeasonsTrackedStatID": "CraftGypsumOrb",
         "TaskMaxValue": 25,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CraftGypsumOrbs_1",
-        "Description": "@ui_seasons_task_description_CraftGypsumOrbs"
-=======
         "Name": "Gypsum Orb Enthusiast",
         "Description": "Craft {maxCount} Gypsum Orbs"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteQuest_TheOrdealOfTheNineGates",
         "SeasonsTrackedStatID": "CompleteQuest_TheOrdealOfTheNineGates",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteQuest_TheOrdealOfTheNineGates",
-        "Description": "@ui_seasons_task_description_CompleteQuest_TheOrdealOfTheNineGates"
-=======
         "Name": "The Ordeal of the Nine Gates",
         "Description": "Complete the Quest: The Ordeal of the Nine Gates"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteQuest_PrecariousPosition",
         "SeasonsTrackedStatID": "CompleteQuest_PrecariousPosition",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteQuest_PrecariousPosition",
-        "Description": "@ui_seasons_task_description_CompleteQuest_PrecariousPosition"
-=======
         "Name": "Precarious Position",
         "Description": "Complete the Quest: Precarious Position"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CollectGlyph_4",
         "SeasonsTrackedStatID": "UnlockBrimstoneGlyphAchievement",
         "TaskMaxValue": 15,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CollectGlyph_4",
-        "Description": "@ui_seasons_task_description_CollectGlyph"
-=======
         "Name": "Glyph Scholar IV",
         "Description": "Visit and collect {maxCount} Glyphs in Brimstone Sands"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteTrialHatchery",
         "SeasonsTrackedStatID": "DefeatHatcheryTrial",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteTrialHatchery",
-        "Description": "@ui_seasons_task_description_CompleteTrialHatchery"
-=======
         "Name": "The Hatchery",
         "Description": "Complete the Hatchery Trial"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CraftGoldenScarab_2",
         "SeasonsTrackedStatID": "CraftUsingGoldenScarab",
         "TaskMaxValue": 10,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CraftGoldenScarab_2",
-        "Description": "@ui_seasons_task_description_CraftGoldenScarab"
-=======
         "Name": "Scarab Smith II",
         "Description": "Craft {maxCount} items with a Golden Scarab"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_KillSulfurElemental",
         "SeasonsTrackedStatID": "KillSulfurElemental",
         "TaskMaxValue": 100,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_KillSulfurElementals_1",
-        "Description": "@ui_seasons_task_description_KillSulfurElementals"
-=======
         "Name": "Brimstone Elementalist",
         "Description": "Kill {maxCount} Sulfur Elementals"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_KillRafflebones",
         "SeasonsTrackedStatID": "KillRafflebones",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_KillRafflebones_1",
-        "Description": "@ui_seasons_task_description_KillRafflebonesSingle"
-=======
         "Name": "Lucky Bones",
         "Description": "Kill Rafflebones"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_LootEliteSulfurChests_1",
         "SeasonsTrackedStatID": "LootSulfurChest",
         "TaskMaxValue": 25,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_LootEliteSulfurChests_1",
-        "Description": "@ui_seasons_task_description_LootEliteSulfurChests"
-=======
         "Name": "Sulfuric Spoils I",
         "Description": "Loot {maxCount} Elite Chests in Sulfur Pools"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteStory_BrimstoneSands",
         "SeasonsTrackedStatID": "CompleteQuest_TheWildHuntress",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteStory_BrimstoneSands",
-        "Description": "@ui_seasons_task_description_CompleteStory_BrimstoneSands"
-=======
         "Name": "Savior of the Sands",
         "Description": "Complete the Brimstone Sands Main Story"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CaptureFactionControlPoints_2",
         "SeasonsTrackedStatID": "CaptureFCP",
         "TaskMaxValue": 8,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CaptureFactionControlPoints_2",
-        "Description": "@ui_seasons_task_description_CaptureFactionControlPoints"
-=======
         "Name": "Control Point Conquest II",
         "Description": "Capture {maxCount} Faction Control Points"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_PlayOutpostRush_2",
         "SeasonsTrackedStatID": "PlayOutpostRush",
         "TaskMaxValue": 10,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_PlayOutpostRush_2",
-        "Description": "@ui_seasons_task_description_PlayOutpostRush"
-=======
         "Name": "Rush Rumble II",
         "Description": "Participate in {maxCount} Outpost Rush matches"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteQuest_EmptyNest",
         "SeasonsTrackedStatID": "CompleteQuest_EmptyNest",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteQuest_EmptyNest",
-        "Description": "@ui_seasons_task_description_CompleteQuest_EmptyNest"
-=======
         "Name": "Empty Nest",
         "Description": "Complete the Quest: Empty Nest"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_GatherPrismabloom_15",
         "SeasonsTrackedStatID": "GatherPrismabloom",
         "TaskMaxValue": 15,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_GatherPrismabloom_15",
-        "Description": "@ui_seasons_task_description_GatherPrismabloom_15"
-=======
         "Name": "Passion for Prismablooms",
         "Description": "Gather {maxCount} Desert Rose Prismablooms."
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_KillHeka",
         "SeasonsTrackedStatID": "KillHeka",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_KillHeka",
-        "Description": "@ui_seasons_task_description_KillHeka"
-=======
         "Name": "To Heck with Heka",
         "Description": "Slay Heka of the Crossroads"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteTrialSandworm",
         "SeasonsTrackedStatID": "DefeatWurmBoss",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteTrialSandworm",
-        "Description": "@ui_seasons_task_description_CompleteTrialSandworm"
-=======
         "Name": "The Sandworm",
         "Description": "Complete the Sandworm Trial"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteM10Ennead",
         "SeasonsTrackedStatID": "CompleteM10Expedition_TheEnnead",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteEnneadM10",
-        "Description": "@ui_seasons_task_description_CompleteEnneadM10"
-=======
         "Name": "Ennead Expert II",
         "Description": "Complete Mutation 10 Ennead"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CollectGlyph_5",
         "SeasonsTrackedStatID": "UnlockBrimstoneGlyphAchievement",
         "TaskMaxValue": 26,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CollectGlyph_5",
-        "Description": "@ui_seasons_task_description_CollectGlyph"
-=======
         "Name": "Glyph Scholar V",
         "Description": "Visit and collect {maxCount} Glyphs in Brimstone Sands"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_LootEliteSulfurChests_2",
         "SeasonsTrackedStatID": "LootSulfurChest",
         "TaskMaxValue": 50,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_LootEliteSulfurChests_2",
-        "Description": "@ui_seasons_task_description_LootEliteSulfurChests"
-=======
         "Name": "Sulfuric Spoils II",
         "Description": "Loot {maxCount} Elite Chests in Sulfur Pools"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CraftRuneglass",
         "SeasonsTrackedStatID": "CraftRuneglass",
         "TaskMaxValue": 30,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CraftRuneglass",
-        "Description": "@ui_seasons_task_description_CraftRuneglass"
-=======
         "Name": "Glassblower",
         "Description": "Craft {maxCount} Runeglass Gems"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteFactionMissions_2",
         "SeasonsTrackedStatID": "CompleteFactionMission",
         "TaskMaxValue": 25,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteFactionMissions_2",
-        "Description": "@ui_seasons_task_description_CompleteFactionMissions"
-=======
         "Name": "Faction Fanatic II",
         "Description": "Complete {maxCount} Faction Missions"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CatchLbsOfFish",
         "SeasonsTrackedStatID": "CatchPoundageOfFish",
         "TaskMaxValue": 100000,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CatchLbsOfFish_1",
-        "Description": "@ui_seasons_task_description_CatchLbsOfFish"
-=======
         "Name": "Half-Ton Hauler",
         "Description": "Catch {maxCount/100} pounds of Fish"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_KillNamedBrimstone",
         "SeasonsTrackedStatID": "KillNamedBrimstone",
         "TaskMaxValue": 30,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_KillNamedBrimstone",
-        "Description": "@ui_seasons_task_description_KillNamedBrimstone"
-=======
         "Name": "Brimstone Butcher",
         "Description": "Kill {maxCount} Named enemies in Brimstone Sands"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_PvPXP",
         "SeasonsTrackedStatID": "CategoricalProgressionPvPXPAnyReason",
         "TaskMaxValue": 30000,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_PvPXP",
-        "Description": "@ui_seasons_task_description_PvPXP"
-=======
         "Name": "Adept Adversary",
         "Description": "Earn {maxCount} PvP XP"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CompleteQuest_Rememberance",
         "SeasonsTrackedStatID": "CompleteQuest_Rememberance",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CompleteQuest_Rememberance",
-        "Description": "@ui_seasons_task_description_CompleteQuest_Rememberance"
-=======
         "Name": "Rememberance",
         "Description": "Complete the Quest: Rememberance"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_CloseBreaches_3",
         "SeasonsTrackedStatID": "GameEvent_Breach",
         "TaskMaxValue": 30,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_CloseBreaches_3",
-        "Description": "@ui_seasons_task_description_CloseBreaches"
-=======
         "Name": "Breach Bustin' III",
         "Description": "Close {maxCount} Corrupted Breaches"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_KillStubbles",
         "SeasonsTrackedStatID": "KillStubbles",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_KillStubbles",
-        "Description": "@ui_seasons_task_description_KillStubbles"
-=======
         "Name": "Long Live the King",
         "Description": "Slay the menace Stubbles the Goat-King"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_KillDunewalkers_2",
         "SeasonsTrackedStatID": "KillDunewalker",
         "TaskMaxValue": 500,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_KillDunewalkers_2",
-        "Description": "@ui_seasons_task_description_KillDunewalkers"
-=======
         "Name": "Demise of the Dunewalkers II",
         "Description": "Kill {maxCount} Dunewalkers"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_Challenge_CompleteTrialSandwormFlawless",
         "SeasonsTrackedStatID": "DefeatWurmBoss",
         "TaskMaxValue": 3,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_Challenge_CompleteTrialSandwormFlawless",
-        "Description": "@ui_seasons_task_description_Challenge_CompleteTrialSandwormFlawless"
-=======
         "Name": "Defy the Devourer",
         "Description": "Complete the Sandworm Trial {maxCount} times"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_Challenge_CompleteTrialHatchery10Minutes",
         "SeasonsTrackedStatID": "DefeatHatcheryTrial",
         "TaskMaxValue": 10,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_Challenge_CompleteTrialHatchery10Minutes",
-        "Description": "@ui_seasons_task_description_Challenge_CompleteTrialHatchery10Minutes"
-=======
         "Name": "Hasty Hatcher",
         "Description": "Complete the Hatchery Trial {maxCount} times"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_Challenge_CompleteM10ExpeditionsFlawless",
         "SeasonsTrackedStatID": "CompleteM10ExpeditionFlawlessly",
         "TaskMaxValue": 5,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_Challenge_CompleteM10ExpeditionsFlawless",
-        "Description": "@ui_seasons_task_description_Challenge_CompleteM10ExpeditionsFlawless"
-=======
         "Name": "Mutation God",
         "Description": "Complete {maxCount} Mutation 10 Expeditions Flawlessly"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_Challenge_KillRafflebones",
         "SeasonsTrackedStatID": "KillRafflebones",
         "TaskMaxValue": 3,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_Challenge_KillRafflebones",
-        "Description": "@ui_seasons_task_description_KillRafflebones"
-=======
         "Name": "Bones of Fortune",
         "Description": "Kill Rafflebones {maxCount} times"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_Challenge_CompleteStory_BloodOfTheSands",
         "SeasonsTrackedStatID": "CompleteQuest_Rememberance",
         "TaskMaxValue": 1,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_Challenge_CompleteStory_BloodOfTheSands",
-        "Description": "@ui_seasons_task_description_Challenge_CompleteStory_BloodOfTheSands"
-=======
         "Name": "Friend of the Sands",
         "Description": "Complete the Blood of the Sands Seasonal Story"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_Challenge_PlayerKillingBlows",
         "SeasonsTrackedStatID": "KillingBlowPlayer",
         "TaskMaxValue": 300,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_Challenge_PlayerKillingBlows",
-        "Description": "@ui_seasons_task_description_Challenge_PlayerKillingBlows"
-=======
         "Name": "Blood God",
         "Description": "Get {maxCount} Killing Blows on Players"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_Challenge_WinArenaMatchesNewMap",
         "SeasonsTrackedStatID": "WinArena3x3Map2",
         "TaskMaxValue": 50,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_Challenge_WinArenaMatchesNewMap",
-        "Description": "@ui_seasons_task_description_Challenge_WinArenaMatchesNewMap"
-=======
         "Name": "Dune Arena Champion",
         "Description": "Win {maxCount} Arena matches on the new map"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_Challenge_CompleteActivityCards",
         "SeasonsTrackedStatID": "CompleteActivityCard",
         "TaskMaxValue": 100,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_Challenge_CompleteActivityCards",
-        "Description": "@ui_seasons_task_description_CompleteActivityCards"
-=======
         "Name": "Stamp Collector",
         "Description": "Complete {maxCount} Activity Cards"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_Challenge_FishingAptitudeLevels",
         "SeasonsTrackedStatID": "CategoricalProgressionFishingPostCap",
         "TaskMaxValue": 10,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_Challenge_FishingAptitudeLevels",
-        "Description": "@ui_seasons_task_description_Challenge_FishingAptitudeLevels"
-=======
         "Name": "Bloodfisher",
         "Description": "Earn {maxCount} Fishing Aptitude Levels"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "S2_Challenge_CraftItemsGoldenScarabs",
         "SeasonsTrackedStatID": "CraftUsingGoldenScarab",
         "TaskMaxValue": 50,
-<<<<<<< HEAD
-        "Name": "@ui_seasons_task_name_Challenge_CraftItemsGoldenScarabs",
-        "Description": "@ui_seasons_task_description_CraftGoldenScarab"
-=======
         "Name": "Golden Artisan",
         "Description": "Craft {maxCount} items with a Golden Scarab"
->>>>>>> PTR
     },
     {
         "SeasonsTaskID": "Kill3Players",
@@ -2000,11 +1667,7 @@
     },
     {
         "SeasonsTaskID": "Gather3AeternumSturgeon",
-<<<<<<< HEAD
-        "SeasonsTrackedStatID": "Gather3AeternumSturgeon",
-=======
         "SeasonsTrackedStatID": "CatchAeternumSturgeon",
->>>>>>> PTR
         "TaskMaxValue": 3,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
@@ -2078,8 +1741,6 @@
         "TaskMaxValue": 100,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
-<<<<<<< HEAD
-=======
     },
     {
         "SeasonsTaskID": "S3_Level65",
@@ -2598,6 +2259,5 @@
         "TaskMaxValue": 1,
         "Name": "@ui_seasons_task_placeholder_name",
         "Description": "@ui_seasons_task_placeholder_desc"
->>>>>>> PTR
     }
 ]

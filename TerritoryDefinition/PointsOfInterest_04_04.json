@@ -1086,11 +1086,7 @@
     },
     {
         "TerritoryID": 40432,
-<<<<<<< HEAD
-        "NameLocalizationKey": "@ui_poi_wolf_cave_40432",
-=======
         "NameLocalizationKey": "Fera Antrum",
->>>>>>> PTR
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1118,21 +1114,14 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
         "GroupSize": null,
-<<<<<<< HEAD
-=======
         "IsCollapsible": null,
->>>>>>> PTR
         "RecommendedLevel": null,
         "UnchartedIcon": "",
         "EventId": ""
     },
     {
         "TerritoryID": 40433,
-<<<<<<< HEAD
-        "NameLocalizationKey": "@ui_poi_wolf_cave_40433",
-=======
         "NameLocalizationKey": "Bonemarrow Crawl",
->>>>>>> PTR
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -1160,11 +1149,6 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GameMode": "",
         "GroupSize": null,
-<<<<<<< HEAD
-        "RecommendedLevel": null,
-        "UnchartedIcon": "",
-        "EventId": ""
-=======
         "IsCollapsible": null,
         "RecommendedLevel": null,
         "UnchartedIcon": "",
@@ -1204,6 +1188,5 @@
         "RecommendedLevel": null,
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "EventId": ""
->>>>>>> PTR
     }
 ]

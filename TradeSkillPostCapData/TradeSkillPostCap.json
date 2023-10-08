@@ -691,47 +691,6 @@
         "SubRewardPerc7": "",
         "SubRewardPerc8": "",
         "SubRewardPerc9": "",
-<<<<<<< HEAD
-        "SubReward1": "RewardPostCapInstrumentsT1",
-        "SubReward2": "RewardPostCapInstrumentsT2",
-        "SubReward3": "",
-        "SubReward4": "",
-        "SubReward5": "",
-        "SubReward6": "",
-        "SubReward7": "",
-        "SubReward8": "",
-        "SubReward9": "",
-        "Reward": "RewardPostCapInstrumentsT3",
-        "GameEvent1": "GypsumGreenEvent",
-        "GameEvent2": "GypsumGreenEvent",
-        "GameEvent": "GypsumGreenEvent"
-    },
-    {
-        "TradeSkillType": "Riding_PostCap",
-        "TradeSkillRewardXP": 3000,
-        "SubRewardPerc1": 0.33,
-        "SubRewardPerc2": 0.66,
-        "SubRewardPerc3": "",
-        "SubRewardPerc4": "",
-        "SubRewardPerc5": "",
-        "SubRewardPerc6": "",
-        "SubRewardPerc7": "",
-        "SubRewardPerc8": "",
-        "SubRewardPerc9": "",
-        "SubReward1": "RewardPostCapRidingT1",
-        "SubReward2": "RewardPostCapRidingT2",
-        "SubReward3": "",
-        "SubReward4": "",
-        "SubReward5": "",
-        "SubReward6": "",
-        "SubReward7": "",
-        "SubReward8": "",
-        "SubReward9": "",
-        "Reward": "RewardPostCapRidingT3",
-        "GameEvent1": "GypsumGreenEvent",
-        "GameEvent2": "GypsumGreenEvent",
-        "GameEvent": "GypsumGreenEvent"
-=======
         "Level01SubReward1": "RewardPostCapInstrumentsT1",
         "Level01SubReward2": "RewardPostCapInstrumentsT2",
         "Level01SubReward3": "",
@@ -759,6 +718,5 @@
         "Level02GameEvent1": "GypsumGreenEvent",
         "Level02GameEvent2": "GypsumGreenEvent",
         "Level02GameEvent": "GypsumGreenEvent"
->>>>>>> PTR
     }
 ]

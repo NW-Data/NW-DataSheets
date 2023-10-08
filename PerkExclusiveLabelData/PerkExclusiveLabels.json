@@ -40,31 +40,6 @@
         "ItemClassOverrides": ""
     },
     {
-        "ExclusiveLabelID": "Strength",
-        "Weight": 0,
-        "ItemClassOverrides": ""
-    },
-    {
-        "ExclusiveLabelID": "Dexterity",
-        "Weight": 0,
-        "ItemClassOverrides": ""
-    },
-    {
-        "ExclusiveLabelID": "Intelligence",
-        "Weight": 0,
-        "ItemClassOverrides": ""
-    },
-    {
-        "ExclusiveLabelID": "Focus",
-        "Weight": 0,
-        "ItemClassOverrides": ""
-    },
-    {
-        "ExclusiveLabelID": "Constitution",
-        "Weight": 0,
-        "ItemClassOverrides": ""
-    },
-    {
         "ExclusiveLabelID": "Lightning",
         "Weight": 1,
         "ItemClassOverrides": ""
@@ -538,8 +513,6 @@
         "ExclusiveLabelID": "5thPerk",
         "Weight": 500,
         "ItemClassOverrides": ""
-<<<<<<< HEAD
-=======
     },
     {
         "ExclusiveLabelID": "OnHeart",
@@ -555,6 +528,5 @@
         "ExclusiveLabelID": "Proc2",
         "Weight": 100,
         "ItemClassOverrides": ""
->>>>>>> PTR
     }
 ]

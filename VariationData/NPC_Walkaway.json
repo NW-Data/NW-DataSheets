@@ -1591,13 +1591,9 @@
         "AE.4_EventDelayDuration": 0.05,
         "AE.4_OE.0_OpacityTransitionDuration": 1,
         "AE.5_EventDelayDuration": 0,
-<<<<<<< HEAD
-        "AE.6_EventDelayDuration": 1.1
-=======
         "AE.6_EventDelayDuration": 1.1,
         "AudioPreload_SFX_Idle": "",
         "InteractOverride_Z": null
->>>>>>> PTR
     },
     {
         "VariantID": "9506_Granny_s01_02",
@@ -1637,13 +1633,9 @@
         "AE.4_EventDelayDuration": 0.05,
         "AE.4_OE.0_OpacityTransitionDuration": 1,
         "AE.5_EventDelayDuration": 0,
-<<<<<<< HEAD
-        "AE.6_EventDelayDuration": 1.1
-=======
         "AE.6_EventDelayDuration": 1.1,
         "AudioPreload_SFX_Idle": "",
         "InteractOverride_Z": null
->>>>>>> PTR
     },
     {
         "VariantID": "0249a_Aethelwynn_1",
@@ -2481,9 +2473,6 @@
         "AE.4_EventDelayDuration": 0.05,
         "AE.4_OE.0_OpacityTransitionDuration": 1,
         "AE.5_EventDelayDuration": 0,
-<<<<<<< HEAD
-        "AE.6_EventDelayDuration": 1.1
-=======
         "AE.6_EventDelayDuration": 1.1,
         "AudioPreload_SFX_Idle": "",
         "InteractOverride_Z": null
@@ -5343,16 +5332,11 @@
         "AE.6_EventDelayDuration": 1.1,
         "AudioPreload_SFX_Idle": "",
         "InteractOverride_Z": null
->>>>>>> PTR
     },
     {
         "VariantID": "95A_Malek_s02_01",
         "NPCId": "95A_Malek_s02_01",
-<<<<<<< HEAD
-        "Name": "@95A_Malek",
-=======
         "Name": "Malek",
->>>>>>> PTR
         "CharacterDefinition": "objects\\characters\\npc\\natural\\malek\\malek.cdf",
         "CharacterDefinitionEditor": "objects\\characters\\npc\\natural\\malek\\malek.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\malek_standing_bye.timeline",
@@ -5368,11 +5352,7 @@
         "AttachmentRotationY": "",
         "AttachmentRotationZ": "",
         "InteractOverride_X": "",
-<<<<<<< HEAD
-        "InteractOverride_Y": "",
-=======
         "InteractOverride_Y": null,
->>>>>>> PTR
         "MarkerOffset_Z": null,
         "WalkawayTimeline": "Libs\\Timeline\\Npc\\Walkaways\\turn_25_left_walkaway_nt.timeline",
         "AE.0_RequiredAchievementConditional": "!SwapActive_Season2_Malek_1",
@@ -5391,22 +5371,14 @@
         "AE.4_EventDelayDuration": 0.05,
         "AE.4_OE.0_OpacityTransitionDuration": 1,
         "AE.5_EventDelayDuration": 0,
-<<<<<<< HEAD
-        "AE.6_EventDelayDuration": 1.1
-=======
         "AE.6_EventDelayDuration": 1.1,
         "AudioPreload_SFX_Idle": "",
         "InteractOverride_Z": null
->>>>>>> PTR
     },
     {
         "VariantID": "95A_Sharif_s02_01a",
         "NPCId": "95A_Sharif_s02_01a",
-<<<<<<< HEAD
-        "Name": "@95A_Sharif",
-=======
         "Name": "Sharif Shara",
->>>>>>> PTR
         "CharacterDefinition": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "CharacterDefinitionEditor": "Objects\\Characters\\npc\\Settlements\\sharifP4.cdf",
         "ByeTimeline": "Libs\\Timeline\\Npc\\sharif_standing_bye.timeline",
@@ -5422,11 +5394,7 @@
         "AttachmentRotationY": "",
         "AttachmentRotationZ": "",
         "InteractOverride_X": "",
-<<<<<<< HEAD
-        "InteractOverride_Y": "",
-=======
         "InteractOverride_Y": null,
->>>>>>> PTR
         "MarkerOffset_Z": null,
         "WalkawayTimeline": "Libs\\Timeline\\Npc\\Walkaways\\curve_90_right_walkaway.timeline",
         "AE.0_RequiredAchievementConditional": "!SwapActive_Season2_Sharif_1a",
@@ -5445,9 +5413,6 @@
         "AE.4_EventDelayDuration": 0.05,
         "AE.4_OE.0_OpacityTransitionDuration": 0.1,
         "AE.5_EventDelayDuration": 4.5,
-<<<<<<< HEAD
-        "AE.6_EventDelayDuration": 4.5
-=======
         "AE.6_EventDelayDuration": 4.5,
         "AudioPreload_SFX_Idle": "",
         "InteractOverride_Z": null
@@ -6039,6 +6004,5 @@
         "AE.6_EventDelayDuration": 1.1,
         "AudioPreload_SFX_Idle": "",
         "InteractOverride_Z": null
->>>>>>> PTR
     }
 ]

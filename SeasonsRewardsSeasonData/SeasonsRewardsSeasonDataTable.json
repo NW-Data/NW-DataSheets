@@ -2,28 +2,15 @@
     {
         "SeasonId": "Season1",
         "SeasonIndex": 1,
-<<<<<<< HEAD
-        "Name": "@data_season_01_name",
-        "DisplayName": "@data_season_01_display_name",
-        "Description": "@data_season_01_desc",
-=======
         "Name": "Season 1: Fellowship \u0026amp; Fire",
         "DisplayName": "Season 1",
         "Description": "The debut Season for New World!",
->>>>>>> PTR
         "PremiumEntitlementId": "Entitlement_SeasonPassPurchase_Season1",
         "PurchasedLevelsEntitlementId": "Entitlement_SeasonPassLevels_Season1"
     },
     {
         "SeasonId": "Season2",
         "SeasonIndex": 2,
-<<<<<<< HEAD
-        "Name": "@data_season_02_name",
-        "DisplayName": "@data_season_02_display_name",
-        "Description": "@data_season_02_desc",
-        "PremiumEntitlementId": "Entitlement_SeasonPassPurchase_Season2",
-        "PurchasedLevelsEntitlementId": "Entitlement_SeasonPassLevels_Season2"
-=======
         "Name": "Season 2: Blood of the Sands",
         "DisplayName": "Season 2",
         "Description": "Mysteries will be uncovered and blood will be spilled, in the second Season for New World!",
@@ -38,6 +25,5 @@
         "Description": "Return to First Light and face the newly rising threat, in the third Season for New World!",
         "PremiumEntitlementId": "Entitlement_SeasonPassPurchase_Season3",
         "PurchasedLevelsEntitlementId": "Entitlement_SeasonPassLevels_Season3"
->>>>>>> PTR
     }
 ]

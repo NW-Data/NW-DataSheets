@@ -745,13 +745,8 @@
     },
     {
         "StatusID": "Status_Ultimate_Bow_Skirmish_DodgeDmg",
-<<<<<<< HEAD
-        "DisplayName": "@Status_Empower",
-        "Description": "@Status_Ultimate_Bow_Skirmish_DodgeDmg_description",
-=======
         "DisplayName": "Empower",
         "Description": "Your damage is increased by {[Type_StatusEffectData.Status_Ultimate_Bow_Skirmish_DodgeDmg.DMGStandard * 100]}%.",
->>>>>>> PTR
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": "1",
@@ -4718,13 +4713,8 @@
     },
     {
         "StatusID": "Status_Passive_Bow_RendHead",
-<<<<<<< HEAD
-        "DisplayName": "@Status_Rend",
-        "Description": "@Status_Rend_description",
-=======
         "DisplayName": "Rend",
         "Description": "You have an active reduction to armor.",
->>>>>>> PTR
         "EffectCategories": "Debuff+Debilitate+ArmorRend",
         "PlaceholderIcon": "lyshineui/images/status/SE_RendT1.png",
         "ShowInUITray": "1",
@@ -4880,10 +4870,7 @@
         "ABSNature": "",
         "ABSLightning": "",
         "ABSCorruption": "",
-<<<<<<< HEAD
-=======
         "ABSAcid": "",
->>>>>>> PTR
         "ABSVitalsCategory": "",
         "RESPoison": "",
         "RESDisease": "",
@@ -4929,10 +4916,7 @@
         "DMGNature": null,
         "DMGLightning": null,
         "DMGCorruption": null,
-<<<<<<< HEAD
-=======
         "DMGAcid": null,
->>>>>>> PTR
         "DMGVitalsCategory": null,
         "AFAPoison": "",
         "AFADisease": "",

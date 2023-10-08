@@ -5709,11 +5709,7 @@
         "DepletedFX": "cFX_Loot.Chest_Big_Celebration01",
         "Idle_VFX": "Loot.GlyphChest_big_open1",
         "MarkerRadius": 6,
-<<<<<<< HEAD
-        "Name": "@16BS_LootContainer_Elite_LegionStoneTomb_DisplayName",
-=======
         "Name": "Elite Grave Offerings",
->>>>>>> PTR
         "LoS_Override": false,
         "MarkerOffset_Z": null,
         "InteractTag": "",
@@ -5730,8 +5726,6 @@
         "Idle_SFX_Offset_Z": null,
         "Idle_SFX_Play": "Play_Loot_Small_Idle",
         "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
-<<<<<<< HEAD
-=======
     },
     {
         "VariantID": "ChestFirstLightRevampBeastlandsT5",
@@ -5956,6 +5950,5 @@
         "Idle_SFX_Offset_Z": null,
         "Idle_SFX_Play": "Play_Loot_Small_Idle",
         "Idle_SFX_Stop": "Stop_Loot_Small_Idle"
->>>>>>> PTR
     }
 ]

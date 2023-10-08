@@ -20803,13 +20803,8 @@
         "ArmorPenetration": "",
         "PhysicalArmor": "",
         "ElementalArmor": "",
-<<<<<<< HEAD
-        "LinearlyScaleToDistance": 15,
-        "Knockback": 25,
-=======
         "LinearlyScaleToDistance": 30,
         "Knockback": 40,
->>>>>>> PTR
         "WeaponAccuracy": "",
         "Health": "",
         "DmgPctToHealth": null,
@@ -21171,11 +21166,7 @@
         "TreeRowPosition": "",
         "TreeColumnPosition": "",
         "IsActiveAbility": "",
-<<<<<<< HEAD
-        "IsGlobalAbility": "",
-=======
         "IsGlobalAbility": null,
->>>>>>> PTR
         "IsStackableAbility": false,
         "ScalingStrength": "",
         "ScalingDexterity": "",
@@ -21202,11 +21193,7 @@
         "OnContributedKill": false,
         "OnHealthChanged": false,
         "OnStatusEffectApplied": false,
-<<<<<<< HEAD
-        "RequireReaction": null,
-=======
         "RequireReaction": true,
->>>>>>> PTR
         "NumSuccessfulHits": "",
         "NumConsecutiveHits": "",
         "MaxConsecutiveHits": "",
@@ -21222,11 +21209,7 @@
         "RangedAttackName": "",
         "AttackType": "",
         "DamageTypes": "",
-<<<<<<< HEAD
-        "CheckOwnedStatusEffects": "",
-=======
         "CheckOwnedStatusEffects": null,
->>>>>>> PTR
         "StatusEffect": "",
         "StatusEffectCategories": "",
         "StatusEffectStackSize": null,
@@ -21917,15 +21900,9 @@
         "SetMannequinTagStatus": null
     },
     {
-<<<<<<< HEAD
-        "AbilityID": "AI_Cryptkeeper_ReaperEmbrace",
-        "DisplayName": "",
-        "Description": "",
-=======
         "AbilityID": "AI_Gorilla_Boss_Elem_SK_Fire",
         "DisplayName": "",
         "Description": "Applies AI_Gorilla_Boss_Elem_SelfDestruct OnHitTaken by DamageTableRow Hazard_Fire",
->>>>>>> PTR
         "UICategory": "",
         "Icon": "",
         "StatusEffectIcon": "",
@@ -21939,11 +21916,7 @@
         "TreeRowPosition": "",
         "TreeColumnPosition": "",
         "IsActiveAbility": "",
-<<<<<<< HEAD
-        "IsGlobalAbility": "",
-=======
         "IsGlobalAbility": null,
->>>>>>> PTR
         "IsStackableAbility": false,
         "ScalingStrength": "",
         "ScalingDexterity": "",
@@ -21953,22 +21926,14 @@
         "OnEventPassiveConditionsPass": false,
         "OnKill": false,
         "OnExecuted": false,
-<<<<<<< HEAD
-        "OnHit": true,
-=======
         "OnHit": false,
->>>>>>> PTR
         "OnBlockedHit": false,
         "OnHitBehind": false,
         "OnCrit": false,
         "OnCritTaken": false,
         "OnHeadShot": false,
         "OnLegShot": false,
-<<<<<<< HEAD
-        "OnHitTaken": false,
-=======
         "OnHitTaken": true,
->>>>>>> PTR
         "OnDeath": false,
         "OnDeathsDoor": false,
         "OnHasDied": false,
@@ -21989,20 +21954,12 @@
         "AllowSelfDamageForHitEvents": "",
         "ForceShowNameTag": "",
         "TargetHasGritActive": "",
-<<<<<<< HEAD
-        "DamageTableRow": "Undead_Cryptkeeper_ReaperEmbrace",
-=======
         "DamageTableRow": "Hazard_Fire",
->>>>>>> PTR
         "RemoteDamageTableRow": "",
         "RangedAttackName": "",
         "AttackType": "",
         "DamageTypes": "",
-<<<<<<< HEAD
-        "CheckOwnedStatusEffects": "",
-=======
         "CheckOwnedStatusEffects": null,
->>>>>>> PTR
         "StatusEffect": "",
         "StatusEffectCategories": "",
         "StatusEffectStackSize": null,
@@ -22064,9 +22021,6 @@
         "PerStatusEffectOnTarget": "",
         "ForceTakeStaminaDamage": "",
         "CastSpell": "",
-<<<<<<< HEAD
-        "SelfApplyStatusEffect": "AI_Cryptkeeper_ReaperEmbraceHit",
-=======
         "SelfApplyStatusEffect": "",
         "OtherApplyStatusEffect": "AI_Gorilla_Boss_Elem_SelfDestruct",
         "SelfApplyStatusEffectDurations": null,
@@ -22668,7 +22622,6 @@
         "ForceTakeStaminaDamage": "",
         "CastSpell": "",
         "SelfApplyStatusEffect": "AI_Evil_Knight_AttackSuccess",
->>>>>>> PTR
         "OtherApplyStatusEffect": "",
         "SelfApplyStatusEffectDurations": null,
         "DoNotUnequipSelfAppliedSE": null,
@@ -22680,9 +22633,6 @@
         "RemoveStatusEffects": "",
         "StatusEffectsList": "",
         "StatusEffectCategoriesList": "",
-<<<<<<< HEAD
-        "RemoveTargetStatusEffectsList": "AI_Thorpe_Force_Grab_Tracker",
-=======
         "RemoveTargetStatusEffectsList": "",
         "ConsumeTargetStatusEffectMult": null,
         "StatusEffectDurationReduction": "",
@@ -23134,7 +23084,6 @@
         "StatusEffectsList": "AI_CorruptedLeviathan_Tethered_Center",
         "StatusEffectCategoriesList": "",
         "RemoveTargetStatusEffectsList": "",
->>>>>>> PTR
         "ConsumeTargetStatusEffectMult": null,
         "StatusEffectDurationReduction": "",
         "TargetStatusEffectDurationList": "",

@@ -6,12 +6,6 @@
         "Description": ""
     },
     {
-        "CategoryID": "ArtisanCrafting",
-        "ImagePath": "Icons/Items/Drawing/placeholder",
-        "DisplayText": "@ArtisanCrafting_GroupName",
-        "Description": "@ArtisanCrafting_GroupDesc"
-    },
-    {
         "CategoryID": "Apparel",
         "ImagePath": "Icons/Crafting/icon_crafting_category_apparel",
         "DisplayText": "Apparel",
@@ -1516,12 +1510,6 @@
         "ImagePath": "",
         "DisplayText": "Artisan Crafting",
         "Description": "An epic class of items that can only be wielded or worn by the most talented crafters."
-    },
-    {
-        "CategoryID": "GatherableResearch",
-        "ImagePath": "",
-        "DisplayText": "@GatherableResearch",
-        "Description": ""
     },
     {
         "CategoryID": "Scarab",
@@ -5280,15 +5268,12 @@
         "Description": ""
     },
     {
-<<<<<<< HEAD
-=======
         "CategoryID": "DungeonReps12",
         "ImagePath": "",
         "DisplayText": "Savage Divide Replicas",
         "Description": ""
     },
     {
->>>>>>> PTR
         "CategoryID": "DungeonNamedReplicas",
         "ImagePath": "",
         "DisplayText": "Unique Expedition Replicas",
@@ -5412,36 +5397,6 @@
         "CategoryID": "PVPReplicaHeavyArmor",
         "ImagePath": "",
         "DisplayText": "Brutish Heavy Armor Replicas",
-        "Description": ""
-    },
-    {
-        "CategoryID": "PVPReplicas",
-        "ImagePath": "",
-        "DisplayText": "@PVPReplicas_GroupName",
-        "Description": ""
-    },
-    {
-        "CategoryID": "PVPReplicaWeapon",
-        "ImagePath": "",
-        "DisplayText": "@PVPReplicaWeapon_GroupName",
-        "Description": ""
-    },
-    {
-        "CategoryID": "PVPReplicaLightArmor",
-        "ImagePath": "",
-        "DisplayText": "@PVPReplicaLightArmor_GroupName",
-        "Description": ""
-    },
-    {
-        "CategoryID": "PVPReplicaMediumArmor",
-        "ImagePath": "",
-        "DisplayText": "@PVPReplicaMediumArmor_GroupName",
-        "Description": ""
-    },
-    {
-        "CategoryID": "PVPReplicaHeavyArmor",
-        "ImagePath": "",
-        "DisplayText": "@PVPReplicaHeavyArmor_GroupName",
         "Description": ""
     },
     {
@@ -5727,30 +5682,6 @@
         "Description": ""
     },
     {
-        "CategoryID": "PatternWeapon",
-        "ImagePath": "",
-        "DisplayText": "@PatternWeapon_GroupName",
-        "Description": ""
-    },
-    {
-        "CategoryID": "PatternArmorHeavy",
-        "ImagePath": "",
-        "DisplayText": "@PatternArmorHeavy_GroupName",
-        "Description": ""
-    },
-    {
-        "CategoryID": "PatternArmorMedium",
-        "ImagePath": "",
-        "DisplayText": "@PatternArmorMedium_GroupName",
-        "Description": ""
-    },
-    {
-        "CategoryID": "PatternArmorLight",
-        "ImagePath": "",
-        "DisplayText": "@PatternArmorLight_GroupName",
-        "Description": ""
-    },
-    {
         "CategoryID": "Lodestone",
         "ImagePath": "Icons\\Items\\Drawing\\lodestone",
         "DisplayText": "Lodestone",
@@ -5790,12 +5721,6 @@
         "CategoryID": "GypsumLegendaryCasts",
         "ImagePath": "",
         "DisplayText": "Legendary Gypsum Casts",
-        "Description": ""
-    },
-    {
-        "CategoryID": "GypsumLegendaryCasts",
-        "ImagePath": "",
-        "DisplayText": "@GypsumLegendaryCasts_GroupName",
         "Description": ""
     },
     {
@@ -6348,30 +6273,6 @@
         "CategoryID": "DimensionalTether",
         "ImagePath": "",
         "DisplayText": "Dimensional Tether",
-        "Description": ""
-    },
-    {
-        "CategoryID": "TrialCrafting",
-        "ImagePath": "",
-        "DisplayText": "@TrialCrafting_GroupName",
-        "Description": ""
-    },
-    {
-        "CategoryID": "TheHatchery",
-        "ImagePath": "",
-        "DisplayText": "@TheHatchery_GroupName",
-        "Description": ""
-    },
-    {
-        "CategoryID": "TrialNamedReplicas",
-        "ImagePath": "",
-        "DisplayText": "@TrialNamedReplicas_GroupName",
-        "Description": ""
-    },
-    {
-        "CategoryID": "UniqueEliteTrialReplicas1",
-        "ImagePath": "",
-        "DisplayText": "@UniqueEliteTrialReplicas1_GroupName",
         "Description": ""
     }
 ]

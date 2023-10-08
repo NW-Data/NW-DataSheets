@@ -28,21 +28,6 @@
         "DisplayName": "Ravager",
         "MaximumInfluence": 26000,
         "RequiredLevel": 35,
-<<<<<<< HEAD
-        "InfluenceCost": 0,
-        "CurrencyCost": 0,
-        "AzothCost": 0,
-        "SanityCheck": true,
-        "GameEventId": "",
-        "EntitlementId": ""
-    },
-    {
-        "Rank": 3,
-        "DisplayName": "@owg_rank_procurer_4",
-        "MaximumInfluence": 49000,
-        "RequiredLevel": 50,
-=======
->>>>>>> PTR
         "InfluenceCost": 0,
         "CurrencyCost": 0,
         "AzothCost": 0,
@@ -54,7 +39,7 @@
         "Rank": 3,
         "DisplayName": "Destroyer",
         "MaximumInfluence": 49000,
-        "RequiredLevel": 60,
+        "RequiredLevel": 50,
         "InfluenceCost": 0,
         "CurrencyCost": 0,
         "AzothCost": 0,

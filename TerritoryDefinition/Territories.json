@@ -330,16 +330,6 @@
         "CanPlaceCamp": true,
         "ObjectiveID": "",
         "IsTerritory": true,
-<<<<<<< HEAD
-        "FactionControlBuff": "",
-        "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
-        "PermanentOwnershipAchievementId": "TerritoryPermanentOwner09",
-        "UpkeepModifier": 0.1,
-        "TerritoryStandingXpModifier": 1.25,
-        "PoiDiscoveryXpModifier": 75,
-        "EntryAchievementId": "09_FirstLightUnlock",
-        "EntryStatusEffectId": "Env_FirstLightLock_DoT"
-=======
         "FactionControlBuff": "None",
         "FactionControlTerritoryBuffs": "None",
         "PermanentOwnershipAchievementId": "",
@@ -350,7 +340,6 @@
         "EntryStatusEffectId": "Env_FirstLightLock_DoT",
         "EntryEntitlement": "Ent_Xpack_RiseOfTheAngryEarth_Owner",
         "EntryObjective": "09A_M1_EnterZone_EG"
->>>>>>> PTR
     },
     {
         "TerritoryID": 10,

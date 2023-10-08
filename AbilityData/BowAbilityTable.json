@@ -1261,13 +1261,8 @@
     },
     {
         "AbilityID": "Passive_Bow_Skirmish_RendHead",
-<<<<<<< HEAD
-        "DisplayName": "@Passive_Bow_Skirmish_RendHead",
-        "Description": "@Passive_Bow_Skirmish_RendHead_description",
-=======
         "DisplayName": "Rending Headshot",
         "Description": "Headshots inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;rend\u0026lt;/font\u0026gt; reducing target's armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_RendHead.PhysicalArmor * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_RendHead.BaseDuration]}s\u0026lt;/font\u0026gt;.",
->>>>>>> PTR
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive15.png",
         "StatusEffectIcon": "",
@@ -1343,12 +1338,9 @@
         "InAction": "",
         "InActionTime": null,
         "AfterAction": "",
-<<<<<<< HEAD
-=======
         "InSequence": "",
         "InSequenceTime": null,
         "AfterSequence": "",
->>>>>>> PTR
         "BaseDamage": null,
         "BaseDamageReduction": "",
         "BlockDamage": "",
@@ -2046,12 +2038,9 @@
         "InAction": "",
         "InActionTime": null,
         "AfterAction": "",
-<<<<<<< HEAD
-=======
         "InSequence": "",
         "InSequenceTime": null,
         "AfterSequence": "",
->>>>>>> PTR
         "BaseDamage": null,
         "BaseDamageReduction": "",
         "BlockDamage": "",
@@ -2532,13 +2521,8 @@
     },
     {
         "AbilityID": "Ultimate_Bow_Skirmish",
-<<<<<<< HEAD
-        "DisplayName": "@Ultimate_Bow_Skirmish_DodgeDmg",
-        "Description": "@Ultimate_Bow_Skirmish_DodgeDmg_description",
-=======
         "DisplayName": "Evasive Tactics",
         "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ultimate_Bow_Skirmish_DodgeDmg.DMGStandard * 100]}%\u0026lt;/font\u0026gt; more damage for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ultimate_Bow_Skirmish_DodgeDmg.BaseDuration]}s\u0026lt;/font\u0026gt; after dodging.",
->>>>>>> PTR
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive5.png",
         "StatusEffectIcon": "",
@@ -2614,12 +2598,9 @@
         "InAction": "",
         "InActionTime": null,
         "AfterAction": "Dodge",
-<<<<<<< HEAD
-=======
         "InSequence": "",
         "InSequenceTime": null,
         "AfterSequence": "Dodge_Roll,Dodge_Roll_Fast,Dodge_Roll_Slow",
->>>>>>> PTR
         "BaseDamage": null,
         "BaseDamageReduction": "",
         "BlockDamage": "",

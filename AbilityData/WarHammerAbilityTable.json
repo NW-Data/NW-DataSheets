@@ -1112,11 +1112,7 @@
         "ScalingConstitution": "",
         "OnKill": false,
         "OnExecuted": false,
-<<<<<<< HEAD
-        "OnHit": false,
-=======
         "OnHit": true,
->>>>>>> PTR
         "OnBlockedHit": false,
         "OnCrit": false,
         "OnHeadShot": false,
@@ -1216,20 +1212,12 @@
         "StatusEffectDurationReduction": "",
         "TargetStatusEffectDurationList": "",
         "TargetStatusEffectDurationMod": "",
-<<<<<<< HEAD
-        "ActivationCooldown": 2,
-=======
         "ActivationCooldown": 1,
->>>>>>> PTR
         "Duration": "",
         "CooldownId": "Ability_WarHammer_MightyGavel",
         "CDRImmediatelyOptions": "AllExcept",
         "ResetCooldownTimers": "",
-<<<<<<< HEAD
-        "CooldownTimer": -0.5,
-=======
         "CooldownTimer": -0.1,
->>>>>>> PTR
         "NumFreeCooldownsPerUse": "",
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",

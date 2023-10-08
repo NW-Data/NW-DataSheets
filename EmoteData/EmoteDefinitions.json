@@ -677,11 +677,7 @@
         "DisplayName": "ui_emote_Firework1",
         "DisplayDescription": "ui_emote_Firework1_description",
         "DisplayGroup": "Default",
-<<<<<<< HEAD
-        "ChatBoxText": "@emote_firework1",
-=======
         "ChatBoxText": "{playerName} lit a Flower Rocket.",
->>>>>>> PTR
         "SlashCommand": "fwcolors",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -702,11 +698,7 @@
         "DisplayName": "ui_emote_Firework2",
         "DisplayDescription": "ui_Emote_Firework2_description",
         "DisplayGroup": "Default",
-<<<<<<< HEAD
-        "ChatBoxText": "@emote_firework2",
-=======
         "ChatBoxText": "{playerName} lit a Dynasty Rocket.",
->>>>>>> PTR
         "SlashCommand": "fwdynasty",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -727,11 +719,7 @@
         "DisplayName": "ui_emote_Firework3",
         "DisplayDescription": "ui_Emote_Firework3_description",
         "DisplayGroup": "Default",
-<<<<<<< HEAD
-        "ChatBoxText": "@emote_firework3",
-=======
         "ChatBoxText": "{playerName} lit a Dryad Rocket.",
->>>>>>> PTR
         "SlashCommand": "fwdryad",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -752,11 +740,7 @@
         "DisplayName": "ui_emote_Firework4",
         "DisplayDescription": "ui_Emote_Firework4_description",
         "DisplayGroup": "Default",
-<<<<<<< HEAD
-        "ChatBoxText": "@emote_firework4",
-=======
         "ChatBoxText": "{playerName} lit an Ancient Rocket.",
->>>>>>> PTR
         "SlashCommand": "fwancient",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -777,11 +761,7 @@
         "DisplayName": "ui_emote_Firework5",
         "DisplayDescription": "ui_Emote_Firework5_description",
         "DisplayGroup": "Default",
-<<<<<<< HEAD
-        "ChatBoxText": "@emote_firework5",
-=======
         "ChatBoxText": "{playerName} lit a Shooting Star Rocket.",
->>>>>>> PTR
         "SlashCommand": "fwstar",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2125,11 +2105,7 @@
         "DisplayName": "ui_emote_DoffCap_name",
         "DisplayDescription": "ui_emote_DoffCap_description",
         "DisplayGroup": "Friendly",
-<<<<<<< HEAD
-        "ChatBoxText": "@emote_DoffCap",
-=======
         "ChatBoxText": "{playerName} dips his head in respect.",
->>>>>>> PTR
         "SlashCommand": "doffcap",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2150,11 +2126,7 @@
         "DisplayName": "ui_emote_HeelClick_name",
         "DisplayDescription": "ui_emote_HeelClick_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@emote_HeelClick",
-=======
         "ChatBoxText": "{playerName} clicks his heels.",
->>>>>>> PTR
         "SlashCommand": "heelclick",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2343,11 +2315,7 @@
         "DisplayName": "ui_emote_TrafficCop_name",
         "DisplayDescription": "ui_emote_TrafficCop_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@emote_TrafficCop",
-=======
         "ChatBoxText": "{playername} is directing traffic.",
->>>>>>> PTR
         "SlashCommand": "traffic",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2557,11 +2525,7 @@
         "DisplayName": "ui_emote_ArmWaveDance_name",
         "DisplayDescription": "ui_emote_ArmWaveDance_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_ArmWaveDance",
-=======
         "ChatBoxText": "{playerName} makes a wave with his arms.",
->>>>>>> PTR
         "SlashCommand": "armwave",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2645,11 +2609,7 @@
         "DisplayName": "ui_emote_PointLaugh_name",
         "DisplayDescription": "ui_emote_PointLaugh_description",
         "DisplayGroup": "Taunt",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_PointLaugh",
-=======
         "ChatBoxText": "{playerName} points and laughs.",
->>>>>>> PTR
         "SlashCommand": "haha",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2670,11 +2630,7 @@
         "DisplayName": "ui_emote_PiedPiper_name",
         "DisplayDescription": "ui_emote_PiedPiper_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_PiedPiper",
-=======
         "ChatBoxText": "{playerName} plays the flute.",
->>>>>>> PTR
         "SlashCommand": "piper",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2695,11 +2651,7 @@
         "DisplayName": "ui_emote_BugJar_name",
         "DisplayDescription": "ui_emote_BugJar_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_BugJar",
-=======
         "ChatBoxText": "{playerName} captures a Maudlinbug in a jar.",
->>>>>>> PTR
         "SlashCommand": "bugjar",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2720,11 +2672,7 @@
         "DisplayName": "ui_emote_WormDance_name",
         "DisplayDescription": "ui_emote_WormDance_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_WormDance",
-=======
         "ChatBoxText": "{playerName} moves his arms like a worm.",
->>>>>>> PTR
         "SlashCommand": "worm",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2745,11 +2693,7 @@
         "DisplayName": "ui_emote_PocketSand_name",
         "DisplayDescription": "ui_emote_PocketSand_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_PocketSand",
-=======
         "ChatBoxText": "{playerName} used sand self-defense!",
->>>>>>> PTR
         "SlashCommand": "pocketsand",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2770,11 +2714,7 @@
         "DisplayName": "ui_emote_CallMe_name",
         "DisplayDescription": "ui_emote_CallMe_description",
         "DisplayGroup": "Friendly",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_CallMe",
-=======
         "ChatBoxText": "{playerName} pretends to contact someone.",
->>>>>>> PTR
         "SlashCommand": "callme",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2795,11 +2735,7 @@
         "DisplayName": "ui_emote_FacePalm_name",
         "DisplayDescription": "ui_emote_FacePalm_description",
         "DisplayGroup": "Emotion",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_FacePalm",
-=======
         "ChatBoxText": "{playername} facepalms.",
->>>>>>> PTR
         "SlashCommand": "facepalm",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2820,11 +2756,7 @@
         "DisplayName": "ui_emote_BadSmell_name",
         "DisplayDescription": "ui_emote_BadSmell_description",
         "DisplayGroup": "Taunt",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_BadSmell",
-=======
         "ChatBoxText": "Something stinks and it's not {playername}.",
->>>>>>> PTR
         "SlashCommand": "stinks",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2845,11 +2777,7 @@
         "DisplayName": "ui_emote_ChefKiss_name",
         "DisplayDescription": "ui_emote_ChefKiss_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_ChefKiss",
-=======
         "ChatBoxText": "{playerName} gives a chef's kiss.",
->>>>>>> PTR
         "SlashCommand": "chefkiss",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2870,11 +2798,7 @@
         "DisplayName": "ui_emote_DeathDrop_name",
         "DisplayDescription": "ui_emote_DeathDrop_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_DeathDrop",
-=======
         "ChatBoxText": "{playerName} drops dead.",
->>>>>>> PTR
         "SlashCommand": "deathdrop",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2895,11 +2819,7 @@
         "DisplayName": "ui_emote_Thanks_name",
         "DisplayDescription": "ui_emote_Thanks_description",
         "DisplayGroup": "Friendly",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_Thanks",
-=======
         "ChatBoxText": "{playerName} makes a gesture of appreciation.",
->>>>>>> PTR
         "SlashCommand": "thanks",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2920,11 +2840,7 @@
         "DisplayName": "ui_Emote_BlowBubbles_name",
         "DisplayDescription": "ui_Emote_BlowBubbles_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_BlowBubbles",
-=======
         "ChatBoxText": "{playerName} blows bubbles.",
->>>>>>> PTR
         "SlashCommand": "bubbles",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2945,11 +2861,7 @@
         "DisplayName": "ui_Emote_Walk_Viking_name",
         "DisplayDescription": "ui_Emote_Walk_Viking_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_Walk_Viking",
-=======
         "ChatBoxText": "{playerName} walks assertively, but with style.",
->>>>>>> PTR
         "SlashCommand": "viking",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2970,11 +2882,7 @@
         "DisplayName": "ui_Emote_MashedPotatoDance_name",
         "DisplayDescription": "ui_Emote_MashedPotatoDance_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_MashedPotatoDance",
-=======
         "ChatBoxText": "{playerName} does the mashed potato.",
->>>>>>> PTR
         "SlashCommand": "mashedpotato",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -2995,11 +2903,7 @@
         "DisplayName": "ui_Emote_SpyGlass_name",
         "DisplayDescription": "ui_Emote_SpyGlass_description",
         "DisplayGroup": "Other",
-<<<<<<< HEAD
-        "ChatBoxText": "@Emote_SpyGlass",
-=======
         "ChatBoxText": "{playerName} spies something in the distance.",
->>>>>>> PTR
         "SlashCommand": "spyglass",
         "SecondarySlashCommand": "",
         "IsEntitlement": 1,
@@ -3013,8 +2917,6 @@
         "GatherableTags": "",
         "EmoteDuration": null,
         "AttributionId": ""
-<<<<<<< HEAD
-=======
     },
     {
         "UniqueTagID": "Emote_FireSpinDance",
@@ -3183,6 +3085,5 @@
         "GatherableTags": "",
         "EmoteDuration": null,
         "AttributionId": "Season_3"
->>>>>>> PTR
     }
 ]

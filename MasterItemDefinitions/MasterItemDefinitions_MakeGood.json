@@ -2412,33 +2412,22 @@
         "WarboardDepositStat": "",
         "Notes": "",
         "HideInLootTicker": "",
-<<<<<<< HEAD
-        "HideFromRewardOpenPopup": ""
-=======
         "HideFromRewardOpenPopup": "",
         "EventId": "",
         "AttributionId": "",
         "ObtainableReleaseVersion": "",
         "MountItemAppearance": "",
         "ExclusivelyForWarCampTier": ""
->>>>>>> PTR
     },
     {
         "ItemID": "BagGypsum10_MakeGood",
         "ParentItemId_DVT": "",
         "IgnoreParentColumns_DVT": "",
-<<<<<<< HEAD
-        "Name": "@BagGypsum10_MakeGood",
-        "ItemType": "Resource",
-        "ItemTypeDisplayName": "@ui_itemtypedescription_resource",
-        "Description": "@BagGypsum10_MakeGood_Description",
-=======
         "Name": "Make-Good 10 Gypsum Orbs",
         "ItemType": "Resource",
         "ItemTypeDisplayName": "Resource",
         "Description": "A crate that contains 10 gypsum orbs for your trouble.",
         "HeartgemRuneTooltipTitle": "",
->>>>>>> PTR
         "ItemClass": "Resource+LootContainer",
         "TradingCategory": "",
         "TradingFamily": "",
@@ -2456,14 +2445,11 @@
         "CanRollPerkOnUpgrade": "",
         "CanHavePerks": null,
         "CanReplaceGem": null,
-<<<<<<< HEAD
-=======
         "PerkSlot1": "",
         "PerkSlot2": "",
         "PerkSlot3": "",
         "PerkSlot4": "",
         "PerkSlot5": "",
->>>>>>> PTR
         "Perk1": "",
         "Perk2": "",
         "Perk3": "",
@@ -2491,19 +2477,13 @@
         "HousingTags": "",
         "IconPath": "lyshineui/images/icons/items/Resource/LockboxT1.png",
         "HiResIconPath": "lyshineui/images/icons/items_hires/LockboxT1.png",
-<<<<<<< HEAD
-=======
         "HeartgemTooltipBackgroundImage": "",
->>>>>>> PTR
         "MaxStackSize": 10000,
         "DeathDropPercentage": 0,
         "Nonremovable": "",
         "IsMissionItem": "",
         "IsUniqueItem": "",
-<<<<<<< HEAD
-=======
         "IsRequiredItem": "",
->>>>>>> PTR
         "ContainerLevel": 60,
         "ContainerGS": 600,
         "ExceedMinIndex": "",
@@ -2516,13 +2496,9 @@
         "CraftingRecipe": "",
         "RepairGameEventID": "",
         "SalvageGameEventID": "",
-<<<<<<< HEAD
-        "SalvageAchievement": "",
-=======
         "SalvageGuaranteedPerkCount": "",
         "SalvageAchievement": "",
         "SalvageEntitlementId": "",
->>>>>>> PTR
         "RepairTypes": "",
         "IngredientCategories": "",
         "IngredientBonusPrimary": "",
@@ -2546,15 +2522,11 @@
         "WarboardDepositStat": "",
         "Notes": "",
         "HideInLootTicker": "",
-<<<<<<< HEAD
-        "HideFromRewardOpenPopup": ""
-=======
         "HideFromRewardOpenPopup": "",
         "EventId": "",
         "AttributionId": "",
         "ObtainableReleaseVersion": "",
         "MountItemAppearance": "",
         "ExclusivelyForWarCampTier": ""
->>>>>>> PTR
     }
 ]

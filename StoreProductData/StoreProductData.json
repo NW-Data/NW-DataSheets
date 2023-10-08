@@ -4782,11 +4782,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Toolskin_Set"
-=======
         "TypeDescription": "Tool Skin Set"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_WarHorn",
@@ -4878,31 +4874,6 @@
     },
     {
         "UniqueTagID": "Emote_DoffCap",
-<<<<<<< HEAD
-        "IsEnabled": 1,
-        "DisplayName": "@ui_emote_DoffCap_name",
-        "Description": "@ui_emote_DoffCap_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
-        "TypeDescription": "@reward_type_emote"
-    },
-    {
-        "UniqueTagID": "Emote_HeelClick",
-        "IsEnabled": 1,
-        "DisplayName": "@ui_emote_HeelClick_name",
-        "Description": "@ui_emote_HeelClick_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_HeelClick.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_HeelClick.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_HeelClick.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_HeelClick.png",
-        "TypeDescription": "@reward_type_emote"
-    },
-    {
-        "UniqueTagID": "Emote_FootballJuggle",
-=======
->>>>>>> PTR
         "IsEnabled": 1,
         "DisplayName": "Doff Cap",
         "Description": "Courtesy counts for a lot in this world. Not as much as skill with a great axe and a band of murderous friends, but still a lot.",
@@ -5164,17 +5135,6 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
         "TypeDescription": "Emote"
-    },
-    {
-        "UniqueTagID": "Emote_TrafficCop",
-        "IsEnabled": 1,
-        "DisplayName": "@ui_emote_TrafficCop_name",
-        "Description": "@ui_emote_TrafficCop_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_DarkFae.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_DarkFae.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_DarkFae.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_DarkFae.png",
-        "TypeDescription": "@reward_type_emote"
     },
     {
         "UniqueTagID": "Bundle_Crest_WinterConv2022",
@@ -6134,94 +6094,6 @@
         "TypeDescription": "Emote Permit"
     },
     {
-        "UniqueTagID": "Token_Transmog_X1",
-        "IsEnabled": 1,
-        "DisplayName": "@Token_Transmog_X1_name",
-        "Description": "@Token_Transmog_X1_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens.png",
-        "TypeDescription": "@reward_type_token_single"
-    },
-    {
-        "UniqueTagID": "Token_Transmog_X5",
-        "IsEnabled": 1,
-        "DisplayName": "@Token_Transmog_X5_name",
-        "Description": "@Token_Transmog_X5_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens.png",
-        "TypeDescription": "@reward_type_TokenPack"
-    },
-    {
-        "UniqueTagID": "Token_Transmog_X10",
-        "IsEnabled": 1,
-        "DisplayName": "@Token_Transmog_X5_name",
-        "Description": "@Token_Transmog_X5_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens.png",
-        "TypeDescription": "@reward_type_TokenPack"
-    },
-    {
-        "UniqueTagID": "Emote_Premium_Firework1",
-        "IsEnabled": 1,
-        "DisplayName": "@Token_PremiumEmote_Firework1_name",
-        "Description": "@Token_PremiumEmote_Firework1_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Firework1.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Firework1.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Firework1.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Firework1.png",
-        "TypeDescription": "@reward_type_emote_permit"
-    },
-    {
-        "UniqueTagID": "Emote_Premium_Firework2",
-        "IsEnabled": 1,
-        "DisplayName": "@Token_PremiumEmote_Firework2_name",
-        "Description": "@Token_PremiumEmote_Firework2_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Firework2.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Firework2.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Firework2.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Firework2.png",
-        "TypeDescription": "@reward_type_emote_permit"
-    },
-    {
-        "UniqueTagID": "Emote_Premium_Firework3",
-        "IsEnabled": 1,
-        "DisplayName": "@Token_PremiumEmote_Firework3_name",
-        "Description": "@Token_PremiumEmote_Firework3_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Firework3.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Firework3.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Firework3.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Firework3.png",
-        "TypeDescription": "@reward_type_emote_permit"
-    },
-    {
-        "UniqueTagID": "Emote_Premium_Firework4",
-        "IsEnabled": 1,
-        "DisplayName": "@Token_PremiumEmote_Firework4_name",
-        "Description": "@Token_PremiumEmote_Firework4_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Firework4.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Firework4.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Firework4.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Firework4.png",
-        "TypeDescription": "@reward_type_emote_permit"
-    },
-    {
-        "UniqueTagID": "Emote_Premium_Firework5",
-        "IsEnabled": 1,
-        "DisplayName": "@Token_PremiumEmote_Firework5_name",
-        "Description": "@Token_PremiumEmote_Firework5_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Firework5.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Firework5.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Firework5.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Firework5.png",
-        "TypeDescription": "@reward_type_emote_permit"
-    },
-    {
         "UniqueTagID": "Apparel_Highwayman_Capelet",
         "IsEnabled": 1,
         "DisplayName": "Ringleader",
@@ -6323,11 +6195,7 @@
     {
         "UniqueTagID": "Apparel_Highwayman_Twitch_Collar",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Apparel_Highwayman_Twitch_Collar_name",
-=======
         "DisplayName": "Tattered Snatcher",
->>>>>>> PTR
         "Description": "",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Highwayman_Collar.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Highwayman_Collar.png",
@@ -6564,9 +6432,6 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_FashionWalk.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_FashionWalk.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_FashionWalk.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote"
-=======
         "TypeDescription": "Emote"
     },
     {
@@ -6590,819 +6455,368 @@
         "SquareImage": "LyShineUI/Images/Icons/Items/Weapon/1hRoundShieldImmolatedT5.png",
         "ThumbnailImage": "LyShineUI/Images/Icons/Items/Weapon/1hRoundShieldImmolatedT5.png",
         "TypeDescription": "Mount Attachment"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_BadSmell",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@ui_emote_BadSmell_name",
-        "Description": "@ui_emote_BadSmell_description",
-=======
         "DisplayName": "Something Stinks",
         "Description": "He who smelt it did not, in fact, delt it.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Portrait_Firelight_TableLantern.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Rectangle_Firelight_TableLantern.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Square_Firelight_TableLantern.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/housingItem_Thumbnail_Firelight_TableLantern.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote"
-=======
         "TypeDescription": "Emote"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_ChefKiss",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@ui_emote_ChefKiss_name",
-        "Description": "@ui_emote_ChefKiss_description",
-=======
         "DisplayName": "Chef's Kiss",
         "Description": "For a job well done.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_ChefKiss.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_ChefKiss.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_ChefKiss.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_ChefKiss.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote"
-=======
         "TypeDescription": "Emote"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_DeathDrop",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@ui_emote_DeathDrop_name",
-        "Description": "@ui_emote_DeathDrop_description",
-=======
         "DisplayName": "Death Drop",
         "Description": "Die. Hard.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_DeathDrop.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_DeathDrop.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_DeathDrop.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_DeathDrop.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote"
-=======
         "TypeDescription": "Emote"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_CallMe",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@ui_emote_CallMe_name",
-        "Description": "@ui_emote_CallMe_description",
-=======
         "DisplayName": "Call Me",
         "Description": "Let's connect.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_CallMe.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_CallMe.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_CallMe.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_CallMe.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote"
-=======
         "TypeDescription": "Emote"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Apparel_FrontierWasteland_Shawl",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Apparel_FrontierWasteland_Shawl_name",
-        "Description": "@Skin_Chest_Jun2023_FrontWasteShawl_Description",
-=======
         "DisplayName": "Outback Pioneer",
         "Description": "No quarry is beyond your reach, from the mountains to the badlands.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_FrontierWastelander_Shawl.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_FrontierWastelander_Shawl.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_FrontierWastelander_Shawl.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_FrontierWastelander_Shawl.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Apparelskin"
-=======
         "TypeDescription": "Apparel Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Apparel_FrontierWasteland_Gambeson",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Apparel_FrontierWasteland_Gambeson_name",
-        "Description": "@Skin_Chest_Jun2023_FrontWasteGambeson_Description",
-=======
         "DisplayName": "Longhorn Legionnaire",
         "Description": "The perfect suit of armor to accomodate your majestic horns, or to simply leave your enemies guessing.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Portrait_WastelanderGambeson.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Rectangle_WastelanderGambeson.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Square_WastelanderGambeson.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Thumbnail_WastelanderGambeson.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Apparelskin"
-=======
         "TypeDescription": "Apparel Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Apparel_FrontierWasteland_Deluxe",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Apparel_FrontierWasteland_Deluxe_name",
-        "Description": "@Skin_Chest_Jun2023_FrontWasteDeluxe_Description",
-=======
         "DisplayName": "Bane of the Badlands",
         "Description": "Cut an imposing silhouette as you roam the frontier, striking fear into the hearts of your foes.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_FrontierWastelander_Deluxe.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_FrontierWastelander_Deluxe.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_FrontierWastelander_Deluxe.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_FrontierWastelander_Deluxe.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Apparelskin"
-=======
         "TypeDescription": "Apparel Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Weapon_FrontierWasteland_ShieldT",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Skin_ShieldT_FrontierWastelander_MasterName",
-        "Description": "@Skin_ShieldT_FrontierWastelander_Description",
-=======
         "DisplayName": "Tower Shield of the Briar Rose",
         "Description": "Determined as the Briar, Exceptional as the Rose.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FrontierWastelander_TowerShield.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FrontierWastelander_TowerShield.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FrontierWastelander_TowerShield.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FrontierWastelander_TowerShield.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Weaponskin_Shield"
-=======
         "TypeDescription": "Shield Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Weapon_FrontierWasteland_Warhammer",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Skin_Warhammer_FrontierWastelander_MasterName",
-        "Description": "@Skin_Warhammer_FrontierWastelander_Description",
-=======
         "DisplayName": "Warhammer of the Briar Rose",
         "Description": "Stubborn as the Briar, Striking as the Rose.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FrontierWastelander_Warhammer.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FrontierWastelander_Warhammer.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FrontierWastelander_Warhammer.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FrontierWastelander_Warhammer.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Weaponskin_Warhammer"
-=======
         "TypeDescription": "War Hammer Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Weapon_FrontierWasteland_IceGauntlet",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Skin_IceGauntlet_FrontierWastelander_MasterName",
-        "Description": "@Skin_IceGauntlet_FrontierWastelander_Description",
-=======
         "DisplayName": "Ice Gauntlet of the Briar Rose",
         "Description": "Ceaseless as the Briar, Magnificent as the Rose.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FrontierWastelander_IceGauntlet.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FrontierWastelander_IceGauntlet.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FrontierWastelander_IceGauntlet.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FrontierWastelander_IceGauntlet.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Weaponskin_IceGauntlet"
-=======
         "TypeDescription": "Ice Gauntlet Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Weapon_FrontierWasteland_LIfeStaff",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Skin_LifeStaff_FrontierWastelander_MasterName",
-        "Description": "@Skin_LifeStaff_FrontierWastelander_Description",
-=======
         "DisplayName": "Lifestaff of the Briar Rose",
         "Description": "Hardy as the Briar, Benevolent as the Rose.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FrontierWastelander_LifeStaff.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FrontierWastelander_LifeStaff.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FrontierWastelander_LifeStaff.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FrontierWastelander_LifeStaff.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Weaponskin_LifeStaff"
-=======
         "TypeDescription": "Life Staff Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Weapon_FrontierWasteland_Greatsword",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Skin_Greatsword_FrontierWastelander_MasterName",
-        "Description": "@Skin_Greatsword_FrontierWastelander_Description",
-=======
         "DisplayName": "Greatsword of the Briar Rose",
         "Description": "Enduring as the Briar, Dignified as the Rose.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FrontierWastelander_Greatsword.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FrontierWastelander_Greatsword.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FrontierWastelander_Greatsword.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FrontierWastelander_Greatsword.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Weaponskin_Greatsword"
-=======
         "TypeDescription": "Greatsword Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Weapon_FrontierWasteland_Bow",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Skin_Bow_FrontierWastelander_MasterName",
-        "Description": "@Skin_Bow_FrontierWastelander_Description",
-=======
         "DisplayName": "Bow of the Briar Rose",
         "Description": "Relentless as the Briar, Thorny as the Rose.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FrontierWastelander_Bow.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FrontierWastelander_Bow.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_FrontierWastelander_Bow.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_FrontierWastelander_Bow.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Weaponskin_Bow"
-=======
         "TypeDescription": "Bow Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Apparel_FrontierWasteland_Twitch",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Apparel_FrontierWasteland_Twitch_name",
-        "Description": "@Skin_Chest_Jun2023_FrontWasteTwitch_Description",
-=======
         "DisplayName": "Wasteland Wanderer",
         "Description": "Stalk the plains and mountains alike with the fear of no beast or being.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_FrontierWastelander_Twitch.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_FrontierWastelander_Twitch.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_FrontierWastelander_Twitch.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_FrontierWastelander_Twitch.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Apparelskin"
-=======
         "TypeDescription": "Apparel Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "CampSkin_FrontierWasteland_1",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@CampSkin_FrontierWaste01_A_MasterName",
-        "Description": "@CampSkin_FrontierWaste01_A_Description",
-=======
         "DisplayName": "Rugged Respite",
         "Description": "CampSkin_FrontierWaste01_A_Description",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_FrontierWastelander01.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_FrontierWastelander01.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_FrontierWastelander01.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Thumbnail_FrontierWastelander01.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_campskin"
-=======
         "TypeDescription": "Camp Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Bundle_Tool_FrontierWasteland",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Bundle_Tool_FrontierWasteland_name",
-        "Description": "@Bundle_Tool_FrontierWasteland_description",
-=======
         "DisplayName": "Nameless Vagabond Toolset",
         "Description": "Wanderers of Aeternum need great skill in foraging in order to survive.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_FrontierWastelander.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_FrontierWastelander.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_FrontierWastelander.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_FrontierWastelander.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Toolskin_Set"
-=======
         "TypeDescription": "Tool Skin Set"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Bundle_Decor_FrontierWasteland",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Bundle_Decor_FrontierWasteland_name",
-        "Description": "@Bundle_Decor_FrontierWasteland_description",
-=======
         "DisplayName": "Frontier Wastelander Décor Bundle",
         "Description": "Treasures acquired from a life of brigandry.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Portrait_FrontierWastelander.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Rectangle_FrontierWastelander.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Square_FrontierWastelander.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/decorSet_Thumbnail_FrontierWastelander.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Housing_Set"
-=======
         "TypeDescription": "Housing Décor Set"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "SeasonPass_Premium_Season_2",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@SeasonPass_Premium_Season_2_name",
-        "Description": "@SeasonPass_Premium_Season_1_description",
-=======
         "DisplayName": "Premium Pass - Season 2",
         "Description": "Provides access to great rewards! All previous tier rewards will be unlocked.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_service"
-=======
         "TypeDescription": "World or Region Transfer (Single-Use)"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X1_Season_2",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@SeasonPass_TierSkip_X1_Season_1_name",
-        "Description": "@SeasonPass_TierSkip_X1_Season_1_description",
-=======
         "DisplayName": "Season Pass Tier Skip",
         "Description": "Advance to the next tier of the Season Pass instantly.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_service"
-=======
         "TypeDescription": "World or Region Transfer (Single-Use)"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X10_Season_2",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@SeasonPass_TierSkip_X10_Season_1_name",
-        "Description": "@SeasonPass_TierSkip_X10_Season_1_description",
-=======
         "DisplayName": "Season Pass 10 Level Tier Skip",
         "Description": "Advance ten tiers in the Season Pass instantly.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_service"
-=======
         "TypeDescription": "World or Region Transfer (Single-Use)"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "SeasonPass_HeadStart_Season_2",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@SeasonPass_HeadStart_Season_2_name",
-        "Description": "@SeasonPass_HeadStart_Season_1_description",
-=======
         "DisplayName": "Premium Pass Head Start - Season 2",
         "Description": "Provides access to premium pass and 20 tier skips.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_service"
-=======
         "TypeDescription": "World or Region Transfer (Single-Use)"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X5_Season_2",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@SeasonPass_TierSkip_X5_Season_1_name",
-        "Description": "@SeasonPass_TierSkip_X5_Season_1_description",
-=======
         "DisplayName": "Season Pass 5 Level Tier Skip",
         "Description": "Advance five tiers in the Season Pass instantly.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_service"
-=======
         "TypeDescription": "World or Region Transfer (Single-Use)"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Bundle_PR_FrontierWasteland_Apparel",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Bundle_PR_FrontierWasteland_Apparel_name",
-        "Description": "@Bundle_PR_FrontierWasteland_Apparel_description",
-=======
         "DisplayName": "Frontier Wastelander Apparel Bundle",
         "Description": "Your clothes mark you as one unafraid of the untamed wilderness, capable enough to face its dangers alone.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_Armor_FrontierWastelander.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_Armor_FrontierWastelander.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_Armor_FrontierWastelander.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_Armor_FrontierWastelander.png",
-<<<<<<< HEAD
-        "TypeDescription": "@ui_bundle"
-=======
         "TypeDescription": "Bundle"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Bundle_PR_FrontierWasteland_Weapon",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Bundle_PR_FrontierWasteland_Weapon_name",
-        "Description": "@Bundle_PR_FrontierWasteland_Weapon_description",
-=======
         "DisplayName": "Frontier Wastelander Weapon Bundle",
         "Description": "Steel is more valuable than a companion when wandering the wasteland. Companions can be unreliable. Steel never is.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_Weapon_FrontierWastelander.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_Weapon_FrontierWastelander.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_Weapon_FrontierWastelander.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_FrontierWastelander.png",
-<<<<<<< HEAD
-        "TypeDescription": "@ui_bundle"
-=======
         "TypeDescription": "Bundle"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Bundle_PR_EmoteGestures",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Bundle_PR_EmoteGestures_name",
-        "Description": "@Bundle_PR_EmoteGestures_description",
-=======
         "DisplayName": "Emotive Bundle",
         "Description": "How are you feeling?",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_Emote_Jun2023Promo.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_Emote_Jun2023Promo.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_Emote_Jun2023Promo.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_Emote_Jun2023Promo.png",
-<<<<<<< HEAD
-        "TypeDescription": "@ui_bundle"
-=======
         "TypeDescription": "Bundle"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Bundle_PR_EmoteTaunts",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Bundle_PR_EmoteTaunts_name",
-        "Description": "@Bundle_PR_EmoteTaunts_description",
-=======
         "DisplayName": "Useful Gestures Emote Bundle",
         "Description": "Tell them how you really feel!",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_Emote_Jul2023Promo.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_Emote_Jul2023Promo.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_Emote_Jul2023Promo.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_Emote_Jul2023Promo.png",
-<<<<<<< HEAD
-        "TypeDescription": "@ui_bundle"
-=======
         "TypeDescription": "Bundle"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_Premium_Firework1_x10",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Emote_Premium_Firework1_x10_name",
-        "Description": "@Token_PremiumEmote_Firework1_description",
-=======
         "DisplayName": "Flower Firework Emote Permit 10-Pack",
         "Description": "A dazzling blast of color! Allows use of the Flower Rocket Firework emote for 2 hours.\\n\\nYou can use an Emote Permit by opening the Augments menu from your inventory.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Firework1.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Firework1.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Firework1.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Firework1.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote_permit"
-=======
         "TypeDescription": "Emote Permit"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_Premium_Firework2_x10",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Emote_Premium_Firework2_x10_name",
-        "Description": "@Token_PremiumEmote_Firework2_description",
-=======
         "DisplayName": "Dynasty Firework Emote Permit 10-Pack",
         "Description": "Vibrant holiday fun! Allows use of the Dynasty Rocket Firework emote for 2 hours.\\n\\nYou can use an Emote Permit by opening the Augments menu from your inventory.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Firework2.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Firework2.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Firework2.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Firework2.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote_permit"
-=======
         "TypeDescription": "Emote Permit"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_Premium_Firework3_x10",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Emote_Premium_Firework3_x10_name",
-        "Description": "@Token_PremiumEmote_Firework3_description",
-=======
         "DisplayName": "Dryad Firework Emote Permit 10-Pack",
         "Description": "An explosion of emerald! Allows use of the Dryad Rocket Firework emote for 2 hours.\\n\\nYou can use an Emote Permit by opening the Augments menu from your inventory.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Firework3.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Firework3.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Firework3.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Firework3.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote_permit"
-=======
         "TypeDescription": "Emote Permit"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_Premium_Firework4_x10",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Emote_Premium_Firework4_x10_name",
-        "Description": "@Token_PremiumEmote_Firework4_description",
-=======
         "DisplayName": "Ancient Firework Emote Permit 10-Pack",
         "Description": "Purple explosion! Allows use of the Ancient Rocket Firework emote for 2 hours.\\n\\nYou can use an Emote Permit by opening the Augments menu from your inventory.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Firework4.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Firework4.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Firework4.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Firework4.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote_permit"
-=======
         "TypeDescription": "Emote Permit"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_Premium_Firework5_x10",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Emote_Premium_Firework5_x10_name",
-        "Description": "@Token_PremiumEmote_Firework5_description",
-=======
         "DisplayName": "Shooting Star Firework Emote Permit 10-Pack",
         "Description": "Caution! May emit showers of sparks! Allows use of the Shooting Star Firework emote for 2 hours.\\n\\nYou can use an Emote Permit by opening the Augments menu from your inventory.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Firework5.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Firework5.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Firework5.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Firework5.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote_permit"
-=======
         "TypeDescription": "Emote Permit"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_Premium_Firework_Show_Pack",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Emote_Premium_Firework_Show_Pack_name",
-        "Description": "@Emote_Premium_Firework_Show_Pack_description",
-=======
         "DisplayName": "Firework Show Variety Pack",
         "Description": "Wow your friends with a dazzling firework show! Just be sure to keep water on hand to extinguish any potential fires.\\nIncludes five each of the Flower, Dynasty, Dryad, Ancient and Shooting Star Firework Permits.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Emote_Fireworks2023.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Emote_Fireworks2023.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Emote_Fireworks2023.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Emote_Fireworks2023.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote_permit"
-    },
-    {
-        "UniqueTagID": "WeaponSkin_DeepSeaGothic_VoidGauntlet",
-        "IsEnabled": 1,
-        "DisplayName": "@Skin_DeepSeaGothic_VoidGauntlet_MasterName",
-        "Description": "@Skin_DeepSeaGothic_VoidGauntlet_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_VoidGauntlet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_VoidGauntlet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_VoidGauntlet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_VoidGauntlet.png",
-        "TypeDescription": "@reward_type_Weaponskin_VoidGauntlet"
-    },
-    {
-        "UniqueTagID": "WeaponSkin_DeepSeaGothic_Hatchet",
-        "IsEnabled": 1,
-        "DisplayName": "@Skin_DeepSeaGothic_Hatchet_MasterName",
-        "Description": "@Skin_DeepSeaGothic_Hatchet_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_ThrowingAxe.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_ThrowingAxe.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_ThrowingAxe.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_ThrowingAxe.png",
-        "TypeDescription": "@reward_type_Weaponskin_Hatchet"
-    },
-    {
-        "UniqueTagID": "WeaponSkin_DeepSeaGothic_LifeStaff",
-        "IsEnabled": 1,
-        "DisplayName": "@Skin_DeepSeaGothic_LifeStaff_MasterName",
-        "Description": "@Skin_DeepSeaGothic_LifeStaff_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_LifeStaff.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_LifeStaff.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_LifeStaff.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_LifeStaff.png",
-        "TypeDescription": "@reward_type_Weaponskin_LifeStaff"
-    },
-    {
-        "UniqueTagID": "WeaponSkin_DeepSeaGothic_Bow",
-        "IsEnabled": 1,
-        "DisplayName": "@Skin_DeepSeaGothic_Bow_MasterName",
-        "Description": "@Skin_DeepSeaGothic_Bow_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_Bow.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_Bow.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_Bow.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_Bow.png",
-        "TypeDescription": "@reward_type_Weaponskin_Bow"
-    },
-    {
-        "UniqueTagID": "WeaponSkin_DeepSeaGothic_Greatsword",
-        "IsEnabled": 1,
-        "DisplayName": "@Skin_DeepSeaGothic_Greatsword_MasterName",
-        "Description": "@Skin_DeepSeaGothic_Greatsword_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_Greatsword.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_Greatsword.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_Greatsword.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_Greatsword.png",
-        "TypeDescription": "@reward_type_Weaponskin_Greatsword"
-    },
-    {
-        "UniqueTagID": "WeaponSkin_DeepSeaGothic_Musket",
-        "IsEnabled": 1,
-        "DisplayName": "@Skin_DeepSeaGothic_Musket_MasterName",
-        "Description": "@Skin_DeepSeaGothic_Musket_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_DeepSeaGothic_Musket.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_DeepSeaGothic_Musket.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_DeepSeaGothic_Musket.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_DeepSeaGothic_Musket.png",
-        "TypeDescription": "@reward_type_Weaponskin_Musket"
-    },
-    {
-        "UniqueTagID": "Apparel_DeepSea_GothSkeleton",
-        "IsEnabled": 1,
-        "DisplayName": "@Skin_Jul2023_DSGothSkeleton_MasterName",
-        "Description": "@Skin_Chest_Jul2023_DSGothSkeleton_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Portrait_DeepSeaCreatures_Skeleton.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Rectangle_DeepSeaCreatures_Skeleton.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Square_DeepSeaCreatures_Skeleton.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Thumbnail_DeepSeaCreatures_Skeleton.png",
-        "TypeDescription": "@reward_type_Apparelskin"
-    },
-    {
-        "UniqueTagID": "Apparel_DeepSea_GothCrab",
-        "IsEnabled": 1,
-        "DisplayName": "@Skin_Jul2023_DSGothCrab_MasterName",
-        "Description": "@Skin_Chest_Jul2023_DSGothCrab_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Portrait_DeepSeaCreatures_Crab.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Rectangle_DeepSeaCreatures_Crab.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Square_DeepSeaCreatures_Crab.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/ArmorSet_Thumbnail_DeepSeaCreatures_Crab.png",
-        "TypeDescription": "@reward_type_Apparelskin"
-    },
-    {
-        "UniqueTagID": "Apparel_DeepSea_GothConch",
-        "IsEnabled": 1,
-        "DisplayName": "@Skin_Jul2023_DSGothConch_MasterName",
-        "Description": "@Skin_Chest_Jul2023_DSGothConch_Description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Portrait_DeepSeaCreatures_Conch.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Rectangle_DeepSeaCreatures_Conch.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Square_DeepSeaCreatures_Conch.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorset_Thumbnail_DeepSeaCreatures_Conch.png",
-        "TypeDescription": "@reward_type_Apparelskin"
-    },
-    {
-        "UniqueTagID": "Emote_Alas",
-        "IsEnabled": 1,
-        "DisplayName": "@ui_emote_Alas_name",
-        "Description": "@ui_emote_Alas_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Alas.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Alas.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Alas.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Alas.png",
-        "TypeDescription": "@reward_type_emote"
-    },
-    {
-        "UniqueTagID": "Ent_Emote_BlowBubbles",
-        "IsEnabled": 1,
-        "DisplayName": "@ui_Emote_BlowBubbles_name",
-        "Description": "@ui_Emote_BlowBubbles_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_BlowBubbles.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_BlowBubbles.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_BlowBubbles.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_BlowBubbles.png",
-        "TypeDescription": "@reward_type_emote"
-    },
-    {
-        "UniqueTagID": "Ent_Emote_Viking_Walk",
-        "IsEnabled": 1,
-        "DisplayName": "@ui_Emote_Walk_Viking_name",
-        "Description": "@ui_Emote_Walk_Viking_description",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_VikingWalk.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_VikingWalk.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_VikingWalk.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_VikingWalk.png",
-        "TypeDescription": "@reward_type_emote"
-    },
-    {
-        "UniqueTagID": "Bundle_PR_DeepSea_Apparel",
-        "IsEnabled": 1,
-        "DisplayName": "@Bundle_PR_DeepSeaCreatures_Apparel_name",
-        "Description": "@Bundle_PR_DeepSeaCreatures_Apparel_description",
-        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_Armor_DeepSeaCreatures.png",
-        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_Armor_DeepSeaCreatures.png",
-        "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_Armor_DeepSeaCreatures.png",
-        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_Armor_DeepSeaCreatures.png",
-        "TypeDescription": "@ui_bundle"
-    },
-    {
-        "UniqueTagID": "Bundle_PR_DeepSea_Weapon",
-        "IsEnabled": 1,
-        "DisplayName": "@Bundle_PR_DeepSeaGothic_Weapon_name",
-        "Description": "@Bundle_PR_DeepSeaGothic_Weapon_description",
-        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_Weapon_DeepSeaGothic.png",
-        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_Weapon_DeepSeaGothic.png",
-        "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_Weapon_DeepSeaGothic.png",
-        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_DeepSeaGothic.png",
-        "TypeDescription": "@ui_bundle"
-=======
         "TypeDescription": "Emote Permit"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Token_Transmog_X2",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Token_Transmog_X5_name",
-        "Description": "@Token_Transmog_X5_description",
-=======
         "DisplayName": "Transmog Token Pack",
         "Description": "A pack of Transmog tokens. Each token allows you to capture one item appearance for use as a skin.",
->>>>>>> PTR
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_TransmogTokens.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_TransmogTokens.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_TransmogTokens.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_TransmogTokens.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_TokenPack"
-=======
         "TypeDescription": "Token Pack"
     },
     {
@@ -8163,245 +7577,137 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/dye_mount_1_Square.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dye_mount_1_Thumbnail.png",
         "TypeDescription": "Mount Armor Dye"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Bundle_PR_Balance_HeraldOfOrder",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Bundle_PR_Balance_HeraldOfOrder_name",
-        "Description": "@Bundle_PR_Balance_HeraldOfOrder_description",
-=======
         "DisplayName": "Herald of Order Bundle",
         "Description": "Will you fight to maintain the balance of chaos and order on Aeternum?",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_HeraldofOrder.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_HeraldofOrder.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_HeraldofOrder.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_HeraldofOrder.png",
-<<<<<<< HEAD
-        "TypeDescription": "@ui_bundle"
-=======
         "TypeDescription": "Bundle"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Bundle_PR_Balance_KeeperOfEquilibrium",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Bundle_PR_Balance_KeeperOfEquilibrium_name",
-        "Description": "@Bundle_PR_Balance_KeeperOfEquilibrium_description",
-=======
         "DisplayName": "Keeper of Equilibrium Bundle",
         "Description": "The balance between light and shadow can easily shift here on Aeternum.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_KeeperofEquilibrium.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_KeeperofEquilibrium.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_KeeperofEquilibrium.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_KeeperofEquilibrium.png",
-<<<<<<< HEAD
-        "TypeDescription": "@ui_bundle"
-=======
         "TypeDescription": "Bundle"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Bundle_PR_Balance_DefenderOfHarmony",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Bundle_PR_Balance_DefenderOfHarmony_name",
-        "Description": "@Bundle_PR_Balance_DefenderOfHarmony_description",
-=======
         "DisplayName": "Defender of Harmony Bundle",
         "Description": "Without harmony, there is only discord.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_DefenderofHarmony.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_DefenderofHarmony.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_DefenderofHarmony.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_DefenderofHarmony.png",
-<<<<<<< HEAD
-        "TypeDescription": "@ui_bundle"
-=======
         "TypeDescription": "Bundle"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Bundle_PR_JesterSmile",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Bundle_PR_JesterSmile_name",
-        "Description": "@Bundle_PR_JesterSmile_description",
-=======
         "DisplayName": "The Jester's Punchline Bundle",
         "Description": "The wit of the Jester can be deadly. Give him a blade and soon you may not be laughing at all.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_UnvaultPromo.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_UnvaultPromo.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/bundle_Square_UnvaultPromo.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/bundle_Thumbnail_UnvaultPromo.png",
-<<<<<<< HEAD
-        "TypeDescription": "@ui_bundle"
-=======
         "TypeDescription": "Bundle"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Apparel_Balance_HeraldOfOrder",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Apparel_Balance_HeraldOfOrder_name",
-        "Description": "@Skin_Head_Aug2023_BalanceMedium_Description",
-=======
         "DisplayName": "Herald of Order",
         "Description": "Chaos and order, day and night, all has its place in the order of the world.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Portrait_Balance_Medium.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Rectangle_Balance_Medium.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Square_Balance_Medium.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Thumbnail_Balance_Medium.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Apparelskin"
-=======
         "TypeDescription": "Apparel Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Apparel_Balance_KeeperOfEquilibrium",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Apparel_Balance_KeeperOfEquilibrium_name",
-        "Description": "@Skin_Head_Aug2023_BalanceLight_Description",
-=======
         "DisplayName": "Keeper of Equilibrium",
         "Description": "Expertly maintaining the balance between darkness and light.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Portrait_Balance_Light.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Rectangle_Balance_Light.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Square_Balance_Light.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Thumbnail_Balance_Light.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Apparelskin"
-=======
         "TypeDescription": "Apparel Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Apparel_Balance_DefenderOfHarmony",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Apparel_Balance_DefenderOfHarmony_name",
-        "Description": "@Skin_Head_Aug2023_BalanceHeavy_Description",
-=======
         "DisplayName": "Defender of Harmony",
         "Description": "Symmetry and balance in all things - this is our oath.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Portrait_Balance_Heavy.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Rectangle_Balance_Heavy.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Square_Balance_Heavy.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Thumbnail_Balance_Heavy.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Apparelskin"
-=======
         "TypeDescription": "Apparel Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Weapon_Balance_Firestaff",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Skin_Aug2023_Balance_FireStaff_MasterName",
-        "Description": "@Skin_Aug2023_Balance_FireStaff_Description",
-=======
         "DisplayName": "Flame of the Scales",
         "Description": "Raise high your searing staff in defense of the Balance.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/weapon_Portrait_Balance_FireStaff.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/weapon_Rectangle_Balance_FireStaff.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/weapon_Square_Balance_FireStaff.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/weapon_Thumbnail_Balance_FireStaff.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Weaponskin_FireStaff"
-=======
         "TypeDescription": "Fire Staff Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Weapon_Balance_Longsword",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Skin_Aug2023_Balance_Longsword_MasterName",
-        "Description": "@Skin_Aug2023_Balance_Longsword_Description",
-=======
         "DisplayName": "Discord's Edge",
         "Description": "Raise high your keen edge in defense of the Balance.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/weapon_Portrait_Balance_LongSword.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/weapon_Rectangle_Balance_LongSword.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/weapon_Square_Balance_LongSword.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/weapon_Thumbnail_Balance_LongSword.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Weaponskin_Sword"
-=======
         "TypeDescription": "Sword Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Weapon_Balance_Shield",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Skin_Aug2023_Balance_ShieldK_MasterName",
-        "Description": "@Skin_Aug2023_Balance_ShieldK_Description",
-=======
         "DisplayName": "Lucent Shadow",
         "Description": "Raise high your unwavering shield in defense of the Balance.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/weapon_Portrait_Balance_KiteShield.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/weapon_Rectangle_Balance_KiteShield.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/weapon_Square_Balance_KiteShield.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/weapon_Thumbnail_Balance_KiteShield.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Weaponskin_Shield"
-=======
         "TypeDescription": "Shield Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Weapon_Balance_Warhammer",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@Skin_Aug2023_Balance_Warhammer_MasterName",
-        "Description": "@Skin_Aug2023_Balance_Warhammer_Description",
-=======
         "DisplayName": "Weight of Symmetry",
         "Description": "Raise high your mighty hammer in defense of the Balance.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/weapon_Portrait_Balance_Warhammer.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/weapon_Rectangle_Balance_Warhammer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/weapon_Square_Balance_Warhammer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/weapon_Thumbnail_Balance_Warhammer.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_Weaponskin_Warhammer"
-=======
         "TypeDescription": "War Hammer Skin"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_MashedPotato",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@ui_Emote_MashedPotatoDance_name",
-        "Description": "@ui_Emote_MashedPotatoDance_description",
-=======
         "DisplayName": "Mashed Potato Dance",
         "Description": "This has to be one of the strangest ways of mashing potatoes that I've seen.",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/emote_Portrait_MashedPotatoDance.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/emote_Rectangle_MashedPotatoDance.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/emote_Square_MashedPotatoDance.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/emote_Thumbnail_MashedPotatoDance.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote"
-=======
         "TypeDescription": "Emote"
     },
     {
@@ -8788,25 +8094,16 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Walk_Trex.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Walk_Trex.png",
         "TypeDescription": "Emote"
->>>>>>> PTR
     },
     {
         "UniqueTagID": "Emote_Spyglass",
         "IsEnabled": 1,
-<<<<<<< HEAD
-        "DisplayName": "@ui_Emote_Spyglass_name",
-        "Description": "@ui_Emote_Spyglass_description",
-=======
         "DisplayName": "Spyglass",
         "Description": "I spy, with my little eye...",
->>>>>>> PTR
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/emote_Portrait_Spyglass.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/emote_Rectangle_Spyglass.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/emote_Square_Spyglass.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/emote_Thumbnail_Spyglass.png",
-<<<<<<< HEAD
-        "TypeDescription": "@reward_type_emote"
-=======
         "TypeDescription": "Emote"
     },
     {
@@ -8852,6 +8149,5 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_FirstLightElven_VerdantDawn.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_FirstLightElven_VerdantDawn.png",
         "TypeDescription": "Bundle"
->>>>>>> PTR
     }
 ]

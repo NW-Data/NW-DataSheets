@@ -100,13 +100,8 @@
     },
     {
         "RewardId": "MusicBuff_ShredlyFair",
-<<<<<<< HEAD
-        "Name": "@MusicBuff_ShredlyFair_Name",
-        "Description": "@MusicBuff_ShredlyFair_Desc",
-=======
         "Name": "Shredly Fair",
         "Description": "Shred out this complex tune at a Medleyfaire Village for a Premium Token, up to 3x a day.",
->>>>>>> PTR
         "Rank": 0,
         "FilterType": "Summer",
         "GameEventId_Rank_Amazing": "MusicReward_Amazing_Shredly",

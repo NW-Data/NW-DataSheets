@@ -499,15 +499,9 @@
         "TerritoryID": 8037,
         "NameLocalizationKey": "@ui_worldboss_season_02_event",
         "IsPOI": true,
-<<<<<<< HEAD
-        "MapIcon": "LyShineUI/Images/Icons/WorldMap/worldmap_eggsciting.png",
-        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/event_eggsciting.png",
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/maptooltip_eggciting.png",
-=======
         "MapIcon": "",
         "CompassIcon": "",
         "TooltipBackground": "",
->>>>>>> PTR
         "GroupSize": 0,
         "POITag": "EventEncounter",
         "RequiredItemId": "",
@@ -534,21 +528,6 @@
         "AudioBank": ""
     },
     {
-<<<<<<< HEAD
-        "TerritoryID": 8037,
-        "NameLocalizationKey": "@ui_worldboss_season_02_event",
-        "IsPOI": true,
-        "MapIcon": "",
-        "CompassIcon": "",
-        "TooltipBackground": "",
-        "GroupSize": 0,
-        "POITag": "EventEncounter",
-        "RequiredItemId": "",
-        "RecommendedLevel": 60,
-        "PulseColor": "235 52 52",
-        "AudioGroup": "POI_State",
-        "AudioState": "",
-=======
         "TerritoryID": 8039,
         "NameLocalizationKey": "Bulrok the Burning",
         "IsPOI": false,
@@ -642,24 +621,15 @@
         "PulseColor": "255 0 0",
         "AudioGroup": "",
         "AudioState": "worldboss",
->>>>>>> PTR
         "AudioBank": ""
     },
     {
         "TerritoryID": 8045,
-<<<<<<< HEAD
-        "NameLocalizationKey": "@fotb_rafflebones_portal",
-        "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/map/Icon/POIs/icon_fotb_rafflebones_portal.png",
-        "CompassIcon": "LyShineUI/Images/map/Icon/POIs/icon_fotb_rafflebones_portal.png",
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/maptooltip_territory_default.png",
-=======
         "NameLocalizationKey": "Rafflebones Portal",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/icon_fotb_rafflebones_portal.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/icon_fotb_rafflebones_portal.png",
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_rafflebones_portal.png",
->>>>>>> PTR
         "GroupSize": 0,
         "POITag": "FortunesOfTheBold",
         "RequiredItemId": "",
@@ -668,8 +638,6 @@
         "AudioGroup": "",
         "AudioState": "",
         "AudioBank": ""
-<<<<<<< HEAD
-=======
     },
     {
         "TerritoryID": 8046,
@@ -702,6 +670,5 @@
         "AudioGroup": "POI_State",
         "AudioState": "",
         "AudioBank": ""
->>>>>>> PTR
     }
 ]

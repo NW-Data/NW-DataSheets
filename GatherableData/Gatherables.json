@@ -92,48 +92,6 @@
         "MountGatherers": ""
     },
     {
-        "GatherableID": "Test_Generic_Interact",
-        "DisplayName": "",
-        "GatheringAction": "Handcrafting",
-        "GatheringType": "None",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 0.2,
-        "MaxRespawnRate": 0.2,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 1,
-        "WaitForImpact": false,
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": true,
-        "GameEventID": "",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": true,
-        "IsLootContainer": false,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
         "GatherableID": "TreeSoftwoodSmall",
         "DisplayName": "Young Tree",
         "GatheringAction": "Chopping",
@@ -4918,17 +4876,10 @@
         "MountGatherers": ""
     },
     {
-<<<<<<< HEAD
-        "GatherableID": "Elk",
-        "DisplayName": "@Elk_DisplayName",
-        "GatheringAction": "Dressing",
-        "GatheringType": "Dressing",
-=======
         "GatherableID": "Turkey_ChameleonNest",
         "DisplayName": "Chameleon Nest",
         "GatheringAction": "None",
         "GatheringType": "None",
->>>>>>> PTR
         "IdleFragment": "",
         "GatheringFragment": "",
         "FinalLootTable": "Turkey_ChameleonNest",
@@ -4971,17 +4922,10 @@
         "MountGatherers": ""
     },
     {
-<<<<<<< HEAD
-        "GatherableID": "ElkCorrupted",
-        "DisplayName": "@Elk_DisplayName",
-        "GatheringAction": "Dressing",
-        "GatheringType": "Dressing",
-=======
         "GatherableID": "Turkey_LizardEgg",
         "DisplayName": "Giant Lizard Egg",
         "GatheringAction": "None",
         "GatheringType": "None",
->>>>>>> PTR
         "IdleFragment": "",
         "GatheringFragment": "",
         "FinalLootTable": "Turkey_LizardEgg",
@@ -16943,51 +16887,6 @@
         "GatheringAction": "LootContainer",
         "GatheringType": "None",
         "IdleFragment": "",
-<<<<<<< HEAD
-        "GatheringFragment": "",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 82800,
-        "MaxRespawnRate": 82800,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 5,
-        "WaitForImpact": false,
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": true,
-        "GameEventID": "",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": true,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": true,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "LootLargeT3ElitePOI_SulfurChestOnly",
-        "DisplayName": "@LootContainer_DisplayName_Large",
-        "GatheringAction": "LootContainer",
-        "GatheringType": "None",
-        "IdleFragment": "",
-=======
->>>>>>> PTR
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
@@ -20845,132 +20744,6 @@
         "LandmarkIconPath": "",
         "RequiredWhisperId": "",
         "MountGatherers": ""
-    },
-    {
-        "GatherableID": "SummerMedley_MusicalHotspot_ShredlyFairEasy",
-        "DisplayName": "",
-        "GatheringAction": "MusicalPerformances",
-        "GatheringType": "MusicalPerformances",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 1,
-        "MaxRespawnRate": 1,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 1,
-        "WaitForImpact": false,
-        "Restriction": "MusicRequired",
-        "AlignGatherer": false,
-        "GameEventID": "",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "YAAAHHHHEasy",
-        "SongRewardId": "MusicBuff_ShredlyFair",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": null,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "SummerMedley_MusicalHotspot_ShredlyFairMedium",
-        "DisplayName": "",
-        "GatheringAction": "MusicalPerformances",
-        "GatheringType": "MusicalPerformances",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 1,
-        "MaxRespawnRate": 1,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 1,
-        "WaitForImpact": false,
-        "Restriction": "MusicRequired",
-        "AlignGatherer": false,
-        "GameEventID": "",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "YAAAHHHHMedium",
-        "SongRewardId": "MusicBuff_ShredlyFair",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": null,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "SummerMedley_MusicalHotspot_ShredlyFairHard",
-        "DisplayName": "",
-        "GatheringAction": "MusicalPerformances",
-        "GatheringType": "MusicalPerformances",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 1,
-        "MaxRespawnRate": 1,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 1,
-        "WaitForImpact": false,
-        "Restriction": "MusicRequired",
-        "AlignGatherer": false,
-        "GameEventID": "",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "YAAAHHHHHard",
-        "SongRewardId": "MusicBuff_ShredlyFair",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": null,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
     },
     {
         "GatherableID": "CorruptedWood",
@@ -32658,11 +32431,7 @@
     },
     {
         "GatherableID": "MSQ_HeadStatue",
-<<<<<<< HEAD
-        "DisplayName": "@MSQ_HeadStatue_DisplayName",
-=======
         "DisplayName": "Examine",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "IdleFragment": "",
@@ -43423,174 +43192,6 @@
         "LandmarkIconPath": "",
         "RequiredWhisperId": "",
         "MountGatherers": ""
-    },
-    {
-        "GatherableID": "SandwormTrial_Drum",
-        "DisplayName": "@SandwormTrial_Drum_Displayname",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "IdleFragment": "Interact_Sandworm_Drum_Idle",
-        "GatheringFragment": "Interact_Sandworm_Drum_Play",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 60480,
-        "MaxRespawnRate": 86400,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": 0,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 12,
-        "WaitForImpact": false,
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": true,
-        "GameEventID": "",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": true,
-        "IsLootContainer": false,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "1",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": 3,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "SandwormTrial_RedButton",
-        "DisplayName": "@SandwormTrial_RedButton_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 60480,
-        "MaxRespawnRate": 86400,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": 0,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 1,
-        "WaitForImpact": false,
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": false,
-        "GameEventID": "",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": false,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "SandwormTrial_BlueButton",
-        "DisplayName": "@SandwormTrial_BlueButton_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 60480,
-        "MaxRespawnRate": 86400,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": 0,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 1,
-        "WaitForImpact": false,
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": false,
-        "GameEventID": "",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": false,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "Season_02_PvE_Event_Trigger_Gatherable",
-        "DisplayName": "@Season_02_PvE_Event_Trigger_Gatherable",
-        "GatheringAction": "AzothStaffHigh",
-        "GatheringType": "AzothStaff",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 64000,
-        "MaxRespawnRate": 64001,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": 0,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 5,
-        "WaitForImpact": false,
-        "Restriction": "ToolRequired",
-        "AlignGatherer": false,
-        "GameEventID": "",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": false,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": true,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": false,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": 10,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
     },
     {
         "GatherableID": "1655_0201_Table_01",
@@ -55747,51 +55348,6 @@
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 60,
         "MaxRespawnRate": 60,
-<<<<<<< HEAD
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 4,
-        "WaitForImpact": false,
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": true,
-        "GameEventID": "Dynasty_Gong_Interact",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": true,
-        "IsLootContainer": false,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "Dynasty_Gong_Fast",
-        "DisplayName": "@Dynasty_Gong_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 7.5,
-        "MaxRespawnRate": 7.5,
-=======
->>>>>>> PTR
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
         "ExpansionIdUnlock": "",
@@ -57806,23 +57362,14 @@
         "MountGatherers": ""
     },
     {
-<<<<<<< HEAD
-        "GatherableID": "16BS_AncientGlyphLock_Chest",
-        "DisplayName": "@16BS_AncientGlyphLock_DisplayName",
-        "GatheringAction": "AzothStaffLow",
-        "GatheringType": "AzothStaff",
-=======
         "GatherableID": "09FL_BeastGlyphLock",
         "DisplayName": "Place Hand",
         "GatheringAction": "AzothStaffCreate",
         "GatheringType": "None",
->>>>>>> PTR
         "IdleFragment": "",
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
-<<<<<<< HEAD
-=======
         "MinRespawnRate": 360,
         "MaxRespawnRate": 360,
         "Tradeskill": "None",
@@ -57915,7 +57462,6 @@
         "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
->>>>>>> PTR
         "MinRespawnRate": 20,
         "MaxRespawnRate": 20,
         "Tradeskill": "AzothStaff",
@@ -63842,48 +63388,6 @@
         "MountGatherers": ""
     },
     {
-        "GatherableID": "Gimmick_BreakingWallsCannon_Vignette",
-        "DisplayName": "@Gimmick_BreakingWallsCannon_DisplayName",
-        "GatheringAction": "Handcrafting",
-        "GatheringType": "None",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 31,
-        "MaxRespawnRate": 31,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 2,
-        "WaitForImpact": false,
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": false,
-        "GameEventID": "IO_Gimmick_BreakingWallsCannon_interact",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": true,
-        "IsLootContainer": false,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
         "GatherableID": "06A_MSQ_05_windmillTurnA",
         "DisplayName": "Turn Windmills",
         "GatheringAction": "Handcrafting",
@@ -64616,180 +64120,8 @@
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "06A_Whisper_01",
-        "DisplayName": "",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 1,
-        "MaxRespawnRate": 1,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 3,
-        "WaitForImpact": false,
-        "Restriction": "WhisperRequired",
-        "AlignGatherer": false,
-        "GameEventID": "06A_WW_whisper_01_interact",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": null,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": false,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "06A_Whisper_02",
-        "DisplayName": "",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 1,
-        "MaxRespawnRate": 1,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 3,
-        "WaitForImpact": false,
-        "Restriction": "WhisperRequired",
-        "AlignGatherer": false,
-        "GameEventID": "06A_WW_whisper_02_interact",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": null,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": false,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "06A_Whisper_03",
-        "DisplayName": "",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 1,
-        "MaxRespawnRate": 1,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 3,
-        "WaitForImpact": false,
-        "Restriction": "WhisperRequired",
-        "AlignGatherer": false,
-        "GameEventID": "06A_WW_whisper_03_interact",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": null,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": false,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "06A_Whisper_04",
-        "DisplayName": "",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 1,
-        "MaxRespawnRate": 1,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 3,
-        "WaitForImpact": false,
-        "Restriction": "WhisperRequired",
-        "AlignGatherer": false,
-        "GameEventID": "06A_WW_whisper_04_interact",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": null,
-        "IsLootContainer": null,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": false,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
->>>>>>> PTR
     },
     {
         "GatherableID": "Cyclic_06A_MSQ_puzzle1_stone1",
@@ -65112,48 +64444,6 @@
         "LandmarkIconPath": "",
         "RequiredWhisperId": "",
         "MountGatherers": ""
-    },
-    {
-        "GatherableID": "Sandworm_ArenaEncounter_WormPellet",
-        "DisplayName": "@WinterConv_Gleamite_Chunk_DisplayName",
-        "GatheringAction": "Mining",
-        "GatheringType": "Mining",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 9000,
-        "MaxRespawnRate": 9000,
-        "Tradeskill": "Mining",
-        "RequiredTradeskillLevel": 0,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 15,
-        "WaitForImpact": true,
-        "Restriction": "ToolRequired",
-        "AlignGatherer": false,
-        "GameEventID": "Sandworm_ArenaEncounter_WormPellet_interact",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": false,
-        "IsLootContainer": false,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": true,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
     },
     {
         "GatherableID": "Whisper_Test_01",
@@ -66120,90 +65410,6 @@
         "LandmarkIconPath": "",
         "RequiredWhisperId": "",
         "MountGatherers": ""
-    },
-    {
-        "GatherableID": "Sandworm_CannonBall",
-        "DisplayName": "@Sandworm_Powerup_DisplayName",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 0,
-        "MaxRespawnRate": 0,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 0.25,
-        "WaitForImpact": false,
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": true,
-        "GameEventID": "",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": true,
-        "IsLootContainer": true,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "Sandworm_Acid_Resistance",
-        "RequiredStatusEffect": "",
-        "ConsumedStatusEffect": "",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "Sandworm_Cannon",
-        "DisplayName": "@Gimmick_BreakingWallsCannon_DisplayName",
-        "GatheringAction": "Handcrafting",
-        "GatheringType": "None",
-        "IdleFragment": "",
-        "GatheringFragment": "",
-        "FinalLootTable": "Empty",
-        "LootTableDefaultMaterial": "",
-        "MinRespawnRate": 3,
-        "MaxRespawnRate": 3,
-        "Tradeskill": "None",
-        "RequiredTradeskillLevel": null,
-        "DepletedGatherableID": null,
-        "BaseGatherTime": 0.5,
-        "WaitForImpact": false,
-        "Restriction": "NoToolNecessary",
-        "AlignGatherer": false,
-        "GameEventID": "",
-        "ItemRestrictionId": "",
-        "ItemRestrictionQuantity": "",
-        "RequiredSongId": "",
-        "SongRewardId": "",
-        "ResetGatherTimeOnEndInteraction": true,
-        "IsLootContainer": false,
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": null,
-        "RequireControllingFaction": null,
-        "AddedStatusEffect": "",
-        "RequiredStatusEffect": "Sandworm_CannonBall",
-        "ConsumedStatusEffect": "Sandworm_CannonBall",
-        "NumRequiredToGather": null,
-        "UsableEmoteTags": "",
-        "DisplayDescription": "",
-        "IsLandmark": null,
-        "TooltipImage": "",
-        "LandmarkIconPath": "",
-        "RequiredWhisperId": ""
     },
     {
         "GatherableID": "12A_Whisper_01",
@@ -67858,12 +67064,8 @@
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
->>>>>>> PTR
     },
     {
         "GatherableID": "95_s01_03_HeroesPoster1",
@@ -68138,12 +67340,8 @@
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
->>>>>>> PTR
     },
     {
         "GatherableID": "95_s01_04_AzothSap",
@@ -69752,12 +68950,8 @@
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
->>>>>>> PTR
     },
     {
         "GatherableID": "99B_MSQ_01_BlessedCandleA",
@@ -72470,13 +71664,6 @@
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "95A_S02_Geyser_Puzzle_BoulderPile",
-        "DisplayName": "@95A_S02_Geyser_Puzzle_BoulderPile_DisplayName",
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
     },
@@ -72989,7 +72176,6 @@
     {
         "GatherableID": "95A_S02_Geyser_Puzzle_BoulderPile",
         "DisplayName": "Carry Rock",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "IdleFragment": "",
@@ -73000,10 +72186,7 @@
         "MaxRespawnRate": 30,
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
-<<<<<<< HEAD
-=======
         "ExpansionIdUnlock": "",
->>>>>>> PTR
         "DepletedGatherableID": null,
         "BaseGatherTime": 0.25,
         "WaitForImpact": false,
@@ -73016,10 +72199,7 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": false,
         "IsLootContainer": false,
-<<<<<<< HEAD
-=======
         "IsElite": null,
->>>>>>> PTR
         "IsDynamicPoiTarget": null,
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -73031,28 +72211,17 @@
         "ConsumedStatusEffect": "",
         "NumRequiredToGather": null,
         "UsableEmoteTags": "",
-<<<<<<< HEAD
-=======
         "RequirementDescription": "",
->>>>>>> PTR
         "DisplayDescription": "",
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "95A_S02_Geyser_Puzzle_Boulder_Interact",
-        "DisplayName": "@95A_S02_Geyser_Puzzle_Boulder_Interact_DisplayName",
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
     },
     {
         "GatherableID": "95A_S02_Geyser_Puzzle_Boulder_Interact",
         "DisplayName": "Place Rock",
->>>>>>> PTR
         "GatheringAction": "None",
         "GatheringType": "None",
         "IdleFragment": "",
@@ -73063,10 +72232,7 @@
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
-<<<<<<< HEAD
-=======
         "ExpansionIdUnlock": "",
->>>>>>> PTR
         "DepletedGatherableID": null,
         "BaseGatherTime": 0.5,
         "WaitForImpact": false,
@@ -73079,10 +72245,7 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": false,
         "IsLootContainer": false,
-<<<<<<< HEAD
-=======
         "IsElite": null,
->>>>>>> PTR
         "IsDynamicPoiTarget": null,
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -73094,20 +72257,13 @@
         "ConsumedStatusEffect": "",
         "NumRequiredToGather": null,
         "UsableEmoteTags": "",
-<<<<<<< HEAD
-=======
         "RequirementDescription": "",
->>>>>>> PTR
         "DisplayDescription": "",
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
->>>>>>> PTR
     },
     {
         "GatherableID": "95A_S02_Geyser_Puzzle_Boulder_InteractFake",
@@ -73122,10 +72278,7 @@
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
-<<<<<<< HEAD
-=======
         "ExpansionIdUnlock": "",
->>>>>>> PTR
         "DepletedGatherableID": null,
         "BaseGatherTime": 0.5,
         "WaitForImpact": false,
@@ -73138,10 +72291,7 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": false,
         "IsLootContainer": false,
-<<<<<<< HEAD
-=======
         "IsElite": null,
->>>>>>> PTR
         "IsDynamicPoiTarget": null,
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -73153,28 +72303,17 @@
         "ConsumedStatusEffect": "",
         "NumRequiredToGather": null,
         "UsableEmoteTags": "",
-<<<<<<< HEAD
-=======
         "RequirementDescription": "",
->>>>>>> PTR
         "DisplayDescription": "",
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "OR_Corrupted_Portal_Encounter_Gatherable",
-        "DisplayName": "@OR_Corrupted_Portal_Encounter_Gatherable_DisplayName",
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
     },
     {
         "GatherableID": "OR_Corrupted_Portal_Encounter_Gatherable",
         "DisplayName": "Corrupted Portal",
->>>>>>> PTR
         "GatheringAction": "AzothStaffHigh",
         "GatheringType": "AzothStaff",
         "IdleFragment": "",
@@ -73185,10 +72324,7 @@
         "MaxRespawnRate": 86400,
         "Tradeskill": "AzothStaff",
         "RequiredTradeskillLevel": null,
-<<<<<<< HEAD
-=======
         "ExpansionIdUnlock": "",
->>>>>>> PTR
         "DepletedGatherableID": null,
         "BaseGatherTime": 10,
         "WaitForImpact": false,
@@ -73201,10 +72337,7 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": false,
-<<<<<<< HEAD
-=======
         "IsElite": null,
->>>>>>> PTR
         "IsDynamicPoiTarget": null,
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -73216,28 +72349,17 @@
         "ConsumedStatusEffect": "",
         "NumRequiredToGather": null,
         "UsableEmoteTags": "",
-<<<<<<< HEAD
-=======
         "RequirementDescription": "",
->>>>>>> PTR
         "DisplayDescription": "",
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "95A_EggChamber_Door",
-        "DisplayName": "@95A_S02_EggChamber_Enter_DisplayName",
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
     },
     {
         "GatherableID": "95A_EggChamber_Door",
         "DisplayName": "Enter",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "IdleFragment": "",
@@ -73248,10 +72370,7 @@
         "MaxRespawnRate": 30,
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
-<<<<<<< HEAD
-=======
         "ExpansionIdUnlock": "",
->>>>>>> PTR
         "DepletedGatherableID": null,
         "BaseGatherTime": 1,
         "WaitForImpact": false,
@@ -73264,10 +72383,7 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-=======
         "IsElite": null,
->>>>>>> PTR
         "IsDynamicPoiTarget": null,
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -73279,28 +72395,17 @@
         "ConsumedStatusEffect": "",
         "NumRequiredToGather": null,
         "UsableEmoteTags": "",
-<<<<<<< HEAD
-=======
         "RequirementDescription": "",
->>>>>>> PTR
         "DisplayDescription": "",
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "95A_EggChamber_Door_Exit",
-        "DisplayName": "@95A_S02_EggChamber_Exit_DisplayName",
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
     },
     {
         "GatherableID": "95A_EggChamber_Door_Exit",
         "DisplayName": "Exit",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "IdleFragment": "",
@@ -73311,10 +72416,7 @@
         "MaxRespawnRate": 30,
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
-<<<<<<< HEAD
-=======
         "ExpansionIdUnlock": "",
->>>>>>> PTR
         "DepletedGatherableID": null,
         "BaseGatherTime": 1,
         "WaitForImpact": false,
@@ -73327,10 +72429,7 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-=======
         "IsElite": null,
->>>>>>> PTR
         "IsDynamicPoiTarget": null,
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -73342,28 +72441,17 @@
         "ConsumedStatusEffect": "",
         "NumRequiredToGather": null,
         "UsableEmoteTags": "",
-<<<<<<< HEAD
-=======
         "RequirementDescription": "",
->>>>>>> PTR
         "DisplayDescription": "",
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "Door_Enter",
-        "DisplayName": "@Door_Enter_DisplayName",
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
     },
     {
         "GatherableID": "Door_Enter",
         "DisplayName": "Enter",
->>>>>>> PTR
         "GatheringAction": "Handcrafting",
         "GatheringType": "None",
         "IdleFragment": "",
@@ -73374,10 +72462,7 @@
         "MaxRespawnRate": 30,
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
-<<<<<<< HEAD
-=======
         "ExpansionIdUnlock": "",
->>>>>>> PTR
         "DepletedGatherableID": null,
         "BaseGatherTime": 1,
         "WaitForImpact": false,
@@ -73390,10 +72475,7 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": true,
-<<<<<<< HEAD
-=======
         "IsElite": null,
->>>>>>> PTR
         "IsDynamicPoiTarget": null,
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -73405,17 +72487,11 @@
         "ConsumedStatusEffect": "",
         "NumRequiredToGather": null,
         "UsableEmoteTags": "",
-<<<<<<< HEAD
-=======
         "RequirementDescription": "",
->>>>>>> PTR
         "DisplayDescription": "",
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
     },
@@ -73648,7 +72724,6 @@
         "LandmarkIconPath": "",
         "RequiredWhisperId": "",
         "MountGatherers": ""
->>>>>>> PTR
     },
     {
         "GatherableID": "Gimmick_AzothChallenge_Start",
@@ -73663,10 +72738,7 @@
         "MaxRespawnRate": 1,
         "Tradeskill": "None",
         "RequiredTradeskillLevel": 0,
-<<<<<<< HEAD
-=======
         "ExpansionIdUnlock": "",
->>>>>>> PTR
         "DepletedGatherableID": null,
         "BaseGatherTime": 1,
         "WaitForImpact": false,
@@ -73679,10 +72751,7 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": true,
         "IsLootContainer": false,
-<<<<<<< HEAD
-=======
         "IsElite": null,
->>>>>>> PTR
         "IsDynamicPoiTarget": null,
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -73694,20 +72763,13 @@
         "ConsumedStatusEffect": "",
         "NumRequiredToGather": null,
         "UsableEmoteTags": "",
-<<<<<<< HEAD
-=======
         "RequirementDescription": "",
->>>>>>> PTR
         "DisplayDescription": "",
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
->>>>>>> PTR
     },
     {
         "GatherableID": "95A_S02_Puzzle_Sphere",
@@ -73722,10 +72784,7 @@
         "MaxRespawnRate": 30,
         "Tradeskill": "None",
         "RequiredTradeskillLevel": null,
-<<<<<<< HEAD
-=======
         "ExpansionIdUnlock": "",
->>>>>>> PTR
         "DepletedGatherableID": null,
         "BaseGatherTime": 0.25,
         "WaitForImpact": false,
@@ -73738,10 +72797,7 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": false,
         "IsLootContainer": false,
-<<<<<<< HEAD
-=======
         "IsElite": null,
->>>>>>> PTR
         "IsDynamicPoiTarget": null,
         "RequireLootItems": "",
         "IconTypeUnlock": "",
@@ -73753,21 +72809,11 @@
         "ConsumedStatusEffect": "",
         "NumRequiredToGather": null,
         "UsableEmoteTags": "",
-<<<<<<< HEAD
-=======
         "RequirementDescription": "",
->>>>>>> PTR
         "DisplayDescription": "",
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-    },
-    {
-        "GatherableID": "Rafflebones_Portal_FOTB",
-        "DisplayName": "@Rafflebones_Portal_FOTB_DisplayName",
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
     },
@@ -74372,7 +73418,6 @@
     {
         "GatherableID": "Rafflebones_Portal_FOTB",
         "DisplayName": "Summon Rafflebones",
->>>>>>> PTR
         "GatheringAction": "AzothStaffCreate",
         "GatheringType": "None",
         "IdleFragment": "",
@@ -74383,10 +73428,7 @@
         "MaxRespawnRate": 300,
         "Tradeskill": "None",
         "RequiredTradeskillLevel": 0,
-<<<<<<< HEAD
-=======
         "ExpansionIdUnlock": "",
->>>>>>> PTR
         "DepletedGatherableID": null,
         "BaseGatherTime": 4,
         "WaitForImpact": false,
@@ -74399,37 +73441,23 @@
         "SongRewardId": "",
         "ResetGatherTimeOnEndInteraction": null,
         "IsLootContainer": false,
-<<<<<<< HEAD
-        "IsDynamicPoiTarget": null,
-        "RequireLootItems": "",
-        "IconTypeUnlock": "",
-        "IgnoreAllObstructions": null,
-        "ObstructBuildables": true,
-=======
         "IsElite": null,
         "IsDynamicPoiTarget": null,
         "RequireLootItems": "",
         "IconTypeUnlock": "",
         "IgnoreAllObstructions": true,
         "ObstructBuildables": null,
->>>>>>> PTR
         "RequireControllingFaction": null,
         "AddedStatusEffect": "",
         "RequiredStatusEffect": "",
         "ConsumedStatusEffect": "",
         "NumRequiredToGather": null,
         "UsableEmoteTags": "",
-<<<<<<< HEAD
-=======
         "RequirementDescription": "",
->>>>>>> PTR
         "DisplayDescription": "",
         "IsLandmark": null,
         "TooltipImage": "",
         "LandmarkIconPath": "",
-<<<<<<< HEAD
-        "RequiredWhisperId": ""
-=======
         "RequiredWhisperId": "",
         "MountGatherers": ""
     },
@@ -74708,6 +73736,5 @@
         "LandmarkIconPath": "",
         "RequiredWhisperId": "",
         "MountGatherers": ""
->>>>>>> PTR
     }
 ]

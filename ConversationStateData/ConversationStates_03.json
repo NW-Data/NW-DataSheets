@@ -939,12 +939,8 @@
         "ConversationStateId": "0322_02_Innkeep",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
-<<<<<<< HEAD
-        "DefaultDialogue": "@NPC_DefaultDialogue_0322_02_Innkeep",
-=======
         "DefaultDialogue": "Welcome to Great Cleave, {playerName}! I'm Eppie Grace, the proprietor of the Hound and Hammer Inn.\\n\\nStop by any time you like to get out of the chill.",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,
@@ -1087,12 +1083,8 @@
         "ConversationStateId": "0323_02_Innkeep",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
-<<<<<<< HEAD
-        "DefaultDialogue": "@NPC_DefaultDialogue_0323_02_Innkeep",
-=======
         "DefaultDialogue": "Welcome {playerName}! I'm Ingram Kent. I run the Dawn's Promise Inn here in Eastburn Outpost.\\n\\nDon't worry, you can sleep late, no need to be up with the dawn here, even if I am!",
         "ForceConversationOpen": "",
->>>>>>> PTR
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": null,

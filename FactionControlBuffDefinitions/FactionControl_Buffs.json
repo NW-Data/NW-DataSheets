@@ -19,13 +19,8 @@
         "FactionControlBuffID": "Progression_Global_Modifier",
         "IsTerritoryBuff": false,
         "Value": 0.05,
-<<<<<<< HEAD
-        "Name": "@ui_progression_global_modifier_name",
-        "Description": "@ui_progression_global_modifier_desc",
-=======
         "Name": "Global Experience Boost",
         "Description": "Increases combat, tradeskill, mastery, and territory experience by {value}.",
->>>>>>> PTR
         "Comments": "Percentageincreasetoglobalexperience(combat,tradeskill,mastery,territory)"
     },
     {
@@ -48,13 +43,8 @@
         "FactionControlBuffID": "Azoth_FastTravel_Distance_Reduction",
         "IsTerritoryBuff": false,
         "Value": 5,
-<<<<<<< HEAD
-        "Name": "@ui_azoth_fasttravel_distance_reduction_name",
-        "Description": "@ui_azoth_fasttravel_distance_reduction_desc",
-=======
         "Name": "Lower Fast Travel Distance Cost",
         "Description": "Fast Travel Distance cost reduced to {value} per {scaleFactor} meters",
->>>>>>> PTR
         "Comments": "Implementedassubtractingthisvaluefromthebasecost,insteadofsettingitto1"
     },
     {
@@ -149,13 +139,8 @@
         "FactionControlBuffID": "Gathering_Luck_Roll_Bonus",
         "IsTerritoryBuff": false,
         "Value": 1000,
-<<<<<<< HEAD
-        "Name": "@ui_gathering_luck_roll_bonus_name",
-        "Description": "@ui_gathering_luck_roll_bonus_desc",
-=======
         "Name": "Global Gathering Luck Boost",
         "Description": "Increases global gathering luck by {value}.",
->>>>>>> PTR
         "Comments": "Percentage bonus to gathering luck"
     },
     {
@@ -170,13 +155,8 @@
         "FactionControlBuffID": "Crafting_Max_GS_Bonus",
         "IsTerritoryBuff": false,
         "Value": 5,
-<<<<<<< HEAD
-        "Name": "@ui_crafting_max_gs_bonus_name",
-        "Description": "@ui_crafting_max_gs_bonus_desc",
-=======
         "Name": "Global Crafting Bonus",
         "Description": "Increases the gearscore ceiling of crafted items by {value} GS.",
->>>>>>> PTR
         "Comments": "GSbonusforcraftingrolls(ceiling,notfloor.)"
     },
     {

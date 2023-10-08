@@ -25,15 +25,6 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": null,
         "CanBeAbandoned": true,
-<<<<<<< HEAD
-        "Title": "@95_s01_01_CROW_GracelessRequest_Title",
-        "Description": "@95_s01_01_CROW_GracelessRequest_Description",
-        "PlayerPrompt": "@95_s01_01_CROW_GracelessRequest_Start",
-        "ObjectiveProposalResponse": "@95_s01_01_CROW_GracelessRequest_Proposal",
-        "InProgressResponse": "@95_s01_01_CROW_GracelessRequest_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@95_s01_01_CROW_GracelessRequest_Complete",
-=======
         "Title": "The Silver Crows",
         "Description": "Grace O'Malley has developed a plan to found an enterprising new group of heroes who can work together to face the threats of Aeternum and possibly earn a little coin in the process.",
         "PlayerPrompt": "\"Give up on escaping Aeternum?\"",
@@ -41,7 +32,6 @@
         "InProgressResponse": "These pesky Corrupted keep turning up everywhere. \\n\\nI'm starting to get used to it.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
         "DestinationCompletionAvailableResponse": "Now we got a safe place for the Silver Crows to call home! It's time to start expanding the crew and earning some coin! \\n\\nI'd swear I've crossed this entire island ten times now, so I'll handle this place - you do the footwork.",
->>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -164,15 +154,6 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": null,
         "CanBeAbandoned": true,
-<<<<<<< HEAD
-        "Title": "@95_s01_05_CROW_CanonAndCoin_Title",
-        "Description": "@95_s01_05_CROW_CanonAndCoin_Description",
-        "PlayerPrompt": "@95_s01_05_CROW_CanonAndCoin_Start",
-        "ObjectiveProposalResponse": "@95_s01_05_CROW_CanonAndCoin_Proposal",
-        "InProgressResponse": "@95_s01_05_CROW_CanonAndCoin_Incomplete",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@95_s01_05_CROW_CanonAndCoin_Complete",
-=======
         "Title": "Canon and Coin",
         "Description": "Help Zander find a way out of his organization.",
         "PlayerPrompt": "\"What happened to him?\"",
@@ -180,7 +161,6 @@
         "InProgressResponse": "If you talk to Granny, be… diplomatic. \\n\\nI can still hear the sound of dirt hitting the lid of that coffin.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
         "DestinationCompletionAvailableResponse": "First off, great work getting Zander to sign on, he'll be a great add to our team. \\n\\nSecond, that mangy dog he brought? It has to go.",
->>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",

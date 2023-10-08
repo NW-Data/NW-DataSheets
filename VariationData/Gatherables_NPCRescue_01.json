@@ -130,8 +130,6 @@
         "NPC_OnInteract_SFX": "",
         "InteractOnlyOnQuest": true,
         "InteractTag": "IO_98_Covenant_02_Captive"
-<<<<<<< HEAD
-=======
     },
     {
         "VariantID": "09A_S1_Boar_Trapped",
@@ -198,6 +196,5 @@
         "NPC_OnInteract_SFX": "play_npc_09A_RangerRescue_Bark_4",
         "InteractOnlyOnQuest": true,
         "InteractTag": "IO_09A_S2_Ranger_TrappedD"
->>>>>>> PTR
     }
 ]

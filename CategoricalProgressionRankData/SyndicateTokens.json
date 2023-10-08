@@ -1,24 +1,8 @@
 [
     {
         "Rank": 0,
-<<<<<<< HEAD
-        "DisplayName": "@owg_rank_merchant_1",
-        "MaximumInfluence": 15000,
-        "RequiredLevel": "",
-        "InfluenceCost": "",
-        "CurrencyCost": "",
-        "AzothCost": "",
-        "SanityCheck": "",
-        "GameEventId": ""
-    },
-    {
-        "Rank": 1,
-        "DisplayName": "@owg_rank_merchant_2",
-        "MaximumInfluence": 30000,
-=======
         "DisplayName": "Adept",
         "MaximumInfluence": 15000,
->>>>>>> PTR
         "RequiredLevel": "",
         "InfluenceCost": "",
         "CurrencyCost": "",
@@ -39,11 +23,7 @@
     },
     {
         "Rank": 2,
-<<<<<<< HEAD
-        "DisplayName": "@owg_rank_merchant_3",
-=======
         "DisplayName": "Chronicler",
->>>>>>> PTR
         "MaximumInfluence": 45000,
         "RequiredLevel": "",
         "InfluenceCost": "",
@@ -54,11 +34,7 @@
     },
     {
         "Rank": 3,
-<<<<<<< HEAD
-        "DisplayName": "@owg_rank_merchant_4",
-=======
         "DisplayName": "Cabalist",
->>>>>>> PTR
         "MaximumInfluence": 75000,
         "RequiredLevel": "",
         "InfluenceCost": "",
@@ -69,10 +45,6 @@
     },
     {
         "Rank": 4,
-<<<<<<< HEAD
-        "DisplayName": "@owg_rank_merchant_5",
-        "MaximumInfluence": 150000,
-=======
         "DisplayName": "Alchemist",
         "MaximumInfluence": 150000,
         "RequiredLevel": "",
@@ -86,7 +58,6 @@
         "Rank": 5,
         "DisplayName": "Magus",
         "MaximumInfluence": 300000,
->>>>>>> PTR
         "RequiredLevel": "",
         "InfluenceCost": "",
         "CurrencyCost": "",
