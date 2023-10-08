@@ -1,6 +1,7 @@
 [
     {
         "Rank": 0,
+<<<<<<< HEAD
         "DisplayName": "@owg_rank_procurer_1",
         "MaximumInfluence": 15000,
         "RequiredLevel": "",
@@ -14,6 +15,21 @@
         "Rank": 1,
         "DisplayName": "@owg_rank_procurer_2",
         "MaximumInfluence": 30000,
+=======
+        "DisplayName": "Soldier",
+        "MaximumInfluence": 15000,
+>>>>>>> PTR
+        "RequiredLevel": "",
+        "InfluenceCost": "",
+        "CurrencyCost": "",
+        "AzothCost": "",
+        "SanityCheck": "",
+        "GameEventId": ""
+    },
+    {
+        "Rank": 1,
+        "DisplayName": "Gladiator",
+        "MaximumInfluence": 30000,
         "RequiredLevel": "",
         "InfluenceCost": "",
         "CurrencyCost": "",
@@ -23,7 +39,11 @@
     },
     {
         "Rank": 2,
+<<<<<<< HEAD
         "DisplayName": "@owg_rank_procurer_3",
+=======
+        "DisplayName": "Ravager",
+>>>>>>> PTR
         "MaximumInfluence": 45000,
         "RequiredLevel": "",
         "InfluenceCost": "",
@@ -34,7 +54,11 @@
     },
     {
         "Rank": 3,
+<<<<<<< HEAD
         "DisplayName": "@owg_rank_procurer_4",
+=======
+        "DisplayName": "Destroyer",
+>>>>>>> PTR
         "MaximumInfluence": 75000,
         "RequiredLevel": "",
         "InfluenceCost": "",
@@ -45,8 +69,24 @@
     },
     {
         "Rank": 4,
+<<<<<<< HEAD
         "DisplayName": "@owg_rank_procurer_5",
         "MaximumInfluence": 150000,
+=======
+        "DisplayName": "Commander",
+        "MaximumInfluence": 150000,
+        "RequiredLevel": "",
+        "InfluenceCost": "",
+        "CurrencyCost": "",
+        "AzothCost": "",
+        "SanityCheck": "",
+        "GameEventId": ""
+    },
+    {
+        "Rank": 5,
+        "DisplayName": "Marshall",
+        "MaximumInfluence": 300000,
+>>>>>>> PTR
         "RequiredLevel": "",
         "InfluenceCost": "",
         "CurrencyCost": "",

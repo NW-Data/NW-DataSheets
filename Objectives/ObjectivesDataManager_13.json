@@ -1,36 +1,36 @@
 [
     {
-        "ObjectiveID": "1305_1315_SingedBranches_Quest",
-        "Type": "EpicEquipment",
+        "ObjectiveID": "13_Summer_01_Welcome",
+        "Type": "Event",
         "Difficulty": "",
-        "DifficultyLevel": null,
+        "DifficultyLevel": 20,
         "MaxInfluenceLevel": "",
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "1305_1315_SingedBranches_Quest_container",
-        "NpcDestinationId": "",
+        "Task": "13_Summer_01_Welcome_container",
+        "NpcDestinationId": "1338_MasterOfCeremonies",
         "ExclusiveTerritory": null,
-        "AchievementId": "WeaponQuest_FalmeasWrath_01",
+        "AchievementId": "13_Summer_01_2023",
         "RequiredAchievementId": "",
         "RequiredFaction": "",
         "RequiredLevel": null,
-        "SuccessGameEventId": "1305_1315_SingedBranches_Quest_Success",
+        "SuccessGameEventId": "13_Summer_01_Welcome_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
         "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": null,
+        "ItemRewardName": "13_Summer_01_QuestReward",
+        "ItemRewardQty": 1,
         "Repeatable": null,
-        "CanBeAbandoned": false,
-        "Title": "@1305_1315_SingedBranches_Quest_objective_title",
-        "Description": "@1305_1315_SingedBranches_Quest_description",
-        "PlayerPrompt": "",
-        "ObjectiveProposalResponse": "",
-        "InProgressResponse": "",
-        "DestinationCompletionAvailablePrompt": "",
-        "DestinationCompletionAvailableResponse": "",
+        "CanBeAbandoned": true,
+        "Title": "A Warm Medleyfaire Welcome",
+        "Description": "Welcome to Summer Medleyfaire! Interact with the Summer Deposit Boxes and collect the instruments placed around the Summer Village.",
+        "PlayerPrompt": "\"This doesn't look humble to me.\"",
+        "ObjectiveProposalResponse": "Tsk, such flattery! We're going to be fast friends, you and I. But where are my manners? \\n\\nI'll be your Master of Ceremonies during this joyous time. Music, fishing, dancing, feasting--you'll find my Summer Villages full of revelry!",
+        "InProgressResponse": "Come one, come all, to the Summer Medleyfaire! \\n\\nAh, dear friend, are you still without an instrument? Don't be shy, select any you wish!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Yes, now you're ready to revel! \\n\\nI've always loved music, but the magic of the island breathes fresh life into my tunes. Especially this time of year, when the Aeternum Sturgeon returns to our shores.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -39,40 +39,41 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "EventSummer"
     },
     {
-        "ObjectiveID": "1305_1315_WyrdwoodAshes_Quest",
-        "Type": "EpicEquipment",
+        "ObjectiveID": "13_Summer_02_Maudlinbugs",
+        "Type": "Event",
         "Difficulty": "",
-        "DifficultyLevel": null,
+        "DifficultyLevel": 20,
         "MaxInfluenceLevel": "",
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "1305_1315_WyrdwoodAshes_Quest_container",
-        "NpcDestinationId": "",
+        "Task": "13_Summer_02_Maudlinbugs_container",
+        "NpcDestinationId": "1338_MasterOfCeremonies",
         "ExclusiveTerritory": null,
-        "AchievementId": "WeaponQuest_FalmeasWrath_02",
-        "RequiredAchievementId": "",
+        "AchievementId": "13_Summer_02_2023",
+        "RequiredAchievementId": "13_Summer_01_2023",
         "RequiredFaction": "",
         "RequiredLevel": null,
-        "SuccessGameEventId": "1305_1315_WyrdwoodAshes_Quest_Success",
+        "SuccessGameEventId": "13_Summer_02_Maudlinbugs_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
         "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": null,
+        "ItemRewardName": "13_Summer_02_QuestReward",
+        "ItemRewardQty": 1,
         "Repeatable": null,
-        "CanBeAbandoned": false,
-        "Title": "@1305_1315_WyrdwoodAshes_Quest_objective_title",
-        "Description": "@1305_1315_WyrdwoodAshes_Quest_description",
-        "PlayerPrompt": "",
-        "ObjectiveProposalResponse": "",
-        "InProgressResponse": "",
-        "DestinationCompletionAvailablePrompt": "",
-        "DestinationCompletionAvailableResponse": "",
+        "CanBeAbandoned": true,
+        "Title": "Maudlinbug Haze",
+        "Description": "Travel to a Maudlinbug Swarm\u0026lt;img src=\"lyshineui/images/map/icon/pois/maudlinbug\" xPadding=\"0\" scale=\"2.5\" yOffset=\"5.2\"\u0026gt;\u0026lt;/img\u0026gt;and perform the Maudlinbug Haze with a guitar equipped to collect Maudlinbug Bait and Maudlindust.",
+        "PlayerPrompt": "\"Maudlinbug? What an odd name.\"",
+        "ObjectiveProposalResponse": "Why, I devised it! I thought it fitting for the little, glittery creatures. \\n\\nEh, some of my guests find their constant droning tiresome, but the bugs have their uses. Their dust for decorations, their bodies for sturgeon bait.",
+        "InProgressResponse": "You needn't worry about staying in tempo or on pitch. It's really the festive spirit that counts! \\n\\nOh, and do be careful of the Maudlindust. It tends to cling to one's clothes…",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Let's see. Maudlindust, bags of bait, and… hmm… festive spirit. My dear friend, you are finally ready for the main event! \\n\\nAngling for the largest, fairest, most impressive fish in all creation: the Aeternum Sturgeon!",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -81,40 +82,41 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "EventSummer"
     },
     {
-        "ObjectiveID": "1305_1315_UnhallowedWater_Quest",
-        "Type": "EpicEquipment",
+        "ObjectiveID": "13_Summer_03_CatchSturgeon",
+        "Type": "Event",
         "Difficulty": "",
-        "DifficultyLevel": null,
+        "DifficultyLevel": 20,
         "MaxInfluenceLevel": "",
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "1305_1315_UnhallowedWater_Quest_container",
-        "NpcDestinationId": "",
+        "Task": "13_Summer_03_CatchSturgeon_container",
+        "NpcDestinationId": "1338_MasterOfCeremonies",
         "ExclusiveTerritory": null,
-        "AchievementId": "WeaponQuest_FalmeasWrath_03",
-        "RequiredAchievementId": "",
+        "AchievementId": "13_Summer_03_2023",
+        "RequiredAchievementId": "13_Summer_02_2023",
         "RequiredFaction": "",
         "RequiredLevel": null,
-        "SuccessGameEventId": "1305_1315_UnhallowedWater_Quest_Success",
+        "SuccessGameEventId": "13_Summer_03_CatchSturgeon_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
         "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": null,
+        "ItemRewardName": "13_Summer_03_QuestReward",
+        "ItemRewardQty": 1,
         "Repeatable": null,
         "CanBeAbandoned": false,
-        "Title": "@1305_1315_UnhallowedWater_Quest_objective_title",
-        "Description": "@1305_1315_UnhallowedWater_Quest_description",
-        "PlayerPrompt": "",
-        "ObjectiveProposalResponse": "",
-        "InProgressResponse": "",
-        "DestinationCompletionAvailablePrompt": "",
-        "DestinationCompletionAvailableResponse": "",
+        "Title": "Sturgeon Song",
+        "Description": "Catch an Aeternum Sturgeon in any open water source using Maudlinbugs as bait. Locate Aeternum Sturgeon Fishing Hotspots\u0026lt;img src=\"lyshineui/images/map/icon/pois/fish_hotspot_sm\" xPadding=\"0\" scale=\"2.5\" yOffset=\"5.2\"\u0026gt;\u0026lt;/img\u0026gt;for an extra angling boost!",
+        "PlayerPrompt": "\"What do you do with all this sturgeon?\"",
+        "ObjectiveProposalResponse": "Oh, don't bring the fish to me, heavens no! I'm an appalling chef. \\n\\nBut Claudia and Kartik are magnificent culinarians, and two of my favorite people. They've really outdone themselves with this year's feast.",
+        "InProgressResponse": "Aren't you hungry? Remember, three Aeternum Sturgeon, and they won’t bite unless you bait them with Maudlinbugs.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Oh, such magnificent specimens almost look too lovely to eat! \\n\\nNow, if you feel the same way, Tanaka Jin should be around here somewhere. He'll help our anglers mount catches for display.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -123,40 +125,41 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "EventSummer"
     },
     {
-        "ObjectiveID": "1305_1315_HeartofAllFlame_Quest",
-        "Type": "EpicEquipment",
+        "ObjectiveID": "13_Summer_04_Carpenter",
+        "Type": "Event",
         "Difficulty": "",
-        "DifficultyLevel": null,
+        "DifficultyLevel": 20,
         "MaxInfluenceLevel": "",
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "1305_1315_HeartofAllFlame_Quest_container",
-        "NpcDestinationId": "",
+        "Task": "13_Summer_04_Carpenter_container",
+        "NpcDestinationId": "1338_MasterOfCeremonies",
         "ExclusiveTerritory": null,
-        "AchievementId": "WeaponQuest_FalmeasWrath_04",
-        "RequiredAchievementId": "",
+        "AchievementId": "13_Summer_04_2023",
+        "RequiredAchievementId": "13_Summer_03_2023",
         "RequiredFaction": "",
         "RequiredLevel": null,
-        "SuccessGameEventId": "1305_1315_HeartofAllFlame_Quest_Success",
+        "SuccessGameEventId": "13_Summer_04_Carpenter_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
         "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": null,
+        "ItemRewardName": "13_Summer_04_QuestReward",
+        "ItemRewardQty": 1,
         "Repeatable": null,
-        "CanBeAbandoned": false,
-        "Title": "@1305_1315_HeartofAllFlame_Quest_objective_title",
-        "Description": "@1305_1315_HeartofAllFlame_Quest_description",
-        "PlayerPrompt": "",
-        "ObjectiveProposalResponse": "",
-        "InProgressResponse": "",
-        "DestinationCompletionAvailablePrompt": "",
-        "DestinationCompletionAvailableResponse": "",
+        "CanBeAbandoned": true,
+        "Title": "Stagecraft",
+        "Description": "Mend the Carpenter's Bench for Susanne Weber to join the Medleyfaire.",
+        "PlayerPrompt": "\"You keep an invite list?\"",
+        "ObjectiveProposalResponse": "Not precisely. Everyone on the island is welcome to my revels! But in my eagerness, I may have, ahem, overlooked some practicalities to keep the festival running smoothly. \\n\\nSo first, we'll need a carpenter! One so skilled that wood trembles in her presence.",
+        "InProgressResponse": "Susanne may take a tiny little bit of convincing. She finds me overwhelming, can you imagine?! \\n\\nBut not to worry, dear {playerName}, I have the utmost confidence in you!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Huzzah! I should send you to fetch Susanne every year! Poor dear spends all her time with her nose to the grindstone… \\n\\nAll work and no play makes Aeternum a dull place.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -165,7 +168,223 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "EventSummer"
+    },
+    {
+        "ObjectiveID": "13_Summer_05_Florist",
+        "Type": "Event",
+        "Difficulty": "",
+        "DifficultyLevel": 20,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "13_Summer_05_Florist_container",
+        "NpcDestinationId": "1338_MasterOfCeremonies",
+        "ExclusiveTerritory": null,
+        "AchievementId": "13_Summer_05_2023",
+        "RequiredAchievementId": "13_Summer_04_2023",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "13_Summer_05_Florist_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "13_Summer_05_QuestReward",
+        "ItemRewardQty": 1,
+        "Repeatable": null,
+        "CanBeAbandoned": true,
+        "Title": "Flower Power",
+        "Description": "Water Flowers for Bak Ye-Jun to join the Medleyfaire.",
+        "PlayerPrompt": "\"She will soon, with the noise we're making.\"",
+        "ObjectiveProposalResponse": "That's the spirit! Ye-Jun lives by herself, where the flowers grow aplenty. \\n\\nWhen we first met, she told me that she wishes to spend her eternal life brightening up the land with endless fields of flowers.",
+        "InProgressResponse": "We need an injection of life and color, and quick! \\n\\nDon't fail me now, my dear friend!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Oh, flowers and dancing simply belong together, don't you think? \\n\\nI should ask Ye-Jun if I can set up a stage near her flower fields next year. Carefully, I assure you!",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "EventSummer"
+    },
+    {
+        "ObjectiveID": "13_Summer_06_Beekeep",
+        "Type": "Event",
+        "Difficulty": "",
+        "DifficultyLevel": 20,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "13_Summer_06_Beekeep_container",
+        "NpcDestinationId": "1338_MasterOfCeremonies",
+        "ExclusiveTerritory": null,
+        "AchievementId": "13_Summer_06_2023",
+        "RequiredAchievementId": "13_Summer_05_2023",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "13_Summer_06_Beekeep_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "13_Summer_06_QuestReward",
+        "ItemRewardQty": 1,
+        "Repeatable": null,
+        "CanBeAbandoned": true,
+        "Title": "Bees in Bonnets",
+        "Description": "Tend to Disturbed Apiraries for Luis Morales to join the Medleyfaire.",
+        "PlayerPrompt": "\"Uh oh…\"",
+        "ObjectiveProposalResponse": "Oh dear, I didn't mean to give you the wrong impression! His name is Luis Morales, and he's the sweetest man I've ever met. \\n\\nA fine apiarist, and a bear on the dance floor if you catch my meaning.",
+        "InProgressResponse": "Luis and I met when he built his very first apiary. Oh, I can still remember the sunshine filtering through the first bottle of honey mead. \\n\\nIt was unwise of us to drink the whole damn thing, but it was so worth it.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Ah, Luis, my dear old friend. Look at the smile on his face. \\n\\nWhat's life without a little fun, hmm? Hogwash, I say.",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "EventSummer"
+    },
+    {
+        "ObjectiveID": "13_Summer_07_Baker",
+        "Type": "Event",
+        "Difficulty": "",
+        "DifficultyLevel": 20,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "13_Summer_07_Baker_container",
+        "NpcDestinationId": "1338_MasterOfCeremonies",
+        "ExclusiveTerritory": null,
+        "AchievementId": "13_Summer_07_2023",
+        "RequiredAchievementId": "13_Summer_06_2023",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "13_Summer_07_Baker_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "13_Summer_07_QuestReward",
+        "ItemRewardQty": 1,
+        "Repeatable": null,
+        "CanBeAbandoned": true,
+        "Title": "Sweet Treats",
+        "Description": "Clean the Baking Ovens so Mischa Balchunas can join the Medleyfaire.",
+        "PlayerPrompt": "\"Sounds like you know everyone on Aeternum.\"",
+        "ObjectiveProposalResponse": "You could say it's a life goal of mine, and now I have eternity to do it. But I digress. \\n\\nMischa rarely peeks her head out of her shell. Still, I can't bear the thought of leaving her alone while we revel.",
+        "InProgressResponse": "Mmm, Mischa's lemon bars are simply transcendent. \\n\\nWith how rare sugar and lemons are, I can only imagine the lengths she goes to get them!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "The sweet smell of lemons and sugar fills the air. And you even convinced Mischa to do a bit of dancing? \\n\\nYou are a revelation, a natural at the art of merrymaking!",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "EventSummer"
+    },
+    {
+        "ObjectiveID": "13_Summer_08_Poet",
+        "Type": "Event",
+        "Difficulty": "",
+        "DifficultyLevel": 20,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "13_Summer_08_Poet_container",
+        "NpcDestinationId": "1338_MasterOfCeremonies",
+        "ExclusiveTerritory": null,
+        "AchievementId": "13_Summer_08_2023",
+        "RequiredAchievementId": "13_Summer_07_2023",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "13_Summer_08_Poet_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "13_Summer_08_QuestReward",
+        "ItemRewardQty": 1,
+        "Repeatable": null,
+        "CanBeAbandoned": true,
+        "Title": "Magnum Opus",
+        "Description": "Dance to give inspiration to Blaise Thomas to join the Medleyfaire.",
+        "PlayerPrompt": "\"That's very high praise.\"",
+        "ObjectiveProposalResponse": "Yes! In fact, I own a personalized collection of his works! \\n\\nBut when I wrote him and begged him to grace our little Medleyfaire, his response was… disheartening.",
+        "InProgressResponse": "I know it may sound daunting. \\n\\nBut if anybody can convince Blaise Thomas to join in our festivities and take up the quill once more…it's you.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Is that a page of verse from Blaise? May I see? \\n\\nWell, it's certainly… exuberant! And that is all I ask of any of my beloved guests. Some good cheer, and a heart open to joy.",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "EventSummer"
+    },
+    {
+        "ObjectiveID": "13_Summer_09_PlayWithBand",
+        "Type": "Event",
+        "Difficulty": "",
+        "DifficultyLevel": 20,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "13_Summer_09_PlayWithBand_container",
+        "NpcDestinationId": "1338_MasterOfCeremonies",
+        "ExclusiveTerritory": null,
+        "AchievementId": "13_Summer_09_2023",
+        "RequiredAchievementId": "13_Summer_08_2023",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "13_Summer_09_PlayWithBand_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "13_Summer_09_QuestReward",
+        "ItemRewardQty": 1,
+        "Repeatable": null,
+        "CanBeAbandoned": true,
+        "Title": "Spreading the Cheer",
+        "Description": "Play music at various locations to advertise the Summer Medleyfaire.",
+        "PlayerPrompt": "\"Is there anything else I can do?\"",
+        "ObjectiveProposalResponse": "Well, I must confess something, dear friend. I have a dream, you see. Of the entire island ringing with song. \\n\\nOf the very streets, the cliffs, the rivers of Aeternum alive with laughter and joy!",
+        "InProgressResponse": "Someday… my Medleyfaire shall grow and encompass the whole of this isle. \\n\\nBut until that lovely dream comes true, I will need your help, {playerName}.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "And to think, not so long ago, you didn't even own an instrument! \\n\\nYou, my dear {playerName}, are truly a Maestro in your own right. Next Medleyfaire, I shall compose a grander duet in your honor!",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "EventSummer"
     },
     {
         "ObjectiveID": "FM_1301_objective",
@@ -207,7 +426,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1302_objective",
@@ -249,7 +469,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1303_objective",
@@ -291,7 +512,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1304_objective",
@@ -333,7 +555,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1305_objective",
@@ -375,7 +598,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1306_objective",
@@ -417,7 +641,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1307_objective",
@@ -459,7 +684,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1308_objective",
@@ -501,7 +727,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1309_objective",
@@ -543,7 +770,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1310_objective",
@@ -585,7 +813,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1301_objective",
@@ -627,7 +856,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1302_objective",
@@ -669,7 +899,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1303_objective",
@@ -711,7 +942,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1304_objective",
@@ -753,7 +985,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1305_objective",
@@ -795,7 +1028,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1306_objective",
@@ -837,7 +1071,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1307_objective",
@@ -879,7 +1114,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1308_objective",
@@ -921,7 +1157,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1309_objective",
@@ -963,7 +1200,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1310_objective",
@@ -1005,7 +1243,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1301_objective",
@@ -1047,7 +1286,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1302_objective",
@@ -1089,7 +1329,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1303_objective",
@@ -1131,7 +1372,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1304_objective",
@@ -1173,7 +1415,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1305_objective",
@@ -1215,7 +1458,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1306_objective",
@@ -1257,7 +1501,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1307_objective",
@@ -1299,7 +1544,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1308_objective",
@@ -1341,7 +1587,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1309_objective",
@@ -1383,7 +1630,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1310_objective",
@@ -1425,7 +1673,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1361_objective",
@@ -1467,7 +1716,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1362_objective",
@@ -1509,7 +1759,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1363_objective",
@@ -1551,7 +1802,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1364_objective",
@@ -1593,7 +1845,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1365_objective",
@@ -1635,7 +1888,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1366_objective",
@@ -1677,7 +1931,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1367_objective",
@@ -1719,7 +1974,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1368_objective",
@@ -1761,7 +2017,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1369_objective",
@@ -1803,7 +2060,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1370_objective",
@@ -1845,7 +2103,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1361_objective",
@@ -1887,7 +2146,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1362_objective",
@@ -1929,7 +2189,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1363_objective",
@@ -1971,7 +2232,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1364_objective",
@@ -2013,7 +2275,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1365_objective",
@@ -2055,7 +2318,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1366_objective",
@@ -2097,7 +2361,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1367_objective",
@@ -2139,7 +2404,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1368_objective",
@@ -2181,7 +2447,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1369_objective",
@@ -2223,7 +2490,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1370_objective",
@@ -2265,7 +2533,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1361_objective",
@@ -2307,7 +2576,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1362_objective",
@@ -2349,7 +2619,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1363_objective",
@@ -2391,7 +2662,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1364_objective",
@@ -2433,7 +2705,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1365_objective",
@@ -2475,7 +2748,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1366_objective",
@@ -2517,7 +2791,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1367_objective",
@@ -2559,7 +2834,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1368_objective",
@@ -2601,7 +2877,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1369_objective",
@@ -2643,7 +2920,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1370_objective",
@@ -2685,7 +2963,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_PVP_SpySpot_Marauder_objective",
@@ -2727,7 +3006,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_PVP_PoachSpot_Marauder_objective",
@@ -2769,7 +3049,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_PVP_ControlSpot_Marauder_objective",
@@ -2811,7 +3092,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_PVP_SpySpot_Syndicate_objective",
@@ -2853,7 +3135,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_PVP_PoachSpot_Syndicate_objective",
@@ -2895,7 +3178,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_PVP_ControlSpot_Syndicate_objective",
@@ -2937,7 +3221,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_PVP_SpySpot_Covenant_objective",
@@ -2979,7 +3264,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_PVP_PoachSpot_Covenant_objective",
@@ -3021,7 +3307,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_PVP_ControlSpot_Covenant_objective",
@@ -3063,7 +3350,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_H_01_objective",
@@ -3105,7 +3393,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_H_02_objective",
@@ -3147,7 +3436,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_13_H_03_objective",
@@ -3189,6 +3479,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     }
 ]

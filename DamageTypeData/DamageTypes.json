@@ -2,7 +2,7 @@
     {
         "TypeID": "True",
         "IntID": 1,
-        "DisplayName": "@True_DamageName",
+        "DisplayName": "True Damage",
         "Category": "True",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -15,7 +15,7 @@
     {
         "TypeID": "Falling",
         "IntID": 2,
-        "DisplayName": "@Falling_DamageName",
+        "DisplayName": "Falling Damage",
         "Category": "True",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -28,7 +28,7 @@
     {
         "TypeID": "Standard",
         "IntID": 3,
-        "DisplayName": "@Standard_DamageName",
+        "DisplayName": "Standard Damage",
         "Category": "Physical",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -41,7 +41,7 @@
     {
         "TypeID": "Slash",
         "IntID": 4,
-        "DisplayName": "@Slash_DamageName",
+        "DisplayName": "Slash Damage",
         "Category": "Physical",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -54,7 +54,7 @@
     {
         "TypeID": "Thrust",
         "IntID": 5,
-        "DisplayName": "@Thrust_DamageName",
+        "DisplayName": "Thrust Damage",
         "Category": "Physical",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -67,7 +67,7 @@
     {
         "TypeID": "Strike",
         "IntID": 6,
-        "DisplayName": "@Strike_DamageName",
+        "DisplayName": "Strike Damage",
         "Category": "Physical",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -80,7 +80,7 @@
     {
         "TypeID": "PhysFire",
         "IntID": 7,
-        "DisplayName": "@PhysFire_DamageName",
+        "DisplayName": "Fire Damage",
         "Category": "Physical",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -93,7 +93,7 @@
     {
         "TypeID": "Arcane",
         "IntID": 8,
-        "DisplayName": "@Arcane_DamageName",
+        "DisplayName": "Arcane Damage",
         "Category": "Elemental",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -106,7 +106,7 @@
     {
         "TypeID": "Fire",
         "IntID": 9,
-        "DisplayName": "@Fire_DamageName",
+        "DisplayName": "Fire Damage",
         "Category": "Elemental",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -119,7 +119,7 @@
     {
         "TypeID": "Lightning",
         "IntID": 10,
-        "DisplayName": "@Lightning_DamageName",
+        "DisplayName": "Lightning Damage",
         "Category": "Elemental",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -132,7 +132,7 @@
     {
         "TypeID": "Corruption",
         "IntID": 11,
-        "DisplayName": "@Corruption_DamageName",
+        "DisplayName": "Void Damage",
         "Category": "Elemental",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -145,7 +145,7 @@
     {
         "TypeID": "Siege",
         "IntID": 12,
-        "DisplayName": "@Siege_DamageName",
+        "DisplayName": "Siege Damage",
         "Category": "Physical",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -158,7 +158,7 @@
     {
         "TypeID": "Ice",
         "IntID": 13,
-        "DisplayName": "@Ice_DamageName",
+        "DisplayName": "Ice Damage",
         "Category": "Elemental",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -171,7 +171,7 @@
     {
         "TypeID": "Nature",
         "IntID": 14,
-        "DisplayName": "@Nature_DamageName",
+        "DisplayName": "Nature Damage",
         "Category": "Elemental",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -184,7 +184,7 @@
     {
         "TypeID": "Acid",
         "IntID": 15,
-        "DisplayName": "@Acid_DamageName",
+        "DisplayName": "Acid Damage",
         "Category": "True",
         "Affliction": "",
         "AfflictionFrac": 0,
@@ -197,7 +197,7 @@
     {
         "TypeID": "Brimstone",
         "IntID": 16,
-        "DisplayName": "@True_DamageName",
+        "DisplayName": "True Damage",
         "Category": "True",
         "Affliction": "",
         "AfflictionFrac": 0,

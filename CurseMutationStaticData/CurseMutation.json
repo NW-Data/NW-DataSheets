@@ -4,8 +4,8 @@
         "CurseMinor": "Mut_Curse1_Wildcard_Minor_Buff",
         "CurseMajor": "Mut_Curse1_Wildcard_Major_Buff",
         "GlobalAffliction": "",
-        "Name": "@FrenziedTitle",
-        "Description": "@FrenziedDescription",
+        "Name": "Frenzied",
+        "Description": "Frenzied Description",
         "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_frenzied.dds"
     },
     {
@@ -13,8 +13,8 @@
         "CurseMinor": "Mut_Curse2_Minor_Buff",
         "CurseMajor": "Mut_Curse2_Wildcard_Major_Buff",
         "GlobalAffliction": "AfflictionCurse2",
-        "Name": "@FiendishTitle",
-        "Description": "@FiendishDescription",
+        "Name": "Fiendish",
+        "Description": "Fiendish Description",
         "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_fiendish.dds"
     },
     {
@@ -22,8 +22,8 @@
         "CurseMinor": "Mut_Wildcard_Curse3_Minor_Buff",
         "CurseMajor": "Mut_Wildcard_Curse3_Major_Buff",
         "GlobalAffliction": "AfflictionCurse3",
-        "Name": "@DesiccatedTitle",
-        "Description": "@DesiccatedDescription",
+        "Name": "Desiccated",
+        "Description": "Desiccated Description",
         "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_desiccated.dds"
     },
     {
@@ -31,8 +31,8 @@
         "CurseMinor": "Mut_Wildcard_Curse4_Minor_Buff",
         "CurseMajor": "Mut_Curse4_Major_Buff",
         "GlobalAffliction": "AfflictionCurse4",
-        "Name": "@CensoredTitle",
-        "Description": "@CensoredDescription",
+        "Name": "Censored",
+        "Description": "Censored Description",
         "IconPath": "LyShineUI/Images/Icons/Dungeons/mutator/icon_censored.dds"
     }
 ]

@@ -1,8 +1,53 @@
 [
     {
         "ConversationTopicId": "1323_Fisher_ExplainHotspots",
-        "PlayerPrompt": "@0223_Fisher_ExplainHotspots_Prompt",
-        "NPCResponse": "@0223_Fisher_ExplainHotspots_Response",
+        "PlayerPrompt": "\"Can you explain fishing hotspots?\"",
+        "NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n\u0026lt;img src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"\u0026gt;\u0026lt;/img\u0026gt;\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n\u0026lt;img src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"\u0026gt;\u0026lt;/img\u0026gt;\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1345_PartyGuest_01_TaskTopic",
+        "PlayerPrompt": "\"How can I help?\"",
+        "NPCResponse": "Well, I need a full-time assistant. But I can see you're not volunteering for that. \\n\\nYou know, if you could give my flowers some water, I might be able to slip away to the Medleyfaire.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1346_PartyGuest_02_TaskTopic",
+        "PlayerPrompt": "\"You're invited to the Summer Medleyfaire.\"",
+        "NPCResponse": "The… Medleyfaire? But there are so many people there! And I… I have cleaning to do. \\n\\nBut you asked so kindly, I feel awful saying no. If… if you help me clean, maybe I could come?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1347_PartyGuest_03_TaskTopic",
+        "PlayerPrompt": "\"Ah. I'm sorry.\"",
+        "NPCResponse": "Don't apologize, you just had the unluckiest timing. My carpenter's bench is in need of repair. \\n\\nTell you what, traveler. Help me fix it, and I'll consider it payment for my services at the Summer Medleyfaire.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1348_PartyGuest_04_TaskTopic",
+        "PlayerPrompt": "\"I… don't know what to say.\"",
+        "NPCResponse": "Oh, stranger, please inspire me! I am listless, without purpose or flow in my works. \\n\\nDo something beautiful! Show me how you would dance at the Summer Medleyfaire.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1349_PartyGuest_05_TaskTopic",
+        "PlayerPrompt": "\"It's okay. I'm here to help.\"",
+        "NPCResponse": "Really? Then I hope you aren't frightened of bees. \\n\\nMine are normally quite gentle, but these damn Maudlinbugs get the bees all riled up. A little smoke should fix it.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",

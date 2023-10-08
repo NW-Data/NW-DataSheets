@@ -33,11 +33,13 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 2,
-        "NameLocalizationKey": "@Brightwood",
+        "NameLocalizationKey": "Brightwood",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": 1,
@@ -65,15 +67,17 @@
         "FactionControlBuff": "Free_Camping",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner02",
-        "UpkeepModifier": 0.2,
+        "UpkeepModifier": 0.1,
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 150,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 3,
-        "NameLocalizationKey": "@GreatCleave",
+        "NameLocalizationKey": "Great Cleave",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": 1,
@@ -105,11 +109,13 @@
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 200,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 4,
-        "NameLocalizationKey": "@Everfall",
+        "NameLocalizationKey": "Everfall",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": 1,
@@ -137,15 +143,17 @@
         "FactionControlBuff": "Azoth_Salt_Yield_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner04",
-        "UpkeepModifier": 0.25,
+        "UpkeepModifier": 0.1,
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 75,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 5,
-        "NameLocalizationKey": "@Reekwater",
+        "NameLocalizationKey": "Reekwater",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -173,15 +181,17 @@
         "FactionControlBuff": "Pvp_Track_Exp_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner05",
-        "UpkeepModifier": 0.15,
+        "UpkeepModifier": 0.1,
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 400,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 6,
-        "NameLocalizationKey": "@Windsward",
+        "NameLocalizationKey": "Windsward",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -209,15 +219,17 @@
         "FactionControlBuff": "Chance_Consumable_Not_Used",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner06",
-        "UpkeepModifier": 0.25,
+        "UpkeepModifier": 0.1,
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 75,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 7,
-        "NameLocalizationKey": "@ShatteredMountain",
+        "NameLocalizationKey": "Shattered Mountain",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -249,11 +261,13 @@
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 400,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 8,
-        "NameLocalizationKey": "@Queensport",
+        "NameLocalizationKey": "Ebonscale Reach",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -281,15 +295,17 @@
         "FactionControlBuff": "Faction_Store_Discount_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner08",
-        "UpkeepModifier": 0.2,
+        "UpkeepModifier": 0.1,
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 400,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 9,
-        "NameLocalizationKey": "@FirstLight",
+        "NameLocalizationKey": "Elysian Wilds",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -307,13 +323,14 @@
         "AudioGroup": "MX_Territory",
         "AudioState": "First_Light",
         "AudioBank": "",
-        "RecommendedLevel": 1,
-        "MaximumLevel": 25,
+        "RecommendedLevel": 60,
+        "MaximumLevel": 70,
         "MinCompanyDefenders": 40,
         "MinCompanyAttackers": 25,
         "CanPlaceCamp": true,
-        "ObjectiveID": "06_getoffbeach",
+        "ObjectiveID": "",
         "IsTerritory": true,
+<<<<<<< HEAD
         "FactionControlBuff": "",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner09",
@@ -322,10 +339,22 @@
         "PoiDiscoveryXpModifier": 75,
         "EntryAchievementId": "09_FirstLightUnlock",
         "EntryStatusEffectId": "Env_FirstLightLock_DoT"
+=======
+        "FactionControlBuff": "None",
+        "FactionControlTerritoryBuffs": "None",
+        "PermanentOwnershipAchievementId": "",
+        "UpkeepModifier": null,
+        "TerritoryStandingXpModifier": 1.25,
+        "PoiDiscoveryXpModifier": 400,
+        "EntryAchievementId": "Expansion_2023_Unlock \u0026\u0026 09_FirstLightUnlock",
+        "EntryStatusEffectId": "Env_FirstLightLock_DoT",
+        "EntryEntitlement": "Ent_Xpack_RiseOfTheAngryEarth_Owner",
+        "EntryObjective": "09A_M1_EnterZone_EG"
+>>>>>>> PTR
     },
     {
         "TerritoryID": 10,
-        "NameLocalizationKey": "@CutlassKeys",
+        "NameLocalizationKey": "Cutlass Keys",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -357,11 +386,13 @@
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 150,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 11,
-        "NameLocalizationKey": "@Mourningdale",
+        "NameLocalizationKey": "Mourningdale",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -393,11 +424,13 @@
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 200,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 12,
-        "NameLocalizationKey": "@MonarchsBluffs",
+        "NameLocalizationKey": "Monarch's Bluffs",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -425,15 +458,17 @@
         "FactionControlBuff": "Progression_Global_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner12",
-        "UpkeepModifier": 0.2,
+        "UpkeepModifier": 0.1,
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 75,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 13,
-        "NameLocalizationKey": "@WeaversFen",
+        "NameLocalizationKey": "Weaver's Fen",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -465,11 +500,13 @@
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 150,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 14,
-        "NameLocalizationKey": "@Edengrove",
+        "NameLocalizationKey": "Edengrove",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -494,18 +531,20 @@
         "CanPlaceCamp": true,
         "ObjectiveID": "",
         "IsTerritory": true,
-        "FactionControlBuff": "None",
-        "FactionControlTerritoryBuffs": "None",
-        "PermanentOwnershipAchievementId": "",
-        "UpkeepModifier": null,
+        "FactionControlBuff": "Taxes_Global_Modifier",
+        "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
+        "PermanentOwnershipAchievementId": "TerritoryPermanentOwner14",
+        "UpkeepModifier": 0.1,
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 400,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 15,
-        "NameLocalizationKey": "@RestlessShore",
+        "NameLocalizationKey": "Restless Shore",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -537,11 +576,13 @@
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 200,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 16,
-        "NameLocalizationKey": "@BrimstoneSands",
+        "NameLocalizationKey": "Brimstone Sands",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -569,11 +610,13 @@
         "FactionControlBuff": "Gathering_Volume_Modifier",
         "FactionControlTerritoryBuffs": "InfluencePoints_Modifier,ExperiencePoints_Modifier",
         "PermanentOwnershipAchievementId": "TerritoryPermanentOwner16",
-        "UpkeepModifier": 0.25,
+        "UpkeepModifier": 0.1,
         "TerritoryStandingXpModifier": 1.25,
         "PoiDiscoveryXpModifier": 400,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 18,
@@ -609,7 +652,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 19,
@@ -645,7 +690,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 20,
@@ -681,7 +728,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 21,
@@ -717,7 +766,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 22,
@@ -753,7 +804,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 23,
@@ -789,7 +842,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 24,
@@ -825,7 +880,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 25,
@@ -861,7 +918,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 26,
@@ -897,7 +956,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 27,
@@ -933,7 +994,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 28,
@@ -969,7 +1032,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 29,
@@ -1005,7 +1070,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 30,
@@ -1041,7 +1108,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 31,
@@ -1077,7 +1146,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 32,
@@ -1113,7 +1184,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 33,
@@ -1149,7 +1222,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 34,
@@ -1185,7 +1260,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 35,
@@ -1221,7 +1298,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 36,
@@ -1257,7 +1336,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 37,
@@ -1293,7 +1374,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 38,
@@ -1329,7 +1412,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 39,
@@ -1365,7 +1450,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 40,
@@ -1401,7 +1488,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 41,
@@ -1437,7 +1526,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 42,
@@ -1473,7 +1564,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 43,
@@ -1509,7 +1602,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 44,
@@ -1545,7 +1640,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 45,
@@ -1581,7 +1678,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 46,
@@ -1617,7 +1716,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 47,
@@ -1653,7 +1754,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 48,
@@ -1689,7 +1792,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 49,
@@ -1725,7 +1830,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 50,
@@ -1761,7 +1868,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 51,
@@ -1797,7 +1906,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 52,
@@ -1833,7 +1944,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 53,
@@ -1869,7 +1982,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 54,
@@ -1905,7 +2020,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 55,
@@ -1941,7 +2058,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 56,
@@ -1977,7 +2096,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 57,
@@ -2013,7 +2134,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 58,
@@ -2049,7 +2172,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 59,
@@ -2085,7 +2210,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 60,
@@ -2121,7 +2248,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 61,
@@ -2157,7 +2286,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 62,
@@ -2193,7 +2324,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 63,
@@ -2229,7 +2362,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 64,
@@ -2265,7 +2400,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 65,
@@ -2301,7 +2438,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 66,
@@ -2337,7 +2476,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 67,
@@ -2373,7 +2514,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 68,
@@ -2409,7 +2552,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 69,
@@ -2445,7 +2590,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 70,
@@ -2481,7 +2628,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 71,
@@ -2517,7 +2666,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 72,
@@ -2553,7 +2704,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 73,
@@ -2589,11 +2742,13 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 74,
-        "NameLocalizationKey": "@DevWorld_Red",
+        "NameLocalizationKey": "DevWorld RED \\n (PRIMARY HUB)",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": 1,
@@ -2625,11 +2780,13 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 75,
-        "NameLocalizationKey": "@DevWorld_Blue",
+        "NameLocalizationKey": "DevWorld BLUE \\n(SECONDARY HUB)",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": 1,
@@ -2661,7 +2818,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 76,
@@ -2697,7 +2856,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 77,
@@ -2733,7 +2894,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 78,
@@ -2769,7 +2932,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 79,
@@ -2805,7 +2970,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 80,
@@ -2841,7 +3008,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 81,
@@ -2877,7 +3046,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 82,
@@ -2913,7 +3084,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 83,
@@ -2949,7 +3122,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 84,
@@ -2985,7 +3160,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 85,
@@ -3021,7 +3198,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 86,
@@ -3057,7 +3236,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 87,
@@ -3093,7 +3274,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 88,
@@ -3129,7 +3312,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 89,
@@ -3165,7 +3350,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 90,
@@ -3201,7 +3388,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 91,
@@ -3237,7 +3426,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 92,
@@ -3273,7 +3464,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 93,
@@ -3309,7 +3502,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 94,
@@ -3345,7 +3540,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 95,
@@ -3381,7 +3578,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 96,
@@ -3417,7 +3616,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 97,
@@ -3453,7 +3654,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 98,
@@ -3489,7 +3692,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 99,
@@ -3525,11 +3730,13 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 100,
-        "NameLocalizationKey": "@Campground",
+        "NameLocalizationKey": "Campground",
         "BaseStructureLimit": 300,
         "MaxStructureLimit": 500,
         "TerritoryScore": null,
@@ -3561,7 +3768,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 101,
@@ -3597,7 +3806,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 102,
@@ -3633,7 +3844,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 103,
@@ -3669,7 +3882,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 104,
@@ -3705,7 +3920,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 105,
@@ -3741,7 +3958,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 106,
@@ -3777,7 +3996,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 107,
@@ -3813,7 +4034,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 108,
@@ -3849,7 +4072,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 109,
@@ -3885,7 +4110,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 110,
@@ -3921,7 +4148,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 111,
@@ -3957,7 +4186,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 112,
@@ -3993,7 +4224,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 113,
@@ -4029,7 +4262,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 114,
@@ -4065,7 +4300,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 115,
@@ -4101,7 +4338,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 116,
@@ -4137,7 +4376,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 117,
@@ -4173,7 +4414,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 118,
@@ -4209,7 +4452,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 119,
@@ -4245,7 +4490,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 120,
@@ -4281,7 +4528,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 121,
@@ -4317,7 +4566,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 122,
@@ -4353,7 +4604,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 123,
@@ -4389,7 +4642,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 124,
@@ -4425,7 +4680,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 125,
@@ -4461,7 +4718,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 126,
@@ -4497,7 +4756,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 127,
@@ -4533,7 +4794,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 128,
@@ -4569,7 +4832,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 129,
@@ -4605,7 +4870,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 130,
@@ -4641,7 +4908,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 131,
@@ -4677,7 +4946,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 132,
@@ -4713,7 +4984,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 133,
@@ -4749,7 +5022,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 134,
@@ -4785,7 +5060,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 135,
@@ -4821,7 +5098,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 136,
@@ -4857,7 +5136,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 137,
@@ -4893,7 +5174,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 138,
@@ -4929,7 +5212,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 139,
@@ -4965,7 +5250,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 140,
@@ -5001,7 +5288,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 141,
@@ -5037,7 +5326,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 142,
@@ -5073,7 +5364,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 143,
@@ -5109,7 +5402,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 144,
@@ -5145,7 +5440,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 145,
@@ -5181,7 +5478,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 146,
@@ -5217,7 +5516,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 147,
@@ -5253,7 +5554,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 148,
@@ -5289,7 +5592,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 149,
@@ -5325,7 +5630,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 150,
@@ -5361,7 +5668,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 151,
@@ -5397,7 +5706,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 152,
@@ -5433,7 +5744,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 153,
@@ -5469,7 +5782,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 154,
@@ -5505,7 +5820,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 155,
@@ -5541,7 +5858,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 156,
@@ -5577,7 +5896,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 157,
@@ -5613,7 +5934,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 158,
@@ -5649,7 +5972,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 159,
@@ -5685,7 +6010,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 160,
@@ -5721,7 +6048,9 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     },
     {
         "TerritoryID": 900,
@@ -5757,6 +6086,8 @@
         "TerritoryStandingXpModifier": null,
         "PoiDiscoveryXpModifier": null,
         "EntryAchievementId": "",
-        "EntryStatusEffectId": ""
+        "EntryStatusEffectId": "",
+        "EntryEntitlement": "",
+        "EntryObjective": ""
     }
 ]

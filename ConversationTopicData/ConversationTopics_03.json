@@ -1,8 +1,44 @@
 [
     {
         "ConversationTopicId": "0326_Prospector_talk",
-        "PlayerPrompt": "@0326_Prospector_talk_Prompt",
-        "NPCResponse": "@0326_Prospector_talk_Response",
+        "PlayerPrompt": "\"Uh... What is an 'Outpost Rush'?\"",
+        "NPCResponse": "Outpost Rush is a 20 vs 20 match that takes place on a large island with three Outposts.\\nPlayers compete to capture and hold these Outposts for as long as possible, increasing their team's score in the process.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0335_BecomingTheBeast",
+        "PlayerPrompt": "\"Wait, you're the beast that's been attacking people?\"",
+        "NPCResponse": "I swear, all I do is jump out at people! I haven't hurt anyone. \\n\\nThis all started as just a harmless bit of fun, so that people could see the myth without any danger.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0335_Attacked",
+        "PlayerPrompt": "\"Bob! What happened here?\"",
+        "NPCResponse": "It's real… the beast… I didn't believe… not really. \\n\\nIt headed up the mountain. I think it took my spleen…",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0336_RangerTenevan_Found",
+        "PlayerPrompt": "\"Did you know Heo Do-yun is alive?\"",
+        "NPCResponse": "That man has more lives than a cat! If he survived there may yet be hope for the rest of us!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0337_RangerRizal_Found",
+        "PlayerPrompt": "\"Were you stationed with Heo Do-yun?\"",
+        "NPCResponse": "I was, along with Jasvir. I feared the worst, but if you have news, that means all is not lost.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -10,8 +46,143 @@
     },
     {
         "ConversationTopicId": "0324_Fisher_ExplainHotspots",
-        "PlayerPrompt": "@0223_Fisher_ExplainHotspots_Prompt",
-        "NPCResponse": "@0223_Fisher_ExplainHotspots_Response",
+        "PlayerPrompt": "\"Can you explain fishing hotspots?\"",
+        "NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n\u0026lt;img src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"\u0026gt;\u0026lt;/img\u0026gt;\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n\u0026lt;img src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"\u0026gt;\u0026lt;/img\u0026gt;\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Kazu_T1",
+        "PlayerPrompt": "\"What if these patterns belong to a different language?\"",
+        "NPCResponse": "You know, that's possible. But these symbols are so different from each other, it seems like they don't belong to the same system. \\n\\nWe have so many unique languages in the Old World. I'm sure Aeternum has others that we've never seen.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Kazu_T2",
+        "PlayerPrompt": "Why did you join the war efforts?",
+        "NPCResponse": "The Corrupted took Yuki from me. My darling dog helped me be less serious, especially when he'd tilt his head sideways and poke his tongue out at me.  \\n\\nNow, I have nothing but the war. I will send the Corrupted back to whatever hell they've come from.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Shang_T1",
+        "PlayerPrompt": "P",
+        "NPCResponse": "R",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Amis_T1",
+        "PlayerPrompt": "P",
+        "NPCResponse": "R",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Chioma_T1",
+        "PlayerPrompt": "P",
+        "NPCResponse": "R",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Cosmo_T1",
+        "PlayerPrompt": "\"Pompey already paid for his sins. A thousand years ago.\"",
+        "NPCResponse": "Oh. That's - maybe, it's possible. The island plays tricks with my mind. \\n\\nPlans of the past. Plans of the future. War after war. The lines start getting blurry after a while.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Vinkle_T1",
+        "PlayerPrompt": "P",
+        "NPCResponse": "R",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Heyl_T1",
+        "PlayerPrompt": "P",
+        "NPCResponse": "R",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Tapas_T1",
+        "PlayerPrompt": "P",
+        "NPCResponse": "R",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Mabel_T1",
+        "PlayerPrompt": "P",
+        "NPCResponse": "R",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Kojo_T1",
+        "PlayerPrompt": "P",
+        "NPCResponse": "R",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Wang_T1",
+        "PlayerPrompt": "P",
+        "NPCResponse": "R",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Taehwa_T1",
+        "PlayerPrompt": "P",
+        "NPCResponse": "R",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Giri_T1",
+        "PlayerPrompt": "P",
+        "NPCResponse": "R",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "03_Wolf_T1",
+        "PlayerPrompt": "\"Who are you?\"",
+        "NPCResponse": "A well-wisher. We look after our feral brethren and those who would take care of them.\\n\\nKazu showed great caring towards one of us. We are merely repaying the favor.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",

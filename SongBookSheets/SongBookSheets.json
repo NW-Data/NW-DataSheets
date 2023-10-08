@@ -2,7 +2,7 @@
     {
         "SheetId": "Waltz_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_Waltz_Guitar_Part1_Page1",
         "AudioEvent": "AG_MAUDLINBUG_MELODY_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -11,7 +11,7 @@
     {
         "SheetId": "Waltz_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_Waltz_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_MAUDLINBUG_MELODY_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -641,7 +641,7 @@
     {
         "SheetId": "Ancient_AzothFlute_Part1_Easy",
         "Instrument": "instrument-flute-slot",
-        "SheetName": "@ui_music_flute_part_1",
+        "SheetName": "Flute (Part 1)",
         "Pages": "MP_Ancient_AzothFlute_Part1_Page1",
         "AudioEvent": "AZF_ANCIENT_100",
         "ErrorEvent": "AZF_MISTAKE",
@@ -650,7 +650,7 @@
     {
         "SheetId": "Ancient_AzothFlute_Part1_Medium",
         "Instrument": "instrument-flute-slot",
-        "SheetName": "@ui_music_flute_part_1",
+        "SheetName": "Flute (Part 1)",
         "Pages": "MP_Ancient_AzothFlute_Part1_Page1",
         "AudioEvent": "AZF_ANCIENT_100",
         "ErrorEvent": "AZF_MISTAKE",
@@ -659,7 +659,7 @@
     {
         "SheetId": "Ancient_AzothFlute_Part2_Easy",
         "Instrument": "instrument-flute-slot",
-        "SheetName": "@ui_music_flute_part_2",
+        "SheetName": "Flute (Part 2)",
         "Pages": "MP_Ancient_AzothFlute_Part2_Page1,MP_Ancient_AzothFlute_Part2_Page2",
         "AudioEvent": "AZF_B_ANCIENT_100",
         "ErrorEvent": "AZF_MISTAKE",
@@ -668,7 +668,7 @@
     {
         "SheetId": "Ancient_AzothFlute_Part2_Medium",
         "Instrument": "instrument-flute-slot",
-        "SheetName": "@ui_music_flute_part_2",
+        "SheetName": "Flute (Part 2)",
         "Pages": "MP_Ancient_AzothFlute_Part2_Page1,MP_Ancient_AzothFlute_Part2_Page2",
         "AudioEvent": "AZF_B_ANCIENT_100",
         "ErrorEvent": "AZF_MISTAKE",
@@ -677,7 +677,7 @@
     {
         "SheetId": "Ancient_AzothFlute_Part2_Hard",
         "Instrument": "instrument-flute-slot",
-        "SheetName": "@ui_music_flute_part_2",
+        "SheetName": "Flute (Part 2)",
         "Pages": "MP_Ancient_AzothFlute_Part2_Page1,MP_Ancient_AzothFlute_Part2_Page2",
         "AudioEvent": "AZF_B_ANCIENT_100",
         "ErrorEvent": "AZF_MISTAKE",
@@ -1073,7 +1073,7 @@
     {
         "SheetId": "MrHarrison_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_MrHarrison_Guitar_Part1_Page1",
         "AudioEvent": "AG_DEAR_MR_HARRISON_180",
         "ErrorEvent": "AG_MISTAKE",
@@ -1082,7 +1082,7 @@
     {
         "SheetId": "MrHarrison_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_MrHarrison_Guitar_Part1_Page1",
         "AudioEvent": "AG_DEAR_MR_HARRISON_180",
         "ErrorEvent": "AG_MISTAKE",
@@ -1091,7 +1091,7 @@
     {
         "SheetId": "MrHarrison_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_MrHarrison_Guitar_Part1_Page1",
         "AudioEvent": "AG_DEAR_MR_HARRISON_180",
         "ErrorEvent": "AG_MISTAKE",
@@ -1100,7 +1100,7 @@
     {
         "SheetId": "MrHarrison_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_MrHarrison_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_DEAR_MR_HARRISON_180",
         "ErrorEvent": "AG_MISTAKE",
@@ -1109,7 +1109,7 @@
     {
         "SheetId": "MrHarrison_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_MrHarrison_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_DEAR_MR_HARRISON_180",
         "ErrorEvent": "AG_MISTAKE",
@@ -1118,7 +1118,7 @@
     {
         "SheetId": "MrHarrison_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_MrHarrison_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_DEAR_MR_HARRISON_180",
         "ErrorEvent": "AG_MISTAKE",
@@ -1442,7 +1442,7 @@
     {
         "SheetId": "SaltyBarnicle_Mandolin_Part1_Easy",
         "Instrument": "instrument-mandolin-slot",
-        "SheetName": "@ui_music_mandolin_part_1",
+        "SheetName": "Mandolin (Part 1)",
         "Pages": "",
         "AudioEvent": "MAN_SALTY_BARNICLE_CRUST_75",
         "ErrorEvent": "MAN_MISTAKE",
@@ -1451,7 +1451,7 @@
     {
         "SheetId": "SaltyBarnicle_Mandolin_Part1_Medium",
         "Instrument": "instrument-mandolin-slot",
-        "SheetName": "@ui_music_mandolin_part_1",
+        "SheetName": "Mandolin (Part 1)",
         "Pages": "",
         "AudioEvent": "MAN_SALTY_BARNICLE_CRUST_75",
         "ErrorEvent": "MAN_MISTAKE",
@@ -1460,7 +1460,7 @@
     {
         "SheetId": "SaltyBarnicle_Mandolin_Part1_Hard",
         "Instrument": "instrument-mandolin-slot",
-        "SheetName": "@ui_music_mandolin_part_1",
+        "SheetName": "Mandolin (Part 1)",
         "Pages": "",
         "AudioEvent": "MAN_SALTY_BARNICLE_CRUST_75",
         "ErrorEvent": "MAN_MISTAKE",
@@ -1469,7 +1469,7 @@
     {
         "SheetId": "SaltyBarnicle_Mandolin_Part2_Easy",
         "Instrument": "instrument-mandolin-slot",
-        "SheetName": "@ui_music_mandolin_part_2",
+        "SheetName": "Mandolin (Part 2)",
         "Pages": "MP_SaltyBarnicle_Mandolin_Part2_Page1,MP_SaltyBarnicle_Mandolin_Part2_Page2,MP_SaltyBarnicle_Mandolin_Part2_Page3",
         "AudioEvent": "MAN_B_SALTY_BARNICLE_CRUST_75",
         "ErrorEvent": "MAN_MISTAKE",
@@ -1478,7 +1478,7 @@
     {
         "SheetId": "SaltyBarnicle_Mandolin_Part2_Medium",
         "Instrument": "instrument-mandolin-slot",
-        "SheetName": "@ui_music_mandolin_part_2",
+        "SheetName": "Mandolin (Part 2)",
         "Pages": "MP_SaltyBarnicle_Mandolin_Part2_Page1,MP_SaltyBarnicle_Mandolin_Part2_Page2,MP_SaltyBarnicle_Mandolin_Part2_Page3",
         "AudioEvent": "MAN_B_SALTY_BARNICLE_CRUST_75",
         "ErrorEvent": "MAN_MISTAKE",
@@ -1487,7 +1487,7 @@
     {
         "SheetId": "SaltyBarnicle_Mandolin_Part2_Hard",
         "Instrument": "instrument-mandolin-slot",
-        "SheetName": "@ui_music_mandolin_part_2",
+        "SheetName": "Mandolin (Part 2)",
         "Pages": "MP_SaltyBarnicle_Mandolin_Part2_Page1,MP_SaltyBarnicle_Mandolin_Part2_Page2,MP_SaltyBarnicle_Mandolin_Part2_Page3",
         "AudioEvent": "MAN_B_SALTY_BARNICLE_CRUST_75",
         "ErrorEvent": "MAN_MISTAKE",
@@ -1550,7 +1550,7 @@
     {
         "SheetId": "DownLane_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_DownLane_Guitar_Part1_Page1",
         "AudioEvent": "AG_DOWN_THE_LANE_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1559,7 +1559,7 @@
     {
         "SheetId": "DownLane_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_DownLane_Guitar_Part1_Page1",
         "AudioEvent": "AG_DOWN_THE_LANE_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1568,7 +1568,7 @@
     {
         "SheetId": "DownLane_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_DownLane_Guitar_Part1_Page1",
         "AudioEvent": "AG_DOWN_THE_LANE_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1577,7 +1577,7 @@
     {
         "SheetId": "DownLane_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_DownLane_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_DOWN_THE_LANE_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1586,7 +1586,7 @@
     {
         "SheetId": "DownLane_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_DownLane_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_DOWN_THE_LANE_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1595,7 +1595,7 @@
     {
         "SheetId": "DownLane_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_DownLane_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_DOWN_THE_LANE_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1685,7 +1685,7 @@
     {
         "SheetId": "HowToday_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_HowToday_Guitar_Part1_Page1",
         "AudioEvent": "AG_HOW_ORE_YOU_TODAY_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1694,7 +1694,7 @@
     {
         "SheetId": "HowToday_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_HowToday_Guitar_Part1_Page1",
         "AudioEvent": "AG_HOW_ORE_YOU_TODAY_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1703,7 +1703,7 @@
     {
         "SheetId": "HowToday_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_HowToday_Guitar_Part1_Page1",
         "AudioEvent": "AG_HOW_ORE_YOU_TODAY_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1712,7 +1712,7 @@
     {
         "SheetId": "HowToday_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_HowToday_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_HOW_ORE_YOU_TODAY_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1721,7 +1721,7 @@
     {
         "SheetId": "HowToday_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_HowToday_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_HOW_ORE_YOU_TODAY_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1730,7 +1730,7 @@
     {
         "SheetId": "HowToday_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_HowToday_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_HOW_ORE_YOU_TODAY_112",
         "ErrorEvent": "AG_MISTAKE",
@@ -1820,7 +1820,7 @@
     {
         "SheetId": "CampGrows_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_CampGrows_Guitar_Part1_Page1",
         "AudioEvent": "AG_THE_CAMP_GROWS_95",
         "ErrorEvent": "AG_MISTAKE",
@@ -1829,7 +1829,7 @@
     {
         "SheetId": "CampGrows_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_CampGrows_Guitar_Part1_Page1",
         "AudioEvent": "AG_THE_CAMP_GROWS_95",
         "ErrorEvent": "AG_MISTAKE",
@@ -1838,7 +1838,7 @@
     {
         "SheetId": "CampGrows_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_CampGrows_Guitar_Part1_Page1",
         "AudioEvent": "AG_THE_CAMP_GROWS_95",
         "ErrorEvent": "AG_MISTAKE",
@@ -1847,7 +1847,7 @@
     {
         "SheetId": "CampGrows_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_CampGrows_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_THE_CAMP_GROWS_95",
         "ErrorEvent": "AG_MISTAKE",
@@ -1856,7 +1856,7 @@
     {
         "SheetId": "CampGrows_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_CampGrows_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_THE_CAMP_GROWS_95",
         "ErrorEvent": "AG_MISTAKE",
@@ -1865,7 +1865,7 @@
     {
         "SheetId": "CampGrows_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_CampGrows_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_THE_CAMP_GROWS_95",
         "ErrorEvent": "AG_MISTAKE",
@@ -1982,7 +1982,7 @@
     {
         "SheetId": "Weavers_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_Weavers_Guitar_Part1_Page1",
         "AudioEvent": "AG_WEAVERS_WEBB_108",
         "ErrorEvent": "AG_MISTAKE",
@@ -1991,7 +1991,7 @@
     {
         "SheetId": "Weavers_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_Weavers_Guitar_Part1_Page1",
         "AudioEvent": "AG_WEAVERS_WEBB_108",
         "ErrorEvent": "AG_MISTAKE",
@@ -2000,7 +2000,7 @@
     {
         "SheetId": "Weavers_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_Weavers_Guitar_Part1_Page1",
         "AudioEvent": "AG_WEAVERS_WEBB_108",
         "ErrorEvent": "AG_MISTAKE",
@@ -2009,7 +2009,7 @@
     {
         "SheetId": "Weavers_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_Weavers_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_WEAVERS_WEBB_108",
         "ErrorEvent": "AG_MISTAKE",
@@ -2018,7 +2018,7 @@
     {
         "SheetId": "Weavers_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_Weavers_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_WEAVERS_WEBB_108",
         "ErrorEvent": "AG_MISTAKE",
@@ -2027,7 +2027,7 @@
     {
         "SheetId": "Weavers_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_Weavers_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_WEAVERS_WEBB_108",
         "ErrorEvent": "AG_MISTAKE",
@@ -2171,7 +2171,7 @@
     {
         "SheetId": "DamnFish_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_DamnFish_Guitar_Part1_Page1",
         "AudioEvent": "AG_THAT_DAMN_FISH_90",
         "ErrorEvent": "AG_MISTAKE",
@@ -2180,7 +2180,7 @@
     {
         "SheetId": "DamnFish_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_DamnFish_Guitar_Part1_Page1",
         "AudioEvent": "AG_THAT_DAMN_FISH_90",
         "ErrorEvent": "AG_MISTAKE",
@@ -2189,7 +2189,7 @@
     {
         "SheetId": "DamnFish_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_1",
+        "SheetName": "Guitar (Part 1)",
         "Pages": "MP_DamnFish_Guitar_Part1_Page1",
         "AudioEvent": "AG_THAT_DAMN_FISH_90",
         "ErrorEvent": "AG_MISTAKE",
@@ -2198,7 +2198,7 @@
     {
         "SheetId": "DamnFish_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_DamnFish_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_THAT_DAMN_FISH_90",
         "ErrorEvent": "AG_MISTAKE",
@@ -2207,7 +2207,7 @@
     {
         "SheetId": "DamnFish_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_DamnFish_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_THAT_DAMN_FISH_90",
         "ErrorEvent": "AG_MISTAKE",
@@ -2216,7 +2216,7 @@
     {
         "SheetId": "DamnFish_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_2",
+        "SheetName": "Guitar (Part 2)",
         "Pages": "MP_DamnFish_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_THAT_DAMN_FISH_90",
         "ErrorEvent": "AG_MISTAKE",
@@ -2225,7 +2225,7 @@
     {
         "SheetId": "DamnFish_Guitar_Part3_Easy",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_3",
+        "SheetName": "Guitar (Part 3)",
         "Pages": "MP_DamnFish_Guitar_Part3_Page1",
         "AudioEvent": "AG_C_THAT_DAMN_FISH_90",
         "ErrorEvent": "AG_MISTAKE",
@@ -2234,7 +2234,7 @@
     {
         "SheetId": "DamnFish_Guitar_Part3_Medium",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_3",
+        "SheetName": "Guitar (Part 3)",
         "Pages": "MP_DamnFish_Guitar_Part3_Page1",
         "AudioEvent": "AG_C_THAT_DAMN_FISH_90",
         "ErrorEvent": "AG_MISTAKE",
@@ -2243,7 +2243,7 @@
     {
         "SheetId": "DamnFish_Guitar_Part3_Hard",
         "Instrument": "instrument-guitar-slot",
-        "SheetName": "@ui_music_guitar_part_3",
+        "SheetName": "Guitar (Part 3)",
         "Pages": "MP_DamnFish_Guitar_Part3_Page1",
         "AudioEvent": "AG_C_THAT_DAMN_FISH_90",
         "ErrorEvent": "AG_MISTAKE",
@@ -2441,7 +2441,11 @@
     {
         "SheetId": "Wayfaring_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_Wayfaring_Guitar_Part1_Page1",
         "AudioEvent": "AG_WAYFARING_STRANGER_155",
         "ErrorEvent": "AG_MISTAKE",
@@ -2450,7 +2454,11 @@
     {
         "SheetId": "Wayfaring_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_Wayfaring_Guitar_Part1_Page1",
         "AudioEvent": "AG_WAYFARING_STRANGER_155",
         "ErrorEvent": "AG_MISTAKE",
@@ -2459,7 +2467,11 @@
     {
         "SheetId": "Wayfaring_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_Wayfaring_Guitar_Part1_Page1",
         "AudioEvent": "AG_WAYFARING_STRANGER_155",
         "ErrorEvent": "AG_MISTAKE",
@@ -2468,7 +2480,11 @@
     {
         "SheetId": "Wayfaring_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_Wayfaring_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_WAYFARING_STRANGER_155",
         "ErrorEvent": "AG_MISTAKE",
@@ -2477,7 +2493,11 @@
     {
         "SheetId": "Wayfaring_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_Wayfaring_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_WAYFARING_STRANGER_155",
         "ErrorEvent": "AG_MISTAKE",
@@ -2486,7 +2506,11 @@
     {
         "SheetId": "Wayfaring_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_Wayfaring_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_WAYFARING_STRANGER_155",
         "ErrorEvent": "AG_MISTAKE",
@@ -2576,7 +2600,11 @@
     {
         "SheetId": "PoundHammer_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_PoundHammer_Guitar_Part1_Page1,MP_PoundHammer_Guitar_Part1_Page2",
         "AudioEvent": "AG_9_POUND_HAMMER_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -2585,7 +2613,11 @@
     {
         "SheetId": "PoundHammer_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_PoundHammer_Guitar_Part1_Page1,MP_PoundHammer_Guitar_Part1_Page2",
         "AudioEvent": "AG_9_POUND_HAMMER_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -2594,7 +2626,11 @@
     {
         "SheetId": "PoundHammer_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_PoundHammer_Guitar_Part1_Page1,MP_PoundHammer_Guitar_Part1_Page2",
         "AudioEvent": "AG_9_POUND_HAMMER_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -2603,7 +2639,11 @@
     {
         "SheetId": "PoundHammer_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_PoundHammer_Guitar_Part2_Page1,MP_PoundHammer_Guitar_Part2_Page2",
         "AudioEvent": "AG_B_9_POUND_HAMMER_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -2612,7 +2652,11 @@
     {
         "SheetId": "PoundHammer_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_PoundHammer_Guitar_Part2_Page1,MP_PoundHammer_Guitar_Part2_Page2",
         "AudioEvent": "AG_B_9_POUND_HAMMER_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -2621,7 +2665,11 @@
     {
         "SheetId": "PoundHammer_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_PoundHammer_Guitar_Part2_Page1,MP_PoundHammer_Guitar_Part2_Page2",
         "AudioEvent": "AG_B_9_POUND_HAMMER_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -2819,7 +2867,11 @@
     {
         "SheetId": "SecondComing_Mandolin_Part1_Easy",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_1",
+=======
+        "SheetName": "Mandolin (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_SecondComing_Mandolin_Part1_Page1,MP_SecondComing_Mandolin_Part1_Page2,MP_SecondComing_Mandolin_Part1_Page3",
         "AudioEvent": "MAN_SECOND_COMING_117",
         "ErrorEvent": "MAN_MISTAKE",
@@ -2828,7 +2880,11 @@
     {
         "SheetId": "SecondComing_Mandolin_Part1_Medium",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_1",
+=======
+        "SheetName": "Mandolin (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_SecondComing_Mandolin_Part1_Page1,MP_SecondComing_Mandolin_Part1_Page2,MP_SecondComing_Mandolin_Part1_Page3",
         "AudioEvent": "MAN_SECOND_COMING_117",
         "ErrorEvent": "MAN_MISTAKE",
@@ -2837,7 +2893,11 @@
     {
         "SheetId": "SecondComing_Mandolin_Part1_Hard",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_1",
+=======
+        "SheetName": "Mandolin (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_SecondComing_Mandolin_Part1_Page1,MP_SecondComing_Mandolin_Part1_Page2,MP_SecondComing_Mandolin_Part1_Page3",
         "AudioEvent": "MAN_SECOND_COMING_117",
         "ErrorEvent": "MAN_MISTAKE",
@@ -2846,7 +2906,11 @@
     {
         "SheetId": "SecondComing_Mandolin_Part2_Easy",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_2",
+=======
+        "SheetName": "Mandolin (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_SecondComing_Mandolin_Part2_Page1,MP_SecondComing_Mandolin_Part2_Page2,MP_SecondComing_Mandolin_Part2_Page3",
         "AudioEvent": "MAN_B_SECOND_COMING_117",
         "ErrorEvent": "MAN_MISTAKE",
@@ -2855,7 +2919,11 @@
     {
         "SheetId": "SecondComing_Mandolin_Part2_Medium",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_2",
+=======
+        "SheetName": "Mandolin (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_SecondComing_Mandolin_Part2_Page1,MP_SecondComing_Mandolin_Part2_Page2,MP_SecondComing_Mandolin_Part2_Page3",
         "AudioEvent": "MAN_B_SECOND_COMING_117",
         "ErrorEvent": "MAN_MISTAKE",
@@ -2864,7 +2932,11 @@
     {
         "SheetId": "SecondComing_Mandolin_Part2_Hard",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_2",
+=======
+        "SheetName": "Mandolin (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_SecondComing_Mandolin_Part2_Page1,MP_SecondComing_Mandolin_Part2_Page2,MP_SecondComing_Mandolin_Part2_Page3",
         "AudioEvent": "MAN_B_SECOND_COMING_117",
         "ErrorEvent": "MAN_MISTAKE",
@@ -3008,7 +3080,11 @@
     {
         "SheetId": "WindswardShack_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_WindswardShack_Guitar_Part1_Page1",
         "AudioEvent": "AG_OLD_WINDSWARD_SHACK_85",
         "ErrorEvent": "AG_MISTAKE",
@@ -3017,7 +3093,11 @@
     {
         "SheetId": "WindswardShack_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_WindswardShack_Guitar_Part1_Page1",
         "AudioEvent": "AG_OLD_WINDSWARD_SHACK_85",
         "ErrorEvent": "AG_MISTAKE",
@@ -3026,7 +3106,11 @@
     {
         "SheetId": "WindswardShack_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_WindswardShack_Guitar_Part1_Page1",
         "AudioEvent": "AG_OLD_WINDSWARD_SHACK_85",
         "ErrorEvent": "AG_MISTAKE",
@@ -3035,7 +3119,11 @@
     {
         "SheetId": "WindswardShack_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_WindswardShack_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_OLD_WINDSWARD_SHACK_85",
         "ErrorEvent": "AG_MISTAKE",
@@ -3044,7 +3132,11 @@
     {
         "SheetId": "WindswardShack_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_WindswardShack_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_OLD_WINDSWARD_SHACK_85",
         "ErrorEvent": "AG_MISTAKE",
@@ -3053,7 +3145,11 @@
     {
         "SheetId": "WindswardShack_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_WindswardShack_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_OLD_WINDSWARD_SHACK_85",
         "ErrorEvent": "AG_MISTAKE",
@@ -3143,7 +3239,11 @@
     {
         "SheetId": "SapBrightwood_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_SapBrightwood_Guitar_Part1_Page1",
         "AudioEvent": "AG_SAP_OF_BRIGHTWOOD_135",
         "ErrorEvent": "AG_MISTAKE",
@@ -3152,7 +3252,11 @@
     {
         "SheetId": "SapBrightwood_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_SapBrightwood_Guitar_Part1_Page1",
         "AudioEvent": "AG_SAP_OF_BRIGHTWOOD_135",
         "ErrorEvent": "AG_MISTAKE",
@@ -3161,7 +3265,11 @@
     {
         "SheetId": "SapBrightwood_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_SapBrightwood_Guitar_Part1_Page1",
         "AudioEvent": "AG_SAP_OF_BRIGHTWOOD_135",
         "ErrorEvent": "AG_MISTAKE",
@@ -3170,7 +3278,11 @@
     {
         "SheetId": "SapBrightwood_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_SapBrightwood_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_SAP_OF_BRIGHTWOOD_135",
         "ErrorEvent": "AG_MISTAKE",
@@ -3179,7 +3291,11 @@
     {
         "SheetId": "SapBrightwood_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_SapBrightwood_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_SAP_OF_BRIGHTWOOD_135",
         "ErrorEvent": "AG_MISTAKE",
@@ -3188,7 +3304,11 @@
     {
         "SheetId": "SapBrightwood_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_SapBrightwood_Guitar_Part2_Page1",
         "AudioEvent": "AG_B_SAP_OF_BRIGHTWOOD_135",
         "ErrorEvent": "AG_MISTAKE",
@@ -3386,7 +3506,11 @@
     {
         "SheetId": "Tavern_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_Tavern_Guitar_Part1_Page1,MP_Tavern_Guitar_Part1_Page2",
         "AudioEvent": "AG_TAVERN_BLUES_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -3395,7 +3519,11 @@
     {
         "SheetId": "Tavern_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_Tavern_Guitar_Part1_Page1,MP_Tavern_Guitar_Part1_Page2",
         "AudioEvent": "AG_TAVERN_BLUES_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -3404,7 +3532,11 @@
     {
         "SheetId": "Tavern_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_Tavern_Guitar_Part1_Page1,MP_Tavern_Guitar_Part1_Page2",
         "AudioEvent": "AG_TAVERN_BLUES_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -3413,7 +3545,11 @@
     {
         "SheetId": "Tavern_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_Tavern_Guitar_Part2_Page1,MP_Tavern_Guitar_Part2_Page2",
         "AudioEvent": "AG_B_TAVERN_BLUES_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -3422,7 +3558,11 @@
     {
         "SheetId": "Tavern_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_Tavern_Guitar_Part2_Page1,MP_Tavern_Guitar_Part2_Page2",
         "AudioEvent": "AG_B_TAVERN_BLUES_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -3431,7 +3571,11 @@
     {
         "SheetId": "Tavern_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_Tavern_Guitar_Part2_Page1,MP_Tavern_Guitar_Part2_Page2",
         "AudioEvent": "AG_B_TAVERN_BLUES_120",
         "ErrorEvent": "AG_MISTAKE",
@@ -3494,7 +3638,11 @@
     {
         "SheetId": "OldWood_Guitar_Part1_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_OldWood_Guitar_Part1_Page1,MP_OldWood_Guitar_Part1_Page2",
         "AudioEvent": "AG_THE_OLDWOOD_115",
         "ErrorEvent": "AG_MISTAKE",
@@ -3503,7 +3651,11 @@
     {
         "SheetId": "OldWood_Guitar_Part1_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_OldWood_Guitar_Part1_Page1,MP_OldWood_Guitar_Part1_Page2",
         "AudioEvent": "AG_THE_OLDWOOD_115",
         "ErrorEvent": "AG_MISTAKE",
@@ -3512,7 +3664,11 @@
     {
         "SheetId": "OldWood_Guitar_Part1_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_1",
+=======
+        "SheetName": "Guitar (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_OldWood_Guitar_Part1_Page1,MP_OldWood_Guitar_Part1_Page2",
         "AudioEvent": "AG_THE_OLDWOOD_115",
         "ErrorEvent": "AG_MISTAKE",
@@ -3521,7 +3677,11 @@
     {
         "SheetId": "OldWood_Guitar_Part2_Easy",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_OldWood_Guitar_Part2_Page1,MP_OldWood_Guitar_Part2_Page2",
         "AudioEvent": "AG_B_THE_OLDWOOD_115",
         "ErrorEvent": "AG_MISTAKE",
@@ -3530,7 +3690,11 @@
     {
         "SheetId": "OldWood_Guitar_Part2_Medium",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_OldWood_Guitar_Part2_Page1,MP_OldWood_Guitar_Part2_Page2",
         "AudioEvent": "AG_B_THE_OLDWOOD_115",
         "ErrorEvent": "AG_MISTAKE",
@@ -3539,7 +3703,11 @@
     {
         "SheetId": "OldWood_Guitar_Part2_Hard",
         "Instrument": "instrument-guitar-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_guitar_part_2",
+=======
+        "SheetName": "Guitar (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_OldWood_Guitar_Part2_Page1,MP_OldWood_Guitar_Part2_Page2",
         "AudioEvent": "AG_B_THE_OLDWOOD_115",
         "ErrorEvent": "AG_MISTAKE",
@@ -3764,7 +3932,11 @@
     {
         "SheetId": "Freestyle_B_Mandolin_Part1_Easy",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_1",
+=======
+        "SheetName": "Mandolin (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_Freestyle_B_Mandolin_Part1_Page1",
         "AudioEvent": "MAN_FREESTYLE_B_130",
         "ErrorEvent": "MAN_MISTAKE",
@@ -3773,7 +3945,11 @@
     {
         "SheetId": "Freestyle_B_Mandolin_Part1_Medium",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_1",
+=======
+        "SheetName": "Mandolin (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_Freestyle_B_Mandolin_Part1_Page1",
         "AudioEvent": "MAN_FREESTYLE_B_130",
         "ErrorEvent": "MAN_MISTAKE",
@@ -3782,7 +3958,11 @@
     {
         "SheetId": "Freestyle_B_Mandolin_Part1_Hard",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_1",
+=======
+        "SheetName": "Mandolin (Part 1)",
+>>>>>>> PTR
         "Pages": "MP_Freestyle_B_Mandolin_Part1_Page1",
         "AudioEvent": "MAN_FREESTYLE_B_130",
         "ErrorEvent": "MAN_MISTAKE",
@@ -3791,7 +3971,11 @@
     {
         "SheetId": "Freestyle_B_Mandolin_Part2_Easy",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_2",
+=======
+        "SheetName": "Mandolin (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_Freestyle_B_Mandolin_Part2_Page1",
         "AudioEvent": "MAN_B_FREESTYLE_B_130",
         "ErrorEvent": "MAN_MISTAKE",
@@ -3800,7 +3984,11 @@
     {
         "SheetId": "Freestyle_B_Mandolin_Part2_Medium",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_2",
+=======
+        "SheetName": "Mandolin (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_Freestyle_B_Mandolin_Part2_Page1",
         "AudioEvent": "MAN_B_FREESTYLE_B_130",
         "ErrorEvent": "MAN_MISTAKE",
@@ -3809,7 +3997,11 @@
     {
         "SheetId": "Freestyle_B_Mandolin_Part2_Hard",
         "Instrument": "instrument-mandolin-slot",
+<<<<<<< HEAD
         "SheetName": "@ui_music_mandolin_part_2",
+=======
+        "SheetName": "Mandolin (Part 2)",
+>>>>>>> PTR
         "Pages": "MP_Freestyle_B_Mandolin_Part2_Page1",
         "AudioEvent": "MAN_B_FREESTYLE_B_130",
         "ErrorEvent": "MAN_MISTAKE",

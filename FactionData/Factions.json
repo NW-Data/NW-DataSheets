@@ -1,7 +1,7 @@
 [
     {
         "FactionType": "None",
-        "DisplayName": "@ui_tooltip_none",
+        "DisplayName": "NONE",
         "DisplayDesc": "",
         "ForegroundColorIndex": 0,
         "ForegroundCrestIndex": 0,
@@ -12,8 +12,8 @@
     },
     {
         "FactionType": "Faction1",
-        "DisplayName": "@owg_merchant_guildname",
-        "DisplayDesc": "@owg_merchant_desc",
+        "DisplayName": "Syndicate",
+        "DisplayDesc": "Clever Disciples who fight with Cunning for the sake of Truth and Progress",
         "ForegroundColorIndex": 0,
         "ForegroundCrestIndex": 2,
         "BackgroundColorIndex": 0,
@@ -23,8 +23,8 @@
     },
     {
         "FactionType": "Faction2",
-        "DisplayName": "@owg_procurer_guildname",
-        "DisplayDesc": "@owg_procurer_desc",
+        "DisplayName": "Marauders",
+        "DisplayDesc": "Proud Warriors who fight with Honor for Glory and Self-Improvement",
         "ForegroundColorIndex": 0,
         "ForegroundCrestIndex": 3,
         "BackgroundColorIndex": 0,
@@ -34,8 +34,8 @@
     },
     {
         "FactionType": "Faction3",
-        "DisplayName": "@owg_explorer_guildname",
-        "DisplayDesc": "@owg_explorer_desc",
+        "DisplayName": "Covenant",
+        "DisplayDesc": "Divine Champions who fight with Conviction for Righteousness and Justice",
         "ForegroundColorIndex": 0,
         "ForegroundCrestIndex": 4,
         "BackgroundColorIndex": 0,

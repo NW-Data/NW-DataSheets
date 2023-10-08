@@ -918,5 +918,18 @@
         "IsSmall": false,
         "IsMedium": false,
         "IsLarge": false
+<<<<<<< HEAD
+=======
+    },
+    {
+        "FishId": "FishingPrismaticT52",
+        "Size": "Invalid",
+        "FishingXp": 65,
+        "MinWeight": 5,
+        "MaxWeight": 15,
+        "IsSmall": false,
+        "IsMedium": false,
+        "IsLarge": false
+>>>>>>> PTR
     }
 ]

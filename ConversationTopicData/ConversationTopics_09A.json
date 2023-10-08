@@ -1,0 +1,380 @@
+[
+    {
+        "ConversationTopicId": "09A_M1_Topic_Morgaine",
+        "PlayerPrompt": "\"After this, I can pass through the wall?\"",
+        "NPCResponse": "Aye, and breathe freely within! I shall go ahead and mark the way, and you can meet me at the encampment just within the territory.\\n\\nWe'll have to endure the insufferable druids together, they're all we have for support.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09A_M1_Topic_Morgaine2",
+        "PlayerPrompt": "\"Yet we must work with them nonetheless.\"",
+        "NPCResponse": "Aye, we must humor them for the time being, at least. Share the inoculate with Archdruid Trahern first, we need him healthy.\\n\\nThen speak with Alchemist Eadred. He has more sense than the others.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M1_Topic_Trahern",
+        "PlayerPrompt": "\"She wanted you to have it first.\"",
+        "NPCResponse": "That is a... surprise, but I must refuse. There are others whose need is far greater. Seems everyone has a different tolerance to these spores.\\n\\nPlease, if you will, share the inoculate with those who've fallen ill.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M1_Topic_Hargest",
+        "PlayerPrompt": "\"Can you give me a status report?\"",
+        "NPCResponse": "There's little to say. We know Artemis is here, the plants mutate rapidly and the beasts grow more savage.\\n\\nAlchemist Eadred claims some discovery, but I'll be damned if I understand it. You should speak with him.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M1_Topic_Eldred",
+        "PlayerPrompt": "“That sounds useful.”",
+        "NPCResponse": "We've known for centuries the Angry Earth share a sort of hivemind, communicating with one another through roots and spores. \\n\\nIt seems the strength of Artemis's emotions makes her messages comprehensible.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M2_Topic_Hargest",
+        "PlayerPrompt": "\"Can you give me a status report?\"",
+        "NPCResponse": "There's little to say. We know Artemis is here, the plants mutate rapidly and the beasts grow more savage.\\n\\nOur scouts face peril whenever they leave camp. Just now, the last patrol has even failed to report back in.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M2_Topic_Oakes",
+        "PlayerPrompt": "\"I'm here to help. I can get you to safety.\"",
+        "NPCResponse": "Safety? Safety? It's a little late for that! Besides, I have to stay in the Town Hall. I'm the constable…\\n\\nBut something happened, didn't it? Yes, it's in my notes. Others must know! I can't leave without my notes.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M2_Topic_Oakes2",
+        "PlayerPrompt": "\"Come with me. It's safe.\"",
+        "NPCResponse": "Where? Where is it safe? The Town Hall… NO, not there! I can't go back, anywhere but there!\\n\\nIf I agree to go with you, at least give me a moment to get my notes in order. Yes, just a moment... and I will be ready. I promise.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M2_Topic_Yoon_A",
+        "PlayerPrompt": "\"The other scouts disappeared?\"",
+        "NPCResponse": "Yes, the trees and plants assailed us as we ran, and we got separated. I must search for them. \\n\\nBut Hargest said survivors were top priority.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M2_Topic_Yoon_B",
+        "PlayerPrompt": "\"What's to the south?\"",
+        "NPCResponse": "We don't know. Every scout who's ranged down there hasn't returned. It may be a lost cause, or at least, I don't have the heart for it.\\n\\nI'm bruised and scratched, and my head is spinning. I-I don't know what to do.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09A_M2_Topic_Morgaine",
+        "PlayerPrompt": "\"You can do that?\"",
+        "NPCResponse": "It's an enchantment I learned from my brother long ago. It will be fragmented in there, but I am practiced in such things.\\n\\nStand the other side of her and we'll explore her memories together.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M3_Topic_Trahern",
+        "PlayerPrompt": "\"You think it's caused by the spores?\"",
+        "NPCResponse": "Yes, and I pray it's reversible, or Hargest will destroy every beast she can.\\n\\nI've germinated seeds for a vine that will at least repel the creatures. Here - take these pods and if you head south, plant them. That's all I ask.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M3_Topic_Hargest",
+        "PlayerPrompt": "\"He gave me these seed pods…\"",
+        "NPCResponse": "Heh. Be my guest, plant them as you go, but we need to push on, especially against these monster gorillas. \\n\\nFive times, I've sent rangers south to secure a position. At this point, I'm going myself.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M3_Topic_Hargest2",
+        "PlayerPrompt": "\"Let's spread out and search.\"",
+        "NPCResponse": "Alright. The rangers may be incapacitated by these damn spores. Let's hope that's the case, anyways.\\n\\nEither way, see any plants exuding spores, hold your breath, and crush them with your boot, then meet at the bottom of the hill.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M4_Topic_Riches",
+        "PlayerPrompt": "\"You were going to blow yourself up?\"",
+        "NPCResponse": "I got a few resurrections left in me. Besides, it's better than getting thrown into one of those pods!\\n\\nFolks go in, but don’t come out… drains the azoth right out of them! It's nasty business at the settlement these days.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M5_Topic_Trahern",
+        "PlayerPrompt": "\"What about the gorgon?\"",
+        "NPCResponse": "Gorgons of old could turn someone to stone with a look, and the sorceress seeks protection. \\n\\nBut the gorgon commands from the rear, and on your order, we have rangers ready to come through and fight for this ground. Say the word.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M5_Topic_Riches",
+        "PlayerPrompt": "\"Yes. We just need to hold out long enough.\"",
+        "NPCResponse": "Then let us stand together against whatever she sends our way, and prove that humanity will not be turned into plant food! \\n\\nLet's decorate this tavern with the innards of the monstrosities who trespass in our town!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M6_Topic_Fionn",
+        "PlayerPrompt": "\"Does that matter right now?\"",
+        "NPCResponse": "I guess not, or so everyone's saying. Archdruid Trahern made our Adjudicator swear to the truce before letting us through the spirit shrine.\\n\\nSeems all three factions made a beeline for this island, however.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M6_Topic_Ramla",
+        "PlayerPrompt": "\"I found some of your supplies.\"",
+        "NPCResponse": "I had thought those supplies lost when our people went missing along the way. It will be good to have them, especially this close to Saircor. \\n\\nWhatever is going on over there is unpleasant, to say the least.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M6_Josephine_Rescue",
+        "PlayerPrompt": "\"Have you seen an Artificer named Kim?\"",
+        "NPCResponse": "No, but I'm not the only prisoner here.\\n\\nGood luck finding him, and thanks for the help!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M6_Vachon_Rescue",
+        "PlayerPrompt": "\"Have you seen an Artificer named Kim?\"",
+        "NPCResponse": "No, we followed him here but were captured before we found where they're holding him.\\n\\nI'd help you look, but I need to tell Trahern what we saw.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M6_Zayden_Rescue",
+        "PlayerPrompt": "\"Have you seen an Artificer named Kim?\"",
+        "NPCResponse": "Yes, they're holding him in the central area.\\n\\nHe's heavily guarded because he tried to escape.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M7_Josephine_Wires",
+        "PlayerPrompt": "\"Sounds like you're just the person I need to talk to.\"",
+        "NPCResponse": "I'll gladly answer any questions you have about Ancient relays, or anything really. I owe you after Tempestas Custodia.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M7_Josephine_Thanks",
+        "PlayerPrompt": "\"You're not the expert?\"",
+        "NPCResponse": "Not yet! I'm hoping to learn from the best and one day take that title! \\n\\nGood luck, and I hope what I found will help end the hostilities here.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M8_Topic_Taurus",
+        "PlayerPrompt": "\"I come to talk, not to fight.\"",
+        "NPCResponse": "Mmm. Very well, but know this: I have no patience for dishonesty, and I am no fool. Speak plainly and truthfully, or battle, we will.\\n\\nI am Taurus, the Wild, the Bull, the Minotaur of Crete, and I have no love for mankind.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M9_Topic_Shirzad",
+        "PlayerPrompt": "“He gave me his blessing to come.\"",
+        "NPCResponse": "\u0026lt;Roars!\u0026gt; Presumptuous! What could we possibly speak about?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M10_Topic_Kurok",
+        "PlayerPrompt": "\"I seek to address the Tribunal.\"",
+        "NPCResponse": "And Shirzad has agreed to convene one on your behalf? Grr. The Lion Lord presumes much of me!\\n\\nI must see your strength, human. Do you deem yourself a champion of your tribe?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M11_Topic_Taurus",
+        "PlayerPrompt": "\"Yes. I will join you in battle, Taurus.\"",
+        "NPCResponse": "Rally your people first, for the beasts are not with us, and we need every soul we can muster.\\n\\nThen join me to attack Medusa's vile den. Do not delay, for my axe thirsts to cleave the gorgon's skull, and I have never been one for patience.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M11_Topic_Shirzad",
+        "PlayerPrompt": "\"He had fallen under Artemis's influence.\"",
+        "NPCResponse": "Then we have truly been betrayed by Artemis and undone by these alien spores that clog the air.\\n\\nAnd this means our primal oath is broken, and the Huntress has now in her possession the Tear of Gaea.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M12_Topic_Taurus",
+        "PlayerPrompt": "\"Now we fight Artemis.\"",
+        "NPCResponse": "You have my support, but you will not have my axe. I shall not raise it against one who once fought with honor at my side.\\n\\nI will remain here and ensure the gorgon and her vile creations are kept at bay.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M13_Topic_Morgaine",
+        "PlayerPrompt": "“Why thank you, Morgaine.”",
+        "NPCResponse": "Don't thank me yet. What will arrive is going to be much worse. \\n\\nYou need to protect my barrier while I focus on infusing your staff. Place it in the light when you’re ready. It will attract attention.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M14_Topic_Trahern1",
+        "PlayerPrompt": "\"What is it that we need to do?\"",
+        "NPCResponse": "What we seek is nearby, a seed from a bloom that originated in the initial blast of Artemis’s transformational ritual. As you can see by the area, much power was focused here. \\n\\nThose seeds clustered atop the bloom appear quite potent.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M14_Topic_Trahern2",
+        "PlayerPrompt": "\"We meet her at the approach to Light's Crown.\"",
+        "NPCResponse": "Yes. Let us hope Captain Hargest and her rangers have cleared the way, and that Morgaine has made preparations.\\n\\nI sense a pressure quivering in the trees like the anticipation of something terrible. We should hurry.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M14_Topic_Trahern3",
+        "PlayerPrompt": "\"Ready as always. Let's do this.\"",
+        "NPCResponse": "Place your staff over the circle when you are ready and we will finish the final enchantment. \\n\\nI hope the sorceress's plan is sound, and you have the prowess to carry it out. The hope of the druids goes with you. Be strong.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M14_Topic_Morgaine",
+        "PlayerPrompt": "\"How will this work against Artemis?\"",
+        "NPCResponse": "Artemis cannot be destroyed, so our only hope is that your imbued staff will be capable of imprisoning her.\\n\\nBut there is no time. Follow Trahern's instruction… this will work, trust me. It had sure better.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M15_Topic_Morgaine",
+        "PlayerPrompt": "\"What do we do with it?\"",
+        "NPCResponse": "This artifact is too powerful for an Ancient and certainly beyond anything mortal minds can even grasp.\\n\\nGet it and bring it to me quickly. We must ensure these incompetent druids don't walk away with it.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M15_Topic_Morgaine2",
+        "PlayerPrompt": "\"Can we return it to the Beast Lords?\"",
+        "NPCResponse": "Not while this savagery has a grip on them; they simply cannot be trusted with such power. \\n\\nNo, I will take it to a place long lost to most, where it can be safely hidden.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_M15_Topic_Artemis",
+        "PlayerPrompt": "“You have no authority to choose.”",
+        "NPCResponse": "Enjoy your temporary victory. But know that you've doomed us all. And humanity will face the coming darkness more alone than ever.\\n\\nCome, step closer, and I will give you a glimpse of your fate.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_S0_Topic_Eldred",
+        "PlayerPrompt": "\"You mentioned benefits.\"",
+        "NPCResponse": "Yes. Try it out for yourself,  if your body accepts the elixir, not only will you be rendered temporarily immune to the bloom’s toxins, they should also strengthen your senses.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_S17_Topic_Treadwell",
+        "PlayerPrompt": "\"I'll watch your back.\"",
+        "NPCResponse": "Thanks, friend. I’m better with a bow than I am with a wrench, but I’ll make it work.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_S17_Topic_Treadwell2",
+        "PlayerPrompt": "\"I'll take what I can carry.\"",
+        "NPCResponse": "Help yourself. It’ll lighten the load.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "09a_S17_Topic_Hargest",
+        "PlayerPrompt": "\"Time to make a statement.\"",
+        "NPCResponse": "My scouts spotted forces heading this way. Open fire!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

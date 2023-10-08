@@ -1,0 +1,3060 @@
+{
+    "__type": "PlayerBaseAttributes",
+    "player attribute data": {
+        "__type": "PlayerAttributeData",
+        "base amount to apply": 2,
+        "base apply rate": 0.75,
+        "structure rotation amount ( deg )": 15,
+        "base gather durability cost": 1,
+        "repair max durability cost": 0,
+        "one handed gathering distance": 0.95,
+        "two handed gathering distance": 1.45,
+        "stamina cost entry": "Gather_Default",
+        "post-ftue achievement id unlocks": [
+            "Lore_Unlock_SealedCommission",
+            "Lore_Unlock_DeathandRebirthLore1a",
+            "Lore_Unlock_DeathandRebirthLore1b",
+            "Lore_Unlock_DeathandRebirthLore1c",
+            "Lore_Unlock_DeathandRebirthLore1d",
+            "Lore_Unlock_DeathandRebirthLore2",
+            "Lore_Unlock_DeathandRebirthLore4a",
+            "Lore_Unlock_DeathandRebirthLore4b",
+            "Lore_Unlock_DeathandRebirthLore4c",
+            "Lore_Unlock_DeathandRebirthLore4d",
+            "Lore_Unlock_SealedCommission",
+            "Lore_Unlock_DeathandRebirthLore1a",
+            "Lore_Unlock_GettingStarted_All",
+            "Lore_Unlock_Mechanics_All",
+            "Lore_Unlock_Crafting_All",
+            "Lore_Unlock_TradingPost_All",
+            "Lore_Unlock_Progression_All",
+            "Lore_Unlock_Companies_All",
+            "Lore_Unlock_Combat_All"
+        ],
+        "camping achievement id": [
+            {
+                "__type": "CampTierData",
+                "blueprint id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampT1",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 482376172
+                    }
+                },
+                "effect id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampRegenL0",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 873781330
+                    }
+                }
+            },
+            {
+                "__type": "CampTierData",
+                "blueprint id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampT2",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 2244552790
+                    }
+                },
+                "effect id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampRegenL0",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 873781330
+                    }
+                }
+            },
+            {
+                "__type": "CampTierData",
+                "blueprint id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampT3",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 4073593024
+                    }
+                },
+                "effect id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampRegenL0",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 873781330
+                    }
+                }
+            },
+            {
+                "__type": "CampTierData",
+                "blueprint id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampT4",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 1823116643
+                    }
+                },
+                "effect id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampRegenL0",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 873781330
+                    }
+                }
+            },
+            {
+                "__type": "CampTierData",
+                "blueprint id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampT5",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 464371189
+                    }
+                },
+                "effect id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampRegenL0",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 873781330
+                    }
+                }
+            },
+            {
+                "__type": "CampTierData",
+                "blueprint id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampT6",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 2191846479
+                    }
+                },
+                "effect id": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "CampRegenL0",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 873781330
+                    }
+                }
+            }
+        ],
+        "0x3340421e": [
+            5,
+            15,
+            25,
+            40,
+            55
+        ],
+        "salvage gold tier modifiers": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "salvage min percent": 0.1,
+        "salvage max percent": 0.45,
+        "chance of salvage success": 1,
+        "minimum salvage quantity": 1,
+        "salvage dust modifier": 0.3,
+        "repair resource modifier": 0.1,
+        "user camera min sensitivity": 0,
+        "user camera max sensitivity": 1,
+        "base deployable limit": 25,
+        "player age display string": "@ui_age_chat_display",
+        "encumbrance immobilization modifier": 1.5,
+        "encumbrance max limit modifier": 2,
+        "max camp respawn distance meters": 500,
+        "pvp camp respawn cooldown seconds": 15,
+        "pvp respawn extend per death seconds": 10,
+        "max pvp respawn extend deaths": 10,
+        "pvp death extend timeout seconds": 600,
+        "player display level unlock free gear sets": 25,
+        "max instanced loot chest count": 60,
+        "max instanced slayerscript state count": 20,
+        "instanced loot chest reset time mins": 60,
+        "instanced slayerscript state reset time mins": 60,
+        "instanced ai loot clear time mins": 5,
+        "max ai loot receiver count": 10,
+        "min level roll perks": 7,
+        "min level roll gem slot": 7,
+        "drop probability falloff": 0,
+        "drop probability min": 0.02,
+        "poi level loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "POILevel",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 3351189353
+            }
+        },
+        "min content level loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "MinContLevel",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 1380482016
+            }
+        },
+        "level loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "Level",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 2599078931
+            }
+        },
+        "enemy level loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "EnemyLevel",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 1114249609
+            }
+        },
+        "min poi content level loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "MinPOIContLevel",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 238948904
+            }
+        },
+        "min enemy content level loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "MinEnemyContLevel",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 1167249062
+            }
+        },
+        "global mod loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "GlobalMod",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 1553613686
+            }
+        },
+        "fishing fresh water loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "Fresh",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 402773875
+            }
+        },
+        "fishing salt water loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "Salt",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 2415649015
+            }
+        },
+        "fish size loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "FishSize",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 2683881462
+            }
+        },
+        "fish rarity loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "FishRarity",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 1396154538
+            }
+        },
+        "summer fish rarity loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "SummerFishRarity",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 4214510909
+            }
+        },
+        "loot table diverted loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "LootTableDiverted",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 1734116424
+            }
+        },
+        "salvage item rarity loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "SalvageItemRarity",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 645394930
+            }
+        },
+        "salvage item tier loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "SalvageItemTier",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 3511231213
+            }
+        },
+        "salvage item gear score loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "SalvageItemGearScore",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 958619251
+            }
+        },
+        "equipped item loot tag": {
+            "__type": "EditCrc",
+            "m_valuestr": "equipped",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 358666504
+            }
+        },
+        "equipped tag ignore classes": {
+            "__type": "f28b9012-a592-5305-858f-88abe1ebb944",
+            "element": 157
+        },
+        "loot biasing item classes": {
+            "__type": "f28b9012-a592-5305-858f-88abe1ebb944",
+            "element": 141,
+            "element": 141
+        },
+        "0x89a11f3c": {
+            "__type": "f28b9012-a592-5305-858f-88abe1ebb944",
+            "element": 157
+        },
+        "attribute bias exclusive label": {
+            "__type": "EditCrc",
+            "m_valuestr": "Attribute",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 4202360827
+            }
+        },
+        "attribute exclusive label map": {
+            "__type": "3edc016a-52cf-5bb9-b450-2550db28f9e2",
+            "element": {
+                "__type": "6270fe26-ce9d-5972-b088-e57b8e6d9f66",
+                "value1": 3,
+                "value2": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "Dexterity",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 2245111469
+                    }
+                }
+            },
+            "element": {
+                "__type": "6270fe26-ce9d-5972-b088-e57b8e6d9f66",
+                "value1": 3,
+                "value2": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "Dexterity",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 2245111469
+                    }
+                }
+            },
+            "element": {
+                "__type": "6270fe26-ce9d-5972-b088-e57b8e6d9f66",
+                "value1": 3,
+                "value2": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "Dexterity",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 2245111469
+                    }
+                }
+            },
+            "element": {
+                "__type": "6270fe26-ce9d-5972-b088-e57b8e6d9f66",
+                "value1": 3,
+                "value2": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "Dexterity",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 2245111469
+                    }
+                }
+            },
+            "element": {
+                "__type": "6270fe26-ce9d-5972-b088-e57b8e6d9f66",
+                "value1": 3,
+                "value2": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "Dexterity",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 2245111469
+                    }
+                }
+            }
+        },
+        "azoth currency": "Azoth_Currency",
+        "azoth currency id": {
+            "__type": "Crc32",
+            "value": 928006727
+        },
+        "kill game event id": {
+            "__type": "EditCrc",
+            "m_valuestr": "KillEvent",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 959947853
+            }
+        },
+        "broken item efficiency data": [
+            {
+                "__type": "bc2fd03c-7fa0-5d12-b681-c5266456e0ec",
+                "value1": 1,
+                "value2": 0.5
+            },
+            {
+                "__type": "bc2fd03c-7fa0-5d12-b681-c5266456e0ec",
+                "value1": 2,
+                "value2": 0.25
+            },
+            {
+                "__type": "bc2fd03c-7fa0-5d12-b681-c5266456e0ec",
+                "value1": 3,
+                "value2": 0
+            },
+            {
+                "__type": "bc2fd03c-7fa0-5d12-b681-c5266456e0ec",
+                "value1": 4,
+                "value2": -0.25
+            },
+            {
+                "__type": "bc2fd03c-7fa0-5d12-b681-c5266456e0ec",
+                "value1": 5,
+                "value2": -0.5
+            }
+        ],
+        "categorical progression rankup game event id": {
+            "__type": "EditCrc",
+            "m_valuestr": "CategoricalProgressionRankUp",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 4207961976
+            }
+        },
+        "dynamic poi objective itemids": [
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "MI_PoiMapFragment",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 465696449
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "MI_PoiStarChartFragment",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 945223392
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "MI_PoiCartographersLetter",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 2977940158
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "MI_PoiHistoricalDocuments",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 4000375668
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "MI_PoiSurveyNotes",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 299379792
+                }
+            }
+        ],
+        "dynamic poi objective reward modifier ids": [
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 0
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "ObjectivePOI-",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 1628186416
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "ObjectivePOI",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 1756533717
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "ObjectivePOI+",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 2289009157
+                }
+            }
+        ],
+        "dynamic poi objective gameeventid": {
+            "__type": "EditCrc",
+            "m_valuestr": "ObjectivePOI",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 1756533717
+            }
+        },
+        "objective gameeventid": {
+            "__type": "EditCrc",
+            "m_valuestr": "BaseObjective",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 3720157081
+            }
+        },
+        "durability repair cost data": [
+            {
+                "__type": "AZStd::pair",
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 2,
+                "value2": 1
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 3,
+                "value2": 2
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 4,
+                "value2": 2
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 5,
+                "value2": 3
+            }
+        ],
+        "durability to coin rate": 0.01,
+        "inventory durability loss ratio": 1,
+        "pvp paperdoll durability loss multiplier": 0.4,
+        "pvp inventory durability loss multiplier": 0.4,
+        "chat max message size": 200,
+        "min armor mitigation": 0,
+        "max armor mitigation": 2,
+        "physical armor scale factor": 1850,
+        "elemental armor scale factor": 1850,
+        "armor set rating exponent": 1.2,
+        "armor mitigation exponent": 1.2,
+        "armor rating decimal accuracy": 1,
+        "base damage compound increase": 0.0112,
+        "compound increase diminishing multiplier": 0.6667,
+        "base damage gear score interval": 5,
+        "min possible weapon gear score": 100,
+        "diminishing gear score threshold": 500,
+        "round gearscore up?": true,
+        "gear score rounding interval": 5,
+        "item rarity data": [
+            {
+                "__type": "ItemRarityData",
+                "rarity level loc string": "@RarityLevel0_DisplayName",
+                "max perk count": 0,
+                "level requirement modifier": 0
+            },
+            {
+                "__type": "ItemRarityData",
+                "rarity level loc string": "@RarityLevel1_DisplayName",
+                "max perk count": 2,
+                "level requirement modifier": -2
+            },
+            {
+                "__type": "ItemRarityData",
+                "rarity level loc string": "@RarityLevel2_DisplayName",
+                "max perk count": 3,
+                "level requirement modifier": -3
+            },
+            {
+                "__type": "ItemRarityData",
+                "rarity level loc string": "@RarityLevel3_DisplayName",
+                "max perk count": 4,
+                "level requirement modifier": -4
+            },
+            {
+                "__type": "ItemRarityData",
+                "rarity level loc string": "@RarityLevel4_DisplayName",
+                "max perk count": 5,
+                "level requirement modifier": -5
+            }
+        ],
+        "perk generation data": {
+            "__type": "PerkGenerationData",
+            "perk data per tier": [
+                {
+                    "__type": "PerkTierData",
+                    "max perk channel": 0,
+                    "gem slot probability": 0,
+                    "attribute perk probability": 0,
+                    "general gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43"
+                    },
+                    "crafting gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43"
+                    },
+                    "attribute perk bucket": "",
+                    "attribute perk bucket id": {
+                        "__type": "Crc32",
+                        "value": 0
+                    }
+                },
+                {
+                    "__type": "PerkTierData",
+                    "max perk channel": 0,
+                    "gem slot probability": 0,
+                    "attribute perk probability": 0,
+                    "general gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43"
+                    },
+                    "crafting gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43"
+                    },
+                    "attribute perk bucket": "",
+                    "attribute perk bucket id": {
+                        "__type": "Crc32",
+                        "value": 0
+                    }
+                },
+                {
+                    "__type": "PerkTierData",
+                    "max perk channel": 2,
+                    "gem slot probability": 0,
+                    "attribute perk probability": 0,
+                    "general gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 2,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 170,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 2,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 170,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 2,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 170,
+                                    "value2": 700
+                                }
+                            ]
+                        }
+                    },
+                    "crafting gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 2,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 170,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 2,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 170,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 2,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 170,
+                                    "value2": 700
+                                }
+                            ]
+                        }
+                    },
+                    "attribute perk bucket": "CraftingAttributeBucketT2",
+                    "attribute perk bucket id": {
+                        "__type": "Crc32",
+                        "value": 3525196981
+                    }
+                },
+                {
+                    "__type": "PerkTierData",
+                    "max perk channel": 2,
+                    "gem slot probability": 0,
+                    "attribute perk probability": 0,
+                    "general gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 3,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 325,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 3,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 325,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 3,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 325,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 3,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 325,
+                                    "value2": 700
+                                }
+                            ]
+                        }
+                    },
+                    "crafting gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 3,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 325,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 3,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 325,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 3,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 325,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 3,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 325,
+                                    "value2": 700
+                                }
+                            ]
+                        }
+                    },
+                    "attribute perk bucket": "CraftingAttributeBucketT3",
+                    "attribute perk bucket id": {
+                        "__type": "Crc32",
+                        "value": 2769882147
+                    }
+                },
+                {
+                    "__type": "PerkTierData",
+                    "max perk channel": 3,
+                    "gem slot probability": 0,
+                    "attribute perk probability": 0,
+                    "general gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 4,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 450,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 4,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 450,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 4,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 450,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 4,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 450,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 4,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 450,
+                                    "value2": 700
+                                }
+                            ]
+                        }
+                    },
+                    "crafting gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 4,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 450,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 4,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 450,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 4,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 450,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 4,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 450,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 4,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 450,
+                                    "value2": 700
+                                }
+                            ]
+                        }
+                    },
+                    "attribute perk bucket": "CraftingAttributeBucketT4",
+                    "attribute perk bucket id": {
+                        "__type": "Crc32",
+                        "value": 998087040
+                    }
+                },
+                {
+                    "__type": "PerkTierData",
+                    "max perk channel": 4,
+                    "gem slot probability": 0,
+                    "attribute perk probability": 0,
+                    "general gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        }
+                    },
+                    "crafting gear score perk count": {
+                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        },
+                        "element": {
+                            "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
+                            "value1": 5,
+                            "value2": [
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 600,
+                                    "value2": 625
+                                },
+                                {
+                                    "__type": "AZStd::pair",
+                                    "value1": 675,
+                                    "value2": 700
+                                }
+                            ]
+                        }
+                    },
+                    "attribute perk bucket": "CraftingAttributeBucketT5",
+                    "attribute perk bucket id": {
+                        "__type": "Crc32",
+                        "value": 1283107094
+                    }
+                }
+            ],
+            "crafting result loot bucket id": {
+                "__type": "Crc32",
+                "value": 3326010646
+            },
+            "crafting result loot bucket": "FixedCraftingResults",
+            "roll perk on upgrade gs": 600,
+            "roll perk on upgrade tier": 5,
+            "roll perk on upgrade perk count": 4
+        },
+        "perk chance modifier": 1,
+        "attribute chance modifier": 1,
+        "gem slot chance modifier": 1,
+        "perk chance itemid": "AzureT1",
+        "rested exp percentage per hour": 0.01,
+        "rested exp max percentage": 1.5,
+        "rested exp modifier": 1,
+        "rested exp threshold hours": 8,
+        "minimum ai level for territory standing": 7,
+        "base xp value for finding lore": 40,
+        "number of entries that need to be discovered to advance to the next step": 10,
+        "the amount of xp gained per step": 10,
+        "max points per attribute": 500,
+        "level damage multiplier": 0.025,
+        "paperdoll slot unlocks by level": [
+            {
+                "__type": "AZStd::pair",
+                "value1": 7,
+                "value2": 20
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 6,
+                "value2": 40
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 25,
+                "value2": 5
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 26,
+                "value2": 999
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 15,
+                "value2": 0
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 16,
+                "value2": 15
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 17,
+                "value2": 25
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 30,
+                "value2": 10
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 31,
+                "value2": 30
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 32,
+                "value2": 45
+            }
+        ],
+        "0xcd8f6813": {
+            "__type": "363ed6cd-26b0-5fb8-bf5c-a0320f380286",
+            "element": {
+                "__type": "de1cb64d-ebc4-583e-af31-eb257b8ac677",
+                "value1": 49,
+                "value2": "Riding",
+                "0x4c7b0d76": 250
+            },
+            "element": {
+                "__type": "de1cb64d-ebc4-583e-af31-eb257b8ac677",
+                "value1": 49,
+                "value2": "Riding",
+                "0x4c7b0d76": 250
+            },
+            "element": {
+                "__type": "de1cb64d-ebc4-583e-af31-eb257b8ac677",
+                "value1": 49,
+                "value2": "Riding",
+                "0x4c7b0d76": 250
+            },
+            "element": {
+                "__type": "de1cb64d-ebc4-583e-af31-eb257b8ac677",
+                "value1": 49,
+                "value2": "Riding",
+                "0x4c7b0d76": 250
+            }
+        },
+        "gear set storage excluded paperdoll slots": [
+            9,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            46,
+            47,
+            48,
+            49
+        ],
+        "ability point row requirements": [
+            {
+                "__type": "AZStd::pair",
+                "value1": 0,
+                "value2": 1
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 1,
+                "value2": 1
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 2,
+                "value2": 1
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 3,
+                "value2": 1
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 4,
+                "value2": 1
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 5,
+                "value2": 1
+            }
+        ],
+        "status effect category limits": [],
+        "status effect category limit crcs": [],
+        "propertytaxratemin": 0.2,
+        "propertytaxratemax": 0.2,
+        "tradingtaxratemin": 1,
+        "tradingtaxratemax": 1,
+        "craftingfeeratemin": 0.5,
+        "craftingfeeratemax": 0.5,
+        "refiningfeeratemin": 0.5,
+        "refiningfeeratemax": 0.5,
+        "settaxorfeecooldowninmin": 1440,
+        "controllingcompanytaxmodifier": 0.3,
+        "controllingcompanyhousecostmodifier": 0.2,
+        "controllingfactionluckmodifier": 50,
+        "controllingfactiongathermodifier": 0.1,
+        "alwaysavailabletownprojectid": {
+            "__type": "EditCrc",
+            "m_valuestr": "CommunityProjectId",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 630309906
+            }
+        },
+        "allprojectpoolid": {
+            "__type": "EditCrc",
+            "m_valuestr": "AllProjectId",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 1177114354
+            }
+        },
+        "blocking threat mulitplier": 1,
+        "final starting beach achievement": {
+            "__type": "EditCrc",
+            "m_valuestr": "S_introtosettlement",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 478585345
+            }
+        },
+        "first house flat discount": 500000
+    },
+    "structure placement data": {
+        "__type": "StructurePlacementData",
+        "grid box size": 4,
+        "grid box height": 1,
+        "is placing sticky factor": 0.65,
+        "is placed sticky factor": 0.15,
+        "min build distance from player": 2.5,
+        "max build distance from player": 4.5,
+        "min build pitch percent": 1,
+        "max build pitch percent": 0.45,
+        "max build vertical distance from player": 1,
+        "placement obstruction update frequency time in secs": 0.1,
+        "placing settings": {
+            "__type": "TerrainValidationData",
+            "m_aboveminpointvalidthreshold": 1,
+            "m_belowminpointvalidthreshold": 1
+        },
+        "snapped to settings": {
+            "__type": "TerrainValidationData",
+            "m_aboveminpointvalidthreshold": 0.3,
+            "m_belowminpointvalidthreshold": 0.35
+        },
+        "snap point mesh file name": {
+            "__type": "Asset",
+            "guid": "d26b010d-53d9-5899-b74d-57447bd24db2",
+            "subId": "00000000-0000-0000-0000-000000000000",
+            "type": "c2869e3b-dda0-4e01-8fe3-6770d788866b",
+            "hint": "objects/draftsman/buildables/snap/jav_snap_point_01.cgf"
+        },
+        "grid footprint mesh file name": {
+            "__type": "Asset",
+            "guid": "868fefe1-1125-5d45-bc68-4a24be2ebfed",
+            "subId": "00000000-0000-0000-0000-000000000000",
+            "type": "c2869e3b-dda0-4e01-8fe3-6770d788866b",
+            "hint": "objects/draftsman/buildables/snap/jav_snap_box_1x1.cgf"
+        },
+        "valid placement material file name": {
+            "__type": "AzFramework::SimpleAssetReference\u003cLmbrCentral::MaterialAsset\u003e",
+            "baseclass1": {
+                "__type": "SimpleAssetReferenceBase",
+                "assetpath": "objects/draftsman/shader/draftsman_hand_01_mat.mtl"
+            }
+        },
+        "invalid placement material file name": {
+            "__type": "AzFramework::SimpleAssetReference\u003cLmbrCentral::MaterialAsset\u003e",
+            "baseclass1": {
+                "__type": "SimpleAssetReferenceBase",
+                "assetpath": "objects/draftsman/shader/draftsman_hand_02_mat.mtl"
+            }
+        },
+        "completion blocked material file name": {
+            "__type": "AzFramework::SimpleAssetReference\u003cLmbrCentral::MaterialAsset\u003e",
+            "baseclass1": {
+                "__type": "SimpleAssetReferenceBase",
+                "assetpath": "objects/draftsman/shader/draftsman_hand_03_mat.mtl"
+            }
+        },
+        "snap valid placement material file name": {
+            "__type": "AzFramework::SimpleAssetReference\u003cLmbrCentral::MaterialAsset\u003e",
+            "baseclass1": {
+                "__type": "SimpleAssetReferenceBase",
+                "assetpath": "objects/draftsman/shader/draftsman_hand_01_snap_mat.mtl"
+            }
+        },
+        "snap invalid placement material file name": {
+            "__type": "AzFramework::SimpleAssetReference\u003cLmbrCentral::MaterialAsset\u003e",
+            "baseclass1": {
+                "__type": "SimpleAssetReferenceBase",
+                "assetpath": "objects/draftsman/shader/draftsman_hand_02_snap_mat.mtl"
+            }
+        },
+        "snap completion blocked material file name": {
+            "__type": "AzFramework::SimpleAssetReference\u003cLmbrCentral::MaterialAsset\u003e",
+            "baseclass1": {
+                "__type": "SimpleAssetReferenceBase",
+                "assetpath": "objects/draftsman/shader/draftsman_hand_03_snap_mat.mtl"
+            }
+        },
+        "placement obstruction filter": "PlacementObstructionCast",
+        "completion obstruction filter": "CompletionObstructionCast",
+        "los obstruction filter": "LOSPlacementCast",
+        "los box height": 0.15,
+        "los box width": 0.15
+    },
+    "structure attribute data": {
+        "__type": "StructureAttributeData",
+        "demolish min percent": 0.6,
+        "demolish max percent": 0.75,
+        "demolish min quantity": 1
+    },
+    "gather game data": {
+        "__type": "GatherGameData",
+        "perfect hit time amount to take": 0.5,
+        "average hit time amount to take": 0.2
+    },
+    "fishing data": {
+        "__type": "FishingData",
+        "fish catch game event": "FishCaught",
+        "fish hook game event": "FishHooked",
+        "fish catch durability loss": 10,
+        "fish loss durability loss": 30,
+        "line break durability loss": 50,
+        "bait loss chance cast hit land": 0,
+        "bait loss chance hook miss": 0.5,
+        "bait loss chance reeling miss distance": 1,
+        "bait loss chance reeling miss tension": 1,
+        "bait loss chance fish caught": 0.75,
+        "min reel path distance": 4,
+        "bite window open duration seconds": 1,
+        "fish behavior time block duration seconds": 2,
+        "fish fighting line tension multiplier": 2.5,
+        "fish fighting reel in multiplier": 0.75,
+        "fish fighting swim away multiplier": 2.5,
+        "fish tired line tension multiplier": 1,
+        "fish tired reel in multiplier": 1,
+        "fish tired swim away multiplier": 1
+    },
+    "faction data": {
+        "__type": "FactionData",
+        "sanctuary enter notification id": "Enter_Sanctuary",
+        "sanctuary exit notification id": "Exit_Sanctuary",
+        "toggle pvp notification id": "Toggle_PvP",
+        "faction change cooldown seconds": 5184000,
+        "faction change cost level": 20,
+        "faction change cost min": 0,
+        "faction change cost max": 0,
+        "faction change cost increment": 50,
+        "pvp kill value per second": 0.05,
+        "pvp kill value thresholds": [
+            {
+                "__type": "PvpValueEntry",
+                "kill reward modifier": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 0
+                    }
+                },
+                "value threshold": 0
+            },
+            {
+                "__type": "PvpValueEntry",
+                "kill reward modifier": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "PvpKill_Low",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 3501034468
+                    }
+                },
+                "value threshold": 0
+            },
+            {
+                "__type": "PvpValueEntry",
+                "kill reward modifier": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "PvpKill_High",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 4159796409
+                    }
+                },
+                "value threshold": 15
+            },
+            {
+                "__type": "PvpValueEntry",
+                "kill reward modifier": {
+                    "__type": "EditCrc",
+                    "m_valuestr": "PvpKill_ExtraHigh",
+                    "m_valuecrc": {
+                        "__type": "Crc32",
+                        "value": 291885270
+                    }
+                },
+                "value threshold": 30
+            }
+        ],
+        "pvp kill gameeventid": {
+            "__type": "EditCrc",
+            "m_valuestr": "PlayerKill",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 929238704
+            }
+        },
+        "fort capture gameeventid": {
+            "__type": "EditCrc",
+            "m_valuestr": "PvP_FortTakeover",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 735864995
+            }
+        },
+        "influence tower capture gameeventid": {
+            "__type": "EditCrc",
+            "m_valuestr": "PvP_InfluenceTowerTakeover",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 2318744964
+            }
+        },
+        "pvp kill faction token modifier": 0.5
+    },
+    "event credit data": {
+        "__type": "EventCreditData",
+        "credit time limit seconds": 120,
+        "credit health threshold percentage": 0.01,
+        "credit range limit meters": 200,
+        "contribution type multipliers": [],
+        "event credit modifiers": [
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 1,
+                "loot modifier": 1,
+                "currency modifier": 1,
+                "territory standing modifier": 1
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.7,
+                "loot modifier": 1,
+                "currency modifier": 0.8,
+                "territory standing modifier": 0.7
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.55,
+                "loot modifier": 1,
+                "currency modifier": 0.6,
+                "territory standing modifier": 0.55
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.45,
+                "loot modifier": 1,
+                "currency modifier": 0.4,
+                "territory standing modifier": 0.45
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.4,
+                "loot modifier": 1,
+                "currency modifier": 0.2,
+                "territory standing modifier": 0.4
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.35,
+                "loot modifier": 1,
+                "currency modifier": 0.1,
+                "territory standing modifier": 0.35
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.3,
+                "loot modifier": 1,
+                "currency modifier": 0.1,
+                "territory standing modifier": 0.3
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.25,
+                "loot modifier": 1,
+                "currency modifier": 0.1,
+                "territory standing modifier": 0.25
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.2,
+                "loot modifier": 1,
+                "currency modifier": 0.1,
+                "territory standing modifier": 0.2
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.15,
+                "loot modifier": 1,
+                "currency modifier": 0.1,
+                "territory standing modifier": 0.15
+            }
+        ],
+        "group credit modifiers": [
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 1,
+                "loot modifier": 1,
+                "currency modifier": 1,
+                "territory standing modifier": 1
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.7,
+                "loot modifier": 1,
+                "currency modifier": 1,
+                "territory standing modifier": 0.7
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.6,
+                "loot modifier": 1,
+                "currency modifier": 1,
+                "territory standing modifier": 0.6
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.5,
+                "loot modifier": 1,
+                "currency modifier": 1,
+                "territory standing modifier": 0.5
+            },
+            {
+                "__type": "CreditModifierData",
+                "xp modifier": 0.4,
+                "loot modifier": 1,
+                "currency modifier": 1,
+                "territory standing modifier": 0.4
+            }
+        ]
+    },
+    "war data": {
+        "__type": "WarData",
+        "war cost": [
+            750000,
+            1000000,
+            1500000
+        ],
+        "war extension cost modifier": 1.2,
+        "war extension max cost percentage": 20,
+        "prewar duration minutes": 690,
+        "conquest window duration minutes": 480,
+        "war duration minutes": 0,
+        "war conquest duration minutes": 30,
+        "invasion conquest duration minutes": 25,
+        "resolution duration minutes": 3,
+        "resolution phase buffer minutes": 0,
+        "claim lock duration minutes": 120,
+        "siege window cooldown minutes": 10080,
+        "attacker war count modifier": 0,
+        "defender war count modifier": 0,
+        "counter attack discount": 0.1,
+        "siege window rounding hours": 0.5,
+        "base upkeep war declaration penalty": 0.2,
+        "destroyed claim ends war": true,
+        "larger guild multiplier": 0,
+        "member war modifier map": [],
+        "require defender territory": true,
+        "attacker buildable team limits": [
+            6,
+            8,
+            10
+        ],
+        "reset effect categories": [
+            "Buff",
+            "Debuff",
+            "SiegeOnly"
+        ],
+        "reset effect categories crc": [
+            {
+                "__type": "Crc32",
+                "value": 1965507171
+            },
+            {
+                "__type": "Crc32",
+                "value": 655788461
+            },
+            {
+                "__type": "Crc32",
+                "value": 3165853951
+            }
+        ],
+        "post siege status effects": [
+            "Siege_PostMatch_KeepAlive"
+        ],
+        "post siege status effects crc": [
+            {
+                "__type": "Crc32",
+                "value": 3344424090
+            }
+        ],
+        "deployable limits editable": [
+            {
+                "__type": "9266a50c-9eaf-5ef7-9288-c88c54c28efa",
+                "value1": "AttackerTurrets",
+                "value2": {
+                    "__type": "WarDeployableLimitData",
+                    "m_id": {
+                        "__type": "Crc32",
+                        "value": 0
+                    },
+                    "m_displayname": "@AttackerTurrets",
+                    "m_buildablenames": [
+                        "PlatformCannonT1",
+                        "PlatformCannonT2",
+                        "PlatformCannonT3",
+                        "PlatformFireLauncherT1",
+                        "PlatformFireLauncherT2",
+                        "PlatformFireLauncherT3",
+                        "PlatformRepeaterT1",
+                        "PlatformRepeaterT2",
+                        "PlatformRepeaterT3"
+                    ],
+                    "m_buildableids": [
+                        {
+                            "__type": "Crc32",
+                            "value": 3147650951
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 1484918526
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 1111897736
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 580126269
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 1435711147
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 2890422180
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 3062656978
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 3247136580
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 3679414066
+                        }
+                    ],
+                    "m_attackerlimits": [
+                        6,
+                        8,
+                        10
+                    ],
+                    "m_defenderlimit": -1
+                }
+            },
+            {
+                "__type": "9266a50c-9eaf-5ef7-9288-c88c54c28efa",
+                "value1": "SmallDeployables",
+                "value2": {
+                    "__type": "WarDeployableLimitData",
+                    "m_id": {
+                        "__type": "Crc32",
+                        "value": 0
+                    },
+                    "m_displayname": "@SmallDeployables",
+                    "m_buildablenames": [
+                        "PowderKegT2",
+                        "TrapFire",
+                        "TrapDecoy"
+                    ],
+                    "m_buildableids": [
+                        {
+                            "__type": "Crc32",
+                            "value": 1966042082
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 1656178495
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 3326608013
+                        }
+                    ],
+                    "m_attackerlimits": [
+                        15,
+                        15,
+                        15
+                    ],
+                    "m_defenderlimit": 15
+                }
+            }
+        ],
+        "deployable limits": [
+            {
+                "__type": "ee7708e0-79e7-5085-a0f2-81eef4527cbc",
+                "value1": {
+                    "__type": "Crc32",
+                    "value": 3278957618
+                },
+                "value2": {
+                    "__type": "WarDeployableLimitData",
+                    "m_id": {
+                        "__type": "Crc32",
+                        "value": 3278957618
+                    },
+                    "m_displayname": "@AttackerTurrets",
+                    "m_buildablenames": [
+                        "PlatformCannonT1",
+                        "PlatformCannonT2",
+                        "PlatformCannonT3",
+                        "PlatformFireLauncherT1",
+                        "PlatformFireLauncherT2",
+                        "PlatformFireLauncherT3",
+                        "PlatformRepeaterT1",
+                        "PlatformRepeaterT2",
+                        "PlatformRepeaterT3"
+                    ],
+                    "m_buildableids": [
+                        {
+                            "__type": "Crc32",
+                            "value": 3147650951
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 1484918526
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 1111897736
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 580126269
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 1435711147
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 2890422180
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 3062656978
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 3247136580
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 3679414066
+                        }
+                    ],
+                    "m_attackerlimits": [
+                        6,
+                        8,
+                        10
+                    ],
+                    "m_defenderlimit": -1
+                }
+            },
+            {
+                "__type": "ee7708e0-79e7-5085-a0f2-81eef4527cbc",
+                "value1": {
+                    "__type": "Crc32",
+                    "value": 1478985693
+                },
+                "value2": {
+                    "__type": "WarDeployableLimitData",
+                    "m_id": {
+                        "__type": "Crc32",
+                        "value": 1478985693
+                    },
+                    "m_displayname": "@SmallDeployables",
+                    "m_buildablenames": [
+                        "PowderKegT2",
+                        "TrapFire",
+                        "TrapDecoy"
+                    ],
+                    "m_buildableids": [
+                        {
+                            "__type": "Crc32",
+                            "value": 1966042082
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 1656178495
+                        },
+                        {
+                            "__type": "Crc32",
+                            "value": 3326608013
+                        }
+                    ],
+                    "m_attackerlimits": [
+                        15,
+                        15,
+                        15
+                    ],
+                    "m_defenderlimit": 15
+                }
+            }
+        ]
+    },
+    "contract data": {
+        "__type": "ContractConfigData",
+        "base number of buy/sell contracts": 100,
+        "base number of other contracts": 10,
+        "buy contract duration fee map": [
+            {
+                "__type": "AZStd::pair",
+                "value1": 1,
+                "value2": {
+                    "__type": "ContractBuySellFeeData",
+                    "flat fee": 50,
+                    "percentage fee": 0.02
+                }
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 3,
+                "value2": {
+                    "__type": "ContractBuySellFeeData",
+                    "flat fee": 100,
+                    "percentage fee": 0.025
+                }
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 7,
+                "value2": {
+                    "__type": "ContractBuySellFeeData",
+                    "flat fee": 200,
+                    "percentage fee": 0.03
+                }
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 14,
+                "value2": {
+                    "__type": "ContractBuySellFeeData",
+                    "flat fee": 400,
+                    "percentage fee": 0.035
+                }
+            }
+        ],
+        "sell contract duration fee map": [
+            {
+                "__type": "AZStd::pair",
+                "value1": 1,
+                "value2": {
+                    "__type": "ContractBuySellFeeData",
+                    "flat fee": 50,
+                    "percentage fee": 0.02
+                }
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 3,
+                "value2": {
+                    "__type": "ContractBuySellFeeData",
+                    "flat fee": 100,
+                    "percentage fee": 0.025
+                }
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 7,
+                "value2": {
+                    "__type": "ContractBuySellFeeData",
+                    "flat fee": 200,
+                    "percentage fee": 0.03
+                }
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 14,
+                "value2": {
+                    "__type": "ContractBuySellFeeData",
+                    "flat fee": 400,
+                    "percentage fee": 0.035
+                }
+            }
+        ],
+        "default contract duration days": 14,
+        "buy contract transaction tax": 0.05,
+        "sell contract transaction tax": 0.05
+    },
+    "war color data": {
+        "__type": "WarColorData",
+        "war colors map": [
+            {
+                "__type": "AZStd::pair",
+                "value1": 1,
+                "value2": {
+                    "__type": "Color",
+                    "__value": [
+                        0.0784314,
+                        0.4862745,
+                        0.8,
+                        1
+                    ]
+                }
+            },
+            {
+                "__type": "AZStd::pair",
+                "value1": 2,
+                "value2": {
+                    "__type": "Color",
+                    "__value": [
+                        0.8,
+                        0.2,
+                        0.0784314,
+                        1
+                    ]
+                }
+            }
+        ]
+    },
+    "guild siege window region data": [
+        {
+            "__type": "AZStd::pair",
+            "value1": "nrt",
+            "value2": {
+                "__type": "GuildSiegeWindowRegionData",
+                "start hour": 6,
+                "end hour": 13,
+                "utcoffset": 9,
+                "dstruleid": {
+                    "__type": "Crc32",
+                    "value": 0
+                },
+                "dstrule": "",
+                "observesdst": false
+            }
+        },
+        {
+            "__type": "AZStd::pair",
+            "value1": "syd",
+            "value2": {
+                "__type": "GuildSiegeWindowRegionData",
+                "start hour": 4,
+                "end hour": 12,
+                "utcoffset": 10,
+                "dstruleid": {
+                    "__type": "Crc32",
+                    "value": 3411872625
+                },
+                "dstrule": "Australia",
+                "observesdst": true
+            }
+        },
+        {
+            "__type": "AZStd::pair",
+            "value1": "gru",
+            "value2": {
+                "__type": "GuildSiegeWindowRegionData",
+                "start hour": 18,
+                "end hour": 2,
+                "utcoffset": -3,
+                "dstruleid": {
+                    "__type": "Crc32",
+                    "value": 0
+                },
+                "dstrule": "",
+                "observesdst": false
+            }
+        },
+        {
+            "__type": "AZStd::pair",
+            "value1": "pdx",
+            "value2": {
+                "__type": "GuildSiegeWindowRegionData",
+                "start hour": 23,
+                "end hour": 7,
+                "utcoffset": -8,
+                "dstruleid": {
+                    "__type": "Crc32",
+                    "value": 2806025604
+                },
+                "dstrule": "America",
+                "observesdst": true
+            }
+        },
+        {
+            "__type": "AZStd::pair",
+            "value1": "loc",
+            "value2": {
+                "__type": "GuildSiegeWindowRegionData",
+                "start hour": 23,
+                "end hour": 7,
+                "utcoffset": -8,
+                "dstruleid": {
+                    "__type": "Crc32",
+                    "value": 2806025604
+                },
+                "dstrule": "America",
+                "observesdst": true
+            }
+        },
+        {
+            "__type": "AZStd::pair",
+            "value1": "iad",
+            "value2": {
+                "__type": "GuildSiegeWindowRegionData",
+                "start hour": 20,
+                "end hour": 4,
+                "utcoffset": -5,
+                "dstruleid": {
+                    "__type": "Crc32",
+                    "value": 2806025604
+                },
+                "dstrule": "America",
+                "observesdst": true
+            }
+        },
+        {
+            "__type": "AZStd::pair",
+            "value1": "fra",
+            "value2": {
+                "__type": "GuildSiegeWindowRegionData",
+                "start hour": 14,
+                "end hour": 22,
+                "utcoffset": 1,
+                "dstruleid": {
+                    "__type": "Crc32",
+                    "value": 3041890632
+                },
+                "dstrule": "Central Europe",
+                "observesdst": true
+            }
+        }
+    ],
+    "guild treasury data": {
+        "__type": "GuildTreasuryData",
+        "default daily withdrawal limit": 10000
+    },
+    "territory bonus data": [
+        {
+            "__type": "TerritoryEntryData",
+            "territory bonus id": 1,
+            "progression point id": "TB_GainStanding",
+            "initial bonus": 0.05,
+            "reduction modifier": 0.135,
+            "min value": 0.0025
+        },
+        {
+            "__type": "TerritoryEntryData",
+            "territory bonus id": 2,
+            "progression point id": "TB_GainXP",
+            "initial bonus": 0.03,
+            "reduction modifier": 0.1,
+            "min value": 0.0025
+        },
+        {
+            "__type": "TerritoryEntryData",
+            "territory bonus id": 3,
+            "progression point id": "TB_GainStorage",
+            "initial bonus": 250,
+            "reduction modifier": 0,
+            "min value": 1
+        },
+        {
+            "__type": "TerritoryEntryData",
+            "territory bonus id": 4,
+            "progression point id": "TB_GainGatherRate",
+            "initial bonus": 0.05,
+            "reduction modifier": 0.135,
+            "min value": 0.0025
+        },
+        {
+            "__type": "TerritoryEntryData",
+            "territory bonus id": 5,
+            "progression point id": "TB_GainFactionRep",
+            "initial bonus": 0.05,
+            "reduction modifier": 0.135,
+            "min value": 0.0025
+        },
+        {
+            "__type": "TerritoryEntryData",
+            "territory bonus id": 6,
+            "progression point id": "TB_GainHousePoints",
+            "initial bonus": 5,
+            "reduction modifier": 0,
+            "min value": 0
+        },
+        {
+            "__type": "TerritoryEntryData",
+            "territory bonus id": 7,
+            "progression point id": "TB_TaxTradingPost",
+            "initial bonus": 0.05,
+            "reduction modifier": 0.135,
+            "min value": 0.0025
+        },
+        {
+            "__type": "TerritoryEntryData",
+            "territory bonus id": 8,
+            "progression point id": "TB_TaxStations",
+            "initial bonus": 0.05,
+            "reduction modifier": 0.135,
+            "min value": 0.0025
+        },
+        {
+            "__type": "TerritoryEntryData",
+            "territory bonus id": 9,
+            "progression point id": "TB_TaxProperty",
+            "initial bonus": 0.05,
+            "reduction modifier": 0.135,
+            "min value": 0.0025
+        },
+        {
+            "__type": "TerritoryEntryData",
+            "territory bonus id": 10,
+            "progression point id": "TB_PurchaseHouse",
+            "initial bonus": 1,
+            "reduction modifier": 0,
+            "min value": 0
+        }
+    ],
+    "remote storage item transfer fee data": {
+        "__type": "RemoteStorageItemTransferFeeData",
+        "item tier base fees": [
+            250,
+            250,
+            500,
+            2000,
+            3500,
+            5000
+        ],
+        "item type fee multipliers": [
+            {
+                "__type": "RemoteStorageItemTypeMultiplierData",
+                "item tier base fees": 3,
+                "item type fee multipliers": 0.01
+            },
+            {
+                "__type": "RemoteStorageItemTypeMultiplierData",
+                "item tier base fees": 6,
+                "item type fee multipliers": 0.01
+            },
+            {
+                "__type": "RemoteStorageItemTypeMultiplierData",
+                "item tier base fees": 8,
+                "item type fee multipliers": 0.01
+            },
+            {
+                "__type": "RemoteStorageItemTypeMultiplierData",
+                "item tier base fees": 1,
+                "item type fee multipliers": 2
+            },
+            {
+                "__type": "RemoteStorageItemTypeMultiplierData",
+                "item tier base fees": 9,
+                "item type fee multipliers": 2
+            },
+            {
+                "__type": "RemoteStorageItemTypeMultiplierData",
+                "item tier base fees": 4,
+                "item type fee multipliers": 0.01
+            },
+            {
+                "__type": "RemoteStorageItemTypeMultiplierData",
+                "item tier base fees": 0,
+                "item type fee multipliers": 0.01
+            }
+        ],
+        "distance interval meters": 250,
+        "fee multiplier per interval": 0.1
+    },
+    "faction influence config data": {
+        "__type": "FactionInfluenceConfigData",
+        "maxinfluence": 10000,
+        "decrementrate": 0,
+        "incrementrate": 0.000138,
+        "maxincrementtimemodifier": 0.65,
+        "maxdecrementtimemodifier": 0.65,
+        "minimumtimesincelastwar": 4320,
+        "minterritorydifftoapplyudmechanics": 2,
+        "mintimetoapplyudmechanics": 0,
+        "underdogmissioninfluencegain": 0.1,
+        "underdogmissioninfluencegaincap": 0.1,
+        "uderdogfactionrepgain": 0,
+        "underdogfactionrepgaincap": 0,
+        "underdogpvpinfluencegain": 0.1,
+        "underdogpvpinfluencegaincap": 0.1,
+        "minimuminfluencethresholdforwar": 0.05,
+        "influence race attacker win gameeventid": {
+            "__type": "EditCrc",
+            "m_valuestr": "InfluenceRace_Attacker_Win_Reward",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 729834665
+            }
+        },
+        "influence race defender win gameeventid": {
+            "__type": "EditCrc",
+            "m_valuestr": "InfluenceRace_Defender_Win_Reward",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 1765638189
+            }
+        },
+        "influence race lose gameeventid": {
+            "__type": "EditCrc",
+            "m_valuestr": "InfluenceRace_Lose_Reward",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 1194483916
+            }
+        }
+    },
+    "guaranteed equipped item transfer data": {
+        "__type": "GuaranteedItemTransferData",
+        "itemname": "FoodHealthRecoveryT1",
+        "itemquantity": 1
+    },
+    "guaranteed inventory item transfer data": {
+        "__type": "GuaranteedItemTransferData",
+        "itemname": "",
+        "itemquantity": 1
+    },
+    "valid group data": {
+        "__type": "ValidGroupData",
+        "names": [],
+        "objectives": [],
+        "iconpaths": [
+            "LyShineUI/Images/Icons/Group/GroupIcon11.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon12.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon13.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon14.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon15.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon16.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon17.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon18.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon19.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon20.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon21.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon22.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon23.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon24.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon25.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon26.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon01.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon02.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon03.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon04.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon05.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon06.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon07.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon08.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon09.png",
+            "LyShineUI/Images/Icons/Group/GroupIcon10.png"
+        ],
+        "colors": [
+            {
+                "__type": "Color",
+                "__value": [
+                    0.8862745,
+                    0.6,
+                    0.0862745,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    0.4627451,
+                    1,
+                    0.8431373,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    0.6196079,
+                    0.5803922,
+                    0.4941176,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    1,
+                    0.1803922,
+                    0.1803922,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    0.6941177,
+                    0.3686275,
+                    0.1176471,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    1,
+                    0.8313726,
+                    0.372549,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    0.2705882,
+                    0.8196079,
+                    1,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    0.4392157,
+                    0.8235294,
+                    0.8941177,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    1,
+                    0.4980392,
+                    0.3137255,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    0.1882353,
+                    0.8980392,
+                    0.6705883,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    0.7098039,
+                    0.4235294,
+                    0.9764706,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    0.8745098,
+                    0.3137255,
+                    0.7215686,
+                    1
+                ]
+            },
+            {
+                "__type": "Color",
+                "__value": [
+                    1,
+                    0.6,
+                    0,
+                    1
+                ]
+            }
+        ]
+    },
+    "taskinteract data": {
+        "__type": "TaskInteractData",
+        "interacttagentries": [
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SettlementStorage",
+                "landmark type": 12,
+                "landmark data": []
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SettlementAlchemy",
+                "landmark type": 11,
+                "landmark data": [
+                    "Alchemy1",
+                    "Alchemy2",
+                    "Alchemy3",
+                    "Alchemy4",
+                    "Alchemy5"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SettlementOutfitting",
+                "landmark type": 11,
+                "landmark data": [
+                    "Outfitting1",
+                    "Outfitting2",
+                    "Outfitting3",
+                    "Outfitting4",
+                    "Outfitting5"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SettlementEngineering",
+                "landmark type": 11,
+                "landmark data": [
+                    "Engineering1",
+                    "Engineering2",
+                    "Engineering3",
+                    "Engineering4",
+                    "Engineering5"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SettlementBlacksmith",
+                "landmark type": 11,
+                "landmark data": [
+                    "Blacksmith1",
+                    "Blacksmith2",
+                    "Blacksmith3",
+                    "Blacksmith4",
+                    "Blacksmith5"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SettlementCooking",
+                "landmark type": 11,
+                "landmark data": [
+                    "Cooking1",
+                    "Cooking2",
+                    "Cooking3",
+                    "Cooking4",
+                    "Cooking5"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SettlementWeaving",
+                "landmark type": 11,
+                "landmark data": [
+                    "Weaving1",
+                    "Weaving2",
+                    "Weaving3",
+                    "Weaving4",
+                    "Weaving5"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SettlementTanning",
+                "landmark type": 11,
+                "landmark data": [
+                    "Tanning1",
+                    "Tanning2",
+                    "Tanning3",
+                    "Tanning4",
+                    "Tanning5"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SettlementSmelting",
+                "landmark type": 11,
+                "landmark data": [
+                    "Smelting1",
+                    "Smelting2",
+                    "Smelting3",
+                    "Smelting4",
+                    "Smelting5"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SettlementMasonry",
+                "landmark type": 11,
+                "landmark data": [
+                    "Masonry1",
+                    "Masonry2",
+                    "Masonry3",
+                    "Masonry4",
+                    "Masonry5"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SettlementCarpentry",
+                "landmark type": 11,
+                "landmark data": [
+                    "Carpentry1",
+                    "Carpentry2",
+                    "Carpentry3",
+                    "Carpentry4",
+                    "Carpentry5"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "wcStation",
+                "landmark type": 11,
+                "landmark data": [
+                    "wcStation1"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SummerMedley_DepositBox",
+                "landmark type": 11,
+                "landmark data": [
+                    "SummerMedley_DepositBox1"
+                ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "SummerMedley_TrophyStation",
+                "landmark type": 11,
+                "landmark data": [
+                    "SummerMedley_TrophyStation1"
+                ]
+            }
+        ],
+        "destinationoverrideinteracttag": "ReturnToGiver"
+    },
+    "daily bonus data": {
+        "__type": "DailyBonusData",
+        "bonusresethour": 0
+    },
+    "progression validation achievement data": {
+        "__type": "ProgressionValidationAchievementData",
+        "azothstaffachievements": [
+            "99_MSQ_19",
+            "99_MSQ_26 || 99B_MSQ_10",
+            "99_MSQ_34 || 99C_MSQ_12",
+            "99_MSQ_45",
+            "99_MSQ_56"
+        ],
+        "azothstaffitemids": [
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "Darkness_AzothStaff_T1",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 760197844
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "Darkness_AzothStaff_T2",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 3024544622
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "Darkness_AzothStaff_T3",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 3275871224
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "Darkness_AzothStaff_T4",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 1562723931
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "Darkness_AzothStaff_T5",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 706901709
+                }
+            }
+        ],
+        "heartgemslotachievements": [
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "16_Side_19",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 3642719725
+                }
+            }
+        ],
+        "syndicaterankuptrialachievements": [
+            "FactionIntro_Syndicate_Recruitment",
+            "syndicate_faction_quest_01",
+            "syndicate_faction_quest_01b",
+            "syndicate_faction_quest_02",
+            "syndicate_faction_quest_03",
+            "syndicate_faction_quest_04"
+        ],
+        "marauderrankuptrialachievements": [
+            "FactionIntro_Marauders_Recruitment",
+            "marauders_faction_quest_01",
+            "marauders_faction_quest_01b",
+            "marauders_faction_quest_02",
+            "marauders_faction_quest_03",
+            "marauders_faction_quest_04"
+        ],
+        "covenantrankuptrialachievements": [
+            "FactionIntro_Covenant_Recruitment",
+            "covenant_faction_quest_01",
+            "covenant_faction_quest_01b",
+            "covenant_faction_quest_02",
+            "covenant_faction_quest_03",
+            "covenant_faction_quest_04"
+        ],
+        "syndicaterankupobjectiveids": [
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "FactionIntro_Syndicate_Recruitment",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 3333297248
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "9806_S_0001_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 2580030479
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_S_0102_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 388612797
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_S_0203_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 817133856
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_S_0304_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 3585284871
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_S_0405_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 4223992032
+                }
+            }
+        ],
+        "marauderrankupobjectiveids": [
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "FactionIntro_Marauders_Recruitment",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 755327914
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "9806_M_0001_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 3609824869
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_M_0102_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 1506306263
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_M_0203_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 2119553866
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_M_0304_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 2605887853
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_M_0405_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 3039079050
+                }
+            }
+        ],
+        "covenantrankupobjectiveids": [
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "FactionIntro_Covenant_Recruitment",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 3749246283
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "9806_C_0001_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 768574165
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_C_0102_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 2737726567
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_C_0203_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 2226380794
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_C_0304_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 1639235037
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "98_C_0405_RankUp",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 1338156602
+                }
+            }
+        ],
+        "syndicatesliceswapachievementid": {
+            "__type": "EditCrc",
+            "m_valuestr": "SwapActive_SyndicateRankNPC_On",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 28995102
+            }
+        },
+        "maraudersliceswapachievementid": {
+            "__type": "EditCrc",
+            "m_valuestr": "SwapActive_MarauderRankNPC_On",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 2467920413
+            }
+        },
+        "covenantsliceswapachievementid": {
+            "__type": "EditCrc",
+            "m_valuestr": "SwapActive_CovenantRankNPC_On",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 954164025
+            }
+        },
+        "campingrankupachievements": [
+            "S_campingunlock || 06A_MSQ_07 || 12A_MSQ_10",
+            "12_Quest_06 || MSQ_00_init",
+            "10_Quest_15 || 99B_MSQ_03",
+            "15_Quest_04",
+            "14_Quest_06",
+            "9404_R1_Brimstone"
+        ]
+    },
+    "milestone correction data": {
+        "__type": "MilestoneCorrectionData",
+        "currentmilestoneversion": 2,
+        "milestonecorrections": [
+            {
+                "__type": "MilestoneCorrectionEntryData",
+                "milestoneachievement": "S_introtosettlement",
+                "milestoneplayerlevel": 15,
+                "invalidterritories": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    13,
+                    14,
+                    15
+                ],
+                "relocation territory ids": [
+                    9009
+                ],
+                "alwayscheckmilestone": false,
+                "milestoneversionadded": 1,
+                "teleportcontext": 24
+            },
+            {
+                "__type": "MilestoneCorrectionEntryData",
+                "milestoneachievement": "MSQ_00_Init",
+                "milestoneplayerlevel": 15,
+                "invalidterritories": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    13,
+                    14,
+                    15
+                ],
+                "relocation territory ids": [
+                    9010
+                ],
+                "alwayscheckmilestone": false,
+                "milestoneversionadded": 1,
+                "teleportcontext": 24
+            },
+            {
+                "__type": "MilestoneCorrectionEntryData",
+                "milestoneachievement": "Expansion_2023_Unlock \u0026\u0026 09_FirstLightUnlock",
+                "milestoneplayerlevel": 0,
+                "invalidterritories": [
+                    9
+                ],
+                "relocation territory ids": [
+                    10,
+                    11,
+                    12,
+                    14
+                ],
+                "alwayscheckmilestone": true,
+                "milestoneversionadded": 2,
+                "teleportcontext": 25
+            }
+        ]
+    }
+}

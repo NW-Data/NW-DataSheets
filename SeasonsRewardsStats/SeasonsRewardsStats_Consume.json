@@ -2,7 +2,7 @@
     {
         "TrackedStatID": "ConsumeT5Item",
         "StatType": "Consume",
-        "Target": "",
+        "TargetID": "",
         "ItemTier": 5,
         "ItemClass": "",
         "TradingCategories": "",
@@ -12,7 +12,7 @@
     {
         "TrackedStatID": "ConsumeT5Coating",
         "StatType": "Consume",
-        "Target": "",
+        "TargetID": "",
         "ItemTier": 5,
         "ItemClass": "WeaponOil",
         "TradingCategories": "",
@@ -22,7 +22,7 @@
     {
         "TrackedStatID": "ConsumeT5TradeskillConsumable",
         "StatType": "Consume",
-        "Target": "",
+        "TargetID": "",
         "ItemTier": 5,
         "ItemClass": "Consumable",
         "TradingCategories": "",
@@ -32,11 +32,21 @@
     {
         "TrackedStatID": "ConsumeT5ResistanceConsumable",
         "StatType": "Consume",
-        "Target": "",
+        "TargetID": "",
         "ItemTier": 5,
         "ItemClass": "Consumable",
         "TradingCategories": "",
         "TradingFamilies": "",
         "TradingGroups": "PotionElemDefense,PotionWellness,PotionPurifyB"
+    },
+    {
+        "TrackedStatID": "ConsumeMountBuff",
+        "StatType": "Consume",
+        "TargetID": "MountConsum_GruelT3,MountConsum_GruelT2,MountConsum_GruelT1,MountConsum_GruelT0",
+        "ItemTier": null,
+        "ItemClass": "",
+        "TradingCategories": "",
+        "TradingFamilies": "",
+        "TradingGroups": ""
     }
 ]

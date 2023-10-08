@@ -1,8 +1,8 @@
 [
     {
         "NPCId": "0907_Commander",
-        "Title": "@0907_Commander_title",
-        "GenericName": "@0907_Commander",
+        "Title": "Marauder Commander",
+        "GenericName": "Elijah Edwin",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "0907_00_Commander",
         "ConversationStateId2": "0907_01_Commander_PostRSE",
@@ -27,8 +27,8 @@
     },
     {
         "NPCId": "0908_Alchemist",
-        "Title": "@0908_Alchemist_title",
-        "GenericName": "@0908_Alchemist",
+        "Title": "Syndicate Alchemist",
+        "GenericName": "Ursula Long",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "0908_00_Alchemist",
         "ConversationStateId2": "0908_01_Alchemist_PostRSE",
@@ -53,8 +53,8 @@
     },
     {
         "NPCId": "0909_Adjudicator",
-        "Title": "@0909_Adjudicator_title",
-        "GenericName": "@0909_Adjudicator",
+        "Title": "Covenant Adjudicator",
+        "GenericName": "Simon Jeffrey",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "0909_00_Adjudicator",
         "ConversationStateId2": "0909_01_Adjudicator_PostRSE",
@@ -79,8 +79,8 @@
     },
     {
         "NPCId": "0922_Innkeep",
-        "Title": "@0922_Innkeep_title",
-        "GenericName": "@0922_Innkeep",
+        "Title": "Innkeep of The Everlasting Torch",
+        "GenericName": "Iona Fairfax",
         "InteractOptionDisplayNameOverride": "",
         "ConversationStateId1": "0922_00_Innkeep",
         "ConversationStateId2": "",

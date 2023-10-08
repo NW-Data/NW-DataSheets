@@ -1,17 +1,116 @@
 [
     {
-        "ConversationTopicId": "1403_Topic1",
-        "PlayerPrompt": "@1403_Topic1_Prompt",
-        "NPCResponse": "@1403_Topic1_Response",
+        "ConversationTopicId": "1427_0104_TalkTo_CultMother",
+        "PlayerPrompt": "\"She survived, but she chose to join them.\"",
+        "NPCResponse": "It is as I feared.\\n\\nI have already asked so much of you… but could you stay with her? Convince them you intend to join as well? I cannot imagine leaving her alone with them. Her mind is so… malleable.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
     },
     {
-        "ConversationTopicId": "1425_Prospector_talk",
-        "PlayerPrompt": "@1425_Prospector_talk_Prompt",
-        "NPCResponse": "@1425_Prospector_talk_Response",
+        "ConversationTopicId": "1427_0101_TalkTo_Cultist01",
+        "PlayerPrompt": "\"I am looking for someone, actually.\"",
+        "NPCResponse": "Oh? Well, I am afraid I cannot help you there. I arrived only this morning and I do not know a single name!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1427_0101_TalkTo_Cultist02",
+        "PlayerPrompt": "\"Will any other newcomers be there?\"",
+        "NPCResponse": "Well… we did have one young woman at our table last night, but I am not certain if she will choose to stay. If you ask me, she seemed rather attached to her mother.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1427_0101_TalkTo_Cultist03",
+        "PlayerPrompt": "\"Have you met a young woman named Han Liu?\"",
+        "NPCResponse": "I have. Is she a friend of yours? You might want to speak to the High Seer if you would like to join her. I believe she departed for her walk in the dark hours of the morning.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1427_0101_TalkTo_CultOfficer",
+        "PlayerPrompt": "\"I am looking for a woman named Han Liu.\"",
+        "NPCResponse": "Ah, Miss Liu. A promising young spark, that one. She walks the path of truth now. If she returns, I am sure she will be glad to see you after such a trial. We all eagerly await the outcome of her communion.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1427_0102_TalkTo_CultOfficer_Pilgrimmage",
+        "PlayerPrompt": "\"I'm ready to learn more.\"",
+        "NPCResponse": "I can tell you, or you can see for yourself. Follow the path to the north as it mounts the peak. Imbue these seeds in a pool's waters and plant them in soft soil.\\n\\nIf you are swift, you may join Miss Liu.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1427_0109_TalkTo_CultOfficer_Gold",
+        "PlayerPrompt": "\"Here is what I collected.\"",
+        "NPCResponse": "Thank you. I have asked a great deal of you. It is time now for you to rest.\\n\\nGo now and meditate on all that you have seen.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1427_0102_TalkTo_Oath",
+        "PlayerPrompt": "\u0026lt;Speak the Oath.\u0026gt;",
+        "NPCResponse": "\"I stand before my fellows, humbled by nature's majesty.\\n\\nI came with many questions, and I seek only answers.\\n\\nI give myself to the unknown, in hopes of renewing my body and soul.\\n\\nWhat may be, will be.\"",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1427_0102_TalkTo_Daughter_Umbrage",
+        "PlayerPrompt": "\"I'm not sure I am ready for this. Are you?\"",
+        "NPCResponse": "I think so. I have read everything available to me in the enclave. I have spoken at length to the High Sage. I think I know enough about the ritual to escape an unpleasant death.\\n\\nAll the same… come with me?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1430_CultLeader_HighSage",
+        "PlayerPrompt": "\"Are you the High Sage?\"",
+        "NPCResponse": "I am, though it is not a title I would have chosen for myself. I was drawn here, just like the others, but I feel I have come closest to articulating why.\\n\\nPerhaps that is why they chose me.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1430_CultLeader_AboutCult",
+        "PlayerPrompt": "\"Can you tell me more about this cult?\"",
+        "NPCResponse": "If I were to write a pamphlet, I would wax eloquent about balance, simplicity, a life free from greed.\\n\\nBut you are here, among us. Stay. Share our meals. Listen to our stories. Our ways are open to any and all.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1430_CultLeader_AboutMask",
+        "PlayerPrompt": "\"What's with the mask?\"",
+        "NPCResponse": "I have a profoundly ugly face.\\n\\nNo, pardon my jest. I chose this mask to reinforce that I am nothing, indeed I am no ONE, but a conduit for the ethos of the Cult. It matters not who I am, only what I may offer.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1434_0104_TalkTo_Dryad",
+        "PlayerPrompt": "\"Are you Ranger Yasin's 'Love'?\"",
+        "NPCResponse": "He might think so. My blooms do have this effect on humans, sometimes. I will collect him.\\n\\nThe cure is gruesome, but effective. Harvest some Blight and bring it to my grotto. I will mark your map.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -19,8 +118,161 @@
     },
     {
         "ConversationTopicId": "1424_Fisher_ExplainHotspots",
-        "PlayerPrompt": "@0223_Fisher_ExplainHotspots_Prompt",
-        "NPCResponse": "@0223_Fisher_ExplainHotspots_Response",
+        "PlayerPrompt": "\"Can you explain fishing hotspots?\"",
+        "NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n\u0026lt;img src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"\u0026gt;\u0026lt;/img\u0026gt;\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n\u0026lt;img src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"\u0026gt;\u0026lt;/img\u0026gt;\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Antara_T1",
+        "PlayerPrompt": "\"Can you talk to the plants too?\"",
+        "NPCResponse": "Yes, the plants are speaking, even though I can't understand their words. Maybe their emotions? \\n\\nHaha. If we can talk to plants, can we talk to anything? And if we can talk to anything, are we ever alone?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Antara_T2",
+        "PlayerPrompt": "\"What did your mum want you to see?\"",
+        "NPCResponse": "My mum probably wanted me to feel how we're all connected.  \\n\\nEdengrove can feel a bit cold and distant. But here, with these talking plants? It's almost like we're friends. We are friends!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Milosh_T1",
+        "PlayerPrompt": "\"Umm…sure, read it.\"",
+        "NPCResponse": "To stay in Aeternum is to live as an eternal  \\nTo accept sorrow is to live as an infernal \\n\\nTo wake up in the morning is to live as a diurnal \\nTo come back home is to live as a returnal",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Andeolus_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Joan_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Tello_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Babak_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Zhao_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Yadira_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Zorzi_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Faramarz_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Yazdan_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Eva_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Gwen_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Roger_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Walter_T1",
+        "PlayerPrompt": "x",
+        "NPCResponse": "x",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "14_Wolcott_T1",
+        "PlayerPrompt": "\"Would we draw together?\"",
+        "NPCResponse": "Maybe someday. When I have ascertained you've reached the desired artistic level. \\n\\nTo start, could you bring me a blue to match the surreal cerulean of Edengrove?",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",

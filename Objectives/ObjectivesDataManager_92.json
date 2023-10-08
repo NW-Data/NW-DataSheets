@@ -25,6 +25,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": false,
+<<<<<<< HEAD
         "Title": "@0205_0102_Battles_Embrace_Gear_title",
         "Description": "@0205_0102_Battles_Embrace_Gear_description",
         "PlayerPrompt": "@0205_0102_Battles_Embrace_Gear_start_prompt",
@@ -32,6 +33,15 @@
         "InProgressResponse": "@0205_0102_Battles_Embrace_Gear_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@0205_0102_Battles_Embrace_Gear_complete",
+=======
+        "Title": "Battle's Embrace",
+        "Description": "Aeternum is for the bold, for those who embrace the call of battle. If you are such a soul, speak with Gwendolin Drake for a chance to craft a truly astounding bulwark of heavy armor.",
+        "PlayerPrompt": "\"Nothing worth doing is easy.\"",
+        "ObjectiveProposalResponse": "True, true. But I've heard of something that could help against the troubles.\\n\\nLegendary armor that makes the wearer into a veritable fortress!",
+        "InProgressResponse": "Keep alert for any of the materials needed to craft Battle's Embrace.\\n\\nWearing that armor is sure to inspire an entire generation of new warriors to fight against the Corrupted.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Do my eyes deceive me? You found all the materials to craft Battle's Embrace?\\n\\nYes, yes! To think, I get to see this legendary armor in action!",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -68,6 +78,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": false,
+<<<<<<< HEAD
         "Title": "@1303_1311_Protective_Wyrd_Gear_Title",
         "Description": "@1303_1311_Protective_Wyrd_Gear_Description",
         "PlayerPrompt": "@1303_1311_Protective_Wyrd_Gear_Prompt",
@@ -75,6 +86,15 @@
         "InProgressResponse": "@1303_1311_Protective_Wyrd_Gear_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1303_1311_Protective_Wyrd_Gear_Complete",
+=======
+        "Title": "Protective Wyrd",
+        "Description": "The strange druid Fiona Harrower is offering to share the secrets of a magical medium armor set.",
+        "PlayerPrompt": "\"Wings? Do you mean armor?\"",
+        "ObjectiveProposalResponse": "Call it what you will. All beings need wings, whatever their fashion. The shell of a turtle, the legs of a leopard, all are wings that take us to our destiny. \\n\\nLike Daedalus with his his wax and string, I too have a blueprint for mystical feathers. Something with which you would find both freedom and protection. If you are so inclined.",
+        "InProgressResponse": "Nothing is truly lost on Aeternum, or so I tell myself.\\n\\nWhen the time is right, you will find what you need to craft the Protective Wyrd, I know you will.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "There's something about you... Oh! You found everything you needed!\\n\\nThis is the most impressive attire I've ever laid eyes on. I can feel the power of the Protective Wyrd from here.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -111,6 +131,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": false,
+<<<<<<< HEAD
         "Title": "@1002_0104_Shrouded_Intent_Gear_objective_title",
         "Description": "@1002_0104_Shrouded_Intent_Gear_objective_desc",
         "PlayerPrompt": "@1002_0104_Shrouded_Intent_Gear_start_prompt",
@@ -118,6 +139,15 @@
         "InProgressResponse": "@1002_0104_Shrouded_Intent_Gear_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1002_0104_Shrouded_Intent_Gear_complete_available_response",
+=======
+        "Title": "Shrouded Intent",
+        "Description": "A shadowy thief knows the secrets of a long lost assassin armor set. She'll teach you, if you prove yourself.",
+        "PlayerPrompt": "\"Yes, I'm interested.\"",
+        "ObjectiveProposalResponse": "A band of assassins once created an armor set to help them sneak past the horrors of this island. \\n\\nThis armor is said to give the wearer a soft step and the demeanor of a shadow.",
+        "InProgressResponse": "Keep your eyes peeled. What you need to craft the Shrouded Intent armor is well hidden. \\n\\nEspecially since the materials required are scattered across Aeternum.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Is that…? Well I'll be. To see it remade… I never thought I'd be around when it happened. \\n\\nIt suits you. Though, are you sure you won't part with it? It would make a fine addition to my collection…",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -154,6 +184,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": false,
+<<<<<<< HEAD
         "Title": "@0203_0103_Hope_Manifest_title",
         "Description": "@0203_0103_Hope_Manifest_description",
         "PlayerPrompt": "@0203_0103_Hope_Manifest_start_prompt",
@@ -161,6 +192,15 @@
         "InProgressResponse": "@0203_0103_Hope_Manifest_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@0203_0103_Hope_Manifest_complete",
+=======
+        "Title": "Hope Manifest",
+        "Description": "An old priest with expertise in both life and death magic is looking to lend his teachings to those who wish to heal this broken island and become a true beacon of hope.",
+        "PlayerPrompt": "\"Where would I find this staff?\"",
+        "ObjectiveProposalResponse": "Oh, you would not find such a thing, not for many centuries now. But I can show you to remake it.\\n\\nTake this list of the elements required, and then you can make the staff, \"Hope Manifest.\"",
+        "InProgressResponse": "You seek the elements of the staff, still?\\n\\nYou will find them, if you keep trying.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "There is the new light of Brightwood, and you found everything you needed, yes?\\n\\nWith that staff in hand, you are the very thing, \"Hope Manifest.\" Brightness will follow, wherever you go.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -197,6 +237,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": false,
+<<<<<<< HEAD
         "Title": "@1310_1314_L40Bow_Huntress_Title",
         "Description": "@1310_1314_L40Bow_Huntress_Description",
         "PlayerPrompt": "@1310_1314_L40Bow_Huntress_Prompt",
@@ -204,6 +245,15 @@
         "InProgressResponse": "@1310_1314_L40Bow_Huntress_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1310_1314_L40Bow_Huntress_Complete",
+=======
+        "Title": "Tracking the Huntress",
+        "Description": "Ajax Halfhand is an archer with one ear ever to the wind. He is looking for someone with a sturdy hand and a sharp eye to pass on the secrets of a legendary bow.",
+        "PlayerPrompt": "\"I'd be interested in that.\"",
+        "ObjectiveProposalResponse": "Wouldn't you, though? It'll be up to you to do all the leg work.\\n\\nIf you can collect all the materials on the list, I think this bow - \"the Huntress\" - will be the envy of everyone in town. Good luck!",
+        "InProgressResponse": "Ah, still tracking down the Huntress, are you?\\n\\nIt'll take some time, I reckon.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Look at you - fresh in from the wilds and now a legendary tracker, at least to my mind. Finding all the materials can't have been easy. \\n\\nBut the Huntress - she'll take good care of you. Keep your quiver full out there.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -240,6 +290,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": false,
+<<<<<<< HEAD
         "Title": "@1305_1315_L40FStaff_FalmeasWrath_Title",
         "Description": "@1305_1315_L40FStaff_FalmeasWrath_Description",
         "PlayerPrompt": "@1305_1315_L40FStaff_FalmeasWrath_Prompt",
@@ -247,6 +298,15 @@
         "InProgressResponse": "@1305_1315_L40FStaff_FalmeasWrath_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1305_1315_L40FStaff_FalmeasWrath_Complete",
+=======
+        "Title": "Falmea's Wrath",
+        "Description": "An odd Pyromancer is speaking with the flames. If you listen to his fiery teachings, he'll show you how to craft a legendary Fire Staff.",
+        "PlayerPrompt": "“The fire speaks to you?'”",
+        "ObjectiveProposalResponse": "Yes, the voice in the flames. I call her Falmea. Her presence is felt when you place your hand close to the fire. \\n\\nShe is the spirit of Falmea’s Wrath, a fire staff I conceived. Would you like to craft it?",
+        "InProgressResponse": "Still hunting for the elements to make \"Falmea's Wrath\"? Keep at it. \\n\\nThis fire staff is not for the faint of heart.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Ah, behold! Falmea's Wrath! A discerning eye can see how the fires converge in this fine wood. \\n\\nWield it with pride, {playerName}. May your deeds prove worthy of such a fine weapon.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -283,6 +343,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": false,
+<<<<<<< HEAD
         "Title": "@0204_0104_Executioner_title",
         "Description": "@0204_0104_Executioner_description",
         "PlayerPrompt": "@0204_0104_Executioner_start_prompt",
@@ -290,6 +351,15 @@
         "InProgressResponse": "@0204_0104_Executioner_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@0204_0104_Executioner_complete",
+=======
+        "Title": "Executioner",
+        "Description": "The former executioner Joseph Black is offering to pass on his knowledge of how to craft a truly gnarly Great Axe.",
+        "PlayerPrompt": "\"Heads will roll!\"",
+        "ObjectiveProposalResponse": "Sounds like paradise on earth… wait, what were we talking about? Oh yes - the Executioner.\\n\\nI'll give you a list of the elements required to reforge it. They might be a challenge to find, but I think it's worth it.",
+        "InProgressResponse": "Oh! It's… your name is still eluding me, but I remember something about… oh yes, the axe, Executioner.\\n\\nGood luck finding everything you'll need.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Impressive, very impressive. Swing swift and become an arbiter of death. Wield it well. \\n\\nNow, if you'll leave me - I think I might stay here a while. The churchyard is… filled with death.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -326,6 +396,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": false,
+<<<<<<< HEAD
         "Title": "@1004_0103_Weapon_Keen_Temper_objective_title",
         "Description": "@1004_0103_Weapon_Keen_Temper_objective_desc",
         "PlayerPrompt": "@1004_0103_Weapon_Keen_Temper_start_prompt",
@@ -333,6 +404,15 @@
         "InProgressResponse": "@1004_0103_Weapon_Keen_Temper_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1004_0103_Weapon_Keen_Temper_complete_available_response",
+=======
+        "Title": "Keen Temper",
+        "Description": "Tillian Parsons is a master of blades. If your wits are sharp and your temper is keen, she'll show you how to craft a legendary sword.",
+        "PlayerPrompt": "\"Yes. I appreciate the offer.\"",
+        "ObjectiveProposalResponse": "Excellent! I call it \"Keen Temper,\" and I'd be pleased just to see the blade put to the test.\\n\\nIf you can gather all the elements needed for it, I think it'll make you a warrior without equal. Good luck!",
+        "InProgressResponse": "Still questing for the materials to forge \"Keen Temper\"?\\n\\nFirst time you swing the sword, it'll all be worth it. I promise.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "That's the swagger of a true swashbuckler, I see! You got everything you needed for the blade, didn't you?\\n\\nAnd now you'll be wielding the sharpest sword this island's ever seen. \"Keen Temper,\" indeed! You take care of that weapon, you hear?",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",

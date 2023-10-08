@@ -7,7 +7,7 @@
         "OnWatchedAchievementId": "Cinematic_TempestReckoning",
         "DurationInSec": 108,
         "Description": "",
-        "Subtitle": "@TempestReckoning01",
+        "Subtitle": "And so it came to pass...",
         "Comment": ""
     },
     {
@@ -18,7 +18,7 @@
         "OnWatchedAchievementId": "Cinematic_TempestRising",
         "DurationInSec": 106,
         "Description": "",
-        "Subtitle": "@TempestRising01",
+        "Subtitle": "This island has always guarded the promise of paradise. Humanity cast out, deemed unworthy of such blessings.",
         "Comment": ""
     },
     {
@@ -29,7 +29,7 @@
         "OnWatchedAchievementId": "Cinematic_TempestRising",
         "DurationInSec": 106,
         "Description": "",
-        "Subtitle": "@TempestRisingMB01",
+        "Subtitle": "This island has always guarded the promise of paradise.",
         "Comment": ""
     },
     {
@@ -40,7 +40,7 @@
         "OnWatchedAchievementId": "Cinematic_LegacyOfAncients",
         "DurationInSec": 106,
         "Description": "",
-        "Subtitle": "@AncientsLegacy01",
+        "Subtitle": "The gods summoned us from the Old World. Calling us to paradise, the undying land, they promised life eternal.",
         "Comment": ""
     },
     {
@@ -51,7 +51,7 @@
         "OnWatchedAchievementId": "Cinematic_LegacyOfRome",
         "DurationInSec": 123,
         "Description": "",
-        "Subtitle": "@RomeLegacy01",
+        "Subtitle": "We set out to find the Field of Reeds, the blessed home of the gods.",
         "Comment": ""
     },
     {
@@ -62,7 +62,7 @@
         "OnWatchedAchievementId": "Cinematic_TheHuntress",
         "DurationInSec": 115,
         "Description": "",
-        "Subtitle": "@WildHuntress01",
+        "Subtitle": "Apophis is returned to the sands and Sutekh remains at rest. But the hunt has only just begun.",
         "Comment": ""
     },
     {
@@ -73,7 +73,7 @@
         "OnWatchedAchievementId": "Cinematic_95_s01_Skye_Watched",
         "DurationInSec": 79,
         "Description": "",
-        "Subtitle": "@SkyeLetter01",
+        "Subtitle": "My father called me weak.",
         "Comment": ""
     },
     {
@@ -84,7 +84,7 @@
         "OnWatchedAchievementId": "Cinematic_MorgainesTruth",
         "DurationInSec": 86,
         "Description": "",
-        "Subtitle": "@MorgaineTruth01",
+        "Subtitle": "Aeternum's secrets called to us in dreams. Promising vast, ancient knowledge.",
         "Comment": ""
     },
     {
@@ -95,7 +95,7 @@
         "OnWatchedAchievementId": "Cinematic_GalahadsRegret",
         "DurationInSec": 86,
         "Description": "",
-        "Subtitle": "@GalahadRegret01",
+        "Subtitle": "It was the dream of Avalon that led King Artorius to these shores.",
         "Comment": ""
     },
     {
@@ -117,7 +117,84 @@
         "OnWatchedAchievementId": "Cinematic_CorpseCrone",
         "DurationInSec": 82,
         "Description": "",
-        "Subtitle": "@CorpseCrone01",
+        "Subtitle": "Long ago, a witch crept into the eastern fens. This was the Corpse Crone, and she cast a wicked spell.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "Seasons_02_Devourer",
+        "VideoPath": "LyShineUI/Videos/LD_final.bk2",
+        "Name": "@cinmatic_video_seasons_02_devourer",
+        "ReqAchievementId": "Unlock_95A_S02_DevourerCinematic",
+        "OnWatchedAchievementId": "Watched_95A_S02_DevourerCinematic",
+        "DurationInSec": 107,
+        "Description": "",
+        "Subtitle": "The Babylonians called them, \"Akilu.\"",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "EG_BonesEarth",
+        "VideoPath": "LyShineUI/Videos/NW23_BotAE_Final_00.bk2",
+        "Name": "@cinmatic_video_eg_bonesearth",
+        "ReqAchievementId": "99E_BonesEarthCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_BonesEarth",
+        "DurationInSec": 93,
+        "Description": "",
+        "Subtitle": "The glyphs tell a tale of a civil war between the Ancient Immortals.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "EG_CaerDun",
+        "VideoPath": "LyShineUI/Videos/NW23_FoCD_Final_00.bk2",
+        "Name": "@cinmatic_video_eg_caerdun",
+        "ReqAchievementId": "99E_CaerDunCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_CaerDun",
+        "DurationInSec": 82,
+        "Description": "",
+        "Subtitle": "I've never seen anyone fight so bravely as Yonas did in Great Cleave.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "FL_BeastLords",
+        "VideoPath": "LyShineUI/Videos/NW23_BL_Final_00.bk2",
+        "Name": "@cinmatic_video_fl_beastlords",
+        "ReqAchievementId": "09A_BeastLordsCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_BeastLords",
+        "DurationInSec": 94,
+        "Description": "",
+        "Subtitle": "At the dawn of time, the Beast Lords were among the Titans who roamed the Earth.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "FL_NewEden",
+        "VideoPath": "LyShineUI/Videos/NW23_NE_Final_00.bk2",
+        "Name": "@cinmatic_video_fl_neweden",
+        "ReqAchievementId": "09A_NewEdenCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_NewEden",
+        "DurationInSec": 91,
+        "Description": "",
+        "Subtitle": "It began when the Ennead awakened, its power moving through the earth.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "FL_ShadowAwakens",
+        "VideoPath": "LyShineUI/Videos/NW23_ASA_Final_00.bk2",
+        "Name": "@cinmatic_video_fl_shadowawakens",
+        "ReqAchievementId": "09A_ShadowAwakensCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_ShadowAwakens",
+        "DurationInSec": 89,
+        "Description": "",
+        "Subtitle": "Since the beginning, I have sacrificed to protect the Earth.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "GC_DarkCommand",
+        "VideoPath": "LyShineUI/Videos/NW23_DC_Final_00.bk2",
+        "Name": "@cinmatic_video_gc_darkcommand",
+        "ReqAchievementId": "99D_Unlock_ThorpeCinematic",
+        "OnWatchedAchievementId": "Cinematic_DarkCommand",
+        "DurationInSec": 98,
+        "Description": "",
+        "Subtitle": "Neither duty nor divine purpose called me from the Old World...",
         "Comment": ""
     },
     {

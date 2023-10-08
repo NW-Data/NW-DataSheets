@@ -1,7 +1,7 @@
 [
     {
         "TerritoryID": 8001,
-        "NameLocalizationKey": "@ui_minor_monolith",
+        "NameLocalizationKey": "Corrupted Monolith",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass.png",
@@ -17,7 +17,7 @@
     },
     {
         "TerritoryID": 8002,
-        "NameLocalizationKey": "@ui_minor_grove",
+        "NameLocalizationKey": "Infested Grove",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass.png",
@@ -33,7 +33,7 @@
     },
     {
         "TerritoryID": 8003,
-        "NameLocalizationKey": "@ui_minor_ritual",
+        "NameLocalizationKey": "Blighted Ritual",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass.png",
@@ -49,7 +49,7 @@
     },
     {
         "TerritoryID": 8004,
-        "NameLocalizationKey": "@ui_minor_portal",
+        "NameLocalizationKey": "Corrupted Portal",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass.png",
@@ -65,7 +65,7 @@
     },
     {
         "TerritoryID": 8005,
-        "NameLocalizationKey": "@ui_major_monolith",
+        "NameLocalizationKey": "Corrupted Monolith",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_major_compass.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_major_compass.png",
@@ -81,7 +81,7 @@
     },
     {
         "TerritoryID": 8006,
-        "NameLocalizationKey": "@ui_major_portal",
+        "NameLocalizationKey": "Corrupted Portal",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_major_compass.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_major_compass.png",
@@ -97,7 +97,7 @@
     },
     {
         "TerritoryID": 8007,
-        "NameLocalizationKey": "@ui_minor_hive",
+        "NameLocalizationKey": "Festering Hive",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass.png",
@@ -113,7 +113,7 @@
     },
     {
         "TerritoryID": 8008,
-        "NameLocalizationKey": "@ui_major_monolith",
+        "NameLocalizationKey": "Corrupted Monolith",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_major_compass.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_major_compass.png",
@@ -129,7 +129,7 @@
     },
     {
         "TerritoryID": 8009,
-        "NameLocalizationKey": "@ui_major_portal",
+        "NameLocalizationKey": "Corrupted Portal",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_major_compass.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_major_compass.png",
@@ -161,7 +161,7 @@
     },
     {
         "TerritoryID": 8011,
-        "NameLocalizationKey": "@ui_preddieu_farm_attack",
+        "NameLocalizationKey": "Sneed's Revenge",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -177,7 +177,7 @@
     },
     {
         "TerritoryID": 8012,
-        "NameLocalizationKey": "@ui_boatencounter_scallywag",
+        "NameLocalizationKey": "The Captain's Arrival",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -193,7 +193,7 @@
     },
     {
         "TerritoryID": 8013,
-        "NameLocalizationKey": "@ui_boatencounter_brysedd",
+        "NameLocalizationKey": "Rumble on the Docks",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -209,7 +209,7 @@
     },
     {
         "TerritoryID": 8014,
-        "NameLocalizationKey": "@ui_holdout_chamber",
+        "NameLocalizationKey": "Trial of the Old Warrior",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -241,7 +241,7 @@
     },
     {
         "TerritoryID": 8016,
-        "NameLocalizationKey": "@objective_msq_beach_chaplain",
+        "NameLocalizationKey": "Eye of the Storm",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -257,7 +257,7 @@
     },
     {
         "TerritoryID": 8017,
-        "NameLocalizationKey": "@objective_msq_heartforge_guardian",
+        "NameLocalizationKey": "Trial of the Heartforge",
         "IsPOI": true,
         "MapIcon": "",
         "CompassIcon": "",
@@ -273,7 +273,7 @@
     },
     {
         "TerritoryID": 8018,
-        "NameLocalizationKey": "@12A_Encounter_Captain_Boss_Obj_Enc_Title",
+        "NameLocalizationKey": "Ladimere’s Lair",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -289,7 +289,7 @@
     },
     {
         "TerritoryID": 8019,
-        "NameLocalizationKey": "@12A_Encounter_Helvan_Boss_Obj_Enc_Title",
+        "NameLocalizationKey": "The Navigator’s Stronghold",
         "IsPOI": false,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -305,7 +305,7 @@
     },
     {
         "TerritoryID": 8020,
-        "NameLocalizationKey": "@12A_Encounter_SirGawain_Boss_Obj_Enc_Title",
+        "NameLocalizationKey": "Fall Of The True Heir",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -321,7 +321,7 @@
     },
     {
         "TerritoryID": 8021,
-        "NameLocalizationKey": "@06A_Encounter_Medea_Boss_Obj_Enc_Title",
+        "NameLocalizationKey": "Path of Thorns",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -337,7 +337,7 @@
     },
     {
         "TerritoryID": 8022,
-        "NameLocalizationKey": "@ui_solariumkhepri_attack",
+        "NameLocalizationKey": "Solarium Khepri",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -353,7 +353,7 @@
     },
     {
         "TerritoryID": 8023,
-        "NameLocalizationKey": "@ui_ordealscorpio_attack",
+        "NameLocalizationKey": "Ordeal of the Scorpion",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -369,7 +369,7 @@
     },
     {
         "TerritoryID": 8024,
-        "NameLocalizationKey": "@ui_legion_outpost_attack",
+        "NameLocalizationKey": "Brimstone Under Siege",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -385,7 +385,7 @@
     },
     {
         "TerritoryID": 8025,
-        "NameLocalizationKey": "@ui_sulfurpool_attack",
+        "NameLocalizationKey": "Demon's Cauldron",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -401,7 +401,7 @@
     },
     {
         "TerritoryID": 8026,
-        "NameLocalizationKey": "@04A_Encounter_Remnant_Boss_Obj_Enc_Title",
+        "NameLocalizationKey": "The Final Trial",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -417,7 +417,7 @@
     },
     {
         "TerritoryID": 8027,
-        "NameLocalizationKey": "@04A_Encounter_Zane_Boss_Obj_Enc_Title",
+        "NameLocalizationKey": "Corrupting of Nature",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -449,7 +449,7 @@
     },
     {
         "TerritoryID": 8029,
-        "NameLocalizationKey": "@ui_turkeyterror_worldboss_Turkulon",
+        "NameLocalizationKey": "Turkulon's Terror",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Turkey.png",
         "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/Turkey.png",
@@ -465,7 +465,7 @@
     },
     {
         "TerritoryID": 8030,
-        "NameLocalizationKey": "@ui_lostattack_swampwaterfishery",
+        "NameLocalizationKey": "The Ancient Device",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -481,7 +481,7 @@
     },
     {
         "TerritoryID": 8031,
-        "NameLocalizationKey": "@ui_lostattack_piscarianfishery",
+        "NameLocalizationKey": "The Ancient Implement",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -496,86 +496,45 @@
         "AudioBank": ""
     },
     {
-        "TerritoryID": 8032,
-        "NameLocalizationKey": "@ui_worldboss_legacyofcrassus",
-        "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/cyclops.png",
-        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/cyclops.png",
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_event_legacyofcrassus.png",
-        "GroupSize": 4,
-        "POITag": "EventEncounter",
-        "RequiredItemId": "",
-        "RecommendedLevel": 65,
-        "PulseColor": "110 116 240",
-        "AudioGroup": "POI_State",
-        "AudioState": "worldboss",
-        "AudioBank": ""
-    },
-    {
-        "TerritoryID": 8033,
-        "NameLocalizationKey": "@ui_worldboss_season_01_event",
-        "IsPOI": true,
-        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/furySpriggan.png",
-        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/furySpriggan.png",
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_furyspriggan.png",
-        "GroupSize": 4,
-        "POITag": "SeasonEncounter",
-        "RequiredItemId": "",
-        "RecommendedLevel": 65,
-        "PulseColor": "235 52 52",
-        "AudioGroup": "POI_State",
-        "AudioState": "worldboss",
-        "AudioBank": ""
-    },
-    {
-        "TerritoryID": 8034,
-        "NameLocalizationKey": "@objective_S01_Aidyn",
-        "IsPOI": true,
-        "MapIcon": "",
-        "CompassIcon": "",
-        "TooltipBackground": "",
-        "GroupSize": 0,
-        "POITag": "AidynEncounter",
-        "RequiredItemId": "",
-        "RecommendedLevel": null,
-        "PulseColor": "",
-        "AudioGroup": "POI_State",
-        "AudioState": "",
-        "AudioBank": ""
-    },
-    {
-        "TerritoryID": 8035,
-        "NameLocalizationKey": "@objective_S01_Faceless",
-        "IsPOI": true,
-        "MapIcon": "",
-        "CompassIcon": "",
-        "TooltipBackground": "",
-        "GroupSize": 0,
-        "POITag": "FacelessEncounter",
-        "RequiredItemId": "",
-        "RecommendedLevel": null,
-        "PulseColor": "",
-        "AudioGroup": "POI_State",
-        "AudioState": "",
-        "AudioBank": ""
-    },
-    {
-        "TerritoryID": 8036,
+        "TerritoryID": 8037,
         "NameLocalizationKey": "@ui_worldboss_season_02_event",
         "IsPOI": true,
+<<<<<<< HEAD
         "MapIcon": "LyShineUI/Images/Icons/WorldMap/worldmap_eggsciting.png",
         "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/event_eggsciting.png",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/maptooltip_eggciting.png",
+=======
+        "MapIcon": "",
+        "CompassIcon": "",
+        "TooltipBackground": "",
+>>>>>>> PTR
         "GroupSize": 0,
-        "POITag": "SeasonEncounter",
+        "POITag": "EventEncounter",
         "RequiredItemId": "",
-        "RecommendedLevel": 65,
+        "RecommendedLevel": 60,
         "PulseColor": "235 52 52",
         "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8038,
+        "NameLocalizationKey": "Kol Ciron",
+        "IsPOI": false,
+        "MapIcon": "LyShineUI\\Images\\Icons\\Dungeons\\icon_dungeon_map_boss.png",
+        "CompassIcon": "",
+        "TooltipBackground": "",
+        "GroupSize": 1,
+        "POITag": "",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "255 0 0",
+        "AudioGroup": "",
         "AudioState": "worldboss",
         "AudioBank": ""
     },
     {
+<<<<<<< HEAD
         "TerritoryID": 8037,
         "NameLocalizationKey": "@ui_worldboss_season_02_event",
         "IsPOI": true,
@@ -589,15 +548,118 @@
         "PulseColor": "235 52 52",
         "AudioGroup": "POI_State",
         "AudioState": "",
+=======
+        "TerritoryID": 8039,
+        "NameLocalizationKey": "Bulrok the Burning",
+        "IsPOI": false,
+        "MapIcon": "LyShineUI\\Images\\Icons\\Dungeons\\icon_dungeon_map_boss.png",
+        "CompassIcon": "",
+        "TooltipBackground": "",
+        "GroupSize": 1,
+        "POITag": "",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "255 0 0",
+        "AudioGroup": "",
+        "AudioState": "worldboss",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8040,
+        "NameLocalizationKey": "Kondak the Frigid",
+        "IsPOI": false,
+        "MapIcon": "LyShineUI\\Images\\Icons\\Dungeons\\icon_dungeon_map_boss.png",
+        "CompassIcon": "",
+        "TooltipBackground": "",
+        "GroupSize": 1,
+        "POITag": "",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "255 0 0",
+        "AudioGroup": "",
+        "AudioState": "worldboss",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8041,
+        "NameLocalizationKey": "Mawthor, the Thundering",
+        "IsPOI": false,
+        "MapIcon": "LyShineUI\\Images\\Icons\\Dungeons\\icon_dungeon_map_boss.png",
+        "CompassIcon": "",
+        "TooltipBackground": "",
+        "GroupSize": 1,
+        "POITag": "",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "255 0 0",
+        "AudioGroup": "",
+        "AudioState": "worldboss",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8042,
+        "NameLocalizationKey": "Mosantar, the Earth Eater",
+        "IsPOI": false,
+        "MapIcon": "LyShineUI\\Images\\Icons\\Dungeons\\icon_dungeon_map_boss.png",
+        "CompassIcon": "",
+        "TooltipBackground": "",
+        "GroupSize": 1,
+        "POITag": "",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "255 0 0",
+        "AudioGroup": "",
+        "AudioState": "worldboss",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8043,
+        "NameLocalizationKey": "Zirash",
+        "IsPOI": false,
+        "MapIcon": "LyShineUI\\Images\\Icons\\Dungeons\\icon_dungeon_map_boss.png",
+        "CompassIcon": "",
+        "TooltipBackground": "",
+        "GroupSize": 1,
+        "POITag": "",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "255 0 0",
+        "AudioGroup": "",
+        "AudioState": "worldboss",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8044,
+        "NameLocalizationKey": "Kudzu",
+        "IsPOI": false,
+        "MapIcon": "LyShineUI\\Images\\Icons\\Dungeons\\icon_dungeon_map_boss.png",
+        "CompassIcon": "",
+        "TooltipBackground": "",
+        "GroupSize": 1,
+        "POITag": "",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "255 0 0",
+        "AudioGroup": "",
+        "AudioState": "worldboss",
+>>>>>>> PTR
         "AudioBank": ""
     },
     {
         "TerritoryID": 8045,
+<<<<<<< HEAD
         "NameLocalizationKey": "@fotb_rafflebones_portal",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/map/Icon/POIs/icon_fotb_rafflebones_portal.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/icon_fotb_rafflebones_portal.png",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/maptooltip_territory_default.png",
+=======
+        "NameLocalizationKey": "Rafflebones Portal",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/map/Icon/POIs/icon_fotb_rafflebones_portal.png",
+        "CompassIcon": "LyShineUI/Images/map/Icon/POIs/icon_fotb_rafflebones_portal.png",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_rafflebones_portal.png",
+>>>>>>> PTR
         "GroupSize": 0,
         "POITag": "FortunesOfTheBold",
         "RequiredItemId": "",
@@ -606,5 +668,40 @@
         "AudioGroup": "",
         "AudioState": "",
         "AudioBank": ""
+<<<<<<< HEAD
+=======
+    },
+    {
+        "TerritoryID": 8046,
+        "NameLocalizationKey": "Last Call!",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
+        "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
+        "TooltipBackground": "",
+        "GroupSize": 2,
+        "POITag": "FLTavernEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": 62,
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8047,
+        "NameLocalizationKey": "Fickle Fusions, Fanged Folly",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
+        "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/maptooltip_territory_default.png",
+        "GroupSize": 0,
+        "POITag": "EventEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": 17,
+        "PulseColor": "1 0 0",
+        "AudioGroup": "POI_State",
+        "AudioState": "",
+        "AudioBank": ""
+>>>>>>> PTR
     }
 ]

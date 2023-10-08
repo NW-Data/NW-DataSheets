@@ -25,6 +25,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_BloodoftheSand_Obj_Title",
         "Description": "@95A_S02_BloodoftheSand_Obj_Desc",
         "PlayerPrompt": "@95A_S02_BloodoftheSand_Obj_Start_Prompt",
@@ -32,6 +33,15 @@
         "InProgressResponse": "@95A_S02_BloodoftheSand_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_BloodoftheSand_Obj_Complete",
+=======
+        "Title": "The Blood of the Sands",
+        "Description": "A new client, Malek, has asked the Silver Crows to help him search for three ancient eggs.",
+        "PlayerPrompt": "\"Isn't everyone on this island?\"",
+        "ObjectiveProposalResponse": "Well this one more than most. His letter reads like a manifesto. Malek's the name, claims to be part of something called the \"Blood of the Sands.\" \\n\\nHere's the strange bit - he wants our help scouring the desert for some sort of giant eggs.",
+        "InProgressResponse": "It probably goes without saying, but I harbor no love for the desert. \\n\\nMuch rather have water in me boots than dry sand!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Ah, the legendary hero who leads the Silver Crows, at last we meet. \\n\\nI am Malek, leader of the Blood of the Sands. We have much in common, and now a shared cause as well in recovering the sacred eggs of the Devourers.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -68,6 +78,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_BloodoftheSand_Obj_Title",
         "Description": "@95A_S02_BloodoftheSand_Obj_Desc",
         "PlayerPrompt": "@95A_S02_BloodoftheSand_Obj_Start_Prompt",
@@ -75,6 +86,15 @@
         "InProgressResponse": "@95A_S02_BloodoftheSand_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_BloodoftheSand_Obj_Complete",
+=======
+        "Title": "The Blood of the Sands",
+        "Description": "A new client, Malek, has asked the Silver Crows to help him search for three ancient eggs.",
+        "PlayerPrompt": "\"Isn't everyone on this island?\"",
+        "ObjectiveProposalResponse": "Well this one more than most. His letter reads like a manifesto. Malek's the name, claims to be part of something called the \"Blood of the Sands.\" \\n\\nHere's the strange bit - he wants our help scouring the desert for some sort of giant eggs.",
+        "InProgressResponse": "It probably goes without saying, but I harbor no love for the desert. \\n\\nMuch rather have water in me boots than dry sand!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Ah, the legendary hero who leads the Silver Crows, at last we meet. \\n\\nI am Malek, leader of the Blood of the Sands. We have much in common, and now a shared cause as well in recovering the sacred eggs of the Devourers.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -111,6 +131,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_BloodoftheSand_Obj_Title",
         "Description": "@95A_S02_BloodoftheSand_Obj_Desc",
         "PlayerPrompt": "@95A_S02_BloodoftheSand_Obj_Start_Prompt",
@@ -118,6 +139,15 @@
         "InProgressResponse": "@95A_S02_BloodoftheSand_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_BloodoftheSand_Obj_Complete",
+=======
+        "Title": "The Blood of the Sands",
+        "Description": "A new client, Malek, has asked the Silver Crows to help him search for three ancient eggs.",
+        "PlayerPrompt": "\"Isn't everyone on this island?\"",
+        "ObjectiveProposalResponse": "Well this one more than most. His letter reads like a manifesto. Malek's the name, claims to be part of something called the \"Blood of the Sands.\" \\n\\nHere's the strange bit - he wants our help scouring the desert for some sort of giant eggs.",
+        "InProgressResponse": "It probably goes without saying, but I harbor no love for the desert. \\n\\nMuch rather have water in me boots than dry sand!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Ah, the legendary hero who leads the Silver Crows, at last we meet. \\n\\nI am Malek, leader of the Blood of the Sands. We have much in common, and now a shared cause as well in recovering the sacred eggs of the Devourers.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -154,6 +184,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_GlimpseofthePast_Obj_Title",
         "Description": "@95A_S02_GlimpseofthePast_Obj_Desc",
         "PlayerPrompt": "@95A_S02_GlimpseofthePast_Obj_Start_Prompt",
@@ -161,6 +192,15 @@
         "InProgressResponse": "@95A_S02_BloodoftheSand_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_GlimpseofthePast_Obj_Complete",
+=======
+        "Title": "Glimpse of the Past",
+        "Description": "The new client for the Silver Crows, Malek, has asked that I take the rubbing of the Blood of the Sands Mural to his sage in New Corsica.",
+        "PlayerPrompt": "\"So the goal is to recover and safeguard the eggs?\"",
+        "ObjectiveProposalResponse": "Oh, our obligation extends far beyond that... But yes, that is our priority right now. \\n\\nI've hired a sage - Sadiki Masufa - to study the rubbing from the mural, if you would be so good as to go and see him.",
+        "InProgressResponse": "It probably goes without saying, but I harbor no love for the desert. \\n\\nMuch rather have water in me boots than dry sand!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Ah, my bold partner! I'm glad you've returned! I hope you found enough samples to help me puzzle out the rest of this. \\n\\nIn the meantime, I've deciphered just enough of the rubbing to yield our first clue.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -197,6 +237,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_WordofaThief_Obj_Title",
         "Description": "@95A_S02_WordofaThief_Obj_Desc",
         "PlayerPrompt": "@95A_S02_WordofaThief_Obj_Start_Prompt",
@@ -204,6 +245,15 @@
         "InProgressResponse": "@95A_S02_WordofaThief_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_WordofaThief_Obj_Complete",
+=======
+        "Title": "The Word of Water",
+        "Description": "Malek's hired sage, Sadiki Masufa, found the hiding place of the egg but it is locked behind a key called the 'Word of Water.' I'll need to find the keystone at a nearby digsite to unlock the chamber where the egg rests.",
+        "PlayerPrompt": "\"So we need to get this key first?\"",
+        "ObjectiveProposalResponse": "Exactly! I suspect it is a keystone, and will unlock  the ceremonial chamber where the egg was hidden. \\n\\nI've already shared this information with Malek and presumably, he and his followers have set out to find it.",
+        "InProgressResponse": "I will continue to decipher the rubbing. You should seek out the Word of Water and the sacred egg associated with it.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Now, I must ask - I've encountered religious fanatics in the ruins before, but you hardly seem the type. Why are you caught up in all this?",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -240,6 +290,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_HardBoiled_Obj_Title",
         "Description": "@95A_S02_HardBoiled_Obj_Desc",
         "PlayerPrompt": "@95A_S02_HardBoiled_Obj_Start_Prompt",
@@ -247,6 +298,15 @@
         "InProgressResponse": "@95A_S02_HardBoiled_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_HardBoiled_Obj_Complete",
+=======
+        "Title": "Secrets of the Sands",
+        "Description": "I met a strange desert wanderer named Sharif. He was able to point me to the Word of Water and gave me an idea of where to take it. I should head that way and see if I can find the egg chamber.",
+        "PlayerPrompt": "\"Possibly. Do you have a problem with that?\"",
+        "ObjectiveProposalResponse": "No, why should I give a damn about some dried up old eggs? Truthfully, I'm not even sure the chamber's still there. \\n\\nBut if you do get the egg, I'd suggest you know who you're dealing with, ensure their intentions are… sensible.",
+        "InProgressResponse": "If you were hired by someone associated with those fanatics, I advise you to consider carefully whether to continue in this enterprise.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "It's about time our illustrious leader came by a for a visit! I was starting to worry you'd been eaten by a desert wurm. \\n\\nThese Blood of the Sands folks are a bit agitated. They say you've been more trouble than help.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -283,6 +343,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_VoicesoftheDesert_Obj_Title",
         "Description": "@95A_S02_VoicesoftheDesert_Obj_Desc",
         "PlayerPrompt": "@95A_S02_VoicesoftheDesert_Obj_Start_Prompt",
@@ -290,6 +351,15 @@
         "InProgressResponse": "@95A_S02_VoicesoftheDesert_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_VoicesoftheDesert_Obj_Complete",
+=======
+        "Title": "Voices of the Desert",
+        "Description": "Grace O'Malley is suggesting I approach a bard named Rima Bahar about joining the Silver Crows.",
+        "PlayerPrompt": "\"A new recruit? Tell me more.\"",
+        "ObjectiveProposalResponse": "Rima Bahar. She's a minstrel of sorts, performed at taverns across Aeternum for years. \\n\\nBut she's not just a musician. They say her blade's as quick as her wits. And she's got a network - she knows things.",
+        "InProgressResponse": "Not only will recruiting Rima give us access to all her knowledge, we might even get to hear a little music and singing at the Crow's Nest!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Ah, you've done good, recruiting the most famous bard in all Aeternum. Rima rounds out the team even better than I hoped. \\n\\nShe seems quite enamored of you as well - I don't think we have to worry that she'll just wander off.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -326,6 +396,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_SecondThoughts_Obj_Title",
         "Description": "@95A_S02_SecondThoughts_Obj_Desc",
         "PlayerPrompt": "@95A_S02_SecondThoughts_Obj_Start_Prompt",
@@ -333,6 +404,15 @@
         "InProgressResponse": "@95A_S02_SecondThoughts_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_SecondThoughts_Obj_Complete",
+=======
+        "Title": "Second Thoughts",
+        "Description": "Rima has joined the Silver Crows, and is heading back to New Corsica to help us find the other eggs that Malek asked us to collect. I should make my way back there and meet up with her.",
+        "PlayerPrompt": "\"I should probably speak to Malek as well.\"",
+        "ObjectiveProposalResponse": "Ah yeah, we don't want the Silver Crows to get a reputation for just abandoning our clients. \\n\\nWait until we hear what Rima's able to dig up first, though. And there's still the question of the other eggs.",
+        "InProgressResponse": "Look, I'd say we've done our diligence on this by bringing Rima on board. \\n\\nIf you think we should break off this business with Malek, I'm with you all the way.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Well, you've been gone quite some time! Oh, listen to me, I swear I'm starting to sound like my old gran. \\n\\nSo what happened with Sharif and the egg?",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -364,6 +444,7 @@
         "ProgressionReward": "",
         "ExperienceReward": "",
         "ObjectiveReward": "",
+<<<<<<< HEAD
         "ItemRewardName": "UmbralShardT1",
         "ItemRewardQty": 1000,
         "ShouldResetOnFactionChange": "",
@@ -376,6 +457,20 @@
         "InProgressResponse": "@95A_S02_FalseProfits_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_FalseProfits_Obj_Complete",
+=======
+        "ItemRewardName": "DarkMatter",
+        "ItemRewardQty": 40,
+        "ShouldResetOnFactionChange": "",
+        "Repeatable": "",
+        "CanBeAbandoned": "TRUE",
+        "Title": "False Profits",
+        "Description": "Grace O'Malley is concerned about the reputation of the Silver Crows, especially now that we are backing out on a contract. She has asked that I confront Malek about his role in the ambush in the egg chamber, and see if he can offer an explanation.",
+        "PlayerPrompt": "“So what now then?\"",
+        "ObjectiveProposalResponse": "Like it or not, we still have a responsibility to our client, even if they're under suspicion. \\n\\nWe're going to have to give Malek a chance to explain his side, and pray that he has a bloody good story.",
+        "InProgressResponse": "Here's hoping this is all just some misunderstanding and we can find a quick solution. \\n\\nI'd hate for potential clients to second guess our ability to get anything done.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Well, don't you look worse for wear? What happened out there?",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -412,6 +507,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_EggHunt_Obj_Title",
         "Description": "@95A_S02_EggHunt_Obj_Desc",
         "PlayerPrompt": "@95A_S02_EggHunt_Obj_Start_Prompt",
@@ -419,6 +515,15 @@
         "InProgressResponse": "@95A_S02_EggHunt_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_EggHunt_Obj_Complete",
+=======
+        "Title": "Egg Hunt",
+        "Description": "Now that Grace sees that Malek's plans threaten the whole of Aeternum, she has directed the Silver Crows to actively work against his Blood of the Sands. We need to first find the location of the second egg.",
+        "PlayerPrompt": "“We need to collect the eggs to keep them from Malek.\"",
+        "ObjectiveProposalResponse": "Oh so you want to collect more of the bloody things? I swear this desert heat must be getting to all of us… \\n\\nAlright! Yes, that's the right plan. Where can we find the next egg, then?",
+        "InProgressResponse": "Hopefully Rima can get you steered in the right direction. Malek seems a crafty bastard so we need to move quickly.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Welcome back! As you can see, we had some uninvited guests. So, Dog and I... uninvited them. It seems someone is very interested in your search. \\n\\nBut how was it? Did you find the egg chamber?",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -455,6 +560,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_PrecariousPosition_Obj_Title",
         "Description": "@95A_S02_PrecariousPosition_Obj_Desc",
         "PlayerPrompt": "@95A_S02_PrecariousPosition_Obj_Start_Prompt",
@@ -462,6 +568,15 @@
         "InProgressResponse": "@95A_S02_PrecariousPosition_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_PrecariousPosition_Obj_Complete",
+=======
+        "Title": "Precarious Position",
+        "Description": "After using the Word of Stone on a strange map in Diospolis. I've found the location of a second egg chamber. I should head out to the Place of Pillars and see if I can locate the door to the chamber.",
+        "PlayerPrompt": "“We need to move quickly. Malek's loyalists might know where the egg is.\"",
+        "ObjectiveProposalResponse": "Yes, of course! Dog and I will meet you there- he has gone hunting. \\n\\nI do not know what he is hoping to catch out here, other than scorpions and more of these- tiny rocks. AHHHH!",
+        "InProgressResponse": "If you find any spare eggs in there, I would like to try cooking one. In ancient times, they believed Devourer eggs had magical properties.\\n\\nDon't you wonder what a Devourer egg tastes like? Not sand, I hope.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Well, I could say it was a coincidence bumping into you like this, but I think we both know it's not.\\n\\nI'm just glad that I didn't climb all the way up here for nothing.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -498,6 +613,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_HeiroftheSands_Obj_Title",
         "Description": "@95A_S02_HeiroftheSands_Obj_Desc",
         "PlayerPrompt": "@95A_S02_HeiroftheSands_Obj_Start_Prompt",
@@ -505,6 +621,15 @@
         "InProgressResponse": "@95A_S02_HeiroftheSands_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_HeiroftheSands_Obj_Complete",
+=======
+        "Title": "Heir to the Sands",
+        "Description": "After finding the second egg in the Place of Pillars, I ran across Sharif Sahar once again… or rather, he ran across me. It seems he is actively searching for the eggs himself, and might know how to find the third egg. I should follow him to the ancient Blood of the Sands Temple.",
+        "PlayerPrompt": "\"Alright, then let's find that third egg.\"",
+        "ObjectiveProposalResponse": "Fortunately, I have a pretty good idea of where we might find it.\\n\\nThe Blood of the Sands had a temple dedicated to their practices. It's where we trained members of our order and performed our sacred rituals, but it's also where many of our secrets were held.",
+        "InProgressResponse": "I haven't been to that temple in… a very long time. I face this journey with no small amount of trepidation.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Did you find them? Do you have the eggs?",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -541,6 +666,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_EmptyNest_Obj_Title",
         "Description": "@95A_S02_EmptyNest_Obj_Desc",
         "PlayerPrompt": "@95A_S02_EmptyNest_Obj_Start_Prompt",
@@ -548,6 +674,15 @@
         "InProgressResponse": "@95A_S02_EmptyNest_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_EmptyNest_Obj_Complete",
+=======
+        "Title": "Empty Nest",
+        "Description": "It seems Malek found the Blood of the Sands Temple some time ago, and is using the knowledge he discovered within to collect the Devourer eggs, including Royal eggs that hatch the gargantuan beasts that prowl the dunes. Worse, he seems to have a clutch of drone eggs as well, and is potentially raising an army of the creatures. Sharif says we need to find these eggs, and potentially destroy them.",
+        "PlayerPrompt": "“We discovered that Malek found the means to hatch the eggs.\"",
+        "ObjectiveProposalResponse": "Oh, god be good! This just keeps getting worse! \\n\\nIf he can hatch the eggs, we might not have a choice but to destroy them to keep him from doing that.",
+        "InProgressResponse": "Watch yourself. We're in a direct race with Malek, and I'm sure he knows that by now. \\n\\nHis cultists are likely all over the desert looking for us.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "I'm so glad I found you here! Where's Sharif?",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -584,6 +719,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_BreakSomeEggs_Obj_Title",
         "Description": "@95A_S02_BreakSomeEggs_Obj_Desc",
         "PlayerPrompt": "@95A_S02_BreakSomeEggs_Obj_Start_Prompt",
@@ -591,6 +727,15 @@
         "InProgressResponse": "@95A_S02_BreakSomeEggs_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_BreakSomeEggs_Obj_Complete",
+=======
+        "Title": "Break Some Eggs",
+        "Description": "Sharif has been taken by Malek's followers, who are seeking to use his blood to hatch the eggs of the Devourers. I need to find Sharif and try to put a stop to Malek's plans.",
+        "PlayerPrompt": "“They couldn't have gotten too far.\"",
+        "ObjectiveProposalResponse": "Then we need to move quickly. I'm sure Sharif would've put up a struggle. \\n\\nLook for some tracks and see if you can't find where they took him.",
+        "InProgressResponse": "I cannot imagine what will become of Brimstone - of ALL of Aeternum - if Malek hatches those eggs!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "My friend, you've a grim look about you. Speak to me.",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -627,6 +772,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_LegacyoftheSands_Obj_Title",
         "Description": "@95A_S02_LegacyoftheSands_Obj_Desc",
         "PlayerPrompt": "@95A_S02_LegacyoftheSands_Obj_Start_Prompt",
@@ -634,6 +780,15 @@
         "InProgressResponse": "@95A_S02_LegacyoftheSands_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_LegacyoftheSands_Obj_Complete",
+=======
+        "Title": "Legacy of the Sands",
+        "Description": "I was able to destroy the corrupted eggs in Malek's possession, but Malek himself has escaped. It's time to confront him and put an end to his plans.",
+        "PlayerPrompt": "“Malek escaped. We need to find him.\"",
+        "ObjectiveProposalResponse": "The complex beneath us is huge - or it used to be. \\n\\nOur Speakers used to commune with the Devourers here before presenting them the eggs. It's the role I was being prepared for.",
+        "InProgressResponse": "I feel I am to blame. If I hadn't walked away from my calling as Speaker for the Blood of the Sands, Malek could never have done any of this.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "So we felt some rumbling and shaking here in the city. Tell me that wasn't you. \\n\\nOr better still, tell me that it was! What's the story?",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -670,6 +825,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_S02_Remembrance_Obj_Title",
         "Description": "@95A_S02_Remembrance_Obj_Desc",
         "PlayerPrompt": "@95A_S02_Remembrance_Obj_Start_Prompt",
@@ -677,6 +833,15 @@
         "InProgressResponse": "@95A_S02_Remembrance_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_S02_Remembrance_Obj_Complete",
+=======
+        "Title": "Remembrance",
+        "Description": "Malek is defeated, and the corrupted eggs are gone. I should check in with my allies and see how they are doing.",
+        "PlayerPrompt": "“Are we regrouping back at the Silver Crows camp?\"",
+        "ObjectiveProposalResponse": "That's the plan. I sent Zander up ahead with our things, but we should check in with Rima and make sure she's ready to go. \\n\\nWould you mind seeing if she needs anything?",
+        "InProgressResponse": "Let me know when you've checked in with everyone. I should be ready to leave by then.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Well? Did you find her? Is she ready to be going?",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -689,7 +854,11 @@
     },
     {
         "ObjectiveID": "95A_T01_RiseoftheBeast",
+<<<<<<< HEAD
         "Type": "SeasonQuest",
+=======
+        "Type": "Journey",
+>>>>>>> PTR
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",
@@ -713,6 +882,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_T01_RiseoftheBeast_Obj_Title",
         "Description": "@95A_T01_RiseoftheBeast_Obj_Desc",
         "PlayerPrompt": "@95A_T01_RiseoftheBeast_Obj_Start_Prompt",
@@ -720,6 +890,15 @@
         "InProgressResponse": "@95A_T01_RiseoftheBeast_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_T01_RiseoftheBeast_Obj_Complete",
+=======
+        "Title": "Rise of the Beast",
+        "Description": "I met a historian by the name of Phaedra Kanelos, who fancies herself something of a poet. She is looking to write the next great epic like her hero Homer, and is hoping that by defeating the Devourer, I will become a hero not unlike those in her favorite stories.",
+        "PlayerPrompt": "“Can I help you?\"",
+        "ObjectiveProposalResponse": "It's what I can do to help you! Forgive me, I am getting ahead of myself. My name is Phaedra Kanelos, and I have been cataloguing the exploits of many a hero on this island. \\n\\nYou've been mentioned in more than one account of herosim, and I've finally found you!",
+        "InProgressResponse": "Remember, when you slay the beast, come right back to me. Don't spare any detail!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Oh, please tell me you've defeated the creature! This is so exciting!",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",
@@ -732,7 +911,11 @@
     },
     {
         "ObjectiveID": "95A_T02_RiseoftheHero",
+<<<<<<< HEAD
         "Type": "SeasonQuest",
+=======
+        "Type": "Journey",
+>>>>>>> PTR
         "Difficulty": "",
         "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",
@@ -756,6 +939,7 @@
         "ShouldResetOnFactionChange": "",
         "Repeatable": "TRUE",
         "CanBeAbandoned": "TRUE",
+<<<<<<< HEAD
         "Title": "@95A_T02_RiseoftheHero_Obj_Title",
         "Description": "@95A_T02_RiseoftheHero_Obj_Desc",
         "PlayerPrompt": "@95A_T02_RiseoftheHero_Obj_Start_Prompt",
@@ -763,6 +947,15 @@
         "InProgressResponse": "@95A_T02_RiseoftheHero_Obj_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@95A_T02_RiseoftheHero_Obj_Complete",
+=======
+        "Title": "Rise of the Hero",
+        "Description": "Phaedra is still writing her epic, and wants to collect more notes to really make her story stand out. She has asked that I once again confront a Devourer and bring her the tales of my fight with it.",
+        "PlayerPrompt": "“Did you need something more?\"",
+        "ObjectiveProposalResponse": "Well, not to be TOO particular, but I think the story is... How should I put this… still a bit thin? \\n\\nI need more details! Something more that the reader can really sink their teeth into.",
+        "InProgressResponse": "When you slay the beast, remember, come right back to me. Don't spare any detail!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Have you done it? Have you accomplished the impossible once again?",
+>>>>>>> PTR
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "TRUE",

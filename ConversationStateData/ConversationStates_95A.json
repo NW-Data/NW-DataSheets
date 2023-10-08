@@ -3,10 +3,18 @@
         "ConversationStateId": "95A_Grace_00",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_00_Grace",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "This Silver Crows thing might turn out to be more profitable than I thought! \\n\\nI'd say we're off to a pretty good start. Wouldn't you?",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -38,10 +46,18 @@
         "ConversationStateId": "95A_Grace_01",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01_Grace",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "You ever notice people are more restless, faster-to-the-trigger in the heat? Something with the humours and tempers, they say. \\n\\nWe got a customer in the Brimstone desert. Not saying he's mad, but he might be a bit touched.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95_s01_05",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -73,10 +89,18 @@
         "ConversationStateId": "95A_Grace_01_Marauder",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01_Grace",
         "RequiredFaction": "Marauder",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "You ever notice people are more restless, faster-to-the-trigger in the heat? Something with the humours and tempers, they say. \\n\\nWe got a customer in the Brimstone desert. Not saying he's mad, but he might be a bit touched.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "Marauder",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95_s01_05",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -108,10 +132,18 @@
         "ConversationStateId": "95A_Grace_01_Syndicate",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01_Grace",
         "RequiredFaction": "Syndicate",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "You ever notice people are more restless, faster-to-the-trigger in the heat? Something with the humours and tempers, they say. \\n\\nWe got a customer in the Brimstone desert. Not saying he's mad, but he might be a bit touched.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "Syndicate",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95_s01_05",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -143,10 +175,18 @@
         "ConversationStateId": "95A_Grace_02",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02_Grace",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "New Corsica is a big city, isn't it? You could get lost just wandering the streets!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_01",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -178,10 +218,18 @@
         "ConversationStateId": "95A_Grace_03",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02a_Grace",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Before you go all heroic on me and kill the deal, you've got to make sure you have the full story. \\n\\nI know someone who can help us, a real knowledgable lady I've been eyeing as a recruit for the Silver Crows.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_04",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -213,10 +261,18 @@
         "ConversationStateId": "95A_Grace_04",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_03_Grace",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Our newest member came in from the desert more than a little inspired, I'd say. \\n\\nShe was only here a moment and went off to prove her worth - to learn the truth about Malek and his claims on being the Blood of the Sands.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_05",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -248,10 +304,18 @@
         "ConversationStateId": "95A_Grace_05",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_04_Grace",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "This whole bloody Malek business is a headache we didn't need. \\n\\nWe've got to sort this whole mess out.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_06",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -283,10 +347,18 @@
         "ConversationStateId": "95A_Grace_06",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_05_Grace",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Hatching a clutch of colossal monsters eager to eat everything in their path? \\n\\nWhat kind of a lunatic would do such a thing?!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_07",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -318,10 +390,18 @@
         "ConversationStateId": "95A_Grace_07",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_06_Grace",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I’ll be glad to get back to the camp. This has been… quite the adventure, wouldn’t you say?",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_13",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -353,10 +433,18 @@
         "ConversationStateId": "95A_Grace_08",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_07_Grace",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Take your time getting back to the camp. I know you always have a wind in your sails. I’ll let you know if the Silver Crows need you!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_14",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -388,10 +476,18 @@
         "ConversationStateId": "95A_Grace_S02_End",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_S02_Camp_Grace_End",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Rima's a great addition to our team- she's a sharp one, and much more than meets the eye.\\n\\nI'll wager she'll be running the operation end of things around here before long!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_14",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -423,10 +519,18 @@
         "ConversationStateId": "95A_Grace_S02_Camp",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_S02_Camp_Grace",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "What do you think so far? Brimstone has a touch of mystery to it, doesn't it? \\n\\nI've always thought of myself more as the practical type, but there's something downright romantic about the desert.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_01",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -458,10 +562,18 @@
         "ConversationStateId": "95A_Malek_00",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_00_Malek",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "It's only a matter of time before the Blood of the Sands rises to their rightful place once more.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -493,10 +605,18 @@
         "ConversationStateId": "95A_Malek_01",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01_Malek",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "After we decipher the rubbing, we'll restore the legacy of the Blood of the Sands. \\n\\nWe will resume our proud traditions, honor our covenant with the Devourers… until our sacred duty is fulfilled.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_01",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -528,10 +648,18 @@
         "ConversationStateId": "95A_Sadiki_00",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_00_Sadiki",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "There are more wonders buried under the sands of Brimstone than all the rest of Aeternum combined!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -563,10 +691,18 @@
         "ConversationStateId": "95A_Sadiki_01",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01_Sadiki",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Ah! You must be the mercenary Malek hired to venture into the ruins! I hope you didn’t encounter too much resistance. \\n\\nLet's have a look at the rubbing from the mural. I hope it has the answers we seek.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_GlimpseofthePast",
         "RequiredActiveTaskId": "95A_S02_GlimpseofthePast_TalkToSadiki",
@@ -598,10 +734,18 @@
         "ConversationStateId": "95A_Sadiki_02",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02_Sadiki",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Hmm. It says something here about… water? No, that can't be right…",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sadiki01",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -633,10 +777,18 @@
         "ConversationStateId": "95A_Sadiki_03",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02a_Sadiki",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "It seems the cipher the Blood of the Sands used when hiding the eggs is associated with the elements. \\n\\nThe secret to unlocking the hiding place of the first egg lies in a key called the \"Word of Water.\"",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_02",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -668,10 +820,18 @@
         "ConversationStateId": "95A_Sharif_00",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_00_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "If you're not here to help, I'd rather you be on your way. \\n\\nI'm hoping these bastards will forget about me long enough for me to get free.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -703,10 +863,18 @@
         "ConversationStateId": "95A_Sharif_01",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "If you're here to taunt the man in the cage, could you at least spare a splash of water… or some other drink? \\n\\nMy throat is parched, as you might imagine. I can endure the taunts, but not the thirst.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_WordofaThief",
         "RequiredActiveTaskId": "95A_S02_WordofaThief_TalkToSharif",
@@ -738,10 +906,18 @@
         "ConversationStateId": "95A_Sharif_01a",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01a_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Get the Word of Water and the key to this cage and we'll do business, my friend.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sharif01",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -773,10 +949,18 @@
         "ConversationStateId": "95A_Sharif_01b",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01b_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I'll need to rest here. My legs are like iron rods after being in that damn cage!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_WordofaThief",
         "RequiredActiveTaskId": "95A_S02_WordofaThief_TalkToFreeSharif",
@@ -808,10 +992,18 @@
         "ConversationStateId": "95A_Sharif_02",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Tell me this much, though - the people who hired you - they're looking to grind up the eggs for spell components?",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_03",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -843,10 +1035,18 @@
         "ConversationStateId": "95A_Sharif_04",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_03_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Back from the Pools of Orcus, I see? And judging by the look in your eye, I gather you've procured the egg as well. \\n\\nI don't have an offer of coin to persuade you, but I would appeal to your honor if you would hear me out.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_HardBoiled",
         "RequiredActiveTaskId": "95A_S02_HardBoiled_TalkToSharif",
@@ -878,10 +1078,18 @@
         "ConversationStateId": "95A_Sharif_05",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_04_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I have nothing more to say about those damned eggs. \\n\\nAfter several days in that cage, I have a quite a thirst to slake - and a dark-eyed beauty to find.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sharif02",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -913,10 +1121,18 @@
         "ConversationStateId": "95A_Sharif_06",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_06_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Whatever reason you have for coming back here, it can't be a good one.\\n\\nI don't want anything to do with your cultish client, that egg, or anything else to do with the damned Blood of the Sands.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_SecondThoughts",
         "RequiredActiveTaskId": "95A_S02_SecondThoughts_TalkToSharif",
@@ -948,10 +1164,18 @@
         "ConversationStateId": "95A_Sharif_07",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_05_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Remember, Heru Plaza. And keep it to yourself… best not to alert others to what we’re planning.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sharif03",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -983,10 +1207,18 @@
         "ConversationStateId": "95A_Sharif_08",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_07_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Well, here we are - one of my least favorite places in Brimstone Sands, it's hot, dusty, and treacherous as hell.\\n\\nNot a drink, nor a dark-eyed beauty in sight… not even much treasure to speak of.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_SecondThoughts",
         "RequiredActiveTaskId": "95A_S02_SecondThoughts_TalkToSharif_Heru",
@@ -1018,10 +1250,18 @@
         "ConversationStateId": "95A_Sharif_09",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_07a_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I’m glad this chamber is still here. I thought it might have been lost to the sands.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sharif04",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1053,10 +1293,18 @@
         "ConversationStateId": "95A_Sharif_10",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_08_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "The one place I thought we could avoid the mad cultists and they come flying out of the stonework. \\n\\nI'll give them credit for their dedication. I guess this means we're being followed, my friend.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_SecondThoughts",
         "RequiredActiveTaskId": "95A_S02_SecondThoughts_TalkToSharif_Ambush",
@@ -1088,10 +1336,18 @@
         "ConversationStateId": "95A_Sharif_11",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_08a_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Cover your tracks over the dunes. They clearly know how to find us.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sharif05",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1123,10 +1379,18 @@
         "ConversationStateId": "95A_Sharif_12",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_09_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "But then I thought of you, my friend, working dilligently to collect these eggs for the good of Aeternum... \\n\\nI realized you were shouldering someone else's responsibility... my responsibility.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_09",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1158,10 +1422,18 @@
         "ConversationStateId": "95A_Sharif_13",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_11_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Hello again, friend. Welcome to the sacred temple of the Blood of the Sands. What's left of it, anyway.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_HeiroftheSands",
         "RequiredActiveTaskId": "95A_S02_HeiroftheSands_TalkToSharif",
@@ -1193,10 +1465,18 @@
         "ConversationStateId": "95A_Sharif_14",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_12_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I'll be there in a few minutes. Just let me gather my thoughts.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sharif06",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1228,10 +1508,18 @@
         "ConversationStateId": "95A_Sharif_15",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_13_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Ah, my head… give me a moment…",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_HeiroftheSands",
         "RequiredActiveTaskId": "95A_S02_HeiroftheSands_TalkToSharifTemple",
@@ -1263,10 +1551,18 @@
         "ConversationStateId": "95A_Sharif_16",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_14_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Tell me you found the eggs! So much depends on this!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sharif07",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1298,10 +1594,18 @@
         "ConversationStateId": "95A_Sharif_17",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_14a_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "It seems Malek is continually a step ahead of us. This just keeps getting worse.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_10",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1333,10 +1637,18 @@
         "ConversationStateId": "95A_Sharif_18",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_15_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "We're here… but it looks like Malek and his followers are as well.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_EmptyNest",
         "RequiredActiveTaskId": "95A_S02_EmptyNest_TalkToSharif",
@@ -1368,10 +1680,18 @@
         "ConversationStateId": "95A_Sharif_19",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_16_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "My… friend… My plan was not... as successful as I had originally hoped…",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_BreakSomeEggs",
         "RequiredActiveTaskId": "95A_S02_BreakSomeEggs_TalkToSharif",
@@ -1403,10 +1723,18 @@
         "ConversationStateId": "95A_Sharif_20",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_17_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Don’t worry about me, friend. I’ll make it to New Corsica just fine. Especially with Rima’s help.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sharif09",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1438,10 +1766,18 @@
         "ConversationStateId": "95A_Sharif_21",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_16a_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "So tell me, friend. What happened down there? Is it done?",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_12",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1473,10 +1809,18 @@
         "ConversationStateId": "95A_Sharif_22",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_18_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Is it done? I thought I saw... Shah Neshen!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_LegacyoftheSands",
         "RequiredActiveTaskId": "95A_S02_LegacyoftheSands_TalkToSharif",
@@ -1508,10 +1852,18 @@
         "ConversationStateId": "95A_Sharif_23",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_17_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Don’t worry about me, friend. I’ll make it to New Corsica just fine. Especially with Rima’s help.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sharif10",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1543,10 +1895,18 @@
         "ConversationStateId": "95A_Sharif_24",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_19_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Ah, here you are, my friend. I had a feeling you might come looking for me once more.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_Remembrance",
         "RequiredActiveTaskId": "95A_S02_Remembrance_TalkToSharif",
@@ -1578,10 +1938,18 @@
         "ConversationStateId": "95A_Sharif_25",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_20_Sharif",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "There are more eggs out there. Finding them will not be easy, but it is a duty I am determined to carry out.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sharif11",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1613,10 +1981,18 @@
         "ConversationStateId": "95A_Zander_00",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_00_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Yes, it is hot here, but try one summer in Greece, and you will know what hot means! \\n\\nIf Aeternum were in Greece, we would have no Lost, because they would not bother to rise from the dead.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1648,10 +2024,18 @@
         "ConversationStateId": "95A_Zander_01",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_06_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "There are so many ingredients out here that I haven’t seen! This expedition is proving to be quite useful!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_VoicesoftheDesert",
         "RequiredActiveTaskId": "95A_S02_VoicesoftheDesert_TalkToZander",
@@ -1683,10 +2067,18 @@
         "ConversationStateId": "95A_Zander_02",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_07_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Good luck with that recipe. Oh, and don’t eat any of it. A lion might roar… but I’m not sure what would happen to you. Ha ha!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Zander01",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1718,10 +2110,18 @@
         "ConversationStateId": "95A_Zander_03",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "There you are, my friend!\\n\\nYou look ready to embark on a great adventure.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_EggHunt",
         "RequiredActiveTaskId": "95A_S02_EggHunt_TalkToZander",
@@ -1753,10 +2153,18 @@
         "ConversationStateId": "95A_Zander_04",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01a_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Have you crossed the desert before? It can be… quite the journey. \\n\\nI’m just getting some things together, I’ll meet you there shortly.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Zander02",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1788,10 +2196,18 @@
         "ConversationStateId": "95A_Zander_05",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I tried to get Dog to stay in New Corsica, but he was not happy about that.\\n\\nYes I know, Dog, you have a sensitive nose and don't like big settlements! Yes I said that just now, did you not hear me? What “way” did I say it?",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_EggHunt",
         "RequiredActiveTaskId": "95A_S02_EggHunt_TalkToZanderDiosopolis",
@@ -1823,10 +2239,18 @@
         "ConversationStateId": "95A_Zander_06",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02a_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Don’t spare us a thought. Dog and I can take care of ourselves.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Zander03",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1858,10 +2282,18 @@
         "ConversationStateId": "95A_Zander_07",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_03a_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "So another trip across the desert for us, is it? You know, I have changed my mind, Brimstone is hotter than Greece!\\n\\nPut a chicken and some milk in a bag, and opa! Avgolemono Soup.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_08",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1893,10 +2325,18 @@
         "ConversationStateId": "95A_Zander_08",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_03_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "So, this is the Place of Pillars? I wonder why they call it that.\\n\\nAh, what are we doing here, again?",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_PrecariousPosition",
         "RequiredActiveTaskId": "95A_S02_PrecariousPosition_TalkToZander",
@@ -1928,10 +2368,18 @@
         "ConversationStateId": "95A_Zander_09",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02a_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Don’t spare us a thought. Dog and I can take care of ourselves.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Zander04",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -1963,10 +2411,18 @@
         "ConversationStateId": "95A_Zander_10",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_04_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "There you are! I was afraid you may have gotten stuck, looking for a way down.\\n\\nThat happened to Dog once, though he won't admit it- yes, you did! So, were you able to find the egg?",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_HeiroftheSands",
         "RequiredActiveTaskId": "95A_S02_HeiroftheSands_TalkToZander",
@@ -1998,10 +2454,18 @@
         "ConversationStateId": "95A_Zander_11",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_04a_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Truth be told, I didn’t pack enough for this trip. But I’ve found that the desert is more bountiful than I imagined. Think of all the new recipes!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Zander05",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2033,10 +2497,18 @@
         "ConversationStateId": "95A_Zander_12",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_05_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "To think that an old temple once stood here. What a mystery! \\n\\nBut that is Brimstone. This desert has centuries of secrets buried under its rocks and dunes.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Ruins01",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2068,10 +2540,18 @@
         "ConversationStateId": "95A_Zander_13",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_05a_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I’m beginning to think there are as many sets of ruins as there are grains of sand out here.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Ruins02",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2103,10 +2583,18 @@
         "ConversationStateId": "95A_Zander_14",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_05b_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I need to keep my wits about me. I shouldn’t have let Sharif get taken in the first place.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Ruins03",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2138,10 +2626,18 @@
         "ConversationStateId": "95A_Zander_15",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_05c_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "We’ll keep watch up here. Malek seems to have many more followers than we realized.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Ruins04",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2173,10 +2669,18 @@
         "ConversationStateId": "95A_Zander_16",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_00_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Yes, it is hot here, but try one summer in Greece, and you will know what hot means! \\n\\nIf Aeternum were in Greece, we would have no Lost, because they would not bother to rise from the dead.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_13",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2208,10 +2712,18 @@
         "ConversationStateId": "95A_Zander_S02_End",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_S02_Camp_Zander_End",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I still cannot believe we haven't gotten a chance for you to try my lemon cakes!\\n\\nI'm telling you, once I get a proper oven and I bake them for you, you are going to beg me to make them every day!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_14",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2243,10 +2755,18 @@
         "ConversationStateId": "95A_Zander_S02_Camp",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_S02_Camp_Zander",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I just came back to pick up some spices. What would go well with Devourer eggs?\\n\\nI am kidding with you! More or less.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_01",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2278,10 +2798,18 @@
         "ConversationStateId": "95A_Dog_00",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_00_Dog",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "[Dog gives you a slow blink.]",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2313,10 +2841,18 @@
         "ConversationStateId": "95A_Dog_01",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01_Dog",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "[Dog 's ears are perked up, as if he is listening intently to something nearby.]",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_04",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2348,10 +2884,18 @@
         "ConversationStateId": "95A_Dog_02",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02_Dog",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "[Dog looks up at you contently. He doesn't seem the least bit bothered by the heat.]",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_07",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2383,10 +2927,18 @@
         "ConversationStateId": "95A_Dog_03",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_03_Dog",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "[Dog rolls over on his back briefly. It's probably a trap.]",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_08",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2418,10 +2970,18 @@
         "ConversationStateId": "95A_Dog_04",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_04_Dog",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "[Dog seems to be interested in some nearby sounds. His ears are moving quickly.]",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_09",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2453,10 +3013,18 @@
         "ConversationStateId": "95A_Dog_05",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_05_Dog",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "[Dog's eyes are wide as he watches the area around him.]",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_10",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2488,10 +3056,18 @@
         "ConversationStateId": "95A_Rima_00",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_00_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "New Corsica may be my favorite city in all of Aeternum - the romance, the mystery, the passionate heat of desert nights… it's a lively place.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2523,10 +3099,18 @@
         "ConversationStateId": "95A_Rima_01",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "This is no common wayfarer stopping in for a tankard and a tune! \\n\\nYour deeds are known to me, Soulwarden, and your more recent incarnation leading the Silver Crows. I've considered composing a song about you.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_VoicesoftheDesert",
         "RequiredActiveTaskId": "95A_S02_VoicesoftheDesert_TalkToRima",
@@ -2558,10 +3142,18 @@
         "ConversationStateId": "95A_Rima_02",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Don't mistake the complexity of my request for hesitation. I am very much interested in teaming up with you and the Silver Crows.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Rima01",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2593,10 +3185,18 @@
         "ConversationStateId": "95A_Rima_03",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02a_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "For a moment, I doubted whether you would go through with it, but I am enormously pleased that you did. \\n\\nIf you have collected what I asked for with the satyr's flute, all that remains now is the music.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_VoicesoftheDesert",
         "RequiredActiveTaskId": "95A_S02_VoicesoftheDesert_TalkToRimaSong",
@@ -2628,10 +3228,18 @@
         "ConversationStateId": "95A_Rima_04",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02b_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Go on. My ears and my heart yearn to hear your music.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Rima02",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2663,10 +3271,18 @@
         "ConversationStateId": "95A_Rima_05",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02c_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Ah, to rest my eyes on such a legendary instrument! This alone would be adequate compensation for joining the Silver Crows. \\n\\nThe chance to partner with you and bear witness to your heroic deeds… that is a bonus.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_VoicesoftheDesert",
         "RequiredActiveTaskId": "95A_S02_VoicesoftheDesert_TalkToRimaReturn",
@@ -2698,10 +3314,18 @@
         "ConversationStateId": "95A_Rima_06",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_03_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I will meet you back in New Corsica.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Rima03",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2733,10 +3357,18 @@
         "ConversationStateId": "95A_Rima_07",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_04_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "When Grace told me this client was claiming to be Blood of the Sands, I knew right away something was amiss. \\n\\nIt was a sacred order back in the time of the Ancients, but they haven't been heard from in centuries.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_SecondThoughts",
         "RequiredActiveTaskId": "95A_S02_SecondThoughts_TalkToRima",
@@ -2768,10 +3400,18 @@
         "ConversationStateId": "95A_Rima_08",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_05_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "This has all the makings of quite a tragic tale, one I'd rather remains nothing but fiction.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Rima04",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2803,10 +3443,18 @@
         "ConversationStateId": "95A_Rima_09",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_06_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "It's good to see you again. I've managed to find more information on this mural when you're ready to hear it.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_EggHunt",
         "RequiredActiveTaskId": "95A_S02_EggHunt_TalkToRima",
@@ -2838,10 +3486,18 @@
         "ConversationStateId": "95A_Rima_10",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_07_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I cannot believe I didn't see it earlier! We cannot let Malek get Sharif's blood!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_11 \u0026\u0026 !95A_Main_12",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2873,10 +3529,18 @@
         "ConversationStateId": "95A_Rima_11",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_08_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I cannot imagine what will become of Brimstone - of ALL of Aeternum - if Malek hatches those eggs!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Ruins03",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2908,10 +3572,18 @@
         "ConversationStateId": "95A_Rima_12",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_09_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "You go. I'll keep an eye on Sharif and keep Malek's followers off of him.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Ruins04",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2943,10 +3615,18 @@
         "ConversationStateId": "95A_Rima_13",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_10_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "I can't believe it is done. But what an awful way to go. Especially in a place like this.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Sharif10",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -2978,10 +3658,18 @@
         "ConversationStateId": "95A_Rima_14",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_11_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "It's good to see you, I'm glad to find you well.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_Remembrance",
         "RequiredActiveTaskId": "95A_S02_Remembrance_TalkToRima",
@@ -3013,10 +3701,18 @@
         "ConversationStateId": "95A_Rima_15",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_12_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Sharif isn't far. You should go talk to him.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Rima06",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -3048,10 +3744,18 @@
         "ConversationStateId": "95A_Rima_16",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_13_Rima",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "This was quite the adventure, wasn't it? I can't wait to see what other trouble the Silver Crows can get into.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_14",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -3083,10 +3787,18 @@
         "ConversationStateId": "95A_Rima_S02_End",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_S02_Camp_Rima_End",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "We really need to help Grace with the camp construction. Well, it's homey? \\n\\nBut it looks like a pirate gathered bits of shipwreck and strung it together with rope and sailcloth.",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_14",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -3118,10 +3830,18 @@
         "ConversationStateId": "95A_Phaedra_00",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_00_Phaedra",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "Excuse me, I am trying to make sure I brought all of my materials. So I have papyrus, my pen, and my journals. \\n\\nInk? Did I bring ink? By Hephesteus' beard I better not have dropped it…",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -3153,10 +3873,18 @@
         "ConversationStateId": "95A_Phaedra_01",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_01_Phaedra",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "You! Oh, you there! Can you spare me a moment, please?",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Main_14",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -3188,10 +3916,18 @@
         "ConversationStateId": "95A_Phaedra_02",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_02_Phaedra",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "The wording needs to evoke emotion, stir the imagination, and seize the reader's attention. \\n\\nI'll read this a thousand times if I have to just to get it right!",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Trial_01",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",
@@ -3223,10 +3959,18 @@
         "ConversationStateId": "1661_03_Jackal",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_03_Jackal",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "(The strange jackal seems to stare right at you, as if it is expecting something.)",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "",
         "RequiredActiveObjectiveId": "95A_S02_VoicesoftheDesert",
         "RequiredActiveTaskId": "95A_S02_VoicesoftheDesert_TalkToJackal",
@@ -3258,10 +4002,18 @@
         "ConversationStateId": "1661_04_Jackal",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
+<<<<<<< HEAD
         "DefaultDialogue": "@NPC_DefaultDialogue_04_Jackal",
         "RequiredFaction": "",
         "RequiredProgression": "",
         "RequiredLevel": "",
+=======
+        "DefaultDialogue": "… eeee heehee… hehe …",
+        "ForceConversationOpen": "",
+        "RequiredFaction": "",
+        "RequiredProgression": "",
+        "RequiredLevel": null,
+>>>>>>> PTR
         "RequiredAchievement": "95A_Jackal01",
         "RequiredActiveObjectiveId": "",
         "RequiredActiveTaskId": "",

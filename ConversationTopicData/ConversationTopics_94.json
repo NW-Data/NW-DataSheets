@@ -1,1 +1,96 @@
+<<<<<<< HEAD
 []
+=======
+[
+    {
+        "ConversationTopicId": "9401_Hint",
+        "PlayerPrompt": "\"Can you explain riding?\"",
+        "NPCResponse": "Summon - [Default: X], Canter - [Default: CTRL], Dash - [Default: SHIFT], Jump - [Default: SPACE]\\n\\nDashing and Jumping cost mount stamina. Falling from great heights and taking heavy hits from enemies will dismount you.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9402_Hint",
+        "PlayerPrompt": "\"Why did you build this stable?\"",
+        "NPCResponse": "My former paramour and I used our knowledge of the Ancient light bridges to move goods for very private clientele.\\n\\nBut it was too much looking over my shoulder. I organize horse races now. At least when I’m riding I know who’s chasing me.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9403_Hint",
+        "PlayerPrompt": "\"What is it like to train Dire Wolves \"",
+        "NPCResponse": "Wolves are easier than humans. They do not feel greed or pride or envy. Simply show courage, show yourself to be the natural leader of the pack, and they follow.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9404_Hint",
+        "PlayerPrompt": "\"Do you know the best route?\"",
+        "NPCResponse": "Oh, I can't take sides, hero. That wouldn't be sporting. But you seem capable enough. But the fastest riders have knowledge of hidden glyphs and the Ancient bridges.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9405_Hint",
+        "PlayerPrompt": "\"Do you trust humans?\"",
+        "NPCResponse": "Your kind are not like us. Mother Earth has not given you a natural instinct to follow. Some, like yourself, are as constant as the tides. Others are capricious, like a leaf on the wind. I trust who I can and am wary of others.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9401_HorseTalk",
+        "PlayerPrompt": "[Feed oats]",
+        "NPCResponse": "The horse takes the oats and whinnies gratefully. It nudges your hand sniffing you. You feel a bond forming with it.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9405_LionTalk",
+        "PlayerPrompt": "\"What was the island like before mankind arrived?\"",
+        "NPCResponse": "Before your kind arrived in this land, we lions were known as the king of beasts. All creatures, great and small, bowed to our majesty.\\n\\nThe world has changed now… for all of us.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9401_GoTo_Jochi_Topic",
+        "PlayerPrompt": "\"I bested your times!\"",
+        "NPCResponse": "Your skills are impressive. There is nothing more to teach. Now experience will be your tutor.\\n\\nI have a heard of a man called “Francois” who also keeps a stable. Challenge him and you will learn what you have not yet learned.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9402_GoTo_Francois_Topic",
+        "PlayerPrompt": "\"Those races were easy as bamboozling an infant.\"",
+        "NPCResponse": "Back again, friend? I already admit defeat. A good smuggler always knows when the jig is up!\\n\\nBut Aeternum is rife with challenges and obstacles. I'm sure you can find other races to keep your heart pounding!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9403_GoTo_Valencia_Topic",
+        "PlayerPrompt": "\"My wolf and I have cleared your challenges.\"",
+        "NPCResponse": "You and your wolf are now of one spirit. But further challenges will strengthen your bond. I have heard of a woman who seeks out the island's greatest champions. Perhaps it is time your legend grows.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]
+>>>>>>> PTR

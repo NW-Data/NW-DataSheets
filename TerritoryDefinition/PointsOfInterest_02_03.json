@@ -1,7 +1,7 @@
 [
     {
         "TerritoryID": 20301,
-        "NameLocalizationKey": "@ui_poi_front_lines_20301",
+        "NameLocalizationKey": "The Frontlines",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -30,12 +30,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20302,
-        "NameLocalizationKey": "@ui_poi_legion_siege_camp_20302",
+        "NameLocalizationKey": "Castrum Pontem",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -64,12 +65,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20303,
-        "NameLocalizationKey": "@ui_poi_legion_hq_20303",
+        "NameLocalizationKey": "Castrum Principium",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -82,7 +84,7 @@
         "DefaultAchievement": null,
         "OutpostId": "",
         "Debug": "",
-        "LootTags": "LegionHQ,Corrupted",
+        "LootTags": "LegionHQ,Corrupted,EPOI",
         "DiscoveredAchievement": "legion_hq_20303_discovered",
         "ChartedAchievement": "legion_hq_20303_charted",
         "POITag": "legion_hq_20303,elite",
@@ -98,12 +100,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": 3,
+        "IsCollapsible": null,
         "RecommendedLevel": 66,
         "EventId": ""
     },
     {
         "TerritoryID": 20304,
-        "NameLocalizationKey": "@ui_poi_legion_barracks_20304",
+        "NameLocalizationKey": "Castrum Kerberos",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -132,12 +135,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20305,
-        "NameLocalizationKey": "@ui_poi_legion_supply_train_20305",
+        "NameLocalizationKey": "Castrum Victualis",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -166,12 +170,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20306,
-        "NameLocalizationKey": "@ui_poi_questgiver_20306",
+        "NameLocalizationKey": "Tip of the Spear",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -200,12 +205,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20307,
-        "NameLocalizationKey": "@ui_poi_sulfurpool_20307",
+        "NameLocalizationKey": "Pools of Orcus",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -234,12 +240,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20308,
-        "NameLocalizationKey": "@ui_poi_legion_fort_20308",
+        "NameLocalizationKey": "Castrum Inferos",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -268,12 +275,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20310,
-        "NameLocalizationKey": "@ui_poi_alligator_lagoon_20310",
+        "NameLocalizationKey": "Wadi el Sobek",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -302,12 +310,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20311,
-        "NameLocalizationKey": "@ui_poi_beast_den_20311",
+        "NameLocalizationKey": "Sandflea Hollow",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -336,12 +345,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20312,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_20312",
+        "NameLocalizationKey": "Wurmsign Obelisk",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -370,12 +380,13 @@
         "GameMode": "",
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20313,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_broad",
+        "NameLocalizationKey": "Broad Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -404,12 +415,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20314,
-        "NameLocalizationKey": "@ui_poi_fish_hotspot_secret",
+        "NameLocalizationKey": "Secret Fishing Hotspot",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -438,12 +450,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20315,
-        "NameLocalizationKey": "@ui_poi_sulfurpool_20315",
+        "NameLocalizationKey": "New Thermopylae",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -472,12 +485,13 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20316,
-        "NameLocalizationKey": "@ui_poi_legion_warcamp_20316",
+        "NameLocalizationKey": "Castellum Auxilia",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -506,12 +520,17 @@
         "GameMode": "",
         "UnchartedIcon": "",
         "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },
     {
         "TerritoryID": 20317,
+<<<<<<< HEAD
         "NameLocalizationKey": "@ui_poi_sandworm_arena_20317",
+=======
+        "NameLocalizationKey": "Trial of the Devourer",
+>>>>>>> PTR
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -540,12 +559,16 @@
         "GameMode": "TrialBrimstoneSandworm",
         "UnchartedIcon": "",
         "GroupSize": 3,
+<<<<<<< HEAD
+=======
+        "IsCollapsible": null,
+>>>>>>> PTR
         "RecommendedLevel": 66,
         "EventId": ""
     },
     {
         "TerritoryID": 20318,
-        "NameLocalizationKey": "@ui_poi_spiritshrine_20318",
+        "NameLocalizationKey": "Shrine of War",
         "BaseStructureLimit": "",
         "MaxStructureLimit": "",
         "TerritoryScore": "",
@@ -574,6 +597,42 @@
         "GameMode": "",
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "GroupSize": null,
+        "IsCollapsible": null,
+        "RecommendedLevel": null,
+        "EventId": ""
+    },
+    {
+        "TerritoryID": 20334,
+        "NameLocalizationKey": "Temple of Sands",
+        "BaseStructureLimit": "",
+        "MaxStructureLimit": "",
+        "TerritoryScore": "",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI\\Images\\Map\\Icon\\POIs\\ancient_temple_lg.png",
+        "CompassIcon": "",
+        "DiscoveryRadius": 300,
+        "IsDiscoverable": true,
+        "IsChartable": true,
+        "DefaultAchievement": null,
+        "OutpostId": "",
+        "Debug": "",
+        "LootTags": "",
+        "DiscoveredAchievement": "templeofsands_20334_discovered",
+        "ChartedAchievement": "templeofsands_20334_charted",
+        "POITag": "templeofsands_20334",
+        "AudioGroup": "POI_State",
+        "AudioState": "ancient_tower",
+        "AudioBank": "",
+        "CanPlaceCamp": false,
+        "DevName": "Temple of Sands",
+        "VitalsCategory": "",
+        "LevelRange": "",
+        "Containers": "",
+        "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\brimstone_sands\\mapTooltip_brimstone_POI_greatwall.png",
+        "GameMode": "",
+        "UnchartedIcon": "",
+        "GroupSize": null,
+        "IsCollapsible": null,
         "RecommendedLevel": null,
         "EventId": ""
     },

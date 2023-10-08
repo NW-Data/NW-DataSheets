@@ -514,5 +514,41 @@
         "AbilityID": "Ability_Greatsword_Burst",
         "Time": 20,
         "WeaponTag": "Greatsword"
+    },
+    {
+        "ID": 87,
+        "AbilityID": "Ability_Flail_Slam",
+        "Time": 18,
+        "WeaponTag": "Flail"
+    },
+    {
+        "ID": 88,
+        "AbilityID": "Ability_Flail_Blast",
+        "Time": 20,
+        "WeaponTag": "Flail"
+    },
+    {
+        "ID": 89,
+        "AbilityID": "Ability_Flail_Burst",
+        "Time": 16,
+        "WeaponTag": "Flail"
+    },
+    {
+        "ID": 90,
+        "AbilityID": "Ability_Flail_Charge",
+        "Time": 25,
+        "WeaponTag": "Flail"
+    },
+    {
+        "ID": 91,
+        "AbilityID": "Ability_Flail_Trip",
+        "Time": 18,
+        "WeaponTag": "Flail"
+    },
+    {
+        "ID": 92,
+        "AbilityID": "Ability_Flail_DefensiveStrike",
+        "Time": 22,
+        "WeaponTag": "Flail"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "#": 5000,
+        "ID": 5000,
         "WeaponID": "2hBowT1",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Gear/QuiverA/jav_wep_gear_quivera_t0.cdf",
@@ -16,7 +16,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 5001,
+        "ID": 5001,
         "WeaponID": "2hBowT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Gear/QuiverA/jav_wep_gear_quivera_t1.cdf",
@@ -32,7 +32,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 5002,
+        "ID": 5002,
         "WeaponID": "2hBowT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Gear/QuiverA/jav_wep_gear_quivera_t1.cdf",
@@ -48,7 +48,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 5003,
+        "ID": 5003,
         "WeaponID": "2hBowT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Gear/QuiverA/jav_wep_gear_quivera_t1.cdf",
@@ -64,7 +64,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 5004,
+        "ID": 5004,
         "WeaponID": "2hBowT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Gear/QuiverA/jav_wep_gear_quivera_t1.cdf",
@@ -80,7 +80,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 5005,
+        "ID": 5005,
         "WeaponID": "Playtest_Ranger_Bow_T5_625",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Gear/QuiverA/jav_wep_gear_quivera_t1.cdf",
@@ -96,7 +96,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 5006,
+        "ID": 5006,
         "WeaponID": "2hBowAdianaT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Gear/QuiverA/jav_wep_gear_quivera_t1.cdf",
@@ -112,7 +112,11 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 5007,
+=======
+        "ID": 5007,
+>>>>>>> PTR
         "WeaponID": "2hBowCrystalClawT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Gear/QuiverA/jav_wep_gear_quivera_t1.cdf",
@@ -128,7 +132,11 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 15000,
+=======
+        "ID": 15000,
+>>>>>>> PTR
         "WeaponID": "1hElementalGauntlet_IceT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT2/wep_mag_gauntcore_1h_icegauntletT2.cdf",
@@ -144,7 +152,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15001,
+        "ID": 15001,
         "WeaponID": "1hElementalGauntlet_IceT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -160,7 +168,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15002,
+        "ID": 15002,
         "WeaponID": "1hElementalGauntlet_IceT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -176,7 +184,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15003,
+        "ID": 15003,
         "WeaponID": "1hElementalGauntlet_IceT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -192,7 +200,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15004,
+        "ID": 15004,
         "WeaponID": "2hicegauntletAngryEarthT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT2/wep_mag_gauntcore_1h_icegauntletT2.cdf",
@@ -208,7 +216,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15005,
+        "ID": 15005,
         "WeaponID": "2hicegauntletAngryEarthT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -224,7 +232,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15006,
+        "ID": 15006,
         "WeaponID": "2hicegauntletAngryEarthT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -240,7 +248,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15007,
+        "ID": 15007,
         "WeaponID": "2hicegauntletAngryEarthT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -256,7 +264,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15008,
+        "ID": 15008,
         "WeaponID": "2hicegauntletCorruptedT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT2/wep_mag_gauntcore_1h_icegauntletT2.cdf",
@@ -272,7 +280,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15009,
+        "ID": 15009,
         "WeaponID": "2hicegauntletCorruptedT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -288,7 +296,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15010,
+        "ID": 15010,
         "WeaponID": "2hicegauntletCorruptedT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -304,7 +312,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15011,
+        "ID": 15011,
         "WeaponID": "2hicegauntletCorruptedT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -320,7 +328,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15012,
+        "ID": 15012,
         "WeaponID": "2hicegauntletLostT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT2/wep_mag_gauntcore_1h_icegauntletT2.cdf",
@@ -336,7 +344,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15013,
+        "ID": 15013,
         "WeaponID": "2hicegauntletLostT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -352,7 +360,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15014,
+        "ID": 15014,
         "WeaponID": "2hicegauntletLostT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -368,7 +376,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15015,
+        "ID": 15015,
         "WeaponID": "2hicegauntletLostT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -384,7 +392,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15016,
+        "ID": 15016,
         "WeaponID": "2hicegauntletAncientT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT2/wep_mag_gauntcore_1h_icegauntletT2.cdf",
@@ -400,7 +408,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15017,
+        "ID": 15017,
         "WeaponID": "2hicegauntletAncientT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -416,7 +424,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15018,
+        "ID": 15018,
         "WeaponID": "2hicegauntletAncientT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -432,7 +440,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15019,
+        "ID": 15019,
         "WeaponID": "2hicegauntletAncientT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -448,7 +456,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15020,
+        "ID": 15020,
         "WeaponID": "2hicegauntletFaeT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -464,7 +472,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15021,
+        "ID": 15021,
         "WeaponID": "2hicegauntletFaeT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -480,7 +488,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15022,
+        "ID": 15022,
         "WeaponID": "2hicegauntletFaeT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -496,7 +504,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15023,
+        "ID": 15023,
         "WeaponID": "2hicegauntletGlassT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -512,7 +520,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15024,
+        "ID": 15024,
         "WeaponID": "2hicegauntletGlassT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -528,7 +536,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15025,
+        "ID": 15025,
         "WeaponID": "2hicegauntletGlassT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -544,7 +552,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15026,
+        "ID": 15026,
         "WeaponID": "2hicegauntletElegantT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -560,7 +568,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15027,
+        "ID": 15027,
         "WeaponID": "2hicegauntletElegantT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -576,7 +584,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15028,
+        "ID": 15028,
         "WeaponID": "2hicegauntletElegantT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -592,7 +600,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15029,
+        "ID": 15029,
         "WeaponID": "2hicegauntletViciousT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -608,7 +616,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15030,
+        "ID": 15030,
         "WeaponID": "2hicegauntletViciousT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -624,7 +632,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15031,
+        "ID": 15031,
         "WeaponID": "2hicegauntletViciousT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -640,7 +648,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15032,
+        "ID": 15032,
         "WeaponID": "2hicegauntletVinespunT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -656,7 +664,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15033,
+        "ID": 15033,
         "WeaponID": "2hicegauntletVinespunT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -672,7 +680,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15034,
+        "ID": 15034,
         "WeaponID": "2hicegauntletVinespunT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -688,7 +696,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15035,
+        "ID": 15035,
         "WeaponID": "2hVoidicegauntletbentT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -704,7 +712,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15036,
+        "ID": 15036,
         "WeaponID": "2hVoidicegauntletbentT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -720,7 +728,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15037,
+        "ID": 15037,
         "WeaponID": "2hVoidicegauntletbentT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -736,7 +744,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15038,
+        "ID": 15038,
         "WeaponID": "2hicegauntletWaveborneT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -752,7 +760,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15039,
+        "ID": 15039,
         "WeaponID": "2hicegauntletWaveborneT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -768,7 +776,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15040,
+        "ID": 15040,
         "WeaponID": "2hicegauntletWaveborneT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -784,7 +792,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15041,
+        "ID": 15041,
         "WeaponID": "2hicegauntletImmolatedT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -800,7 +808,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15042,
+        "ID": 15042,
         "WeaponID": "2hicegauntletImmolatedT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -816,7 +824,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15043,
+        "ID": 15043,
         "WeaponID": "2hicegauntletImmolatedT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -832,7 +840,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15044,
+        "ID": 15044,
         "WeaponID": "2hicegauntletEtherealT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -848,7 +856,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15045,
+        "ID": 15045,
         "WeaponID": "2hicegauntletEtherealT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -864,7 +872,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15046,
+        "ID": 15046,
         "WeaponID": "2hicegauntletEtherealT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -880,7 +888,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15047,
+        "ID": 15047,
         "WeaponID": "2hicegauntletAbyssalT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -896,7 +904,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15048,
+        "ID": 15048,
         "WeaponID": "2hicegauntletAbyssalT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -912,7 +920,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15049,
+        "ID": 15049,
         "WeaponID": "2hicegauntletAbyssalT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -928,7 +936,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15050,
+        "ID": 15050,
         "WeaponID": "2hGauntletIce_MarauderT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT2/wep_mag_gauntcore_1h_icegauntletT2.cdf",
@@ -944,7 +952,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15051,
+        "ID": 15051,
         "WeaponID": "2hGauntletIce_MarauderT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -960,7 +968,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15052,
+        "ID": 15052,
         "WeaponID": "2hGauntletIce_MarauderT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -976,7 +984,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15053,
+        "ID": 15053,
         "WeaponID": "2hGauntletIce_MarauderT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -992,7 +1000,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15054,
+        "ID": 15054,
         "WeaponID": "2hGauntletIce_SyndicateT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT2/wep_mag_gauntcore_1h_icegauntletT2.cdf",
@@ -1008,7 +1016,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15055,
+        "ID": 15055,
         "WeaponID": "2hGauntletIce_SyndicateT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -1024,7 +1032,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15056,
+        "ID": 15056,
         "WeaponID": "2hGauntletIce_SyndicateT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -1040,7 +1048,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15057,
+        "ID": 15057,
         "WeaponID": "2hGauntletIce_SyndicateT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -1056,7 +1064,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15058,
+        "ID": 15058,
         "WeaponID": "2hGauntletIce_CovenantT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT2/wep_mag_gauntcore_1h_icegauntletT2.cdf",
@@ -1072,7 +1080,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15059,
+        "ID": 15059,
         "WeaponID": "2hGauntletIce_CovenantT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -1088,7 +1096,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15060,
+        "ID": 15060,
         "WeaponID": "2hGauntletIce_CovenantT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -1104,7 +1112,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15061,
+        "ID": 15061,
         "WeaponID": "2hGauntletIce_CovenantT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -1120,7 +1128,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15062,
+        "ID": 15062,
         "WeaponID": "2hicegauntletDrownedWaveborneT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT2/wep_mag_gauntcore_1h_icegauntletT2.cdf",
@@ -1136,7 +1144,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15063,
+        "ID": 15063,
         "WeaponID": "icegauntletNagaAncientGuardian",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -1152,7 +1160,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15064,
+        "ID": 15064,
         "WeaponID": "icegauntletNagaAncientGuardianOld",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -1168,7 +1176,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15065,
+        "ID": 15065,
         "WeaponID": "1hIcegauntletDynasty_VR",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -1184,7 +1192,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15066,
+        "ID": 15066,
         "WeaponID": "1hIcegauntletDynasty_VB",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -1200,7 +1208,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15067,
+        "ID": 15067,
         "WeaponID": "1hIceGauntletOutpostT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -1216,7 +1224,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15068,
+        "ID": 15068,
         "WeaponID": "1hIceGauntletWaterloggedSiren",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletWaterlogged/wep_mag_gauntcore_1h_icegauntletWaterlogged.cdf",
@@ -1232,7 +1240,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15069,
+        "ID": 15069,
         "WeaponID": "1hIceGauntletWaterloggedSirenS",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletWaterlogged/wep_mag_gauntcore_1h_icegauntletWaterlogged.cdf",
@@ -1248,7 +1256,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15070,
+        "ID": 15070,
         "WeaponID": "1hicegauntletShatteredObelisk",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletAncestralT4/wep_mag_gauntcore_1h_icegauntletAncestralT4.cdf",
@@ -1264,7 +1272,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15071,
+        "ID": 15071,
         "WeaponID": "1hIceGauntletPrimevalInvasion ",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletPrimeval/wep_mag_gauntcore_1h_icegauntletPrimeval.cdf",
@@ -1280,7 +1288,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15072,
+        "ID": 15072,
         "WeaponID": "1hicegauntletSylvanArena",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletSylvan/wep_mag_gauntcore_1h_icegauntletSylvan.cdf",
@@ -1296,7 +1304,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15073,
+        "ID": 15073,
         "WeaponID": "IceGauntlet_SylvanRecolor3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletSylvan/wep_mag_gauntcore_1h_icegauntletSylvan.cdf",
@@ -1312,7 +1320,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15074,
+        "ID": 15074,
         "WeaponID": "2hIceGauntletEvilKnightT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT3/wep_mag_gauntcore_1h_icegauntletT3.cdf",
@@ -1328,7 +1336,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15075,
+        "ID": 15075,
         "WeaponID": "2hIceGauntletEvilKnightT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT4/wep_mag_gauntcore_1h_icegauntletT4.cdf",
@@ -1344,7 +1352,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15076,
+        "ID": 15076,
         "WeaponID": "2hIceGauntletAncestralLLT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -1360,7 +1368,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15077,
+        "ID": 15077,
         "WeaponID": "2hIceGauntletMossborneGoGT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -1376,7 +1384,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15079,
+        "ID": 15079,
         "WeaponID": "1hIcegauntletWar",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletwar/wep_mag_gauntcore_1h_icegauntletwar.cdf",
@@ -1392,7 +1400,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15080,
+        "ID": 15080,
         "WeaponID": "2hIceGauntletBreachT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletBreach/wep_mag_gauntcore_1h_icegauntletBreach.cdf",
@@ -1408,7 +1416,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15081,
+        "ID": 15081,
         "WeaponID": "2hIceGauntletInvasionT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletInvasion/wep_mag_gauntcore_1h_icegauntletInvasion.cdf",
@@ -1424,7 +1432,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15082,
+        "ID": 15082,
         "WeaponID": "2hIceGauntletPrimevalT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletPrimeval/wep_mag_gauntcore_1h_icegauntletPrimeval.cdf",
@@ -1440,7 +1448,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15083,
+        "ID": 15083,
         "WeaponID": "2hIceGauntletAncestralT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletAncestral/wep_mag_gauntcore_1h_icegauntletAncestral.cdf",
@@ -1456,7 +1464,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15084,
+        "ID": 15084,
         "WeaponID": "2hIceGauntletWraithHunterT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletWraithHunter/wep_mag_gauntcore_1h_icegauntletWraithHunter.cdf",
@@ -1472,7 +1480,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15085,
+        "ID": 15085,
         "WeaponID": "2hIceGauntletDefiledT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletDefiled/wep_mag_gauntcore_1h_icegauntletDefiled.cdf",
@@ -1488,7 +1496,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15086,
+        "ID": 15086,
         "WeaponID": "2hIceGauntletFanaticT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletFanatic/wep_mag_gauntcore_1h_icegauntletFanatic.cdf",
@@ -1504,7 +1512,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15087,
+        "ID": 15087,
         "WeaponID": "1hIceGauntletNagaAncientGuardianT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletNagaAngryEarth/wep_mag_gauntcore_1h_icegauntletNagaAngryEarth.cdf",
@@ -1520,7 +1528,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15088,
+        "ID": 15088,
         "WeaponID": "2hIceGauntletNagaCorruptedT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletNagaCorrupted/wep_mag_gauntcore_1h_icegauntletNagaCorrupted.cdf",
@@ -1536,7 +1544,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15089,
+        "ID": 15089,
         "WeaponID": "2hIceGauntletHeroicT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletHeroic/wep_mag_gauntcore_1h_icegauntletHeroic.cdf",
@@ -1552,7 +1560,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15090,
+        "ID": 15090,
         "WeaponID": "2hIceGauntletIsabellaT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletIsabella/wep_mag_gauntcore_1h_icegauntletIsabella.cdf",
@@ -1568,7 +1576,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15091,
+        "ID": 15091,
         "WeaponID": "1hicegauntletGraverobberT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletgraverobbert3/wep_mag_gauntcore_1h_icegauntletGraverobberT3.cdf",
@@ -1584,7 +1592,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15092,
+        "ID": 15092,
         "WeaponID": "1hicegauntletGraverobberT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletGraverobber/wep_mag_gauntcore_1h_icegauntletGraverobber.cdf",
@@ -1600,7 +1608,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15093,
+        "ID": 15093,
         "WeaponID": "1hicegauntletGraverobberT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletGraverobber/wep_mag_gauntcore_1h_icegauntletGraverobber.cdf",
@@ -1616,7 +1624,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15094,
+        "ID": 15094,
         "WeaponID": "2hIceGauntletHarbingerT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletHarbinger/wep_mag_gauntcore_1h_icegauntletHarbinger.cdf",
@@ -1632,7 +1640,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15095,
+        "ID": 15095,
         "WeaponID": "2hIceGauntletSylvanT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletSylvan/wep_mag_gauntcore_1h_icegauntletSylvan.cdf",
@@ -1648,7 +1656,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15096,
+        "ID": 15096,
         "WeaponID": "2hIceGauntletWickedT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletWicked/wep_mag_gauntcore_1h_icegauntletWicked.cdf",
@@ -1664,7 +1672,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15099,
+        "ID": 15099,
         "WeaponID": "2hIceGauntletCrystallineT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletCrystalline/wep_mag_gauntcore_1h_icegauntletCrystalline.cdf",
@@ -1680,7 +1688,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15100,
+        "ID": 15100,
         "WeaponID": "2hIceGauntletDryadT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletdryad/wep_mag_gauntcore_1h_icegauntletDryad.cdf",
@@ -1696,7 +1704,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15101,
+        "ID": 15101,
         "WeaponID": "1hicegauntletRoyalcourtT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletRoyalCourt/wep_mag_gauntcore_1h_icegauntletroyalcourt.cdf",
@@ -1712,7 +1720,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15102,
+        "ID": 15102,
         "WeaponID": "2hIceGauntletClassicMonsterT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletClassicMonster/wep_mag_gauntcore_1h_icegauntletClassicMonster.cdf",
@@ -1728,7 +1736,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15103,
+        "ID": 15103,
         "WeaponID": "2hIceGauntletDominusT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletDominus/wep_mag_gauntcore_1h_icegauntletDominus.cdf",
@@ -1744,7 +1752,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15104,
+        "ID": 15104,
         "WeaponID": "2hIceGauntletArchosT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletarchos/wep_mag_gauntcore_1h_icegauntletarchos.cdf",
@@ -1760,7 +1768,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15105,
+        "ID": 15105,
         "WeaponID": "2hIceGauntletFleshboundT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletFleshbound/wep_mag_gauntcore_1h_icegauntletFleshbound.cdf",
@@ -1776,7 +1784,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15106,
+        "ID": 15106,
         "WeaponID": "2hIceGauntletEmpoweredT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletEmpowered/wep_mag_gauntcore_1h_icegauntletEmpowered.cdf",
@@ -1792,7 +1800,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15107,
+        "ID": 15107,
         "WeaponID": "2hIceGauntletAncientBT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletAncient/wep_mag_gauntcore_1h_icegauntletAncient.cdf",
@@ -1808,7 +1816,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15109,
+        "ID": 15109,
         "WeaponID": "2hIceGauntletNagaWitheredT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletNagaWithered/wep_mag_gauntcore_1h_icegauntletNagaWithered.cdf",
@@ -1824,7 +1832,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15110,
+        "ID": 15110,
         "WeaponID": "2hIceGauntletFrozenT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/magic/gauntletcore/1h/icegauntletfrozen/wep_mag_gauntcore_1h_icegauntletfrozen.cdf",
@@ -1840,7 +1848,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15111,
+        "ID": 15111,
         "WeaponID": "2hIceGauntletWinterConvergenceT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletWinterConvergence/wep_mag_gauntcore_1h_icegauntletwinterconvergence.cdf",
@@ -1856,7 +1864,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15112,
+        "ID": 15112,
         "WeaponID": "2hIceGauntletMyrkgardT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletMyrkgard/wep_mag_gauntcore_1h_icegauntletMyrkgard.cdf",
@@ -1872,7 +1880,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15113,
+        "ID": 15113,
         "WeaponID": "2hIceGauntletWraithHunterHellfireT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletWraithHunter/wep_mag_gauntcore_1h_icegauntletWraithHunter.cdf",
@@ -1888,7 +1896,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15114,
+        "ID": 15114,
         "WeaponID": "2hIceGauntletWraithHunterEternalT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletWraithHunter/wep_mag_gauntcore_1h_icegauntletWraithHunter.cdf",
@@ -1904,7 +1912,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15115,
+        "ID": 15115,
         "WeaponID": "2hIceGauntletWraithHunterOvergrownT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletWraithHunter/wep_mag_gauntcore_1h_icegauntletWraithHunter.cdf",
@@ -1920,7 +1928,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15116,
+        "ID": 15116,
         "WeaponID": "2hIceGauntletWraithHunterIceboundT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletWraithHunter/wep_mag_gauntcore_1h_icegauntletWraithHunter.cdf",
@@ -1936,7 +1944,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15117,
+        "ID": 15117,
         "WeaponID": "2hIceGauntletValentinesT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletValentines/wep_mag_gauntcore_1h_icegauntletValentines.cdf",
@@ -1952,7 +1960,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15120,
+        "ID": 15120,
         "WeaponID": "2hIceGauntletCrystallinePVPBT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletCrystallinePVPB/wep_mag_gauntcore_1h_icegauntletCrystallinePVPB.cdf",
@@ -1968,7 +1976,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15121,
+        "ID": 15121,
         "WeaponID": "2hIceGauntletCrystallinePVPPT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletCrystallinePVPP/wep_mag_gauntcore_1h_icegauntletCrystallinePVPP.cdf",
@@ -1984,7 +1992,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15122,
+        "ID": 15122,
         "WeaponID": "2hIceGauntletCrystallinePVPB2T5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletCrystallinePVPB/wep_mag_gauntcore_1h_icegauntletCrystallinePVPB.cdf",
@@ -2000,7 +2008,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15123,
+        "ID": 15123,
         "WeaponID": "2hIceGauntletCrystallinePVPP2T5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletCrystallinePVPP/wep_mag_gauntcore_1h_icegauntletCrystallinePVPP.cdf",
@@ -2016,7 +2024,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15124,
+        "ID": 15124,
         "WeaponID": "2hIceGauntletMossborneT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletMossborne/wep_mag_gauntcore_1h_icegauntletMossborne.cdf",
@@ -2032,7 +2040,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15126,
+        "ID": 15126,
         "WeaponID": "2hIceGauntletFloralT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletFloral/wep_mag_gauntcore_1h_icegauntletfloral.cdf",
@@ -2048,7 +2056,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15128,
+        "ID": 15128,
         "WeaponID": "2hIceGauntletStormboundT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/magic/gauntletcore/1h/gauntletStormbound/wep_mag_gauntcore_1h_icegauntletStormbound.cdf",
@@ -2064,7 +2072,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15129,
+        "ID": 15129,
         "WeaponID": "2hIceGauntletGuardianBT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletguardianb/wep_mag_gauntcore_1h_icegauntletguardianb.cdf",
@@ -2080,7 +2088,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15132,
+        "ID": 15132,
         "WeaponID": "2hIceGauntletSilentDeathT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletSilentDeath/wep_mag_gauntcore_1h_icegauntletSilentDeath.cdf",
@@ -2096,7 +2104,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15133,
+        "ID": 15133,
         "WeaponID": "2hIceGauntletNagaCorruptedMTRT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletNagaCorrupted/wep_mag_gauntcore_1h_icegauntletNagaCorrupted.cdf",
@@ -2112,7 +2120,11 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 15135,
+=======
+        "ID": 15135,
+>>>>>>> PTR
         "WeaponID": "1hicegauntletGraverobberBrimstoneT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletGraverobber/wep_mag_gauntcore_1h_icegauntletGraverobber.cdf",
@@ -2128,7 +2140,11 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 15136,
+=======
+        "ID": 15136,
+>>>>>>> PTR
         "WeaponID": "2hIceGauntletDarkFaeT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletDarkFae/wep_mag_gauntcore_1h_icegauntletDarkFae.cdf",
@@ -2144,7 +2160,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15138,
+        "ID": 15137,
         "WeaponID": "2hIceGauntletNightveilT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/magic/gauntletcore/1h/icegauntletnightveil/wep_mag_gauntcore_1h_icegauntletnightveil.cdf",
@@ -2160,7 +2176,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15139,
+        "ID": 15138,
         "WeaponID": "2hIceGauntletBFNW2T5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/Magic/gauntletcore/1h/icegauntletBFNW/wep_mag_gauntcore_1h_icegauntletBFNW.cdf",
@@ -2176,7 +2192,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15140,
+        "ID": 15139,
         "WeaponID": "2hIceGauntletWinterDragonT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/Magic/GauntletCore/1h/icegauntletWinterDragon/wep_mag_gauntcore_1h_icegauntletWinterDragon.cdf",
@@ -2192,7 +2208,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15141,
+        "ID": 15140,
         "WeaponID": "2hIceGauntletCondemedSacrariumT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/Magic/GauntletCore/1h/icegauntletEmpyreanForge/wep_mag_gauntcore_1h_icegauntletEmpyreanForge.cdf",
@@ -2208,7 +2224,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15142,
+        "ID": 15141,
         "WeaponID": "2hIceGauntletVarangianKnightsV3T5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletT5/wep_mag_gauntcore_1h_icegauntletT5.cdf",
@@ -2224,7 +2240,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15144,
+        "ID": 15143,
         "WeaponID": "2hIceGauntletUnholyDepthsFireT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/magic/gauntletcore/1h/icegauntletUnholyDepthsFire/wep_mag_gauntcore_1h_icegauntletUnholyDepthsFire.cdf",
@@ -2240,7 +2256,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15145,
+        "ID": 15144,
         "WeaponID": "2hIceGauntletFirelightT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/Magic/gauntletcore/1h/icegauntletFirelight/wep_mag_gauntcore_1h_icegauntletFirelight.cdf",
@@ -2256,7 +2272,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15146,
+        "ID": 15145,
         "WeaponID": "Playtest_Mage_GauntletIce_T5_625",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/Magic/gauntletcore/1h/icegauntletFirelight/wep_mag_gauntcore_1h_icegauntletFirelight.cdf",
@@ -2272,7 +2288,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 15147,
+        "ID": 15146,
         "WeaponID": "2hIceGauntletHighwaymanT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/Magic/gauntletcore/1h/icegauntletHighwayman/wep_mag_gauntcore_1h_icegauntletHighwayman.cdf",
@@ -2288,7 +2304,11 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 15148,
+=======
+        "ID": 15147,
+>>>>>>> PTR
         "WeaponID": "2hIceGauntletSandwormTrialsT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletSandwormTrials/wep_mag_gauntcore_1h_icegauntletSandwormTrials.cdf",
@@ -2304,7 +2324,11 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 15149,
+=======
+        "ID": 15148,
+>>>>>>> PTR
         "WeaponID": "2hIceGauntletFrontierWastelandT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletFrontierWastelander/wep_mag_gauntcore_1h_icegauntletFrontierWastelander.cdf",
@@ -2320,7 +2344,11 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 15150,
+=======
+        "ID": 15149,
+>>>>>>> PTR
         "WeaponID": "2hIceGauntletBabySandwormTrialsT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletSandwormTrials/wep_mag_gauntcore_1h_icegauntletSandwormTrials.cdf",
@@ -2336,7 +2364,75 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 25000,
+=======
+        "ID": 15150,
+        "WeaponID": "2hIceGauntletFirstLightSeasonT5",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletFirstLightSeason/wep_mag_gauntcore_1h_icegauntletFirstLightSeason.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletFirstLightSeason/wep_mag_gauntcore_1h_icegauntletFirstLightSeason.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/icegauntletFirstLightSeason/wep_mag_gaunt_1h_icegauntletFirstLightSeason_matGroup.mtl",
+        "SkinOverride2": "",
+        "MaterialOverride2": "",
+        "SkinOverride3": "",
+        "MaterialOverride3": "",
+        "SkinOverride4": "",
+        "MaterialOverride4": "",
+        "EquipType": "Gauntlet",
+        "SheathMode": "ALWAYS_VISIBLE"
+    },
+    {
+        "ID": 15151,
+        "WeaponID": "2hIceGauntletFirstLightZoneT5",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletFirstLightZone/wep_mag_gauntcore_1h_icegauntletFirstLightZone.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletFirstLightZone/wep_mag_gauntcore_1h_icegauntletFirstLightZone.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/icegauntletFirstLightZone/wep_mag_gaunt_1h_icegauntletFirstLightZone_matGroup.mtl",
+        "SkinOverride2": "",
+        "MaterialOverride2": "",
+        "SkinOverride3": "",
+        "MaterialOverride3": "",
+        "SkinOverride4": "",
+        "MaterialOverride4": "",
+        "EquipType": "Gauntlet",
+        "SheathMode": "ALWAYS_VISIBLE"
+    },
+    {
+        "ID": 15152,
+        "WeaponID": "2hIceGauntletS3Artifacts",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletFirstLightZone/wep_mag_gauntcore_1h_icegauntletFirstLightZone.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/icegauntletFirstLightZone/wep_mag_gauntcore_1h_icegauntletFirstLightZone.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/icegauntletFirstLightZone/wep_mag_gaunt_1h_icegauntletFirstLightZone_matGroup.mtl",
+        "SkinOverride2": "",
+        "MaterialOverride2": "",
+        "SkinOverride3": "",
+        "MaterialOverride3": "",
+        "SkinOverride4": "",
+        "MaterialOverride4": "",
+        "EquipType": "Gauntlet",
+        "SheathMode": "ALWAYS_VISIBLE"
+    },
+    {
+        "ID": 15153,
+        "WeaponID": "2hIceGauntletCrystalClawT5",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/GauntletCore/1h/icegauntletCrystalclaw/wep_mag_gauntcore_1h_icegauntletCrystalclaw.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/GauntletCore/1h/icegauntletCrystalclaw/wep_mag_gauntcore_1h_icegauntletCrystalclaw.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/icegauntletCrystalclaw/wep_mag_gaunt_1h_icegauntletCrystalclaw_matGroup.mtl",
+        "SkinOverride2": "",
+        "MaterialOverride2": "",
+        "SkinOverride3": "",
+        "MaterialOverride3": "",
+        "SkinOverride4": "",
+        "MaterialOverride4": "",
+        "EquipType": "Gauntlet",
+        "SheathMode": "ALWAYS_VISIBLE"
+    },
+    {
+        "ID": 25000,
+>>>>>>> PTR
         "WeaponID": "1hVoidGauntlet_VoidT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -2352,7 +2448,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25001,
+        "ID": 25001,
         "WeaponID": "1hVoidGauntlet_VoidT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2368,7 +2464,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25002,
+        "ID": 25002,
         "WeaponID": "1hVoidGauntlet_VoidT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2384,7 +2480,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25003,
+        "ID": 25003,
         "WeaponID": "1hVoidGauntlet_VoidT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2400,7 +2496,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25004,
+        "ID": 25004,
         "WeaponID": "2hVoidGauntletAngryEarthT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -2416,7 +2512,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25005,
+        "ID": 25005,
         "WeaponID": "2hVoidGauntletAngryEarthT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2432,7 +2528,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25006,
+        "ID": 25006,
         "WeaponID": "2hVoidGauntletAngryEarthT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2448,7 +2544,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25007,
+        "ID": 25007,
         "WeaponID": "2hVoidGauntletAngryEarthT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2464,7 +2560,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25008,
+        "ID": 25008,
         "WeaponID": "2hVoidGauntletCorruptedT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -2480,7 +2576,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25009,
+        "ID": 25009,
         "WeaponID": "2hVoidGauntletCorruptedT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2496,7 +2592,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25010,
+        "ID": 25010,
         "WeaponID": "2hVoidGauntletCorruptedT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2512,7 +2608,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25011,
+        "ID": 25011,
         "WeaponID": "2hVoidGauntletCorruptedT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2528,7 +2624,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25012,
+        "ID": 25012,
         "WeaponID": "2hVoidGauntletLostT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -2544,7 +2640,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25013,
+        "ID": 25013,
         "WeaponID": "2hVoidGauntletLostT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2560,7 +2656,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25014,
+        "ID": 25014,
         "WeaponID": "2hVoidGauntletLostT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2576,7 +2672,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25015,
+        "ID": 25015,
         "WeaponID": "2hVoidGauntletLostT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2592,7 +2688,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25016,
+        "ID": 25016,
         "WeaponID": "2hVoidGauntletAncientT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -2608,7 +2704,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25017,
+        "ID": 25017,
         "WeaponID": "2hVoidGauntletAncientT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2624,7 +2720,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25018,
+        "ID": 25018,
         "WeaponID": "2hVoidGauntletAncientT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2640,7 +2736,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25019,
+        "ID": 25019,
         "WeaponID": "2hVoidGauntletAncientT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2656,7 +2752,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25020,
+        "ID": 25020,
         "WeaponID": "2hVoidGauntletFaeT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2672,7 +2768,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25021,
+        "ID": 25021,
         "WeaponID": "2hVoidGauntletFaeT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2688,7 +2784,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25022,
+        "ID": 25022,
         "WeaponID": "2hVoidGauntletFaeT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2704,7 +2800,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25023,
+        "ID": 25023,
         "WeaponID": "2hVoidGauntletGlassT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2720,7 +2816,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25024,
+        "ID": 25024,
         "WeaponID": "2hVoidGauntletGlassT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2736,7 +2832,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25025,
+        "ID": 25025,
         "WeaponID": "2hVoidGauntletGlassT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2752,7 +2848,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25026,
+        "ID": 25026,
         "WeaponID": "2hVoidGauntletElegantT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2768,7 +2864,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25027,
+        "ID": 25027,
         "WeaponID": "2hVoidGauntletElegantT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2784,7 +2880,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25028,
+        "ID": 25028,
         "WeaponID": "2hVoidGauntletElegantT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2800,7 +2896,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25029,
+        "ID": 25029,
         "WeaponID": "2hVoidGauntletViciousT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2816,7 +2912,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25030,
+        "ID": 25030,
         "WeaponID": "2hVoidGauntletViciousT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2832,7 +2928,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25031,
+        "ID": 25031,
         "WeaponID": "2hVoidGauntletViciousT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2848,7 +2944,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25032,
+        "ID": 25032,
         "WeaponID": "2hVoidGauntletVinespunT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2864,7 +2960,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25033,
+        "ID": 25033,
         "WeaponID": "2hVoidGauntletVinespunT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2880,7 +2976,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25034,
+        "ID": 25034,
         "WeaponID": "2hVoidGauntletVinespunT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2896,7 +2992,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25035,
+        "ID": 25035,
         "WeaponID": "2hVoidGauntletVoidbentT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2912,7 +3008,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25036,
+        "ID": 25036,
         "WeaponID": "2hVoidGauntletVoidbentT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2928,7 +3024,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25037,
+        "ID": 25037,
         "WeaponID": "2hVoidGauntletVoidbentT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2944,7 +3040,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25038,
+        "ID": 25038,
         "WeaponID": "2hVoidGauntletWaveborneT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -2960,7 +3056,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25039,
+        "ID": 25039,
         "WeaponID": "2hVoidGauntletWaveborneT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -2976,7 +3072,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25040,
+        "ID": 25040,
         "WeaponID": "2hVoidGauntletWaveborneT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -2992,7 +3088,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25041,
+        "ID": 25041,
         "WeaponID": "2hVoidGauntletImmolatedT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -3008,7 +3104,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25042,
+        "ID": 25042,
         "WeaponID": "2hVoidGauntletImmolatedT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -3024,7 +3120,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25043,
+        "ID": 25043,
         "WeaponID": "2hVoidGauntletImmolatedT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -3040,7 +3136,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25044,
+        "ID": 25044,
         "WeaponID": "2hVoidGauntletEtherealT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -3056,7 +3152,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25045,
+        "ID": 25045,
         "WeaponID": "2hVoidGauntletEtherealT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -3072,7 +3168,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25046,
+        "ID": 25046,
         "WeaponID": "2hVoidGauntletEtherealT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -3088,7 +3184,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25047,
+        "ID": 25047,
         "WeaponID": "2hVoidGauntletAbyssalT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -3104,7 +3200,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25048,
+        "ID": 25048,
         "WeaponID": "2hVoidGauntletAbyssalT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -3120,7 +3216,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25049,
+        "ID": 25049,
         "WeaponID": "2hVoidGauntletAbyssalT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -3136,7 +3232,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25050,
+        "ID": 25050,
         "WeaponID": "2hVoidGauntlet_MarauderT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -3152,7 +3248,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25051,
+        "ID": 25051,
         "WeaponID": "2hVoidGauntlet_MarauderT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -3168,7 +3264,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25052,
+        "ID": 25052,
         "WeaponID": "2hVoidGauntlet_MarauderT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -3184,7 +3280,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25053,
+        "ID": 25053,
         "WeaponID": "2hVoidGauntlet_MarauderT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -3200,7 +3296,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25054,
+        "ID": 25054,
         "WeaponID": "2hVoidGauntlet_SyndicateT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -3216,7 +3312,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25055,
+        "ID": 25055,
         "WeaponID": "2hVoidGauntlet_SyndicateT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -3232,7 +3328,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25056,
+        "ID": 25056,
         "WeaponID": "2hVoidGauntlet_SyndicateT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -3248,7 +3344,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25057,
+        "ID": 25057,
         "WeaponID": "2hVoidGauntlet_SyndicateT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -3264,7 +3360,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25058,
+        "ID": 25058,
         "WeaponID": "2hVoidGauntlet_CovenantT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -3280,7 +3376,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25059,
+        "ID": 25059,
         "WeaponID": "2hVoidGauntlet_CovenantT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -3296,7 +3392,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25060,
+        "ID": 25060,
         "WeaponID": "2hVoidGauntlet_CovenantT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -3312,7 +3408,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25061,
+        "ID": 25061,
         "WeaponID": "2hVoidGauntlet_CovenantT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -3328,7 +3424,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25062,
+        "ID": 25062,
         "WeaponID": "VoidGauntletBreachT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletBreach/wep_mag_gauntcore_1h_voidgauntletBreach.cdf",
@@ -3344,7 +3440,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25063,
+        "ID": 25063,
         "WeaponID": "VoidGauntletBreachT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletBreach/wep_mag_gauntcore_1h_voidgauntletBreach.cdf",
@@ -3360,7 +3456,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25064,
+        "ID": 25064,
         "WeaponID": "VoidGauntletBreachT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletBreach/wep_mag_gauntcore_1h_voidgauntletBreach.cdf",
@@ -3376,7 +3472,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25065,
+        "ID": 25065,
         "WeaponID": "VoidGauntletBreachT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletBreach/wep_mag_gauntcore_1h_voidgauntletBreach.cdf",
@@ -3392,7 +3488,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25066,
+        "ID": 25066,
         "WeaponID": "VoidGauntletCrystallineT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletCrystalline/wep_mag_gauntcore_1h_voidgauntletCrystalline.cdf",
@@ -3408,7 +3504,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25067,
+        "ID": 25067,
         "WeaponID": "VoidGauntletCrystallineT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletCrystalline/wep_mag_gauntcore_1h_voidgauntletCrystalline.cdf",
@@ -3424,7 +3520,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25068,
+        "ID": 25068,
         "WeaponID": "VoidGauntletCrystallineT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletCrystalline/wep_mag_gauntcore_1h_voidgauntletCrystalline.cdf",
@@ -3440,7 +3536,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25069,
+        "ID": 25069,
         "WeaponID": "VoidGauntletCrystallineT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletCrystalline/wep_mag_gauntcore_1h_voidgauntletCrystalline.cdf",
@@ -3456,7 +3552,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25070,
+        "ID": 25070,
         "WeaponID": "VoidGauntletDefiledT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletdefiled/wep_mag_gauntcore_1h_voidgauntletdefiled.cdf",
@@ -3472,7 +3568,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25071,
+        "ID": 25071,
         "WeaponID": "VoidGauntletDefiledT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletdefiled/wep_mag_gauntcore_1h_voidgauntletdefiled.cdf",
@@ -3488,7 +3584,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25072,
+        "ID": 25072,
         "WeaponID": "VoidGauntletDefiledT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletdefiled/wep_mag_gauntcore_1h_voidgauntletdefiled.cdf",
@@ -3504,7 +3600,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25073,
+        "ID": 25073,
         "WeaponID": "VoidGauntletDefiledT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletdefiled/wep_mag_gauntcore_1h_voidgauntletdefiled.cdf",
@@ -3520,7 +3616,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25074,
+        "ID": 25074,
         "WeaponID": "VoidGauntletDryadT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDryad/wep_mag_gauntcore_1h_voidgauntletDryad.cdf",
@@ -3536,7 +3632,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25075,
+        "ID": 25075,
         "WeaponID": "VoidGauntletDryadT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDryad/wep_mag_gauntcore_1h_voidgauntletDryad.cdf",
@@ -3552,7 +3648,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25076,
+        "ID": 25076,
         "WeaponID": "VoidGauntletDryadT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDryad/wep_mag_gauntcore_1h_voidgauntletDryad.cdf",
@@ -3568,7 +3664,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25077,
+        "ID": 25077,
         "WeaponID": "VoidGauntletDryadT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDryad/wep_mag_gauntcore_1h_voidgauntletDryad.cdf",
@@ -3584,7 +3680,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25078,
+        "ID": 25078,
         "WeaponID": "VoidGauntletFleshboundT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFleshbound/wep_mag_gauntcore_1h_voidgauntletFleshbound.cdf",
@@ -3600,7 +3696,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25079,
+        "ID": 25079,
         "WeaponID": "VoidGauntletFleshboundT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFleshbound/wep_mag_gauntcore_1h_voidgauntletFleshbound.cdf",
@@ -3616,7 +3712,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25080,
+        "ID": 25080,
         "WeaponID": "VoidGauntletFleshboundT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFleshbound/wep_mag_gauntcore_1h_voidgauntletFleshbound.cdf",
@@ -3632,7 +3728,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25081,
+        "ID": 25081,
         "WeaponID": "VoidGauntletFleshboundT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFleshbound/wep_mag_gauntcore_1h_voidgauntletFleshbound.cdf",
@@ -3648,7 +3744,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25082,
+        "ID": 25082,
         "WeaponID": "VoidGauntletFrozen_OrthoT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFrozen/wep_mag_gauntcore_1h_voidgauntletFrozen.cdf",
@@ -3664,7 +3760,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25083,
+        "ID": 25083,
         "WeaponID": "VoidGauntletFrozen_OrthoT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFrozen/wep_mag_gauntcore_1h_voidgauntletFrozen.cdf",
@@ -3680,7 +3776,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25084,
+        "ID": 25084,
         "WeaponID": "VoidGauntletFrozen_OrthoT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFrozen/wep_mag_gauntcore_1h_voidgauntletFrozen.cdf",
@@ -3696,7 +3792,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25085,
+        "ID": 25085,
         "WeaponID": "VoidGauntletFrozen_OrthoT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFrozen/wep_mag_gauntcore_1h_voidgauntletFrozen.cdf",
@@ -3712,7 +3808,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25086,
+        "ID": 25086,
         "WeaponID": "VoidGauntletAncestral_OrthoT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletAncestral/wep_mag_gauntcore_1h_voidgauntletAncestral.cdf",
@@ -3728,7 +3824,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25087,
+        "ID": 25087,
         "WeaponID": "VoidGauntletAncestral_OrthoT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletAncestral/wep_mag_gauntcore_1h_voidgauntletAncestral.cdf",
@@ -3744,7 +3840,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25088,
+        "ID": 25088,
         "WeaponID": "VoidGauntletAncestral_OrthoT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletAncestral/wep_mag_gauntcore_1h_voidgauntletAncestral.cdf",
@@ -3760,7 +3856,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25089,
+        "ID": 25089,
         "WeaponID": "VoidGauntletAncestral_OrthoT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletAncestral/wep_mag_gauntcore_1h_voidgauntletAncestral.cdf",
@@ -3776,7 +3872,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25090,
+        "ID": 25090,
         "WeaponID": "VoidGauntletFanatic_OrthoT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFanatic/wep_mag_gauntcore_1h_voidgauntletFanatic.cdf",
@@ -3792,7 +3888,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25091,
+        "ID": 25091,
         "WeaponID": "VoidGauntletFanatic_OrthoT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFanatic/wep_mag_gauntcore_1h_voidgauntletFanatic.cdf",
@@ -3808,7 +3904,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25092,
+        "ID": 25092,
         "WeaponID": "VoidGauntletFanatic_OrthoT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFanatic/wep_mag_gauntcore_1h_voidgauntletFanatic.cdf",
@@ -3824,7 +3920,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25093,
+        "ID": 25093,
         "WeaponID": "VoidGauntletFanatic_OrthoT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFanatic/wep_mag_gauntcore_1h_voidgauntletFanatic.cdf",
@@ -3840,7 +3936,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25094,
+        "ID": 25094,
         "WeaponID": "VoidGauntletInvasionT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletInvasion/wep_mag_gauntcore_1h_voidgauntletInvasion.cdf",
@@ -3856,7 +3952,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25095,
+        "ID": 25095,
         "WeaponID": "VoidGauntletInvasionT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletInvasion/wep_mag_gauntcore_1h_voidgauntletInvasion.cdf",
@@ -3872,7 +3968,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25096,
+        "ID": 25096,
         "WeaponID": "VoidGauntletInvasionT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletInvasion/wep_mag_gauntcore_1h_voidgauntletInvasion.cdf",
@@ -3888,7 +3984,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25097,
+        "ID": 25097,
         "WeaponID": "VoidGauntletInvasionT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletInvasion/wep_mag_gauntcore_1h_voidgauntletInvasion.cdf",
@@ -3904,7 +4000,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25098,
+        "ID": 25098,
         "WeaponID": "VoidGauntletSylvan_OrthoT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSylvan/wep_mag_gauntcore_1h_voidgauntletSylvan.cdf",
@@ -3920,7 +4016,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25099,
+        "ID": 25099,
         "WeaponID": "VoidGauntletSylvan_OrthoT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSylvan/wep_mag_gauntcore_1h_voidgauntletSylvan.cdf",
@@ -3936,7 +4032,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25100,
+        "ID": 25100,
         "WeaponID": "VoidGauntletSylvan_OrthoT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSylvan/wep_mag_gauntcore_1h_voidgauntletSylvan.cdf",
@@ -3952,7 +4048,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25101,
+        "ID": 25101,
         "WeaponID": "VoidGauntletSylvan_OrthoT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSylvan/wep_mag_gauntcore_1h_voidgauntletSylvan.cdf",
@@ -3968,7 +4064,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25102,
+        "ID": 25102,
         "WeaponID": "VoidGauntletVariations_002T2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -3984,7 +4080,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25103,
+        "ID": 25103,
         "WeaponID": "VoidGauntletVariations_002T3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -4000,7 +4096,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25104,
+        "ID": 25104,
         "WeaponID": "VoidGauntletVariations_002T4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -4016,7 +4112,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25105,
+        "ID": 25105,
         "WeaponID": "VoidGauntletVariations_002T5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -4032,7 +4128,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25106,
+        "ID": 25106,
         "WeaponID": "VoidGauntletVariations_002BT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -4048,7 +4144,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25107,
+        "ID": 25107,
         "WeaponID": "VoidGauntletVariations_002BT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -4064,7 +4160,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25108,
+        "ID": 25108,
         "WeaponID": "VoidGauntletVariations_002BT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -4080,7 +4176,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25109,
+        "ID": 25109,
         "WeaponID": "VoidGauntletVariations_002BT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -4096,7 +4192,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25110,
+        "ID": 25110,
         "WeaponID": "VoidGauntletWaterloggedT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -4112,7 +4208,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25111,
+        "ID": 25111,
         "WeaponID": "VoidGauntletWaterloggedT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -4128,7 +4224,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25112,
+        "ID": 25112,
         "WeaponID": "VoidGauntletWaterloggedT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -4144,7 +4240,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25113,
+        "ID": 25113,
         "WeaponID": "VoidGauntletWaterloggedT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -4160,7 +4256,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25114,
+        "ID": 25114,
         "WeaponID": "VoidGauntletGraverobberT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletGraverobber/wep_mag_gauntcore_1h_voidgauntletGraverobber.cdf",
@@ -4176,7 +4272,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25115,
+        "ID": 25115,
         "WeaponID": "VoidGauntletGraverobberT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletGraverobberT3/wep_mag_gauntcore_1h_voidgauntletGraverobberT3.cdf",
@@ -4192,7 +4288,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25116,
+        "ID": 25116,
         "WeaponID": "VoidGauntletGraverobberT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletGraverobber/wep_mag_gauntcore_1h_voidgauntletGraverobber.cdf",
@@ -4208,7 +4304,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25117,
+        "ID": 25117,
         "WeaponID": "VoidGauntletGraverobberT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletGraverobber/wep_mag_gauntcore_1h_voidgauntletGraverobber.cdf",
@@ -4224,7 +4320,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25118,
+        "ID": 25118,
         "WeaponID": "VoidGauntletGuardian_OrthosT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletHarbinger/wep_mag_gauntcore_1h_voidgauntletHarbinger.cdf",
@@ -4240,7 +4336,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25119,
+        "ID": 25119,
         "WeaponID": "VoidGauntletGuardian_OrthosT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletHarbinger/wep_mag_gauntcore_1h_voidgauntletHarbinger.cdf",
@@ -4256,7 +4352,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25120,
+        "ID": 25120,
         "WeaponID": "VoidGauntletGuardian_OrthosT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletHarbinger/wep_mag_gauntcore_1h_voidgauntletHarbinger.cdf",
@@ -4272,7 +4368,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25121,
+        "ID": 25121,
         "WeaponID": "VoidGauntletGuardian_OrthosT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletHarbinger/wep_mag_gauntcore_1h_voidgauntletHarbinger.cdf",
@@ -4288,7 +4384,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25122,
+        "ID": 25122,
         "WeaponID": "VoidGauntletHeroicsT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletHeroic/wep_mag_gauntcore_1h_voidgauntletHeroic.cdf",
@@ -4304,7 +4400,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25123,
+        "ID": 25123,
         "WeaponID": "VoidGauntletHeroicsT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletHeroic/wep_mag_gauntcore_1h_voidgauntletHeroic.cdf",
@@ -4320,7 +4416,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25124,
+        "ID": 25124,
         "WeaponID": "VoidGauntletHeroicsT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletHeroic/wep_mag_gauntcore_1h_voidgauntletHeroic.cdf",
@@ -4336,7 +4432,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25125,
+        "ID": 25125,
         "WeaponID": "VoidGauntletHeroicsT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletHeroic/wep_mag_gauntcore_1h_voidgauntletHeroic.cdf",
@@ -4352,7 +4448,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25126,
+        "ID": 25126,
         "WeaponID": "VoidGauntletIsabellaT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletIsabella/wep_mag_gauntcore_1h_voidgauntletIsabella.cdf",
@@ -4368,7 +4464,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25127,
+        "ID": 25127,
         "WeaponID": "VoidGauntletIsabellaT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletIsabella/wep_mag_gauntcore_1h_voidgauntletIsabella.cdf",
@@ -4384,7 +4480,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25128,
+        "ID": 25128,
         "WeaponID": "VoidGauntletIsabellaT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletIsabella/wep_mag_gauntcore_1h_voidgauntletIsabella.cdf",
@@ -4400,7 +4496,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25129,
+        "ID": 25129,
         "WeaponID": "VoidGauntletIsabellaT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletIsabella/wep_mag_gauntcore_1h_voidgauntletIsabella.cdf",
@@ -4416,7 +4512,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25130,
+        "ID": 25130,
         "WeaponID": "VoidGauntletMossborneT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletMossborne/wep_mag_gauntcore_1h_voidgauntletMossborne.cdf",
@@ -4432,7 +4528,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25131,
+        "ID": 25131,
         "WeaponID": "VoidGauntletMossborneT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletMossborne/wep_mag_gauntcore_1h_voidgauntletMossborne.cdf",
@@ -4448,7 +4544,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25132,
+        "ID": 25132,
         "WeaponID": "VoidGauntletMossborneT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletMossborne/wep_mag_gauntcore_1h_voidgauntletMossborne.cdf",
@@ -4464,7 +4560,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25133,
+        "ID": 25133,
         "WeaponID": "VoidGauntletMossborneT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletMossborne/wep_mag_gauntcore_1h_voidgauntletMossborne.cdf",
@@ -4480,7 +4576,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25134,
+        "ID": 25134,
         "WeaponID": "VoidGauntletNaga_AncientGuardianT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaAncientGuardian/wep_mag_gauntcore_1h_voidgauntletNagaAncientGuardian.cdf",
@@ -4496,7 +4592,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25135,
+        "ID": 25135,
         "WeaponID": "VoidGauntletNaga_AncientGuardianT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaAncientGuardian/wep_mag_gauntcore_1h_voidgauntletNagaAncientGuardian.cdf",
@@ -4512,7 +4608,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25136,
+        "ID": 25136,
         "WeaponID": "VoidGauntletNaga_AncientGuardianT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaAncientGuardian/wep_mag_gauntcore_1h_voidgauntletNagaAncientGuardian.cdf",
@@ -4528,7 +4624,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25137,
+        "ID": 25137,
         "WeaponID": "VoidGauntletNaga_AncientGuardianT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaAncientGuardian/wep_mag_gauntcore_1h_voidgauntletNagaAncientGuardian.cdf",
@@ -4544,7 +4640,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25138,
+        "ID": 25138,
         "WeaponID": "VoidGauntletNaga_AngryEarthT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaAngryEarth/wep_mag_gauntcore_1h_voidgauntletNagaAngryEarth.cdf",
@@ -4560,7 +4656,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25139,
+        "ID": 25139,
         "WeaponID": "VoidGauntletNaga_AngryEarthT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaAngryEarth/wep_mag_gauntcore_1h_voidgauntletNagaAngryEarth.cdf",
@@ -4576,7 +4672,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25140,
+        "ID": 25140,
         "WeaponID": "VoidGauntletNaga_AngryEarthT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaAngryEarth/wep_mag_gauntcore_1h_voidgauntletNagaAngryEarth.cdf",
@@ -4592,7 +4688,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25141,
+        "ID": 25141,
         "WeaponID": "VoidGauntletNaga_AngryEarthT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaAngryEarth/wep_mag_gauntcore_1h_voidgauntletNagaAngryEarth.cdf",
@@ -4608,7 +4704,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25142,
+        "ID": 25142,
         "WeaponID": "VoidGauntletNaga_WitheredT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaWithered/wep_mag_gauntcore_1h_voidgauntletNagaWithered.cdf",
@@ -4624,7 +4720,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25143,
+        "ID": 25143,
         "WeaponID": "VoidGauntletNaga_WitheredT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaWithered/wep_mag_gauntcore_1h_voidgauntletNagaWithered.cdf",
@@ -4640,7 +4736,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25144,
+        "ID": 25144,
         "WeaponID": "VoidGauntletNaga_WitheredT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaWithered/wep_mag_gauntcore_1h_voidgauntletNagaWithered.cdf",
@@ -4656,7 +4752,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25145,
+        "ID": 25145,
         "WeaponID": "VoidGauntletNaga_WitheredT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaWithered/wep_mag_gauntcore_1h_voidgauntletNagaWithered.cdf",
@@ -4672,7 +4768,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25146,
+        "ID": 25146,
         "WeaponID": "VoidGauntletNaga_CorruptedT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaCorrupted/wep_mag_gauntcore_1h_voidgauntletNagaCorrupted.cdf",
@@ -4688,7 +4784,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25147,
+        "ID": 25147,
         "WeaponID": "VoidGauntletNaga_CorruptedT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaCorrupted/wep_mag_gauntcore_1h_voidgauntletNagaCorrupted.cdf",
@@ -4704,7 +4800,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25148,
+        "ID": 25148,
         "WeaponID": "VoidGauntletNaga_CorruptedT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaCorrupted/wep_mag_gauntcore_1h_voidgauntletNagaCorrupted.cdf",
@@ -4720,7 +4816,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25149,
+        "ID": 25149,
         "WeaponID": "VoidGauntletNaga_CorruptedT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaCorrupted/wep_mag_gauntcore_1h_voidgauntletNagaCorrupted.cdf",
@@ -4736,7 +4832,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25150,
+        "ID": 25150,
         "WeaponID": "VoidGauntletPrimevalT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletPrimeval/wep_mag_gauntcore_1h_voidgauntletPrimeval.cdf",
@@ -4752,7 +4848,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25151,
+        "ID": 25151,
         "WeaponID": "VoidGauntletPrimevalT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletPrimeval/wep_mag_gauntcore_1h_voidgauntletPrimeval.cdf",
@@ -4768,7 +4864,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25152,
+        "ID": 25152,
         "WeaponID": "VoidGauntletPrimevalT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletPrimeval/wep_mag_gauntcore_1h_voidgauntletPrimeval.cdf",
@@ -4784,7 +4880,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25153,
+        "ID": 25153,
         "WeaponID": "VoidGauntletPrimevalT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletPrimeval/wep_mag_gauntcore_1h_voidgauntletPrimeval.cdf",
@@ -4800,7 +4896,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25154,
+        "ID": 25154,
         "WeaponID": "VoidGauntletTempleT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletTemple/wep_mag_gauntcore_1h_voidgauntletTemple.cdf",
@@ -4816,7 +4912,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25155,
+        "ID": 25155,
         "WeaponID": "VoidGauntletTempleT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletTemple/wep_mag_gauntcore_1h_voidgauntletTemple.cdf",
@@ -4832,7 +4928,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25156,
+        "ID": 25156,
         "WeaponID": "VoidGauntletTempleT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletTemple/wep_mag_gauntcore_1h_voidgauntletTemple.cdf",
@@ -4848,7 +4944,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25157,
+        "ID": 25157,
         "WeaponID": "VoidGauntletTempleT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletTemple/wep_mag_gauntcore_1h_voidgauntletTemple.cdf",
@@ -4864,7 +4960,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25158,
+        "ID": 25158,
         "WeaponID": "VoidGauntletWarT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletwar/wep_mag_gauntcore_1h_voidgauntletWar.cdf",
@@ -4880,7 +4976,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25159,
+        "ID": 25159,
         "WeaponID": "VoidGauntletWarT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletwar/wep_mag_gauntcore_1h_voidgauntletWar.cdf",
@@ -4896,7 +4992,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25160,
+        "ID": 25160,
         "WeaponID": "VoidGauntletWarT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletwar/wep_mag_gauntcore_1h_voidgauntletWar.cdf",
@@ -4912,7 +5008,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25161,
+        "ID": 25161,
         "WeaponID": "VoidGauntletWarT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletwar/wep_mag_gauntcore_1h_voidgauntletWar.cdf",
@@ -4928,7 +5024,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25162,
+        "ID": 25162,
         "WeaponID": "VoidGauntletWickedT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWicked/wep_mag_gauntcore_1h_voidgauntletWicked.cdf",
@@ -4944,7 +5040,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25163,
+        "ID": 25163,
         "WeaponID": "VoidGauntletWickedT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWicked/wep_mag_gauntcore_1h_voidgauntletWicked.cdf",
@@ -4960,7 +5056,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25164,
+        "ID": 25164,
         "WeaponID": "VoidGauntletWickedT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWicked/wep_mag_gauntcore_1h_voidgauntletWicked.cdf",
@@ -4976,7 +5072,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25165,
+        "ID": 25165,
         "WeaponID": "VoidGauntletWickedT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWicked/wep_mag_gauntcore_1h_voidgauntletWicked.cdf",
@@ -4992,7 +5088,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25166,
+        "ID": 25166,
         "WeaponID": "VoidGauntletWraithHunerT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWraithHunter/wep_mag_gauntcore_1h_voidgauntletWraithHunter.cdf",
@@ -5008,7 +5104,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25167,
+        "ID": 25167,
         "WeaponID": "VoidGauntletWraithHunerT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWraithHunter/wep_mag_gauntcore_1h_voidgauntletWraithHunter.cdf",
@@ -5024,7 +5120,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25168,
+        "ID": 25168,
         "WeaponID": "VoidGauntletWraithHunerT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWraithHunter/wep_mag_gauntcore_1h_voidgauntletWraithHunter.cdf",
@@ -5040,7 +5136,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25169,
+        "ID": 25169,
         "WeaponID": "VoidGauntletWraithHunerT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWraithHunter/wep_mag_gauntcore_1h_voidgauntletWraithHunter.cdf",
@@ -5056,7 +5152,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25170,
+        "ID": 25170,
         "WeaponID": "VoidGauntletDynastyRT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -5072,7 +5168,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25171,
+        "ID": 25171,
         "WeaponID": "VoidGauntletDynastyRT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -5088,7 +5184,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25172,
+        "ID": 25172,
         "WeaponID": "VoidGauntletDynastyRT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -5104,7 +5200,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25173,
+        "ID": 25173,
         "WeaponID": "VoidGauntletDynastyRT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5120,7 +5216,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25174,
+        "ID": 25174,
         "WeaponID": "VoidGauntletDynastyBT2",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT2/wep_mag_gauntcore_1h_gauntletVoidT2.cdf",
@@ -5136,7 +5232,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25175,
+        "ID": 25175,
         "WeaponID": "VoidGauntletDynastyBT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT3/wep_mag_gauntcore_1h_gauntletVoidT3.cdf",
@@ -5152,7 +5248,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25176,
+        "ID": 25176,
         "WeaponID": "VoidGauntletDynastyBT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT4/wep_mag_gauntcore_1h_gauntletVoidT4.cdf",
@@ -5168,7 +5264,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25177,
+        "ID": 25177,
         "WeaponID": "VoidGauntletDynastyBT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5184,7 +5280,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25178,
+        "ID": 25178,
         "WeaponID": "1hVoidgauntletDynasty_VR",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5200,7 +5296,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25179,
+        "ID": 25179,
         "WeaponID": "1hVoidgauntletDynasty_VB",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5216,7 +5312,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25180,
+        "ID": 25180,
         "WeaponID": "1hVoidGauntletOutpostT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5232,7 +5328,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25181,
+        "ID": 25181,
         "WeaponID": "1hVoidGauntletWaterloggedSiren",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWaterlogged/wep_mag_gauntcore_1h_voidgauntletWaterlogged.cdf",
@@ -5248,7 +5344,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25182,
+        "ID": 25182,
         "WeaponID": "1hVoidGauntletWaterloggedSirenS",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWaterlogged/wep_mag_gauntcore_1h_voidgauntletWaterlogged.cdf",
@@ -5264,7 +5360,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25183,
+        "ID": 25183,
         "WeaponID": "1hvoidgauntletShatteredObelisk",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5280,7 +5376,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25184,
+        "ID": 25184,
         "WeaponID": "1hVoidGauntletPrimevalInvasion ",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5296,7 +5392,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25185,
+        "ID": 25185,
         "WeaponID": "1hvoidgauntletSylvanArena",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWaterlogged/wep_mag_gauntcore_1h_voidgauntletWaterlogged.cdf",
@@ -5312,7 +5408,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25186,
+        "ID": 25186,
         "WeaponID": "VoidGauntlet_SylvanRecolor3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWaterlogged/wep_mag_gauntcore_1h_voidgauntletWaterlogged.cdf",
@@ -5328,7 +5424,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25187,
+        "ID": 25187,
         "WeaponID": "2hVoidGauntletEvilKnightT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5344,7 +5440,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25188,
+        "ID": 25188,
         "WeaponID": "2hVoidGauntletEvilKnightT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5360,7 +5456,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25189,
+        "ID": 25189,
         "WeaponID": "2hVoidGauntletAncestralLLT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5376,7 +5472,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25190,
+        "ID": 25190,
         "WeaponID": "2hVoidGauntletMossborneGoGT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5392,7 +5488,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25192,
+        "ID": 25192,
         "WeaponID": "1hVoidgauntletWar",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletwar/wep_mag_gauntcore_1h_voidgauntletWar.cdf",
@@ -5408,7 +5504,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25193,
+        "ID": 25193,
         "WeaponID": "2hVoidGauntletBreachT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletBreach/wep_mag_gauntcore_1h_voidgauntletBreach.cdf",
@@ -5424,7 +5520,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25194,
+        "ID": 25194,
         "WeaponID": "2hVoidGauntletInvasionT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletInvasion/wep_mag_gauntcore_1h_voidgauntletInvasion.cdf",
@@ -5440,7 +5536,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25195,
+        "ID": 25195,
         "WeaponID": "2hVoidGauntletPrimevalT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletPrimeval/wep_mag_gauntcore_1h_voidgauntletPrimeval.cdf",
@@ -5456,7 +5552,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25196,
+        "ID": 25196,
         "WeaponID": "2hVoidGauntletAncestralT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletAncestral/wep_mag_gauntcore_1h_voidgauntletAncestral.cdf",
@@ -5472,7 +5568,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25197,
+        "ID": 25197,
         "WeaponID": "2hVoidGauntletWraithHunterT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWraithHunter/wep_mag_gauntcore_1h_voidgauntletWraithHunter.cdf",
@@ -5488,7 +5584,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25198,
+        "ID": 25198,
         "WeaponID": "2hVoidGauntletDefiledT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletdefiled/wep_mag_gauntcore_1h_voidgauntletdefiled.cdf",
@@ -5504,7 +5600,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25199,
+        "ID": 25199,
         "WeaponID": "2hVoidGauntletFanaticT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFanatic/wep_mag_gauntcore_1h_voidgauntletFanatic.cdf",
@@ -5520,7 +5616,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25200,
+        "ID": 25200,
         "WeaponID": "1hVoidGauntletNagaAncientGuardianT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaAncientGuardian/wep_mag_gauntcore_1h_voidgauntletNagaAncientGuardian.cdf",
@@ -5536,7 +5632,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25201,
+        "ID": 25201,
         "WeaponID": "2hVoidGauntletNagaCorruptedT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaCorrupted/wep_mag_gauntcore_1h_voidgauntletNagaCorrupted.cdf",
@@ -5552,7 +5648,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25202,
+        "ID": 25202,
         "WeaponID": "2hVoidGauntletHeroicT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletHeroic/wep_mag_gauntcore_1h_voidgauntletHeroic.cdf",
@@ -5568,7 +5664,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25203,
+        "ID": 25203,
         "WeaponID": "2hVoidGauntletIsabellaT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletIsabella/wep_mag_gauntcore_1h_voidgauntletIsabella.cdf",
@@ -5584,7 +5680,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25204,
+        "ID": 25204,
         "WeaponID": "1hvoidgauntletGraverobberT3",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletGraverobberT3/wep_mag_gauntcore_1h_voidgauntletGraverobberT3.cdf",
@@ -5600,7 +5696,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25205,
+        "ID": 25205,
         "WeaponID": "1hvoidgauntletGraverobberT4",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletGraverobber/wep_mag_gauntcore_1h_voidgauntletGraverobber.cdf",
@@ -5616,7 +5712,11 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 25206,
+=======
+        "ID": 25206,
+>>>>>>> PTR
         "WeaponID": "1hvoidgauntletGraverobberT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletGraverobber/wep_mag_gauntcore_1h_voidgauntletGraverobber.cdf",
@@ -5632,7 +5732,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25207,
+        "ID": 25207,
         "WeaponID": "2hVoidGauntletHarbingerT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletHarbinger/wep_mag_gauntcore_1h_voidgauntletHarbinger.cdf",
@@ -5648,7 +5748,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25208,
+        "ID": 25208,
         "WeaponID": "2hVoidGauntletSylvanT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSylvan/wep_mag_gauntcore_1h_voidgauntletSylvan.cdf",
@@ -5664,7 +5764,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25209,
+        "ID": 25209,
         "WeaponID": "2hVoidGauntletWickedT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWicked/wep_mag_gauntcore_1h_voidgauntletWicked.cdf",
@@ -5680,7 +5780,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25212,
+        "ID": 25212,
         "WeaponID": "2hVoidGauntletCrystallineT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletCrystalline/wep_mag_gauntcore_1h_voidgauntletCrystalline.cdf",
@@ -5696,7 +5796,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25213,
+        "ID": 25213,
         "WeaponID": "2hVoidGauntletDryadT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDryad/wep_mag_gauntcore_1h_voidgauntletDryad.cdf",
@@ -5712,7 +5812,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25214,
+        "ID": 25214,
         "WeaponID": "2hVoidGauntletRoyalcourtT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5728,7 +5828,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25215,
+        "ID": 25215,
         "WeaponID": "1hVoidGauntletClassicMonster",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletClassicMonster/wep_mag_gauntcore_1h_voidgauntletClassicMonster.cdf",
@@ -5744,7 +5844,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25216,
+        "ID": 25216,
         "WeaponID": "2hVoidGauntletDominusT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDominus/wep_mag_gauntcore_1h_voidgauntletDominus.cdf",
@@ -5760,7 +5860,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25217,
+        "ID": 25217,
         "WeaponID": "2hVoidGauntletArchosT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletarchos/wep_mag_gauntcore_1h_voidgauntletarchos.cdf",
@@ -5776,7 +5876,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25218,
+        "ID": 25218,
         "WeaponID": "2hVoidGauntletFleshboundT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFleshbound/wep_mag_gauntcore_1h_voidgauntletFleshbound.cdf",
@@ -5792,7 +5892,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25219,
+        "ID": 25219,
         "WeaponID": "2hVoidGauntletEmpoweredT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletEmpowered/wep_mag_gauntcore_1h_voidgauntletEmpowered.cdf",
@@ -5808,7 +5908,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25220,
+        "ID": 25220,
         "WeaponID": "2hVoidGauntletAncientBT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletAncient/wep_mag_gauntcore_1h_voidgauntletAncient.cdf",
@@ -5824,7 +5924,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25221,
+        "ID": 25221,
         "WeaponID": "2hVoidGauntletLunarT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidGauntletLunar/wep_mag_gauntcore_1h_voidgauntletlunar.cdf",
@@ -5840,7 +5940,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25222,
+        "ID": 25222,
         "WeaponID": "2hVoidGauntletNagaWitheredT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaWithered/wep_mag_gauntcore_1h_voidgauntletNagaWithered.cdf",
@@ -5856,7 +5956,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25223,
+        "ID": 25223,
         "WeaponID": "2hVoidGauntletFrozenT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFrozen/wep_mag_gauntcore_1h_voidgauntletFrozen.cdf",
@@ -5872,7 +5972,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25224,
+        "ID": 25224,
         "WeaponID": "2hVoidGauntletMyrkgardT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletMyrkgard/wep_mag_gauntcore_1h_voidgauntletMyrkgard.cdf",
@@ -5888,7 +5988,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25225,
+        "ID": 25225,
         "WeaponID": "2hVoidGauntletWraithHunterHellfireT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWraithHunter/wep_mag_gauntcore_1h_voidgauntletWraithHunter.cdf",
@@ -5904,7 +6004,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25226,
+        "ID": 25226,
         "WeaponID": "2hVoidGauntletWraithHunterEternalT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWraithHunter/wep_mag_gauntcore_1h_voidgauntletWraithHunter.cdf",
@@ -5920,7 +6020,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25227,
+        "ID": 25227,
         "WeaponID": "2hVoidGauntletWraithHunterOvergrownT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWraithHunter/wep_mag_gauntcore_1h_voidgauntletWraithHunter.cdf",
@@ -5936,7 +6036,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25228,
+        "ID": 25228,
         "WeaponID": "2hVoidGauntletWraithHunterIceboundT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWraithHunter/wep_mag_gauntcore_1h_voidgauntletWraithHunter.cdf",
@@ -5952,7 +6052,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25229,
+        "ID": 25229,
         "WeaponID": "2hVoidGauntletValentinesT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -5968,7 +6068,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25232,
+        "ID": 25232,
         "WeaponID": "2hVoidGauntletCrystallinePVPBT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletCrystallinePVPB/wep_mag_gauntcore_1h_voidgauntletCrystallinePVPB.cdf",
@@ -5984,7 +6084,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25233,
+        "ID": 25233,
         "WeaponID": "2hVoidGauntletCrystallinePVPPT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletCrystallinePVPP/wep_mag_gauntcore_1h_voidgauntletCrystallinePVPP.cdf",
@@ -6000,7 +6100,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25234,
+        "ID": 25234,
         "WeaponID": "2hVoidGauntletCrystallinePVPB2T5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletCrystallinePVPB2/wep_mag_gauntcore_1h_voidgauntletCrystallinePVPB2.cdf",
@@ -6016,7 +6116,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25235,
+        "ID": 25235,
         "WeaponID": "2hVoidGauntletCrystallinePVPP2T5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletCrystallinePVPP2/wep_mag_gauntcore_1h_voidgauntletCrystallinePVPP2.cdf",
@@ -6032,7 +6132,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25236,
+        "ID": 25236,
         "WeaponID": "2hVoidGauntletMossborneT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletMossborne/wep_mag_gauntcore_1h_voidgauntletMossborne.cdf",
@@ -6048,7 +6148,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25237,
+        "ID": 25237,
         "WeaponID": "2hVoidGauntletAngelsDemonsT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletAngelsDemons/wep_mag_gauntcore_1h_voidgauntletAngelsDemons.cdf",
@@ -6064,7 +6164,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25240,
+        "ID": 25240,
         "WeaponID": "2hVoidGauntletStormboundT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/magic/gauntletcore/1h/voidgauntletStormbound/wep_mag_gauntcore_1h_voidgauntletStormbound.cdf",
@@ -6080,7 +6180,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25241,
+        "ID": 25241,
         "WeaponID": "2hVoidGauntletGuardianBT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletHarbinger/wep_mag_gauntcore_1h_voidgauntletHarbinger.cdf",
@@ -6096,7 +6196,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25242,
+        "ID": 25242,
         "WeaponID": "2hVoidGauntletFateFortuneT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFateFortune/wep_mag_gauntcore_1h_voidgauntletFateFortune.cdf",
@@ -6112,7 +6212,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25244,
+        "ID": 25244,
         "WeaponID": "2hVoidGauntletSilentDeathT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSilentDeath/wep_mag_gauntcore_1h_voidgauntletSilentDeath.cdf",
@@ -6128,7 +6228,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25245,
+        "ID": 25245,
         "WeaponID": "2hVoidGauntletNagaCorruptedMTRT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletNagaCorrupted/wep_mag_gauntcore_1h_voidgauntletNagaCorrupted.cdf",
@@ -6144,7 +6244,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25246,
+        "ID": 25246,
         "WeaponID": "2hVoidGauntletMetalFestivalT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletMetalFestival/wep_mag_gauntcore_1h_voidgauntletMetalFestival.cdf",
@@ -6160,7 +6260,11 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 25247,
+=======
+        "ID": 25247,
+>>>>>>> PTR
         "WeaponID": "1hvoidgauntletGraverobberBrimstoneT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletGraverobber/wep_mag_gauntcore_1h_voidgauntletGraverobber.cdf",
@@ -6176,7 +6280,11 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 25248,
+=======
+        "ID": 25248,
+>>>>>>> PTR
         "WeaponID": "1hVoidGauntletEgyptianGodsT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletEgyptianGods/wep_mag_gauntcore_1h_voidgauntletEgyptianGods.cdf",
@@ -6192,7 +6300,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25251,
+        "ID": 25250,
         "WeaponID": "2hVoidGauntletNightveilT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/Magic/gauntletcore/1h/voidgauntletnightveil/wep_mag_gauntcore_1h_voidgauntletnightveil.cdf",
@@ -6208,7 +6316,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25252,
+        "ID": 25251,
         "WeaponID": "2hVoidGauntletBFNW2T5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/Magic/gauntletcore/1h/voidgauntletBFNW/wep_mag_gauntcore_1h_voidgauntletBFNW.cdf",
@@ -6224,7 +6332,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25253,
+        "ID": 25252,
         "WeaponID": "1hVoidGauntletWinterConvergenceT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletWinterConvergence/wep_mag_gauntcore_1h_voidgauntletWinterConvergence.cdf",
@@ -6240,7 +6348,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25254,
+        "ID": 25253,
         "WeaponID": "2hVoidGauntletCondemedSacrariumT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/Magic/GauntletCore/1h/VoidgauntletEmpyreanForge/wep_mag_gauntcore_1h_VoidgauntletEmpyreanForge.cdf",
@@ -6256,7 +6364,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25255,
+        "ID": 25254,
         "WeaponID": "2hVoidGauntletVarangianKnightsV3T5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/gauntletVoidT5/wep_mag_gauntcore_1h_gauntletVoidT5.cdf",
@@ -6272,7 +6380,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25257,
+        "ID": 25256,
         "WeaponID": "2hVoidGauntletUnholyDepthsFireT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/GauntletCore/1h/voidgauntletUnholyDepthsFire/wep_mag_gauntcore_1h_voidgauntletunholydepthsfire.cdf",
@@ -6288,7 +6396,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25258,
+        "ID": 25257,
         "WeaponID": "2hVoidGauntletFirelightT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "objects/weapons/Magic/gauntletcore/1h/voidgauntletFirelight/wep_mag_gauntcore_1h_voidgauntletFirelight.cdf",
@@ -6304,7 +6412,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25259,
+        "ID": 25258,
         "WeaponID": "QuestReward_MSQ2_BW_VoidGauntlet",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/GauntletCore/1h/voidgauntletUnholyDepthsFire/wep_mag_gauntcore_1h_voidgauntletunholydepthsfire.cdf",
@@ -6320,7 +6428,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25260,
+        "ID": 25259,
         "WeaponID": "QuestReward_WF_BOW",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/GauntletCore/1h/voidgauntletUnholyDepthsFire/wep_mag_gauntcore_1h_voidgauntletunholydepthsfire.cdf",
@@ -6336,7 +6444,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25261,
+        "ID": 25260,
         "WeaponID": "Playtest_Healer_GauntletVoid_T5_625",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/GauntletCore/1h/voidgauntletUnholyDepthsFire/wep_mag_gauntcore_1h_voidgauntletunholydepthsfire.cdf",
@@ -6352,12 +6460,18 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 25262,
+=======
+        "ID": 25261,
+>>>>>>> PTR
         "WeaponID": "2hVoidGauntletSandwormTrialsT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSandwormTrials/wep_mag_gauntcore_1h_voidgauntletSandwormTrials.cdf",
         "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSandwormTrials/wep_mag_gauntcore_1h_voidgauntletSandwormTrials.skin",
         "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletSandwormTrials/wep_mag_gaunt_1h_voidgauntletSandwormTrials_matGroup.mtl",
+<<<<<<< HEAD
+=======
         "SkinOverride2": "",
         "MaterialOverride2": "",
         "SkinOverride3": "",
@@ -6368,7 +6482,7 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
-        "#": 25263,
+        "ID": 25262,
         "WeaponID": "2hVoidGauntletFrontierWastelandT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFrontierWastelander/wep_mag_gauntcore_1h_voidgauntletFrontierWastelander.cdf",
@@ -6384,12 +6498,63 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+        "ID": 25263,
+        "WeaponID": "2hVoidGauntletBabySandwormTrialsT5",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSandwormTrials/wep_mag_gauntcore_1h_voidgauntletSandwormTrials.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSandwormTrials/wep_mag_gauntcore_1h_voidgauntletSandwormTrials.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletSandwormTrials/wep_mag_gaunt_1h_voidgauntletSandwormTrials_matGroup.mtl",
+>>>>>>> PTR
+        "SkinOverride2": "",
+        "MaterialOverride2": "",
+        "SkinOverride3": "",
+        "MaterialOverride3": "",
+        "SkinOverride4": "",
+        "MaterialOverride4": "",
+        "EquipType": "Gauntlet",
+        "SheathMode": "ALWAYS_VISIBLE"
+    },
+    {
+<<<<<<< HEAD
+        "#": 25263,
+        "WeaponID": "2hVoidGauntletFrontierWastelandT5",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFrontierWastelander/wep_mag_gauntcore_1h_voidgauntletFrontierWastelander.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFrontierWastelander/wep_mag_gauntcore_1h_voidgauntletFrontierWastelander.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletFrontierWastelander/wep_mag_gaunt_1h_voidgauntletFrontierWastelander_matGroup.mtl",
+=======
+        "ID": 25264,
+        "WeaponID": "2hVoidGauntletCrystalClawT5",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/GauntletCore/1h/voidgauntletCrystalclaw/wep_mag_gauntcore_1h_voidgauntletCrystalclaw.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/GauntletCore/1h/voidgauntletCrystalclaw/wep_mag_gauntcore_1h_voidgauntletCrystalclaw.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletCrystalclaw/wep_mag_gaunt_1h_voidgauntletCrystalclaw_matGroup.mtl",
+>>>>>>> PTR
+        "SkinOverride2": "",
+        "MaterialOverride2": "",
+        "SkinOverride3": "",
+        "MaterialOverride3": "",
+        "SkinOverride4": "",
+        "MaterialOverride4": "",
+        "EquipType": "Gauntlet",
+        "SheathMode": "ALWAYS_VISIBLE"
+    },
+    {
+<<<<<<< HEAD
         "#": 25264,
         "WeaponID": "2hVoidGauntletBabySandwormTrialsT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSandwormTrials/wep_mag_gauntcore_1h_voidgauntletSandwormTrials.cdf",
         "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletSandwormTrials/wep_mag_gauntcore_1h_voidgauntletSandwormTrials.skin",
         "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletSandwormTrials/wep_mag_gaunt_1h_voidgauntletSandwormTrials_matGroup.mtl",
+=======
+        "ID": 25265,
+        "WeaponID": "2hVoidGauntletDeepSeaGothicT5",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDeepSeaCreatures/wep_mag_gauntcore_1h_voidgauntletDeepSeaCreatures.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDeepSeaCreatures/wep_mag_gauntcore_1h_voidgauntletDeepSeaCreatures.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletDeepSeaCreatures/wep_mag_gaunt_1h_voidgauntletDeepSeaCreatures_matGroup.mtl",
+>>>>>>> PTR
         "SkinOverride2": "",
         "MaterialOverride2": "",
         "SkinOverride3": "",
@@ -6400,12 +6565,21 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 25265,
         "WeaponID": "2hVoidGauntletCrystalClawT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/GauntletCore/1h/voidgauntletCrystalclaw/wep_mag_gauntcore_1h_voidgauntletCrystalclaw.cdf",
         "SkinOverride1": "Objects/Weapons/Magic/GauntletCore/1h/voidgauntletCrystalclaw/wep_mag_gauntcore_1h_voidgauntletCrystalclaw.skin",
         "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletCrystalclaw/wep_mag_gaunt_1h_voidgauntletCrystalclaw_matGroup.mtl",
+=======
+        "ID": 25266,
+        "WeaponID": "2hVoidGauntletFirstLightZoneT5",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFirstLightZone/wep_mag_gauntcore_1h_voidgauntletFirstLightZone.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFirstLightZone/wep_mag_gauntcore_1h_voidgauntletFirstLightZone.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletFirstLightZone/wep_mag_gaunt_1h_voidgauntletFirstLightZone_matGroup.mtl",
+>>>>>>> PTR
         "SkinOverride2": "",
         "MaterialOverride2": "",
         "SkinOverride3": "",
@@ -6416,12 +6590,21 @@
         "SheathMode": "ALWAYS_VISIBLE"
     },
     {
+<<<<<<< HEAD
         "#": 25266,
         "WeaponID": "2hVoidGauntletDeepSeaGothicT5",
         "PrefabPath": "Items/Weapons/weapon_accessory",
         "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDeepSeaCreatures/wep_mag_gauntcore_1h_voidgauntletDeepSeaCreatures.cdf",
         "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletDeepSeaCreatures/wep_mag_gauntcore_1h_voidgauntletDeepSeaCreatures.skin",
         "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletDeepSeaCreatures/wep_mag_gaunt_1h_voidgauntletDeepSeaCreatures_matGroup.mtl",
+=======
+        "ID": 25267,
+        "WeaponID": "2hVoidGauntletS3Artifacts",
+        "PrefabPath": "Items/Weapons/weapon_accessory",
+        "MeshOverride": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFirstLightZone/wep_mag_gauntcore_1h_voidgauntletFirstLightZone.cdf",
+        "SkinOverride1": "Objects/Weapons/Magic/gauntletcore/1h/voidgauntletFirstLightZone/wep_mag_gauntcore_1h_voidgauntletFirstLightZone.skin",
+        "MaterialOverride1": "Objects/Weapons/Magic/Gauntlets/1h/voidgauntletFirstLightZone/wep_mag_gaunt_1h_voidgauntletFirstLightZone_matGroup.mtl",
+>>>>>>> PTR
         "SkinOverride2": "",
         "MaterialOverride2": "",
         "SkinOverride3": "",

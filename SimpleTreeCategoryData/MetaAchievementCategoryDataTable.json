@@ -3,7 +3,7 @@
         "MetaAchievementCategoryId": "Summary",
         "Parent Category": "",
         "Index": 1,
-        "Title": "@ui_meta_achievements_summary",
+        "Title": "Summary",
         "Icon Color Background": "",
         "HideFromUI": null
     },
@@ -11,7 +11,7 @@
         "MetaAchievementCategoryId": "Completed_Achievements",
         "Parent Category": "",
         "Index": 2,
-        "Title": "@ui_meta_achievements_completed_achievements",
+        "Title": "Completed",
         "Icon Color Background": "",
         "HideFromUI": null
     },
@@ -19,7 +19,7 @@
         "MetaAchievementCategoryId": "PvE",
         "Parent Category": "",
         "Index": 3,
-        "Title": "@ui_meta_achievements_pve",
+        "Title": "PvE",
         "Icon Color Background": "",
         "HideFromUI": null
     },
@@ -27,7 +27,7 @@
         "MetaAchievementCategoryId": "Enemies_By_Type",
         "Parent Category": "PvE",
         "Index": 1,
-        "Title": "@ui_meta_achievements_enemies_by_type",
+        "Title": "Enemies by Type",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background01.dds",
         "HideFromUI": null
     },
@@ -35,7 +35,7 @@
         "MetaAchievementCategoryId": "Enemies_By_Name",
         "Parent Category": "PvE",
         "Index": 2,
-        "Title": "@ui_meta_achievements_enemies_by_name",
+        "Title": "Enemies by Name",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background01.dds",
         "HideFromUI": null
     },
@@ -43,7 +43,7 @@
         "MetaAchievementCategoryId": "Invasions_And_Breaches",
         "Parent Category": "PvE",
         "Index": 3,
-        "Title": "@ui_meta_achievements_invasions_and_breaches",
+        "Title": "Invasions \u0026amp; Breaches",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background01.dds",
         "HideFromUI": null
     },
@@ -51,7 +51,7 @@
         "MetaAchievementCategoryId": "PvE_Kill_Counts",
         "Parent Category": "PvE",
         "Index": 4,
-        "Title": "@ui_meta_achievements_kill_counts",
+        "Title": "Kills",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background01.dds",
         "HideFromUI": null
     },
@@ -59,7 +59,7 @@
         "MetaAchievementCategoryId": "Gathering",
         "Parent Category": "PvE",
         "Index": 5,
-        "Title": "@ui_meta_achievements_gathering",
+        "Title": "Gathering",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background01.dds",
         "HideFromUI": null
     },
@@ -67,7 +67,7 @@
         "MetaAchievementCategoryId": "Dungeon_Bosses",
         "Parent Category": "PvE",
         "Index": 6,
-        "Title": "@ui_meta_achievements_dungeon_bosses",
+        "Title": "Expedition Bosses",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background01.dds",
         "HideFromUI": null
     },
@@ -75,7 +75,7 @@
         "MetaAchievementCategoryId": "Arenas",
         "Parent Category": "PvE",
         "Index": 7,
-        "Title": "@ui_meta_achievements_arenas",
+        "Title": "Arenas",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background01.dds",
         "HideFromUI": null
     },
@@ -83,7 +83,7 @@
         "MetaAchievementCategoryId": "Dungeon_Runs",
         "Parent Category": "PvE",
         "Index": 8,
-        "Title": "@ui_meta_achievements_dungeon_runs",
+        "Title": "Expedition Runs",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background01.dds",
         "HideFromUI": null
     },
@@ -91,7 +91,7 @@
         "MetaAchievementCategoryId": "PvP",
         "Parent Category": "",
         "Index": 4,
-        "Title": "@ui_meta_achievements_pvp",
+        "Title": "PvP",
         "Icon Color Background": "",
         "HideFromUI": null
     },
@@ -99,7 +99,7 @@
         "MetaAchievementCategoryId": "Factions",
         "Parent Category": "PvP",
         "Index": 1,
-        "Title": "@ui_meta_achievements_factions",
+        "Title": "Factions",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background02.dds",
         "HideFromUI": null
     },
@@ -107,7 +107,7 @@
         "MetaAchievementCategoryId": "Duels",
         "Parent Category": "PvP",
         "Index": 2,
-        "Title": "@ui_meta_achievements_duels",
+        "Title": "Duels",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background02.dds",
         "HideFromUI": null
     },
@@ -115,7 +115,7 @@
         "MetaAchievementCategoryId": "Control_Points",
         "Parent Category": "PvP",
         "Index": 3,
-        "Title": "@ui_meta_achievements_control_points",
+        "Title": "Control Points",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background02.dds",
         "HideFromUI": null
     },
@@ -123,7 +123,7 @@
         "MetaAchievementCategoryId": "Wars",
         "Parent Category": "PvP",
         "Index": 4,
-        "Title": "@ui_meta_achievements_wars",
+        "Title": "Wars",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background02.dds",
         "HideFromUI": null
     },
@@ -131,7 +131,7 @@
         "MetaAchievementCategoryId": "Outpost_Rush",
         "Parent Category": "PvP",
         "Index": 5,
-        "Title": "@ui_meta_achievements_outpost_rush",
+        "Title": "Outpost Rush",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background02.dds",
         "HideFromUI": null
     },
@@ -139,7 +139,7 @@
         "MetaAchievementCategoryId": "PvP_Kill_Counts",
         "Parent Category": "PvP",
         "Index": 6,
-        "Title": "@ui_meta_achievements_kill_counts",
+        "Title": "Kills",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background02.dds",
         "HideFromUI": null
     },
@@ -147,7 +147,7 @@
         "MetaAchievementCategoryId": "PvP_Arenas",
         "Parent Category": "PvP",
         "Index": 7,
-        "Title": "@ui_meta_achievements_pvp_arenas",
+        "Title": "3v3 Arenas",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background02.dds",
         "HideFromUI": null
     },
@@ -155,7 +155,7 @@
         "MetaAchievementCategoryId": "PvP_Rewards_Track",
         "Parent Category": "PvP",
         "Index": 8,
-        "Title": "@ui_meta_achievements_pvp_rewards_track",
+        "Title": "PvP Rank",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background02.dds",
         "HideFromUI": null
     },
@@ -163,7 +163,7 @@
         "MetaAchievementCategoryId": "Quests",
         "Parent Category": "",
         "Index": 5,
-        "Title": "@ui_meta_achievements_quests",
+        "Title": "Quests",
         "Icon Color Background": "",
         "HideFromUI": null
     },
@@ -171,7 +171,7 @@
         "MetaAchievementCategoryId": "Territory_Stories",
         "Parent Category": "Quests",
         "Index": 1,
-        "Title": "@ui_meta_achievements_territory_stories",
+        "Title": "Territory Stories",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background03.dds",
         "HideFromUI": null
     },
@@ -179,7 +179,7 @@
         "MetaAchievementCategoryId": "Total_Completed",
         "Parent Category": "Quests",
         "Index": 2,
-        "Title": "@ui_meta_achievements_total_completed",
+        "Title": "Completed",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background03.dds",
         "HideFromUI": null
     },
@@ -187,7 +187,7 @@
         "MetaAchievementCategoryId": "Missions",
         "Parent Category": "",
         "Index": 6,
-        "Title": "@ui_meta_achievements_missions",
+        "Title": "Faction Missions",
         "Icon Color Background": "",
         "HideFromUI": null
     },
@@ -195,7 +195,7 @@
         "MetaAchievementCategoryId": "PvE_Skill_Based",
         "Parent Category": "Missions",
         "Index": 1,
-        "Title": "@ui_meta_achievements_pve_skill_based",
+        "Title": "PvE Hunt",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background04.dds",
         "HideFromUI": null
     },
@@ -203,7 +203,7 @@
         "MetaAchievementCategoryId": "PvE_Support",
         "Parent Category": "Missions",
         "Index": 2,
-        "Title": "@ui_meta_achievements_pve_support",
+        "Title": "PvE Support",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background04.dds",
         "HideFromUI": null
     },
@@ -211,7 +211,7 @@
         "MetaAchievementCategoryId": "PvE_By_Territory",
         "Parent Category": "Missions",
         "Index": 3,
-        "Title": "@ui_meta_achievements_pve_by_territory",
+        "Title": "PvE by Territory",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background04.dds",
         "HideFromUI": null
     },
@@ -219,7 +219,7 @@
         "MetaAchievementCategoryId": "PvP_Stir_The_Pot",
         "Parent Category": "Missions",
         "Index": 4,
-        "Title": "@ui_meta_achievements_pvp_stir_the_pot",
+        "Title": "PvP Missions",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background04.dds",
         "HideFromUI": null
     },
@@ -227,7 +227,7 @@
         "MetaAchievementCategoryId": "PvP_By_Territory",
         "Parent Category": "Missions",
         "Index": 5,
-        "Title": "@ui_meta_achievements_pvp_by_territory",
+        "Title": "PvP by Territory",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background04.dds",
         "HideFromUI": null
     },
@@ -235,7 +235,7 @@
         "MetaAchievementCategoryId": "Missions_Total",
         "Parent Category": "Missions",
         "Index": 6,
-        "Title": "@ui_meta_achievements_mission_total_count",
+        "Title": "Completed",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background04.dds",
         "HideFromUI": null
     },
@@ -243,7 +243,7 @@
         "MetaAchievementCategoryId": "Progression",
         "Parent Category": "",
         "Index": 7,
-        "Title": "@ui_meta_achievements_progression",
+        "Title": "Progression",
         "Icon Color Background": "",
         "HideFromUI": null
     },
@@ -251,7 +251,7 @@
         "MetaAchievementCategoryId": "Overall",
         "Parent Category": "Progression",
         "Index": 1,
-        "Title": "@ui_meta_achievements_overall",
+        "Title": "Character",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background05.dds",
         "HideFromUI": null
     },
@@ -259,7 +259,7 @@
         "MetaAchievementCategoryId": "Skill_Levels",
         "Parent Category": "Progression",
         "Index": 2,
-        "Title": "@ui_meta_achievements_skill_levels",
+        "Title": "Trade Skills",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background05.dds",
         "HideFromUI": null
     },
@@ -267,7 +267,7 @@
         "MetaAchievementCategoryId": "Gear_Bonuses",
         "Parent Category": "Progression",
         "Index": 3,
-        "Title": "@ui_meta_achievements_gear_bonuses",
+        "Title": "Equipment",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background05.dds",
         "HideFromUI": null
     },
@@ -275,7 +275,7 @@
         "MetaAchievementCategoryId": "Housing",
         "Parent Category": "Progression",
         "Index": 4,
-        "Title": "@ui_meta_achievements_housing",
+        "Title": "Housing",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background05.dds",
         "HideFromUI": null
     },
@@ -283,7 +283,7 @@
         "MetaAchievementCategoryId": "Territory_Standing",
         "Parent Category": "Progression",
         "Index": 5,
-        "Title": "@ui_meta_achievements_territory_standing",
+        "Title": "Territories",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background05.dds",
         "HideFromUI": null
     },
@@ -291,7 +291,7 @@
         "MetaAchievementCategoryId": "Faction_Ranking",
         "Parent Category": "Progression",
         "Index": 6,
-        "Title": "@ui_meta_achievements_faction_ranking",
+        "Title": "Factions",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background05.dds",
         "HideFromUI": null
     },
@@ -299,7 +299,7 @@
         "MetaAchievementCategoryId": "Weapon_Mastery",
         "Parent Category": "Progression",
         "Index": 7,
-        "Title": "@ui_meta_achievements_weapon_mastery",
+        "Title": "Weapon Mastery",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background05.dds",
         "HideFromUI": null
     },
@@ -307,7 +307,7 @@
         "MetaAchievementCategoryId": "General",
         "Parent Category": "",
         "Index": 8,
-        "Title": "@ui_meta_achievements_general",
+        "Title": "General",
         "Icon Color Background": "",
         "HideFromUI": null
     },
@@ -315,7 +315,7 @@
         "MetaAchievementCategoryId": "Crafting_Count",
         "Parent Category": "General",
         "Index": 1,
-        "Title": "@ui_meta_achievements_crafting_count",
+        "Title": "Crafting",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -323,7 +323,7 @@
         "MetaAchievementCategoryId": "Refining_Count",
         "Parent Category": "General",
         "Index": 2,
-        "Title": "@ui_meta_achievements_refining_count",
+        "Title": "Refining",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -331,7 +331,7 @@
         "MetaAchievementCategoryId": "Gather_Count",
         "Parent Category": "General",
         "Index": 3,
-        "Title": "@ui_meta_achievements_gather_count",
+        "Title": "Gathering",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -339,7 +339,7 @@
         "MetaAchievementCategoryId": "Named_Item_Crafting",
         "Parent Category": "General",
         "Index": 4,
-        "Title": "@ui_meta_achievements_named_item_crafting",
+        "Title": "Named Items",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -347,7 +347,7 @@
         "MetaAchievementCategoryId": "Repairs",
         "Parent Category": "General",
         "Index": 5,
-        "Title": "@ui_meta_achievements_repairs",
+        "Title": "Repairs",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -355,7 +355,7 @@
         "MetaAchievementCategoryId": "Instanced_Teamplay",
         "Parent Category": "General",
         "Index": 6,
-        "Title": "@ui_meta_achievements_instanced_teamplay",
+        "Title": "Modes",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -363,7 +363,7 @@
         "MetaAchievementCategoryId": "Lore_Pages",
         "Parent Category": "General",
         "Index": 7,
-        "Title": "@ui_meta_achievements_lore_pages",
+        "Title": "Documents",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -371,7 +371,7 @@
         "MetaAchievementCategoryId": "Player_Actions",
         "Parent Category": "General",
         "Index": 8,
-        "Title": "@ui_meta_achievements_player_actions",
+        "Title": "Gameplay",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -379,7 +379,7 @@
         "MetaAchievementCategoryId": "Camping",
         "Parent Category": "General",
         "Index": 9,
-        "Title": "@ui_meta_achievements_camping",
+        "Title": "Camping",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -387,7 +387,7 @@
         "MetaAchievementCategoryId": "Fishing",
         "Parent Category": "General",
         "Index": 10,
-        "Title": "@ui_meta_achievements_fishing",
+        "Title": "Fishing",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -395,7 +395,7 @@
         "MetaAchievementCategoryId": "Musical_Instruments",
         "Parent Category": "General",
         "Index": 11,
-        "Title": "@ui_meta_achievements_musical_instruments",
+        "Title": "Music",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -403,7 +403,7 @@
         "MetaAchievementCategoryId": "Looting",
         "Parent Category": "General",
         "Index": 12,
-        "Title": "@ui_meta_achievements_looting",
+        "Title": "Looting",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background06.dds",
         "HideFromUI": null
     },
@@ -411,7 +411,7 @@
         "MetaAchievementCategoryId": "Dyeing",
         "Parent Category": "General",
         "Index": 13,
-        "Title": "@ui_meta_achievements_looting",
+        "Title": "Looting",
         "Icon Color Background": "",
         "HideFromUI": null
     },
@@ -419,7 +419,7 @@
         "MetaAchievementCategoryId": "Achievements",
         "Parent Category": "",
         "Index": 9,
-        "Title": "@ui_meta_achievements_achievements",
+        "Title": "Achievements",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background07.dds",
         "HideFromUI": null
     },
@@ -427,7 +427,7 @@
         "MetaAchievementCategoryId": "Titles",
         "Parent Category": "",
         "Index": 10,
-        "Title": "@ui_meta_achievements_titles",
+        "Title": "Titles",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background08.dds",
         "HideFromUI": null
     },
@@ -435,7 +435,7 @@
         "MetaAchievementCategoryId": "Destinations",
         "Parent Category": "",
         "Index": 11,
-        "Title": "@ui_meta_achievements_destinations",
+        "Title": "Discovery",
         "Icon Color Background": "",
         "HideFromUI": null
     },
@@ -443,7 +443,7 @@
         "MetaAchievementCategoryId": "Places_Discovered",
         "Parent Category": "Destinations",
         "Index": 1,
-        "Title": "@ui_meta_achievements_places_discovered",
+        "Title": "Places of Interest",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background09.dds",
         "HideFromUI": null
     },
@@ -451,7 +451,7 @@
         "MetaAchievementCategoryId": "Per_Territory",
         "Parent Category": "Destinations",
         "Index": 2,
-        "Title": "@ui_meta_achievements_per_territory",
+        "Title": "Territory",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background09.dds",
         "HideFromUI": null
     },
@@ -459,7 +459,7 @@
         "MetaAchievementCategoryId": "Hamlets",
         "Parent Category": "Destinations",
         "Index": 3,
-        "Title": "@ui_meta_achievements_hamlets",
+        "Title": "Hamlets \u0026amp; Outposts",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background09.dds",
         "HideFromUI": null
     },
@@ -467,7 +467,7 @@
         "MetaAchievementCategoryId": "Leaderboard",
         "Parent Category": "",
         "Index": 12,
-        "Title": "@ui_meta_achievements_leaderboards",
+        "Title": "Leaderboards",
         "Icon Color Background": "",
         "HideFromUI": true
     },
@@ -475,7 +475,7 @@
         "MetaAchievementCategoryId": "Mutated_Expeditions",
         "Parent Category": "Leaderboard",
         "Index": 1,
-        "Title": "@ui_meta_achievements_mutated_expeditions",
+        "Title": "Mutated Expeditions",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background10.dds",
         "HideFromUI": true
     },
@@ -483,7 +483,7 @@
         "MetaAchievementCategoryId": "Trials",
         "Parent Category": "Leaderboard",
         "Index": 2,
-        "Title": "@ui_meta_achievements_trials",
+        "Title": "Boss Trials",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background10.dds",
         "HideFromUI": true
     },
@@ -491,7 +491,7 @@
         "MetaAchievementCategoryId": "Faction_Wars",
         "Parent Category": "Leaderboard",
         "Index": 3,
-        "Title": "@ui_meta_achievements_faction_wars",
+        "Title": "Faction Wars",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background10.dds",
         "HideFromUI": true
     },
@@ -499,7 +499,7 @@
         "MetaAchievementCategoryId": "Versus_Environment",
         "Parent Category": "Leaderboard",
         "Index": 4,
-        "Title": "@ui_meta_achievements_versus_environment",
+        "Title": "vs. Environment",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background10.dds",
         "HideFromUI": true
     },
@@ -507,7 +507,7 @@
         "MetaAchievementCategoryId": "Versus_Player",
         "Parent Category": "Leaderboard",
         "Index": 5,
-        "Title": "@ui_meta_achievements_versus_player",
+        "Title": "vs. Player",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background10.dds",
         "HideFromUI": true
     },
@@ -515,7 +515,7 @@
         "MetaAchievementCategoryId": "Leaderboard_Outpost_Rush",
         "Parent Category": "Leaderboard",
         "Index": 7,
-        "Title": "@ui_meta_achievements_outpost_rush",
+        "Title": "Outpost Rush",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background10.dds",
         "HideFromUI": true
     },
@@ -523,7 +523,7 @@
         "MetaAchievementCategoryId": "Leaderboard_Invasions_And_Breaches",
         "Parent Category": "Leaderboard",
         "Index": 8,
-        "Title": "@ui_meta_achievements_invasions_and_breaches",
+        "Title": "Invasions \u0026amp; Breaches",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background10.dds",
         "HideFromUI": true
     },
@@ -531,7 +531,7 @@
         "MetaAchievementCategoryId": "Territory_Control",
         "Parent Category": "Leaderboard",
         "Index": 9,
-        "Title": "@ui_meta_achievements_territory_control",
+        "Title": "Territory Control",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background10.dds",
         "HideFromUI": true
     }

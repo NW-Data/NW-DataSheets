@@ -3,360 +3,600 @@
         "ActivitiesTaskId": "ActivitiesS1Task1",
         "Task": "Close1MajorBreach",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Close1MajorBreach"
+=======
+        "Description": "Close Major Breaches"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task2",
         "Task": "Close1MinorBreaches",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Close1MinorBreaches"
+=======
+        "Description": "Close Minor Breaches"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task3",
         "Task": "Kill10Lost",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill10Lost"
+=======
+        "Description": "Kill Lost"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task4",
         "Task": "Kill10AngryEarth",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill10AngryEarth"
+=======
+        "Description": "Kill Angry Earth"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task5",
         "Task": "Kill10Ancients",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill10Ancients"
+=======
+        "Description": "Kill Ancient Guardians"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task6",
         "Task": "Kill10Corrupted",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill10Corrupted"
+=======
+        "Description": "Kill Corrupted"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task7",
         "Task": "Kill10Beasts",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill10Beasts"
+=======
+        "Description": "Kill Beasts"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task8",
         "Task": "Kill10EnemiesOneHanded",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill10EnemiesOneHanded"
+=======
+        "Description": "Kill Enemies in One-Handed Melee Combat"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task9",
         "Task": "Kill10EnemiesTwoHanded",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill10EnemiesTwoHanded"
+=======
+        "Description": "Kill Enemies in Two-Handed Melee Combat"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task10",
         "Task": "Kill10EnemiesRanged",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill10EnemiesRanged"
+=======
+        "Description": "Kill Enemies with Bows or Guns"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task11",
         "Task": "Kill10EnemiesMagic",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill10EnemiesMagic"
+=======
+        "Description": "Kill Enemies with Magic"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task12",
         "Task": "Kill1Players",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill1Player"
+=======
+        "Description": "Earn Azoth Salt by Killing Players"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task13",
         "Task": "Capture1FactionControlPoint",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Capture1FactionControlPoint"
+=======
+        "Description": "Capture Faction Control Points"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task14",
         "Task": "ParticipateIn1Duels",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_ParticipateIn3Duels"
+=======
+        "Description": "Participate in Duels"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task15",
         "Task": "Gather5T5ResourceNodes",
         "Type": "Gathering",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Gather5T5Nodes"
+=======
+        "Description": "Gather Tier 5 Resource Nodes"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task16",
         "Task": "Skin10T5Animals",
         "Type": "Gathering",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Skin10T5Animals"
+=======
+        "Description": "Skin Tier 5 Animals"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task17",
         "Task": "Catch150lbsOfFish",
         "Type": "Gathering",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Catch150lbsFish"
+=======
+        "Description": "Catch 150lbs of Fish"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task19",
         "Task": "Complete2TownProjects",
         "Type": "Gathering",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Complete2TownProjects"
+=======
+        "Description": "Complete Town Project Missions"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task20",
         "Task": "Salvage5T5Items",
         "Type": "Crafting",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Salvage5T5Items"
+=======
+        "Description": "Salvage Tier 5 Items"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task21",
         "Task": "Complete2FactionMissions",
         "Type": "Pve",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Complete2FactionMissions"
+=======
+        "Description": "Complete Faction Missions"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task22",
         "Task": "Refine50T5Resources",
         "Type": "Crafting",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Refine50T5Resources"
+=======
+        "Description": "Refine Tier 5 Resources"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task23",
         "Task": "CatchTreasureChest",
         "Type": "Gathering",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Catch1TreasureChest"
+=======
+        "Description": "Fish Up Treasure Chests"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task24",
         "Task": "Catch5RareFish",
         "Type": "Gathering",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Catch5RareFish"
+=======
+        "Description": "Catch Rare Fish"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task25",
         "Task": "Craft5T5WeaponOrApparel",
         "Type": "Crafting",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Craft5T5WeaponOrApparel"
+=======
+        "Description": "Craft Tier 5 Weapon or Apparel Items"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task26",
         "Task": "Craft10T5Consumables",
         "Type": "Crafting",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Craft10T5Consumables"
+=======
+        "Description": "Craft Tier 5 Consumables"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task27",
         "Task": "GetKillingBlowOnEnemyInOutpostRush",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_KillingBlowOPR"
+=======
+        "Description": "Get Killing Blows on Enemies in Outpost Rush"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task28",
         "Task": "Play1OutpostRush",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_ParticipateIn1OPR"
+=======
+        "Description": "Participate in Outpost Rush"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task29",
         "Task": "ParticipateIn3Arena3x3",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_ParticipateIn3_3v3"
+=======
+        "Description": "Participate in 3v3 Arenas"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task30",
         "Task": "DealOrHeal50000InArena3v3",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_DealOrHeal100000In3v3"
+=======
+        "Description": "Deal Damage or Heal in 3v3 Arenas"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task34",
         "Task": "Complete1Expedition",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Complete1Expedition"
+=======
+        "Description": "Complete an Expedition"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task37",
         "Task": "Complete1MutatedExpedition",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Complete1MutatedExpedition"
+=======
+        "Description": "Complete a Mutated Expedition"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task39",
         "Task": "Earn100PvPXPFromPlayers",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Earn1000PvpXp"
+=======
+        "Description": "Earn PvP XP from Killing Players"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task40",
         "Task": "DefeatZygormat",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_DefeatZygormat"
+=======
+        "Description": "Defeat Zygoramet at Zygoramet's Grove"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task41",
         "Task": "DefeatTheSirenQueen",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_DefeatSirenQueen"
+=======
+        "Description": "Defeat the Siren Queen at the Spire of Melpomene"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task42",
         "Task": "DefeatAvarice",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_DefeateAvarice"
+=======
+        "Description": "Defeat Avarice at the Eternal Pools"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task43",
         "Task": "Craft1GypsumOrb",
         "Type": "Crafting",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Craft1GypsumOrb"
+=======
+        "Description": "Craft Gypsum Orbs"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task56",
         "Task": "Earn5000AmountOfAzothSalt",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Earn5000AzothSalt"
+=======
+        "Description": "Earn Azoth Salt"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task59",
         "Task": "Complete2PvPFactionMissions",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Complete2PvpFactionMissions"
+=======
+        "Description": "Complete PvP Faction Missions"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task60",
         "Task": "EarnVictoryInPvPArena",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_FlawlessVictoryInPvpArena"
+=======
+        "Description": "Earn a Victory in PVP Arena"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task61",
         "Task": "Kill10EnemiesMyrkgard",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_KillPOIMyrkgard"
+=======
+        "Description": "Kill Enemies in Myrkgard"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task62",
         "Task": "Kill10EnemiesImperialPalace",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_KillPOIImperialPalace"
+=======
+        "Description": "Kill Enemies in the Imperial Palace"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task63",
         "Task": "Kill10EnemiesMalevolence",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_KillPOIMalevolence"
+=======
+        "Description": "Kill Enemies in Malevolence"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task64",
         "Task": "Kill10EnemiesEternalPool",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_KillPOIEternalPool"
+=======
+        "Description": "Kill Enemies in the Eternal Pool"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task65",
         "Task": "Kill10EnemiesBedsOfTaBitJet",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_KillPOIBedsOfTaBitJet"
+=======
+        "Description": "Kill Enemies in the Beds of Ta-Bitjet"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task66",
         "Task": "Kill2Named",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_KillNamed"
+=======
+        "Description": "Kill Named Enemies"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task67",
         "Task": "Kill20Elite",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_KillElite"
+=======
+        "Description": "Kill Elite Enemies"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task68",
         "Task": "Gather1MaudlinDust",
         "Type": "Season",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Gather1MaudlinDust"
+=======
+        "Description": "Gather Maudlindust"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task69",
         "Task": "CompleteSongMaudlinWaltz",
         "Type": "Season",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_PlayMaudlinbugSong"
+=======
+        "Description": "Play Maudlinbug Haze"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task70",
         "Task": "Gather3AeternumSturgeon",
         "Type": "Season",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Gather3AeternumSturgeon"
+=======
+        "Description": "Gather Aeternum Sturgeon"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task71",
         "Task": "CompleteSongYAAAHHHH",
         "Type": "Season",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_CompleteYahhhh"
+=======
+        "Description": "Play YAAAHHHHH!"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task72",
         "Task": "Complete2Songs",
         "Type": "Crafting",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Complete2Songs"
+=======
+        "Description": "Play Songs"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task73",
         "Task": "Kill5Scorpions",
         "Type": "Season",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill5Scorpions"
+=======
+        "Description": "Kill Scorpions"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task74",
         "Task": "DefeatBrimstoneSandsBoss",
         "Type": "Season",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_DefeatBrimstoneSandsBoss"
+=======
+        "Description": "Defeat Shah Neshen the Devourer"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task75",
         "Task": "Gather500Resources",
         "Type": "Gathering",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Gather500Resources"
+=======
+        "Description": "Gather Resources"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task76",
         "Task": "Kill10Dunewalkers",
         "Type": "Season",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill10Dunewalkers"
+=======
+        "Description": "Kill Dunewalkers"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task77",
         "Task": "KillNamedDunewalker",
         "Type": "Season",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_KillNamedDunewalker"
+=======
+        "Description": "Kill a Named Dunewalker enemy"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task78",
         "Task": "LootSulfurChest",
         "Type": "Season",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_LootSulfurChest"
+=======
+        "Description": "Loot Sulfur Pools Chests"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task79",
         "Task": "Kill1Player",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Kill1Player"
+=======
+        "Description": "Earn Azoth Salt by Killing Players"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task80",
         "Task": "Gain100PvPXP",
         "Type": "Pvp",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_Gain1000PvPXP"
+=======
+        "Description": "Earn PvP XP"
+>>>>>>> PTR
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task81",
         "Task": "LootEliteChest",
         "Type": "Expedition",
+<<<<<<< HEAD
         "Description": "@SeasonsActivities_LootEliteChest"
+=======
+        "Description": "Loot Elite Chests"
+>>>>>>> PTR
     }
 ]

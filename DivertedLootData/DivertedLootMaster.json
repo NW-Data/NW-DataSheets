@@ -7,8 +7,8 @@
         "RedDivertedLootModifier": 10,
         "YellowXpMultiplier": 0.5,
         "RedXpMultiplier": 0.1,
-        "GreenNotificationLocTag": "@ui_fishing_divert_level_green",
-        "YellowNotificationLocTag": "@ui_fishing_divert_level_yellow",
-        "RedNotificationLocTag": "@ui_fishing_divert_level_red"
+        "GreenNotificationLocTag": "Fish Population Normal",
+        "YellowNotificationLocTag": "Fish Population Dwindling!",
+        "RedNotificationLocTag": "Fish Population Critical!"
     }
 ]

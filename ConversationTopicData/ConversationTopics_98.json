@@ -1,8 +1,8 @@
 [
     {
         "ConversationTopicId": "Covenant_DeclineRecruitment",
-        "PlayerPrompt": "@Covenant_DeclineRecruitment_Prompt",
-        "NPCResponse": "@Covenant_DeclineRecruitment_Response",
+        "PlayerPrompt": "\"Thanks, but I'm still considering my options.\"",
+        "NPCResponse": "I understand. It is an important decision. Should you wish to join our ranks another time, simply speak with me again.\\n\\nI know Florina would love to hear from you as well.\\n\\n(You can talk to this representative again if you would like to join this faction. If you've already joined another faction, you may also now switch to this faction through the Bio menu.)",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -10,8 +10,8 @@
     },
     {
         "ConversationTopicId": "Marauders_DeclineRecruitment",
-        "PlayerPrompt": "@Marauders_DeclineRecruitment_Prompt",
-        "NPCResponse": "@Marauders_DeclineRecruitment_Response",
+        "PlayerPrompt": "\"Thanks, but I'm still considering my options.\"",
+        "NPCResponse": "I understand. It is an important decision. Should you wish to join our ranks another time, return and speak with me.\\n\\nWe always love to see an old mate.\\n\\n(You can talk to this representative again if you would like to join this faction. If you've already joined another faction, you may also now switch to this faction through the Bio menu.)",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -19,8 +19,8 @@
     },
     {
         "ConversationTopicId": "Syndicate_DeclineRecruitment",
-        "PlayerPrompt": "@Syndicate_DeclineRecruitment_Prompt",
-        "NPCResponse": "@Syndicate_DeclineRecruitment_Response",
+        "PlayerPrompt": "\"Thanks, but I'm still considering my options.\"",
+        "NPCResponse": "I understand. It is an important decision. Should you wish to join our ranks another time, return to my office and I can process your paperwork.\\n\\nNews of your adventures would be illuminating.\\n\\n(You can talk to this representative again if you would like to join this faction. If you've already joined another faction, you may also now switch to this faction through the Bio menu.)",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",

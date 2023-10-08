@@ -3,24 +3,28 @@
         "TrackedStatID": "ParticipateInWar",
         "StatType": "CompleteWar",
         "IsInvasion": null,
-        "MustWin": null
+        "MustWin": null,
+        "POITags": ""
     },
     {
         "TrackedStatID": "ParticipateInInvasion",
         "StatType": "CompleteWar",
         "IsInvasion": true,
-        "MustWin": null
+        "MustWin": null,
+        "POITags": ""
     },
     {
         "TrackedStatID": "WinWar",
         "StatType": "CompleteWar",
         "IsInvasion": null,
-        "MustWin": true
+        "MustWin": true,
+        "POITags": ""
     },
     {
         "TrackedStatID": "WinInvasion",
         "StatType": "CompleteWar",
         "IsInvasion": true,
-        "MustWin": true
+        "MustWin": true,
+        "POITags": ""
     }
 ]
