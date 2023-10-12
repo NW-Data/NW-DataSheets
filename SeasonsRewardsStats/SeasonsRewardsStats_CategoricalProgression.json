@@ -5,7 +5,8 @@
         "CategoricalProgressionIds": "PvP_XP",
         "TrackingType": "Ranked",
         "IsDebit": null,
-        "Reasons": ""
+        "Reasons": "",
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "EarnAzoth",
@@ -13,7 +14,8 @@
         "CategoricalProgressionIds": "AzothSalt_Currency",
         "TrackingType": "Points",
         "IsDebit": null,
-        "Reasons": ""
+        "Reasons": "",
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "SpendAzoth",
@@ -21,7 +23,8 @@
         "CategoricalProgressionIds": "Azoth_Currency",
         "TrackingType": "Points",
         "IsDebit": true,
-        "Reasons": ""
+        "Reasons": "",
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "CategoricalProgressionPvPXP",
@@ -29,7 +32,8 @@
         "CategoricalProgressionIds": "PvP_XP",
         "TrackingType": "Points",
         "IsDebit": null,
-        "Reasons": "PvpKill,ContributionReward"
+        "Reasons": "PvpKill,ContributionReward",
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "CategoricalProgressionFishingPostCap",
@@ -37,7 +41,8 @@
         "CategoricalProgressionIds": "Fishing_PostCap",
         "TrackingType": "Ranked",
         "IsDebit": null,
-        "Reasons": ""
+        "Reasons": "",
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "CategoricalProgressionPvPXPAnyReason",
@@ -45,7 +50,8 @@
         "CategoricalProgressionIds": "PvP_XP",
         "TrackingType": "Points",
         "IsDebit": null,
-        "Reasons": ""
+        "Reasons": "",
+        "IsPermanent": null
     },
     {
         "TrackedStatID": "CategoricalProgressionRiding",
@@ -53,7 +59,8 @@
         "CategoricalProgressionIds": "Riding",
         "TrackingType": "Ranked",
         "IsDebit": null,
-        "Reasons": ""
+        "Reasons": "",
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CategoricalProgressionFlail",
@@ -61,7 +68,8 @@
         "CategoricalProgressionIds": "FlailAbilityTable",
         "TrackingType": "Ranked",
         "IsDebit": null,
-        "Reasons": ""
+        "Reasons": "",
+        "IsPermanent": true
     },
     {
         "TrackedStatID": "CategoricalProgressionAnyTradeskill",
@@ -69,6 +77,7 @@
         "CategoricalProgressionIds": "Weaponsmithing,Armoring,Jewelcrafting,Arcana,Cooking,Furnishing,Engineering,Smelting,Woodworking,Leatherworking,Weaving,Stonecutting,Skinning,Mining,Logging,Harvesting,Musician,Riding",
         "TrackingType": "Ranked",
         "IsDebit": null,
-        "Reasons": ""
+        "Reasons": "",
+        "IsPermanent": true
     }
 ]
