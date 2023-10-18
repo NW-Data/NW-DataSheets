@@ -47,8 +47,8 @@
     {
         "LootLimitID": "GypsumBlack",
         "IsReplicated": false,
-        "MinLimitSeconds": 0,
-        "MaxLimitSeconds": 0,
+        "MinLimitSeconds": 300,
+        "MaxLimitSeconds": 390,
         "CountLimit": 3,
         "MinLimitMult": 120,
         "MaxLimitMult": 120,

@@ -5459,7 +5459,7 @@
         "StatusID": "Status_Ultimate_Sword_Defender",
         "DisplayName": "Fortify",
         "Description": "Incoming damage is reduced by {[Type_StatusEffectData.Status_Ultimate_Sword_Defender.ABSStandard * 100]}%",
-        "EffectCategories": "Buff+Fortify",
+        "EffectCategories": "NonDispellableBuff+Fortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT3.png",
         "ShowInUITray": true,
         "ShowTextInDamageNumbers": false,

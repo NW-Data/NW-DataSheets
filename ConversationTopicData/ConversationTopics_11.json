@@ -7,5 +7,50 @@
         "RequiredAchievement": "",
         "RequiredFaction": "",
         "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1140_Topic1_Hallow",
+        "PlayerPrompt": "“What is Nightveil Hallow?”",
+        "NPCResponse": "It is a mysterious season of change, when shades and ghouls gather in dark places. \\n\\nA time when the people adorn their houses with Jack-o-Lanterns and wear frightful masks.",
+        "AchievementUnlock": "11_HalloweenQuest1",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1140_Topic2_Pumpkinites",
+        "PlayerPrompt": "“Tell me more of this Pumpkinite curse.”",
+        "NPCResponse": "An insidious magic that transforms harmless pumpkins into ravenous creatures hungry for mischief and flesh. \\n\\nThey start as impish Pumpklins that caper about like goblins.",
+        "AchievementUnlock": "11_HalloweenQuest1",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1140_Topic3_Baalphazu",
+        "PlayerPrompt": "“Who exactly is Baalphazu?”",
+        "NPCResponse": "A demon of the Netherworld, known as the Marquis of Terror. \\n\\nBaalphazu didn’t find its way here by accident. It was sent for the purpose of spreading fear far and wide.",
+        "AchievementUnlock": "11_HalloweenQuest1",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1140_Topic4_Cauldron",
+        "PlayerPrompt": "“What’s the Nightveil Cauldron?”",
+        "NPCResponse": "A potent magical vessel capable of dispersing the demon’s essence. Collect enough of the demon’s ichor and its grip on this world shall be broken. \\n\\nAnd of course, the cauldron will reward you for your efforts.",
+        "AchievementUnlock": "11_HalloweenQuest1",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1140_Topic5_Hexen",
+        "PlayerPrompt": "“The Hexen Sisters?”",
+        "NPCResponse": "Three legendary witches who’ve settled in the wilds of Aeternum. They were the ones who crafted the Nightveil Cauldron. \\n\\nThe fairest of the three is the beautiful Grimhild, my frigid blossom of the north…",
+        "AchievementUnlock": "11_HalloweenQuest2",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
     }
 ]
