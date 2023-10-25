@@ -2354,7 +2354,7 @@
     },
     "faction influence config data": {
         "__type": "FactionInfluenceConfigData",
-        "maxinfluence": 10000,
+        "maxinfluence": 40000,
         "decrementrate": 0,
         "incrementrate": 0.000138,
         "maxincrementtimemodifier": 0.65,
@@ -2723,7 +2723,7 @@
             "99_MSQ_26 || 99B_MSQ_10",
             "99_MSQ_34 || 99C_MSQ_12",
             "99_MSQ_45 || 99E_MSQ_09",
-            "99_MSQ_56"
+            "99_MSQ_56 || 99E_MSQ_11"
         ],
         "azothstaffitemids": [
             {
