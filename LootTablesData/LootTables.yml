@@ -23943,7 +23943,7 @@ PVPCraftingResources_Filter:
   Item2:
     Name: '[LBID]PVPCraftingLoot_Rare'
     Qty: '1'
-    Threshold: '99000'
+    Threshold: '99500'
   MaxRoll: 100000
 PVPCraftingLoot_UncommonChances:
   RollBonusSetting: AddToRoll

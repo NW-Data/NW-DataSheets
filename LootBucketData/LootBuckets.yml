@@ -3876,7 +3876,6 @@ ContainerResourcesRare:
     BotanistCharmT3                                                                   1 TRUE       RestlessShores01,Reekwater 
     ChefCharmT1                                                                       1 TRUE       EridanusCaverns,Queensport 
     ChefCharmT3                                                                       1 TRUE       FirstLight,Brightwood,Restless,EridanusCaverns,RestlessShores01 
-    CrystalT2                                                                         1 TRUE       Mourning,Edengrove,Edengrove00 
     CrystalT3                                                                         1 TRUE       ShatteredObelisk,GreatCleave,Edengrove00 
     EngineerCharmT3                                                                   1 TRUE       Monarchs,Amrine,ShatteredObelisk,RestlessShores01,Shattered 
     HornT1                                                                            1 TRUE       EridanusCaverns,Shattered 
@@ -5987,8 +5986,6 @@ SpecialCreatureResourcesT1:
     ArmorScrapsT3                                                                     1 FALSE      Corrupted            
     TravelersStoneT1                                                                  1 FALSE                           
     TravelersStoneT3                                                                  1 FALSE                           
-    LostEssenceT1                                                                     1 FALSE      Lost                 
-    LostEssenceT2                                                                     1 FALSE      Lost                 
 SpecialCreatureResourcesT2:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -6033,17 +6030,17 @@ SpecialCreatureResourcesT3:
     BatrachiteT1                                                                      1 FALSE      MinContLevel:60-64   
     CrystalizedAzothT1                                                                1 FALSE      MinContLevel:60-64   
     SparkmetalT1                                                                      1 FALSE      MinContLevel:60-64   
-    EtchedHandguardT5                                                                 1 FALSE      MinContLevel:45-59   
-    EmbossedWrappingT5                                                                1 FALSE      MinContLevel:45-59   
-    EmpoweredCounterbalanceT5                                                         1 FALSE      MinContLevel:45-59   
-    EnchantedBowStringT5                                                              1 FALSE      MinContLevel:45-59   
-    IntricateLockT5                                                                   1 FALSE      MinContLevel:45-59   
-    RunicThreadT5                                                                     1 FALSE      MinContLevel:45-59   
-    EmbroideredPaddingT5                                                              1 FALSE      MinContLevel:45-59   
-    CoreCrystalLifeT5                                                                 1 FALSE      MinContLevel:45-59   
-    CoreCrystalFireT5                                                                 1 FALSE      MinContLevel:45-59   
-    CoreCrystalIceT5                                                                  1 FALSE      MinContLevel:45-59   
-    CoreCrystalVoidT5                                                                 1 FALSE      MinContLevel:45-59   
+    EtchedHandguardT5                                                                 1 FALSE      Level:0-59,MinContLevel:45-59 
+    EmbossedWrappingT5                                                                1 FALSE      Level:0-59,MinContLevel:45-59 
+    EmpoweredCounterbalanceT5                                                         1 FALSE      Level:0-59,MinContLevel:45-59 
+    EnchantedBowStringT5                                                              1 FALSE      Level:0-59,MinContLevel:45-59 
+    IntricateLockT5                                                                   1 FALSE      Level:0-59,MinContLevel:45-59 
+    RunicThreadT5                                                                     1 FALSE      Level:0-59,MinContLevel:45-59 
+    EmbroideredPaddingT5                                                              1 FALSE      Level:0-59,MinContLevel:45-59 
+    CoreCrystalLifeT5                                                                 1 FALSE      Level:0-59,MinContLevel:45-59 
+    CoreCrystalFireT5                                                                 1 FALSE      Level:0-59,MinContLevel:45-59 
+    CoreCrystalIceT5                                                                  1 FALSE      Level:0-59,MinContLevel:45-59 
+    CoreCrystalVoidT5                                                                 1 FALSE      Level:0-59,MinContLevel:45-59 
 ContainerFurnitureCommon:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -9917,10 +9914,7 @@ AttributeItems:
     CONBonusT1                                                                        1 FALSE      MinContLevel:56      
     FOCBonusT1                                                                        1 FALSE      MinContLevel:56      
     STRINTBonusT1                                                                     1 FALSE      MinContLevel:56,Lost 
-    DEXFOCBonusT1                                                                     1 FALSE      MinContLevel:56,Corrupted 
     INTCONBonusT1                                                                     1 FALSE      MinContLevel:56,Corrupted 
-    CONDEXBonusT1                                                                     1 FALSE      MinContLevel:56,AngryEarth 
-    FOCSTRBonusT1                                                                     1 FALSE      MinContLevel:56,Ancient 
     FOCINTBonusT1                                                                     1 FALSE      MinContLevel:56,Ancient 
     FOCCONBonusT1                                                                     1 FALSE      MinContLevel:56,Corrupted 
 SkinningAttributeItems:
@@ -12981,12 +12975,8 @@ PostCapAttributeItems:
     STRBonusT1                                                                      2-3 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
     DEXBonusT1                                                                      2-3 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
     STRCONBonusT1                                                                   2-3 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    CONDEXBonusT1                                                                   2-3 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
     DEXINTBonusT1                                                                   2-3 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    STRDEXBonusT1                                                                   2-3 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
     STRINTBonusT1                                                                   2-3 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    DEXFOCBonusT1                                                                   2-3 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
-    FOCSTRBonusT1                                                                   2-3 TRUE       PostCapFishingT1,PostCapFishingT2,PostCapFishingT3 
 PostCapPerkItems:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -13013,7 +13003,6 @@ PostCapPerkItems:
     WhetstoneT1                                                                     1-2 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
     WhetstoneT2                                                                     1-2 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
     WhetstoneT3                                                                     1-2 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
-    LostEssenceT2                                                                   1-2 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
     AdderstoneT1                                                                    1-2 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
     AdderStoneT2                                                                    1-2 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
     ArcanistCharmT1                                                                 1-2 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
@@ -13036,7 +13025,6 @@ PostCapPerkItems:
     VerbenaT2                                                                       1-2 TRUE       PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
     WeaponsmithCharmT1                                                              1-2 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
     ViscousAzothT1                                                                  1-2 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
-    LostEssenceT1                                                                   1-2 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
     AncientEssenceT2                                                                1-2 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
     AzothOilT1                                                                      1-2 TRUE       PostCapFishingT1_B,PostCapFishingT2_B,PostCapFishingT3_B 
     BotanistCharmT1                                                                 1-2 TRUE       PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
@@ -13058,7 +13046,6 @@ PostCapPerkItems:
     SkinnerCharmT2                                                                  1-2 TRUE       PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
     SkinnerCharmT3                                                                  1-2 TRUE       PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
     SparkmetalT1                                                                    1-2 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
-    TallowT1                                                                        1-2 TRUE       PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
     AdamantT3                                                                       1-2 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
     AncientEssenceT1                                                                1-2 TRUE       PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
     ArcanistCharmT3                                                                 1-2 TRUE       PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
@@ -13088,7 +13075,6 @@ PostCapPerkItems:
     CrystalizedEctoplasmT1                                                          1-2 TRUE       PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
     CrystalizedEctoplasmT2                                                          1-2 TRUE       PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
     CrystalizedEctoplasmT3                                                          1-2 TRUE       PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
-    CrystalT2                                                                       1-2 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
     CrystalT3                                                                       1-2 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
     ElkHoofT2                                                                       1-2 TRUE       PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
     EngineerCharmT3                                                                 1-2 TRUE       PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
@@ -13111,6 +13097,7 @@ PostCapPerkItems:
     WeaponsmithCharmT3                                                              1-2 TRUE       PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
     AdderStoneT1                                                                    1-2 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
     AdderStoneT3                                                                    1-2 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
+    TallowT1                                                                        1-2 TRUE       PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
     ArmorerCharmT2                                                                  1-2 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
     WyrdwoodSapT3                                                                   1-2 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
     WyrdwoodSapT2                                                                   1-2 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
@@ -13216,13 +13203,14 @@ PostCapResources:
     AlchemyAirT2                                                                    3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
     AlchemyWaterT2                                                                  3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
     AlchemySpiritT2                                                                 3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
-    AlchemyDeathT2                                                                  2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT2_B,PostCapArcanaT3_B 
+    AlchemyDeathT2                                                                  3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
     AlchemyLifeT2                                                                   3-5 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
     AlchemyEarthT3                                                                  2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT2_B,PostCapArcanaT3_B 
     AlchemyFireT3                                                                   2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT2_B,PostCapArcanaT3_B 
     AlchemyAirT3                                                                    2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT2_B,PostCapArcanaT3_B 
     AlchemyWaterT3                                                                  2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT2_B,PostCapArcanaT3_B 
     AlchemySpiritT3                                                                 2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT2_B,PostCapArcanaT3_B 
+    AlchemyDeathT3                                                                  2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT2_B,PostCapArcanaT3_B 
     AlchemyLifeT3                                                                   2-4 TRUE       PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT2_B,PostCapArcanaT3_B 
     EssenceEarthT1                                                                  1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3,PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
     EssenceFireT1                                                                   1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3,PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
@@ -13320,7 +13308,7 @@ PostCapResources:
     ButterT1                                                                        3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3,PostCapRidingT1_B,PostCapRidingT2_B,PostCapRidingT3_B 
     MilkT1                                                                          3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3,PostCapRidingT1_B,PostCapRidingT2_B,PostCapRidingT3_B 
     OreT52                                                                          2-3 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
-    TimberT52                                                                       2-3 TRUE       PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
+    WoodT52                                                                         2-3 TRUE       PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
     RawhideT52                                                                      3-5 TRUE       PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
     FiberT52                                                                        2-3 TRUE       PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
 PostCapRecipes:
@@ -14230,7 +14218,7 @@ MutDiffAccesories:
     FLXpac_EarringT5_EF_Mut                                                           1 FALSE      GreatCleave01,MutDiff2,MinContLevel:0-64 
     FLXpac_RingT5_EF_Mut                                                              1 FALSE      GreatCleave01,MutDiff2,MinContLevel:0-64 
     AmuletT5_FL_XP_Mut                                                                1 FALSE      EXPFirstLight01,MutDiff2,MinContLevel:0-64 
-    EarringT5_FL_XP_Mut                                                               1 FALSE      EXPFirstLight01,MutDiff2,MinContLevel:0-64 
+    EarringT5_FL_XP_Mut_Fixed                                                         1 FALSE      EXPFirstLight01,MutDiff2,MinContLevel:0-64 
     RingT5_FL_XP_Mut                                                                  1 FALSE      EXPFirstLight01,MutDiff2,MinContLevel:0-64 
 GypsumCasts:
   Contents: |
@@ -14419,41 +14407,41 @@ PostCapShards:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    Shard_Heavy_Head                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Heavy_Chest                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Heavy_Hands                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Heavy_Legs                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Heavy_Feet                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Medium_Head                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Medium_Chest                                                                1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Medium_Hands                                                                1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Medium_Legs                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Medium_Feet                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Light_Head                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Light_Chest                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Light_Hands                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Light_Legs                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Light_Feet                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3 
-    Shard_Sword                                                                       1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    Shard_GreatAxe                                                                    1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    Shard_WarHammer                                                                   1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    Shard_Rapier                                                                      1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    Shard_Hatchet                                                                     1 TRUE       PostCapEngineeringT1,PostCapEngineeringT2,PostCapEngineeringT3 
-    Shard_Bow                                                                         1 TRUE       PostCapEngineeringT1,PostCapEngineeringT2,PostCapEngineeringT3 
-    Shard_Musket                                                                      1 TRUE       PostCapEngineeringT1,PostCapEngineeringT2,PostCapEngineeringT3 
-    Shard_Blunderbuss                                                                 1 TRUE       PostCapEngineeringT1,PostCapEngineeringT2,PostCapEngineeringT3 
-    Shard_LifeStaff                                                                   1 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3 
-    Shard_FireStaff                                                                   1 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3 
-    Shard_IceGauntlet                                                                 1 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3 
-    Shard_VoidGauntlet                                                                1 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3 
-    Shard_Flail                                                                       1 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3 
-    Shard_Shield_Round                                                                1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    Shard_Shield_Kite                                                                 1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    Shard_Shield_Tower                                                                1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3 
-    Shard_Spear                                                                       1 TRUE       PostCapEngineeringT1,PostCapEngineeringT2,PostCapEngineeringT3 
-    Shard_Ring                                                                        1 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    Shard_Amulet                                                                      1 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
-    Shard_Earring                                                                     1 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3 
+    Shard_Heavy_Head                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Heavy_Chest                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Heavy_Hands                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Heavy_Legs                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Heavy_Feet                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Medium_Head                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Medium_Chest                                                                1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Medium_Hands                                                                1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Medium_Legs                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Medium_Feet                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Light_Head                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Light_Chest                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Light_Hands                                                                 1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Light_Legs                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Light_Feet                                                                  1 TRUE       PostCapArmoringT1,PostCapArmoringT2,PostCapArmoringT3,PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
+    Shard_Sword                                                                       1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3,PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
+    Shard_GreatAxe                                                                    1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3,PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
+    Shard_WarHammer                                                                   1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3,PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
+    Shard_Rapier                                                                      1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3,PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
+    Shard_Hatchet                                                                     1 TRUE       PostCapEngineeringT1,PostCapEngineeringT2,PostCapEngineeringT3,PostCapEngineeringT1_B,PostCapEngineeringT2_B,PostCapEngineeringT3_B 
+    Shard_Bow                                                                         1 TRUE       PostCapEngineeringT1,PostCapEngineeringT2,PostCapEngineeringT3,PostCapEngineeringT1_B,PostCapEngineeringT2_B,PostCapEngineeringT3_B 
+    Shard_Musket                                                                      1 TRUE       PostCapEngineeringT1,PostCapEngineeringT2,PostCapEngineeringT3,PostCapEngineeringT1_B,PostCapEngineeringT2_B,PostCapEngineeringT3_B 
+    Shard_Blunderbuss                                                                 1 TRUE       PostCapEngineeringT1,PostCapEngineeringT2,PostCapEngineeringT3,PostCapEngineeringT1_B,PostCapEngineeringT2_B,PostCapEngineeringT3_B 
+    Shard_LifeStaff                                                                   1 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
+    Shard_FireStaff                                                                   1 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
+    Shard_IceGauntlet                                                                 1 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
+    Shard_VoidGauntlet                                                                1 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
+    Shard_Flail                                                                       1 TRUE       PostCapArcanaT1,PostCapArcanaT2,PostCapArcanaT3,PostCapArcanaT1_B,PostCapArcanaT2_B,PostCapArcanaT3_B 
+    Shard_Shield_Round                                                                1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3,PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
+    Shard_Shield_Kite                                                                 1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3,PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
+    Shard_Shield_Tower                                                                1 TRUE       PostCapWeaponsmithingT1,PostCapWeaponsmithingT2,PostCapWeaponsmithingT3,PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
+    Shard_Spear                                                                       1 TRUE       PostCapEngineeringT1,PostCapEngineeringT2,PostCapEngineeringT3,PostCapEngineeringT1_B,PostCapEngineeringT2_B,PostCapEngineeringT3_B 
+    Shard_Ring                                                                        1 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3,PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
+    Shard_Amulet                                                                      1 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3,PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
+    Shard_Earring                                                                     1 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3,PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
 BossShards:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -20633,12 +20621,6 @@ BrimstoneNamedGear:
     EarringT5_AnedtjisSunloop_V2                                                      1 False                           
     EarringT5_AmbrosiasBurden_V2                                                      1 False                           
     EarringT5_InvokedByHerTwoLands_V2                                                 1 False                           
-DarknessPerkItems:
-  Contents: |
-    ItemId                                                                          Qty MatchOne   Tags
-    ________________________________________________________________________________________________________________
-    LostEssenceT2                                                                     1 False                           
-    LostEssenceT1                                                                     1 False                           
 Trial_S2_Armor:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags

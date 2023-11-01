@@ -2,7 +2,7 @@
     {
         "ConversationTopicId": "9401_Hint",
         "PlayerPrompt": "\"Can you explain riding?\"",
-        "NPCResponse": "Summon - [Default: X], Canter - [Default: CTRL], Dash - [Default: SHIFT], Jump - [Default: SPACE]\\n\\nDashing and Jumping cost mount stamina. Falling from great heights and taking heavy hits from enemies will dismount you.",
+        "NPCResponse": "Summon, Canter, Dash, Jump, Dashing, and Jumping cost mount stamina. Falling from great heights and taking heavy hits from enemies will dismount you.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -65,7 +65,7 @@
     {
         "ConversationTopicId": "9401_GoTo_Jochi_Topic",
         "PlayerPrompt": "\"I bested your times!\"",
-        "NPCResponse": "Your skills are impressive. There is nothing more to teach. Now experience will be your tutor.\\n\\nI have a heard of a man called “Francois” who also keeps a stable. Challenge him and you will learn what you have not yet learned.",
+        "NPCResponse": "Your skills are impressive. I have nothing more to teach. Now experience will be your tutor.\\n\\nThere is a man called “François” who also keeps a stable. Challenge him and you will learn what you have not yet learned.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",

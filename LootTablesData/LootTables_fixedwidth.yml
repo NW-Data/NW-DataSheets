@@ -13924,7 +13924,7 @@ PVPCraftingResources_Filter:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1           50000          1 [LTID]PVPCraftingLoot_UncommonChances                       
-    Item2           99000          1 [LBID]PVPCraftingLoot_Rare                                  
+    Item2           99500          1 [LBID]PVPCraftingLoot_Rare                                  
 PVPCraftingLoot_UncommonChances:
   RollBonusSetting: AddToRoll
   AND/OR: AND

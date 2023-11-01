@@ -1754,7 +1754,7 @@
         "SeasonsTrackedStatID": "CategoricalProgressionFlail",
         "TaskMaxValue": 5,
         "Name": "Fellowship of the Flail I",
-        "Description": "Reach Mastery {maxCount} with the Flail"
+        "Description": "Gain {maxCount} Mastery levels with the Flail"
     },
     {
         "SeasonsTaskID": "S3_DiscoverEdengroveSettlement",
@@ -1872,7 +1872,7 @@
         "SeasonsTaskID": "S3_CompleteNewFactionQuest",
         "SeasonsTrackedStatID": "CompleteQuest_FactionStory",
         "TaskMaxValue": 1,
-        "Name": "Faction Famil",
+        "Name": "Faction Family",
         "Description": "Complete your Faction's Story"
     },
     {
@@ -1915,7 +1915,7 @@
         "SeasonsTrackedStatID": "CategoricalProgressionFlail",
         "TaskMaxValue": 12,
         "Name": "Fellowship of the Flail II",
-        "Description": "Reach Mastery {maxCount} with the Flail"
+        "Description": "Gain {maxCount} Mastery levels with the Flail"
     },
     {
         "SeasonsTaskID": "S3_RidingTradeskill_1",
@@ -2041,7 +2041,7 @@
         "SeasonsTrackedStatID": "CategoricalProgressionFlail",
         "TaskMaxValue": 19,
         "Name": "Fellowship of the Flail III",
-        "Description": "Reach Mastery {maxCount} with the Flail"
+        "Description": "Gain {maxCount} Mastery levels with the Flail"
     },
     {
         "SeasonsTaskID": "S3_CompleteActivityCards_3",
