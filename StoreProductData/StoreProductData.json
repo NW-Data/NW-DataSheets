@@ -6454,7 +6454,7 @@
         "LandscapeImage": "LyShineUI/Images/Icons/Items/Weapon/1hRoundShieldImmolatedT5.png",
         "SquareImage": "LyShineUI/Images/Icons/Items/Weapon/1hRoundShieldImmolatedT5.png",
         "ThumbnailImage": "LyShineUI/Images/Icons/Items/Weapon/1hRoundShieldImmolatedT5.png",
-        "TypeDescription": "Mount Attachment"
+        "TypeDescription": "Mount Attachment Skin"
     },
     {
         "UniqueTagID": "Emote_BadSmell",
@@ -6822,101 +6822,101 @@
     {
         "UniqueTagID": "MountAttachmentItem_Blacksmith",
         "IsEnabled": 1,
-        "DisplayName": "Blacksmith Mount Attachment",
+        "DisplayName": "Blacksmith Mount Attachment Skin",
         "Description": "This anvil will come in tremendously handy if you have a hammer.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Portrait_BlacksmithKit.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Rectangle_BlacksmithKit.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Square_BlacksmithKit.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Thumbnail_BlacksmithKit.png",
-        "TypeDescription": "Mount Attachment"
+        "TypeDescription": "Mount Attachment Skin"
     },
     {
         "UniqueTagID": "MountAttachmentItem_Flags",
         "IsEnabled": 1,
-        "DisplayName": "Flags Mount Attachment",
+        "DisplayName": "Flags Mount Attachment Skin",
         "Description": "Show your allegiance! To something.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Portrait_FlagKit.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Rectangle_FlagKit.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Square_FlagKit.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Thumbnail_FlagKit.png",
-        "TypeDescription": "Mount Attachment"
+        "TypeDescription": "Mount Attachment Skin"
     },
     {
         "UniqueTagID": "MountAttachmentItem_Tome",
         "IsEnabled": 1,
-        "DisplayName": "Tome Mount Attachment",
+        "DisplayName": "Tome Mount Attachment Skin",
         "Description": "Books are for mages. Which… you probably are.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Portrait_Tome.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Rectangle_Tome.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Square_Tome.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Thumbnail_Tome.png",
-        "TypeDescription": "Mount Attachment"
+        "TypeDescription": "Mount Attachment Skin"
     },
     {
         "UniqueTagID": "MountAttachmentItem_Logging",
         "IsEnabled": 1,
-        "DisplayName": "Logging Mount Attachment",
+        "DisplayName": "Logging Mount Attachment Skin",
         "Description": "There's no tree you won't chop down to size.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Portrait_AxeLogs.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Rectangle_AxeLogs.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Square_AxeLogs.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Thumbnail_AxeLogs.png",
-        "TypeDescription": "Mount Attachment"
+        "TypeDescription": "Mount Attachment Skin"
     },
     {
         "UniqueTagID": "MountAttachmentItem_TreasureChest",
         "IsEnabled": 1,
-        "DisplayName": "Treasure Chest Mount Attachment",
+        "DisplayName": "Treasure Chest Mount Attachment Skin",
         "Description": "You've got great loot. Keep it close. And highly visible.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Portrait_TreasureChest.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Rectangle_TreasureChest.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Square_TreasureChest.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Thumbnail_TreasureChest.png",
-        "TypeDescription": "Mount Attachment"
+        "TypeDescription": "Mount Attachment Skin"
     },
     {
         "UniqueTagID": "MountAttachmentItem_Cooking",
         "IsEnabled": 1,
-        "DisplayName": "Cooking Mount Attachment",
+        "DisplayName": "Cooking Mount Attachment Skin",
         "Description": "The cook is always popular. Unless they're a terrible chef. Then, they're usually killed.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Portrait_CookingSetKit.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Rectangle_CookingSetKit.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Square_CookingSetKit.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Thumbnail_CookingSetKit.png",
-        "TypeDescription": "Mount Attachment"
+        "TypeDescription": "Mount Attachment Skin"
     },
     {
         "UniqueTagID": "MountAttachmentItem_AncientArtifact",
         "IsEnabled": 1,
-        "DisplayName": "Ancient Artifact Mount Attachment",
+        "DisplayName": "Ancient Artifact Mount Attachment Skin",
         "Description": "It looks amazing. Hopefully, it won't open a portal and let even more horrid creatures on to Aeternum.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Portrait_ArtifactKit.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Rectangle_ArtifactKit.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Square_ArtifactKit.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Thumbnail_ArtifactKit.png",
-        "TypeDescription": "Mount Attachment"
+        "TypeDescription": "Mount Attachment Skin"
     },
     {
         "UniqueTagID": "MountAttachmentItem_Fishing",
         "IsEnabled": 1,
-        "DisplayName": "Fishing Mount Attachment",
+        "DisplayName": "Fishing Mount Attachment Skin",
         "Description": "Quite a catch! May your mount speed you to a settlement before it begins to smell!",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Portrait_FishingBasket.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Rectangle_FishingBasket.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Square_FishingBasket.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Thumbnail_FishingBasket.png",
-        "TypeDescription": "Mount Attachment"
+        "TypeDescription": "Mount Attachment Skin"
     },
     {
         "UniqueTagID": "MountAttachmentItem_BotanyKit",
         "IsEnabled": 1,
-        "DisplayName": "Botany Kit Mount Attachment",
+        "DisplayName": "Botany Kit Mount Attachment Skin",
         "Description": "For those who've taken a keen interest in plants of all kinds.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Portrait_BotanyKit.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Rectangle_BotanyKit.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Square_BotanyKit.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/mountAttachment_Thumbnail_BotanyKit.png",
-        "TypeDescription": "Mount Attachment"
+        "TypeDescription": "Mount Attachment Skin"
     },
     {
         "UniqueTagID": "Mount_Horse_1",
@@ -7934,11 +7934,11 @@
         "UniqueTagID": "Apparel_Seance_TheProphet",
         "IsEnabled": 1,
         "DisplayName": "The Prophet",
-        "Description": "I am All and I am Nothing. I am Everywhere and yet Nowhere. I am the One and now I am You.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "Description": "A soulless puppet. A blind servant. The perfect companion. The peril of her maker.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Seance_Deluxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Seance_Deluxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Seance_Deluxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Seance_Deluxe.png",
         "TypeDescription": "Apparel Skin"
     },
     {
@@ -7946,21 +7946,32 @@
         "IsEnabled": 1,
         "DisplayName": "The Hay Man",
         "Description": "No crow fears what is only known in whispers as the Hay Man, for it is equally enmeshed in death as they are.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Seance_Medium.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Seance_Medium.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Seance_Medium.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Seance_Medium.png",
         "TypeDescription": "Apparel Skin"
     },
     {
         "UniqueTagID": "Apparel_Seance_TheFerryman",
         "IsEnabled": 1,
         "DisplayName": "The Ferryman",
-        "Description": "One can only hope to never see a floating vessel in Aeternum, for it would surely be the Charon's and this would surely be the Underworld.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "Description": "One can only hope to never see a floating vessel in Aeternum, for it would surely be Charon's and this would surely be the Underworld.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Seance_Heavy.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Seance_Heavy.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Seance_Heavy.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Seance_Heavy.png",
+        "TypeDescription": "Apparel Skin"
+    },
+    {
+        "UniqueTagID": "Apparel_Seance_TheEffigy",
+        "IsEnabled": 1,
+        "DisplayName": "The Effigy",
+        "Description": "A soulless puppet. A blind servant. The perfect companion. The peril of her maker.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Seance_Light.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Seance_Light.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Seance_Light.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Seance_Light.png",
         "TypeDescription": "Apparel Skin"
     },
     {
@@ -7968,10 +7979,10 @@
         "IsEnabled": 1,
         "DisplayName": "Barbarian's Ossuary",
         "Description": "Unyielding to even death. May they rest in peace.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Seance_GreatAxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Seance_GreatAxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Seance_GreatAxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Seance_GreatAxe.png",
         "TypeDescription": "Great Axe Skin"
     },
     {
@@ -7979,10 +7990,10 @@
         "IsEnabled": 1,
         "DisplayName": "Warrior’s Ossuary",
         "Description": "Titans in life and beyond. May they rest in peace.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Seance_Greatsword.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Seance_Greatsword.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Seance_Greatsword.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Seance_Greatsword.png",
         "TypeDescription": "Greatsword Skin"
     },
     {
@@ -7990,10 +8001,10 @@
         "IsEnabled": 1,
         "DisplayName": "Marksman's Ossuary",
         "Description": "Only truer than their aim was their love. May they rest in peace.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Seance_Bow.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Seance_Bow.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Seance_Bow.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Seance_Bow.png",
         "TypeDescription": "Bow Skin"
     },
     {
@@ -8001,10 +8012,10 @@
         "IsEnabled": 1,
         "DisplayName": "Demolitionist's Ossuary",
         "Description": "Always wanted to go out with a 'bang'. May they rest in peace.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Seance_Blunderbuss.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Seance_Blunderbuss.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Seance_Blunderbuss.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Seance_Blunderbuss.png",
         "TypeDescription": "Blunderbuss Skin"
     },
     {
@@ -8012,10 +8023,10 @@
         "IsEnabled": 1,
         "DisplayName": "Pyromancer's Ossuary",
         "Description": "Their flame burns eternal and ever bright. May they rest in peace.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Seance_FireStaff.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Seance_FireStaff.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Seance_FireStaff.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Seance_FireStaff.png",
         "TypeDescription": "Fire Staff Skin"
     },
     {
@@ -8023,10 +8034,10 @@
         "IsEnabled": 1,
         "DisplayName": "Guardian's Ossuary",
         "Description": "Once and always a defender from evil. May they rest in peace.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_Seance_TowerShield.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_Seance_TowerShield.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Square_Seance_TowerShield.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Thumbnail_Seance_TowerShield.png",
         "TypeDescription": "Shield Skin"
     },
     {
@@ -8034,10 +8045,10 @@
         "IsEnabled": 1,
         "DisplayName": "Ritual Hut",
         "Description": "Many enter with visions of fortune. Few leave, transformed into little more than bone and dust.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/CampSkin_Portrait_Seance01_A.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/CampSkin_Rectangle_Seance01_A.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/CampSkin_Square_Seance01_A.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/CampSkin_Thumbnail_Seance01_A.png",
         "TypeDescription": "Camp Skin"
     },
     {
@@ -8045,10 +8056,10 @@
         "IsEnabled": 1,
         "DisplayName": "Midnight Portents Armor Bundle",
         "Description": "When the moon looms above and the veil wears thin, they prowl and creak among the shadows.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Armor_Seance.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Armor_Seance.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Armor_Seance.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Armor_Seance.png",
         "TypeDescription": "Bundle"
     },
     {
@@ -8056,21 +8067,21 @@
         "IsEnabled": 1,
         "DisplayName": "Fatebound Ossuary Weapon Bundle",
         "Description": "Legends long past lend power in death, as they did in life.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/services_Portrait_GearSet.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/services_Rectangle_GearSet.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/services_Square_GearSet.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/services_Thumbnail_GearSet.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Weapon_Seance.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Weapon_Seance.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Weapon_Seance.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Weapon_Seance.png",
         "TypeDescription": "Bundle"
     },
     {
         "UniqueTagID": "Emote_Premium_WitchBroom",
         "IsEnabled": 1,
         "DisplayName": "Witch's Broom Permit",
-        "Description": "Fly, my pretty!",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_WitchBroom.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_WitchBroom.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_WitchBroom.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_WitchBroom.png",
+        "Description": "Fly, my pretty! \\nPermit grants the use of Witch's Broom emote for 24 hours.\\n\\nYou can use an Emote Permit by opening the Augments menu from your inventory.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Seance_WitchesBroom.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Seance_WitchesBroom.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Seance_WitchesBroom.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumb_Seance_WitchesBroom.png",
         "TypeDescription": "Emote Permit"
     },
     {
@@ -8078,10 +8089,10 @@
         "IsEnabled": 1,
         "DisplayName": "Gravestone Peace Sign",
         "Description": "For when you \"Accidentally\" kill your dueling partner.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_GravePeaceSign.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_GravePeaceSign.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_GravePeaceSign.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_GravePeaceSign.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Seance_GravePeaceSign.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Seance_GravePeaceSign.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Seance_GravePeaceSign.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Seance_GravePeaceSign.png",
         "TypeDescription": "Emote"
     },
     {
@@ -8089,10 +8100,10 @@
         "IsEnabled": 1,
         "DisplayName": "T-rex Walk",
         "Description": "Everybody do the dinosaur.",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Walk_Trex.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Walk_Trex.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Walk_Trex.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Walk_Trex.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_Seance_TrexWalk.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_Seance_TrexWalk.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_Seance_TrexWalk.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Thumbnail_Seance_TrexWalk.png",
         "TypeDescription": "Emote"
     },
     {
@@ -8111,10 +8122,10 @@
         "IsEnabled": 1,
         "DisplayName": "Séance Mask Bundle",
         "Description": "Spirits from beyond the grave roam more freely on Aeternum than the world at large. Best they don't know you too intimately.",
-        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/emote_Portrait_Spyglass.png",
-        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/emote_Rectangle_Spyglass.png",
-        "SquareImage": "lyshineui/images/mtx/mtx_product_images/emote_Square_Spyglass.png",
-        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/emote_Thumbnail_Spyglass.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_SeanceMasks.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_SeanceMasks.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_SeanceMasks.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_SeanceMasks.png",
         "TypeDescription": "Bundle"
     },
     {

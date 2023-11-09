@@ -586,5 +586,110 @@
         "KeyType": "ItemClass",
         "OldPerk": "PerkID_Armor_DefAeternian",
         "NewPerk": "PerkID_Armor_DefBasic"
+    },
+    {
+        "ID": 85,
+        "Key": "EquippableAmulet+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandSoldier",
+        "NewPerk": "PerkID_Stat_ArmorSoldier"
+    },
+    {
+        "ID": 86,
+        "Key": "EquippableRing+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandSoldier",
+        "NewPerk": "PerkID_Stat_ArmorSoldier"
+    },
+    {
+        "ID": 87,
+        "Key": "EquippableToken+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandSoldier",
+        "NewPerk": "PerkID_Stat_ArmorSoldier"
+    },
+    {
+        "ID": 88,
+        "Key": "EquippableAmulet+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandRanger",
+        "NewPerk": "PerkID_Stat_ArmorRanger"
+    },
+    {
+        "ID": 89,
+        "Key": "EquippableRing+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandRanger",
+        "NewPerk": "PerkID_Stat_ArmorRanger"
+    },
+    {
+        "ID": 90,
+        "Key": "EquippableToken+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandRanger",
+        "NewPerk": "PerkID_Stat_ArmorRanger"
+    },
+    {
+        "ID": 91,
+        "Key": "EquippableAmulet+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandScholar",
+        "NewPerk": "PerkID_Stat_ArmorScholar"
+    },
+    {
+        "ID": 92,
+        "Key": "EquippableRing+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandScholar",
+        "NewPerk": "PerkID_Stat_ArmorScholar"
+    },
+    {
+        "ID": 93,
+        "Key": "EquippableToken+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandScholar",
+        "NewPerk": "PerkID_Stat_ArmorScholar"
+    },
+    {
+        "ID": 94,
+        "Key": "EquippableAmulet+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandSage",
+        "NewPerk": "PerkID_Stat_ArmorSage"
+    },
+    {
+        "ID": 95,
+        "Key": "EquippableRing+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandSage",
+        "NewPerk": "PerkID_Stat_ArmorSage"
+    },
+    {
+        "ID": 96,
+        "Key": "EquippableToken+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandSage",
+        "NewPerk": "PerkID_Stat_ArmorSage"
+    },
+    {
+        "ID": 97,
+        "Key": "EquippableAmulet+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandSentry",
+        "NewPerk": "PerkID_Stat_ArmorSentry"
+    },
+    {
+        "ID": 98,
+        "Key": "EquippableRing+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandSentry",
+        "NewPerk": "PerkID_Stat_ArmorSentry"
+    },
+    {
+        "ID": 99,
+        "Key": "EquippableToken+Jewelry",
+        "KeyType": "ItemClass",
+        "OldPerk": "PerkID_Stat_TwoHandSentry",
+        "NewPerk": "PerkID_Stat_ArmorSentry"
     }
 ]
