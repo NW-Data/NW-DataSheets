@@ -5132,7 +5132,7 @@
     {
         "AbilityID": "Ultimate_Sword_Defender",
         "DisplayName": "Defensive Formation",
-        "Description": "While blocking, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;reduce damage\u0026lt;/font\u0026gt; to all allies within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_Sword.Spell_Ultimate_Sword_Defender.Radius]}m\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ultimate_Sword_Defender.ABSStandard * 100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown 1s.)\u0026lt;/font\u0026gt;",
+        "Description": "While blocking, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;reduce damage\u0026lt;/font\u0026gt; to all allies within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_Sword.Spell_Ultimate_Sword_Defender.Radius]}m\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ultimate_Sword_Defender.ABSStandard * 100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown 1s.)\u0026lt;/font\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/sword_Ult02.png",
         "StatusEffectIcon": "",

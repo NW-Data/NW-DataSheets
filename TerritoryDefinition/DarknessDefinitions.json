@@ -225,7 +225,7 @@
     },
     {
         "TerritoryID": 8015,
-        "NameLocalizationKey": "Baalphazu's Rising",
+        "NameLocalizationKey": "@ui_nightveil_worldboss_baalphazu",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/Baalphazu.png",
         "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/Baalphazu.png",
@@ -433,7 +433,7 @@
     },
     {
         "TerritoryID": 8028,
-        "NameLocalizationKey": "@ui_winterconv_worldboss_winterwarrior",
+        "NameLocalizationKey": "The Forever Winter",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/winter_warrior.png",
         "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/winter_warrior.png",
@@ -496,22 +496,6 @@
         "AudioBank": ""
     },
     {
-        "TerritoryID": 8037,
-        "NameLocalizationKey": "@ui_worldboss_season_02_event",
-        "IsPOI": true,
-        "MapIcon": "",
-        "CompassIcon": "",
-        "TooltipBackground": "",
-        "GroupSize": 0,
-        "POITag": "EventEncounter",
-        "RequiredItemId": "",
-        "RecommendedLevel": 60,
-        "PulseColor": "235 52 52",
-        "AudioGroup": "POI_State",
-        "AudioState": "",
-        "AudioBank": ""
-    },
-    {
         "TerritoryID": 8038,
         "NameLocalizationKey": "Kol Ciron",
         "IsPOI": false,
@@ -529,7 +513,7 @@
     },
     {
         "TerritoryID": 8039,
-        "NameLocalizationKey": "Bulrok the Burning",
+        "NameLocalizationKey": "Bulrok The Burning",
         "IsPOI": false,
         "MapIcon": "LyShineUI\\Images\\Icons\\Dungeons\\icon_dungeon_map_boss.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -545,7 +529,7 @@
     },
     {
         "TerritoryID": 8040,
-        "NameLocalizationKey": "Kondak the Frigid",
+        "NameLocalizationKey": "Kondak The Frigid",
         "IsPOI": false,
         "MapIcon": "LyShineUI\\Images\\Icons\\Dungeons\\icon_dungeon_map_boss.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -561,7 +545,7 @@
     },
     {
         "TerritoryID": 8041,
-        "NameLocalizationKey": "Mawthor, the Thundering",
+        "NameLocalizationKey": "Mawthor, The Thundering",
         "IsPOI": false,
         "MapIcon": "LyShineUI\\Images\\Icons\\Dungeons\\icon_dungeon_map_boss.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",
@@ -577,7 +561,7 @@
     },
     {
         "TerritoryID": 8042,
-        "NameLocalizationKey": "Mosantar, the Earth Eater",
+        "NameLocalizationKey": "Mosantar, The Earth Eater",
         "IsPOI": false,
         "MapIcon": "LyShineUI\\Images\\Icons\\Dungeons\\icon_dungeon_map_boss.png",
         "CompassIcon": "LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png",

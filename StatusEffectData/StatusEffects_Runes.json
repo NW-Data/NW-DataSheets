@@ -13,7 +13,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -251,7 +251,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_BileBomb_Major",
@@ -267,7 +268,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -505,7 +506,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_BileBomb_Greater",
@@ -521,7 +523,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -759,7 +761,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_BileBomb_Survivor",
@@ -775,7 +778,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -1013,7 +1016,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_BileBomb_Survivor_Heal",
@@ -1029,7 +1033,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -1267,7 +1271,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_BileBomb_Dominator",
@@ -1283,7 +1288,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -1521,7 +1526,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_CannonBlast_Burn",
@@ -1537,7 +1543,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -1775,7 +1781,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_Detonate",
@@ -1791,7 +1798,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -2029,7 +2036,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": true
     },
     {
         "StatusID": "Rune_Detonate_CastAoE",
@@ -2045,7 +2053,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -2283,7 +2291,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_Detonate_Major",
@@ -2299,7 +2308,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -2537,7 +2546,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_Detonate_Greater",
@@ -2553,7 +2563,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -2791,7 +2801,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_Detonate_Dominator",
@@ -2807,7 +2818,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -3045,7 +3056,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_StoneForm",
@@ -3061,7 +3073,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -3299,7 +3311,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": true
     },
     {
         "StatusID": "Rune_StoneForm_Major",
@@ -3315,7 +3328,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -3553,7 +3566,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_StoneForm_Greater",
@@ -3569,7 +3583,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -3807,7 +3821,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_StoneForm_Survivor",
@@ -3823,7 +3838,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -4061,7 +4076,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_StoneForm_Dominator",
@@ -4077,7 +4093,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -4315,7 +4331,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_StoneForm_Dominator_CastAoE",
@@ -4331,7 +4348,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -4569,7 +4586,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_GraspingVines",
@@ -4585,7 +4603,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -4823,7 +4841,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_GraspingVines_Major",
@@ -4839,7 +4858,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -5077,7 +5096,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_GraspingVines_Survivor",
@@ -5093,7 +5113,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -5331,7 +5351,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_GraspingVines_Dominator_Rend",
@@ -5347,7 +5368,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -5585,7 +5606,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_GraspingVines_Dominator_ReduceStamRegen",
@@ -5601,7 +5623,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -5839,7 +5861,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_HereticsFall_Greater",
@@ -5855,7 +5878,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -6093,7 +6116,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_HereticsFall_Survivor",
@@ -6109,7 +6133,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -6347,7 +6371,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_FireStorm_DoT Application",
@@ -6363,7 +6388,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -6601,7 +6626,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_FireStorm_DoT",
@@ -6617,7 +6643,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -6855,7 +6881,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_FireStorm_Empower",
@@ -6871,7 +6898,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -7109,7 +7136,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_FireStorm_Major",
@@ -7125,7 +7153,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -7363,7 +7391,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_FireStorm_Greater",
@@ -7379,7 +7408,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -7617,7 +7646,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Rune_FireStorm_DoT _Survivor_Application",
@@ -7633,7 +7663,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -7871,7 +7901,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_FireStorm_Survivor_DoT",
@@ -7887,7 +7918,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -8125,7 +8156,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_FireStorm_Survivor_Cleanse",
@@ -8141,7 +8173,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -8379,7 +8411,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_Sandworm_Slow",
@@ -8395,7 +8428,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -8633,7 +8666,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_Sandworm_Poison",
@@ -8649,7 +8683,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -8887,7 +8921,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_Sandworm_SelfWeaken",
@@ -8903,7 +8938,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -9141,7 +9176,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_Sandworm_Uninterruptible",
@@ -9157,7 +9193,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -9395,7 +9431,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_BeastMode",
@@ -9411,7 +9448,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": true,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -9649,7 +9686,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE"
+        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_BeastMode_Greater_Buff",
@@ -9665,7 +9703,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -9903,7 +9941,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE"
+        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_BeastMode_Survivor_Buff",
@@ -9919,7 +9958,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -10157,7 +10196,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE"
+        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_BeastMode_Survivor_Debuff",
@@ -10173,7 +10213,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -10411,7 +10451,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE"
+        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_BeastMode_Dominator_Buff",
@@ -10427,7 +10468,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -10665,7 +10706,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE"
+        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_BeastMode_Dominator_Debuff",
@@ -10681,7 +10723,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -10919,7 +10961,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE"
+        "RemoveWhenEnteringGameModeRequiringTeleport": "TRUE",
+        "DismissMount ": null
     },
     {
         "StatusID": "Status_Rune_BeastMode_RemoveAll",
@@ -10935,7 +10978,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": "",
+        "IsClientPredicted": null,
         "PotencyPerLevel": "",
         "PotencyPerGearScore": "",
         "DurationScalingPerGearScore": "",
@@ -11173,6 +11216,7 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": "",
         "SourceRuneChargeOnHealthChangeOnly": "",
-        "RemoveWhenEnteringGameModeRequiringTeleport": ""
+        "RemoveWhenEnteringGameModeRequiringTeleport": "",
+        "DismissMount ": null
     }
 ]

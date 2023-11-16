@@ -79,7 +79,7 @@
     {
         "RewardId": "MusicBuff_08",
         "Name": "Never Stop Learning",
-        "Description": "Increases XP gain for Mining, Logging, Skinning and Harvesting.",
+        "Description": "Increases XP for non-Fishing gathering tradeskills.",
         "Rank": 205,
         "FilterType": "DefaultPerformance",
         "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_08",

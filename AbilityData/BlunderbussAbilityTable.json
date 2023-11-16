@@ -4062,7 +4062,7 @@
     {
         "AbilityID": "Blunderbuss_VortexShot_Mod2",
         "DisplayName": "Lingering Flow",
-        "Description": "The area \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;10m\u0026lt;/font\u0026gt; in front of you remains influenced by wind for the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_LingeringFlow.BaseDuration]}s\u0026lt;/font\u0026gt;. You and your allies gain a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_LingeringFlow.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt; move speed bonus while in the area.",
+        "Description": "The area \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;10m\u0026lt;/font\u0026gt; in front of you remains influenced by wind for the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_LingeringFlow.BaseDuration]}s\u0026lt;/font\u0026gt;. You and your allies gain a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_LingeringFlow.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt; move speed bonus while in the area.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability03_Mod02.png",
         "StatusEffectIcon": "",

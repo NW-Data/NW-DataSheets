@@ -120,6 +120,18 @@
         "Description": ""
     },
     {
+        "CategoryID": "PrismaticTools",
+        "ImagePath": "Icons/Items/Drawing/placeholder",
+        "DisplayText": "Prismatic Scarab",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Prospecting",
+        "ImagePath": "Icons/Items/Drawing/placeholder",
+        "DisplayText": "Prospecting",
+        "Description": ""
+    },
+    {
         "CategoryID": "Ingredient",
         "ImagePath": "Icons/Items/Drawing/placeholder",
         "DisplayText": "Ingredients",
@@ -5360,7 +5372,7 @@
     {
         "CategoryID": "UniqueDungeonReps12",
         "ImagePath": "",
-        "DisplayText": "Unique Crystalclaw Caverns Replicas",
+        "DisplayText": "Unique Savage Divide Replicas",
         "Description": ""
     },
     {
@@ -5403,6 +5415,12 @@
         "CategoryID": "FoodComponents",
         "ImagePath": "",
         "DisplayText": "Compound Ingredients",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Mounts",
+        "ImagePath": "",
+        "DisplayText": "Mounts",
         "Description": ""
     },
     {
@@ -6273,6 +6291,42 @@
         "CategoryID": "DimensionalTether",
         "ImagePath": "",
         "DisplayText": "Dimensional Tether",
+        "Description": ""
+    },
+    {
+        "CategoryID": "cookingrecipes",
+        "ImagePath": "",
+        "DisplayText": "Cooking Recipes",
+        "Description": ""
+    },
+    {
+        "CategoryID": "armoringrecipes",
+        "ImagePath": "",
+        "DisplayText": "Armoring Patterns",
+        "Description": ""
+    },
+    {
+        "CategoryID": "weaponsmithingrecipes",
+        "ImagePath": "",
+        "DisplayText": "Weaponsmithing Patterns",
+        "Description": ""
+    },
+    {
+        "CategoryID": "engineeringrecipes",
+        "ImagePath": "",
+        "DisplayText": "Engineering Patterns",
+        "Description": ""
+    },
+    {
+        "CategoryID": "furnishingrecipes",
+        "ImagePath": "",
+        "DisplayText": "Furnishing Schematics",
+        "Description": ""
+    },
+    {
+        "CategoryID": "arcanarecipes",
+        "ImagePath": "",
+        "DisplayText": "Arcana Patterns",
         "Description": ""
     }
 ]
