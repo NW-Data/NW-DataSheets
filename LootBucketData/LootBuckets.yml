@@ -595,9 +595,9 @@ ProcArmorHeavy:
     HeavyFeet_PlateDropT3                                                             1 FALSE      MinContLevel:19-38   
     HeavyFeet_PlateDropT4                                                             1 FALSE      MinContLevel:39-58   
     HeavyFeet_PlateDropT5                                                             1 FALSE      MinContLevel:59      
-    HeavyHead_HeavyDropT2                                                             1 FALSE      MinContLevel:19-38   
-    HeavyHead_HeavyDropT3                                                             1 FALSE      MinContLevel:39-58   
-    HeavyHead_HeavyDropT4                                                             1 FALSE      MinContLevel:59      
+    HeavyHead_HeavyDropT2                                                             1 FALSE      MinContLevel:0-18    
+    HeavyHead_HeavyDropT3                                                             1 FALSE      MinContLevel:19-38   
+    HeavyHead_HeavyDropT4                                                             1 FALSE      MinContLevel:39-58   
     HeavyChest_HeavyDropT3                                                            1 FALSE      MinContLevel:19-38   
     HeavyChest_HeavyDropT4                                                            1 FALSE      MinContLevel:39-58   
     HeavyChest_HeavyDropT5                                                            1 FALSE      MinContLevel:59      
@@ -1447,9 +1447,9 @@ FamilyArmor:
     HeavyFeet_PlateDropT3                                                             1 FALSE      Beast,MinContLevel:19-38 
     HeavyFeet_PlateDropT4                                                             1 FALSE      Beast,MinContLevel:39-58 
     HeavyFeet_PlateDropT5                                                             1 FALSE      Beast,MinContLevel:59 
-    HeavyHead_HeavyDropT2                                                             1 FALSE      Beast,MinContLevel:19-38 
-    HeavyHead_HeavyDropT3                                                             1 FALSE      Beast,MinContLevel:39-58 
-    HeavyHead_HeavyDropT4                                                             1 FALSE      Beast,MinContLevel:59 
+    HeavyHead_HeavyDropT2                                                             1 FALSE      Beast,MinContLevel:0-18 
+    HeavyHead_HeavyDropT3                                                             1 FALSE      Beast,MinContLevel:19-38 
+    HeavyHead_HeavyDropT4                                                             1 FALSE      Beast,MinContLevel:39-58 
     HeavyChest_HeavyDropT3                                                            1 FALSE      Beast,MinContLevel:19-38 
     HeavyChest_HeavyDropT4                                                            1 FALSE      Beast,MinContLevel:39-58 
     HeavyChest_HeavyDropT5                                                            1 FALSE      Beast,MinContLevel:59 
@@ -4487,9 +4487,9 @@ RewardArmorBucket:
     HeavyFeet_PlateDropT3                                                             1 FALSE      RewardArmorT3        
     HeavyFeet_PlateDropT4                                                             1 FALSE      RewardArmorT4        
     HeavyFeet_PlateDropT5                                                             1 FALSE      RewardArmorT5        
-    HeavyHead_HeavyDropT2                                                             1 FALSE      RewardArmorT3        
-    HeavyHead_HeavyDropT3                                                             1 FALSE      RewardArmorT4        
-    HeavyHead_HeavyDropT4                                                             1 FALSE      RewardArmorT5        
+    HeavyHead_HeavyDropT2                                                             1 FALSE      RewardArmorT2        
+    HeavyHead_HeavyDropT3                                                             1 FALSE      RewardArmorT3        
+    HeavyHead_HeavyDropT4                                                             1 FALSE      RewardArmorT4        
     HeavyChest_HeavyDropT3                                                            1 FALSE      RewardArmorT3        
     HeavyChest_HeavyDropT4                                                            1 FALSE      RewardArmorT4        
     HeavyChest_HeavyDropT5                                                            1 FALSE      RewardArmorT5        
@@ -13219,14 +13219,14 @@ PostCapResources:
     EssenceSpiritT1                                                                 1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3,PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
     EssenceLifeT1                                                                   1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3,PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
     EssenceDeathT1                                                                  1-2 TRUE       PostCapJewelcraftingT1,PostCapJewelcraftingT2,PostCapJewelcraftingT3,PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
-    CinnabarT1                                                                      2-3 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3,PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
-    TolviumT1                                                                       2-3 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3,PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
-    WildwoodT1                                                                      2-3 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3,PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
-    BarbvineT1                                                                      2-3 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3,PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
-    SmolderhideT1                                                                   3-5 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3,PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
-    ScarhideT1                                                                      3-5 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3,PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
-    BlisterweaveT1                                                                  2-3 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3,PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
-    ScaleclothT1                                                                    2-3 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3,PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
+    CinnabarT1                                                                      2-3 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
+    TolviumT1                                                                       2-3 TRUE       PostCapMiningT1,PostCapMiningT2,PostCapMiningT3 
+    WildwoodT1                                                                      2-3 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
+    BarbvineT1                                                                      2-3 TRUE       PostCapLoggingT1,PostCapLoggingT2,PostCapLoggingT3 
+    SmolderhideT1                                                                   3-5 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
+    ScarhideT1                                                                      3-5 TRUE       PostCapSkinningT1,PostCapSkinningT2,PostCapSkinningT3 
+    BlisterweaveT1                                                                  2-3 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
+    ScaleclothT1                                                                    2-3 TRUE       PostCapHarvestingT1,PostCapHarvestingT2,PostCapHarvestingT3 
     AmberT4                                                                         2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3,PostCapStonecuttingT1_B,PostCapStonecuttingT2_B,PostCapStonecuttingT3_B 
     AmethystT4                                                                      2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3,PostCapStonecuttingT1_B,PostCapStonecuttingT2_B,PostCapStonecuttingT3_B 
     AquamarineT4                                                                    2-4 TRUE       PostCapStonecuttingT1,PostCapStonecuttingT2,PostCapStonecuttingT3,PostCapStonecuttingT1_B,PostCapStonecuttingT2_B,PostCapStonecuttingT3_B 
@@ -13307,10 +13307,10 @@ PostCapResources:
     NutT1                                                                           3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3,PostCapRidingT1_B,PostCapRidingT2_B,PostCapRidingT3_B 
     ButterT1                                                                        3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3,PostCapRidingT1_B,PostCapRidingT2_B,PostCapRidingT3_B 
     MilkT1                                                                          3-5 TRUE       PostCapRidingT1,PostCapRidingT2,PostCapRidingT3,PostCapRidingT1_B,PostCapRidingT2_B,PostCapRidingT3_B 
-    OreT52                                                                          2-3 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
-    WoodT52                                                                         2-3 TRUE       PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
-    RawhideT52                                                                      3-5 TRUE       PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
-    FiberT52                                                                        2-3 TRUE       PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
+    OreT52                                                                        20-30 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
+    WoodT52                                                                       20-30 TRUE       PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
+    RawhideT52                                                                    30-40 TRUE       PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
+    FiberT52                                                                      30-40 TRUE       PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
 PostCapRecipes:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -21665,6 +21665,21 @@ JoelsHiddenTreasures:
     HeavyHands_MarauderLegatusT5_v2                                                None                                 
     HeavyLegs_MarauderLegatusT5_v2                                                 None                                 
     HeavyFeet_MarauderLegatusT5_v2                                                 None                                 
+    scarab_con_amulet_mythril_t52                                                  None                                 
+    scarab_con_earring_mythril_t52                                                 None                                 
+    scarab_con_ring_mythril_t52                                                    None                                 
+    scarab_dex_amulet_mythril_t52                                                  None                                 
+    scarab_dex_earring_mythril_t52                                                 None                                 
+    scarab_dex_ring_mythril_t52                                                    None                                 
+    scarab_foc_amulet_mythril_t52                                                  None                                 
+    scarab_foc_earring_mythril_t52                                                 None                                 
+    scarab_foc_ring_mythril_t52                                                    None                                 
+    scarab_int_amulet_mythril_t52                                                  None                                 
+    scarab_int_earring_mythril_t52                                                 None                                 
+    scarab_int_ring_mythril_t52                                                    None                                 
+    scarab_str_amulet_mythril_t52                                                  None                                 
+    scarab_str_earring_mythril_t52                                                 None                                 
+    scarab_str_ring_mythril_t52                                                    None                                 
 ProcWeapons_GuaranteeRare:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22431,15 +22446,6 @@ DimensionalTetherPvP:
     HeavyLegs_DimensionalTetherPvP_T5                                                 1 False      Level:59             
     HeavyFeet_DimensionalTetherPvP_T5                                                 1 False      Level:59             
     HeavyHands_DimensionalTetherPvP_T5                                                1 False      Level:59             
-HalloweenCandy:
-  Contents: |
-    ItemId                                                                          Qty MatchOne   Tags
-    ________________________________________________________________________________________________________________
-    FoodCorruptedChocolateT5                                                          1 False                           
-    FoodAncientGummyBearT5                                                            1 False                           
-    FoodAngryEarthCandyFishT5                                                         1 False                           
-    FoodLostBlackLicoriceT5                                                           1 False                           
-    FoodLostBlackLicoriceT5Bad                                                        1 False                           
 RafflebonesFOTB_DungeonBossGear:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22588,25 +22594,6 @@ HalloweenOldGear:
     2hLifeStaff_HalloweenT5                                                           1 False                           
     1hGreatSword_HalloweenT5                                                          1 False                           
     2hBlunderbuss_HalloweenT5                                                         1 False                           
-Halloween2023_Armor:
-  Contents: |
-    ItemId                                                                          Qty MatchOne   Tags
-    ________________________________________________________________________________________________________________
-    LightChest_Halloween2023_T5                                                       1 False                           
-    LightHead_Halloween2023_T5                                                        1 False                           
-    LightLegs_Halloween2023_T5                                                        1 False                           
-    LightFeet_Halloween2023_T5                                                        1 False                           
-    LightHands_Halloween2023_T5                                                       1 False                           
-    MediumChest_Halloween2023_T5                                                      1 False                           
-    MediumHead_Halloween2023_T5                                                       1 False                           
-    MediumLegs_Halloween2023_T5                                                       1 False                           
-    MediumFeet_Halloween2023_T5                                                       1 False                           
-    MediumHands_Halloween2023_T5                                                      1 False                           
-    HeavyChest_Halloween2023_T5                                                       1 False                           
-    HeavyHead_Halloween2023_T5                                                        1 False                           
-    HeavyLegs_Halloween2023_T5                                                        1 False                           
-    HeavyFeet_Halloween2023_T5                                                        1 False                           
-    HeavyHands_Halloween2023_T5                                                       1 False                           
 DailyArena_LowWeapons:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22836,7 +22823,7 @@ ExpeditionBoxMateria:
     HeavyLegs_PVP_Prestige600T5                                                       1 FALSE      Level:59             
     1hLongsword_PVPT5                                                                 1 FALSE      Level:59             
     1hLongsword_PVP_PrestigeT5                                                        1 FALSE      Level:59             
-    1hLongsword_PVP_NamedT5                                                           1 FALSE      Level:59             
+    1hLongsword_PVP_NamedT5_V2                                                        1 FALSE      Level:59             
     HeavyFeet_PVP_Prestige600T5                                                       1 FALSE      Level:59             
     1hThrowingAxe_PVPT2                                                               1 FALSE      Level:0-18           
     1hThrowingAxe_PVP_PrestigeT2                                                      1 FALSE      Level:0-18           
@@ -22852,7 +22839,7 @@ ExpeditionBoxMateria:
     MediumHands_PVP_Prestige600T5                                                     1 FALSE      Level:59             
     1hThrowingAxe_PVPT5                                                               1 FALSE      Level:59             
     1hThrowingAxe_PVP_PrestigeT5                                                      1 FALSE      Level:59             
-    1hThrowingAxe_PVP_NamedT5                                                         1 FALSE      Level:59             
+    1hThrowingAxe_PVP_NamedT5_V2                                                      1 FALSE      Level:59             
     MediumLegs_PVP_Prestige600T5                                                      1 FALSE      Level:59             
     2hWarhammer_PVPT2                                                                 1 FALSE      Level:0-18           
     2hWarhammer_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
@@ -22868,7 +22855,7 @@ ExpeditionBoxMateria:
     LightChest_PVP_Prestige600T5                                                      1 FALSE      Level:59             
     2hWarhammer_PVPT5                                                                 1 FALSE      Level:59             
     2hWarhammer_PVP_PrestigeT5                                                        1 FALSE      Level:59             
-    2hWarhammer_PVP_NamedT5                                                           1 FALSE      Level:59             
+    2hWarhammer_PVP_NamedT5_V2                                                        1 FALSE      Level:59             
     LightHands_PVP_Prestige600T5                                                      1 FALSE      Level:59             
     2hGreatAxe_PVPT2                                                                  1 FALSE      Level:0-18           
     2hGreatAxe_PVP_PrestigeT2                                                         1 FALSE      Level:0-18           
@@ -22884,7 +22871,7 @@ ExpeditionBoxMateria:
     1hLongsword_PVP_Prestige600T5                                                     1 FALSE      Level:59             
     2hGreatAxe_PVPT5                                                                  1 FALSE      Level:59             
     2hGreatAxe_PVP_PrestigeT5                                                         1 FALSE      Level:59             
-    2hGreatAxe_PVP_NamedT5                                                            1 FALSE      Level:59             
+    2hGreatAxe_PVP_NamedT5_V2                                                         1 FALSE      Level:59             
     1hThrowingAxe_PVP_Prestige600T5                                                   1 FALSE      Level:59             
     2hBow_PVPT2                                                                       1 FALSE      Level:0-18           
     2hBow_PVP_PrestigeT2                                                              1 FALSE      Level:0-18           
@@ -22900,7 +22887,7 @@ ExpeditionBoxMateria:
     2hBow_PVP_Prestige600T5                                                           1 FALSE      Level:59             
     2hBow_PVPT5                                                                       1 FALSE      Level:59             
     2hBow_PVP_PrestigeT5                                                              1 FALSE      Level:59             
-    2hBow_PVP_NamedT5                                                                 1 FALSE      Level:59             
+    2hBow_PVP_NamedT5_V2                                                              1 FALSE      Level:59             
     2hMusket_PVP_Prestige600T5                                                        1 FALSE      Level:59             
     2hMusket_PVPT2                                                                    1 FALSE      Level:0-18           
     2hMusket_PVP_PrestigeT2                                                           1 FALSE      Level:0-18           
@@ -22916,7 +22903,7 @@ ExpeditionBoxMateria:
     1hTowerShield_PVP_Prestige600T5                                                   1 FALSE      Level:59             
     2hMusket_PVPT5                                                                    1 FALSE      Level:59             
     2hMusket_PVP_PrestigeT5                                                           1 FALSE      Level:59             
-    2hMusket_PVP_NamedT5                                                              1 FALSE      Level:59             
+    2hMusket_PVP_NamedT5_V2                                                           1 FALSE      Level:59             
     2hStaffFire_PVP_Prestige600T5                                                     1 FALSE      Level:59             
     1hRoundShield_PVPT2                                                               1 FALSE      Level:0-18           
     1hRoundShield_PVP_PrestigeT2                                                      1 FALSE      Level:0-18           
@@ -22932,7 +22919,7 @@ ExpeditionBoxMateria:
     1hRapier_PVP_Prestige600T5                                                        1 FALSE      Level:59             
     1hRoundShield_PVPT5                                                               1 FALSE      Level:59             
     1hRoundShield_PVP_PrestigeT5                                                      1 FALSE      Level:59             
-    1hRoundShield_PVP_NamedT5                                                         1 FALSE      Level:59             
+    1hRoundShield_PVP_NamedT5_V2                                                      1 FALSE      Level:59             
     1hGauntletIce_PVP_Prestige600T5                                                   1 FALSE      Level:59             
     1hKiteShield_PVPT3                                                                1 FALSE      Level:19-38          
     1hKiteShield_PVP_PrestigeT3                                                       1 FALSE      Level:19-38          
@@ -22944,14 +22931,14 @@ ExpeditionBoxMateria:
     2hBlunderbuss_PVP_Prestige600T5                                                   1 FALSE      Level:59             
     1hKiteShield_PVPT5                                                                1 FALSE      Level:59             
     1hKiteShield_PVP_PrestigeT5                                                       1 FALSE      Level:59             
-    1hKiteShield_PVP_NamedT5                                                          1 FALSE      Level:59             
+    1hKiteShield_PVP_NamedT5_V2                                                       1 FALSE      Level:59             
     2hGreatSword_PVP_Prestige600T5                                                    1 FALSE      Level:59             
     1hTowerShield_PVPT4                                                               1 FALSE      Level:39-58          
     1hTowerShield_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
     1hTowerShield_PVP_NamedT4                                                         1 FALSE      Level:39-58          
     1hTowerShield_PVPT5                                                               1 FALSE      Level:59             
     1hTowerShield_PVP_PrestigeT5                                                      1 FALSE      Level:59             
-    1hTowerShield_PVP_NamedT5                                                         1 FALSE      Level:59             
+    1hTowerShield_PVP_NamedT5_V2                                                      1 FALSE      Level:59             
     2hStaffFire_PVPT2                                                                 1 FALSE      Level:0-18           
     2hStaffFire_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
     2hStaffFire_PVP_NamedT2                                                           1 FALSE      Level:0-18           
@@ -22963,7 +22950,7 @@ ExpeditionBoxMateria:
     2hStaffFire_PVP_NamedT4                                                           1 FALSE      Level:39-58          
     2hStaffFire_PVPT5                                                                 1 FALSE      Level:59             
     2hStaffFire_PVP_PrestigeT5                                                        1 FALSE      Level:59             
-    2hStaffFire_PVP_NamedT5                                                           1 FALSE      Level:59             
+    2hStaffFire_PVP_NamedT5_V2                                                        1 FALSE      Level:59             
     2hStaffLife_PVPT2                                                                 1 FALSE      Level:0-18           
     2hStaffLife_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
     2hStaffLife_PVP_NamedT2                                                           1 FALSE      Level:0-18           
@@ -22975,7 +22962,7 @@ ExpeditionBoxMateria:
     2hStaffLife_PVP_NamedT4                                                           1 FALSE      Level:39-58          
     2hStaffLife_PVPT5                                                                 1 FALSE      Level:59             
     2hStaffLife_PVP_PrestigeT5                                                        1 FALSE      Level:59             
-    2hStaffLife_PVP_NamedT5                                                           1 FALSE      Level:59             
+    2hStaffLife_PVP_NamedT5_V2                                                        1 FALSE      Level:59             
     2hSpear_PVPT2                                                                     1 FALSE      Level:0-18           
     2hSpear_PVP_PrestigeT2                                                            1 FALSE      Level:0-18           
     2hSpear_PVP_NamedT2                                                               1 FALSE      Level:0-18           
@@ -22987,7 +22974,7 @@ ExpeditionBoxMateria:
     2hSpear_PVP_NamedT4                                                               1 FALSE      Level:39-58          
     2hSpear_PVPT5                                                                     1 FALSE      Level:59             
     2hSpear_PVP_PrestigeT5                                                            1 FALSE      Level:59             
-    2hSpear_PVP_NamedT5                                                               1 FALSE      Level:59             
+    2hSpear_PVP_NamedT5_V2                                                            1 FALSE      Level:59             
     1hRapier_PVPT2                                                                    1 FALSE      Level:0-18           
     1hRapier_PVP_PrestigeT2                                                           1 FALSE      Level:0-18           
     1hRapier_PVP_NamedT2                                                              1 FALSE      Level:0-18           
@@ -22999,7 +22986,7 @@ ExpeditionBoxMateria:
     1hRapier_PVP_NamedT4                                                              1 FALSE      Level:39-58          
     1hRapier_PVPT5                                                                    1 FALSE      Level:59             
     1hRapier_PVP_PrestigeT5                                                           1 FALSE      Level:59             
-    1hRapier_PVP_NamedT5                                                              1 FALSE      Level:59             
+    1hRapier_PVP_NamedT5_V2                                                           1 FALSE      Level:59             
     1hGauntletIce_PVPT2                                                               1 FALSE      Level:0-18           
     1hGauntletIce_PVP_PrestigeT2                                                      1 FALSE      Level:0-18           
     1hGauntletIce_PVP_NamedT2                                                         1 FALSE      Level:0-18           
@@ -23011,7 +22998,7 @@ ExpeditionBoxMateria:
     1hGauntletIce_PVP_NamedT4                                                         1 FALSE      Level:39-58          
     1hGauntletIce_PVPT5                                                               1 FALSE      Level:59             
     1hGauntletIce_PVP_PrestigeT5                                                      1 FALSE      Level:59             
-    1hGauntletIce_PVP_NamedT5                                                         1 FALSE      Level:59             
+    1hGauntletIce_PVP_NamedT5_V2                                                      1 FALSE      Level:59             
     1hGauntletVoid_PVPT2                                                              1 FALSE      Level:0-18           
     1hGauntletVoid_PVP_PrestigeT2                                                     1 FALSE      Level:0-18           
     1hGauntletVoid_PVP_NamedT2                                                        1 FALSE      Level:0-18           
@@ -23023,13 +23010,13 @@ ExpeditionBoxMateria:
     1hGauntletVoid_PVP_NamedT4                                                        1 FALSE      Level:39-58          
     1hGauntletVoid_PVPT5                                                              1 FALSE      Level:59             
     1hGauntletVoid_PVP_PrestigeT5                                                     1 FALSE      Level:59             
-    1hGauntletVoid_PVP_NamedT5                                                        1 FALSE      Level:59             
+    1hGauntletVoid_PVP_NamedT5_V2                                                     1 FALSE      Level:59             
     2hBlunderbuss_PVPT4                                                               1 FALSE      Level:39-58          
     2hBlunderbuss_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
     2hBlunderbuss_PVP_NamedT4                                                         1 FALSE      Level:39-58          
     2hBlunderbuss_PVPT5                                                               1 FALSE      Level:59             
     2hBlunderbuss_PVP_PrestigeT5                                                      1 FALSE      Level:59             
-    2hBlunderbuss_PVP_NamedT5                                                         1 FALSE      Level:59             
+    2hBlunderbuss_PVP_NamedT5_V2                                                      1 FALSE      Level:59             
     1hLongsword_PVPT2                                                                 1 FALSE      Level:0-18           
     2hGreatSword_PVPT4                                                                1 FALSE      Level:39-58,equipped 
     1hLongsword_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
@@ -23038,4 +23025,4 @@ ExpeditionBoxMateria:
     2hGreatSword_PVP_NamedT4                                                          1 FALSE      Level:39-58,equipped 
     2hGreatSword_PVPT5                                                                1 FALSE      Level:59,equipped    
     2hGreatSword_PVP_PrestigeT5                                                       1 FALSE      Level:59,equipped    
-    2hGreatSword_PVP_NamedT5                                                          1 FALSE      Level:59,equipped    
+    2hGreatSword_PVP_NamedT5_V2                                                       1 FALSE      Level:59,equipped    

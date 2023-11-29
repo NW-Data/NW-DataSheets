@@ -147,7 +147,7 @@
                 }
             }
         ],
-        "0x3340421e": [
+        "camping unlock by level": [
             5,
             15,
             25,
@@ -326,19 +326,16 @@
                 "value": 358666504
             }
         },
-        "equipped tag ignore classes": {
-            "__type": "f28b9012-a592-5305-858f-88abe1ebb944",
-            "element": 157
-        },
-        "loot biasing item classes": {
-            "__type": "f28b9012-a592-5305-858f-88abe1ebb944",
-            "element": 141,
-            "element": 141
-        },
-        "0x89a11f3c": {
-            "__type": "f28b9012-a592-5305-858f-88abe1ebb944",
-            "element": 157
-        },
+        "equipped tag ignore classes": [
+            157
+        ],
+        "loot biasing item classes": [
+            121,
+            141
+        ],
+        "loot biasing exception item classes": [
+            157
+        ],
         "attribute bias exclusive label": {
             "__type": "EditCrc",
             "m_valuestr": "Attribute",
@@ -347,57 +344,56 @@
                 "value": 4202360827
             }
         },
-        "attribute exclusive label map": {
-            "__type": "3edc016a-52cf-5bb9-b450-2550db28f9e2",
-            "element": {
+        "attribute exclusive label map": [
+            {
                 "__type": "6270fe26-ce9d-5972-b088-e57b8e6d9f66",
-                "value1": 3,
+                "value1": 0,
                 "value2": {
                     "__type": "EditCrc",
-                    "m_valuestr": "Dexterity",
+                    "m_valuestr": "Constitution",
                     "m_valuecrc": {
                         "__type": "Crc32",
-                        "value": 2245111469
+                        "value": 2645859293
                     }
                 }
             },
-            "element": {
+            {
                 "__type": "6270fe26-ce9d-5972-b088-e57b8e6d9f66",
-                "value1": 3,
+                "value1": 1,
                 "value2": {
                     "__type": "EditCrc",
-                    "m_valuestr": "Dexterity",
+                    "m_valuestr": "Focus",
                     "m_valuecrc": {
                         "__type": "Crc32",
-                        "value": 2245111469
+                        "value": 1656769257
                     }
                 }
             },
-            "element": {
+            {
                 "__type": "6270fe26-ce9d-5972-b088-e57b8e6d9f66",
-                "value1": 3,
+                "value1": 4,
                 "value2": {
                     "__type": "EditCrc",
-                    "m_valuestr": "Dexterity",
+                    "m_valuestr": "Intelligence",
                     "m_valuecrc": {
                         "__type": "Crc32",
-                        "value": 2245111469
+                        "value": 3621316291
                     }
                 }
             },
-            "element": {
+            {
                 "__type": "6270fe26-ce9d-5972-b088-e57b8e6d9f66",
-                "value1": 3,
+                "value1": 2,
                 "value2": {
                     "__type": "EditCrc",
-                    "m_valuestr": "Dexterity",
+                    "m_valuestr": "Strength",
                     "m_valuecrc": {
                         "__type": "Crc32",
-                        "value": 2245111469
+                        "value": 3602506200
                     }
                 }
             },
-            "element": {
+            {
                 "__type": "6270fe26-ce9d-5972-b088-e57b8e6d9f66",
                 "value1": 3,
                 "value2": {
@@ -409,7 +405,7 @@
                     }
                 }
             }
-        },
+        ],
         "azoth currency": "Azoth_Currency",
         "azoth currency id": {
             "__type": "Crc32",
@@ -636,12 +632,8 @@
                     "max perk channel": 0,
                     "gem slot probability": 0,
                     "attribute perk probability": 0,
-                    "general gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43"
-                    },
-                    "crafting gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43"
-                    },
+                    "general gear score perk count": [],
+                    "crafting gear score perk count": [],
                     "attribute perk bucket": "",
                     "attribute perk bucket id": {
                         "__type": "Crc32",
@@ -653,12 +645,8 @@
                     "max perk channel": 0,
                     "gem slot probability": 0,
                     "attribute perk probability": 0,
-                    "general gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43"
-                    },
-                    "crafting gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43"
-                    },
+                    "general gear score perk count": [],
+                    "crafting gear score perk count": [],
                     "attribute perk bucket": "",
                     "attribute perk bucket id": {
                         "__type": "Crc32",
@@ -670,31 +658,30 @@
                     "max perk channel": 2,
                     "gem slot probability": 0,
                     "attribute perk probability": 0,
-                    "general gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
-                        "element": {
+                    "general gear score perk count": [
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 2,
+                            "value1": 0,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 170,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 169
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 2,
+                            "value1": 1,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 170,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 169
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
                             "value1": 2,
                             "value2": [
@@ -705,32 +692,31 @@
                                 }
                             ]
                         }
-                    },
-                    "crafting gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
-                        "element": {
+                    ],
+                    "crafting gear score perk count": [
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 2,
+                            "value1": 0,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 170,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 169
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 2,
+                            "value1": 1,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 170,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 169
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
                             "value1": 2,
                             "value2": [
@@ -741,7 +727,7 @@
                                 }
                             ]
                         }
-                    },
+                    ],
                     "attribute perk bucket": "CraftingAttributeBucketT2",
                     "attribute perk bucket id": {
                         "__type": "Crc32",
@@ -753,42 +739,41 @@
                     "max perk channel": 2,
                     "gem slot probability": 0,
                     "attribute perk probability": 0,
-                    "general gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
-                        "element": {
+                    "general gear score perk count": [
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 3,
+                            "value1": 0,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 325,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 269
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 3,
+                            "value1": 1,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 325,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 269
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 3,
+                            "value1": 2,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 325,
-                                    "value2": 700
+                                    "value1": 270,
+                                    "value2": 324
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
                             "value1": 3,
                             "value2": [
@@ -799,43 +784,42 @@
                                 }
                             ]
                         }
-                    },
-                    "crafting gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
-                        "element": {
+                    ],
+                    "crafting gear score perk count": [
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 3,
+                            "value1": 0,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 325,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 269
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 3,
+                            "value1": 1,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 325,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 269
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 3,
+                            "value1": 2,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 325,
-                                    "value2": 700
+                                    "value1": 270,
+                                    "value2": 324
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
                             "value1": 3,
                             "value2": [
@@ -846,7 +830,7 @@
                                 }
                             ]
                         }
-                    },
+                    ],
                     "attribute perk bucket": "CraftingAttributeBucketT3",
                     "attribute perk bucket id": {
                         "__type": "Crc32",
@@ -858,53 +842,52 @@
                     "max perk channel": 3,
                     "gem slot probability": 0,
                     "attribute perk probability": 0,
-                    "general gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
-                        "element": {
+                    "general gear score perk count": [
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 4,
+                            "value1": 0,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 450,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 369
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 4,
+                            "value1": 1,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 450,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 369
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 4,
+                            "value1": 2,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 450,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 369
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 4,
+                            "value1": 3,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 450,
-                                    "value2": 700
+                                    "value1": 370,
+                                    "value2": 449
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
                             "value1": 4,
                             "value2": [
@@ -915,54 +898,53 @@
                                 }
                             ]
                         }
-                    },
-                    "crafting gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
-                        "element": {
+                    ],
+                    "crafting gear score perk count": [
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 4,
+                            "value1": 0,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 450,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 369
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 4,
+                            "value1": 1,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 450,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 369
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 4,
+                            "value1": 2,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 450,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 369
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 4,
+                            "value1": 3,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 450,
-                                    "value2": 700
+                                    "value1": 370,
+                                    "value2": 449
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
                             "value1": 4,
                             "value2": [
@@ -973,7 +955,7 @@
                                 }
                             ]
                         }
-                    },
+                    ],
                     "attribute perk bucket": "CraftingAttributeBucketT4",
                     "attribute perk bucket id": {
                         "__type": "Crc32",
@@ -985,89 +967,68 @@
                     "max perk channel": 4,
                     "gem slot probability": 0,
                     "attribute perk probability": 0,
-                    "general gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
-                        "element": {
+                    "general gear score perk count": [
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 5,
+                            "value1": 0,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 600,
-                                    "value2": 625
-                                },
-                                {
-                                    "__type": "AZStd::pair",
-                                    "value1": 675,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 469
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 5,
+                            "value1": 1,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 600,
-                                    "value2": 625
-                                },
-                                {
-                                    "__type": "AZStd::pair",
-                                    "value1": 675,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 469
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 5,
+                            "value1": 2,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 600,
-                                    "value2": 625
-                                },
-                                {
-                                    "__type": "AZStd::pair",
-                                    "value1": 675,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 469
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 5,
+                            "value1": 3,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 600,
-                                    "value2": 625
-                                },
-                                {
-                                    "__type": "AZStd::pair",
-                                    "value1": 675,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 469
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 5,
+                            "value1": 4,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 600,
-                                    "value2": 625
+                                    "value1": 470,
+                                    "value2": 599
                                 },
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 675,
-                                    "value2": 700
+                                    "value1": 626,
+                                    "value2": 674
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
                             "value1": 5,
                             "value2": [
@@ -1083,90 +1044,69 @@
                                 }
                             ]
                         }
-                    },
-                    "crafting gear score perk count": {
-                        "__type": "98f0b819-838f-5548-b645-4cf0959f2d43",
-                        "element": {
+                    ],
+                    "crafting gear score perk count": [
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 5,
+                            "value1": 0,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 600,
-                                    "value2": 625
-                                },
-                                {
-                                    "__type": "AZStd::pair",
-                                    "value1": 675,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 469
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 5,
+                            "value1": 1,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 600,
-                                    "value2": 625
-                                },
-                                {
-                                    "__type": "AZStd::pair",
-                                    "value1": 675,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 469
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 5,
+                            "value1": 2,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 600,
-                                    "value2": 625
-                                },
-                                {
-                                    "__type": "AZStd::pair",
-                                    "value1": 675,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 469
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 5,
+                            "value1": 3,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 600,
-                                    "value2": 625
-                                },
-                                {
-                                    "__type": "AZStd::pair",
-                                    "value1": 675,
-                                    "value2": 700
+                                    "value1": 0,
+                                    "value2": 469
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
-                            "value1": 5,
+                            "value1": 4,
                             "value2": [
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 600,
-                                    "value2": 625
+                                    "value1": 470,
+                                    "value2": 599
                                 },
                                 {
                                     "__type": "AZStd::pair",
-                                    "value1": 675,
-                                    "value2": 700
+                                    "value1": 626,
+                                    "value2": 674
                                 }
                             ]
                         },
-                        "element": {
+                        {
                             "__type": "14f31861-6045-5b62-b6d2-1fa6da976fb8",
                             "value1": 5,
                             "value2": [
@@ -1182,7 +1122,7 @@
                                 }
                             ]
                         }
-                    },
+                    ],
                     "attribute perk bucket": "CraftingAttributeBucketT5",
                     "attribute perk bucket id": {
                         "__type": "Crc32",
@@ -1265,33 +1205,32 @@
                 "value2": 45
             }
         ],
-        "0xcd8f6813": {
-            "__type": "363ed6cd-26b0-5fb8-bf5c-a0320f380286",
-            "element": {
+        "paperdoll slot unlocks by tradeskill rank": [
+            {
                 "__type": "de1cb64d-ebc4-583e-af31-eb257b8ac677",
-                "value1": 49,
+                "value1": 46,
                 "value2": "Riding",
-                "0x4c7b0d76": 250
+                "value3": 20
             },
-            "element": {
+            {
                 "__type": "de1cb64d-ebc4-583e-af31-eb257b8ac677",
-                "value1": 49,
+                "value1": 47,
                 "value2": "Riding",
-                "0x4c7b0d76": 250
+                "value3": 40
             },
-            "element": {
+            {
                 "__type": "de1cb64d-ebc4-583e-af31-eb257b8ac677",
-                "value1": 49,
+                "value1": 48,
                 "value2": "Riding",
-                "0x4c7b0d76": 250
+                "value3": 10
             },
-            "element": {
+            {
                 "__type": "de1cb64d-ebc4-583e-af31-eb257b8ac677",
                 "value1": 49,
                 "value2": "Riding",
-                "0x4c7b0d76": 250
+                "value3": 250
             }
-        },
+        ],
         "gear set storage excluded paperdoll slots": [
             9,
             30,

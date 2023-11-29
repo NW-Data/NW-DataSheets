@@ -3085,5 +3085,26 @@
         "GatherableTags": "",
         "EmoteDuration": null,
         "AttributionId": "Season_3"
+    },
+    {
+        "UniqueTagID": "Emote_CraneKick",
+        "FragmentName": "Emote_CraneKick",
+        "DisplayName": "ui_Emote_CraneKick",
+        "DisplayDescription": "ui_Emote_CraneKick_description",
+        "DisplayGroup": "Other",
+        "ChatBoxText": "{playerName} performs a flawless crane kick!",
+        "SlashCommand": "cranekick",
+        "SecondarySlashCommand": "",
+        "IsEntitlement": 1,
+        "IsPremiumEmote": 0,
+        "IsEnabled": 1,
+        "HasCooldown": 0,
+        "StatusEffectTimer": "",
+        "DisplayPriority": 1,
+        "UiImage": "lyshineui/images/icons/emotes/emote_CraneKick.dds",
+        "UiImageHiRes": "",
+        "GatherableTags": "",
+        "EmoteDuration": null,
+        "AttributionId": ""
     }
 ]
