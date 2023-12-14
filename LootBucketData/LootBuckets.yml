@@ -595,9 +595,9 @@ ProcArmorHeavy:
     HeavyFeet_PlateDropT3                                                             1 FALSE      MinContLevel:19-38   
     HeavyFeet_PlateDropT4                                                             1 FALSE      MinContLevel:39-58   
     HeavyFeet_PlateDropT5                                                             1 FALSE      MinContLevel:59      
-    HeavyHead_HeavyDropT2                                                             1 FALSE      MinContLevel:0-18    
-    HeavyHead_HeavyDropT3                                                             1 FALSE      MinContLevel:19-38   
-    HeavyHead_HeavyDropT4                                                             1 FALSE      MinContLevel:39-58   
+    HeavyHead_HeavyDropT2                                                             1 FALSE      MinContLevel:19-38   
+    HeavyHead_HeavyDropT3                                                             1 FALSE      MinContLevel:39-58   
+    HeavyHead_HeavyDropT4                                                             1 FALSE      MinContLevel:59      
     HeavyChest_HeavyDropT3                                                            1 FALSE      MinContLevel:19-38   
     HeavyChest_HeavyDropT4                                                            1 FALSE      MinContLevel:39-58   
     HeavyChest_HeavyDropT5                                                            1 FALSE      MinContLevel:59      
@@ -1831,16 +1831,16 @@ TradeskillArmor:
     ClothingHands_FishingT5                                                           1 FALSE      MinContLevel:59      
     ClothingLegs_FishingT5                                                            1 FALSE      MinContLevel:59      
     ClothingFeet_FishingT5                                                            1 FALSE      MinContLevel:59      
-    LightFeet_OutfitterVar1T5                                                         1 FALSE      MinContLevel:59      
-    LightLegs_OutfitterVar1T5                                                         1 FALSE      MinContLevel:59      
-    LightChest_OutfitterVar1T5                                                        1 FALSE      MinContLevel:59      
-    LightHead_OutfitterVar1T5                                                         1 FALSE      MinContLevel:59      
-    LightHands_OutfitterVar1T5                                                        1 FALSE      MinContLevel:59      
-    LightFeet_OutfitterVar2T5                                                         1 FALSE      MinContLevel:59      
-    LightLegs_OutfitterVar2T5                                                         1 FALSE      MinContLevel:59      
-    LightChest_OutfitterVar2T5                                                        1 FALSE      MinContLevel:59      
-    LightHead_OutfitterVar2T5                                                         1 FALSE      MinContLevel:59      
-    LightHands_OutfitterVar2T5                                                        1 FALSE      MinContLevel:59      
+    LightFeet_OutfitterVar1T5_Fixed                                                   1 FALSE      MinContLevel:59      
+    LightLegs_OutfitterVar1T5_Fixed                                                   1 FALSE      MinContLevel:59      
+    LightChest_OutfitterVar1T5_Fixed                                                  1 FALSE      MinContLevel:59      
+    LightHead_OutfitterVar1T5_Fixed                                                   1 FALSE      MinContLevel:59      
+    LightHands_OutfitterVar1T5_Fixed                                                  1 FALSE      MinContLevel:59      
+    LightFeet_OutfitterVar2T5_Fixed                                                   1 FALSE      MinContLevel:59      
+    LightLegs_OutfitterVar2T5_Fixed                                                   1 FALSE      MinContLevel:59      
+    LightChest_OutfitterVar2T5_Fixed                                                  1 FALSE      MinContLevel:59      
+    LightHead_OutfitterVar2T5_Fixed                                                   1 FALSE      MinContLevel:59      
+    LightHands_OutfitterVar2T5_Fixed                                                  1 FALSE      MinContLevel:59      
     LightFeet_ProvisionerVar1T5                                                       1 FALSE      MinContLevel:59      
     LightLegs_ProvisionerVar1T5                                                       1 FALSE      MinContLevel:59      
     LightChest_ProvisionerVar1T5                                                      1 FALSE      MinContLevel:59      
@@ -2045,6 +2045,24 @@ EliteWeapons:
     1hFlailLegionEliteT5                                                              1 FALSE      Legion,MinContLevel:59 
     1hFlail_Named74_T5                                                                1 FALSE      Level:57,MyrkgardNorth 
     1hFlail_Named75_T5                                                                1 FALSE      Level:57,MyrkgardSouth 
+    1hLongswordBeastEliteT5                                                           1 FALSE      Beast,MinContLevel:59 
+    1hThrowingAxeBeastEliteT5                                                         1 FALSE      Beast,MinContLevel:59 
+    2hWarhammerBeastEliteT5                                                           1 FALSE      Beast,MinContLevel:59 
+    2hGreataxeBeastEliteT5                                                            1 FALSE      Beast,MinContLevel:59 
+    2hBowBeastEliteT5                                                                 1 FALSE      Beast,MinContLevel:59 
+    2hMusketBeastEliteT5                                                              1 FALSE      Beast,MinContLevel:59 
+    2hRoundShieldBeastEliteT5                                                         1 FALSE      Beast,MinContLevel:59 
+    2hKiteShieldBeastEliteT5                                                          1 FALSE      Beast,MinContLevel:59 
+    2hTowerShieldBeastEliteT5                                                         1 FALSE      Beast,MinContLevel:59 
+    2hStaffFireBeastEliteT5                                                           1 FALSE      Beast,MinContLevel:59 
+    2hStaffLifeBeastEliteT5                                                           1 FALSE      Beast,MinContLevel:59 
+    1hRapierBeastEliteT5                                                              1 FALSE      Beast,MinContLevel:59 
+    2hSpearBeastEliteT5                                                               1 FALSE      Beast,MinContLevel:59 
+    1hGauntletIceBeastEliteT5                                                         1 FALSE      Beast,MinContLevel:59 
+    1hGauntletVoidBeastEliteT5                                                        1 FALSE      Beast,MinContLevel:59 
+    2hBlunderbussBeastEliteT5                                                         1 FALSE      Beast,MinContLevel:59 
+    2hGreatswordBeastEliteT5                                                          1 FALSE      Beast,MinContLevel:59 
+    1hFlailBeastEliteT5                                                               1 FALSE      Beast,MinContLevel:59 
 EliteArmor:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -2312,6 +2330,21 @@ EliteArmor:
     HeavyHead_ElitePOI_FirstLightRevampBeastT5_V2                                     1 FALSE      FirstLight,MinContLevel:59 
     HeavyChest_ElitePOI_FirstLightRevampBeastT5_V2                                    1 FALSE      FirstLight,MinContLevel:59 
     HeavyFeet_ElitePOI_FirstLightRevampBeastT5_V2                                     1 FALSE      FirstLight,MinContLevel:59 
+    HeavyHeadBeastEliteT5                                                             1 FALSE      Beast,MinContLevel:59 
+    HeavyChestBeastEliteT5                                                            1 FALSE      Beast,MinContLevel:59 
+    HeavyHandsBeastEliteT5                                                            1 FALSE      Beast,MinContLevel:59 
+    HeavyLegsBeastEliteT5                                                             1 FALSE      Beast,MinContLevel:59 
+    HeavyFeetBeastEliteT5                                                             1 FALSE      Beast,MinContLevel:59 
+    MediumHeadBeastEliteT5                                                            1 FALSE      Beast,MinContLevel:59 
+    MediumChestBeastEliteT5                                                           1 FALSE      Beast,MinContLevel:59 
+    MediumHandsBeastEliteT5                                                           1 FALSE      Beast,MinContLevel:59 
+    MediumLegsBeastEliteT5                                                            1 FALSE      Beast,MinContLevel:59 
+    MediumFeetBeastEliteT5                                                            1 FALSE      Beast,MinContLevel:59 
+    LightHeadBeastEliteT5                                                             1 FALSE      Beast,MinContLevel:59 
+    LightChestBeastEliteT5                                                            1 FALSE      Beast,MinContLevel:59 
+    LightHandsBeastEliteT5                                                            1 FALSE      Beast,MinContLevel:59 
+    LightLegsBeastEliteT5                                                             1 FALSE      Beast,MinContLevel:59 
+    LightFeetBeastEliteT5                                                             1 FALSE      Beast,MinContLevel:59 
 NamedWeaponsCreatures:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -3162,7 +3195,6 @@ NamedWeaponsCreatures:
     1hTowerShield_BulwarkT5_V2                                                        1 FALSE      Level:59,Riches02    
     2hGreatSword_BlackTalonT5_V2                                                      1 FALSE      Level:59,Riches03    
     2hGreataxe_SwipeT5_V2                                                             1 FALSE      Level:59,Riches03    
-    1hGauntletIce_HandOfFrostT5_V2                                                    1 FALSE      Level:59,Campbells00 
     1hLongsword_ReputationT5_V2                                                       1 FALSE      Level:59,Firefly00   
     1hGauntletVoid_LeftHandOfDeceitT5_V2                                              1 FALSE      Level:59,Gorgon01    
     2hSpear_RomanDisciplineT5_V2                                                      1 FALSE      Level:59,Saircor00   
@@ -3201,7 +3233,6 @@ NamedWeaponsCreatures:
     2hBow_NemesisT5_V2                                                                1 FALSE      Level:59,Dayspring02 
     1hThrowingAxe_BeakT5_V2                                                           1 FALSE      Level:59,NerMur      
     2hGreataxe_AresT5_V2                                                              1 FALSE      Level:59,Tanglesnap00 
-    2hStaffFire_ThanatosT5_V2                                                         1 FALSE      Level:59,Tanglesnap01 
     1hGauntletVoid_HadesT5_V2                                                         1 FALSE      Level:59,Tanglesnap02 
     2hGreatSword_HesperiaT5_V2                                                        1 FALSE      Level:59,Tanglesnap03 
     2hBow_HuntersEyeT5_V2                                                             1 FALSE      Level:59,Beastlands00 
@@ -3218,7 +3249,6 @@ NamedWeaponsCreatures:
     1hGauntletVoid_AbyssWalkerT5_V2                                                   1 FALSE      Level:59,RainbowTiger02 
     1hRshield_TeacupT5_V2                                                             1 FALSE      Level:59,RainbowDragon 
     2hGreataxe_BunyanT5_V2                                                            1 FALSE      Level:59,RainbowGorilla 
-    Ring_KainT5_V2                                                                    1 FALSE      Level:59,RainbowChamleon 
     2hBow_SteelSixT5_V2                                                               1 FALSE      Level:59,RainbowLotus 
     1hFlail_WhiplashT5_V2                                                             1 FALSE      Level:59,RainbowMammoth 
     2hSpear_BraceT5_V2                                                                1 FALSE      Level:59,RainbowMammothIce 
@@ -3228,11 +3258,6 @@ NamedWeaponsCreatures:
     1hGauntletIce_FrozenFlameT5_V2                                                    1 FALSE      Level:59,RainbowGorillaIce 
     1hKiteShield_ToothT5_V2                                                           1 FALSE      Level:59,RainbowGorillaLightning 
     Amulet_TotemT5_V2                                                                 1 FALSE      Level:59,ToyMaker    
-    Ring_SundropT5_V2                                                                 1 FALSE      Level:59,Megaflora01 
-    Amulet_AcornT5_V2                                                                 1 FALSE      Level:59,Megaflora02 
-    2hGreataxe_FlowerPetalT5_V2                                                       1 FALSE      Level:59,Megaflora01 
-    2hGreatSword_RazorLeafT5_V2                                                       1 FALSE      Level:59,Megaflora02 
-    1hGauntletVoid_TheRingT5                                                          1 FALSE      Level:60,Campbells00 
     1hGauntletIce_WindbiteT5                                                          1 0          Level:60,Scalefang00 
     2hStaffFire_ImmolationT5                                                          1 0          Level:60,Nyhart02    
     2hGreataxe_BruisersAxeT5                                                          1 0          Level:60,Dayspring00 
@@ -3241,6 +3266,14 @@ NamedWeaponsCreatures:
     2hBlunderbuss_VoidblastT5                                                         1 0          Level:60,Tempestas00 
     1hThrowingAxe_CalmingRageT5                                                       1 0          Level:60,Hornhold01  
     2hSpear_HavocT5                                                                   1 0          Level:60,Trampled01  
+    Ring_KainT5_V2                                                                    1 FALSE      Level:59,RainbowDragon 
+    Ring_SundropT5_V2                                                                 1 FALSE      Level:59,RainbowLotus 
+    Amulet_AcornT5_V2                                                                 1 FALSE      Level:59,Elafry00    
+    2hGreataxe_FlowerPetalT5_V2                                                       1 FALSE      Level:59,RainbowMammothNature 
+    2hGreatSword_RazorLeafT5_V2                                                       1 FALSE      Level:59,Hornhold01  
+    1hGauntletVoid_TheRingT5                                                          1 FALSE      Level:60,Campbells00 
+    1hGauntletIce_HandOfFrostT5_V2                                                    1 FALSE      Level:59,Campbells00 
+    2hStaffFire_ThanatosT5_V2                                                         1 FALSE      Level:59,Tanglesnap02 
 DungeonBossGear:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -3724,6 +3757,30 @@ DungeonBossGear:
     2hMusket_Flamespout                                                               1 FALSE      Level:60-64,GreatCleave01,SirEld 
     2hGreataxe_CommadingStrike                                                        1 FALSE      Level:60-64,GreatCleave01,Freyr 
     1hLongsword_EnduringWill                                                          1 FALSE      Level:60-64,GreatCleave01,Marius 
+    HeavyChest_Dungeon13_Boss_MutT5                                                   1 FALSE      Level:64,GreatCleave00,CommanderLoth,MutDiff 
+    HeavyHead_Dungeon13_Boss_MutT5                                                    1 FALSE      Level:64,GreatCleave00,CommanderLoth,MutDiff 
+    HeavyLegs_Dungeon13_Boss_MutT5                                                    1 FALSE      Level:64,GreatCleave00,CommanderLoth,MutDiff 
+    HeavyFeet_Dungeon13_Boss_MutT5                                                    1 FALSE      Level:64,GreatCleave00,CommanderLoth,MutDiff 
+    HeavyHands_Dungeon13_Boss_MutT5                                                   1 FALSE      Level:64,GreatCleave00,CommanderLoth,MutDiff 
+    1hTowerShield_Dungeon13_Icebox                                                    1 FALSE      Level:64,GreatCleave00,Spring 
+    1hGauntletIce_Dungeon13_StressFracture                                            1 FALSE      Level:64,GreatCleave00,Spring 
+    AmuletT5_Dungeon13_HeartOfCold                                                    1 FALSE      Level:64,GreatCleave00,Gelus 
+    2hSpear_Dungeon13_QuickPainless                                                   1 FALSE      Level:64,GreatCleave00,Gelus 
+    2hLifeStaff_Dungeon13_AurorasBlessing                                             1 FALSE      Level:64,GreatCleave00,Sanctifier 
+    2hWarhammer_Dungeon13_Snowplow                                                    1 FALSE      Level:64,GreatCleave00,Sanctifier 
+    1hHatchet_Dungeon13_IceBreaker                                                    1 FALSE      Level:64,GreatCleave00,Milosh 
+    2hMusket_Dungeon13_Mountaineer                                                    1 FALSE      Level:64,GreatCleave00,Milosh 
+    2hFireStaff_Dungeon13_Frostburn                                                   1 FALSE      Level:64,GreatCleave00,Roth 
+    1hRapier_Dungeon13_PrickOfDeath                                                   1 FALSE      Level:64,GreatCleave00,Roth 
+    EarringT5_Dungeon13_HaillysComet                                                  1 FALSE      Level:64,GreatCleave00,Roth 
+    1hGauntletVoid_Dungeon13_YetisClaw                                                1 FALSE      Level:64,GreatCleave00,IceGolemBoss 
+    2hBlunderbuss_Dungeon13_ShortAlphorn                                              1 FALSE      Level:64,GreatCleave00,IceGolemBoss 
+    2hGreataxe_Dungeon13_Avalanche                                                    1 FALSE      Level:64,GreatCleave00,IceGolemBoss 
+    1hSword_Dungeon13_ColdCuts                                                        1 FALSE      Level:64,GreatCleave00,IceGolemBoss 
+    RingT5_Dungeon13_ForlornHope                                                      1 FALSE      Level:64,GreatCleave00,CommanderLoth 
+    2hBow_Dungeon13_HailToTheKing                                                     1 FALSE      Level:64,GreatCleave00,CommanderLoth 
+    2hGreatSword_Dungeon13_ColdHardTruth                                              1 FALSE      Level:64,GreatCleave00,CommanderLoth 
+    1hFlail_Dungeon13_NorthStar                                                       1 FALSE      Level:64,GreatCleave00,CommanderLoth 
 RecoveryItems:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -4002,6 +4059,8 @@ ContainerResourcesRare:
     FlailCharmT4                                                                      1 TRUE       FirstLight,Everfall,GreatCleave,Reekwater,Brimstone 
     FlailCharmT5                                                                      1 TRUE       CutlassKeys,Weavers,Queensport,Shattered,Restless 
     FlailCharmT6                                                                      1 TRUE       Windsward,Monarchs,Brightwood,Mourning 
+    perkitem_armor_health                                                             1 TRUE       FirstLight,Everfall,GreatCleave,Reekwater,Brimstone 
+    perkitem_armor_defbasic                                                           1 TRUE       CutlassKeys,Weavers,Queensport,Shattered,Restless 
 DarknessResources:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -4487,9 +4546,9 @@ RewardArmorBucket:
     HeavyFeet_PlateDropT3                                                             1 FALSE      RewardArmorT3        
     HeavyFeet_PlateDropT4                                                             1 FALSE      RewardArmorT4        
     HeavyFeet_PlateDropT5                                                             1 FALSE      RewardArmorT5        
-    HeavyHead_HeavyDropT2                                                             1 FALSE      RewardArmorT2        
-    HeavyHead_HeavyDropT3                                                             1 FALSE      RewardArmorT3        
-    HeavyHead_HeavyDropT4                                                             1 FALSE      RewardArmorT4        
+    HeavyHead_HeavyDropT2                                                             1 FALSE      RewardArmorT3        
+    HeavyHead_HeavyDropT3                                                             1 FALSE      RewardArmorT4        
+    HeavyHead_HeavyDropT4                                                             1 FALSE      RewardArmorT5        
     HeavyChest_HeavyDropT3                                                            1 FALSE      RewardArmorT3        
     HeavyChest_HeavyDropT4                                                            1 FALSE      RewardArmorT4        
     HeavyChest_HeavyDropT5                                                            1 FALSE      RewardArmorT5        
@@ -6885,23 +6944,23 @@ Artifacts:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    ShatteredSwordT1                                                                  1 FALSE      MinContLevel:58      
-    ScalingPowderT1                                                                   1 FALSE      MinContLevel:58      
-    AncientBearingT1                                                                  1 FALSE      MinContLevel:58      
-    BrokenHatchetT1                                                                   1 FALSE      MinContLevel:58      
-    WitheredBoughT1                                                                   1 FALSE      MinContLevel:58      
-    SerpentineHandguardT1                                                             1 FALSE      MinContLevel:58      
-    FragmentedMusketT1                                                                1 FALSE      MinContLevel:58      
-    SplinteredBowT1                                                                   1 FALSE      MinContLevel:58      
-    PetrifiedFireT1                                                                   1 FALSE      MinContLevel:58      
-    BlessedScepterT1                                                                  1 FALSE      MinContLevel:58      
-    EternalIceT1                                                                      1 FALSE      MinContLevel:58      
-    CrestOfFortitudeT1                                                                1 FALSE      MinContLevel:58      
-    EmblemOfFortitudeT1                                                               1 FALSE      MinContLevel:58      
-    EmptyHeartT1                                                                      1 FALSE      MinContLevel:58      
-    LoadingMechanismT5                                                                1 FALSE      MinContLevel:58      
-    BrokenBladeT5                                                                     1 FALSE      MinContLevel:58      
-    EmptyScepterT5                                                                    1 FALSE      MinContLevel:58      
+    ShatteredSwordT1                                                                  1 FALSE      MinContLevel:58-59   
+    ScalingPowderT1                                                                   1 FALSE      MinContLevel:58-59   
+    AncientBearingT1                                                                  1 FALSE      MinContLevel:58-59   
+    BrokenHatchetT1                                                                   1 FALSE      MinContLevel:58-59   
+    WitheredBoughT1                                                                   1 FALSE      MinContLevel:58-59   
+    SerpentineHandguardT1                                                             1 FALSE      MinContLevel:58-59   
+    FragmentedMusketT1                                                                1 FALSE      MinContLevel:58-59   
+    SplinteredBowT1                                                                   1 FALSE      MinContLevel:58-59   
+    PetrifiedFireT1                                                                   1 FALSE      MinContLevel:58-59   
+    BlessedScepterT1                                                                  1 FALSE      MinContLevel:58-59   
+    EternalIceT1                                                                      1 FALSE      MinContLevel:58-59   
+    CrestOfFortitudeT1                                                                1 FALSE      MinContLevel:58-59   
+    EmblemOfFortitudeT1                                                               1 FALSE      MinContLevel:58-59   
+    EmptyHeartT1                                                                      1 FALSE      MinContLevel:58-59   
+    LoadingMechanismT5                                                                1 FALSE      MinContLevel:58-59   
+    BrokenBladeT5                                                                     1 FALSE      MinContLevel:58-59   
+    EmptyScepterT5                                                                    1 FALSE      MinContLevel:58-59   
 LootDungeonArmor:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -7191,6 +7250,21 @@ LootDungeonArmor:
     FLXpac_LightHands_SO_MutExtra_T5                                                  1 FALSE      MinContLevel:60-64,ShatteredObelisk_Mut 
     FLXpac_LightLegs_SO_MutExtra_T5                                                   1 FALSE      MinContLevel:60-64,ShatteredObelisk_Mut 
     FLXpac_LightFeet_SO_MutExtra_T5                                                   1 FALSE      MinContLevel:60-64,ShatteredObelisk_Mut 
+    HeavyHead_Dungeon13T5                                                             1 FALSE      MinContLevel:59,GreatCleave00 
+    HeavyChest_Dungeon13T5                                                            1 FALSE      MinContLevel:59,GreatCleave00 
+    HeavyHands_Dungeon13T5                                                            1 FALSE      MinContLevel:59,GreatCleave00 
+    HeavyLegs_Dungeon13T5                                                             1 FALSE      MinContLevel:59,GreatCleave00 
+    HeavyFeet_Dungeon13T5                                                             1 FALSE      MinContLevel:59,GreatCleave00 
+    MediumHead_Dungeon13T5                                                            1 FALSE      MinContLevel:59,GreatCleave00 
+    MediumChest_Dungeon13T5                                                           1 FALSE      MinContLevel:59,GreatCleave00 
+    MediumHands_Dungeon13T5                                                           1 FALSE      MinContLevel:59,GreatCleave00 
+    MediumLegs_Dungeon13T5                                                            1 FALSE      MinContLevel:59,GreatCleave00 
+    MediumFeet_Dungeon13T5                                                            1 FALSE      MinContLevel:59,GreatCleave00 
+    LightHead_Dungeon13T5                                                             1 FALSE      MinContLevel:59,GreatCleave00 
+    LightChest_Dungeon13T5                                                            1 FALSE      MinContLevel:59,GreatCleave00 
+    LightHands_Dungeon13T5                                                            1 FALSE      MinContLevel:59,GreatCleave00 
+    LightLegs_Dungeon13T5                                                             1 FALSE      MinContLevel:59,GreatCleave00 
+    LightFeet_Dungeon13T5                                                             1 FALSE      MinContLevel:59,GreatCleave00 
 LootDungeonWeapons:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -7528,6 +7602,24 @@ LootDungeonWeapons:
     FLXpac_1hGauntletVoid_SO_MutExtra_T5                                              1 FALSE      MinContLevel:60-64,ShatteredObelisk_Mut 
     FLXpac_2hBlunderbuss_SO_MutExtra_T5                                               1 FALSE      MinContLevel:60-64,ShatteredObelisk_Mut 
     FLXpac_2hGreatsword_SO_MutExtra_T5                                                1 FALSE      MinContLevel:60-64,ShatteredObelisk_Mut 
+    1hLongswordDungeon13T5                                                            1 FALSE      MinContLevel:59,GreatCleave00 
+    1hThrowingAxeDungeon13T5                                                          1 FALSE      MinContLevel:59,GreatCleave00 
+    2hWarhammerDungeon13T5                                                            1 FALSE      MinContLevel:59,GreatCleave00 
+    2hGreatAxeDungeon13T5                                                             1 FALSE      MinContLevel:59,GreatCleave00 
+    2hBowDungeon13T5                                                                  1 FALSE      MinContLevel:59,GreatCleave00 
+    2hMusketDungeon13T5                                                               1 FALSE      MinContLevel:59,GreatCleave00 
+    1hRoundShieldDungeon13T5                                                          1 FALSE      MinContLevel:59,GreatCleave00 
+    1hKiteShieldDungeon13T5                                                           1 FALSE      MinContLevel:59,GreatCleave00 
+    1hTowerShieldDungeon13T5                                                          1 FALSE      MinContLevel:59,GreatCleave00 
+    2hFireStaffDungeon13T5                                                            1 FALSE      MinContLevel:59,GreatCleave00 
+    2hLifeStaffDungeon13T5                                                            1 FALSE      MinContLevel:59,GreatCleave00 
+    1hRapierDungeon13T5                                                               1 FALSE      MinContLevel:59,GreatCleave00 
+    2hSpearDungeon13T5                                                                1 FALSE      MinContLevel:59,GreatCleave00 
+    1hGauntletIceDungeon13T5                                                          1 FALSE      MinContLevel:59,GreatCleave00 
+    1hGauntletVoidDungeon13T5                                                         1 FALSE      MinContLevel:59,GreatCleave00 
+    2hBlunderbussDungeon13T5                                                          1 FALSE      MinContLevel:59,GreatCleave00 
+    2hGreatswordDungeon13T5                                                           1 FALSE      MinContLevel:59,GreatCleave00 
+    1hFlailDungeon13T5                                                                1 FALSE      MinContLevel:59,GreatCleave00 
 DarknessMinor1Containers25:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -9921,7 +10013,6 @@ SkinningAttributeItems:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    STRDEXBonusT1                                                                     1 FALSE      MinContLevel:56,WolfResources 
     STRCONBonusT1                                                                     1 FALSE      MinContLevel:56,BearResources 
     CONBonusT1                                                                        1 FALSE      MinContLevel:56,BoarResources 
 DungeonNamedItems:
@@ -10028,7 +10119,7 @@ DungeonNamedItems:
     AmuletT5_CrystalClaw_V2                                                           1 FALSE      Level:59-64,EXPFirstLight01 
     2hBlunderbuss_PotShotT5_V2                                                        1 FALSE      Level:59-64,EXPFirstLight01 
     2hGreataxe_OrchardT5_V2                                                           1 FALSE      Level:59-64,EXPFirstLight01 
-    1hGauntletVoid_HammerT5_V2                                                        1 FALSE      Level:59-64,EXPFirstLight01 
+    1hGauntletVoid_HammerT5_V2_Fixed                                                  1 FALSE      Level:59-64,EXPFirstLight01 
     2hBlunderbuss_Meatgrinder                                                         1 FALSE      Level:60-64,Edengrove00 
     2hMusket_Iceburst                                                                 1 FALSE      Level:60-64,Edengrove00 
     2hGreataxe_HollowTrunk                                                            1 FALSE      Level:60-64,Edengrove00 
@@ -10072,6 +10163,11 @@ DungeonNamedItems:
     HeavyLegs_DarkshroudLegguards                                                     1 FALSE      Level:60-64,GreatCleave01 
     HeavyFeet_CounterbalancingBoots                                                   1 FALSE      Level:60-64,GreatCleave01 
     HeavyHands_ScaledGauntlets                                                        1 FALSE      Level:60-64,GreatCleave01 
+    MediumChest_Dungeon13_ArticValkyrian                                              1 FALSE      Level:64,GreatCleave00 
+    MediumHead_Dungeon13_ArticValkyrian                                               1 FALSE      Level:64,GreatCleave00 
+    MediumLegs_Dungeon13_ArticValkyrian                                               1 FALSE      Level:64,GreatCleave00 
+    MediumFeet_Dungeon13_ArticValkyrian                                               1 FALSE      Level:64,GreatCleave00 
+    MediumHands_Dungeon13_ArticValkyrian                                              1 FALSE      Level:64,GreatCleave00 
 DungeonResources:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -10088,6 +10184,7 @@ DungeonResources:
     AncientTalismansT1                                                              2-3 FALSE      Level:54,BrimstoneSands00 
     FierySludgeT1                                                                   2-3 FALSE      level:54,GreatCleave01 
     WrithingSeedlingT1                                                              1-2 FALSE      Level:59,EXPFirstLight01 
+    Dungeon13_DryIceT1                                                              2-3 FALSE      Level:59,GreatCleave00 
 DungeonBossResources:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -10104,6 +10201,7 @@ DungeonBossResources:
     AncientDustT1                                                                     1 FALSE      Level:59,BrimstoneSands00,AnubianBrute 
     ForceOfWillT1                                                                     1 FALSE      Level:59,GreatCleave01,Marius 
     CrystallineFurT1                                                                  1 FALSE      Level:59,EXPFirstLight01,MammothDGBoss 
+    Dungeon13_GlacialHeartT1                                                          1 FALSE      Level:59,GreatCleave00,CommanderLoth 
 ORWeapons:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -13030,7 +13128,6 @@ PostCapPerkItems:
     BotanistCharmT1                                                                 1-2 TRUE       PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
     BotanistCharmT2                                                                 1-2 TRUE       PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
     BotanistCharmT3                                                                 1-2 TRUE       PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
-    CorruptedInsigniaT2                                                             1-2 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
     LumberjackCharmT1                                                               1-2 TRUE       PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
     LumberjackCharmT2                                                               1-2 TRUE       PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
     LumberjackCharmT3                                                               1-2 TRUE       PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
@@ -13097,7 +13194,6 @@ PostCapPerkItems:
     WeaponsmithCharmT3                                                              1-2 TRUE       PostCapJewelcraftingT1_B,PostCapJewelcraftingT2_B,PostCapJewelcraftingT3_B 
     AdderStoneT1                                                                    1-2 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
     AdderStoneT3                                                                    1-2 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
-    TallowT1                                                                        1-2 TRUE       PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
     ArmorerCharmT2                                                                  1-2 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
     WyrdwoodSapT3                                                                   1-2 TRUE       PostCapArmoringT1_B,PostCapArmoringT2_B,PostCapArmoringT3_B 
     WyrdwoodSapT2                                                                   1-2 TRUE       PostCapWeaponsmithingT1_B,PostCapWeaponsmithingT2_B,PostCapWeaponsmithingT3_B 
@@ -13844,10 +13940,10 @@ MutElemWeapons:
     FLXpac_1hGauntletVoid_Ice_MutT5                                                   1 FALSE      Ice,MinContLevel:0-64 
     FLXpac_2hBlunderbuss_Ice_MutT5                                                    1 FALSE      Ice,MinContLevel:0-64 
     FLXpac_2hGreatsword_Ice_MutT5                                                     1 FALSE      Ice,MinContLevel:0-64 
-    FLXpac_1hflail_Hellfire_MutT5                                                     1 FALSE      Fire,MinContLevel:0-64 
-    FLXpac_1hflail_Nature_MutT5                                                       1 FALSE      Nature,MinContLevel:0-64 
-    FLXpac_1hflail_Eternal_MutT5                                                      1 FALSE      Void,MinContLevel:0-64 
-    FLXpac_1hflail_Ice_MutT5                                                          1 FALSE      Ice,MinContLevel:0-64 
+    FLXpac_1hFlail_Hellfire_MutT5                                                     1 FALSE      Fire,MinContLevel:0-64 
+    FLXpac_1hFlail_Nature_MutT5                                                       1 FALSE      Nature,MinContLevel:0-64 
+    FLXpac_1hFlail_Eternal_MutT5                                                      1 FALSE      Void,MinContLevel:0-64 
+    FLXpac_1hFlail_Ice_MutT5                                                          1 FALSE      Ice,MinContLevel:0-64 
 MutDiffArmor:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -14002,6 +14098,21 @@ MutDiffArmor:
     LightHands_FirstLightEXP_Mut1                                                     1 FALSE      EXPFirstLight01,MutDiff1,MinContLevel:0-64 
     LightLegs_FirstLightEXP_Mut1                                                      1 FALSE      EXPFirstLight01,MutDiff1,MinContLevel:0-64 
     LightFeet_FirstLightEXP_Mut1                                                      1 FALSE      EXPFirstLight01,MutDiff1,MinContLevel:0-64 
+    HeavyHead_Glacial_MutT5                                                           1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    HeavyChest_Glacial_MutT5                                                          1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    HeavyHands_Glacial_MutT5                                                          1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    HeavyLegs_Glacial_MutT5                                                           1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    HeavyFeet_Glacial_MutT5                                                           1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    MediumHead_Glacial_MutT5                                                          1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    MediumChest_Glacial_MutT5                                                         1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    MediumHands_Glacial_MutT5                                                         1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    MediumLegs_Glacial_MutT5                                                          1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    MediumFeet_Glacial_MutT5                                                          1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    LightHead_Glacial_MutT5                                                           1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    LightChest_Glacial_MutT5                                                          1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    LightHands_Glacial_MutT5                                                          1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    LightLegs_Glacial_MutT5                                                           1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
+    LightFeet_Glacial_MutT5                                                           1 FALSE      GreatCleave00,MutDiff1,MinContLevel:0-64 
 MutDiffWeapons:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -14186,6 +14297,24 @@ MutDiffWeapons:
     FLXpac_1hFlail_BrimstoneSands_MutT5                                               1 FALSE      BrimstoneSands00,MutDiff3,MinContLevel:0-64 
     FLXpac_1hFlail_ShatteredObelisk_MutT5                                             1 FALSE      ShatteredObelisk_Mut,MutDiff3,MinContLevel:0-64 
     FLXpac_1hFlail_Empyrean_MutT5                                                     1 FALSE      GreatCleave01,MutDiff3,MinContLevel:0-64 
+    1hSword_Glacial_MutT5                                                             1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    1hHatchet_Glacial_MutT5                                                           1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    2hWarhammer_Glacial_MutT5                                                         1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    2hGreataxe_Glacial_MutT5                                                          1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    2hBow_Glacial_MutT5                                                               1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    2hMusket_Glacial_MutT5                                                            1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    1hRoundShield_Glacial_MutT5                                                       1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    1hKiteShield_Glacial_MutT5                                                        1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    1hTowerShield_Glacial_MutT5                                                       1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    2hFireStaff_Glacial_MutT5                                                         1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    2hLifeStaff_Glacial_MutT5                                                         1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    1hRapier_Glacial_MutT5                                                            1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    2hSpear_Glacial_MutT5                                                             1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    1hGauntletIce_Glacial_MutT5                                                       1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    1hGauntletVoid_Glacial_MutT5                                                      1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    2hBlunderbuss_Glacial_MutT5                                                       1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    2hGreatsword_Glacial_MutT5                                                        1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
+    1hFlail_Glacial_MutT5                                                             1 FALSE      GreatCleave00,MutDiff3,MinContLevel:0-64 
 MutDiffAccesories:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -14220,6 +14349,9 @@ MutDiffAccesories:
     AmuletT5_FL_XP_Mut                                                                1 FALSE      EXPFirstLight01,MutDiff2,MinContLevel:0-64 
     EarringT5_FL_XP_Mut_Fixed                                                         1 FALSE      EXPFirstLight01,MutDiff2,MinContLevel:0-64 
     RingT5_FL_XP_Mut                                                                  1 FALSE      EXPFirstLight01,MutDiff2,MinContLevel:0-64 
+    Amulet_Glacial_MutT5                                                              1 FALSE      GreatCleave00,MutDiff2,MinContLevel:0-64 
+    Earring_Glacial_MutT5                                                             1 FALSE      GreatCleave00,MutDiff2,MinContLevel:0-64 
+    Ring_Glacial_MutT5                                                                1 FALSE      GreatCleave00,MutDiff2,MinContLevel:0-64 
 GypsumCasts:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -14264,7 +14396,7 @@ GypsumDrops:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    GypsumBlue                                                                        1 FALSE      Level:59,GypsumBlue,Marius 
+    GypsumBlue                                                                        1 FALSE      Level:59,GypsumBlue,MammothDGBoss 
     GypsumBlack                                                                       1 FALSE      Level:59,GypsumBlack 
     GypsumYellow                                                                      1 FALSE      Level:59,EnemyLevel:55,GypsumYellowTable 
 ProcTrinkets:
@@ -14446,42 +14578,42 @@ BossShards:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    Shard_Heavy_Head                                                                  1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Heavy_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Heavy_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Heavy_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Heavy_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Medium_Head                                                                 1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Medium_Chest                                                                1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Medium_Hands                                                                1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Medium_Legs                                                                 1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Medium_Feet                                                                 1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Light_Head                                                                  1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Light_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Light_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Light_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Light_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Sword                                                                       1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_GreatAxe                                                                    1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_WarHammer                                                                   1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Rapier                                                                      1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Hatchet                                                                     1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Bow                                                                         1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Musket                                                                      1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Blunderbuss                                                                 1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_LifeStaff                                                                   1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_FireStaff                                                                   1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_IceGauntlet                                                                 1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_VoidGauntlet                                                                1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Shield_Round                                                                1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Shield_Kite                                                                 1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Shield_Tower                                                                1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Spear                                                                       1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Ring                                                                        1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Amulet                                                                      1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Earring                                                                     1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_GreatSword                                                                  1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
-    Shard_Flail                                                                       1 TRUE       Chardis,Greenskeeper,Marl,Cilla,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius 
+    Shard_Heavy_Head                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Heavy_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Heavy_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Heavy_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Heavy_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Medium_Head                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Medium_Chest                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Medium_Hands                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Medium_Legs                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Medium_Feet                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Light_Head                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Light_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Light_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Light_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Light_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Sword                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_GreatAxe                                                                    1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_WarHammer                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Rapier                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Hatchet                                                                     1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Bow                                                                         1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Musket                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Blunderbuss                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_LifeStaff                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_FireStaff                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_IceGauntlet                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_VoidGauntlet                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Shield_Round                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Shield_Kite                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Shield_Tower                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Spear                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Ring                                                                        1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Amulet                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Earring                                                                     1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_GreatSword                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Flail                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
 WCPatterns:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -14927,6 +15059,16 @@ Mut_Boss:
     HeavyLegs_EF_BossXPAC_MutT5                                                       1 FALSE      MutDiff3,Marius      
     HeavyFeet_EF_BossXPAC_MutT5                                                       1 FALSE      MutDiff3,Marius      
     HeavyHands_EF_BossXPAC_MutT5                                                      1 FALSE      MutDiff3,Marius      
+    HeavyHead_FirstLightEXP_Mut1                                                      1 FALSE      MutDiff3,GorillaDGBoss 
+    HeavyChest_FirstLightEXP_Mut1                                                     1 FALSE      MutDiff3,GorillaDGBoss 
+    HeavyHands_FirstLightEXP_Mut1                                                     1 FALSE      MutDiff3,GorillaDGBoss 
+    HeavyLegs_FirstLightEXP_Mut1                                                      1 FALSE      MutDiff3,GorillaDGBoss 
+    HeavyFeet_FirstLightEXP_Mut1                                                      1 FALSE      MutDiff3,GorillaDGBoss 
+    MediumHead_FirstLightEXP_Mut1                                                     1 FALSE      MutDiff3,MammothDGBoss 
+    MediumChest_FirstLightEXP_Mut1                                                    1 FALSE      MutDiff3,MammothDGBoss 
+    MediumHands_FirstLightEXP_Mut1                                                    1 FALSE      MutDiff3,MammothDGBoss 
+    MediumLegs_FirstLightEXP_Mut1                                                     1 FALSE      MutDiff3,MammothDGBoss 
+    MediumFeet_FirstLightEXP_Mut1                                                     1 FALSE      MutDiff3,MammothDGBoss 
 PvP_Arena_Housing_Items:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -15471,6 +15613,7 @@ DungeonMateriaBoss:
     DungeonDiamonds_FLXpac_Brimstone                                                 50 FALSE      Horus,BrimstoneSands00,Level:60-64 
     DungeonDiamonds_FLXpac_Empyrean                                                 100 FALSE      Level:60-64,Marius,GreatCleave01 
     DungeonDiamonds_FLXpac_Crystalclaw                                               50 FALSE      Level:60-64,EXPFirstLight01,GorillaDGBoss 
+    DungeonDiamonds_Glacial                                                         100 FALSE      Level:60-64,GreatCleave00,CommanderLoth 
 PostCapPatternClothing:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -19081,6 +19224,7 @@ WorldEvent_Crassus_BossLoot:
     HeavyHands_HugoT5                                                                 1 FALSE                           
     MediumHead_BrevisT5                                                               1 FALSE                           
     MediumFeet_BrevisT5                                                               1 FALSE                           
+    MediumLegs_BrevisT5                                                               1 FALSE                           
 WorldEvent_Crassus_NamedList:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -21665,21 +21809,87 @@ JoelsHiddenTreasures:
     HeavyHands_MarauderLegatusT5_v2                                                None                                 
     HeavyLegs_MarauderLegatusT5_v2                                                 None                                 
     HeavyFeet_MarauderLegatusT5_v2                                                 None                                 
-    scarab_con_amulet_mythril_t52                                                  None                                 
-    scarab_con_earring_mythril_t52                                                 None                                 
-    scarab_con_ring_mythril_t52                                                    None                                 
-    scarab_dex_amulet_mythril_t52                                                  None                                 
-    scarab_dex_earring_mythril_t52                                                 None                                 
-    scarab_dex_ring_mythril_t52                                                    None                                 
-    scarab_foc_amulet_mythril_t52                                                  None                                 
-    scarab_foc_earring_mythril_t52                                                 None                                 
-    scarab_foc_ring_mythril_t52                                                    None                                 
-    scarab_int_amulet_mythril_t52                                                  None                                 
-    scarab_int_earring_mythril_t52                                                 None                                 
-    scarab_int_ring_mythril_t52                                                    None                                 
-    scarab_str_amulet_mythril_t52                                                  None                                 
-    scarab_str_earring_mythril_t52                                                 None                                 
-    scarab_str_ring_mythril_t52                                                    None                                 
+    Artifact_WCWeaponFlail                                                         None                                 
+    Artifact_WCWeaponFlail600                                                      None                                 
+    Artifact_WCWeaponSword                                                         None                                 
+    Artifact_WCWeaponRShield                                                       None                                 
+    Artifact_WCWeaponKShield                                                       None                                 
+    Artifact_WCWeaponTShield                                                       None                                 
+    Artifact_WCWeaponBow                                                           None                                 
+    Artifact_WCWeaponMusket                                                        None                                 
+    Artifact_WCWeaponBlunderbuss                                                   None                                 
+    Artifact_WCWeaponWarhammer                                                     None                                 
+    Artifact_WCWeaponHatchet                                                       None                                 
+    Artifact_WCWeaponGreatAxe                                                      None                                 
+    Artifact_WCWeaponGreatSword                                                    None                                 
+    Artifact_WCWeaponRapier                                                        None                                 
+    Artifact_WCWeaponSpear                                                         None                                 
+    Artifact_WCWeaponStaffFire                                                     None                                 
+    Artifact_WCWeaponStaffLife                                                     None                                 
+    Artifact_WCWeaponGauntletIce                                                   None                                 
+    Artifact_WCWeaponGauntletVoid                                                  None                                 
+    Artifact_WCArmorLightHead                                                      None                                 
+    Artifact_WCArmorLightChest                                                     None                                 
+    Artifact_WCArmorLightHands                                                     None                                 
+    Artifact_WCArmorLightLegs                                                      None                                 
+    Artifact_WCArmorLightFeet                                                      None                                 
+    Artifact_WCArmorMediumHead                                                     None                                 
+    Artifact_WCArmorMediumChest                                                    None                                 
+    Artifact_WCArmorMediumHands                                                    None                                 
+    Artifact_WCArmorMediumLegs                                                     None                                 
+    Artifact_WCArmorMediumFeet                                                     None                                 
+    Artifact_WCArmorHeavyHead                                                      None                                 
+    Artifact_WCArmorHeavyChest                                                     None                                 
+    Artifact_WCArmorHeavyHands                                                     None                                 
+    Artifact_WCArmorHeavyLegs                                                      None                                 
+    Artifact_WCArmorHeavyFeet                                                      None                                 
+    Artifact_WCWeaponSword600                                                      None                                 
+    Artifact_WCWeaponRShield600                                                    None                                 
+    Artifact_WCWeaponKShield600                                                    None                                 
+    Artifact_WCWeaponTShield600                                                    None                                 
+    Artifact_WCWeaponBow600                                                        None                                 
+    Artifact_WCWeaponMusket600                                                     None                                 
+    Artifact_WCWeaponBlunderbuss600                                                None                                 
+    Artifact_WCWeaponWarhammer600                                                  None                                 
+    Artifact_WCWeaponHatchet600                                                    None                                 
+    Artifact_WCWeaponGreatAxe600                                                   None                                 
+    Artifact_WCWeaponGreatSword600                                                 None                                 
+    Artifact_WCWeaponRapier600                                                     None                                 
+    Artifact_WCWeaponSpear600                                                      None                                 
+    Artifact_WCWeaponStaffFire600                                                  None                                 
+    Artifact_WCWeaponStaffLife600                                                  None                                 
+    Artifact_WCWeaponGauntletIce600                                                None                                 
+    Artifact_WCWeaponGauntletVoid600                                               None                                 
+    Artifact_WCArmorLightHead600                                                   None                                 
+    Artifact_WCArmorLightChest600                                                  None                                 
+    Artifact_WCArmorLightHands600                                                  None                                 
+    Artifact_WCArmorLightLegs600                                                   None                                 
+    Artifact_WCArmorLightFeet600                                                   None                                 
+    Artifact_WCArmorMediumHead600                                                  None                                 
+    Artifact_WCArmorMediumChest600                                                 None                                 
+    Artifact_WCArmorMediumHands600                                                 None                                 
+    Artifact_WCArmorMediumLegs600                                                  None                                 
+    Artifact_WCArmorMediumFeet600                                                  None                                 
+    Artifact_WCArmorHeavyHead600                                                   None                                 
+    Artifact_WCArmorHeavyChest600                                                  None                                 
+    Artifact_WCArmorHeavyHands600                                                  None                                 
+    Artifact_WCArmorHeavyLegs600                                                   None                                 
+    Artifact_WCArmorHeavyFeet600                                                   None                                 
+    HeavyHead_ChitinT5                                                             None                                 
+    HeavyChest_ChitinT5                                                            None                                 
+    HeavyHands_ChitinT5                                                            None                                 
+    HeavyLegs_ChitinT5                                                             None                                 
+    HeavyFeet_ChitinT5                                                             None                                 
+    MediumHead_ChitinT5                                                            None                                 
+    MediumChest_ChitinT5                                                           None                                 
+    MediumHands_ChitinT5                                                           None                                 
+    MediumLegs_ChitinT5                                                            None                                 
+    MediumFeet_ChitinT5                                                            None                                 
+    LightHead_ChitinT5                                                             None                                 
+    LightChest_ChitinT5                                                            None                                 
+    LightHands_ChitinT5                                                            None                                 
+    LightLegs_ChitinT5                                                             None                                 
+    LightFeet_ChitinT5                                                             None                                 
 ProcWeapons_GuaranteeRare:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22027,6 +22237,7 @@ ArtemisCollection:
     2hWarhammer_MoltMasherT5_V2                                                       1 TRUE       Table_ArtemisBoonT3,Table_ArtemisBoonT4 
     2hMusket_BoltBarkerT5_V2                                                          1 TRUE       Table_ArtemisBoonT3,Table_ArtemisBoonT4 
     Earring_RhinestoneT5_V2                                                           1 TRUE       Table_ArtemisBoonT3,Table_ArtemisBoonT4 
+    1hGauntletVoid_TheRingT5                                                          1 TRUE       Table_ArtemisBoonT3,Table_ArtemisBoonT4 
     LightFeet_ElitePOI_FirstLightRevampBeastT5_V2                                     1 TRUE       Table_ArtemisBoonT4,Table_ArtemisBoonT5 
     LightLegs_ElitePOI_FirstLightRevampBeastT5_V2                                     1 TRUE       Table_ArtemisBoonT4,Table_ArtemisBoonT5 
     LightChest_ElitePOI_FirstLightRevampBeastT5_V2                                    1 TRUE       Table_ArtemisBoonT4,Table_ArtemisBoonT5 
@@ -22357,6 +22568,10 @@ ArtifactMaster:
     Artifact_Set1_1hFlail                                                             1 False      Level:61,MinContLevel:61,PrinceJohn 
     Artifact_Set1_Ring1                                                               1 False      Level:61,MinContLevel:61,Regent,MutDiff1 
     Artifact_Set1_Amulet1                                                             1 False      Level:61,MinContLevel:61,DungeonThorpe,MutDiff1 
+    Artifact_Set1_Earring1                                                            1 False      Level:61,MinContLevel:61,MammothDGBoss,MutDiff1 
+    Artifact_Set1_1hGauntletIce                                                       1 False      Level:61,MinContLevel:61,IceGolemBoss,MutDiff1 
+    Artifact_Set1_2hBow                                                               1 False      Level:61,MinContLevel:61,RainbowGorillaIce 
+    Artifact_Set1_1hRoundShield                                                       1 False      Level:61,MinContLevel:61,IceMammoth 
 ArtifactMasterPvP:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22368,6 +22583,8 @@ ArtifactMasterPvP:
     Artifact_Set1_HeavyLegs                                                           1 False      Level:61             
     Artifact_Set1_MediumChest                                                         1 False      Level:61             
     Artifact_Set1_Amulet2                                                             1 False      Level:61             
+    Artifact_Set1_HeavyFeet                                                           1 False      Level:61             
+    Artifact_Set1_2hStaffLife                                                         1 False      Level:61             
 ArtifactMasterDarkness:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22808,221 +23025,444 @@ ExpeditionBoxMateria:
     DungeonDiamonds_FLXPac_Brimstone                                               3500 False      BrimstoneSands00     
     DungeonDiamonds_FLXPac_Empyrean                                                3500 False      GreatCleave01        
     DungeonDiamonds_FLXpac_Crystalclaw                                             3500 False      EXPFirstLight01      
-'':
+WorldEvent_Crassus_BossLoot_V2:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    2hGreataxe_HugoT5_V2                                                              1 FALSE                           
+    2hGreatSword_HugoT5_V2                                                            1 FALSE                           
+    2hBow_BrevisT5_V2                                                                 1 FALSE                           
+    2hStaffFire_BrevisT5_V2                                                           1 FALSE                           
+    HeavyChest_HugoT5_V2                                                              1 FALSE                           
+    HeavyHands_HugoT5_V2                                                              1 FALSE                           
+    MediumHead_BrevisT5_V2                                                            1 FALSE                           
+    MediumFeet_BrevisT5_V2                                                            1 FALSE                           
+    MediumLegs_BrevisT5_V2                                                            1 FALSE                           
+ArtifactMasterOPR:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    Artifact_Set1_Lightfeet                                                           1 False      Level:61-64          
+    Artifact_Set1_LightLegs                                                           1 False      Level:61-64          
+PvP_PrestigeGS600Equipment:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
     HeavyChest_PVP_Prestige600T5                                                      1 FALSE      Level:59             
-    1hLongsword_PVPT3                                                                 1 FALSE      Level:19-38          
-    1hLongsword_PVP_PrestigeT3                                                        1 FALSE      Level:19-38          
-    1hLongsword_PVP_NamedT3                                                           1 FALSE      Level:19-38          
     HeavyHands_PVP_Prestige600T5                                                      1 FALSE      Level:59             
-    1hLongsword_PVPT4                                                                 1 FALSE      Level:39-58          
-    1hLongsword_PVP_PrestigeT4                                                        1 FALSE      Level:39-58          
-    1hLongsword_PVP_NamedT4                                                           1 FALSE      Level:39-58          
     HeavyLegs_PVP_Prestige600T5                                                       1 FALSE      Level:59             
-    1hLongsword_PVPT5                                                                 1 FALSE      Level:59             
-    1hLongsword_PVP_PrestigeT5                                                        1 FALSE      Level:59             
-    1hLongsword_PVP_NamedT5_V2                                                        1 FALSE      Level:59             
     HeavyFeet_PVP_Prestige600T5                                                       1 FALSE      Level:59             
-    1hThrowingAxe_PVPT2                                                               1 FALSE      Level:0-18           
-    1hThrowingAxe_PVP_PrestigeT2                                                      1 FALSE      Level:0-18           
-    1hThrowingAxe_PVP_NamedT2                                                         1 FALSE      Level:0-18           
     MediumHead_PVP_Prestige600T5                                                      1 FALSE      Level:59             
-    1hThrowingAxe_PVPT3                                                               1 FALSE      Level:19-38          
-    1hThrowingAxe_PVP_PrestigeT3                                                      1 FALSE      Level:19-38          
-    1hThrowingAxe_PVP_NamedT3                                                         1 FALSE      Level:19-38          
     MediumChest_PVP_Prestige600T5                                                     1 FALSE      Level:59             
-    1hThrowingAxe_PVPT4                                                               1 FALSE      Level:39-58          
-    1hThrowingAxe_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
-    1hThrowingAxe_PVP_NamedT4                                                         1 FALSE      Level:39-58          
     MediumHands_PVP_Prestige600T5                                                     1 FALSE      Level:59             
-    1hThrowingAxe_PVPT5                                                               1 FALSE      Level:59             
-    1hThrowingAxe_PVP_PrestigeT5                                                      1 FALSE      Level:59             
-    1hThrowingAxe_PVP_NamedT5_V2                                                      1 FALSE      Level:59             
     MediumLegs_PVP_Prestige600T5                                                      1 FALSE      Level:59             
-    2hWarhammer_PVPT2                                                                 1 FALSE      Level:0-18           
-    2hWarhammer_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
-    2hWarhammer_PVP_NamedT2                                                           1 FALSE      Level:0-18           
     MediumFeet_PVP_Prestige600T5                                                      1 FALSE      Level:59             
-    2hWarhammer_PVPT3                                                                 1 FALSE      Level:19-38          
-    2hWarhammer_PVP_PrestigeT3                                                        1 FALSE      Level:19-38          
-    2hWarhammer_PVP_NamedT3                                                           1 FALSE      Level:19-38          
     LightHead_PVP_Prestige600T5                                                       1 FALSE      Level:59             
-    2hWarhammer_PVPT4                                                                 1 FALSE      Level:39-58          
-    2hWarhammer_PVP_PrestigeT4                                                        1 FALSE      Level:39-58          
-    2hWarhammer_PVP_NamedT4                                                           1 FALSE      Level:39-58          
     LightChest_PVP_Prestige600T5                                                      1 FALSE      Level:59             
-    2hWarhammer_PVPT5                                                                 1 FALSE      Level:59             
-    2hWarhammer_PVP_PrestigeT5                                                        1 FALSE      Level:59             
-    2hWarhammer_PVP_NamedT5_V2                                                        1 FALSE      Level:59             
     LightHands_PVP_Prestige600T5                                                      1 FALSE      Level:59             
-    2hGreatAxe_PVPT2                                                                  1 FALSE      Level:0-18           
-    2hGreatAxe_PVP_PrestigeT2                                                         1 FALSE      Level:0-18           
-    2hGreatAxe_PVP_NamedT2                                                            1 FALSE      Level:0-18           
     LightLegs_PVP_Prestige600T5                                                       1 FALSE      Level:59             
-    2hGreatAxe_PVPT3                                                                  1 FALSE      Level:19-38          
-    2hGreatAxe_PVP_PrestigeT3                                                         1 FALSE      Level:19-38          
-    2hGreatAxe_PVP_NamedT3                                                            1 FALSE      Level:19-38          
     LightFeet_PVP_Prestige600T5                                                       1 FALSE      Level:59             
-    2hGreatAxe_PVPT4                                                                  1 FALSE      Level:39-58          
-    2hGreatAxe_PVP_PrestigeT4                                                         1 FALSE      Level:39-58          
-    2hGreatAxe_PVP_NamedT4                                                            1 FALSE      Level:39-58          
     1hLongsword_PVP_Prestige600T5                                                     1 FALSE      Level:59             
-    2hGreatAxe_PVPT5                                                                  1 FALSE      Level:59             
-    2hGreatAxe_PVP_PrestigeT5                                                         1 FALSE      Level:59             
-    2hGreatAxe_PVP_NamedT5_V2                                                         1 FALSE      Level:59             
     1hThrowingAxe_PVP_Prestige600T5                                                   1 FALSE      Level:59             
-    2hBow_PVPT2                                                                       1 FALSE      Level:0-18           
-    2hBow_PVP_PrestigeT2                                                              1 FALSE      Level:0-18           
-    2hBow_PVP_NamedT2                                                                 1 FALSE      Level:0-18           
     2hWarhammer_PVP_Prestige600T5                                                     1 FALSE      Level:59             
-    2hBow_PVPT3                                                                       1 FALSE      Level:19-38          
-    2hBow_PVP_PrestigeT3                                                              1 FALSE      Level:19-38          
-    2hBow_PVP_NamedT3                                                                 1 FALSE      Level:19-38          
     2hGreatAxe_PVP_Prestige600T5                                                      1 FALSE      Level:59             
-    2hBow_PVPT4                                                                       1 FALSE      Level:39-58          
-    2hBow_PVP_PrestigeT4                                                              1 FALSE      Level:39-58          
-    2hBow_PVP_NamedT4                                                                 1 FALSE      Level:39-58          
     2hBow_PVP_Prestige600T5                                                           1 FALSE      Level:59             
-    2hBow_PVPT5                                                                       1 FALSE      Level:59             
-    2hBow_PVP_PrestigeT5                                                              1 FALSE      Level:59             
-    2hBow_PVP_NamedT5_V2                                                              1 FALSE      Level:59             
     2hMusket_PVP_Prestige600T5                                                        1 FALSE      Level:59             
-    2hMusket_PVPT2                                                                    1 FALSE      Level:0-18           
-    2hMusket_PVP_PrestigeT2                                                           1 FALSE      Level:0-18           
-    2hMusket_PVP_NamedT2                                                              1 FALSE      Level:0-18           
     1hRoundShield_PVP_Prestige600T5                                                   1 FALSE      Level:59             
-    2hMusket_PVPT3                                                                    1 FALSE      Level:19-38          
-    2hMusket_PVP_PrestigeT3                                                           1 FALSE      Level:19-38          
-    2hMusket_PVP_NamedT3                                                              1 FALSE      Level:19-38          
     1hKiteShield_PVP_Prestige600T5                                                    1 FALSE      Level:59             
-    2hMusket_PVPT4                                                                    1 FALSE      Level:39-58          
-    2hMusket_PVP_PrestigeT4                                                           1 FALSE      Level:39-58          
-    2hMusket_PVP_NamedT4                                                              1 FALSE      Level:39-58          
     1hTowerShield_PVP_Prestige600T5                                                   1 FALSE      Level:59             
-    2hMusket_PVPT5                                                                    1 FALSE      Level:59             
-    2hMusket_PVP_PrestigeT5                                                           1 FALSE      Level:59             
-    2hMusket_PVP_NamedT5_V2                                                           1 FALSE      Level:59             
     2hStaffFire_PVP_Prestige600T5                                                     1 FALSE      Level:59             
-    1hRoundShield_PVPT2                                                               1 FALSE      Level:0-18           
-    1hRoundShield_PVP_PrestigeT2                                                      1 FALSE      Level:0-18           
-    1hRoundShield_PVP_NamedT2                                                         1 FALSE      Level:0-18           
     2hStaffLife_PVP_Prestige600T5                                                     1 FALSE      Level:59             
-    1hRoundShield_PVPT3                                                               1 FALSE      Level:19-38          
-    1hRoundShield_PVP_PrestigeT3                                                      1 FALSE      Level:19-38          
-    1hRoundShield_PVP_NamedT3                                                         1 FALSE      Level:19-38          
     2hSpear_PVP_Prestige600T5                                                         1 FALSE      Level:59             
-    1hRoundShield_PVPT4                                                               1 FALSE      Level:39-58          
-    1hRoundShield_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
-    1hRoundShield_PVP_NamedT4                                                         1 FALSE      Level:39-58          
     1hRapier_PVP_Prestige600T5                                                        1 FALSE      Level:59             
-    1hRoundShield_PVPT5                                                               1 FALSE      Level:59             
-    1hRoundShield_PVP_PrestigeT5                                                      1 FALSE      Level:59             
-    1hRoundShield_PVP_NamedT5_V2                                                      1 FALSE      Level:59             
     1hGauntletIce_PVP_Prestige600T5                                                   1 FALSE      Level:59             
-    1hKiteShield_PVPT3                                                                1 FALSE      Level:19-38          
-    1hKiteShield_PVP_PrestigeT3                                                       1 FALSE      Level:19-38          
-    1hKiteShield_PVP_NamedT3                                                          1 FALSE      Level:19-38          
     1hGauntletVoid_PVP_Prestige600T5                                                  1 FALSE      Level:59             
-    1hKiteShield_PVPT4                                                                1 FALSE      Level:39-58          
-    1hKiteShield_PVP_PrestigeT4                                                       1 FALSE      Level:39-58          
-    1hKiteShield_PVP_NamedT4                                                          1 FALSE      Level:39-58          
     2hBlunderbuss_PVP_Prestige600T5                                                   1 FALSE      Level:59             
-    1hKiteShield_PVPT5                                                                1 FALSE      Level:59             
-    1hKiteShield_PVP_PrestigeT5                                                       1 FALSE      Level:59             
-    1hKiteShield_PVP_NamedT5_V2                                                       1 FALSE      Level:59             
     2hGreatSword_PVP_Prestige600T5                                                    1 FALSE      Level:59             
-    1hTowerShield_PVPT4                                                               1 FALSE      Level:39-58          
-    1hTowerShield_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
-    1hTowerShield_PVP_NamedT4                                                         1 FALSE      Level:39-58          
-    1hTowerShield_PVPT5                                                               1 FALSE      Level:59             
-    1hTowerShield_PVP_PrestigeT5                                                      1 FALSE      Level:59             
-    1hTowerShield_PVP_NamedT5_V2                                                      1 FALSE      Level:59             
-    2hStaffFire_PVPT2                                                                 1 FALSE      Level:0-18           
-    2hStaffFire_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
-    2hStaffFire_PVP_NamedT2                                                           1 FALSE      Level:0-18           
-    2hStaffFire_PVPT3                                                                 1 FALSE      Level:19-38          
-    2hStaffFire_PVP_PrestigeT3                                                        1 FALSE      Level:19-38          
-    2hStaffFire_PVP_NamedT3                                                           1 FALSE      Level:19-38          
-    2hStaffFire_PVPT4                                                                 1 FALSE      Level:39-58          
-    2hStaffFire_PVP_PrestigeT4                                                        1 FALSE      Level:39-58          
-    2hStaffFire_PVP_NamedT4                                                           1 FALSE      Level:39-58          
-    2hStaffFire_PVPT5                                                                 1 FALSE      Level:59             
-    2hStaffFire_PVP_PrestigeT5                                                        1 FALSE      Level:59             
-    2hStaffFire_PVP_NamedT5_V2                                                        1 FALSE      Level:59             
-    2hStaffLife_PVPT2                                                                 1 FALSE      Level:0-18           
-    2hStaffLife_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
-    2hStaffLife_PVP_NamedT2                                                           1 FALSE      Level:0-18           
-    2hStaffLife_PVPT3                                                                 1 FALSE      Level:19-38          
-    2hStaffLife_PVP_PrestigeT3                                                        1 FALSE      Level:19-38          
-    2hStaffLife_PVP_NamedT3                                                           1 FALSE      Level:19-38          
-    2hStaffLife_PVPT4                                                                 1 FALSE      Level:39-58          
-    2hStaffLife_PVP_PrestigeT4                                                        1 FALSE      Level:39-58          
-    2hStaffLife_PVP_NamedT4                                                           1 FALSE      Level:39-58          
-    2hStaffLife_PVPT5                                                                 1 FALSE      Level:59             
-    2hStaffLife_PVP_PrestigeT5                                                        1 FALSE      Level:59             
-    2hStaffLife_PVP_NamedT5_V2                                                        1 FALSE      Level:59             
-    2hSpear_PVPT2                                                                     1 FALSE      Level:0-18           
-    2hSpear_PVP_PrestigeT2                                                            1 FALSE      Level:0-18           
-    2hSpear_PVP_NamedT2                                                               1 FALSE      Level:0-18           
-    2hSpear_PVPT3                                                                     1 FALSE      Level:19-38          
-    2hSpear_PVP_PrestigeT3                                                            1 FALSE      Level:19-38          
-    2hSpear_PVP_NamedT3                                                               1 FALSE      Level:19-38          
-    2hSpear_PVPT4                                                                     1 FALSE      Level:39-58          
-    2hSpear_PVP_PrestigeT4                                                            1 FALSE      Level:39-58          
-    2hSpear_PVP_NamedT4                                                               1 FALSE      Level:39-58          
-    2hSpear_PVPT5                                                                     1 FALSE      Level:59             
-    2hSpear_PVP_PrestigeT5                                                            1 FALSE      Level:59             
-    2hSpear_PVP_NamedT5_V2                                                            1 FALSE      Level:59             
-    1hRapier_PVPT2                                                                    1 FALSE      Level:0-18           
-    1hRapier_PVP_PrestigeT2                                                           1 FALSE      Level:0-18           
-    1hRapier_PVP_NamedT2                                                              1 FALSE      Level:0-18           
-    1hRapier_PVPT3                                                                    1 FALSE      Level:19-38          
-    1hRapier_PVP_PrestigeT3                                                           1 FALSE      Level:19-38          
-    1hRapier_PVP_NamedT3                                                              1 FALSE      Level:19-38          
-    1hRapier_PVPT4                                                                    1 FALSE      Level:39-58          
-    1hRapier_PVP_PrestigeT4                                                           1 FALSE      Level:39-58          
-    1hRapier_PVP_NamedT4                                                              1 FALSE      Level:39-58          
-    1hRapier_PVPT5                                                                    1 FALSE      Level:59             
-    1hRapier_PVP_PrestigeT5                                                           1 FALSE      Level:59             
-    1hRapier_PVP_NamedT5_V2                                                           1 FALSE      Level:59             
-    1hGauntletIce_PVPT2                                                               1 FALSE      Level:0-18           
-    1hGauntletIce_PVP_PrestigeT2                                                      1 FALSE      Level:0-18           
-    1hGauntletIce_PVP_NamedT2                                                         1 FALSE      Level:0-18           
-    1hGauntletIce_PVPT3                                                               1 FALSE      Level:19-38          
-    1hGauntletIce_PVP_PrestigeT3                                                      1 FALSE      Level:19-38          
-    1hGauntletIce_PVP_NamedT3                                                         1 FALSE      Level:19-38          
-    1hGauntletIce_PVPT4                                                               1 FALSE      Level:39-58          
-    1hGauntletIce_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
-    1hGauntletIce_PVP_NamedT4                                                         1 FALSE      Level:39-58          
-    1hGauntletIce_PVPT5                                                               1 FALSE      Level:59             
-    1hGauntletIce_PVP_PrestigeT5                                                      1 FALSE      Level:59             
-    1hGauntletIce_PVP_NamedT5_V2                                                      1 FALSE      Level:59             
-    1hGauntletVoid_PVPT2                                                              1 FALSE      Level:0-18           
-    1hGauntletVoid_PVP_PrestigeT2                                                     1 FALSE      Level:0-18           
-    1hGauntletVoid_PVP_NamedT2                                                        1 FALSE      Level:0-18           
-    1hGauntletVoid_PVPT3                                                              1 FALSE      Level:19-38          
-    1hGauntletVoid_PVP_PrestigeT3                                                     1 FALSE      Level:19-38          
-    1hGauntletVoid_PVP_NamedT3                                                        1 FALSE      Level:19-38          
-    1hGauntletVoid_PVPT4                                                              1 FALSE      Level:39-58          
-    1hGauntletVoid_PVP_PrestigeT4                                                     1 FALSE      Level:39-58          
-    1hGauntletVoid_PVP_NamedT4                                                        1 FALSE      Level:39-58          
-    1hGauntletVoid_PVPT5                                                              1 FALSE      Level:59             
-    1hGauntletVoid_PVP_PrestigeT5                                                     1 FALSE      Level:59             
-    1hGauntletVoid_PVP_NamedT5_V2                                                     1 FALSE      Level:59             
-    2hBlunderbuss_PVPT4                                                               1 FALSE      Level:39-58          
-    2hBlunderbuss_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
-    2hBlunderbuss_PVP_NamedT4                                                         1 FALSE      Level:39-58          
-    2hBlunderbuss_PVPT5                                                               1 FALSE      Level:59             
-    2hBlunderbuss_PVP_PrestigeT5                                                      1 FALSE      Level:59             
-    2hBlunderbuss_PVP_NamedT5_V2                                                      1 FALSE      Level:59             
+PvP_BasicWeaponRolledTagged:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    1hLongsword_PVPT3                                                                 1 FALSE      Level:19-38          
+    1hLongsword_PVPT4                                                                 1 FALSE      Level:39-58          
+    1hLongsword_PVPT5                                                                 1 FALSE      Level:59             
+    1hThrowingAxe_PVPT2                                                               1 FALSE      Level:0-18,equipped  
+    1hThrowingAxe_PVPT3                                                               1 FALSE      Level:19-38,equipped 
+    1hThrowingAxe_PVPT4                                                               1 FALSE      Level:39-58,equipped 
+    1hThrowingAxe_PVPT5                                                               1 FALSE      Level:59,equipped    
+    2hWarhammer_PVPT2                                                                 1 FALSE      Level:0-18,equipped  
+    2hWarhammer_PVPT3                                                                 1 FALSE      Level:19-38,equipped 
+    2hWarhammer_PVPT4                                                                 1 FALSE      Level:39-58,equipped 
+    2hWarhammer_PVPT5                                                                 1 FALSE      Level:59,equipped    
+    2hGreatAxe_PVPT2                                                                  1 FALSE      Level:0-18,equipped  
+    2hGreatAxe_PVPT3                                                                  1 FALSE      Level:19-38,equipped 
+    2hGreatAxe_PVPT4                                                                  1 FALSE      Level:39-58,equipped 
+    2hGreatAxe_PVPT5                                                                  1 FALSE      Level:59,equipped    
+    2hBow_PVPT2                                                                       1 FALSE      Level:0-18,equipped  
+    2hBow_PVPT3                                                                       1 FALSE      Level:19-38,equipped 
+    2hBow_PVPT4                                                                       1 FALSE      Level:39-58,equipped 
+    2hBow_PVPT5                                                                       1 FALSE      Level:59,equipped    
+    2hMusket_PVPT2                                                                    1 FALSE      Level:0-18,equipped  
+    2hMusket_PVPT3                                                                    1 FALSE      Level:19-38,equipped 
+    2hMusket_PVPT4                                                                    1 FALSE      Level:39-58,equipped 
+    2hMusket_PVPT5                                                                    1 FALSE      Level:59,equipped    
+    1hRoundShield_PVPT2                                                               1 FALSE      Level:0-18,equipped  
+    1hRoundShield_PVPT3                                                               1 FALSE      Level:19-38,equipped 
+    1hRoundShield_PVPT4                                                               1 FALSE      Level:39-58,equipped 
+    1hRoundShield_PVPT5                                                               1 FALSE      Level:59,equipped    
+    1hKiteShield_PVPT3                                                                1 FALSE      Level:19-38,equipped 
+    1hKiteShield_PVPT4                                                                1 FALSE      Level:39-58,equipped 
+    1hKiteShield_PVPT5                                                                1 FALSE      Level:59,equipped    
+    1hTowerShield_PVPT4                                                               1 FALSE      Level:39-58,equipped 
+    1hTowerShield_PVPT5                                                               1 FALSE      Level:59,equipped    
+    2hStaffFire_PVPT2                                                                 1 FALSE      Level:0-18,equipped  
+    2hStaffFire_PVPT3                                                                 1 FALSE      Level:19-38,equipped 
+    2hStaffFire_PVPT4                                                                 1 FALSE      Level:39-58,equipped 
+    2hStaffFire_PVPT5                                                                 1 FALSE      Level:59,equipped    
+    2hStaffLife_PVPT2                                                                 1 FALSE      Level:0-18,equipped  
+    2hStaffLife_PVPT3                                                                 1 FALSE      Level:19-38,equipped 
+    2hStaffLife_PVPT4                                                                 1 FALSE      Level:39-58,equipped 
+    2hStaffLife_PVPT5                                                                 1 FALSE      Level:59,equipped    
+    2hSpear_PVPT2                                                                     1 FALSE      Level:0-18,equipped  
+    2hSpear_PVPT3                                                                     1 FALSE      Level:19-38,equipped 
+    2hSpear_PVPT4                                                                     1 FALSE      Level:39-58,equipped 
+    2hSpear_PVPT5                                                                     1 FALSE      Level:59,equipped    
+    1hRapier_PVPT2                                                                    1 FALSE      Level:0-18,equipped  
+    1hRapier_PVPT3                                                                    1 FALSE      Level:19-38,equipped 
+    1hRapier_PVPT4                                                                    1 FALSE      Level:39-58,equipped 
+    1hRapier_PVPT5                                                                    1 FALSE      Level:59,equipped    
+    1hGauntletIce_PVPT2                                                               1 FALSE      Level:0-18,equipped  
+    1hGauntletIce_PVPT3                                                               1 FALSE      Level:19-38,equipped 
+    1hGauntletIce_PVPT4                                                               1 FALSE      Level:39-58,equipped 
+    1hGauntletIce_PVPT5                                                               1 FALSE      Level:59,equipped    
+    1hGauntletVoid_PVPT2                                                              1 FALSE      Level:0-18,equipped  
+    1hGauntletVoid_PVPT3                                                              1 FALSE      Level:19-38,equipped 
+    1hGauntletVoid_PVPT4                                                              1 FALSE      Level:39-58,equipped 
+    1hGauntletVoid_PVPT5                                                              1 FALSE      Level:59,equipped    
+    2hBlunderbuss_PVPT4                                                               1 FALSE      Level:39-58,equipped 
+    2hBlunderbuss_PVPT5                                                               1 FALSE      Level:59,equipped    
     1hLongsword_PVPT2                                                                 1 FALSE      Level:0-18           
     2hGreatSword_PVPT4                                                                1 FALSE      Level:39-58,equipped 
+    2hGreatSword_PVPT5                                                                1 FALSE      Level:59,equipped    
+PvP_BasicWeaponRolled:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    1hLongsword_PVPT3                                                                 1 FALSE      Level:19-38          
+    1hLongsword_PVPT4                                                                 1 FALSE      Level:39-58          
+    1hLongsword_PVPT5                                                                 1 FALSE      Level:59             
+    1hThrowingAxe_PVPT2                                                               1 FALSE      Level:0-18           
+    1hThrowingAxe_PVPT3                                                               1 FALSE      Level:19-38          
+    1hThrowingAxe_PVPT4                                                               1 FALSE      Level:39-58          
+    1hThrowingAxe_PVPT5                                                               1 FALSE      Level:59             
+    2hWarhammer_PVPT2                                                                 1 FALSE      Level:0-18           
+    2hWarhammer_PVPT3                                                                 1 FALSE      Level:19-38          
+    2hWarhammer_PVPT4                                                                 1 FALSE      Level:39-58          
+    2hWarhammer_PVPT5                                                                 1 FALSE      Level:59             
+    2hGreatAxe_PVPT2                                                                  1 FALSE      Level:0-18           
+    2hGreatAxe_PVPT3                                                                  1 FALSE      Level:19-38          
+    2hGreatAxe_PVPT4                                                                  1 FALSE      Level:39-58          
+    2hGreatAxe_PVPT5                                                                  1 FALSE      Level:59             
+    2hBow_PVPT2                                                                       1 FALSE      Level:0-18           
+    2hBow_PVPT3                                                                       1 FALSE      Level:19-38          
+    2hBow_PVPT4                                                                       1 FALSE      Level:39-58          
+    2hBow_PVPT5                                                                       1 FALSE      Level:59             
+    2hMusket_PVPT2                                                                    1 FALSE      Level:0-18           
+    2hMusket_PVPT3                                                                    1 FALSE      Level:19-38          
+    2hMusket_PVPT4                                                                    1 FALSE      Level:39-58          
+    2hMusket_PVPT5                                                                    1 FALSE      Level:59             
+    1hRoundShield_PVPT2                                                               1 FALSE      Level:0-18           
+    1hRoundShield_PVPT3                                                               1 FALSE      Level:19-38          
+    1hRoundShield_PVPT4                                                               1 FALSE      Level:39-58          
+    1hRoundShield_PVPT5                                                               1 FALSE      Level:59             
+    1hKiteShield_PVPT3                                                                1 FALSE      Level:19-38          
+    1hKiteShield_PVPT4                                                                1 FALSE      Level:39-58          
+    1hKiteShield_PVPT5                                                                1 FALSE      Level:59             
+    1hTowerShield_PVPT4                                                               1 FALSE      Level:39-58          
+    1hTowerShield_PVPT5                                                               1 FALSE      Level:59             
+    2hStaffFire_PVPT2                                                                 1 FALSE      Level:0-18           
+    2hStaffFire_PVPT3                                                                 1 FALSE      Level:19-38          
+    2hStaffFire_PVPT4                                                                 1 FALSE      Level:39-58          
+    2hStaffFire_PVPT5                                                                 1 FALSE      Level:59             
+    2hStaffLife_PVPT2                                                                 1 FALSE      Level:0-18           
+    2hStaffLife_PVPT3                                                                 1 FALSE      Level:19-38          
+    2hStaffLife_PVPT4                                                                 1 FALSE      Level:39-58          
+    2hStaffLife_PVPT5                                                                 1 FALSE      Level:59             
+    2hSpear_PVPT2                                                                     1 FALSE      Level:0-18           
+    2hSpear_PVPT3                                                                     1 FALSE      Level:19-38          
+    2hSpear_PVPT4                                                                     1 FALSE      Level:39-58          
+    2hSpear_PVPT5                                                                     1 FALSE      Level:59             
+    1hRapier_PVPT2                                                                    1 FALSE      Level:0-18           
+    1hRapier_PVPT3                                                                    1 FALSE      Level:19-38          
+    1hRapier_PVPT4                                                                    1 FALSE      Level:39-58          
+    1hRapier_PVPT5                                                                    1 FALSE      Level:59             
+    1hGauntletIce_PVPT2                                                               1 FALSE      Level:0-18           
+    1hGauntletIce_PVPT3                                                               1 FALSE      Level:19-38          
+    1hGauntletIce_PVPT4                                                               1 FALSE      Level:39-58          
+    1hGauntletIce_PVPT5                                                               1 FALSE      Level:59             
+    1hGauntletVoid_PVPT2                                                              1 FALSE      Level:0-18           
+    1hGauntletVoid_PVPT3                                                              1 FALSE      Level:19-38          
+    1hGauntletVoid_PVPT4                                                              1 FALSE      Level:39-58          
+    1hGauntletVoid_PVPT5                                                              1 FALSE      Level:59             
+    2hBlunderbuss_PVPT4                                                               1 FALSE      Level:39-58          
+    2hBlunderbuss_PVPT5                                                               1 FALSE      Level:59             
+    2hGreatSword_PVPT4                                                                1 FALSE      Level:39-58          
+    2hGreatSword_PVPT5                                                                1 FALSE      Level:59             
+PvP_PrestigeWeaponRolledTagged:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    1hLongsword_PVP_PrestigeT3                                                        1 FALSE      Level:19-38          
+    1hLongsword_PVP_PrestigeT4                                                        1 FALSE      Level:39-58          
+    1hLongsword_PVP_PrestigeT5                                                        1 FALSE      Level:59             
+    1hThrowingAxe_PVP_PrestigeT2                                                      1 FALSE      Level:0-18,equipped  
+    1hThrowingAxe_PVP_PrestigeT3                                                      1 FALSE      Level:19-38,equipped 
+    1hThrowingAxe_PVP_PrestigeT4                                                      1 FALSE      Level:39-58,equipped 
+    1hThrowingAxe_PVP_PrestigeT5                                                      1 FALSE      Level:59,equipped    
+    2hWarhammer_PVP_PrestigeT2                                                        1 FALSE      Level:0-18,equipped  
+    2hWarhammer_PVP_PrestigeT3                                                        1 FALSE      Level:19-38,equipped 
+    2hWarhammer_PVP_PrestigeT4                                                        1 FALSE      Level:39-58,equipped 
+    2hWarhammer_PVP_PrestigeT5                                                        1 FALSE      Level:59,equipped    
+    2hGreatAxe_PVP_PrestigeT2                                                         1 FALSE      Level:0-18,equipped  
+    2hGreatAxe_PVP_PrestigeT3                                                         1 FALSE      Level:19-38,equipped 
+    2hGreatAxe_PVP_PrestigeT4                                                         1 FALSE      Level:39-58,equipped 
+    2hGreatAxe_PVP_PrestigeT5                                                         1 FALSE      Level:59,equipped    
+    2hBow_PVP_PrestigeT2                                                              1 FALSE      Level:0-18,equipped  
+    2hBow_PVP_PrestigeT3                                                              1 FALSE      Level:19-38,equipped 
+    2hBow_PVP_PrestigeT4                                                              1 FALSE      Level:39-58,equipped 
+    2hBow_PVP_PrestigeT5                                                              1 FALSE      Level:59,equipped    
+    2hMusket_PVP_PrestigeT2                                                           1 FALSE      Level:0-18,equipped  
+    2hMusket_PVP_PrestigeT3                                                           1 FALSE      Level:19-38,equipped 
+    2hMusket_PVP_PrestigeT4                                                           1 FALSE      Level:39-58,equipped 
+    2hMusket_PVP_PrestigeT5                                                           1 FALSE      Level:59,equipped    
+    1hRoundShield_PVP_PrestigeT2                                                      1 FALSE      Level:0-18,equipped  
+    1hRoundShield_PVP_PrestigeT3                                                      1 FALSE      Level:19-38,equipped 
+    1hRoundShield_PVP_PrestigeT4                                                      1 FALSE      Level:39-58,equipped 
+    1hRoundShield_PVP_PrestigeT5                                                      1 FALSE      Level:59,equipped    
+    1hKiteShield_PVP_PrestigeT3                                                       1 FALSE      Level:19-38,equipped 
+    1hKiteShield_PVP_PrestigeT4                                                       1 FALSE      Level:39-58,equipped 
+    1hKiteShield_PVP_PrestigeT5                                                       1 FALSE      Level:59,equipped    
+    1hTowerShield_PVP_PrestigeT4                                                      1 FALSE      Level:39-58,equipped 
+    1hTowerShield_PVP_PrestigeT5                                                      1 FALSE      Level:59,equipped    
+    2hStaffFire_PVP_PrestigeT2                                                        1 FALSE      Level:0-18,equipped  
+    2hStaffFire_PVP_PrestigeT3                                                        1 FALSE      Level:19-38,equipped 
+    2hStaffFire_PVP_PrestigeT4                                                        1 FALSE      Level:39-58,equipped 
+    2hStaffFire_PVP_PrestigeT5                                                        1 FALSE      Level:59,equipped    
+    2hStaffLife_PVP_PrestigeT2                                                        1 FALSE      Level:0-18,equipped  
+    2hStaffLife_PVP_PrestigeT3                                                        1 FALSE      Level:19-38,equipped 
+    2hStaffLife_PVP_PrestigeT4                                                        1 FALSE      Level:39-58,equipped 
+    2hStaffLife_PVP_PrestigeT5                                                        1 FALSE      Level:59,equipped    
+    2hSpear_PVP_PrestigeT2                                                            1 FALSE      Level:0-18,equipped  
+    2hSpear_PVP_PrestigeT3                                                            1 FALSE      Level:19-38,equipped 
+    2hSpear_PVP_PrestigeT4                                                            1 FALSE      Level:39-58,equipped 
+    2hSpear_PVP_PrestigeT5                                                            1 FALSE      Level:59,equipped    
+    1hRapier_PVP_PrestigeT2                                                           1 FALSE      Level:0-18,equipped  
+    1hRapier_PVP_PrestigeT3                                                           1 FALSE      Level:19-38,equipped 
+    1hRapier_PVP_PrestigeT4                                                           1 FALSE      Level:39-58,equipped 
+    1hRapier_PVP_PrestigeT5                                                           1 FALSE      Level:59,equipped    
+    1hGauntletIce_PVP_PrestigeT2                                                      1 FALSE      Level:0-18,equipped  
+    1hGauntletIce_PVP_PrestigeT3                                                      1 FALSE      Level:19-38,equipped 
+    1hGauntletIce_PVP_PrestigeT4                                                      1 FALSE      Level:39-58,equipped 
+    1hGauntletIce_PVP_PrestigeT5                                                      1 FALSE      Level:59,equipped    
+    1hGauntletVoid_PVP_PrestigeT2                                                     1 FALSE      Level:0-18,equipped  
+    1hGauntletVoid_PVP_PrestigeT3                                                     1 FALSE      Level:19-38,equipped 
+    1hGauntletVoid_PVP_PrestigeT4                                                     1 FALSE      Level:39-58,equipped 
+    1hGauntletVoid_PVP_PrestigeT5                                                     1 FALSE      Level:59,equipped    
+    2hBlunderbuss_PVP_PrestigeT4                                                      1 FALSE      Level:39-58,equipped 
+    2hBlunderbuss_PVP_PrestigeT5                                                      1 FALSE      Level:59,equipped    
     1hLongsword_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
     2hGreatSword_PVP_PrestigeT4                                                       1 FALSE      Level:39-58,equipped 
+    2hGreatSword_PVP_PrestigeT5                                                       1 FALSE      Level:59,equipped    
+PvP_PrestigeWeaponRolled:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    1hLongsword_PVP_PrestigeT3                                                        1 FALSE      Level:19-38          
+    1hLongsword_PVP_PrestigeT4                                                        1 FALSE      Level:39-58          
+    1hLongsword_PVP_PrestigeT5                                                        1 FALSE      Level:59             
+    1hThrowingAxe_PVP_PrestigeT2                                                      1 FALSE      Level:0-18           
+    1hThrowingAxe_PVP_PrestigeT3                                                      1 FALSE      Level:19-38          
+    1hThrowingAxe_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
+    1hThrowingAxe_PVP_PrestigeT5                                                      1 FALSE      Level:59             
+    2hWarhammer_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
+    2hWarhammer_PVP_PrestigeT3                                                        1 FALSE      Level:19-38          
+    2hWarhammer_PVP_PrestigeT4                                                        1 FALSE      Level:39-58          
+    2hWarhammer_PVP_PrestigeT5                                                        1 FALSE      Level:59             
+    2hGreatAxe_PVP_PrestigeT2                                                         1 FALSE      Level:0-18           
+    2hGreatAxe_PVP_PrestigeT3                                                         1 FALSE      Level:19-38          
+    2hGreatAxe_PVP_PrestigeT4                                                         1 FALSE      Level:39-58          
+    2hGreatAxe_PVP_PrestigeT5                                                         1 FALSE      Level:59             
+    2hBow_PVP_PrestigeT2                                                              1 FALSE      Level:0-18           
+    2hBow_PVP_PrestigeT3                                                              1 FALSE      Level:19-38          
+    2hBow_PVP_PrestigeT4                                                              1 FALSE      Level:39-58          
+    2hBow_PVP_PrestigeT5                                                              1 FALSE      Level:59             
+    2hMusket_PVP_PrestigeT2                                                           1 FALSE      Level:0-18           
+    2hMusket_PVP_PrestigeT3                                                           1 FALSE      Level:19-38          
+    2hMusket_PVP_PrestigeT4                                                           1 FALSE      Level:39-58          
+    2hMusket_PVP_PrestigeT5                                                           1 FALSE      Level:59             
+    1hRoundShield_PVP_PrestigeT2                                                      1 FALSE      Level:0-18           
+    1hRoundShield_PVP_PrestigeT3                                                      1 FALSE      Level:19-38          
+    1hRoundShield_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
+    1hRoundShield_PVP_PrestigeT5                                                      1 FALSE      Level:59             
+    1hKiteShield_PVP_PrestigeT3                                                       1 FALSE      Level:19-38          
+    1hKiteShield_PVP_PrestigeT4                                                       1 FALSE      Level:39-58          
+    1hKiteShield_PVP_PrestigeT5                                                       1 FALSE      Level:59             
+    1hTowerShield_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
+    1hTowerShield_PVP_PrestigeT5                                                      1 FALSE      Level:59             
+    2hStaffFire_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
+    2hStaffFire_PVP_PrestigeT3                                                        1 FALSE      Level:19-38          
+    2hStaffFire_PVP_PrestigeT4                                                        1 FALSE      Level:39-58          
+    2hStaffFire_PVP_PrestigeT5                                                        1 FALSE      Level:59             
+    2hStaffLife_PVP_PrestigeT2                                                        1 FALSE      Level:0-18           
+    2hStaffLife_PVP_PrestigeT3                                                        1 FALSE      Level:19-38          
+    2hStaffLife_PVP_PrestigeT4                                                        1 FALSE      Level:39-58          
+    2hStaffLife_PVP_PrestigeT5                                                        1 FALSE      Level:59             
+    2hSpear_PVP_PrestigeT2                                                            1 FALSE      Level:0-18           
+    2hSpear_PVP_PrestigeT3                                                            1 FALSE      Level:19-38          
+    2hSpear_PVP_PrestigeT4                                                            1 FALSE      Level:39-58          
+    2hSpear_PVP_PrestigeT5                                                            1 FALSE      Level:59             
+    1hRapier_PVP_PrestigeT2                                                           1 FALSE      Level:0-18           
+    1hRapier_PVP_PrestigeT3                                                           1 FALSE      Level:19-38          
+    1hRapier_PVP_PrestigeT4                                                           1 FALSE      Level:39-58          
+    1hRapier_PVP_PrestigeT5                                                           1 FALSE      Level:59             
+    1hGauntletIce_PVP_PrestigeT2                                                      1 FALSE      Level:0-18           
+    1hGauntletIce_PVP_PrestigeT3                                                      1 FALSE      Level:19-38          
+    1hGauntletIce_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
+    1hGauntletIce_PVP_PrestigeT5                                                      1 FALSE      Level:59             
+    1hGauntletVoid_PVP_PrestigeT2                                                     1 FALSE      Level:0-18           
+    1hGauntletVoid_PVP_PrestigeT3                                                     1 FALSE      Level:19-38          
+    1hGauntletVoid_PVP_PrestigeT4                                                     1 FALSE      Level:39-58          
+    1hGauntletVoid_PVP_PrestigeT5                                                     1 FALSE      Level:59             
+    2hBlunderbuss_PVP_PrestigeT4                                                      1 FALSE      Level:39-58          
+    2hBlunderbuss_PVP_PrestigeT5                                                      1 FALSE      Level:59             
+    2hGreatSword_PVP_PrestigeT4                                                       1 FALSE      Level:39-58          
+    2hGreatSword_PVP_PrestigeT5                                                       1 FALSE      Level:59             
+PvP_NamedWeaponRolledTagged:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    1hLongsword_PVP_NamedT3                                                           1 FALSE      Level:19-38          
+    1hLongsword_PVP_NamedT4                                                           1 FALSE      Level:39-58          
+    1hLongsword_PVP_NamedT5                                                           1 FALSE      Level:59             
+    1hThrowingAxe_PVP_NamedT2                                                         1 FALSE      Level:0-18,equipped  
+    1hThrowingAxe_PVP_NamedT3                                                         1 FALSE      Level:19-38,equipped 
+    1hThrowingAxe_PVP_NamedT4                                                         1 FALSE      Level:39-58,equipped 
+    1hThrowingAxe_PVP_NamedT5                                                         1 FALSE      Level:59,equipped    
+    2hWarhammer_PVP_NamedT2                                                           1 FALSE      Level:0-18,equipped  
+    2hWarhammer_PVP_NamedT3                                                           1 FALSE      Level:19-38,equipped 
+    2hWarhammer_PVP_NamedT4                                                           1 FALSE      Level:39-58,equipped 
+    2hWarhammer_PVP_NamedT5                                                           1 FALSE      Level:59,equipped    
+    2hGreatAxe_PVP_NamedT2                                                            1 FALSE      Level:0-18,equipped  
+    2hGreatAxe_PVP_NamedT3                                                            1 FALSE      Level:19-38,equipped 
+    2hGreatAxe_PVP_NamedT4                                                            1 FALSE      Level:39-58,equipped 
+    2hGreatAxe_PVP_NamedT5                                                            1 FALSE      Level:59,equipped    
+    2hBow_PVP_NamedT2                                                                 1 FALSE      Level:0-18,equipped  
+    2hBow_PVP_NamedT3                                                                 1 FALSE      Level:19-38,equipped 
+    2hBow_PVP_NamedT4                                                                 1 FALSE      Level:39-58,equipped 
+    2hBow_PVP_NamedT5                                                                 1 FALSE      Level:59,equipped    
+    2hMusket_PVP_NamedT2                                                              1 FALSE      Level:0-18,equipped  
+    2hMusket_PVP_NamedT3                                                              1 FALSE      Level:19-38,equipped 
+    2hMusket_PVP_NamedT4                                                              1 FALSE      Level:39-58,equipped 
+    2hMusket_PVP_NamedT5                                                              1 FALSE      Level:59,equipped    
+    1hRoundShield_PVP_NamedT2                                                         1 FALSE      Level:0-18,equipped  
+    1hRoundShield_PVP_NamedT3                                                         1 FALSE      Level:19-38,equipped 
+    1hRoundShield_PVP_NamedT4                                                         1 FALSE      Level:39-58,equipped 
+    1hRoundShield_PVP_NamedT5                                                         1 FALSE      Level:59,equipped    
+    1hKiteShield_PVP_NamedT3                                                          1 FALSE      Level:19-38,equipped 
+    1hKiteShield_PVP_NamedT4                                                          1 FALSE      Level:39-58,equipped 
+    1hKiteShield_PVP_NamedT5                                                          1 FALSE      Level:59,equipped    
+    1hTowerShield_PVP_NamedT4                                                         1 FALSE      Level:39-58,equipped 
+    1hTowerShield_PVP_NamedT5                                                         1 FALSE      Level:59,equipped    
+    2hStaffFire_PVP_NamedT2                                                           1 FALSE      Level:0-18,equipped  
+    2hStaffFire_PVP_NamedT3                                                           1 FALSE      Level:19-38,equipped 
+    2hStaffFire_PVP_NamedT4                                                           1 FALSE      Level:39-58,equipped 
+    2hStaffFire_PVP_NamedT5                                                           1 FALSE      Level:59,equipped    
+    2hStaffLife_PVP_NamedT2                                                           1 FALSE      Level:0-18,equipped  
+    2hStaffLife_PVP_NamedT3                                                           1 FALSE      Level:19-38,equipped 
+    2hStaffLife_PVP_NamedT4                                                           1 FALSE      Level:39-58,equipped 
+    2hStaffLife_PVP_NamedT5                                                           1 FALSE      Level:59,equipped    
+    2hSpear_PVP_NamedT2                                                               1 FALSE      Level:0-18,equipped  
+    2hSpear_PVP_NamedT3                                                               1 FALSE      Level:19-38,equipped 
+    2hSpear_PVP_NamedT4                                                               1 FALSE      Level:39-58,equipped 
+    2hSpear_PVP_NamedT5                                                               1 FALSE      Level:59,equipped    
+    1hRapier_PVP_NamedT2                                                              1 FALSE      Level:0-18,equipped  
+    1hRapier_PVP_NamedT3                                                              1 FALSE      Level:19-38,equipped 
+    1hRapier_PVP_NamedT4                                                              1 FALSE      Level:39-58,equipped 
+    1hRapier_PVP_NamedT5                                                              1 FALSE      Level:59,equipped    
+    1hGauntletIce_PVP_NamedT2                                                         1 FALSE      Level:0-18,equipped  
+    1hGauntletIce_PVP_NamedT3                                                         1 FALSE      Level:19-38,equipped 
+    1hGauntletIce_PVP_NamedT4                                                         1 FALSE      Level:39-58,equipped 
+    1hGauntletIce_PVP_NamedT5                                                         1 FALSE      Level:59,equipped    
+    1hGauntletVoid_PVP_NamedT2                                                        1 FALSE      Level:0-18,equipped  
+    1hGauntletVoid_PVP_NamedT3                                                        1 FALSE      Level:19-38,equipped 
+    1hGauntletVoid_PVP_NamedT4                                                        1 FALSE      Level:39-58,equipped 
+    1hGauntletVoid_PVP_NamedT5                                                        1 FALSE      Level:59,equipped    
+    2hBlunderbuss_PVP_NamedT4                                                         1 FALSE      Level:39-58,equipped 
+    2hBlunderbuss_PVP_NamedT5                                                         1 FALSE      Level:59,equipped    
     1hLongsword_PVP_NamedT2                                                           1 FALSE      Level:0-18           
     2hGreatSword_PVP_NamedT4                                                          1 FALSE      Level:39-58,equipped 
-    2hGreatSword_PVPT5                                                                1 FALSE      Level:59,equipped    
-    2hGreatSword_PVP_PrestigeT5                                                       1 FALSE      Level:59,equipped    
-    2hGreatSword_PVP_NamedT5_V2                                                       1 FALSE      Level:59,equipped    
+    2hGreatSword_PVP_NamedT5                                                          1 FALSE      Level:59,equipped    
+PvP_NamedWeaponRolled:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    1hLongsword_PVP_NamedT3                                                           1 FALSE      Level:19-38          
+    1hLongsword_PVP_NamedT4                                                           1 FALSE      Level:39-58          
+    1hLongsword_PVP_NamedT5                                                           1 FALSE      Level:59             
+    1hThrowingAxe_PVP_NamedT2                                                         1 FALSE      Level:0-18           
+    1hThrowingAxe_PVP_NamedT3                                                         1 FALSE      Level:19-38          
+    1hThrowingAxe_PVP_NamedT4                                                         1 FALSE      Level:39-58          
+    1hThrowingAxe_PVP_NamedT5                                                         1 FALSE      Level:59             
+    2hWarhammer_PVP_NamedT2                                                           1 FALSE      Level:0-18           
+    2hWarhammer_PVP_NamedT3                                                           1 FALSE      Level:19-38          
+    2hWarhammer_PVP_NamedT4                                                           1 FALSE      Level:39-58          
+    2hWarhammer_PVP_NamedT5                                                           1 FALSE      Level:59             
+    2hGreatAxe_PVP_NamedT2                                                            1 FALSE      Level:0-18           
+    2hGreatAxe_PVP_NamedT3                                                            1 FALSE      Level:19-38          
+    2hGreatAxe_PVP_NamedT4                                                            1 FALSE      Level:39-58          
+    2hGreatAxe_PVP_NamedT5                                                            1 FALSE      Level:59             
+    2hBow_PVP_NamedT2                                                                 1 FALSE      Level:0-18           
+    2hBow_PVP_NamedT3                                                                 1 FALSE      Level:19-38          
+    2hBow_PVP_NamedT4                                                                 1 FALSE      Level:39-58          
+    2hBow_PVP_NamedT5                                                                 1 FALSE      Level:59             
+    2hMusket_PVP_NamedT2                                                              1 FALSE      Level:0-18           
+    2hMusket_PVP_NamedT3                                                              1 FALSE      Level:19-38          
+    2hMusket_PVP_NamedT4                                                              1 FALSE      Level:39-58          
+    2hMusket_PVP_NamedT5                                                              1 FALSE      Level:59             
+    1hRoundShield_PVP_NamedT2                                                         1 FALSE      Level:0-18           
+    1hRoundShield_PVP_NamedT3                                                         1 FALSE      Level:19-38          
+    1hRoundShield_PVP_NamedT4                                                         1 FALSE      Level:39-58          
+    1hRoundShield_PVP_NamedT5                                                         1 FALSE      Level:59             
+    1hKiteShield_PVP_NamedT3                                                          1 FALSE      Level:19-38          
+    1hKiteShield_PVP_NamedT4                                                          1 FALSE      Level:39-58          
+    1hKiteShield_PVP_NamedT5                                                          1 FALSE      Level:59             
+    1hTowerShield_PVP_NamedT4                                                         1 FALSE      Level:39-58          
+    1hTowerShield_PVP_NamedT5                                                         1 FALSE      Level:59             
+    2hStaffFire_PVP_NamedT2                                                           1 FALSE      Level:0-18           
+    2hStaffFire_PVP_NamedT3                                                           1 FALSE      Level:19-38          
+    2hStaffFire_PVP_NamedT4                                                           1 FALSE      Level:39-58          
+    2hStaffFire_PVP_NamedT5                                                           1 FALSE      Level:59             
+    2hStaffLife_PVP_NamedT2                                                           1 FALSE      Level:0-18           
+    2hStaffLife_PVP_NamedT3                                                           1 FALSE      Level:19-38          
+    2hStaffLife_PVP_NamedT4                                                           1 FALSE      Level:39-58          
+    2hStaffLife_PVP_NamedT5                                                           1 FALSE      Level:59             
+    2hSpear_PVP_NamedT2                                                               1 FALSE      Level:0-18           
+    2hSpear_PVP_NamedT3                                                               1 FALSE      Level:19-38          
+    2hSpear_PVP_NamedT4                                                               1 FALSE      Level:39-58          
+    2hSpear_PVP_NamedT5                                                               1 FALSE      Level:59             
+    1hRapier_PVP_NamedT2                                                              1 FALSE      Level:0-18           
+    1hRapier_PVP_NamedT3                                                              1 FALSE      Level:19-38          
+    1hRapier_PVP_NamedT4                                                              1 FALSE      Level:39-58          
+    1hRapier_PVP_NamedT5                                                              1 FALSE      Level:59             
+    1hGauntletIce_PVP_NamedT2                                                         1 FALSE      Level:0-18           
+    1hGauntletIce_PVP_NamedT3                                                         1 FALSE      Level:19-38          
+    1hGauntletIce_PVP_NamedT4                                                         1 FALSE      Level:39-58          
+    1hGauntletIce_PVP_NamedT5                                                         1 FALSE      Level:59             
+    1hGauntletVoid_PVP_NamedT2                                                        1 FALSE      Level:0-18           
+    1hGauntletVoid_PVP_NamedT3                                                        1 FALSE      Level:19-38          
+    1hGauntletVoid_PVP_NamedT4                                                        1 FALSE      Level:39-58          
+    1hGauntletVoid_PVP_NamedT5                                                        1 FALSE      Level:59             
+    2hBlunderbuss_PVP_NamedT4                                                         1 FALSE      Level:39-58          
+    2hBlunderbuss_PVP_NamedT5                                                         1 FALSE      Level:59             
+    2hGreatSword_PVP_NamedT4                                                          1 FALSE      Level:39-58          
+    2hGreatSword_PVP_NamedT5                                                          1 FALSE      Level:59             

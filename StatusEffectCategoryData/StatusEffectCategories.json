@@ -107,7 +107,7 @@
         "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": "HealMod:-0.5,NonConsumableHealMod:-0.5"
+        "ValueLimits": "HealMod:-0.5,NonConsumableHealMod:-0.5,ConsumableHealMod:-0.5,DmgPctToHealthHealMod:-0.5"
     },
     {
         "StatusEffectCategoryID": "Haste",
@@ -187,7 +187,7 @@
         "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": "HealMod:-1.0,NonConsumableHealMod:-1.0"
+        "ValueLimits": "HealMod:-1.0,NonConsumableHealMod:-1.0,ConsumableHealMod:-1.0,DmgPctToHealthHealMod:-1.0"
     },
     {
         "StatusEffectCategoryID": "MutatorCurse",
@@ -207,7 +207,7 @@
         "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": "HealMod:1.0,NonConsumableHealMod:1.0"
+        "ValueLimits": "HealMod:1.0,NonConsumableHealMod:1.0,ConsumableHealMod:1.0,DmgPctToHealthHealMod:1.0"
     },
     {
         "StatusEffectCategoryID": "UnclampedSlow",
@@ -267,7 +267,7 @@
         "PotencyDiminishingMod": null,
         "PotencyModMin": null,
         "PotencyModMax": null,
-        "ValueLimits": "HealMod:-1.0,NonConsumableHealMod:-1.0"
+        "ValueLimits": "HealMod:-1.0,NonConsumableHealMod:-1.0,ConsumableHealMod:-1.0,DmgPctToHealthHealMod:-1.0"
     },
     {
         "StatusEffectCategoryID": "UnclampedHaste",

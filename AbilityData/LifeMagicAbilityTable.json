@@ -574,7 +574,7 @@
     {
         "AbilityID": "Ability_Lifestaff_ScaredGround",
         "DisplayName": "Sacred Ground",
-        "Description": "Create an area on the ground with a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3m\u0026lt;/font\u0026gt; radius that lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;12s\u0026lt;/font\u0026gt;. Allies in the area are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;healed\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ability_Lifestaff_SacredGround.HealthModifierDamageBased * 100]}%\u0026lt;/font\u0026gt; weapon damage every second.\\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.LifeStaff_HealingWave.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
+        "Description": "Create an area on the ground with a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3m\u0026lt;/font\u0026gt; radius that lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;12s\u0026lt;/font\u0026gt;. Allies in the area are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;healed\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ability_Lifestaff_SacredGround.HealthModifierDamageBased * 100]}%\u0026lt;/font\u0026gt; weapon damage every second.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;\\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.LifeStaff_HealingWave.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
         "UICategory": "Heal",
         "UISpellForManaCheck": "LifeStaff_HealingWave",
         "Icon": "lyshineui/images/icons/abilities/lifeStaff_Ability02.png",
@@ -860,7 +860,7 @@
     {
         "AbilityID": "Upgrade_Lifestaff_ScaredGround_DmgOnEnd",
         "DisplayName": "Anointed",
-        "Description": "While allies are in Sacred Ground, they are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;healed\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ability_Lifestaff_SacredGround_Upgrade2.HealMod * 100]}%\u0026lt;/font\u0026gt; more from all incoming healing.",
+        "Description": "While allies are in Sacred Ground, they gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ability_Lifestaff_SacredGround_Upgrade2.NonConsumableHealMod * 100]}%\u0026lt;/font\u0026gt; increased \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;healing\u0026lt;/font\u0026gt; from non-consumables and lifesteal healing sources.",
         "UICategory": "Heal",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/lifeStaff_Ability02_Mod02.png",
@@ -2290,7 +2290,7 @@
     {
         "AbilityID": "Passive_Lifestaff_Healing_GroupHealing",
         "DisplayName": "Sacred Protection",
-        "Description": "While holding a Life Staff, increase the amount of incoming \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;healing\u0026lt;/font\u0026gt; to all friendlies in your group by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.LifeStaff_IncreasedHealing_Passive.HealMod * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "While holding a Life Staff, increase the amount of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;healing\u0026lt;/font\u0026gt; from non-consumables and lifesteal healing sources to all friendlies in your group by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.LifeStaff_IncreasedHealing_Passive.NonConsumableHealMod * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/lifeStaff_Passive07.png",
@@ -3863,7 +3863,7 @@
     {
         "AbilityID": "Ability_Lifestaff_Beacon",
         "DisplayName": "Beacon",
-        "Description": "Shoot out a light projectile that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.LifeStaff_Beacon.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to enemies, attaches to its target and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;heals\u0026lt;/font\u0026gt; all allies in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_LifeMagic.Spell_Ability_Lifestaff_Beacon_AOE.Radius]}m\u0026lt;/font\u0026gt; radius for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ability_Lifestaff_Beacon.HealthModifierDamageBased * 100]}%\u0026lt;/font\u0026gt; weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;10s\u0026lt;/font\u0026gt;. \\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.LifeStaff_Beacon.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
+        "Description": "Shoot out a light projectile that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.LifeStaff_Beacon.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to enemies, attaches to its target and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;heals\u0026lt;/font\u0026gt; all allies in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_LifeMagic.Spell_Ability_Lifestaff_Beacon_AOE.Radius]}m\u0026lt;/font\u0026gt; radius for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ability_Lifestaff_Beacon.HealthModifierDamageBased * 100]}%\u0026lt;/font\u0026gt; weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;10s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;\\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.LifeStaff_Beacon.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
         "UICategory": "Heal",
         "UISpellForManaCheck": "Spell_Ability_Lifestaff_Beacon_Projectile",
         "Icon": "lyshineui/images/icons/abilities/lifeStaff_Ability06.png",
@@ -4578,7 +4578,7 @@
     {
         "AbilityID": "Passive_Lifestaff_Protection_ManaOnBlock",
         "DisplayName": "Defensive Light",
-        "Description": "When you block a melee attack, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[LifeMagicAbilityTable.Passive_Lifestaff_Protection_ManaOnBlock.Mana * 100]}%\u0026lt;/font\u0026gt; max mana.",
+        "Description": "When you block a melee attack, regain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[LifeMagicAbilityTable.Passive_Lifestaff_Protection_ManaOnBlock.Mana * 100]}%\u0026lt;/font\u0026gt; of your mana.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/lifeStaff_Passive10.png",

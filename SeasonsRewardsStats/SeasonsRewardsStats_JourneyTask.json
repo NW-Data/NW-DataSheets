@@ -43,5 +43,14 @@
         "ChapterType": "Chapter",
         "ChapterIndex": 4,
         "IsPermanent": true
+    },
+    {
+        "TrackedStatID": "CompleteTaskAnyChapter",
+        "StatType": "CompleteJourneyTask",
+        "TargetID": "",
+        "RequireGroup": "",
+        "ChapterType": "Chapter",
+        "ChapterIndex": null,
+        "IsPermanent": null
     }
 ]

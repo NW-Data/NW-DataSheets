@@ -1,0 +1,432 @@
+[
+    {
+        "ConversationTopicId": "Topic_95_s04_01_Talk_Quam_Varang",
+        "PlayerPrompt": "\"What ring are they looking for?\"",
+        "NPCResponse": "Would that I knew! They killed. Burned our homes. Took our meager possessions. All for a ring. What ring, we said! What ring! \\n\\nTheir leader- he took to the cliffs behind the village. But you must flee! It is not safe here!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_01_Talk_Mordred_Haughty",
+        "PlayerPrompt": "\"Did King Artorius send you?\"",
+        "NPCResponse": "Artorius? The blustering doddard! He hasn't the will nor the strength to endure my path. His absence is the clearest proof of that.\\n\\nBut lo, the mystery continues! Why am I still talking to these plebeians? Out of my way.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_01_Talk_Morgaine_Cabin",
+        "PlayerPrompt": "\"A ring, and a Frosted Crown?\"",
+        "NPCResponse": "Ah, the Frosted Crown. Poor King Idris. Stole the crown from its resting place, and it drove him mad. Sealed his castle in ice. \\n\\nI doubt an army of fire mages could breach his gate now. But what does my son want with it?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_02_Talk_Daichi_Enenra",
+        "PlayerPrompt": "\"I don't see you fighting anything.\"",
+        "NPCResponse": "Exactly! I cannot force the demon to appear. It is taking all of my energy to prevent it from escaping this valley.\\n\\nIf you will light the fire seals, that will trap it. Then I can draw it out and defeat it.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_02_Talk_Daichi_sealed",
+        "PlayerPrompt": "\"I’m ready whenever you are.\"",
+        "NPCResponse": "Hm! \"Quickness is the essence of war.\" I like the manner in which your mind works. \\n\\nFollow me, then. Use my war fan. It will take you to the spirit shrine in my dojo.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_02_Talk_Daichi_fight",
+        "PlayerPrompt": "\"We fight.\"",
+        "NPCResponse": "Ha ha ha! I like you more and more! \\n\\nLet us see if you live up to your confidence, and your fancy reputation.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_02_Talk_Daichi_onboarded",
+        "PlayerPrompt": "\"Just- try to get along, okay?\"",
+        "NPCResponse": "I have no need to get along- it is you I follow, not them. \\n\\nBut, if it puts your mind at peace, I will tolerate their hand waving and incessant, awkward, blathering.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_03_Talk_Zander_CantMeltWall",
+        "PlayerPrompt": "\"Aren't you a vegetarian?\"",
+        "NPCResponse": "And that is how confident I am about this. My friend, I have punched many things. There are things which are punchable, and there are things which are not punchable. \\n\\nAh. I have forgotten my point.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_05_Talk_Zander_RuneForge",
+        "PlayerPrompt": "\"On the bright side, I have the Rune.\"",
+        "NPCResponse": "I wish we could celebrate your success, but there is no time. Earlier we saw Mordred and his men escape from where you came out. \\n\\nIt looked like he carried the Rune. We chased after, but lost them in the forest.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_03_Talk_Daichi_CanMeltWall",
+        "PlayerPrompt": "\"Can you melt it?\"",
+        "NPCResponse": "Can a lady with a big hat jibber frivolous, never-ending orders? Yes, I can get through this wall of yours. \\n\\nI just need to- locate the weakness within the wall. It is something like fishing in a stream at night. To see, without your eyes.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_03_Talk_Daichi_GiveCharm",
+        "PlayerPrompt": "\"I won't leave them like this.\"",
+        "NPCResponse": "So be it. I will give you a special fire charm- an ofuda. I believe you have the ability to use it. \\n\\nYou may be able to release them. But, should you fail- I cannot speak of such horror.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_03_Talk_Morgaine_IceResearch",
+        "PlayerPrompt": "\"Mordred wants to become a god?\"",
+        "NPCResponse": "Yes. A god of winter. To do this, he needs a ternion- the ring, the crown, and the Staff of Samhain.\\n\\nBinding them with the Winter Rune would make him into a monster, and unleash calamity upon the world. An eternal frost.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_04_Talk_Mordred_CantStopMe",
+        "PlayerPrompt": "\"He loved you.\"",
+        "NPCResponse": "He loved himself! How kingly of him to forgive! After ruining my life on a whim, because I piqued his temper. \\n\\nSo yes, it is proof. Proof I was never more than a fly to him. All the more reason to tear down everything he loved!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_06_Talk_Daichi_JournalRunes",
+        "PlayerPrompt": "\"We need two more runes to get in.\"",
+        "NPCResponse": "Yes. I use \"yami\" orbs to store kanji seals- we can use them to capture any runes we find. \\n\\nThe question is, where are they? There are places marked closer to the entrance, that they did not check.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_06_Talk_Daichi_HelpFallsDoor",
+        "PlayerPrompt": "\"Speed is the essence of war.\"",
+        "NPCResponse": "Ha ha ha! Yes. And the more time I spend with you, the more I am convinced. I think perhaps you, at least, are always ready.\\n\\nAh! Damn this cold weather. Making me say embarrassing things, like the purple singer.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_07_Talk_Daichi_DefeatedMordred",
+        "PlayerPrompt": "\"You- joke?\"",
+        "NPCResponse": "Yes. Though, most of the time people do not understand my sense of humor. Dog understands. \\n\\nHe is much more intelligent than most of the others suspect.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_07_Talk_Morgaine_MordredFrozen",
+        "PlayerPrompt": "\"Do you- need time alone?\"",
+        "NPCResponse": "I'm certainly not crying, if that's what you're asking. Not for that selfish chick. But I am his mother, so I suppose I will retrieve him.\\n\\nI just hope. I hope I can show him peace. Do you know, he was a kind boy, once.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_02_Talk_Rima_Candidates",
+        "PlayerPrompt": "\"Samurai can do fire magic?\"",
+        "NPCResponse": "Ex-samurai in this case, but well- on Aeternum, haven't we all been given a fresh start? \\n\\nNow if one's to believe the gossip, he may have the very strongest fire magic around. Something to do with spiritual harmony?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_04_Talk_Rima_ScholarER",
+        "PlayerPrompt": "\"So the key to this is Artorius.\"",
+        "NPCResponse": "Exactly. Mordred's ego was crushed. If we heal that injury, perhaps all of this goes away. Oh- Ebonscale Reach! \\n\\nThere's a scholar I know, he was a senior scribe at Prydwen. He can help us find proof of the King's intentions.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_04_Talk_Rima_ArtoriusVLN",
+        "PlayerPrompt": "\"This may not be enough.\"",
+        "NPCResponse": "You have a good point. Pride and anger, once in motion, is hard to recover from.\\n\\nBut we must try, if there's even a hint of a chance! These feelings from Artorius may yet reach Mordred- I'm sure they will.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_04_Talk_Rima_CantGetThrough",
+        "PlayerPrompt": "\"Speaking of moving in.\"",
+        "NPCResponse": "Yes, well, I can't get through. As Zander might say, \"Door. Thick like my skull. Cannot break.\" \\n\\nI've pushed, pulled, yelled phrases at it, some colorful ones as well, and- Say, did you just hear Dog caterwauling?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_04_Talk_Rima_MordredNotWork",
+        "PlayerPrompt": "\"Let Skye know what’s going on.\"",
+        "NPCResponse": "Good thinking. Skye and I can watch for Mordred, in the event he tries to escape with the staff. \\n\\nAnd oh, I almost forgot, this map- I, um, borrowed it from him as we talked. It may be worth a look.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_06_Talk_Rima_LizardPuzzle",
+        "PlayerPrompt": "\"The statues seem familiar.\"",
+        "NPCResponse": "Yes, you're right! I think I saw the same lizards in the last room. How strange to find such art here. Such detail. \\n\\nLook. The base of the statues- I believe they can rotate. Odd. Who'd bother turning them?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_06_Talk_Rima_DefeatedMordred",
+        "PlayerPrompt": "\"I'll talk to Morgaine.\"",
+        "NPCResponse": "That's an idea. Hopefully the others were able to find her. Now then, let's return to our camp, shall we? \\n\\nOh, I do believe I'm actually looking forward to that place. I may even be able to get along with Mister Grunts.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_01_Talk_Skye_Varangians",
+        "PlayerPrompt": "\"We should see what they're up to.\"",
+        "NPCResponse": "I had hoped you would say that. It may sound strange, but in a way, I'm glad. \\n\\nI haven't forgotten all you've done for me, and- and it will be nice to work together with you again. Well I suppose we should go!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_01_Talk_Skye_Varangians_dnm",
+        "PlayerPrompt": "\"We should see what they're up to.\"",
+        "NPCResponse": "I had hoped you would say that. It may sound strange, but in a way, I'm glad. \\n\\nI've heard many tales of your valor in battle, and now, to meet the legend in person! Ah, I suppose we should go. I will meet you there.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_01_Talk_Skye_Mordred",
+        "PlayerPrompt": "\"I'll take a look at the caves.\"",
+        "NPCResponse": "Then I will guard your return. Tch! The sooner we wipe Aeternum clean of these Varangian scum, the better. \\n\\nI'm sorry. Letting the forge spill onto the rushes, as Aidyn used to say. Stay safe in there.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_01_Talk_Skye_AfterCaves",
+        "PlayerPrompt": "\"I should go to the cabin.\"",
+        "NPCResponse": "Good, you may find clues as to what he seeks. I will return to the Crow's Nest and let Grace know what we learned. \\n\\nPerhaps the others may know more about this ring. Something tells me there is more to it than we realize.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_01_Talk_Skye_NeedFire",
+        "PlayerPrompt": "\"He's human like the rest of us.\"",
+        "NPCResponse": "Is he? Is a man who does evil, still worthy of being called \"human?\" You may believe in second chances. \\n\\nBut I say, the fox will always eat the hen. Question is, how do we put this fox in a cage? We have to beat him to his prize.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_03_Talk_Skye_EscortPrisoners",
+        "PlayerPrompt": "\"They'll need help to escape.\"",
+        "NPCResponse": "And you may rely on us. We'll be sure they make free of this cursed place. \\n\\nStrength to your arm. And deliver a firm \"message\" from us to that vile King Idris- as you knock the Frost Crown from his head.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_04_Talk_Skye_StayOutside",
+        "PlayerPrompt": "\"Any sign of Mordred?",
+        "NPCResponse": "None, though he may have gone before. Be wary, for serpents and madmen strike without warning. \\n\\nRima thinks we should- what was it- appeal to Mordred's heart. Oh, I want to appeal to his heart. With the point of my spear.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_07_Talk_Skye_DefeatedMordred",
+        "PlayerPrompt": "\"I did stop an eternal winter.\"",
+        "NPCResponse": "Ha ha! Yes. You did and for that you have my deepest thanks. And respect. \\n\\nBut now, we should tell Morgaine what's happened to her son. She plays the uncaring mother, but even now she haunts his cabin.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_07_Talk_Skye_FinishQuest",
+        "PlayerPrompt": "\"What? Yes! Of course!\"",
+        "NPCResponse": "Thank you. I- asked Grace also. She said you should have the final decision, as our captain. \\n\\nI will see you back at the Crow's Nest, then! And no, I am not blushing! A warrior does not blush!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_04_Talk_Skye_MordredHasStaff",
+        "PlayerPrompt": "\"There's still the Rune.\"",
+        "NPCResponse": "Yes, the Winter Rune, Morgaine called it. Let's return to the others and see what they've learned.\\n\\nI only hope we still have time to stop him, but I trust you Soulwarden. Let us put an end to this together.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_02_Talk_Zander_HowDaichi",
+        "PlayerPrompt": "\"You think he'll fit in?\"",
+        "NPCResponse": "Listen to me. The best of the best, that is what you are gathering here. \\n\\nThere will always be trouble between the strong. That is why we have you, to settle things. Ah! Rima! What did you put in my boots!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_03_Talk_Zander_HowChessboard",
+        "PlayerPrompt": "\"Any tips?\"",
+        "NPCResponse": "Do not visit Brimstone Sands in the summer! Ha ha ha! But listen, in chess, as in life, take what you want!\\n\\nOh. That gem on the enemy king. I think it can fit into that pedestal by the exit, and maybe unlock the door. Opa!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_07_Talk_Grace_FinishQuest",
+        "PlayerPrompt": "\"Coin isn't everything, Grace.\"",
+        "NPCResponse": "Truer words were never spoken. There’s also pearls. Or mermaid's tears, if that's your fancy. But listen.\\n\\nYou've done a hell of a job, and I mean it. Saving all of us. You've my sincere thanks, and I don't say that often.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_04_Talk_Scholar_ArtoriusMordred",
+        "PlayerPrompt": "\"Anything about a falling out?\"",
+        "NPCResponse": "Well, that is amusing! You might say it was a continual falling out. But there is something- \\n\\nYes, in the King’s journal, now I remember, it was just after Mordred had been banished. It should be in these scrolls.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_04_Talk_MagicDoor_FirstTry",
+        "PlayerPrompt": "\"You let Mordred through.\"",
+        "NPCResponse": "You mean Ser Loves-Himself? No helping it, he threatened to burn a hole through me if I didn't let him through.\\n\\nI jest. He spoke the pass word before you arrived. Now go! Find the phrase, and you will amaze!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_04_Talk_MagicDoor_Unlock",
+        "PlayerPrompt": "\"The phrase is 'nevermore.'\"",
+        "NPCResponse": "Aww, pish! Boring. You have bored me with your password finding skills. Why don't you go become a scribe. \\n\\nI'll unlock the door now. If you miss me, ask Jehan to make me on your own door. Goodbye.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_04_Talk_Dog_CrumblyWall",
+        "PlayerPrompt": "\"You want to get through there?\"",
+        "NPCResponse": "(Dog meows affirmatively. He seems happy that you've understood!)",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_06_Talk_Dog_StayGuard",
+        "PlayerPrompt": "\"Oh- you want to stay here?\"",
+        "NPCResponse": "(Dog meows and puffs out his chest. It seems he plans to stay and guard your way out.)",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "Topic_95_s04_06_Talk_Dog_DefeatedMordred",
+        "PlayerPrompt": "\"Well, we did it together.\"",
+        "NPCResponse": "(Dog talks at you extensively- probably an interesting lecture. If only you spoke Lynx.)",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    }
+]

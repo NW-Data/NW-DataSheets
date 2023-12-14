@@ -3478,7 +3478,7 @@
         "EffectCategories": "Debuff+Slow+Slow\u0026Stun+CC",
         "PlaceholderIcon": "lyshineui/images/status/SE_SlowT5.png",
         "ShowInUITray": true,
-        "ShowTextInDamageNumbers": true,
+        "ShowTextInDamageNumbers": false,
         "FxScriptOn": "StatFX_Slow_ON",
         "FxScriptOff": "",
         "ShouldRefreshFxScript": "",

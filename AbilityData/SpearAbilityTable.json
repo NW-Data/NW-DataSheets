@@ -1796,7 +1796,7 @@
     {
         "AbilityID": "Ability_Spear_ReducedDodgeStamCost",
         "DisplayName": "Evasive Maneuvers",
-        "Description": "Dodging backwards consumes \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;20%\u0026lt;/font\u0026gt; less stamina for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_ReducedDodgeStamCost.BaseDuration]}s\u0026lt;/font\u0026gt; after a successful hit.",
+        "Description": "Dodging consumes \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;20%\u0026lt;/font\u0026gt; less stamina for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_ReducedDodgeStamCost.BaseDuration]}s\u0026lt;/font\u0026gt; after a successful hit.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive04.png",
         "StatusEffectIcon": "",

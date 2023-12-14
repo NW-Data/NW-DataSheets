@@ -40,7 +40,7 @@
         "OnWatchedAchievementId": "Cinematic_LegacyOfAncients",
         "DurationInSec": 106,
         "Description": "",
-        "Subtitle": "The gods summoned us from the Old World. Calling us to paradise, the undying land, they promised life eternal.",
+        "Subtitle": "The gods summoned us from the Old World.",
         "Comment": ""
     },
     {
@@ -195,6 +195,17 @@
         "DurationInSec": 98,
         "Description": "",
         "Subtitle": "Neither duty nor divine purpose called me from the Old World...",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "S4_MordredResolve",
+        "VideoPath": "LyShineUI/Videos/S4_MR_Final.bk2",
+        "Name": "@cinmatic_video_s4_mordredresolve",
+        "ReqAchievementId": "Unlock_95_s04_Cinematic",
+        "OnWatchedAchievementId": "Watched_95_s04_Cinematic",
+        "DurationInSec": 96,
+        "Description": "",
+        "Subtitle": "I can never forget the glory of that day.",
         "Comment": ""
     }
 ]

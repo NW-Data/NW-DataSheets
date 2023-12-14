@@ -2488,7 +2488,7 @@ MythrilOreVeinFinishSmall:
   Item2:
     Name: '[LTID]GemsT4_Precious'
     Qty: '1'
-    Threshold: '95000'
+    Threshold: '90000'
   Item3:
     Name: '[LTID]MiningResourcesOrichalcum'
     Qty: '1'
@@ -2524,7 +2524,7 @@ MythrilOreVeinFinishMedium:
   Item2:
     Name: '[LTID]GemsT4_Precious'
     Qty: '1'
-    Threshold: '92500'
+    Threshold: '87500'
   Item3:
     Name: '[LTID]MiningResourcesOrichalcum'
     Qty: '1'
@@ -2560,7 +2560,7 @@ MythrilOreVeinFinishLarge:
   Item2:
     Name: '[LTID]GemsT4_Precious'
     Qty: 1-2
-    Threshold: '90000'
+    Threshold: '85000'
   Item3:
     Name: '[LTID]MiningResourcesOrichalcum'
     Qty: '1'
@@ -3225,6 +3225,50 @@ GemsT4_Precious:
     Name: AmberT4
     Qty: 1-3
     Threshold: '0'
+  MaxRoll: 100000
+Prospect_PreciousOre_T2:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]GemsT1_Precious'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]GemsT2_Precious'
+    Qty: '1'
+    Threshold: '25000'
+  Item3:
+    Name: '[LTID]GemsT3_Precious'
+    Qty: '1'
+    Threshold: '95000'
+  MaxRoll: 100000
+Prospect_PreciousOre_T3:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]GemsT2_Precious'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]GemsT3_Precious'
+    Qty: '1'
+    Threshold: '25000'
+  Item3:
+    Name: '[LTID]GemsT4_Precious'
+    Qty: '1'
+    Threshold: '80000'
+  MaxRoll: 100000
+Prospect_PreciousOre_T4:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]GemsT3_Precious'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]GemsT4_Precious'
+    Qty: '2'
+    Threshold: '50000'
   MaxRoll: 100000
 HempSmallT1:
   RollBonusSetting: AddToRoll
@@ -8184,7 +8228,7 @@ GatherableBonusItems:
   Item4:
     Name: Gatherable_Research_Bizzare_Hide_T5
     Qty: 0-1
-    Threshold: '68'
+    Threshold: '64'
   MaxRoll: 5
 ElkSkinning:
   RollBonusSetting: AddToRoll
@@ -10345,7 +10389,7 @@ ChestLootElite:
     Threshold: '0'
   Item2:
     Name: '[LBID]RecoveryItems'
-    Qty: 3-4
+    Qty: '4'
     Threshold: '0'
   Item3:
     Name: '[LTID]ChestLootEliteItemRoll'
@@ -10864,34 +10908,30 @@ CreatureLootElite:
   UseLevelGS: 'TRUE'
   HWMMult: 1.5
   Item1:
-    Name: '[LBID]RecoveryItems'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
     Name: '[LTID]CreatureLootFamilyGear'
     Qty: '1'
     Threshold: '45000'
-  Item3:
+  Item2:
     Name: '[LBID]SpecialCreatureResourcesT1'
     Qty: '1'
     Threshold: '67000'
-  Item4:
+  Item3:
     Name: '[LBID]AttributeItems'
     Qty: '1'
     Threshold: '72000'
-  Item5:
+  Item4:
     Name: '[LTID]CreatureLootEliteGear'
     Qty: '1'
     Threshold: '87000'
-  Item6:
+  Item5:
     Name: '[LTID]AzothRoll'
     Qty: '1'
     Threshold: '97500'
-  Item7:
+  Item6:
     Name: '[LBID]CreatureTrophyArtifacts'
     Qty: '1'
     Threshold: '99500'
-  Item8:
+  Item7:
     Name: '[LTID]PVPLootFilter'
     Qty: '1'
     Threshold: '99000'
@@ -10947,30 +10987,26 @@ CreatureLootCommon:
   AND/OR: OR
   Conditions: Common
   Item1:
-    Name: '[LBID]RecoveryItems'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
     Name: '[LTID]CreatureLootCommonGearLeveled'
     Qty: '1'
     Threshold: '45500'
-  Item3:
+  Item2:
     Name: '[LTID]CreatureLootFamilyGear'
     Qty: '1'
     Threshold: '45500'
-  Item4:
+  Item3:
     Name: '[LBID]AttributeItems'
     Qty: '1'
     Threshold: '85000'
-  Item5:
+  Item4:
     Name: '[LBID]SpecialCreatureResourcesT1'
     Qty: '1'
     Threshold: '95000'
-  Item6:
+  Item5:
     Name: '[LTID]AzothRoll'
     Qty: '1'
     Threshold: '97500'
-  Item7:
+  Item6:
     Name: '[LBID]CreatureTrophyArtifacts'
     Qty: '1'
     Threshold: '99500'
@@ -10994,7 +11030,7 @@ ArtifactsMaster:
   Item1:
     Name: '[LBID]ArtifactMaster'
     Qty: '1'
-    Threshold: '90000'
+    Threshold: '80000'
   MaxRoll: 100000
 GypsumYellowTable:
   RollBonusSetting: AddToRoll
@@ -11149,7 +11185,7 @@ CreatureLootNamedLootGearOdds1:
   UseLevelGS: 'TRUE'
   HWMMult: 4
   Item1:
-    Name: '[LTID]NamedCreatureLootEliteGear'
+    Name: '[LTID]NamedCreatureLootEliteGear_Filter'
     Qty: '1'
     Threshold: '0'
   Item2:
@@ -11160,6 +11196,19 @@ CreatureLootNamedLootGearOdds1:
     Name: '[LBID]NamedWeaponsCreatures'
     Qty: '1'
     Threshold: '90000'
+  MaxRoll: 100000
+NamedCreatureLootEliteGear_Filter:
+  RollBonusSetting: ClampMax
+  AND/OR: AND
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LTID]NamedCreatureLootEliteGear'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]CraftingClothing'
+    Qty: '1'
+    Threshold: '95000'
   MaxRoll: 100000
 NamedCreatureLootEliteGear:
   RollBonusSetting: ClampMax
@@ -11173,10 +11222,6 @@ NamedCreatureLootEliteGear:
     Name: '[LBID]EliteWeapons'
     Qty: '1'
     Threshold: '0'
-  Item3:
-    Name: '[LBID]CraftingClothing'
-    Qty: '1'
-    Threshold: '95000'
   MaxRoll: 100000
 CreatureLootNamedLootResourceOdds1:
   RollBonusSetting: ClampMax
@@ -11184,22 +11229,18 @@ CreatureLootNamedLootResourceOdds1:
   Conditions: Named
   UseLevelGS: 'TRUE'
   Item1:
-    Name: '[LBID]RecoveryItems'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
     Name: '[LBID]SpecialCreatureResourcesT1'
     Qty: 2-3
     Threshold: '70000'
-  Item3:
+  Item2:
     Name: '[LBID]Artifacts'
     Qty: '1'
     Threshold: '91000'
-  Item4:
+  Item3:
     Name: '[LTID]AzothRoll'
     Qty: '1'
     Threshold: '96500'
-  Item5:
+  Item4:
     Name: '[LBID]SpecialCreatureResourcesT3'
     Qty: '1'
     Threshold: '99000'
@@ -11270,354 +11311,8 @@ ProcArmorOrWeapon:
   MaxRoll: 100000
 CreatureLootDungeon:
   RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: '[LTID]CreatureLootDungeonAmrine'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]CreatureLootDungeonShatteredObelisk'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]CreatureLootDungeonReekwater00'
-    Qty: '1'
-    Threshold: '0'
-  Item4:
-    Name: '[LTID]CreatureLootDungeonEdengrove00'
-    Qty: '1'
-    Threshold: '0'
-  Item5:
-    Name: '[LTID]CreatureLootDungeonEbonscale00'
-    Qty: '1'
-    Threshold: '0'
-  Item6:
-    Name: '[LTID]CreatureLootDungeonRestlessShores01'
-    Qty: '1'
-    Threshold: '0'
-  Item7:
-    Name: '[LTID]CreatureLootDungeonEbonscale00_Mut'
-    Qty: '1'
-    Threshold: '0'
-  Item8:
-    Name: '[LTID]CreatureLootDungeonShatterMtn00'
-    Qty: '1'
-    Threshold: '0'
-  Item9:
-    Name: '[LTID]CreatureLootDungeonCutlassKeys00'
-    Qty: '1'
-    Threshold: '0'
-  Item10:
-    Name: '[LTID]CreatureLootDungeonBrimstoneSands00'
-    Qty: '1'
-    Threshold: '0'
-  Item11:
-    Name: '[LTID]CreatureLootDungeonShatteredObelisk_Mut'
-    Qty: '1'
-    Threshold: '0'
-  Item12:
-    Name: '[LTID]CreatureLootDungeonRestlessShores01_Mut'
-    Qty: '1'
-    Threshold: '0'
-  Item13:
-    Name: '[LTID]CreatureLootDungeonGreatCleave01'
-    Qty: '1'
-    Threshold: '0'
-  Item14:
-    Name: '[LTID]CreatureLootDungeonFirstLight01'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 0
-CreatureLootDungeonAmrine:
-  RollBonusSetting: AddToRoll
   AND/OR: OR
-  Conditions: Amrine
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonShatteredObelisk:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: ShatteredObelisk
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonShatteredObelisk_Mut:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: ShatteredObelisk_Mut
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonReekwater00:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: Reekwater00
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonEdengrove00:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: Edengrove00
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonEbonscale00:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: Ebonscale00
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonEbonscale00_Mut:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: Ebonscale00_Mut
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonRestlessShores01:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: RestlessShores01
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonRestlessShores01_Mut:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: Restless01_Mut
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonShatterMtn00:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: ShatterMtn00
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonCutlassKeys00:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: CutlassKeys00
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonBrimstoneSands00:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: BrimstoneSands00
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonGreatCleave01:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: GreatCleave01
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]DungeonResources'
-    Qty: '1'
-    Threshold: '84000'
-  Item2:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '94000'
-  Item3:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '94000'
-  Item4:
-    Name: '[LBID]DungeonNamedItems'
-    Qty: '1'
-    Threshold: '97000'
-  MaxRoll: 100000
-CreatureLootDungeonFirstLight01:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: EXPFirstLight01
+  Conditions: Dungeon
   UseLevelGS: 'TRUE'
   Item1:
     Name: '[LBID]DungeonResources'
@@ -11639,78 +11334,41 @@ CreatureLootDungeonFirstLight01:
 CreatureLootDungeonBoss:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  Conditions: GlobalMod
+  Conditions: Dungeon
   UseLevelGS: 'TRUE'
   HWMMult: 1000
   Item1:
-    Name: '[LTID]CreatureLootDungeonBossAmrine'
-    Qty: '2'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]CreatureLootDungeonBossShatteredObelisk'
-    Qty: '2'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]CreatureLootDungeonBossReekwater00'
-    Qty: '2'
-    Threshold: '0'
-  Item4:
-    Name: '[LTID]CreatureLootDungeonBossEdengrove00'
-    Qty: '2'
-    Threshold: '0'
-  Item5:
-    Name: '[LTID]CreatureLootDungeonBossEbonscale00'
-    Qty: '2'
-    Threshold: '0'
-  Item6:
-    Name: '[LTID]CreatureLootDungeonBossRestlessShores01'
-    Qty: '2'
-    Threshold: '0'
-  Item7:
     Name: '[LTID]GypsumBlue'
     Qty: '1'
     Threshold: '0'
-  Item8:
+  Item2:
     Name: '[LBID]DungeonBossGear'
     Qty: '1'
     Threshold: '50000'
-  Item9:
+  Item3:
     Name: '[LBID]BossShards'
     Qty: '1'
     Threshold: '0'
-  Item10:
-    Name: '[LTID]CreatureLootDungeonBossShatterMtn00'
-    Qty: '2'
-    Threshold: '0'
-  Item11:
-    Name: '[LTID]CreatureLootDungeonBossCutlassKeys00'
-    Qty: '2'
-    Threshold: '0'
-  Item12:
+  Item4:
     Name: '[LBID]DungeonMateriaBoss'
     Qty: '1'
     Threshold: '0'
-  Item13:
+  Item5:
     Name: '[LBID]HeartGemRunes'
     Qty: '1'
     Threshold: '10000'
-  Item14:
-    Name: '[LTID]CreatureLootDungeonBossBrimstoneSands00'
+  Item6:
+    Name: '[LTID]CreatureLootDungeonBossEquipment'
     Qty: '2'
     Threshold: '0'
-  Item15:
-    Name: '[LTID]CreatureLootDungeonBossGreatCleave01'
-    Qty: '2'
-    Threshold: '0'
-  Item16:
-    Name: '[LTID]CreatureLootDungeonBossFirstLight01'
-    Qty: '2'
-    Threshold: '0'
+  Item7:
+    Name: '[LBID]DungeonSpecialResources'
+    Qty: '1'
+    Threshold: '80000'
   MaxRoll: 100000
-CreatureLootDungeonBossAmrine:
+CreatureLootDungeonBossEquipment:
   RollBonusSetting: AddToRoll
   AND/OR: OR
-  Conditions: Amrine
   UseLevelGS: 'TRUE'
   HWMMult: 1000
   Item1:
@@ -11721,212 +11379,7 @@ CreatureLootDungeonBossAmrine:
     Name: '[LBID]LootDungeonWeapons'
     Qty: '1'
     Threshold: '0'
-  Item3:
-    Name: '[LBID]DungeonSpecialResources'
-    Qty: '1'
-    Threshold: '80000'
-  MaxRoll: 100000
-CreatureLootDungeonBossShatteredObelisk:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: ShatteredObelisk
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LBID]DungeonSpecialResources'
-    Qty: '1'
-    Threshold: '80000'
-  MaxRoll: 100000
-CreatureLootDungeonBossReekwater00:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: Reekwater00
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LBID]DungeonSpecialResources'
-    Qty: '1'
-    Threshold: '80000'
-  MaxRoll: 100000
-CreatureLootDungeonBossEdengrove00:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Conditions: Edengrove00
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LTID]CreatureLootDungeonBossEdengrove00Speical'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 100000
-CreatureLootDungeonBossEdengrove00Speical:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: Edengrove00
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LBID]DungeonSpecialResources'
-    Qty: '1'
-    Threshold: '80000'
-  MaxRoll: 100000
-CreatureLootDungeonBossEbonscale00:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: Ebonscale00
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LBID]DungeonSpecialResources'
-    Qty: '1'
-    Threshold: '80000'
-  MaxRoll: 100000
-CreatureLootDungeonBossRestlessShores01:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: RestlessShores01
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LBID]DungeonSpecialResources'
-    Qty: '1'
-    Threshold: '80000'
-  MaxRoll: 100000
-CreatureLootDungeonBossShatterMtn00:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: ShatterMtn00
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LBID]DungeonSpecialResources'
-    Qty: '1'
-    Threshold: '80000'
-  MaxRoll: 100000
-CreatureLootDungeonBossCutlassKeys00:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: CutlassKeys00
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LBID]DungeonSpecialResources'
-    Qty: '1'
-    Threshold: '80000'
-  MaxRoll: 100000
-CreatureLootDungeonBossBrimstoneSands00:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: BrimstoneSands00
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LBID]DungeonSpecialResources'
-    Qty: '1'
-    Threshold: '80000'
-  MaxRoll: 100000
-CreatureLootDungeonBossGreatCleave01:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: GreatCleave01
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LBID]DungeonSpecialResources'
-    Qty: '1'
-    Threshold: '80000'
-  MaxRoll: 100000
-CreatureLootDungeonBossFirstLight01:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Conditions: EXPFirstLight01
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]LootDungeonArmor'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]LootDungeonWeapons'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LBID]DungeonSpecialResources'
-    Qty: '1'
-    Threshold: '80000'
-  MaxRoll: 100000
+  MaxRoll: 0
 CreatureLootDungeonBossResources:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -12682,6 +12135,134 @@ SportsmanSpoils60:
   Item7:
     Name: OnionT1
     Qty: 1-3
+    Threshold: '0'
+  MaxRoll: 100000
+HastilyWrappedPresent:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: WCToken
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]WCGoldLockBoxT1LevelLimit'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]WCPatterns2022'
+    Qty: '1'
+    Threshold: '99000'
+  MaxRoll: 100000
+BeautifullyWrappedPresent:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: WCToken
+    Qty: '3'
+    Threshold: '0'
+  Item2:
+    Name: WCPToken
+    Qty: '1'
+    Threshold: '95000'
+  Item3:
+    Name: '[LTID]WCGoldLockBoxT1LevelLimit'
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]WCPatterns2022'
+    Qty: '1'
+    Threshold: '98000'
+  Item5:
+    Name: '[LBID]WCGS600Patterns2022'
+    Qty: '1'
+    Threshold: '99500'
+  MaxRoll: 100000
+ExquisitelyWrappedPresent:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: WCToken
+    Qty: '5'
+    Threshold: '0'
+  Item2:
+    Name: WCPToken
+    Qty: '1'
+    Threshold: '90000'
+  Item3:
+    Name: '[LTID]WCGoldLockBoxT1LevelLimit'
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]WCPatterns2022'
+    Qty: '1'
+    Threshold: '96000'
+  Item5:
+    Name: '[LBID]WCGS600Patterns2022'
+    Qty: '1'
+    Threshold: '99500'
+  MaxRoll: 100000
+WC_QuestPresent1:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: WCToken
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: wcconsumable_spicednog
+    Qty: '5'
+    Threshold: '0'
+  MaxRoll: 100000
+WC_QuestPresent2:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: WCToken
+    Qty: '5'
+    Threshold: '0'
+  Item2:
+    Name: WCConsumable_Mealiewrap
+    Qty: '3'
+    Threshold: '0'
+  Item3:
+    Name: WCConsumable_ConvergenceCake
+    Qty: '3'
+    Threshold: '0'
+  Item4:
+    Name: WCConsumable_ButtercreamPudding
+    Qty: '3'
+    Threshold: '0'
+  Item5:
+    Name: WCConsumable_GingersnapCookie
+    Qty: '3'
+    Threshold: '0'
+  MaxRoll: 100000
+WC_QuestPresent3:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: WCToken
+    Qty: '15'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]WCPatterns2022'
+    Qty: '5'
+    Threshold: '0'
+  MaxRoll: 100000
+WC_QuestPresent4:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: WCPToken
+    Qty: '1'
+    Threshold: '1'
+  Item2:
+    Name: '[LBID]WCGS600Patterns2022'
+    Qty: '2'
+    Threshold: '0'
+  Item3:
+    Name: wcconsumable_spicednog
+    Qty: '5'
     Threshold: '0'
   MaxRoll: 100000
 WCGoldLockBoxT1LevelLimit:
@@ -13656,6 +13237,10 @@ PostCapJewelcraftingT1:
     Name: AzureVialT1
     Qty: 0-1
     Threshold: '0'
+  Item5:
+    Name: '[LBID]PostCapShards'
+    Qty: '1'
+    Threshold: '75000'
   MaxRoll: 100000
 PostCapJewelcraftingT2:
   RollBonusSetting: AddToRoll
@@ -13676,6 +13261,10 @@ PostCapJewelcraftingT2:
     Name: AzureVialT1
     Qty: 1-2
     Threshold: '0'
+  Item5:
+    Name: '[LBID]PostCapShards'
+    Qty: '1'
+    Threshold: '50000'
   MaxRoll: 100000
 PostCapJewelcraftingT3:
   RollBonusSetting: AddToRoll
@@ -13704,6 +13293,10 @@ PostCapJewelcraftingT3:
     Name: '[LBID]PostCapPatternClothing'
     Qty: '1'
     Threshold: '95000'
+  Item7:
+    Name: '[LBID]PostCapShards'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 PostCapLeatherworkingT1:
   RollBonusSetting: AddToRoll
@@ -15004,6 +14597,10 @@ PostCapJewelcraftingT1_B:
     Name: AzureVialT1
     Qty: 0-1
     Threshold: '0'
+  Item5:
+    Name: '[LBID]PostCapShards'
+    Qty: '1'
+    Threshold: '75000'
   MaxRoll: 100000
 PostCapJewelcraftingT2_B:
   RollBonusSetting: AddToRoll
@@ -15024,6 +14621,10 @@ PostCapJewelcraftingT2_B:
     Name: AzureVialT1
     Qty: 1-2
     Threshold: '0'
+  Item5:
+    Name: '[LBID]PostCapShards'
+    Qty: '1'
+    Threshold: '50000'
   MaxRoll: 100000
 PostCapJewelcraftingT3_B:
   RollBonusSetting: AddToRoll
@@ -15056,6 +14657,10 @@ PostCapJewelcraftingT3_B:
     Name: '[LBID]PostCapRecipes'
     Qty: '1'
     Threshold: '75000'
+  Item8:
+    Name: '[LBID]PostCapShards'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 PostCapLeatherworkingT1_B:
   RollBonusSetting: AddToRoll
@@ -15758,7 +15363,7 @@ OutpostRushRewardT1:
     Threshold: '0'
   Item2:
     Name: DarkMatter
-    Qty: '4'
+    Qty: '7'
     Threshold: '0'
   Item3:
     Name: GypsumRed
@@ -15774,7 +15379,7 @@ OutpostRushRewardLossT1:
     Threshold: '0'
   Item2:
     Name: DarkMatter
-    Qty: '4'
+    Qty: '7'
     Threshold: '0'
   Item3:
     Name: GypsumRed
@@ -15790,7 +15395,7 @@ OutpostRushRewardT2:
     Threshold: '0'
   Item2:
     Name: DarkMatter
-    Qty: '8'
+    Qty: '10'
     Threshold: '0'
   Item3:
     Name: GypsumRed
@@ -15806,7 +15411,7 @@ OutpostRushRewardT3:
     Threshold: '0'
   Item2:
     Name: DarkMatter
-    Qty: '12'
+    Qty: '15'
     Threshold: '0'
   Item3:
     Name: GypsumRed
@@ -15822,7 +15427,7 @@ OutpostRushRewardT4:
     Threshold: '0'
   Item2:
     Name: DarkMatter
-    Qty: '16'
+    Qty: '20'
     Threshold: '0'
   Item3:
     Name: GypsumRed
@@ -15864,6 +15469,10 @@ OutpostRushRewardChestL61:
     Name: '[LBID]ORJewelry'
     Qty: '1'
     Threshold: '85000'
+  Item4:
+    Name: '[LBID]ArtifactMasterOPR'
+    Qty: '1'
+    Threshold: '90000'
   MaxRoll: 100000
 OutpostRushRewardChestL62:
   RollBonusSetting: AddToRoll
@@ -15882,6 +15491,10 @@ OutpostRushRewardChestL62:
     Name: '[LBID]ORJewelry'
     Qty: '1'
     Threshold: '85000'
+  Item4:
+    Name: '[LBID]ArtifactMasterOPR'
+    Qty: '1'
+    Threshold: '90000'
   MaxRoll: 100000
 OutpostRushRewardChestL63:
   RollBonusSetting: AddToRoll
@@ -15900,6 +15513,10 @@ OutpostRushRewardChestL63:
     Name: '[LBID]ORJewelry'
     Qty: '1'
     Threshold: '85000'
+  Item4:
+    Name: '[LBID]ArtifactMasterOPR'
+    Qty: '1'
+    Threshold: '90000'
   MaxRoll: 100000
 OutpostRushRewardChestL64:
   RollBonusSetting: AddToRoll
@@ -15918,6 +15535,10 @@ OutpostRushRewardChestL64:
     Name: '[LBID]ORJewelry'
     Qty: '1'
     Threshold: '85000'
+  Item4:
+    Name: '[LBID]ArtifactMasterOPR'
+    Qty: '1'
+    Threshold: '90000'
   MaxRoll: 100000
 OutpostRushRewardChestL65:
   RollBonusSetting: AddToRoll
@@ -15936,6 +15557,10 @@ OutpostRushRewardChestL65:
     Name: '[LBID]ORJewelry'
     Qty: '1'
     Threshold: '85000'
+  Item4:
+    Name: '[LBID]ArtifactMasterOPR'
+    Qty: '1'
+    Threshold: '90000'
   MaxRoll: 100000
 OutpostRushGearRoll:
   RollBonusSetting: AddToRoll
@@ -16403,7 +16028,7 @@ DarknessMajorT5:
   Item3:
     Name: '[LBID]ArtifactMasterDarkness'
     Qty: '1'
-    Threshold: '97000'
+    Threshold: '90000'
   MaxRoll: 100000
 DarknessMajorRollT3:
   RollBonusSetting: AddToRoll
@@ -16453,6 +16078,10 @@ InvasionT4:
     Name: '[LTID]Invasion3'
     Qty: '3'
     Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '50'
+    Threshold: '0'
   MaxRoll: 100000
 InvasionT5:
   RollBonusSetting: AddToRoll
@@ -16461,6 +16090,10 @@ InvasionT5:
   Item1:
     Name: '[LTID]Invasion4'
     Qty: '3'
+    Threshold: '0'
+  Item2:
+    Name: DarkMatter
+    Qty: '75'
     Threshold: '0'
   MaxRoll: 100000
 WarT2:
@@ -16474,6 +16107,10 @@ WarT2:
     Name: '[LBID]WarGearBucket'
     Qty: '1'
     Threshold: '99900'
+  Item3:
+    Name: DarkMatter
+    Qty: '25'
+    Threshold: '0'
   MaxRoll: 100000
 WarT3:
   RollBonusSetting: AddToRoll
@@ -16486,6 +16123,10 @@ WarT3:
     Name: '[LBID]WarGearBucket'
     Qty: '1'
     Threshold: '99900'
+  Item3:
+    Name: DarkMatter
+    Qty: '50'
+    Threshold: '0'
   MaxRoll: 100000
 WarT4:
   RollBonusSetting: AddToRoll
@@ -16498,6 +16139,10 @@ WarT4:
     Name: '[LBID]WarGearBucket'
     Qty: '1'
     Threshold: '99900'
+  Item3:
+    Name: DarkMatter
+    Qty: '75'
+    Threshold: '0'
   MaxRoll: 100000
 WarT5:
   RollBonusSetting: AddToRoll
@@ -16510,6 +16155,10 @@ WarT5:
     Name: '[LBID]WarGearBucket'
     Qty: '1'
     Threshold: '99900'
+  Item3:
+    Name: DarkMatter
+    Qty: '125'
+    Threshold: '0'
   MaxRoll: 100000
 WarRollT2:
   RollBonusSetting: AddToRoll
@@ -19124,46 +18773,66 @@ WarL65:
     Threshold: '90000'
   Item5:
     Name: DarkMatter
-    Qty: '75'
+    Qty: '100'
     Threshold: '1'
   MaxRoll: 100000
 Invasion1Roll:
   RollBonusSetting: AddToRoll
-  AND/OR: AND
+  AND/OR: OR
+  Conditions: Level
+  ConditionOverridesRoll: 'TRUE'
   Item1:
     Name: '[LTID]Invasion1'
-    Qty: '2'
+    Qty: '1'
     Threshold: '0'
+  Item2:
+    Name: '[LTID]Invasion1_MaxLvl'
+    Qty: '1'
+    Threshold: '64'
   MaxRoll: 0
 Invasion2Roll:
   RollBonusSetting: AddToRoll
-  AND/OR: AND
+  AND/OR: OR
+  Conditions: Level
+  ConditionOverridesRoll: 'TRUE'
   Item1:
     Name: '[LTID]Invasion2'
-    Qty: '2'
+    Qty: '1'
     Threshold: '0'
+  Item2:
+    Name: '[LTID]Invasion2_MaxLvl'
+    Qty: '1'
+    Threshold: '64'
   MaxRoll: 0
 Invasion3Roll:
   RollBonusSetting: AddToRoll
-  AND/OR: AND
+  AND/OR: OR
+  Conditions: Level
+  ConditionOverridesRoll: 'TRUE'
   Item1:
     Name: '[LTID]Invasion3'
-    Qty: '3'
+    Qty: '1'
     Threshold: '0'
+  Item2:
+    Name: '[LTID]Invasion3_MaxLvl'
+    Qty: '1'
+    Threshold: '64'
   MaxRoll: 0
 Invasion4Roll:
   RollBonusSetting: AddToRoll
-  AND/OR: AND
+  AND/OR: OR
+  Conditions: Level
+  ConditionOverridesRoll: 'TRUE'
   HWMMult: 100
   Item1:
     Name: '[LTID]Invasion4'
-    Qty: '3'
-    Threshold: '0'
-  Item2:
-    Name: '[LBID]InvasionNamedGear'
     Qty: '1'
     Threshold: '0'
-  MaxRoll: 100000
+  Item2:
+    Name: '[LTID]Invasion4_MaxLvl'
+    Qty: '1'
+    Threshold: '64'
+  MaxRoll: 0
 Invasion1:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -19231,6 +18900,94 @@ Invasion3:
     Threshold: '25000'
   MaxRoll: 100000
 Invasion4:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  UseLevelGS: 'TRUE'
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]InvasionArmor'
+    Qty: '2'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]InvasionWeapons'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]InvasionJewelry'
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]InvasionNamedGear'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100000
+Invasion1_MaxLvl:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  UseLevelGS: 'TRUE'
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]InvasionArmor'
+    Qty: '2'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]InvasionWeapons'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]InvasionJewelry'
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]InvasionNamedGear'
+    Qty: '1'
+    Threshold: '75000'
+  MaxRoll: 100000
+Invasion2_MaxLvl:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  UseLevelGS: 'TRUE'
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]InvasionArmor'
+    Qty: '2'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]InvasionWeapons'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]InvasionJewelry'
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]InvasionNamedGear'
+    Qty: '1'
+    Threshold: '50000'
+  MaxRoll: 100000
+Invasion3_MaxLvl:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  UseLevelGS: 'TRUE'
+  HWMMult: 1000
+  Item1:
+    Name: '[LBID]InvasionArmor'
+    Qty: '2'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]InvasionWeapons'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]InvasionJewelry'
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]InvasionNamedGear'
+    Qty: '1'
+    Threshold: '25000'
+  MaxRoll: 100000
+Invasion4_MaxLvl:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
@@ -20960,6 +20717,108 @@ OilCartElemental:
     Qty: 2-5
     Threshold: '0'
   MaxRoll: 100
+WinterConv_Settlement_Tree_T1:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]WinterConv_Settlement_Tree_T1_Limit'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]GypsumWhiteTable'
+    Qty: '2'
+    Threshold: '0'
+  Item3:
+    Name: '[LTID]WinterConv_Food'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+WinterConv_Settlement_Tree_T1_Limit:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Conditions: '[LIM]WinterTree_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: WCContainer_HastilyWrappedPresent
+    Qty: '4'
+    Threshold: '0'
+  MaxRoll: 1
+WinterConv_Settlement_Tree_T2:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]WinterConv_Settlement_Tree_T2_Limit'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]GypsumWhiteTable'
+    Qty: '2'
+    Threshold: '0'
+  Item3:
+    Name: '[LTID]WinterConv_Food'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+WinterConv_Settlement_Tree_T2_Limit:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Conditions: '[LIM]WinterTree_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: WCContainer_BeautifullyWrappedPresent
+    Qty: '4'
+    Threshold: '0'
+  MaxRoll: 1
+WinterConv_Settlement_Tree_T3:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]WinterConv_Settlement_Tree_T3_Limit'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]GypsumWhiteTable'
+    Qty: '2'
+    Threshold: '0'
+  Item3:
+    Name: '[LTID]WinterConv_Food'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+WinterConv_Settlement_Tree_T3_Limit:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Conditions: '[LIM]WinterTree_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: WCContainer_ExquisitelyWrappedPresent
+    Qty: '4'
+    Threshold: '0'
+  MaxRoll: 1
+WinterConv_Food:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: WCConsumable_SpicedNog
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: WCConsumable_Mealiewrap
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: WCConsumable_ConvergenceCake
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: WCConsumable_ButtercreamPudding
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: WCConsumable_GingersnapCookie
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
 GypsumWhiteTable:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -20970,6 +20829,99 @@ GypsumWhiteTable:
     Qty: '1'
     Threshold: '59'
   MaxRoll: 0
+WinterConv_Village_GiftBag:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]WinterConv_Village_GiftBag_Limit'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]WinterConv_Food'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+WinterConv_Village_GiftBag_Limit:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  Conditions: '[LIM]WinterVillage_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: WCContainer_BeautifullyWrappedPresent
+    Qty: '3'
+    Threshold: '0'
+  MaxRoll: 1
+WinterConv_LostPresent_Standard:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: WCStolenPresent
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+WinterConv_LostPresent_Rare:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: WCStolenPresent
+    Qty: '20'
+    Threshold: '0'
+  MaxRoll: 1
+WinterConv_Gleamite_Shard:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: WCGleamite
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 1
+WinterConv_Gleamite_Chunk:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: WCGleamite
+    Qty: '15'
+    Threshold: '0'
+  MaxRoll: 1
+WinterWarrior:
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]WinterWarriorDarkMatterLimit'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]WinterWarriorBase'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100
+WinterWarriorBase:
+  AND/OR: OR
+  Item1:
+    Name: WC_WinterWarrior_Horn
+    Qty: '1'
+    Threshold: '1'
+  Item2:
+    Name: WC_WinterWarrior_Horn
+    Qty: '2'
+    Threshold: '11'
+  Item3:
+    Name: WC_WinterWarrior_Horn
+    Qty: '3'
+    Threshold: '81'
+  Item4:
+    Name: WC_WinterWarrior_Horn
+    Qty: '5'
+    Threshold: '91'
+  MaxRoll: 100
+WinterWarriorDarkMatterLimit:
+  AND/OR: AND
+  Conditions: '[LIM]WinterDarkMatter_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: Darkmatter
+    Qty: '15'
+    Threshold: '0'
+  MaxRoll: 100
 Spring_Prismabloom_Roll:
   RollBonusSetting: ClampMax
   AND/OR: OR
@@ -22729,7 +22681,7 @@ BrimstoneEliteSarcophagi:
     Threshold: '0'
   Item2:
     Name: '[LBID]RecoveryItems'
-    Qty: '2'
+    Qty: '3'
     Threshold: '0'
   Item3:
     Name: '[LTID]ChestLootEliteSarcophagiItemRoll'
@@ -22829,7 +22781,7 @@ BrimstoneSulfurSarcophagi:
     Threshold: '0'
   Item2:
     Name: '[LBID]RecoveryItems'
-    Qty: '2'
+    Qty: '3'
     Threshold: '0'
   Item3:
     Name: '[LTID]ChestLootEliteSarcophagiItemRoll'
@@ -23006,7 +22958,7 @@ BrimstoneGlyphLockChests:
     Threshold: '0'
   Item2:
     Name: '[LBID]RecoveryItems'
-    Qty: '2'
+    Qty: '3'
     Threshold: '0'
   Item3:
     Name: '[LTID]ChestLootEliteSarcophagiItemRoll'
@@ -23181,6 +23133,21 @@ BrimstoneGlyphCommon_LegionHQ:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
+WorldEvent_Crassus_MasterLoot:
+  AND/OR: AND
+  Item1:
+    Name: WorldEvent_Crassus_NormalBox
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: WorldEvent_Crassus_BonusBox
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]ArcanaRecoveryItems_PlayerLevel'
+    Qty: 2-3
+    Threshold: '0'
+  MaxRoll: 0
 WorldEvent_Crassus_NormalLoot:
   AND/OR: OR
   Item1:
@@ -23215,7 +23182,7 @@ WorldEvent_Crassus_ProcArmorOrWeapon:
 WorldEvent_Crassus_BonusLoot:
   AND/OR: AND
   Item1:
-    Name: '[LBID]WorldEvent_Crassus_BossLoot'
+    Name: '[LTID]WorldEvent_Crassus_BossLootLevelFilter'
     Qty: '1'
     Threshold: '0'
   Item2:
@@ -23224,10 +23191,14 @@ WorldEvent_Crassus_BonusLoot:
     Threshold: '0'
   Item3:
     Name: DarkMatter
-    Qty: '500'
+    Qty: '100'
     Threshold: '0'
   Item4:
     Name: '[LTID]WorldEvent_Crassus_PerkCheck'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]WorldEvent_Crassus_SpecialLoot'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -23245,7 +23216,7 @@ WorldEvent_Crassus_BonusOverride:
     Qty: '1'
     Threshold: '0'
   Item2:
-    Name: '[LBID]WorldEvent_Crassus_BossLoot'
+    Name: '[LTID]WorldEvent_Crassus_BossLootLevelFilter'
     Qty: '1'
     Threshold: '0'
   Item3:
@@ -23254,12 +23225,56 @@ WorldEvent_Crassus_BonusOverride:
     Threshold: '0'
   Item4:
     Name: DarkMatter
-    Qty: '500'
+    Qty: '100'
     Threshold: '0'
   Item5:
     Name: '[LTID]WorldEvent_Crassus_PerkCheck'
     Qty: '1'
     Threshold: '0'
+  Item6:
+    Name: 2hPickCrassusT51
+    Qty: '1'
+    Threshold: '0'
+  Item7:
+    Name: House_HousingItem_Season4_Statue_Cyclops_Statue_A
+    Qty: '1'
+    Threshold: '0'
+  Item8:
+    Name: House_HousingItem_Season4_Statue_Cyclops_Statue_B
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100000
+WorldEvent_Crassus_BossLootLevelFilter:
+  AND/OR: OR
+  Conditions: Level
+  ConditionOverridesRoll: 'TRUE'
+  Item1:
+    Name: '[LBID]WorldEvent_Crassus_BossLoot'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]WorldEvent_Crassus_BossLoot_V2'
+    Qty: '1'
+    Threshold: '60'
+  Item5:
+    Name: '[LTID]WorldEvent_Crassus_PerkCheck'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100000
+WorldEvent_Crassus_SpecialLoot:
+  AND/OR: AND
+  Item1:
+    Name: 2hPickCrassusT51
+    Qty: '1'
+    Threshold: '92500'
+  Item2:
+    Name: House_HousingItem_Season4_Statue_Cyclops_Statue_A
+    Qty: '1'
+    Threshold: '95000'
+  Item3:
+    Name: House_HousingItem_Season4_Statue_Cyclops_Statue_B
+    Qty: '1'
+    Threshold: '97500'
   MaxRoll: 100000
 Bundle_UmbralShard_300:
   RollBonusSetting: AddToRoll
@@ -23483,6 +23498,7 @@ PlayerMaster:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: Level
+  ConditionOverridesRoll: 'TRUE'
   Item1:
     Name: '[LTID]PlayerParent'
     Qty: '1'
@@ -23490,7 +23506,7 @@ PlayerMaster:
   Item2:
     Name: '[LTID]PlayerParent'
     Qty: '1'
-    Threshold: '61'
+    Threshold: '60'
   MaxRoll: 0
 PlayerParent:
   RollBonusSetting: AddToRoll
@@ -24353,7 +24369,7 @@ PetrifiedCreatureEncounter_ItemRoll:
   AND/OR: AND
   Item1:
     Name: '[LBID]RecoveryItems'
-    Qty: 3-4
+    Qty: '4'
     Threshold: '0'
   Item2:
     Name: '[LTID]FL_Generic_GearRoll'
@@ -24377,7 +24393,7 @@ PetrifiedBeastEncounter_ItemRoll:
     Threshold: '0'
   Item4:
     Name: '[LBID]RecoveryItems'
-    Qty: 3-4
+    Qty: '4'
     Threshold: '0'
   Item5:
     Name: '[LTID]FL_Generic_GearRoll'
@@ -24400,7 +24416,7 @@ FirstLightRevampElafryChest:
     Threshold: '0'
   Item2:
     Name: '[LBID]RecoveryItems'
-    Qty: 2-3
+    Qty: '4'
     Threshold: '0'
   Item3:
     Name: '[LTID]ChestLootEliteElafryItemRoll'
@@ -24501,7 +24517,7 @@ FirstLightRevampBeastlandsChest:
     Threshold: '0'
   Item2:
     Name: '[LBID]RecoveryItems'
-    Qty: 3-4
+    Qty: '4'
     Threshold: '0'
   Item3:
     Name: '[LTID]ChestLootEliteBeastlandsItemRoll'
@@ -24722,10 +24738,28 @@ InfluenceRace:
   AND/OR: OR
   UseLevelGS: 'TRUE'
   Item1:
+    Name: '[LTID]InfluenceRaceItemGrant'
+    Qty: '2'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]InfluenceRaceItemGrant'
+    Qty: '2'
+    Threshold: '64'
+  MaxRoll: 100000
+InfluenceRaceItemGrant:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  UseLevelGS: 'TRUE'
+  HWMMult: 1000
+  Item1:
     Name: '[LBID]Influence_AllArmor'
     Qty: '1'
     Threshold: '0'
   Item2:
+    Name: '[LTID]InfluenceDarkMatter'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
     Name: '[LBID]InfluenceWeapon'
     Qty: '1'
     Threshold: '60000'
@@ -24767,3 +24801,14 @@ InfluenceRace_LoserResult:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
+InfluenceDarkMatter:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Conditions: Level
+  ConditionOverridesRoll: 'TRUE'
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: DarkMatter
+    Qty: '5'
+    Threshold: '64'
+  MaxRoll: 0

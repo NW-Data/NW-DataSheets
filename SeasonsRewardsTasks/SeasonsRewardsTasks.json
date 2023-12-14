@@ -35,13 +35,6 @@
         "Description": "Kill {maxCount} Level {level} Varangian Knights"
     },
     {
-        "SeasonsTaskID": "Kill100ForgedVaragians",
-        "SeasonsTrackedStatID": "KillForgedVarangian",
-        "TaskMaxValue": 100,
-        "Name": "Vanquishing the Varangians III",
-        "Description": "Kill {maxCount} Forged Varangians"
-    },
-    {
         "SeasonsTaskID": "Complete3FactionMissions",
         "SeasonsTrackedStatID": "CompleteFactionMission",
         "TaskMaxValue": 3,
@@ -165,56 +158,56 @@
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 1,
         "Name": "Conquered the Challenge I",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "Complete2SeasonalChallenge",
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 2,
         "Name": "Conquered the Challenge II",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "Complete3SeasonalChallenge",
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 3,
         "Name": "Conquered the Challenge III",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "Complete4SeasonalChallenge",
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 4,
         "Name": "Conquered the Challenge IV",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "Complete5JourneyTaskChapter1",
         "SeasonsTrackedStatID": "CompleteTasksChapter1",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete5JourneyTaskChapter2",
         "SeasonsTrackedStatID": "CompleteTasksChapter2",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete5JourneyTaskChapter3",
         "SeasonsTrackedStatID": "CompleteTasksChapter3",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete7JourneyTaskChapter4",
         "SeasonsTrackedStatID": "CompleteTasksChapter4",
         "TaskMaxValue": 7,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Win3Arena",
@@ -350,13 +343,6 @@
         "Description": "Complete Mutation 10 Empyrean Forge with a score of {score} or higher"
     },
     {
-        "SeasonsTaskID": "CompleteEveryM10ExpeditionWithGoldRatingOrHigher",
-        "SeasonsTrackedStatID": "CompleteEveryM10ExpeditionWithGoldRatingOrHigher",
-        "TaskMaxValue": 1,
-        "Name": "Give Me Gold Or Give Me Death!",
-        "Description": "Complete every Mutation 10 Expedition with a gold rating or higher"
-    },
-    {
         "SeasonsTaskID": "Craft250T5Items",
         "SeasonsTrackedStatID": "CraftAnyT5Item",
         "TaskMaxValue": 125,
@@ -465,134 +451,127 @@
         "SeasonsTaskID": "Close1MajorBreach",
         "SeasonsTrackedStatID": "GameEvent_MajorBreach",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Close1MinorBreaches",
         "SeasonsTrackedStatID": "GameEvent_MinorBreach",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill1Players",
         "SeasonsTrackedStatID": "KillPlayer",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10Lost",
         "SeasonsTrackedStatID": "KillLost",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10AngryEarth",
         "SeasonsTrackedStatID": "KillAngryEarth",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10Ancients",
         "SeasonsTrackedStatID": "KillAncient",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10Corrupted",
         "SeasonsTrackedStatID": "KillCorrupted",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10Beasts",
         "SeasonsTrackedStatID": "KillBeast",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "ParticipateIn1Duels",
         "SeasonsTrackedStatID": "ParticipateInDuel",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10FlamePoweredVarangians",
         "SeasonsTrackedStatID": "KillFlamePoweredVarangians",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete2TownProjects",
         "SeasonsTrackedStatID": "CompleteTownProject",
         "TaskMaxValue": 2,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete2FactionMissions",
         "SeasonsTrackedStatID": "CompleteFactionMission",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Play1OutpostRush",
         "SeasonsTrackedStatID": "PlayOutpostRush",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete1Expedition",
         "SeasonsTrackedStatID": "CompleteExpedition",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill1NamedVarangianKnight",
         "SeasonsTrackedStatID": "KillNamedVarangianKnight",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Salvage5T5Items",
         "SeasonsTrackedStatID": "SalvageT5Item",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Win1FlawlessVictoryArena3x3",
         "SeasonsTrackedStatID": "WinArena3x3",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill5WispyWasps",
         "SeasonsTrackedStatID": "KillWispyWasps",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
-    },
-    {
-        "SeasonsTaskID": "Win3PvPMatches",
-        "SeasonsTrackedStatID": "WinPvPMatch",
-        "TaskMaxValue": 3,
-        "Name": "Gladiator I",
-        "Description": "Win {maxCount} PvP Arena matches"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete1ActivityCard",
@@ -630,13 +609,6 @@
         "Description": "Complete 3 PvP Reward Tracks"
     },
     {
-        "SeasonsTaskID": "CompleteMutation10EmpryeanForge",
-        "SeasonsTrackedStatID": "CompleteMutationEmpyreanForge",
-        "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_CompleteMutation10EmpryeanForge_name",
-        "Description": "@ui_seasons_task_CompleteMutation10EmpryeanForge_desc"
-    },
-    {
         "SeasonsTaskID": "Gather100000Resources",
         "SeasonsTrackedStatID": "GatherResource",
         "TaskMaxValue": 100000,
@@ -668,57 +640,57 @@
         "SeasonsTaskID": "Gather5T5ResourceNodes",
         "SeasonsTrackedStatID": "GatherT5ResourceNode",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Catch150lbsOfFish",
         "SeasonsTrackedStatID": "CatchPoundageOfFish",
         "TaskMaxValue": 15000,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Refine50T5Resources",
         "SeasonsTrackedStatID": "RefineT5Resource",
         "TaskMaxValue": 50,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "CatchTreasureChest",
         "SeasonsTrackedStatID": "CatchTreasureChest",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Catch5RareFish",
         "SeasonsTrackedStatID": "CatchRareFish",
-        "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "TaskMaxValue": 3,
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "DefeatZygormat",
         "SeasonsTrackedStatID": "KillZygormat",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "DefeatTheSirenQueen",
         "SeasonsTrackedStatID": "KillTheSirenQueen",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "DefeatAvarice",
         "SeasonsTrackedStatID": "KillAvarice",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "DefeatSirOlga",
@@ -731,29 +703,29 @@
         "SeasonsTaskID": "Craft1GypsumOrb",
         "SeasonsTrackedStatID": "CraftGypsumOrb",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "GatherWispybloomFlower",
         "SeasonsTrackedStatID": "GatherWispybloomFlower",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete2PvPFactionMissions",
         "SeasonsTrackedStatID": "CompletePvPFactionMission",
         "TaskMaxValue": 2,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "EarnVictoryInPvPArena",
         "SeasonsTrackedStatID": "WinArena3x3",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "CompleteFellowshipAndFireStory",
@@ -766,8 +738,8 @@
         "SeasonsTaskID": "CompleteSpringtideBoomStory",
         "SeasonsTrackedStatID": "UnlockSpringtideBoomStorylineAchievement",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Craft25GS600UsingFlameCore",
@@ -787,134 +759,134 @@
         "SeasonsTaskID": "Craft5WispySpritzes",
         "SeasonsTrackedStatID": "CraftWispySpritz",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Slay20CorruptedRabbits_RabbitsRevenge",
         "SeasonsTrackedStatID": "KillCorruptedRabbit",
         "TaskMaxValue": 20,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "CraftOrCook50Items",
         "SeasonsTrackedStatID": "CraftOrCookItem",
         "TaskMaxValue": 25,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Skin10T5Animals",
         "SeasonsTrackedStatID": "SkinT5Animal",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Craft10T5Consumables",
         "SeasonsTrackedStatID": "CraftT5Consumable",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Craft5T5WeaponOrApparel",
         "SeasonsTrackedStatID": "CraftT5WeaponOrApparel",
         "TaskMaxValue": 3,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Craft5T5Weapon",
         "SeasonsTrackedStatID": "CraftT5Weapon",
         "TaskMaxValue": 3,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Craft5T5Apparel",
         "SeasonsTrackedStatID": "CraftT5Apparel",
         "TaskMaxValue": 3,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "DealOrHeal50000InArena3v3",
         "SeasonsTrackedStatID": "DamageOrHealInArena3v3",
         "TaskMaxValue": 50000,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10EnemiesOneHanded",
         "SeasonsTrackedStatID": "KillWithOneHanded",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10EnemiesTwoHanded",
         "SeasonsTrackedStatID": "KillWithTwoHanded",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10EnemiesRanged",
         "SeasonsTrackedStatID": "KillWithRanged",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "ParticipateIn3Arena3x3",
         "SeasonsTrackedStatID": "PlayArena3x3",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10EnemiesMagic",
         "SeasonsTrackedStatID": "KillWithMagic",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "GetKillingBlowOnEnemyInOutpostRush",
         "SeasonsTrackedStatID": "KillingBlowInOutpostRush",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Consume25T5Items",
         "SeasonsTrackedStatID": "ConsumeT5Item",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Plant10WispySpritzes",
         "SeasonsTrackedStatID": "PlantWispySpritzes",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Earn5000AmountOfAzothSalt",
         "SeasonsTrackedStatID": "EarnAzoth",
         "TaskMaxValue": 1000,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Spend250AmountOfAzoth",
         "SeasonsTrackedStatID": "SpendAzoth",
         "TaskMaxValue": 250,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete10MutatedExpeditionsFlawlessly",
@@ -927,8 +899,8 @@
         "SeasonsTaskID": "Earn100PvPXPFromPlayers",
         "SeasonsTrackedStatID": "CategoricalProgressionPvPXP",
         "TaskMaxValue": 100,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "UseFlameCoreForgex30",
@@ -941,57 +913,57 @@
         "SeasonsTaskID": "Activity_CraftUsingTimelessShard",
         "SeasonsTrackedStatID": "CraftUsingTimelessShard",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Activity_CraftUsingPoultryThigh",
         "SeasonsTrackedStatID": "CraftUsingPoultryThigh",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Activity_CraftUsingSumptuousRabbit",
         "SeasonsTrackedStatID": "CraftUsingSumptuousRabbit",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Activity_CraftUsingPrimeArmadillo",
         "SeasonsTrackedStatID": "CraftUsingPrimeArmadillo",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Activity_SalvageT5Named",
         "SeasonsTrackedStatID": "SalvageT5Named",
         "TaskMaxValue": 3,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Activity_ConsumeT5Coating",
         "SeasonsTrackedStatID": "ConsumeT5Coating",
         "TaskMaxValue": 2,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Activity_ConsumeT5TradeskillConsumable",
         "SeasonsTrackedStatID": "ConsumeT5TradeskillConsumable",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Activity_ConsumeT5ResistanceConsumable",
         "SeasonsTrackedStatID": "ConsumeT5ResistanceConsumable",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "S2_CollectGlyph_1",
@@ -1173,7 +1145,7 @@
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 2,
         "Name": "Conquered the Challenge I",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "S2_KillDunewalkers",
@@ -1459,288 +1431,288 @@
         "SeasonsTaskID": "Kill3Players",
         "SeasonsTrackedStatID": "KillPlayer",
         "TaskMaxValue": 3,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill100Players",
         "SeasonsTrackedStatID": "KillPlayer",
         "TaskMaxValue": 100,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "ParticipateIn3Duels",
         "SeasonsTrackedStatID": "ParticipateInDuel",
         "TaskMaxValue": 3,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Close2MinorBreaches",
         "SeasonsTrackedStatID": "GameEvent_MinorBreach",
         "TaskMaxValue": 2,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete5FactionMissions",
         "SeasonsTrackedStatID": "CompleteFactionMission",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete5TownProjects",
         "SeasonsTrackedStatID": "CompleteTownProject",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill20Lost",
         "SeasonsTrackedStatID": "KillLost",
         "TaskMaxValue": 20,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill20AngryEarth",
         "SeasonsTrackedStatID": "KillAngryEarth",
         "TaskMaxValue": 20,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill20Ancients",
         "SeasonsTrackedStatID": "KillAncient",
         "TaskMaxValue": 20,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill20Corrupted",
         "SeasonsTrackedStatID": "KillCorrupted",
         "TaskMaxValue": 20,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill25Beasts",
         "SeasonsTrackedStatID": "KillBeast",
         "TaskMaxValue": 25,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill25EnemiesOneHanded",
         "SeasonsTrackedStatID": "KillWithOneHanded",
         "TaskMaxValue": 25,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill25EnemiesTwoHanded",
         "SeasonsTrackedStatID": "KillWithTwoHanded",
         "TaskMaxValue": 25,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill25EnemiesRanged",
         "SeasonsTrackedStatID": "KillWithRanged",
         "TaskMaxValue": 25,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill25EnemiesMagic",
         "SeasonsTrackedStatID": "KillWithMagic",
         "TaskMaxValue": 25,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Craft15T5Consumables",
         "SeasonsTrackedStatID": "CraftT5Consumable",
         "TaskMaxValue": 15,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Refine100T5Resources",
         "SeasonsTrackedStatID": "RefineT5Resource",
         "TaskMaxValue": 100,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Salvage10T5Items",
         "SeasonsTrackedStatID": "SalvageT5Item",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Gather10T5ResourceNodes",
         "SeasonsTrackedStatID": "GatherT5ResourceNode",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "CraftGypsumCast",
         "SeasonsTrackedStatID": "CraftGypsumCast",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "LootEliteChest",
         "SeasonsTrackedStatID": "LootEliteChest",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10EnemiesMyrkgard",
         "SeasonsTrackedStatID": "KillPOIMyrkgard",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10EnemiesImperialPalace",
         "SeasonsTrackedStatID": "KillPOIImperialPalace",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10EnemiesMalevolence",
         "SeasonsTrackedStatID": "KillPOIMalevolence",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10EnemiesEternalPool",
         "SeasonsTrackedStatID": "KillPOIEternalPool",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10EnemiesBedsOfTaBitJet",
         "SeasonsTrackedStatID": "KillPOIBedsOfTaBitJet",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill2Named",
         "SeasonsTrackedStatID": "KillNamed",
         "TaskMaxValue": 2,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill20Elite",
         "SeasonsTrackedStatID": "KillElite",
         "TaskMaxValue": 20,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Gather1MaudlinDust",
         "SeasonsTrackedStatID": "GatherMaudlinDust",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "CompleteSongMaudlinWaltz",
         "SeasonsTrackedStatID": "CompleteSongMaudlinWaltz",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Gather3AeternumSturgeon",
         "SeasonsTrackedStatID": "CatchAeternumSturgeon",
         "TaskMaxValue": 3,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "CompleteSongYAAAHHHH",
         "SeasonsTrackedStatID": "CompleteSongYAAAHHHH",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Complete2Songs",
         "SeasonsTrackedStatID": "CompleteSong",
         "TaskMaxValue": 2,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill5Scorpions",
         "SeasonsTrackedStatID": "KillScorpions",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "DefeatBrimstoneSandsBoss",
         "SeasonsTrackedStatID": "DefeatWurmBoss",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Gather500Resources",
         "SeasonsTrackedStatID": "GatherResource",
         "TaskMaxValue": 500,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill10Dunewalkers",
         "SeasonsTrackedStatID": "KillDunewalker",
         "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "KillNamedDunewalker",
         "SeasonsTrackedStatID": "KillNamedDunewalker",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "LootSulfurChest",
         "SeasonsTrackedStatID": "LootSulfurChest",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Kill1Player",
         "SeasonsTrackedStatID": "KillPlayer",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "Gain100PvPXP",
         "SeasonsTrackedStatID": "CategoricalProgressionPvPXPAnyReason",
         "TaskMaxValue": 100,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "S3_Level65",
@@ -1894,7 +1866,7 @@
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 1,
         "Name": "Conquered the Challenge I",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "S3_ExpeditionM1Crystalclaw",
@@ -2243,21 +2215,546 @@
         "SeasonsTaskID": "CompleteSavageDivide",
         "SeasonsTrackedStatID": "CompleteExpedition_FirstLight",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "CompleteMountRace",
         "SeasonsTrackedStatID": "CompleteQuest_AnyRace",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     },
     {
         "SeasonsTaskID": "GatherSporePlant",
         "SeasonsTrackedStatID": "GatherSporePods",
         "TaskMaxValue": 1,
-        "Name": "@ui_seasons_task_placeholder_name",
-        "Description": "@ui_seasons_task_placeholder_desc"
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch1_Task1",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 3,
+        "Name": "Seasoned Adventurer I",
+        "Description": "Complete {maxCount} Activity Cards"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch1_Task2",
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 6,
+        "Name": "Faction Fanatic I",
+        "Description": "Complete {maxCount} Faction Missions"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch1_Task3",
+        "SeasonsTrackedStatID": "CompleteExpedition",
+        "TaskMaxValue": 3,
+        "Name": "Expedition Exploration",
+        "Description": "Complete {maxCount} Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch1_Task4",
+        "SeasonsTrackedStatID": "GameEvent_Breach",
+        "TaskMaxValue": 5,
+        "Name": "Breach Bustin' I",
+        "Description": "Close {maxCount} Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch1_Task5",
+        "SeasonsTrackedStatID": "CraftPotionT3",
+        "TaskMaxValue": 50,
+        "Name": "Potent Potions",
+        "Description": "Craft {maxCount} T3+ Potions"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch1_Task6",
+        "SeasonsTrackedStatID": "KillElite",
+        "TaskMaxValue": 50,
+        "Name": "Elite Exorciser",
+        "Description": "Kill {maxCount} Elite Enemies"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch1_Task7",
+        "SeasonsTrackedStatID": "KillNamed",
+        "TaskMaxValue": 10,
+        "Name": "Named Nemesis I",
+        "Description": "Kill {maxCount} Named Enemies"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch1_Task8",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 10,
+        "Name": "Project Progenitor I",
+        "Description": "Complete {maxCount} Town Projects"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch1_Task9",
+        "SeasonsTrackedStatID": "ParticipateInDuel",
+        "TaskMaxValue": 5,
+        "Name": "Duelist",
+        "Description": "Participate in {maxCount} Duels"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch1_Task10",
+        "SeasonsTrackedStatID": "CompleteQuest_SearchRing",
+        "TaskMaxValue": 1,
+        "Name": "A Cold Welcome",
+        "Description": "Complete Quest: A Cold Welcome"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch2_Task1",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 10,
+        "Name": "Seasoned Adventurer II",
+        "Description": "Complete {maxCount} Activity Cards"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch2_Task2",
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 15,
+        "Name": "Faction Fanatic II",
+        "Description": "Complete {maxCount} Faction Missions"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch2_Task3",
+        "SeasonsTrackedStatID": "CompleteRepeatableExpeditionQuest",
+        "TaskMaxValue": 10,
+        "Name": "Repeat Offender",
+        "Description": "Complete {maxCount} Repeatable Expedition Quests"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch2_Task4",
+        "SeasonsTrackedStatID": "GameEvent_Breach",
+        "TaskMaxValue": 10,
+        "Name": "Breach Bustin' II",
+        "Description": "Close {maxCount} Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch2_Task5",
+        "SeasonsTrackedStatID": "WinArena3x3",
+        "TaskMaxValue": 4,
+        "Name": "Gladiator I",
+        "Description": "Win {maxCount} PvP Arena matches"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch2_Task6",
+        "SeasonsTrackedStatID": "CraftArcanaWeaponT4",
+        "TaskMaxValue": 15,
+        "Name": "Arcane Artisan",
+        "Description": "Craft {maxCount} T4+ Arcana Weapons"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch2_Task7",
+        "SeasonsTrackedStatID": "KillGreatCleave",
+        "TaskMaxValue": 100,
+        "Name": "Cleave \u0026amp; Clear",
+        "Description": "Kill {maxCount} Enemies in Great Cleave"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch2_Task8",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 20,
+        "Name": "Project Progenitor II",
+        "Description": "Complete {maxCount} Town Projects"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch2_Task9",
+        "SeasonsTrackedStatID": "DiscoverAllPOIGreatCleave",
+        "TaskMaxValue": 32,
+        "Name": "Great Cleave Cartographer",
+        "Description": "Discover every POI in Great Cleave"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch2_Task10",
+        "SeasonsTrackedStatID": "LocateLostEaselGreatCleave",
+        "TaskMaxValue": 2,
+        "Name": "Art Curator",
+        "Description": "Loot both Vista Easels in Great Cleave"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch2_Task11",
+        "SeasonsTrackedStatID": "CompleteQuest_GetDaichi",
+        "TaskMaxValue": 1,
+        "Name": "Daichi Saito",
+        "Description": "Complete Quest: Daichi Saito"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task1",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 20,
+        "Name": "Seasoned Adventurer III",
+        "Description": "Complete {maxCount} Activity Cards"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task2",
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 15,
+        "Name": "Elite Spoils I",
+        "Description": "Loot {maxCount} Elite Chests"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task3",
+        "SeasonsTrackedStatID": "CraftNamedUpgrade",
+        "TaskMaxValue": 2,
+        "Name": "Unique Upgrader",
+        "Description": "Upgrade {maxCount} Named items to GS700"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task4",
+        "SeasonsTrackedStatID": "CompleteExpedition_GlacialTarn",
+        "TaskMaxValue": 1,
+        "Name": "Glacial Gladiator I",
+        "Description": "Complete the Glacial Tarn Expedition"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task5",
+        "SeasonsTrackedStatID": "PlayOutpostRush",
+        "TaskMaxValue": 5,
+        "Name": "Rush Rumble I",
+        "Description": "Participate in {maxCount} Outpost Rush matches"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task6",
+        "SeasonsTrackedStatID": "WinInfluenceRace",
+        "TaskMaxValue": 1,
+        "Name": "Influential I",
+        "Description": "Win an Influence Race"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task7",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 1,
+        "Name": "Conquered the Challenge I",
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task8",
+        "SeasonsTrackedStatID": "CraftCoatingT5",
+        "TaskMaxValue": 30,
+        "Name": "Weapon Enhancement",
+        "Description": "Craft {maxCount} T5+ Weapon Coatings"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task9",
+        "SeasonsTrackedStatID": "KillIceVarangian",
+        "TaskMaxValue": 100,
+        "Name": "Varangian Defroster I",
+        "Description": "Kill {maxCount} Frostbound Varangians"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task10",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 5,
+        "Name": "Control Point Conquest I",
+        "Description": "Capture {maxCount} Faction Control Points"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task11",
+        "SeasonsTrackedStatID": "WinArena3x3",
+        "TaskMaxValue": 10,
+        "Name": "Gladiator II",
+        "Description": "Win {maxCount} PvP Arena matches"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch3_Task12",
+        "SeasonsTrackedStatID": "CompleteQuest_FightMage",
+        "TaskMaxValue": 1,
+        "Name": "The Mage",
+        "Description": "Complete Quest: The Mage"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task1",
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 30,
+        "Name": "Elite Spoils II",
+        "Description": "Loot {maxCount} Elite Chests"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task2",
+        "SeasonsTrackedStatID": "CompleteMutatedExpedition",
+        "TaskMaxValue": 3,
+        "Name": "Mutation Maniac",
+        "Description": "Complete {maxCount} Mutated Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task3",
+        "SeasonsTrackedStatID": "WinOutpostRush",
+        "TaskMaxValue": 5,
+        "Name": "Rush Rumble II",
+        "Description": "Win {maxCount} Outpost Rush matches"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task4",
+        "SeasonsTrackedStatID": "CraftPrismaticScarab",
+        "TaskMaxValue": 1,
+        "Name": "Prismatic Professional",
+        "Description": "Craft an item using a Prismatic Scarab"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task5",
+        "SeasonsTrackedStatID": "KillFrostAncient",
+        "TaskMaxValue": 100,
+        "Name": "Ancient Icebreaker",
+        "Description": "Kill {maxCount} Ancient Elementals"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task6",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 35,
+        "Name": "Project Progenitor III",
+        "Description": "Complete {maxCount} Town Projects"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task7",
+        "SeasonsTrackedStatID": "KillNamed60",
+        "TaskMaxValue": 50,
+        "Name": "Named Nemesis II",
+        "Description": "Kill {maxCount} L60+ Named Enemies"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task8",
+        "SeasonsTrackedStatID": "CraftGS650",
+        "TaskMaxValue": 10,
+        "Name": "Gear, Gizmos, \u0026amp; Gadgets",
+        "Description": "Craft {maxCount} pieces of GS650+ Gear"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task9",
+        "SeasonsTrackedStatID": "CategoricalProgressionFactionTokens",
+        "TaskMaxValue": 100000,
+        "Name": "Faction Financier",
+        "Description": "Earn {maxCount} Faction Tokens"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task10",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 10,
+        "Name": "Control Point Conquest II",
+        "Description": "Capture {maxCount} Faction Control Points"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task11",
+        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
+        "TaskMaxValue": 5,
+        "Name": "Breach Bustin' III",
+        "Description": "Close {maxCount} Major Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task12",
+        "SeasonsTrackedStatID": "WinInfluenceRace",
+        "TaskMaxValue": 3,
+        "Name": "Influential II",
+        "Description": "Win {maxCount} Influence Races"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch4_Task13",
+        "SeasonsTrackedStatID": "CompleteQuest_StopDevice",
+        "TaskMaxValue": 1,
+        "Name": "Eternal Frost",
+        "Description": "Complete Quest: Eternal Frost"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task1",
+        "SeasonsTrackedStatID": "CompleteM3Expedition",
+        "TaskMaxValue": 3,
+        "Name": "Maximum Mutation",
+        "Description": "Complete {maxCount} M3 Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task2",
+        "SeasonsTrackedStatID": "WinOutpostRush",
+        "TaskMaxValue": 10,
+        "Name": "Rush Rumble III",
+        "Description": "Win {maxCount} Outpost Rush matches"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task3",
+        "SeasonsTrackedStatID": "KillPlayer",
+        "TaskMaxValue": 50,
+        "Name": "PK Professional",
+        "Description": "Kill {maxCount} Players"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task4",
+        "SeasonsTrackedStatID": "Kill65",
+        "TaskMaxValue": 500,
+        "Name": "High Level Hunter",
+        "Description": "Kill {maxCount} L65+ Enemies"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task5",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 2,
+        "Name": "Conquered the Challenge II",
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task6",
+        "SeasonsTrackedStatID": "KillNamed65",
+        "TaskMaxValue": 25,
+        "Name": "Named Nemesis III",
+        "Description": "Kill {maxCount} L65+ Named Enemies"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task7",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPXPAnyReason",
+        "TaskMaxValue": 30000,
+        "Name": "Adept Adversary",
+        "Description": "Earn {maxCount} PvP XP"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task8",
+        "SeasonsTrackedStatID": "CraftGS700",
+        "TaskMaxValue": 3,
+        "Name": "Crafter of Greatness",
+        "Description": "Craft {maxCount} GS 700 items"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task9",
+        "SeasonsTrackedStatID": "WinArena3x3",
+        "TaskMaxValue": 20,
+        "Name": "Gladiator III",
+        "Description": "Win {maxCount} PvP Arena matches"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task10",
+        "SeasonsTrackedStatID": "KillIceVarangian",
+        "TaskMaxValue": 500,
+        "Name": "Varangian Defroster II",
+        "Description": "Kill {maxCount} Frostbound Varangians"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task11",
+        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
+        "TaskMaxValue": 20,
+        "Name": "Breach Bustin' IV",
+        "Description": "Close {maxCount} Major Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task12",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPRewardTrack",
+        "TaskMaxValue": 5,
+        "Name": "Reaping the Rewards",
+        "Description": "Complete {maxCount} PvP Reward Tracks"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task13",
+        "SeasonsTrackedStatID": "CompleteExpeditionM3_GlacialTarn",
+        "TaskMaxValue": 1,
+        "Name": "Glacial Gladiator II",
+        "Description": "Complete M3 Glacial Tarn Expedition"
+    },
+    {
+        "SeasonsTaskID": "S4_Ch5_Task14",
+        "SeasonsTrackedStatID": "CompleteQuest_WrapFrost",
+        "TaskMaxValue": 1,
+        "Name": "From Client to Crow",
+        "Description": "Complete Quest: From Client to Crow"
+    },
+    {
+        "SeasonsTaskID": "S4_Challenge1",
+        "SeasonsTrackedStatID": "CategoricalProgressionAnyPostCap",
+        "TaskMaxValue": 25,
+        "Name": "Aptitude Aficionado",
+        "Description": "Gain {maxCount} Tradeskill Aptitude Levels"
+    },
+    {
+        "SeasonsTaskID": "S4_Challenge2",
+        "SeasonsTrackedStatID": "CompleteM3Expedition",
+        "TaskMaxValue": 20,
+        "Name": "Mutation Maximizer",
+        "Description": "Complete {maxCount} M3 Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S4_Challenge3",
+        "SeasonsTrackedStatID": "CompleteQuest_WrapFrost",
+        "TaskMaxValue": 1,
+        "Name": "Frost Fighter",
+        "Description": "Complete the Season 4 Seasonal Storyline"
+    },
+    {
+        "SeasonsTaskID": "S4_Challenge4",
+        "SeasonsTrackedStatID": "GatherT52ResourceNode",
+        "TaskMaxValue": 500,
+        "Name": "Resource Reaper",
+        "Description": "Gather Mythril Ore, Runewood, Spinfiber, or Dark Hide {maxCount} times"
+    },
+    {
+        "SeasonsTaskID": "S4_Challenge5",
+        "SeasonsTrackedStatID": "CraftGS700",
+        "TaskMaxValue": 10,
+        "Name": "God of Gear",
+        "Description": "Craft {maxCount} GS700 Pieces of Gear"
+    },
+    {
+        "SeasonsTaskID": "S4_Challenge6",
+        "SeasonsTrackedStatID": "CompleteTaskAnyChapter",
+        "TaskMaxValue": 60,
+        "Name": "Eternal Frost Completionist",
+        "Description": "Complete {maxCount} of Season 4's Journey Tasks"
+    },
+    {
+        "SeasonsTaskID": "S4_Challenge7",
+        "SeasonsTrackedStatID": "KillNamedElite65",
+        "TaskMaxValue": 100,
+        "Name": "Legend Slayer",
+        "Description": "Kill {maxCount} Named Elite L65+ Enemies"
+    },
+    {
+        "SeasonsTaskID": "S4_Challenge8",
+        "SeasonsTrackedStatID": "CompleteExpedition_GlacialTarn_Flawless",
+        "TaskMaxValue": 10,
+        "Name": "Glacial God",
+        "Description": "Complete Glacial Tarn Flawlessly (No Deaths) {maxCount} times"
+    },
+    {
+        "SeasonsTaskID": "S4_Challenge9",
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 150,
+        "Name": "Boundless Spoils",
+        "Description": "Loot {maxCount} Elite Chests"
+    },
+    {
+        "SeasonsTaskID": "S4_Challenge10",
+        "SeasonsTrackedStatID": "KillPlayer",
+        "TaskMaxValue": 150,
+        "Name": "Ice Cold Killer",
+        "Description": "Kill {maxCount} Players in PvP"
+    },
+    {
+        "SeasonsTaskID": "CompleteGlacialTarn",
+        "SeasonsTrackedStatID": "CompleteExpedition_GlacialTarn",
+        "TaskMaxValue": 1,
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
+    },
+    {
+        "SeasonsTaskID": "Kill10GreatCleave",
+        "SeasonsTrackedStatID": "KillGreatCleave",
+        "TaskMaxValue": 10,
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
+    },
+    {
+        "SeasonsTaskID": "Kill2NamedGreatCleave",
+        "SeasonsTrackedStatID": "KillGreatCleaveNamed",
+        "TaskMaxValue": 2,
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
+    },
+    {
+        "SeasonsTaskID": "Kill10FrostAncient",
+        "SeasonsTrackedStatID": "KillFrostAncient",
+        "TaskMaxValue": 10,
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
+    },
+    {
+        "SeasonsTaskID": "Kill10IceVarangian",
+        "SeasonsTrackedStatID": "KillIceVarangian",
+        "TaskMaxValue": 10,
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     }
 ]

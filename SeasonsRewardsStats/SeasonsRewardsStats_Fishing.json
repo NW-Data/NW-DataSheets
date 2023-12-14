@@ -6,7 +6,8 @@
         "Level": null,
         "MinWeight": "",
         "PerUse": null,
-        "Precision": 2
+        "Precision": 2,
+        "ItemRarity": null
     },
     {
         "TrackedStatID": "CatchRareFish",
@@ -15,7 +16,8 @@
         "Level": 2,
         "MinWeight": "",
         "PerUse": true,
-        "Precision": null
+        "Precision": null,
+        "ItemRarity": 1
     },
     {
         "TrackedStatID": "CatchTreasureChest",
@@ -24,7 +26,8 @@
         "Level": null,
         "MinWeight": "",
         "PerUse": true,
-        "Precision": null
+        "Precision": null,
+        "ItemRarity": null
     },
     {
         "TrackedStatID": "CatchBrimstoneLegendaryFish",
@@ -33,7 +36,8 @@
         "Level": null,
         "MinWeight": "",
         "PerUse": null,
-        "Precision": null
+        "Precision": null,
+        "ItemRarity": null
     },
     {
         "TrackedStatID": "CatchAeternumSturgeon",
@@ -42,6 +46,7 @@
         "Level": null,
         "MinWeight": "",
         "PerUse": true,
-        "Precision": null
+        "Precision": null,
+        "ItemRarity": null
     }
 ]
