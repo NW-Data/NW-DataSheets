@@ -433,7 +433,7 @@
     },
     {
         "TerritoryID": 8028,
-        "NameLocalizationKey": "The Forever Winter",
+        "NameLocalizationKey": "@ui_winterconv_worldboss_winterwarrior",
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/winter_warrior.png",
         "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/winter_warrior.png",
@@ -493,6 +493,22 @@
         "PulseColor": "1 0 0",
         "AudioGroup": "POI_State",
         "AudioState": "",
+        "AudioBank": ""
+    },
+    {
+        "TerritoryID": 8032,
+        "NameLocalizationKey": "Legacy of Crassus",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/cyclops.png",
+        "CompassIcon": "LyShineUI/Images/Map/Icon/POIs/cyclops.png",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_event_legacyofcrassus.png",
+        "GroupSize": 4,
+        "POITag": "EventEncounter",
+        "RequiredItemId": "",
+        "RecommendedLevel": 65,
+        "PulseColor": "110 116 240",
+        "AudioGroup": "POI_State",
+        "AudioState": "worldboss",
         "AudioBank": ""
     },
     {

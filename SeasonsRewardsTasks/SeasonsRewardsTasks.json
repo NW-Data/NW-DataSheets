@@ -158,28 +158,28 @@
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 1,
         "Name": "Conquered the Challenge I",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "Complete2SeasonalChallenge",
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 2,
         "Name": "Conquered the Challenge II",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "Complete3SeasonalChallenge",
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 3,
         "Name": "Conquered the Challenge III",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "Complete4SeasonalChallenge",
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 4,
         "Name": "Conquered the Challenge IV",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "Complete5JourneyTaskChapter1",
@@ -667,7 +667,7 @@
     {
         "SeasonsTaskID": "Catch5RareFish",
         "SeasonsTrackedStatID": "CatchRareFish",
-        "TaskMaxValue": 5,
+        "TaskMaxValue": 3,
         "Name": "PLACEHOLDER",
         "Description": "PLACEHOLDER"
     },
@@ -1145,7 +1145,7 @@
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 2,
         "Name": "Conquered the Challenge I",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "S2_KillDunewalkers",
@@ -1866,7 +1866,7 @@
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 1,
         "Name": "Conquered the Challenge I",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "S3_ExpeditionM1Crystalclaw",
@@ -2426,7 +2426,7 @@
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 1,
         "Name": "Conquered the Challenge I",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "S4_Ch3_Task8",
@@ -2440,7 +2440,7 @@
         "SeasonsTrackedStatID": "KillIceVarangian",
         "TaskMaxValue": 100,
         "Name": "Varangian Defroster I",
-        "Description": "Kill {maxCount} Ice Varangians"
+        "Description": "Kill {maxCount} Frostbound Varangians"
     },
     {
         "SeasonsTaskID": "S4_Ch3_Task10",
@@ -2587,7 +2587,7 @@
         "SeasonsTrackedStatID": "CompleteAnyChallenge",
         "TaskMaxValue": 2,
         "Name": "Conquered the Challenge II",
-        "Description": "Complete {maxCount} Seasonal Challenge"
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
     },
     {
         "SeasonsTaskID": "S4_Ch5_Task6",
@@ -2622,7 +2622,7 @@
         "SeasonsTrackedStatID": "KillIceVarangian",
         "TaskMaxValue": 500,
         "Name": "Varangian Defroster II",
-        "Description": "Kill {maxCount} Ice Varangians"
+        "Description": "Kill {maxCount} Frostbound Varangians"
     },
     {
         "SeasonsTaskID": "S4_Ch5_Task11",
@@ -2706,7 +2706,7 @@
         "SeasonsTrackedStatID": "CompleteExpedition_GlacialTarn_Flawless",
         "TaskMaxValue": 10,
         "Name": "Glacial God",
-        "Description": "Complete Glacial Tarn Flawlessly {maxCount} times"
+        "Description": "Complete Glacial Tarn Flawlessly (No Deaths) {maxCount} times"
     },
     {
         "SeasonsTaskID": "S4_Challenge9",
