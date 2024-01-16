@@ -4400,6 +4400,31 @@ ZoneNamedItems:
     LightLegs_Sporelight                                                              1 False      Level:60-64,EPOI,FirstLight 
     LightFeet_Sporelight                                                              1 False      Level:60-64,EPOI,FirstLight 
     LightHands_Sporelight                                                             1 False      Level:60-64,EPOI,FirstLight 
+LNY_HeavyArmor:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    HeavyChest_LNY2024T5                                                              1 False                           
+    HeavyHead_LNY2024T5                                                               1 False                           
+    HeavyLegs_LNY2024T5                                                               1 False                           
+    HeavyFeet_LNY2024T5                                                               1 False                           
+    HeavyGloves_LNY2024T5                                                             1 False                           
+LNY_Gems:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    AmethystT4                                                                        1 False                           
+    AquamarineT4                                                                      1 False                           
+    DiamondT4                                                                         1 False                           
+    EmeraldT4                                                                         1 False                           
+    JasperT4                                                                          1 False                           
+    MalachiteT4                                                                       1 False                           
+    MoonstoneT4                                                                       1 False                           
+    OnyxT4                                                                            1 False                           
+    OpalT4                                                                            1 False                           
+    RubyT4                                                                            1 False                           
+    SapphireT4                                                                        1 False                           
+    TopazT4                                                                           1 False                           
 CreatureRawGems:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -8457,11 +8482,11 @@ DarknessMajor1Containers60:
     DarknessRewardContainerMajor1L58                                                  1 FALSE      Level:57-57          
     DarknessRewardContainerMajor1L59                                                  1 FALSE      Level:58-58          
     DarknessRewardContainerMajor1L60                                                  1 FALSE      Level:59-59          
-    DarknessRewardContainerMinor2L61                                                  1 FALSE      Level:60-60          
-    DarknessRewardContainerMinor2L62                                                  1 FALSE      Level:61-61          
-    DarknessRewardContainerMinor2L63                                                  1 FALSE      Level:62-62          
-    DarknessRewardContainerMinor2L64                                                  1 FALSE      Level:63-63          
-    DarknessRewardContainerMinor2L65                                                  1 FALSE      Level:64-64          
+    DarknessRewardContainerMajor1L61                                                  1 FALSE      Level:60-60          
+    DarknessRewardContainerMajor1L62                                                  1 FALSE      Level:61-61          
+    DarknessRewardContainerMajor1L63                                                  1 FALSE      Level:62-62          
+    DarknessRewardContainerMajor1L64                                                  1 FALSE      Level:63-63          
+    DarknessRewardContainerMajor1L65                                                  1 FALSE      Level:64-64          
 DarknessMinor2Containers60:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -8526,11 +8551,11 @@ DarknessMinor2Containers60:
     DarknessRewardContainerMinor2L58                                                  1 FALSE      Level:57-57          
     DarknessRewardContainerMinor2L59                                                  1 FALSE      Level:58-58          
     DarknessRewardContainerMinor2L60                                                  1 FALSE      Level:59-59          
-    DarknessRewardContainerMajor1L61                                                  1 FALSE      Level:60-60          
-    DarknessRewardContainerMajor1L62                                                  1 FALSE      Level:61-61          
-    DarknessRewardContainerMajor1L63                                                  1 FALSE      Level:62-62          
-    DarknessRewardContainerMajor1L64                                                  1 FALSE      Level:63-63          
-    DarknessRewardContainerMajor1L65                                                  1 FALSE      Level:64-64          
+    DarknessRewardContainerMinor2L61                                                  1 FALSE      Level:60-60          
+    DarknessRewardContainerMinor2L62                                                  1 FALSE      Level:61-61          
+    DarknessRewardContainerMinor2L63                                                  1 FALSE      Level:62-62          
+    DarknessRewardContainerMinor2L64                                                  1 FALSE      Level:63-63          
+    DarknessRewardContainerMinor2L65                                                  1 FALSE      Level:64-64          
 DarknessMajor2Containers60:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -14578,42 +14603,42 @@ BossShards:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    Shard_Heavy_Head                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Heavy_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Heavy_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Heavy_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Heavy_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Medium_Head                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Medium_Chest                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Medium_Hands                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Medium_Legs                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Medium_Feet                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Light_Head                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Light_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Light_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Light_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Light_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Sword                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_GreatAxe                                                                    1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_WarHammer                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Rapier                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Hatchet                                                                     1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Bow                                                                         1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Musket                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Blunderbuss                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_LifeStaff                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_FireStaff                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_IceGauntlet                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_VoidGauntlet                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Shield_Round                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Shield_Kite                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Shield_Tower                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Spear                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Ring                                                                        1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Amulet                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Earring                                                                     1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_GreatSword                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
-    Shard_Flail                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Heavy_Head                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Heavy_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Heavy_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Heavy_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Heavy_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Medium_Head                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Medium_Chest                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Medium_Hands                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Medium_Legs                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Medium_Feet                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Light_Head                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Light_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Light_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Light_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Light_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Sword                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_GreatAxe                                                                    1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_WarHammer                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Rapier                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Hatchet                                                                     1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Bow                                                                         1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Musket                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Blunderbuss                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_LifeStaff                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_FireStaff                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_IceGauntlet                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_VoidGauntlet                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Shield_Round                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Shield_Kite                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Shield_Tower                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Spear                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Ring                                                                        1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Amulet                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Earring                                                                     1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_GreatSword                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Flail                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
 WCPatterns:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -23025,6 +23050,20 @@ ExpeditionBoxMateria:
     DungeonDiamonds_FLXPac_Brimstone                                               3500 False      BrimstoneSands00     
     DungeonDiamonds_FLXPac_Empyrean                                                3500 False      GreatCleave01        
     DungeonDiamonds_FLXpac_Crystalclaw                                             3500 False      EXPFirstLight01      
+PugFinderRandomReward_V1Materia:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    DungeonDiamonds_Amrine                                                          100 False      Amrine,Level:0-59    
+    DungeonDiamonds_Starstone                                                       100 False      ShatteredObelisk,Level:0-59 
+    DungeonDiamonds_Depths                                                          100 False      RestlessShores01,Level:0-59 
+    DungeonDiamonds_Dynasty                                                         100 False      Ebonscale00,Level:0-59 
+    DungeonDiamonds_Lazarus                                                         100 False      Reekwater00,Level:0-59 
+    DungeonDiamonds_Genesis                                                         100 False      Edengrove00,Level:0-59 
+    DungeonDiamonds_Barnacles                                                       100 False      CutlassKeys00,Level:0-59 
+    DungeonDiamonds_Isabella                                                        100 False      ShatterMtn00,Level:0-59 
+    DungeonDiamonds_Brimstone                                                       100 False      BrimstoneSands00,Level:0-59 
+    DungeonDiamonds_Empyrean                                                        100 False      GreatCleave01,Level:0-59 
 WorldEvent_Crassus_BossLoot_V2:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags

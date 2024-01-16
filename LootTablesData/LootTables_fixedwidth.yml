@@ -14440,3 +14440,90 @@ InfluenceDarkMatter:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1              64          5 DarkMatter                                                  
+PUG_Expedition_DailyReward_BelowMaxLevel_LT:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          3 AzureVialT1                                                 
+PUG_Expedition_Random_BelowMaxLvl_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_Expedition_DailyRandomRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 PUG_Expedition_DailyReward_BelowMaxLvl_LootCache            
+PUG_Expedition_Random_AtMaxLvl_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_Expedition_DailyRandomRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 PUG_Expedition_DailyReward_AtMaxLvl_LootCache               
+PUG_Expedition_PostDailyRuns_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  TriggerLimitOnVisit: 'TRUE'
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 PUG_Expedition_PostDailyRuns_LootCache                      
+PUG_Expedition_RoleInDemand_BelowMaxLvl_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_Expedition_DailyRoleRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 PUG_Expedition_RoleInDemand_BelowMaxLvl_LootCache           
+PUG_Expedition_RoleInDemand_AtMaxLvl_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_Expedition_DailyRoleRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 PUG_Expedition_RoleInDemand_AtMaxLvl_LootCache              
+PUG_MutatedExpedition_Random_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_MutatedExpedition_DailyRandomRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 PUG_MutatedExpedition_DailyReward_LootCache                 
+PUG_MutatedExpedition_RoleInDemand_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_MutatedExpedition_DailyRoleRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 PUG_MutatedExpedition_RoleInDemand_LootCache                
+PUG_MutatedExpedition_Carry_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_MutatedExpedition_DailyCarryRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  MaxRoll: 0
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 PUG_MutatedExpedition_Carry_LootCache                       
