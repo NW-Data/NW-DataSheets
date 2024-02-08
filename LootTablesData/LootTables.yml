@@ -12137,70 +12137,6 @@ SportsmanSpoils60:
     Qty: 1-3
     Threshold: '0'
   MaxRoll: 100000
-HastilyWrappedPresent:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: WCToken
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]WCGoldLockBoxT1LevelLimit'
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: '[LBID]WCPatterns2022'
-    Qty: '1'
-    Threshold: '99000'
-  MaxRoll: 100000
-BeautifullyWrappedPresent:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: WCToken
-    Qty: '3'
-    Threshold: '0'
-  Item2:
-    Name: WCPToken
-    Qty: '1'
-    Threshold: '95000'
-  Item3:
-    Name: '[LTID]WCGoldLockBoxT1LevelLimit'
-    Qty: '1'
-    Threshold: '0'
-  Item4:
-    Name: '[LBID]WCPatterns2022'
-    Qty: '1'
-    Threshold: '98000'
-  Item5:
-    Name: '[LBID]WCGS600Patterns2022'
-    Qty: '1'
-    Threshold: '99500'
-  MaxRoll: 100000
-ExquisitelyWrappedPresent:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: WCToken
-    Qty: '5'
-    Threshold: '0'
-  Item2:
-    Name: WCPToken
-    Qty: '1'
-    Threshold: '90000'
-  Item3:
-    Name: '[LTID]WCGoldLockBoxT1LevelLimit'
-    Qty: '1'
-    Threshold: '0'
-  Item4:
-    Name: '[LBID]WCPatterns2022'
-    Qty: '1'
-    Threshold: '96000'
-  Item5:
-    Name: '[LBID]WCGS600Patterns2022'
-    Qty: '1'
-    Threshold: '99500'
-  MaxRoll: 100000
 WC_QuestPresent1:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -20717,108 +20653,6 @@ OilCartElemental:
     Qty: 2-5
     Threshold: '0'
   MaxRoll: 100
-WinterConv_Settlement_Tree_T1:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: '[LTID]WinterConv_Settlement_Tree_T1_Limit'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]GypsumWhiteTable'
-    Qty: '2'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]WinterConv_Food'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Settlement_Tree_T1_Limit:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Conditions: '[LIM]WinterTree_Limit'
-  TriggerLimitOnVisit: 'TRUE'
-  Item1:
-    Name: WCContainer_HastilyWrappedPresent
-    Qty: '4'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Settlement_Tree_T2:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: '[LTID]WinterConv_Settlement_Tree_T2_Limit'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]GypsumWhiteTable'
-    Qty: '2'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]WinterConv_Food'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Settlement_Tree_T2_Limit:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Conditions: '[LIM]WinterTree_Limit'
-  TriggerLimitOnVisit: 'TRUE'
-  Item1:
-    Name: WCContainer_BeautifullyWrappedPresent
-    Qty: '4'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Settlement_Tree_T3:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: '[LTID]WinterConv_Settlement_Tree_T3_Limit'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]GypsumWhiteTable'
-    Qty: '2'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]WinterConv_Food'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Settlement_Tree_T3_Limit:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Conditions: '[LIM]WinterTree_Limit'
-  TriggerLimitOnVisit: 'TRUE'
-  Item1:
-    Name: WCContainer_ExquisitelyWrappedPresent
-    Qty: '4'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Food:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Item1:
-    Name: WCConsumable_SpicedNog
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: WCConsumable_Mealiewrap
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: WCConsumable_ConvergenceCake
-    Qty: '1'
-    Threshold: '0'
-  Item4:
-    Name: WCConsumable_ButtercreamPudding
-    Qty: '1'
-    Threshold: '0'
-  Item5:
-    Name: WCConsumable_GingersnapCookie
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
 GypsumWhiteTable:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -20829,99 +20663,6 @@ GypsumWhiteTable:
     Qty: '1'
     Threshold: '59'
   MaxRoll: 0
-WinterConv_Village_GiftBag:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: '[LTID]WinterConv_Village_GiftBag_Limit'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]WinterConv_Food'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Village_GiftBag_Limit:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Conditions: '[LIM]WinterVillage_Limit'
-  TriggerLimitOnVisit: 'TRUE'
-  Item1:
-    Name: WCContainer_BeautifullyWrappedPresent
-    Qty: '3'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_LostPresent_Standard:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Item1:
-    Name: WCStolenPresent
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_LostPresent_Rare:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Item1:
-    Name: WCStolenPresent
-    Qty: '20'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Gleamite_Shard:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Item1:
-    Name: WCGleamite
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Gleamite_Chunk:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Item1:
-    Name: WCGleamite
-    Qty: '15'
-    Threshold: '0'
-  MaxRoll: 1
-WinterWarrior:
-  AND/OR: AND
-  Item1:
-    Name: '[LTID]WinterWarriorDarkMatterLimit'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]WinterWarriorBase'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 100
-WinterWarriorBase:
-  AND/OR: OR
-  Item1:
-    Name: WC_WinterWarrior_Horn
-    Qty: '1'
-    Threshold: '1'
-  Item2:
-    Name: WC_WinterWarrior_Horn
-    Qty: '2'
-    Threshold: '11'
-  Item3:
-    Name: WC_WinterWarrior_Horn
-    Qty: '3'
-    Threshold: '81'
-  Item4:
-    Name: WC_WinterWarrior_Horn
-    Qty: '5'
-    Threshold: '91'
-  MaxRoll: 100
-WinterWarriorDarkMatterLimit:
-  AND/OR: AND
-  Conditions: '[LIM]WinterDarkMatter_Limit'
-  TriggerLimitOnVisit: 'TRUE'
-  Item1:
-    Name: Darkmatter
-    Qty: '15'
-    Threshold: '0'
-  MaxRoll: 100
 Spring_Prismabloom_Roll:
   RollBonusSetting: ClampMax
   AND/OR: OR
@@ -23191,7 +22932,7 @@ WorldEvent_Crassus_BonusLoot:
     Threshold: '0'
   Item3:
     Name: DarkMatter
-    Qty: '100'
+    Qty: '15'
     Threshold: '0'
   Item4:
     Name: '[LTID]WorldEvent_Crassus_PerkCheck'
@@ -24811,4 +24552,91 @@ InfluenceDarkMatter:
     Name: DarkMatter
     Qty: '5'
     Threshold: '64'
+  MaxRoll: 0
+PUG_Expedition_DailyReward_BelowMaxLevel_LT:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Item1:
+    Name: AzureVialT1
+    Qty: '3'
+    Threshold: '0'
+  MaxRoll: 0
+PUG_Expedition_Random_BelowMaxLvl_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_Expedition_DailyRandomRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: PUG_Expedition_DailyReward_BelowMaxLvl_LootCache
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+PUG_Expedition_Random_AtMaxLvl_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_Expedition_DailyRandomRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: PUG_Expedition_DailyReward_AtMaxLvl_LootCache
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+PUG_Expedition_PostDailyRuns_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: PUG_Expedition_PostDailyRuns_LootCache
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+PUG_Expedition_RoleInDemand_BelowMaxLvl_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_Expedition_DailyRoleRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: PUG_Expedition_RoleInDemand_BelowMaxLvl_LootCache
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+PUG_Expedition_RoleInDemand_AtMaxLvl_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_Expedition_DailyRoleRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: PUG_Expedition_RoleInDemand_AtMaxLvl_LootCache
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+PUG_MutatedExpedition_Random_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_MutatedExpedition_DailyRandomRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: PUG_MutatedExpedition_DailyReward_LootCache
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+PUG_MutatedExpedition_RoleInDemand_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_MutatedExpedition_DailyRoleRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: PUG_MutatedExpedition_RoleInDemand_LootCache
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+PUG_MutatedExpedition_Carry_Cache:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]PUGFinder_MutatedExpedition_DailyCarryRewards_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  Item1:
+    Name: PUG_MutatedExpedition_Carry_LootCache
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
