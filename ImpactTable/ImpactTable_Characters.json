@@ -38,7 +38,8 @@
         "RockNPC": "DebugTest",
         "EvilKnightFireChampion": "DebugTest",
         "AngryEarth": "DebugTest",
-        "Upyr": "DebugTest"
+        "Upyr": "DebugTest",
+        "Leviathan": "DebugTest"
     },
     {
         "Name": "Unarmed",
@@ -79,7 +80,8 @@
         "RockNPC": "UnarmedRockNPC",
         "EvilKnightFireChampion": "UnarmedArmor",
         "AngryEarth": "UnarmedDryad",
-        "Upyr": "UnarmedDefault"
+        "Upyr": "UnarmedDefault",
+        "Leviathan": "UnarmedArmor"
     },
     {
         "Name": "Unarmed+Crit",
@@ -120,7 +122,8 @@
         "RockNPC": "UnarmedRockNPC",
         "EvilKnightFireChampion": "UnarmedArmor",
         "AngryEarth": "UnarmedDryad",
-        "Upyr": "UnarmedDefault"
+        "Upyr": "UnarmedDefault",
+        "Leviathan": "UnarmedArmor"
     },
     {
         "Name": "Unarmed+Resist",
@@ -161,7 +164,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "Sword",
@@ -202,7 +206,8 @@
         "RockNPC": "SwordRockNPC",
         "EvilKnightFireChampion": "SwordArmor",
         "AngryEarth": "SwordDryad",
-        "Upyr": "SwordDefault"
+        "Upyr": "SwordDefault",
+        "Leviathan": "SwordArmor"
     },
     {
         "Name": "Sword_Fleche",
@@ -243,7 +248,8 @@
         "RockNPC": "SwordFleche",
         "EvilKnightFireChampion": "SwordFleche",
         "AngryEarth": "SwordFleche",
-        "Upyr": "SwordFleche"
+        "Upyr": "SwordFleche",
+        "Leviathan": "SwordFleche"
     },
     {
         "Name": "Sword+Resist",
@@ -284,7 +290,8 @@
         "RockNPC": "SwordResist",
         "EvilKnightFireChampion": "SwordResist",
         "AngryEarth": "SwordResist",
-        "Upyr": "SwordResist"
+        "Upyr": "SwordResist",
+        "Leviathan": "SwordResist"
     },
     {
         "Name": "Sword+Fire+Resist",
@@ -325,7 +332,8 @@
         "RockNPC": "SwordResist",
         "EvilKnightFireChampion": "SwordResist",
         "AngryEarth": "SwordResist",
-        "Upyr": "SwordResist"
+        "Upyr": "SwordResist",
+        "Leviathan": "SwordResist"
     },
     {
         "Name": "Sword+Fire",
@@ -366,7 +374,8 @@
         "RockNPC": "SwordFireGeneric",
         "EvilKnightFireChampion": "SwordFireGeneric",
         "AngryEarth": "SwordFireGeneric",
-        "Upyr": "SwordFire"
+        "Upyr": "SwordFire",
+        "Leviathan": "SwordFireGeneric"
     },
     {
         "Name": "Sword+Crit",
@@ -407,7 +416,8 @@
         "RockNPC": "SwordRockNPCCrit",
         "EvilKnightFireChampion": "SwordDefaultCrit",
         "AngryEarth": "SwordDryadCrit",
-        "Upyr": "SwordDefaultCrit"
+        "Upyr": "SwordDefaultCrit",
+        "Leviathan": "SwordDefaultCrit"
     },
     {
         "Name": "Club",
@@ -448,7 +458,8 @@
         "RockNPC": "ClubRockNPC",
         "EvilKnightFireChampion": "ClubArmor",
         "AngryEarth": "ClubDryad",
-        "Upyr": "ClubDefault"
+        "Upyr": "ClubDefault",
+        "Leviathan": "ClubArmor"
     },
     {
         "Name": "ClubSpriggan",
@@ -489,7 +500,8 @@
         "RockNPC": "ClubRockNPC",
         "EvilKnightFireChampion": "ClubArmor",
         "AngryEarth": "ClubDryad",
-        "Upyr": "ClubDefault"
+        "Upyr": "ClubDefault",
+        "Leviathan": "ClubArmor"
     },
     {
         "Name": "ClubSpriggan+Resist",
@@ -530,7 +542,8 @@
         "RockNPC": "ClubResist",
         "EvilKnightFireChampion": "ClubResist",
         "AngryEarth": "ClubResist",
-        "Upyr": "ClubResist"
+        "Upyr": "ClubResist",
+        "Leviathan": "ClubResist"
     },
     {
         "Name": "Club+Resist",
@@ -571,7 +584,8 @@
         "RockNPC": "ClubResist",
         "EvilKnightFireChampion": "ClubResist",
         "AngryEarth": "ClubResist",
-        "Upyr": "ClubResist"
+        "Upyr": "ClubResist",
+        "Leviathan": "ClubResist"
     },
     {
         "Name": "Club+Crit",
@@ -612,7 +626,8 @@
         "RockNPC": "ClubRockNPCCrit",
         "EvilKnightFireChampion": "ClubDefaultCrit",
         "AngryEarth": "ClubDryadCrit",
-        "Upyr": "ClubDefaultCrit"
+        "Upyr": "ClubDefaultCrit",
+        "Leviathan": "ClubDefaultCrit"
     },
     {
         "Name": "Axe",
@@ -653,7 +668,8 @@
         "RockNPC": "AxeRockNPC",
         "EvilKnightFireChampion": "AxeArmor",
         "AngryEarth": "AxeDryad",
-        "Upyr": "AxeDefault"
+        "Upyr": "AxeDefault",
+        "Leviathan": "AxeArmor"
     },
     {
         "Name": "Axe_Throw",
@@ -694,7 +710,8 @@
         "RockNPC": "AxeRockNPCThrow",
         "EvilKnightFireChampion": "AxeArmor",
         "AngryEarth": "AxeDryadThrow",
-        "Upyr": "AxeDefaultThrow"
+        "Upyr": "AxeDefaultThrow",
+        "Leviathan": "AxeArmor"
     },
     {
         "Name": "Axe+Resist",
@@ -735,7 +752,8 @@
         "RockNPC": "AxeResist",
         "EvilKnightFireChampion": "AxeResist",
         "AngryEarth": "AxeResist",
-        "Upyr": "AxeResist"
+        "Upyr": "AxeResist",
+        "Leviathan": "AxeResist"
     },
     {
         "Name": "Axe+Crit",
@@ -776,7 +794,8 @@
         "RockNPC": "SwordRockNPCCrit",
         "EvilKnightFireChampion": "AxeDefaultCrit",
         "AngryEarth": "SwordDryadCrit",
-        "Upyr": "AxeDefaultCrit"
+        "Upyr": "AxeDefaultCrit",
+        "Leviathan": "AxeDefaultCrit"
     },
     {
         "Name": "Axe_Throw+Resist",
@@ -817,7 +836,8 @@
         "RockNPC": "AxeResist",
         "EvilKnightFireChampion": "AxeResist",
         "AngryEarth": "AxeResist",
-        "Upyr": "AxeResist"
+        "Upyr": "AxeResist",
+        "Leviathan": "AxeResist"
     },
     {
         "Name": "Axe_Throw+Crit",
@@ -858,7 +878,8 @@
         "RockNPC": "AxeRockNPCThrowCrit",
         "EvilKnightFireChampion": "AxeDefaultThrowCrit",
         "AngryEarth": "AxeDryadThrowCrit",
-        "Upyr": "AxeDefaultThrowCrit"
+        "Upyr": "AxeDefaultThrowCrit",
+        "Leviathan": "AxeDefaultThrowCrit"
     },
     {
         "Name": "GreatAxe",
@@ -899,7 +920,8 @@
         "RockNPC": "GreatAxeRockNPC",
         "EvilKnightFireChampion": "GreatAxeArmor",
         "AngryEarth": "GreatAxeDryad",
-        "Upyr": "GreatAxeDefault"
+        "Upyr": "GreatAxeDefault",
+        "Leviathan": "GreatAxeArmor"
     },
     {
         "Name": "GreatAxe+Resist",
@@ -940,7 +962,8 @@
         "RockNPC": "GreatAxeResist",
         "EvilKnightFireChampion": "GreatAxeResist",
         "AngryEarth": "GreatAxeResist",
-        "Upyr": "GreatAxeResist"
+        "Upyr": "GreatAxeResist",
+        "Leviathan": "GreatAxeResist"
     },
     {
         "Name": "GreatAxe_No_Environment",
@@ -981,7 +1004,8 @@
         "RockNPC": "GreatAxeRockNPC",
         "EvilKnightFireChampion": "GreatAxeArmor",
         "AngryEarth": "GreatAxeDryad",
-        "Upyr": "GreatAxeDefault"
+        "Upyr": "GreatAxeDefault",
+        "Leviathan": "GreatAxeArmor"
     },
     {
         "Name": "GreatAxe_No_Environment+Resist",
@@ -1022,7 +1046,8 @@
         "RockNPC": "GreatAxeResist",
         "EvilKnightFireChampion": "GreatAxeResist",
         "AngryEarth": "GreatAxeResist",
-        "Upyr": "GreatAxeResist"
+        "Upyr": "GreatAxeResist",
+        "Leviathan": "GreatAxeResist"
     },
     {
         "Name": "GreatAxe+Crit",
@@ -1063,7 +1088,8 @@
         "RockNPC": "SwordRockNPCCrit",
         "EvilKnightFireChampion": "SwordDefaultCrit",
         "AngryEarth": "SwordDryadCrit",
-        "Upyr": "SwordDefaultCrit"
+        "Upyr": "SwordDefaultCrit",
+        "Leviathan": "SwordDefaultCrit"
     },
     {
         "Name": "Musket",
@@ -1104,7 +1130,8 @@
         "RockNPC": "MusketRockNPC",
         "EvilKnightFireChampion": "MusketArmor",
         "AngryEarth": "MusketDryad",
-        "Upyr": "MusketDefault"
+        "Upyr": "MusketDefault",
+        "Leviathan": "MusketArmor"
     },
     {
         "Name": "Musket_Heavy",
@@ -1145,7 +1172,8 @@
         "RockNPC": "UnarmedRockNPC",
         "EvilKnightFireChampion": "ClubArmor",
         "AngryEarth": "UnarmedDryad",
-        "Upyr": "MusketDefault"
+        "Upyr": "MusketDefault",
+        "Leviathan": "ClubArmor"
     },
     {
         "Name": "StickyBomb",
@@ -1186,7 +1214,8 @@
         "RockNPC": "StickyBombDefault",
         "EvilKnightFireChampion": "StickyBombDefault",
         "AngryEarth": "StickyBombDefault",
-        "Upyr": "StickyBombDefault"
+        "Upyr": "StickyBombDefault",
+        "Leviathan": "StickyBombDefault"
     },
     {
         "Name": "Musket+Resist",
@@ -1227,7 +1256,8 @@
         "RockNPC": "MusketResist",
         "EvilKnightFireChampion": "MusketResist",
         "AngryEarth": "MusketResist",
-        "Upyr": "MusketResist"
+        "Upyr": "MusketResist",
+        "Leviathan": "MusketResist"
     },
     {
         "Name": "Musket_Heavy+Crit",
@@ -1268,7 +1298,8 @@
         "RockNPC": "MusketRockNPCCrit",
         "EvilKnightFireChampion": "MusketFleshCrit",
         "AngryEarth": "MusketDryadCrit",
-        "Upyr": "MusketDefaultCrit"
+        "Upyr": "MusketDefaultCrit",
+        "Leviathan": "MusketFleshCrit"
     },
     {
         "Name": "Musket+Crit",
@@ -1309,7 +1340,8 @@
         "RockNPC": "MusketRockNPCCrit",
         "EvilKnightFireChampion": "MusketFleshCrit",
         "AngryEarth": "MusketDryadCrit",
-        "Upyr": "MusketDefaultCrit"
+        "Upyr": "MusketDefaultCrit",
+        "Leviathan": "MusketFleshCrit"
     },
     {
         "Name": "Bow",
@@ -1350,7 +1382,8 @@
         "RockNPC": "BowRockNPC",
         "EvilKnightFireChampion": "BowArmor",
         "AngryEarth": "BowDryad",
-        "Upyr": "BowDefault"
+        "Upyr": "BowDefault",
+        "Leviathan": "BowArmor"
     },
     {
         "Name": "Bow_Heavy",
@@ -1391,7 +1424,8 @@
         "RockNPC": "UnarmedRockNPC",
         "EvilKnightFireChampion": "ClubArmor",
         "AngryEarth": "UnarmedDryad",
-        "Upyr": "BowDefault"
+        "Upyr": "BowDefault",
+        "Leviathan": "ClubArmor"
     },
     {
         "Name": "Bow+Resist",
@@ -1432,7 +1466,8 @@
         "RockNPC": "BowResist",
         "EvilKnightFireChampion": "BowResist",
         "AngryEarth": "BowResist",
-        "Upyr": "BowResist"
+        "Upyr": "BowResist",
+        "Leviathan": "BowResist"
     },
     {
         "Name": "Bow+Crit",
@@ -1473,7 +1508,8 @@
         "RockNPC": "BowRockNPCCrit",
         "EvilKnightFireChampion": "BowDefaultCrit",
         "AngryEarth": "BowDryadCrit",
-        "Upyr": "BowDefaultCrit"
+        "Upyr": "BowDefaultCrit",
+        "Leviathan": "BowDefaultCrit"
     },
     {
         "Name": "Bow_Heavy+Crit",
@@ -1514,7 +1550,8 @@
         "RockNPC": "BowRockNPCCrit",
         "EvilKnightFireChampion": "BowDefaultCrit",
         "AngryEarth": "BowDryadCrit",
-        "Upyr": "BowDefaultCrit"
+        "Upyr": "BowDefaultCrit",
+        "Leviathan": "BowDefaultCrit"
     },
     {
         "Name": "Bow+Arcane",
@@ -1555,7 +1592,8 @@
         "RockNPC": "BowArcane",
         "EvilKnightFireChampion": "BowArcane",
         "AngryEarth": "BowArcane",
-        "Upyr": "BowArcane"
+        "Upyr": "BowArcane",
+        "Leviathan": "BowArcane"
     },
     {
         "Name": "Shield",
@@ -1596,7 +1634,8 @@
         "RockNPC": "ShieldRockNPC",
         "EvilKnightFireChampion": "ShieldArmor",
         "AngryEarth": "ShieldDryad",
-        "Upyr": "ShieldDefault"
+        "Upyr": "ShieldDefault",
+        "Leviathan": "ShieldArmor"
     },
     {
         "Name": "Shield+Resist",
@@ -1637,7 +1676,8 @@
         "RockNPC": "ShieldResist",
         "EvilKnightFireChampion": "ShieldResist",
         "AngryEarth": "ShieldResist",
-        "Upyr": "ShieldResist"
+        "Upyr": "ShieldResist",
+        "Leviathan": "ShieldResist"
     },
     {
         "Name": "Shield+Crit",
@@ -1678,7 +1718,8 @@
         "RockNPC": "ShieldRockNPCCrit",
         "EvilKnightFireChampion": "ShieldDefaultCrit",
         "AngryEarth": "ShieldDryadCrit",
-        "Upyr": "ShieldDefaultCrit"
+        "Upyr": "ShieldDefaultCrit",
+        "Leviathan": "ShieldDefaultCrit"
     },
     {
         "Name": "Spear",
@@ -1719,7 +1760,8 @@
         "RockNPC": "SpearRockNPC",
         "EvilKnightFireChampion": "SpearArmor",
         "AngryEarth": "SpearDryad",
-        "Upyr": "SpearDefault"
+        "Upyr": "SpearDefault",
+        "Leviathan": "SpearArmor"
     },
     {
         "Name": "Spear+Resist",
@@ -1760,7 +1802,8 @@
         "RockNPC": "SpearResist",
         "EvilKnightFireChampion": "SpearResist",
         "AngryEarth": "SpearResist",
-        "Upyr": "SpearResist"
+        "Upyr": "SpearResist",
+        "Leviathan": "SpearResist"
     },
     {
         "Name": "Spear+Crit",
@@ -1801,7 +1844,8 @@
         "RockNPC": "SpearRockNPCCrit",
         "EvilKnightFireChampion": "SpearDefaultCrit",
         "AngryEarth": "SpearDryadCrit",
-        "Upyr": "SpearDefaultCrit"
+        "Upyr": "SpearDefaultCrit",
+        "Leviathan": "SpearDefaultCrit"
     },
     {
         "Name": "Spear_Throw",
@@ -1842,7 +1886,8 @@
         "RockNPC": "SpearDefaultThrow",
         "EvilKnightFireChampion": "SpearDefaultThrow",
         "AngryEarth": "SpearDefaultThrow",
-        "Upyr": "SpearDefaultThrow"
+        "Upyr": "SpearDefaultThrow",
+        "Leviathan": "SpearDefaultThrow"
     },
     {
         "Name": "Spear_Throw+Resist",
@@ -1883,7 +1928,8 @@
         "RockNPC": "SpearResist",
         "EvilKnightFireChampion": "SpearResist",
         "AngryEarth": "SpearResist",
-        "Upyr": "SpearResist"
+        "Upyr": "SpearResist",
+        "Leviathan": "SpearResist"
     },
     {
         "Name": "Spear_Throw+Crit",
@@ -1924,7 +1970,8 @@
         "RockNPC": "SpearDefaultThrowCrit",
         "EvilKnightFireChampion": "SpearDefaultThrowCrit",
         "AngryEarth": "SpearDefaultThrowCrit",
-        "Upyr": "SpearDefaultThrowCrit"
+        "Upyr": "SpearDefaultThrowCrit",
+        "Leviathan": "SpearDefaultThrowCrit"
     },
     {
         "Name": "Spear_AI",
@@ -1965,7 +2012,8 @@
         "RockNPC": "SpearRockNPC",
         "EvilKnightFireChampion": "SpearArmor",
         "AngryEarth": "SpearDryad",
-        "Upyr": "SpearDefault"
+        "Upyr": "SpearDefault",
+        "Leviathan": "SpearArmor"
     },
     {
         "Name": "Spear_AI+Resist",
@@ -2006,7 +2054,8 @@
         "RockNPC": "SpearResist",
         "EvilKnightFireChampion": "SpearResist",
         "AngryEarth": "SpearResist",
-        "Upyr": "SpearResist"
+        "Upyr": "SpearResist",
+        "Leviathan": "SpearResist"
     },
     {
         "Name": "Spear_AI+Crit",
@@ -2047,7 +2096,8 @@
         "RockNPC": "SpearRockNPCCrit",
         "EvilKnightFireChampion": "SpearDefaultCrit",
         "AngryEarth": "SpearDryadCrit",
-        "Upyr": "SpearDefaultCrit"
+        "Upyr": "SpearDefaultCrit",
+        "Leviathan": "SpearDefaultCrit"
     },
     {
         "Name": "Warhammer",
@@ -2088,7 +2138,8 @@
         "RockNPC": "WarHammerRockNPC",
         "EvilKnightFireChampion": "WarHammerArmor",
         "AngryEarth": "WarHammerDryad",
-        "Upyr": "WarHammerDefault"
+        "Upyr": "WarHammerDefault",
+        "Leviathan": "WarHammerArmor"
     },
     {
         "Name": "Warhammer_Heavy",
@@ -2129,7 +2180,8 @@
         "RockNPC": "WarHammerRockNPC",
         "EvilKnightFireChampion": "WarHammerArmor",
         "AngryEarth": "WarHammerDryad",
-        "Upyr": "WarHammerDefault"
+        "Upyr": "WarHammerDefault",
+        "Leviathan": "WarHammerArmor"
     },
     {
         "Name": "Warhammer_Mightygavel",
@@ -2170,7 +2222,8 @@
         "RockNPC": "WarHammerRockNPC",
         "EvilKnightFireChampion": "WarHammerArmor",
         "AngryEarth": "WarHammerDryad",
-        "Upyr": "WarHammerDefault"
+        "Upyr": "WarHammerDefault",
+        "Leviathan": "WarHammerArmor"
     },
     {
         "Name": "Warhammer_Shockwave",
@@ -2211,7 +2264,8 @@
         "RockNPC": "WarHammerRockNPC",
         "EvilKnightFireChampion": "WarHammerArmor",
         "AngryEarth": "WarHammerDryad",
-        "Upyr": "WarHammerDefault"
+        "Upyr": "WarHammerDefault",
+        "Leviathan": "WarHammerArmor"
     },
     {
         "Name": "Warhammer_Wreckingball",
@@ -2252,7 +2306,8 @@
         "RockNPC": "WarHammerRockNPC",
         "EvilKnightFireChampion": "WarHammerArmor",
         "AngryEarth": "WarHammerDryad",
-        "Upyr": "WarHammerDefault"
+        "Upyr": "WarHammerDefault",
+        "Leviathan": "WarHammerArmor"
     },
     {
         "Name": "Warhammer+Resist",
@@ -2293,7 +2348,8 @@
         "RockNPC": "WarHammerResist",
         "EvilKnightFireChampion": "WarHammerResist",
         "AngryEarth": "WarHammerResist",
-        "Upyr": "WarHammerResist"
+        "Upyr": "WarHammerResist",
+        "Leviathan": "WarHammerResist"
     },
     {
         "Name": "Warhammer_Wreckingball+Resist",
@@ -2334,7 +2390,8 @@
         "RockNPC": "WarHammerResist",
         "EvilKnightFireChampion": "WarHammerResist",
         "AngryEarth": "WarHammerResist",
-        "Upyr": "WarHammerResist"
+        "Upyr": "WarHammerResist",
+        "Leviathan": "WarHammerResist"
     },
     {
         "Name": "Warhammer_Heavy+Resist",
@@ -2375,7 +2432,8 @@
         "RockNPC": "WarHammerResist",
         "EvilKnightFireChampion": "WarHammerResist",
         "AngryEarth": "WarHammerResist",
-        "Upyr": "WarHammerResist"
+        "Upyr": "WarHammerResist",
+        "Leviathan": "WarHammerResist"
     },
     {
         "Name": "Warhammer+Crit",
@@ -2416,7 +2474,8 @@
         "RockNPC": "WarHammerRockNPCCrit",
         "EvilKnightFireChampion": "WarHammerDefaultCrit",
         "AngryEarth": "WarHammerDryadCrit",
-        "Upyr": "WarHammerDefaultCrit"
+        "Upyr": "WarHammerDefaultCrit",
+        "Leviathan": "WarHammerDefaultCrit"
     },
     {
         "Name": "Warhammer_Heavy+Crit",
@@ -2457,7 +2516,8 @@
         "RockNPC": "WarHammerRockNPCCrit",
         "EvilKnightFireChampion": "WarHammerDefaultCrit",
         "AngryEarth": "WarHammerDryadCrit",
-        "Upyr": "WarHammerDefaultCrit"
+        "Upyr": "WarHammerDefaultCrit",
+        "Leviathan": "WarHammerDefaultCrit"
     },
     {
         "Name": "StaffSpells_No_Environment",
@@ -2498,7 +2558,8 @@
         "RockNPC": "UnarmedRockNPC",
         "EvilKnightFireChampion": "UnarmedArmor",
         "AngryEarth": "UnarmedDryad",
-        "Upyr": "UnarmedDefault"
+        "Upyr": "UnarmedDefault",
+        "Leviathan": "UnarmedArmor"
     },
     {
         "Name": "StaffSpells_No_Environment+Resist",
@@ -2539,7 +2600,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Ice",
@@ -2580,7 +2642,8 @@
         "RockNPC": "GhostFrozen",
         "EvilKnightFireChampion": "GhostFrozen",
         "AngryEarth": "GhostFrozen",
-        "Upyr": "GhostFrozen"
+        "Upyr": "GhostFrozen",
+        "Leviathan": "GhostFrozen"
     },
     {
         "Name": "GhostSpell_Ice+Resist",
@@ -2621,7 +2684,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Fire",
@@ -2662,7 +2726,8 @@
         "RockNPC": "GhostFire",
         "EvilKnightFireChampion": "GhostFire",
         "AngryEarth": "GhostFire",
-        "Upyr": "GhostFire"
+        "Upyr": "GhostFire",
+        "Leviathan": "GhostFire"
     },
     {
         "Name": "GhostSpell_Fire+Resist",
@@ -2703,7 +2768,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Lightning",
@@ -2744,7 +2810,8 @@
         "RockNPC": "GhostLightning",
         "EvilKnightFireChampion": "GhostLightning",
         "AngryEarth": "GhostLightning",
-        "Upyr": "GhostLightning"
+        "Upyr": "GhostLightning",
+        "Leviathan": "GhostLightning"
     },
     {
         "Name": "GhostSpell_Lightning+Resist",
@@ -2785,7 +2852,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Curse",
@@ -2826,7 +2894,8 @@
         "RockNPC": "UnarmedRockNPC",
         "EvilKnightFireChampion": "UnarmedArmor",
         "AngryEarth": "UnarmedDryad",
-        "Upyr": "UnarmedDefault"
+        "Upyr": "UnarmedDefault",
+        "Leviathan": "UnarmedArmor"
     },
     {
         "Name": "GhostSpell_Curse+Resist",
@@ -2867,7 +2936,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Disease",
@@ -2908,7 +2978,8 @@
         "RockNPC": "GhostPoison",
         "EvilKnightFireChampion": "GhostPoison",
         "AngryEarth": "GhostPoison",
-        "Upyr": "GhostPoison"
+        "Upyr": "GhostPoison",
+        "Leviathan": "GhostPoison"
     },
     {
         "Name": "GhostSpell_Disease+Resist",
@@ -2949,7 +3020,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "GhostSpell_Shackled",
@@ -2990,7 +3062,8 @@
         "RockNPC": "GhostShackled",
         "EvilKnightFireChampion": "GhostShackled",
         "AngryEarth": "GhostShackled",
-        "Upyr": "GhostShackled"
+        "Upyr": "GhostShackled",
+        "Leviathan": "GhostShackled"
     },
     {
         "Name": "GhostSpell_Shackled+Resist",
@@ -3031,7 +3104,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "GhostMelee",
@@ -3072,7 +3146,8 @@
         "RockNPC": "GhostMelee",
         "EvilKnightFireChampion": "GhostMelee",
         "AngryEarth": "GhostMelee",
-        "Upyr": "GhostMelee"
+        "Upyr": "GhostMelee",
+        "Leviathan": "GhostMelee"
     },
     {
         "Name": "GhostMelee+Resist",
@@ -3113,7 +3188,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "Bite_AI",
@@ -3154,7 +3230,8 @@
         "RockNPC": "UnarmedRockNPC",
         "EvilKnightFireChampion": "UnarmedArmor",
         "AngryEarth": "UnarmedDryad",
-        "Upyr": "UnarmedDefault"
+        "Upyr": "UnarmedDefault",
+        "Leviathan": "UnarmedArmor"
     },
     {
         "Name": "Bite_AI+Resist",
@@ -3195,7 +3272,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "Blunt_AI",
@@ -3236,7 +3314,8 @@
         "RockNPC": "ClubDefault",
         "EvilKnightFireChampion": "ClubDefault",
         "AngryEarth": "ClubDefault",
-        "Upyr": "ClubDefault"
+        "Upyr": "ClubDefault",
+        "Leviathan": "ClubDefault"
     },
     {
         "Name": "Blunt_AI+Resist",
@@ -3277,7 +3356,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "Bear_Claw",
@@ -3318,7 +3398,8 @@
         "RockNPC": "UnarmedRockNPC",
         "EvilKnightFireChampion": "UnarmedArmor",
         "AngryEarth": "UnarmedDryad",
-        "Upyr": "UnarmedDefault"
+        "Upyr": "UnarmedDefault",
+        "Leviathan": "UnarmedArmor"
     },
     {
         "Name": "Bear_Claw+Resist",
@@ -3359,7 +3440,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "Regurgitator_Vomitball",
@@ -3400,7 +3482,8 @@
         "RockNPC": "Regurgitator_VomitballDefault",
         "EvilKnightFireChampion": "Regurgitator_VomitballDefault",
         "AngryEarth": "Regurgitator_VomitballDefault",
-        "Upyr": "Regurgitator_VomitballDefault"
+        "Upyr": "Regurgitator_VomitballDefault",
+        "Leviathan": "Regurgitator_VomitballDefault"
     },
     {
         "Name": "Regurgitator_Vomitball+Resist",
@@ -3441,7 +3524,8 @@
         "RockNPC": "Regurgitator_VomitballResist",
         "EvilKnightFireChampion": "Regurgitator_VomitballResist",
         "AngryEarth": "Regurgitator_VomitballResist",
-        "Upyr": "Regurgitator_VomitballResist"
+        "Upyr": "Regurgitator_VomitballResist",
+        "Leviathan": "Regurgitator_VomitballResist"
     },
     {
         "Name": "Regurgitator_Vomitspray",
@@ -3482,7 +3566,8 @@
         "RockNPC": "Regurgitator_VomitsprayDefault",
         "EvilKnightFireChampion": "Regurgitator_VomitsprayDefault",
         "AngryEarth": "Regurgitator_VomitsprayDefault",
-        "Upyr": "Regurgitator_VomitsprayDefault"
+        "Upyr": "Regurgitator_VomitsprayDefault",
+        "Leviathan": "Regurgitator_VomitsprayDefault"
     },
     {
         "Name": "Regurgitator_Vomitspray+Resist",
@@ -3523,7 +3608,8 @@
         "RockNPC": "Regurgitator_VomitsprayResist",
         "EvilKnightFireChampion": "Regurgitator_VomitsprayResist",
         "AngryEarth": "Regurgitator_VomitsprayResist",
-        "Upyr": "Regurgitator_VomitsprayResist"
+        "Upyr": "Regurgitator_VomitsprayResist",
+        "Leviathan": "Regurgitator_VomitsprayResist"
     },
     {
         "Name": "Impaler_spike",
@@ -3564,7 +3650,8 @@
         "RockNPC": "Impaler_spikeDefault",
         "EvilKnightFireChampion": "Impaler_spikeDefault",
         "AngryEarth": "Impaler_spikeDefault",
-        "Upyr": "Impaler_spikeDefault"
+        "Upyr": "Impaler_spikeDefault",
+        "Leviathan": "Impaler_spikeDefault"
     },
     {
         "Name": "Impaler_spike+Resist",
@@ -3605,7 +3692,8 @@
         "RockNPC": "Impaler_spikeResist",
         "EvilKnightFireChampion": "Impaler_spikeResist",
         "AngryEarth": "Impaler_spikeResist",
-        "Upyr": "Impaler_spikeResist"
+        "Upyr": "Impaler_spikeResist",
+        "Leviathan": "Impaler_spikeResist"
     },
     {
         "Name": "LifeStaff_Proj",
@@ -3646,7 +3734,8 @@
         "RockNPC": "LifeStaffDefault",
         "EvilKnightFireChampion": "LifeStaffFlesh",
         "AngryEarth": "LifeStaffDefault",
-        "Upyr": "LifeStaffDefault"
+        "Upyr": "LifeStaffDefault",
+        "Leviathan": "LifeStaffFlesh"
     },
     {
         "Name": "LifeStaff_Proj_Protect",
@@ -3687,7 +3776,8 @@
         "RockNPC": "LifeStaff_Protect",
         "EvilKnightFireChampion": "LifeStaff_Protect",
         "AngryEarth": "LifeStaff_Protect",
-        "Upyr": "LifeStaff_Protect"
+        "Upyr": "LifeStaff_Protect",
+        "Leviathan": "LifeStaff_Protect"
     },
     {
         "Name": "LifeStaff_Proj+Resist",
@@ -3728,7 +3818,8 @@
         "RockNPC": "LifeStaffResist",
         "EvilKnightFireChampion": "LifeStaffResist",
         "AngryEarth": "LifeStaffResist",
-        "Upyr": "LifeStaffResist"
+        "Upyr": "LifeStaffResist",
+        "Leviathan": "LifeStaffResist"
     },
     {
         "Name": "LifeStaff_Proj+Crit",
@@ -3769,7 +3860,8 @@
         "RockNPC": "LifeStaffDefaultCrit",
         "EvilKnightFireChampion": "LifeStaffDefaultCrit",
         "AngryEarth": "LifeStaffDefaultCrit",
-        "Upyr": "LifeStaffDefaultCrit"
+        "Upyr": "LifeStaffDefaultCrit",
+        "Leviathan": "LifeStaffDefaultCrit"
     },
     {
         "Name": "FireStaff_Proj",
@@ -3810,7 +3902,8 @@
         "RockNPC": "FireStaffDefault",
         "EvilKnightFireChampion": "FireStaffFlesh",
         "AngryEarth": "FireStaffDefault",
-        "Upyr": "FireStaffDefault"
+        "Upyr": "FireStaffDefault",
+        "Leviathan": "FireStaffFlesh"
     },
     {
         "Name": "FireStaff_Proj+Resist",
@@ -3851,7 +3944,8 @@
         "RockNPC": "FireStaffResist",
         "EvilKnightFireChampion": "FireStaffResist",
         "AngryEarth": "FireStaffResist",
-        "Upyr": "FireStaffResist"
+        "Upyr": "FireStaffResist",
+        "Leviathan": "FireStaffResist"
     },
     {
         "Name": "FireStaff_Proj+Crit",
@@ -3892,7 +3986,8 @@
         "RockNPC": "FireStaffDefaultCrit",
         "EvilKnightFireChampion": "FireStaffDefaultCrit",
         "AngryEarth": "FireStaffDefaultCrit",
-        "Upyr": "FireStaffDefaultCrit"
+        "Upyr": "FireStaffDefaultCrit",
+        "Leviathan": "FireStaffDefaultCrit"
     },
     {
         "Name": "FlameThrower",
@@ -3933,7 +4028,8 @@
         "RockNPC": "FlameThrowerDefault",
         "EvilKnightFireChampion": "FlameThrowerFlesh",
         "AngryEarth": "FlameThrowerDefault",
-        "Upyr": "FlameThrowerDefault"
+        "Upyr": "FlameThrowerDefault",
+        "Leviathan": "FlameThrowerFlesh"
     },
     {
         "Name": "FlameThrower+Resist",
@@ -3974,7 +4070,8 @@
         "RockNPC": "FlameThrowerResist",
         "EvilKnightFireChampion": "FlameThrowerResist",
         "AngryEarth": "FlameThrowerResist",
-        "Upyr": "FlameThrowerResist"
+        "Upyr": "FlameThrowerResist",
+        "Leviathan": "FlameThrowerResist"
     },
     {
         "Name": "FlameThrower+Crit",
@@ -4015,7 +4112,8 @@
         "RockNPC": "FlameThrowerDefaultCrit",
         "EvilKnightFireChampion": "FlameThrowerDefaultCrit",
         "AngryEarth": "FlameThrowerDefaultCrit",
-        "Upyr": "FlameThrowerDefaultCrit"
+        "Upyr": "FlameThrowerDefaultCrit",
+        "Leviathan": "FlameThrowerDefaultCrit"
     },
     {
         "Name": "Burnout",
@@ -4056,7 +4154,8 @@
         "RockNPC": "FireStaffDefault",
         "EvilKnightFireChampion": "FireStaffFlesh",
         "AngryEarth": "FireStaffDefault",
-        "Upyr": "FireStaffDefault"
+        "Upyr": "FireStaffDefault",
+        "Leviathan": "FireStaffFlesh"
     },
     {
         "Name": "Burnout+Resist",
@@ -4097,7 +4196,8 @@
         "RockNPC": "FireStaffResist",
         "EvilKnightFireChampion": "FireStaffResist",
         "AngryEarth": "FireStaffResist",
-        "Upyr": "FireStaffResist"
+        "Upyr": "FireStaffResist",
+        "Leviathan": "FireStaffResist"
     },
     {
         "Name": "Burnout+Crit",
@@ -4138,7 +4238,8 @@
         "RockNPC": "FireStaffDefaultCrit",
         "EvilKnightFireChampion": "FireStaffDefaultCrit",
         "AngryEarth": "FireStaffDefaultCrit",
-        "Upyr": "FireStaffDefaultCrit"
+        "Upyr": "FireStaffDefaultCrit",
+        "Leviathan": "FireStaffDefaultCrit"
     },
     {
         "Name": "IceGauntlet_Proj",
@@ -4179,7 +4280,8 @@
         "RockNPC": "IceGauntletDefault",
         "EvilKnightFireChampion": "IceGauntletFlesh",
         "AngryEarth": "IceGauntletDefault",
-        "Upyr": "IceGauntletDefault"
+        "Upyr": "IceGauntletDefault",
+        "Leviathan": "IceGauntletFlesh"
     },
     {
         "Name": "IceGauntlet_Proj_Heavy",
@@ -4220,7 +4322,8 @@
         "RockNPC": "IceGauntletDefault",
         "EvilKnightFireChampion": "IceGauntletHeavyFlesh",
         "AngryEarth": "IceGauntletDefault",
-        "Upyr": "IceGauntletDefault"
+        "Upyr": "IceGauntletDefault",
+        "Leviathan": "IceGauntletHeavyFlesh"
     },
     {
         "Name": "IceGauntlet_Null",
@@ -4261,7 +4364,8 @@
         "RockNPC": "IceGauntletNull",
         "EvilKnightFireChampion": "IceGauntletNull",
         "AngryEarth": "IceGauntletNull",
-        "Upyr": "IceGauntletNull"
+        "Upyr": "IceGauntletNull",
+        "Leviathan": "IceGauntletNull"
     },
     {
         "Name": "IceGauntlet_Proj+Resist",
@@ -4302,7 +4406,8 @@
         "RockNPC": "IceGauntletResist",
         "EvilKnightFireChampion": "IceGauntletResist",
         "AngryEarth": "IceGauntletResist",
-        "Upyr": "IceGauntletResist"
+        "Upyr": "IceGauntletResist",
+        "Leviathan": "IceGauntletResist"
     },
     {
         "Name": "IceGauntlet_Proj_Heavy+Resist",
@@ -4343,7 +4448,8 @@
         "RockNPC": "IceGauntletResist",
         "EvilKnightFireChampion": "IceGauntletResist",
         "AngryEarth": "IceGauntletResist",
-        "Upyr": "IceGauntletResist"
+        "Upyr": "IceGauntletResist",
+        "Leviathan": "IceGauntletResist"
     },
     {
         "Name": "IceGauntlet_Proj+Crit",
@@ -4384,7 +4490,8 @@
         "RockNPC": "IceGauntletDefaultCrit",
         "EvilKnightFireChampion": "IceGauntletDefaultCrit",
         "AngryEarth": "IceGauntletDefaultCrit",
-        "Upyr": "IceGauntletDefaultCrit"
+        "Upyr": "IceGauntletDefaultCrit",
+        "Leviathan": "IceGauntletDefaultCrit"
     },
     {
         "Name": "IceGauntlet_Proj_Heavy+Crit",
@@ -4425,7 +4532,8 @@
         "RockNPC": "IceGauntletDefaultCrit",
         "EvilKnightFireChampion": "IceGauntletDefaultCrit",
         "AngryEarth": "IceGauntletDefaultCrit",
-        "Upyr": "IceGauntletDefaultCrit"
+        "Upyr": "IceGauntletDefaultCrit",
+        "Leviathan": "IceGauntletDefaultCrit"
     },
     {
         "Name": "VoidGauntlet_Proj",
@@ -4466,7 +4574,8 @@
         "RockNPC": "VoidGauntletDefault",
         "EvilKnightFireChampion": "VoidGauntletFlesh",
         "AngryEarth": "VoidGauntletDefault",
-        "Upyr": "VoidGauntletDefault"
+        "Upyr": "VoidGauntletDefault",
+        "Leviathan": "VoidGauntletFlesh"
     },
     {
         "Name": "VoidGauntlet_Proj_Heavy",
@@ -4507,7 +4616,8 @@
         "RockNPC": "VoidGauntletDefault",
         "EvilKnightFireChampion": "VoidGauntletHeavyFlesh",
         "AngryEarth": "VoidGauntletDefault",
-        "Upyr": "VoidGauntletDefault"
+        "Upyr": "VoidGauntletDefault",
+        "Leviathan": "VoidGauntletHeavyFlesh"
     },
     {
         "Name": "VoidGauntlet_Blade",
@@ -4548,7 +4658,8 @@
         "RockNPC": "VoidGauntletBladeDefault",
         "EvilKnightFireChampion": "VoidGauntletBladeDefault",
         "AngryEarth": "VoidGauntletBladeDefault",
-        "Upyr": "VoidGauntletBladeDefault"
+        "Upyr": "VoidGauntletBladeDefault",
+        "Leviathan": "VoidGauntletBladeDefault"
     },
     {
         "Name": "VoidGauntlet_Special",
@@ -4589,7 +4700,8 @@
         "RockNPC": "VoidGauntletSpecial",
         "EvilKnightFireChampion": "VoidGauntletSpecial",
         "AngryEarth": "VoidGauntletSpecial",
-        "Upyr": "VoidGauntletSpecial"
+        "Upyr": "VoidGauntletSpecial",
+        "Leviathan": "VoidGauntletSpecial"
     },
     {
         "Name": "VoidGauntlet_Rupture",
@@ -4630,7 +4742,8 @@
         "RockNPC": "VoidGauntletRuptureDefault",
         "EvilKnightFireChampion": "VoidGauntletRuptureDefault",
         "AngryEarth": "VoidGauntletRuptureDefault",
-        "Upyr": "VoidGauntletRuptureDefault"
+        "Upyr": "VoidGauntletRuptureDefault",
+        "Leviathan": "VoidGauntletRuptureDefault"
     },
     {
         "Name": "VoidGauntlet_Proj+Resist",
@@ -4671,7 +4784,8 @@
         "RockNPC": "VoidGauntletResist",
         "EvilKnightFireChampion": "VoidGauntletResist",
         "AngryEarth": "VoidGauntletResist",
-        "Upyr": "VoidGauntletResist"
+        "Upyr": "VoidGauntletResist",
+        "Leviathan": "VoidGauntletResist"
     },
     {
         "Name": "VoidGauntlet_Proj+Crit",
@@ -4712,7 +4826,8 @@
         "RockNPC": "VoidGauntletDefaultCrit",
         "EvilKnightFireChampion": "VoidGauntletDefaultCrit",
         "AngryEarth": "VoidGauntletDefaultCrit",
-        "Upyr": "VoidGauntletDefaultCrit"
+        "Upyr": "VoidGauntletDefaultCrit",
+        "Leviathan": "VoidGauntletDefaultCrit"
     },
     {
         "Name": "VoidGauntlet_Proj_Heavy+Crit",
@@ -4753,7 +4868,8 @@
         "RockNPC": "VoidGauntletDefaultCrit",
         "EvilKnightFireChampion": "VoidGauntletDefaultCrit",
         "AngryEarth": "VoidGauntletDefaultCrit",
-        "Upyr": "VoidGauntletDefaultCrit"
+        "Upyr": "VoidGauntletDefaultCrit",
+        "Leviathan": "VoidGauntletDefaultCrit"
     },
     {
         "Name": "VoidGauntlet_Proj_Heavy+Resist",
@@ -4794,7 +4910,8 @@
         "RockNPC": "VoidGauntletResist",
         "EvilKnightFireChampion": "VoidGauntletResist",
         "AngryEarth": "VoidGauntletResist",
-        "Upyr": "VoidGauntletResist"
+        "Upyr": "VoidGauntletResist",
+        "Leviathan": "VoidGauntletResist"
     },
     {
         "Name": "VoidGauntlet_Blade+Resist",
@@ -4835,7 +4952,8 @@
         "RockNPC": "VoidGauntletBladeResist",
         "EvilKnightFireChampion": "VoidGauntletBladeResist",
         "AngryEarth": "VoidGauntletBladeResist",
-        "Upyr": "VoidGauntletBladeResist"
+        "Upyr": "VoidGauntletBladeResist",
+        "Leviathan": "VoidGauntletBladeResist"
     },
     {
         "Name": "VoidGauntlet_Blade+Crit",
@@ -4876,7 +4994,8 @@
         "RockNPC": "VoidGauntletBladeDefault",
         "EvilKnightFireChampion": "VoidGauntletBladeDefault",
         "AngryEarth": "VoidGauntletBladeDefault",
-        "Upyr": "VoidGauntletBladeDefault"
+        "Upyr": "VoidGauntletBladeDefault",
+        "Leviathan": "VoidGauntletBladeDefault"
     },
     {
         "Name": "VoidGauntlet_Rupture+Crit",
@@ -4917,7 +5036,8 @@
         "RockNPC": "VoidGauntletRuptureDefault",
         "EvilKnightFireChampion": "VoidGauntletRuptureDefault",
         "AngryEarth": "VoidGauntletRuptureDefault",
-        "Upyr": "VoidGauntletRuptureDefault"
+        "Upyr": "VoidGauntletRuptureDefault",
+        "Leviathan": "VoidGauntletRuptureDefault"
     },
     {
         "Name": "VoidGauntlet_Rupture+Resist",
@@ -4958,7 +5078,8 @@
         "RockNPC": "VoidGauntletRuptureDefault",
         "EvilKnightFireChampion": "VoidGauntletRuptureDefault",
         "AngryEarth": "VoidGauntletRuptureDefault",
-        "Upyr": "VoidGauntletRuptureDefault"
+        "Upyr": "VoidGauntletRuptureDefault",
+        "Leviathan": "VoidGauntletRuptureDefault"
     },
     {
         "Name": "VoidGauntlet_Special+Crit",
@@ -4999,7 +5120,8 @@
         "RockNPC": "VoidGauntletSpecial",
         "EvilKnightFireChampion": "VoidGauntletSpecial",
         "AngryEarth": "VoidGauntletSpecial",
-        "Upyr": "VoidGauntletSpecial"
+        "Upyr": "VoidGauntletSpecial",
+        "Leviathan": "VoidGauntletSpecial"
     },
     {
         "Name": "VoidGauntlet_Special+Resist",
@@ -5040,7 +5162,8 @@
         "RockNPC": "VoidGauntletSpecial",
         "EvilKnightFireChampion": "VoidGauntletSpecial",
         "AngryEarth": "VoidGauntletSpecial",
-        "Upyr": "VoidGauntletSpecial"
+        "Upyr": "VoidGauntletSpecial",
+        "Leviathan": "VoidGauntletSpecial"
     },
     {
         "Name": "Ballista",
@@ -5081,7 +5204,8 @@
         "RockNPC": "SpearDefaultThrow",
         "EvilKnightFireChampion": "SpearDefaultThrow",
         "AngryEarth": "SpearDefaultThrow",
-        "Upyr": "SpearDefaultThrow"
+        "Upyr": "SpearDefaultThrow",
+        "Leviathan": "SpearDefaultThrow"
     },
     {
         "Name": "CannonBall",
@@ -5122,7 +5246,8 @@
         "RockNPC": "WarHammerRockNPC",
         "EvilKnightFireChampion": "WarHammerArmor",
         "AngryEarth": "WarHammerDryad",
-        "Upyr": "WarHammerDefault"
+        "Upyr": "WarHammerDefault",
+        "Leviathan": "WarHammerArmor"
     },
     {
         "Name": "Beam_Laser",
@@ -5163,7 +5288,8 @@
         "RockNPC": "BeamLaserDefault",
         "EvilKnightFireChampion": "BeamLaserDefault",
         "AngryEarth": "BeamLaserDefault",
-        "Upyr": "BeamLaserDefault"
+        "Upyr": "BeamLaserDefault",
+        "Leviathan": "BeamLaserDefault"
     },
     {
         "Name": "Beam_VoidSpike",
@@ -5204,7 +5330,8 @@
         "RockNPC": "BeamVoidSpikeDefault",
         "EvilKnightFireChampion": "BeamVoidSpikeDefault",
         "AngryEarth": "BeamVoidSpikeDefault",
-        "Upyr": "BeamVoidSpikeDefault"
+        "Upyr": "BeamVoidSpikeDefault",
+        "Leviathan": "BeamVoidSpikeDefault"
     },
     {
         "Name": "Sonic_Boom",
@@ -5245,7 +5372,8 @@
         "RockNPC": "Sonicboom",
         "EvilKnightFireChampion": "Sonicboom",
         "AngryEarth": "Sonicboom",
-        "Upyr": "Sonicboom"
+        "Upyr": "Sonicboom",
+        "Leviathan": "Sonicboom"
     },
     {
         "Name": "Torch",
@@ -5286,7 +5414,8 @@
         "RockNPC": "Torch",
         "EvilKnightFireChampion": "Torch",
         "AngryEarth": "Torch",
-        "Upyr": "Torch"
+        "Upyr": "Torch",
+        "Leviathan": "Torch"
     },
     {
         "Name": "Torch+Resist",
@@ -5327,7 +5456,8 @@
         "RockNPC": "TorchResist",
         "EvilKnightFireChampion": "TorchResist",
         "AngryEarth": "TorchResist",
-        "Upyr": "SwordResist"
+        "Upyr": "SwordResist",
+        "Leviathan": "TorchResist"
     },
     {
         "Name": "CorruptedMagic",
@@ -5368,7 +5498,8 @@
         "RockNPC": "CorruptedMagic",
         "EvilKnightFireChampion": "CorruptedMagic",
         "AngryEarth": "CorruptedMagic",
-        "Upyr": "CorruptedMagic"
+        "Upyr": "CorruptedMagic",
+        "Leviathan": "CorruptedMagic"
     },
     {
         "Name": "CorruptedMagic+Resist",
@@ -5409,7 +5540,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "GravediggerLifesteal",
@@ -5450,7 +5582,8 @@
         "RockNPC": "GravediggerLifesteal",
         "EvilKnightFireChampion": "GravediggerLifesteal",
         "AngryEarth": "GravediggerLifesteal",
-        "Upyr": "GravediggerLifesteal"
+        "Upyr": "GravediggerLifesteal",
+        "Leviathan": "GravediggerLifesteal"
     },
     {
         "Name": "DryadMagic",
@@ -5491,7 +5624,8 @@
         "RockNPC": "DryadMagic",
         "EvilKnightFireChampion": "DryadMagic",
         "AngryEarth": "DryadMagic",
-        "Upyr": "DryadMagic"
+        "Upyr": "DryadMagic",
+        "Leviathan": "DryadMagic"
     },
     {
         "Name": "DryadMagic+Resist",
@@ -5532,7 +5666,8 @@
         "RockNPC": "UnarmedResist",
         "EvilKnightFireChampion": "UnarmedResist",
         "AngryEarth": "UnarmedResist",
-        "Upyr": "UnarmedResist"
+        "Upyr": "UnarmedResist",
+        "Leviathan": "UnarmedResist"
     },
     {
         "Name": "AncientMagic",
@@ -5573,7 +5708,8 @@
         "RockNPC": "AncientMagic",
         "EvilKnightFireChampion": "AncientMagic",
         "AngryEarth": "AncientMagic",
-        "Upyr": "AncientMagic"
+        "Upyr": "AncientMagic",
+        "Leviathan": "AncientMagic"
     },
     {
         "Name": "DynastyMagic",
@@ -5614,7 +5750,8 @@
         "RockNPC": "DynastyMagic",
         "EvilKnightFireChampion": "DynastyMagic",
         "AngryEarth": "DynastyMagic",
-        "Upyr": "DynastyMagic"
+        "Upyr": "DynastyMagic",
+        "Leviathan": "DynastyMagic"
     },
     {
         "Name": "SunMagic",
@@ -5655,7 +5792,8 @@
         "RockNPC": "SunMagic",
         "EvilKnightFireChampion": "SunMagic",
         "AngryEarth": "SunMagic",
-        "Upyr": "SunMagic"
+        "Upyr": "SunMagic",
+        "Leviathan": "SunMagic"
     },
     {
         "Name": "CorruptedSlash",
@@ -5696,7 +5834,8 @@
         "RockNPC": "CorruptedSlash",
         "EvilKnightFireChampion": "CorruptedSlash",
         "AngryEarth": "CorruptedSlash",
-        "Upyr": "CorruptedSlash"
+        "Upyr": "CorruptedSlash",
+        "Leviathan": "CorruptedSlash"
     },
     {
         "Name": "CorruptedMagic_Legion",
@@ -5737,7 +5876,8 @@
         "RockNPC": "CorruptedMagic_Legion",
         "EvilKnightFireChampion": "CorruptedMagic_Legion",
         "AngryEarth": "CorruptedMagic_Legion",
-        "Upyr": "CorruptedMagic_Legion"
+        "Upyr": "CorruptedMagic_Legion",
+        "Leviathan": "CorruptedMagic_Legion"
     },
     {
         "Name": "Blunderbuss",
@@ -5778,7 +5918,8 @@
         "RockNPC": "BlunderbussRockNPC",
         "EvilKnightFireChampion": "BlunderbussArmor",
         "AngryEarth": "BlunderbussDryad",
-        "Upyr": "BlunderbussDefault"
+        "Upyr": "BlunderbussDefault",
+        "Leviathan": "BlunderbussArmor"
     },
     {
         "Name": "Blunderbuss_Claw",
@@ -5819,7 +5960,8 @@
         "RockNPC": "BlunderbussRockNPC",
         "EvilKnightFireChampion": "Blunderbuss_Claw_Flesh",
         "AngryEarth": "BlunderbussDryad",
-        "Upyr": "Blunderbuss_Claw_Flesh"
+        "Upyr": "Blunderbuss_Claw_Flesh",
+        "Leviathan": "Blunderbuss_Claw_Flesh"
     },
     {
         "Name": "Blunderbuss_Net",
@@ -5860,7 +6002,8 @@
         "RockNPC": "BlunderbussRockNPC",
         "EvilKnightFireChampion": "BlunderbussArmor",
         "AngryEarth": "BlunderbussDryad",
-        "Upyr": "BlunderbussDefault"
+        "Upyr": "BlunderbussDefault",
+        "Leviathan": "BlunderbussArmor"
     },
     {
         "Name": "Blunderbuss_Shrapnel",
@@ -5901,7 +6044,8 @@
         "RockNPC": "Blunderbuss_Chr_Shrapnel",
         "EvilKnightFireChampion": "Blunderbuss_Chr_Shrapnel",
         "AngryEarth": "Blunderbuss_Chr_Shrapnel",
-        "Upyr": "BlunderbussDefault"
+        "Upyr": "BlunderbussDefault",
+        "Leviathan": "Blunderbuss_Chr_Shrapnel"
     },
     {
         "Name": "Blunderbuss+Resist",
@@ -5942,7 +6086,8 @@
         "RockNPC": "BlunderbussResist",
         "EvilKnightFireChampion": "BlunderbussResist",
         "AngryEarth": "BlunderbussResist",
-        "Upyr": "BlunderbussResist"
+        "Upyr": "BlunderbussResist",
+        "Leviathan": "BlunderbussResist"
     },
     {
         "Name": "Blunderbuss_Claw+Resist",
@@ -5983,7 +6128,8 @@
         "RockNPC": "BlunderbussResist",
         "EvilKnightFireChampion": "BlunderbussResist",
         "AngryEarth": "BlunderbussResist",
-        "Upyr": "BlunderbussResist"
+        "Upyr": "BlunderbussResist",
+        "Leviathan": "BlunderbussResist"
     },
     {
         "Name": "Blunderbuss_Net+Resist",
@@ -6024,7 +6170,8 @@
         "RockNPC": "BlunderbussResist",
         "EvilKnightFireChampion": "BlunderbussResist",
         "AngryEarth": "BlunderbussResist",
-        "Upyr": "BlunderbussResist"
+        "Upyr": "BlunderbussResist",
+        "Leviathan": "BlunderbussResist"
     },
     {
         "Name": "Blunderbuss_Shrapnel+Resist",
@@ -6065,7 +6212,8 @@
         "RockNPC": "BlunderbussResist",
         "EvilKnightFireChampion": "BlunderbussResist",
         "AngryEarth": "BlunderbussResist",
-        "Upyr": "BlunderbussResist"
+        "Upyr": "BlunderbussResist",
+        "Leviathan": "BlunderbussResist"
     },
     {
         "Name": "Blunderbuss+Crit",
@@ -6106,7 +6254,8 @@
         "RockNPC": "BlunderbussRockNPCCrit",
         "EvilKnightFireChampion": "BlunderbussFleshCrit",
         "AngryEarth": "BlunderbussDryadCrit",
-        "Upyr": "BlunderbussDefaultCrit"
+        "Upyr": "BlunderbussDefaultCrit",
+        "Leviathan": "BlunderbussFleshCrit"
     },
     {
         "Name": "Blunderbuss_Claw+Crit",
@@ -6147,7 +6296,8 @@
         "RockNPC": "Blunderbuss_Claw_Crit",
         "EvilKnightFireChampion": "Blunderbuss_Claw_Crit",
         "AngryEarth": "Blunderbuss_Claw_Crit",
-        "Upyr": "Blunderbuss_Claw_Crit"
+        "Upyr": "Blunderbuss_Claw_Crit",
+        "Leviathan": "Blunderbuss_Claw_Crit"
     },
     {
         "Name": "Blunderbuss_Net+Crit",
@@ -6188,7 +6338,8 @@
         "RockNPC": "BlunderbussRockNPCCrit",
         "EvilKnightFireChampion": "BlunderbussFleshCrit",
         "AngryEarth": "BlunderbussDryadCrit",
-        "Upyr": "BlunderbussDefaultCrit"
+        "Upyr": "BlunderbussDefaultCrit",
+        "Leviathan": "BlunderbussFleshCrit"
     },
     {
         "Name": "Blunderbuss_Shrapnel+Crit",
@@ -6229,7 +6380,8 @@
         "RockNPC": "BlunderbussRockNPCCrit",
         "EvilKnightFireChampion": "BlunderbussFleshCrit",
         "AngryEarth": "BlunderbussDryadCrit",
-        "Upyr": "BlunderbussDefaultCrit"
+        "Upyr": "BlunderbussDefaultCrit",
+        "Leviathan": "BlunderbussFleshCrit"
     },
     {
         "Name": "NecroPhlegm",
@@ -6270,7 +6422,8 @@
         "RockNPC": "NecroPhlegm",
         "EvilKnightFireChampion": "NecroPhlegm",
         "AngryEarth": "NecroPhlegm",
-        "Upyr": "NecroPhlegm"
+        "Upyr": "NecroPhlegm",
+        "Leviathan": "NecroPhlegm"
     },
     {
         "Name": "BattleScreech",
@@ -6311,7 +6464,8 @@
         "RockNPC": "BattleScreech",
         "EvilKnightFireChampion": "BattleScreech",
         "AngryEarth": "BattleScreech",
-        "Upyr": "BattleScreech"
+        "Upyr": "BattleScreech",
+        "Leviathan": "BattleScreech"
     },
     {
         "Name": "Lunge",
@@ -6352,7 +6506,8 @@
         "RockNPC": "Lunge",
         "EvilKnightFireChampion": "Lunge",
         "AngryEarth": "Lunge",
-        "Upyr": "Lunge"
+        "Upyr": "Lunge",
+        "Leviathan": "Lunge"
     },
     {
         "Name": "Greatsword",
@@ -6393,7 +6548,8 @@
         "RockNPC": "GreatSwordRockNPC",
         "EvilKnightFireChampion": "GreatSwordArmor",
         "AngryEarth": "GreatSwordDryad",
-        "Upyr": "GreatSwordDefault"
+        "Upyr": "GreatSwordDefault",
+        "Leviathan": "GreatSwordArmor"
     },
     {
         "Name": "Greatsword_Heavy",
@@ -6434,7 +6590,8 @@
         "RockNPC": "GreatSwordHeavyRockNPC",
         "EvilKnightFireChampion": "GreatSwordHeavyArmor",
         "AngryEarth": "GreatSwordHeavyDryad",
-        "Upyr": "GreatSwordHeavy"
+        "Upyr": "GreatSwordHeavy",
+        "Leviathan": "GreatSwordHeavyArmor"
     },
     {
         "Name": "Greatsword+Resist",
@@ -6475,7 +6632,8 @@
         "RockNPC": "GreatSwordResist",
         "EvilKnightFireChampion": "GreatSwordResist",
         "AngryEarth": "GreatSwordResist",
-        "Upyr": "GreatSwordResist"
+        "Upyr": "GreatSwordResist",
+        "Leviathan": "GreatSwordResist"
     },
     {
         "Name": "Greatsword_Heavy+Resist",
@@ -6516,7 +6674,8 @@
         "RockNPC": "GreatSwordHeavyResist",
         "EvilKnightFireChampion": "GreatSwordHeavyResist",
         "AngryEarth": "GreatSwordHeavyResist",
-        "Upyr": "GreatSwordHeavyResist"
+        "Upyr": "GreatSwordHeavyResist",
+        "Leviathan": "GreatSwordHeavyResist"
     },
     {
         "Name": "Greatsword_No_Environment",
@@ -6557,7 +6716,8 @@
         "RockNPC": "GreatSwordRockNPC",
         "EvilKnightFireChampion": "GreatAxeArmor",
         "AngryEarth": "GreatSwordDryad",
-        "Upyr": "GreatSwordDefault"
+        "Upyr": "GreatSwordDefault",
+        "Leviathan": "GreatAxeArmor"
     },
     {
         "Name": "Greatsword_No_Environment+Resist",
@@ -6598,7 +6758,8 @@
         "RockNPC": "GreatSwordResist",
         "EvilKnightFireChampion": "GreatSwordResist",
         "AngryEarth": "GreatSwordResist",
-        "Upyr": "GreatSwordResist"
+        "Upyr": "GreatSwordResist",
+        "Leviathan": "GreatSwordResist"
     },
     {
         "Name": "Greatsword+Crit",
@@ -6639,7 +6800,8 @@
         "RockNPC": "GreatSwordRockNPCCrit",
         "EvilKnightFireChampion": "GreatSwordDefaultCrit",
         "AngryEarth": "GreatSwordDryadCrit",
-        "Upyr": "GreatSwordDefaultCrit"
+        "Upyr": "GreatSwordDefaultCrit",
+        "Leviathan": "GreatSwordDefaultCrit"
     },
     {
         "Name": "Greatsword_Heavy+Crit",
@@ -6680,7 +6842,8 @@
         "RockNPC": "GreatSwordHeavyRockNPCCrit",
         "EvilKnightFireChampion": "GreatSwordHeavyCrit",
         "AngryEarth": "GreatSwordHeavyDryadCrit",
-        "Upyr": "GreatSwordHeavyCrit"
+        "Upyr": "GreatSwordHeavyCrit",
+        "Leviathan": "GreatSwordHeavyCrit"
     },
     {
         "Name": "Flail",
@@ -6721,7 +6884,8 @@
         "RockNPC": "FlailRockNPC",
         "EvilKnightFireChampion": "FlailDefault",
         "AngryEarth": "FlailDryad",
-        "Upyr": "FlailDefault"
+        "Upyr": "FlailDefault",
+        "Leviathan": "FlailDefault"
     },
     {
         "Name": "Flail_Heavy",
@@ -6762,7 +6926,8 @@
         "RockNPC": "FlailRockNPC",
         "EvilKnightFireChampion": "FlailHeavy",
         "AngryEarth": "FlailDryad",
-        "Upyr": "FlailHeavy"
+        "Upyr": "FlailHeavy",
+        "Leviathan": "FlailHeavy"
     },
     {
         "Name": "Flail+Resist",
@@ -6803,7 +6968,8 @@
         "RockNPC": "FlailResist",
         "EvilKnightFireChampion": "FlailResist",
         "AngryEarth": "FlailResist",
-        "Upyr": "FlailResist"
+        "Upyr": "FlailResist",
+        "Leviathan": "FlailResist"
     },
     {
         "Name": "Flail_Heavy+Resist",
@@ -6844,7 +7010,8 @@
         "RockNPC": "FlailResist",
         "EvilKnightFireChampion": "FlailResist",
         "AngryEarth": "FlailResist",
-        "Upyr": "FlailResist"
+        "Upyr": "FlailResist",
+        "Leviathan": "FlailResist"
     },
     {
         "Name": "Flail_No_Environment",
@@ -6885,7 +7052,8 @@
         "RockNPC": "FlailRockNPC",
         "EvilKnightFireChampion": "FlailDefault",
         "AngryEarth": "FlailDryad",
-        "Upyr": "FlailDefault"
+        "Upyr": "FlailDefault",
+        "Leviathan": "FlailDefault"
     },
     {
         "Name": "Flail_No_Environment+Resist",
@@ -6926,7 +7094,8 @@
         "RockNPC": "FlailResist",
         "EvilKnightFireChampion": "FlailResist",
         "AngryEarth": "FlailResist",
-        "Upyr": "FlailResist"
+        "Upyr": "FlailResist",
+        "Leviathan": "FlailResist"
     },
     {
         "Name": "Flail+Crit",
@@ -6967,7 +7136,8 @@
         "RockNPC": "FlailRockNPCCrit",
         "EvilKnightFireChampion": "FlailDefaultCrit",
         "AngryEarth": "FlailDryadCrit",
-        "Upyr": "FlailDefaultCrit"
+        "Upyr": "FlailDefaultCrit",
+        "Leviathan": "FlailDefaultCrit"
     },
     {
         "Name": "Flail_No_Environment+Crit",
@@ -7008,7 +7178,8 @@
         "RockNPC": "FlailRockNPCCrit",
         "EvilKnightFireChampion": "FlailDefaultCrit",
         "AngryEarth": "FlailDryadCrit",
-        "Upyr": "FlailDefaultCrit"
+        "Upyr": "FlailDefaultCrit",
+        "Leviathan": "FlailDefaultCrit"
     },
     {
         "Name": "Flail_Heavy+Crit",
@@ -7049,7 +7220,8 @@
         "RockNPC": "FlailRockNPCCrit",
         "EvilKnightFireChampion": "FlailHeavyCrit",
         "AngryEarth": "FlailDryadCrit",
-        "Upyr": "FlailHeavyCrit"
+        "Upyr": "FlailHeavyCrit",
+        "Leviathan": "FlailHeavyCrit"
     },
     {
         "Name": "BileBomb",
@@ -7090,7 +7262,8 @@
         "RockNPC": "Heartgem_BileBombDefault",
         "EvilKnightFireChampion": "Heartgem_BileBombDefault",
         "AngryEarth": "Heartgem_BileBombDefault",
-        "Upyr": "Heartgem_BileBombDefault"
+        "Upyr": "Heartgem_BileBombDefault",
+        "Leviathan": "Heartgem_BileBombDefault"
     },
     {
         "Name": "BileBomb+Resist",
@@ -7131,7 +7304,8 @@
         "RockNPC": "Heartgem_BileBombResist",
         "EvilKnightFireChampion": "Heartgem_BileBombResist",
         "AngryEarth": "Heartgem_BileBombResist",
-        "Upyr": "Heartgem_BileBombResist"
+        "Upyr": "Heartgem_BileBombResist",
+        "Leviathan": "Heartgem_BileBombResist"
     },
     {
         "Name": "Megaflora_PetalProjectile",
@@ -7172,7 +7346,8 @@
         "RockNPC": "SwordRockNPC",
         "EvilKnightFireChampion": "SwordArmor",
         "AngryEarth": "SwordDryad",
-        "Upyr": "SwordDefault"
+        "Upyr": "SwordDefault",
+        "Leviathan": "SwordArmor"
     },
     {
         "Name": "Megaflora_PetalSmash",
@@ -7213,7 +7388,8 @@
         "RockNPC": "SwordRockNPC",
         "EvilKnightFireChampion": "SwordArmor",
         "AngryEarth": "SwordDryad",
-        "Upyr": "SwordDefault"
+        "Upyr": "SwordDefault",
+        "Leviathan": "SwordArmor"
     },
     {
         "Name": "Mammoth_LavaToss",
@@ -7254,7 +7430,8 @@
         "RockNPC": "Mammoth_LavaToss",
         "EvilKnightFireChampion": "Mammoth_LavaToss",
         "AngryEarth": "Mammoth_LavaToss",
-        "Upyr": "Mammoth_LavaToss"
+        "Upyr": "Mammoth_LavaToss",
+        "Leviathan": "Mammoth_LavaToss"
     },
     {
         "Name": "Mammoth_Shock",
@@ -7295,7 +7472,8 @@
         "RockNPC": "Mammoth_Shock",
         "EvilKnightFireChampion": "Mammoth_Shock",
         "AngryEarth": "Mammoth_Shock",
-        "Upyr": "Mammoth_Shock"
+        "Upyr": "Mammoth_Shock",
+        "Leviathan": "Mammoth_Shock"
     },
     {
         "Name": "Mammoth_Lob",
@@ -7336,7 +7514,8 @@
         "RockNPC": "Mammoth_Lob",
         "EvilKnightFireChampion": "Mammoth_Lob",
         "AngryEarth": "Mammoth_Lob",
-        "Upyr": "Mammoth_Lob"
+        "Upyr": "Mammoth_Lob",
+        "Leviathan": "Mammoth_Lob"
     },
     {
         "Name": "HercyneCorvid_Feather",
@@ -7377,7 +7556,8 @@
         "RockNPC": "HercyneCorvid_Feather",
         "EvilKnightFireChampion": "HercyneCorvid_Feather",
         "AngryEarth": "HercyneCorvid_Feather",
-        "Upyr": "HercyneCorvid_Feather"
+        "Upyr": "HercyneCorvid_Feather",
+        "Leviathan": "HercyneCorvid_Feather"
     },
     {
         "Name": "Medusa_SlashPoison",
@@ -7418,7 +7598,8 @@
         "RockNPC": "Medusa_SlashPoison",
         "EvilKnightFireChampion": "Medusa_SlashPoison",
         "AngryEarth": "Medusa_SlashPoison",
-        "Upyr": "Medusa_SlashPoison"
+        "Upyr": "Medusa_SlashPoison",
+        "Leviathan": "Medusa_SlashPoison"
     },
     {
         "Name": "Medusa_Charge",
@@ -7459,7 +7640,8 @@
         "RockNPC": "Medusa_Charge",
         "EvilKnightFireChampion": "Medusa_Charge",
         "AngryEarth": "Medusa_Charge",
-        "Upyr": "Medusa_Charge"
+        "Upyr": "Medusa_Charge",
+        "Leviathan": "Medusa_Charge"
     },
     {
         "Name": "Kurok_Nature_RipperProjectile",
@@ -7500,7 +7682,8 @@
         "RockNPC": "Kurok_Nature_RipperProjectile",
         "EvilKnightFireChampion": "Kurok_Nature_RipperProjectile",
         "AngryEarth": "Kurok_Nature_RipperProjectile",
-        "Upyr": "Kurok_Nature_RipperProjectile"
+        "Upyr": "Kurok_Nature_RipperProjectile",
+        "Leviathan": "Kurok_Nature_RipperProjectile"
     },
     {
         "Name": "HercyneBoar",
@@ -7541,7 +7724,8 @@
         "RockNPC": "UnarmedRockNPC",
         "EvilKnightFireChampion": "UnarmedArmor",
         "AngryEarth": "UnarmedDryad",
-        "Upyr": "UnarmedDefault"
+        "Upyr": "UnarmedDefault",
+        "Leviathan": "UnarmedArmor"
     },
     {
         "Name": "Mordred_ManiFistAtion",
@@ -7582,6 +7766,7 @@
         "RockNPC": "Mordred_ManiFistAtion",
         "EvilKnightFireChampion": "Mordred_ManiFistAtion",
         "AngryEarth": "Mordred_ManiFistAtion",
-        "Upyr": "Mordred_ManiFistAtion"
+        "Upyr": "Mordred_ManiFistAtion",
+        "Leviathan": "Mordred_ManiFistAtion"
     }
 ]

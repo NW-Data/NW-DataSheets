@@ -96,7 +96,7 @@
         "OnlyChangeOwnedStatusEffects": "",
         "Afflictions": "",
         "OnHitAffixes": "",
-        "EquipAbility": "Greatsword_Stance_Offense_DmgInc",
+        "EquipAbility": "",
         "UseSourceWeaponForAbilityEffect": "",
         "IsNegative": null,
         "RespecTradeskills": "",
@@ -346,7 +346,7 @@
         "OnlyChangeOwnedStatusEffects": "",
         "Afflictions": "",
         "OnHitAffixes": "",
-        "EquipAbility": "Greatsword_Stance_Defense_DmgRed",
+        "EquipAbility": "",
         "UseSourceWeaponForAbilityEffect": "",
         "IsNegative": null,
         "RespecTradeskills": "",
@@ -752,7 +752,7 @@
     {
         "StatusID": "Greatsword_DashAttack_Slow",
         "DisplayName": "Slow",
-        "Description": "Your movement speed reduced by {[Type_StatusEffectData.Status_Bow_RainOfArrows_Slow.SprintSpeedMod * 100]}%.",
+        "Description": "Your movement speed reduced by {[-0.150000 * 100]}%.",
         "EffectCategories": "Debuff+Slow+CC",
         "PlaceholderIcon": "lyshineui/images/status/SE_SlowT2.png",
         "ShowInUITray": true,
@@ -1502,7 +1502,7 @@
     {
         "StatusID": "Greatsword_DefenseBreak_Disease",
         "DisplayName": "Disease",
-        "Description": "Healing efficiency is reduced by {[Type_StatusEffectData.Greatsword_DefenseBreak_Disease.HealMod * -100]}%.",
+        "Description": "Healing efficiency is reduced by {[-0.200000 * -100]}%.",
         "EffectCategories": "Debuff+Disease+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_DiseaseT2.png",
         "ShowInUITray": true,
@@ -1752,7 +1752,7 @@
     {
         "StatusID": "Greatsword_Burst_Weaken",
         "DisplayName": "Weaken",
-        "Description": "Your outgoing damage is reduced by {[Type_StatusEffectData.WarHammer_Shockwave_Weaken.DMGStandard * 100]}%.",
+        "Description": "Your outgoing damage is reduced by {[-0.100000 * 100]}%.",
         "EffectCategories": "Debuff+Weaken+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_WeakenT3.png",
         "ShowInUITray": true,
@@ -3252,7 +3252,7 @@
     {
         "StatusID": "Greatsword_Passive_NextHitReduce",
         "DisplayName": "Reduce Next Hit",
-        "Description": "You will have additional armor during the next attack you recieve.",
+        "Description": "You will have additional armor during the next attack you receive.",
         "EffectCategories": "Buff+GreatswordBuff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_Greatsword_DamageReduction.png",
         "ShowInUITray": true,

@@ -137,7 +137,7 @@
     {
         "NotificationId": "Damage_Ignored_Not_PvP_Flaged",
         "DisplayTitle": "NOT PVP FLAGGED",
-        "DisplayText": "You can only attack other players if they are also \u0026lt;font color=\"#ff9900\"\u0026gt;flagged for PvP\u0026lt;/font\u0026gt; and in an \u0026lt;font color=\"#ff9900\"\u0026gt;opposing Faction\u0026lt;/font\u0026gt;.\\n\\nFlag for PvP inside a Sanctuary.",
+        "DisplayText": "You can only attack other players if they are also \u0026lt;font color=\"#edc63e\"\u0026gt;flagged for PvP\u0026lt;/font\u0026gt; and in an \u0026lt;font color=\"#edc63e\"\u0026gt;opposing Faction\u0026lt;/font\u0026gt;.\\n\\nFlag for PvP inside a Sanctuary.",
         "SecondaryText": "",
         "IconPath": "",
         "MaxDisplayCount": 1,
@@ -332,7 +332,7 @@
     {
         "NotificationId": "Trade_Failure_Not_Enough_Space",
         "DisplayTitle": "Trade Failed",
-        "DisplayText": "The item cannot be transferred because of max space and weight restrictions.",
+        "DisplayText": "Item cannot be transferred because of maximum unique item or weight restrictions.",
         "SecondaryText": "",
         "IconPath": "",
         "MaxDisplayCount": -1,

@@ -2,7 +2,7 @@
     {
         "AbilityID": "Ability_Blunderbuss_ClawShot",
         "DisplayName": "Claw Shot",
-        "Description": "Shoot forward a four pronged claw attached to a chain from the muzzle. The projectile will travel up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;14m\u0026lt;/font\u0026gt; and cannot pull you upwards more than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3m\u0026lt;/font\u0026gt;. \\nIf it connects to an enemy it will deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Blunderbuss_ClawShot_Attack.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;root\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_ClawShot_Root.BaseDuration]}s\u0026lt;/font\u0026gt; before quickly \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;pulling\u0026lt;/font\u0026gt; you towards them. \\n\\nThe pull can be canceled by any ability use or primary fire.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your blunderbuss, this ability inflicts taunt for {[DamageTable.Blunderbuss_ClawShot_Attack.TauntDuration]}s when it hits. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
+        "Description": "Shoot forward a four pronged claw attached to a chain from the muzzle. The projectile will travel up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;14m\u0026lt;/font\u0026gt; and cannot pull you upwards more than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3m\u0026lt;/font\u0026gt;. \\nIf it connects to an enemy it will deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.400000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;root\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.700000]}s\u0026lt;/font\u0026gt; before quickly \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;pulling\u0026lt;/font\u0026gt; you towards them. \\n\\nThe pull can be cancelled by any ability use or primary fire.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your blunderbuss, this ability inflicts taunt for {[4.000000]}s when it hits. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability01.png",
         "StatusEffectIcon": "",
@@ -142,7 +142,7 @@
     {
         "AbilityID": "Blunderbuss_ClawShot_Mod1",
         "DisplayName": "In-and-Out",
-        "Description": "Upon usage, restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_ClawShot_Mod1.Stamina]}\u0026lt;/font\u0026gt; stamina every second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_ClawShot_Mod1.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Upon usage, restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[8.000000]}\u0026lt;/font\u0026gt; stamina every second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability01_Mod01.png",
         "StatusEffectIcon": "",
@@ -282,7 +282,7 @@
     {
         "AbilityID": "Blunderbuss_ClawShot_Mod2",
         "DisplayName": "Combat Readiness",
-        "Description": "Landing a pellet, even if blocked, lowers the cooldown of this ability by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_ClawShot_Mod2.CooldownTimer * -100]}%\u0026lt;/font\u0026gt; each.",
+        "Description": "Landing a pellet, even if blocked, lowers the cooldown of this ability by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.020000 * -100]}%\u0026lt;/font\u0026gt; each.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability01_Mod02.png",
         "StatusEffectIcon": "",
@@ -422,7 +422,7 @@
     {
         "AbilityID": "Blunderbuss_ClawShot_Mod3",
         "DisplayName": "Mobile Overload",
-        "Description": "Successful pulls will automatically grant \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1\u0026lt;/font\u0026gt; loaded ammunition. If you currently have \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2\u0026lt;/font\u0026gt; loaded ammunition this will exceed the max cap and grant a third.",
+        "Description": "Successful pulls will automatically grant \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1\u0026lt;/font\u0026gt; loaded ammunition. If you currently have \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2\u0026lt;/font\u0026gt; loaded ammunition this will exceed the max cap and grant a third.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability01_Mod03.png",
         "StatusEffectIcon": "",
@@ -562,7 +562,7 @@
     {
         "AbilityID": "Ability_Blunderbuss_NetShot",
         "DisplayName": "Net Shot",
-        "Description": "Fire a large net out of the blunderbuss that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Blunderbuss_Net_Shot.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;slows\u0026lt;/font\u0026gt; targets it hits by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_NetShot.MoveSpeedMod * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_NetShot.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;\\n\\nIf standing still or moving backwards, the recoil from this attack will knock you further backwards.\\nIf moving sideways or forwards, you will continue forward unhindered.",
+        "Description": "Fire a large net out of the blunderbuss that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.700000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;slows\u0026lt;/font\u0026gt; targets it hits by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.400000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;\\n\\nIf standing still or moving backwards, the recoil from this attack will knock you further backwards.\\nIf moving sideways or forwards, you will continue forward unhindered.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability02.png",
         "StatusEffectIcon": "",
@@ -702,7 +702,7 @@
     {
         "AbilityID": "Blunderbuss_NetShot_Mod1",
         "DisplayName": "Fast Hands",
-        "Description": "If Net Shot hits a target, reduce its cooldown by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_NetShot_Mod1.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "If Net Shot hits a target, reduce its cooldown by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability02_Mod01.png",
         "StatusEffectIcon": "",
@@ -842,7 +842,7 @@
     {
         "AbilityID": "Blunderbuss_NetShot_Mod3",
         "DisplayName": "Apparatus",
-        "Description": "The net now inflicts a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_NetShot_Upgraded.MoveSpeedMod * -100]}% slow\u0026lt;/font\u0026gt; that degrades to normal move speed over \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_NetShot_Upgraded.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "The net now inflicts a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.500000 * -100]}% slow\u0026lt;/font\u0026gt; that degrades to normal move speed over \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[7.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability02_Mod03.png",
         "StatusEffectIcon": "",
@@ -982,7 +982,7 @@
     {
         "AbilityID": "Blunderbuss_NetShot_Mod2",
         "DisplayName": "Barbed Netting",
-        "Description": "Net Shot's initial hit is reduced to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Blunderbuss_Net_Shot_Upgraded_Final.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. However, it now deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_BarbedNet.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;additional weapon damage as \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleeding\u0026lt;/font\u0026gt; each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_BarbedNet.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Net Shot's initial hit is reduced to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.300000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. However, it now deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.350000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;additional weapon damage as \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleeding\u0026lt;/font\u0026gt; each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability02_Mod02.png",
         "StatusEffectIcon": "",
@@ -1122,7 +1122,7 @@
     {
         "AbilityID": "Ability_Blunderbuss_AzothShrapnelBlast",
         "DisplayName": "Azoth Shrapnel Blast",
-        "Description": "Fire \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;5\u0026lt;/font\u0026gt; shots in a horizontal fan in front of you while pushing yourself backwards. Each shot will deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Blunderbuss_Azoth_Shrapnel.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Every consecutive hit on the same target will deal {[BlunderbussAbilityTable.Ability_Blunderbuss_AzothShrapnelBlast.BaseDamage * -100]}% less damage than the previous hit.)\u0026lt;/font\u0026gt;",
+        "Description": "Fire \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;5\u0026lt;/font\u0026gt; shots in a horizontal fan in front of you while pushing yourself backwards. Each shot will deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.450000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Every consecutive hit on the same target will deal {[-0.200000 * -100]}% less damage than the previous hit.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability05.png",
         "StatusEffectIcon": "",
@@ -1262,7 +1262,7 @@
     {
         "AbilityID": "Blunderbuss_AzothShrapnelBlast_Mod1",
         "DisplayName": "Reach",
-        "Description": "Increase the range of this attack from \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;12m\u0026lt;/font\u0026gt; to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;16m\u0026lt;/font\u0026gt;.",
+        "Description": "Increase the range of this attack from \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;12m\u0026lt;/font\u0026gt; to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;16m\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability05_Mod01.png",
         "StatusEffectIcon": "",
@@ -1402,7 +1402,7 @@
     {
         "AbilityID": "Blunderbuss_AzothShrapnelBlast_Mod2",
         "DisplayName": "Discord",
-        "Description": "Fire \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;4\u0026lt;/font\u0026gt; additional pellets with each use of this ability.",
+        "Description": "Fire \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;4\u0026lt;/font\u0026gt; additional pellets with each use of this ability.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability05_Mod02.png",
         "StatusEffectIcon": "",
@@ -1542,7 +1542,7 @@
     {
         "AbilityID": "Blunderbuss_AzothShrapnelBlast_Mod3",
         "DisplayName": "Refresh",
-        "Description": "Each individual hit from this ability or from the blunderbuss primary fire will lower the cooldown of this ability by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_AzothShrapnelBlast_Mod3.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Each individual hit from this ability or from the blunderbuss primary fire will lower the cooldown of this ability by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.015000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability05_Mod03.png",
         "StatusEffectIcon": "",
@@ -1682,7 +1682,7 @@
     {
         "AbilityID": "Blunderbuss_AzothShrapnelBlast_Mod4",
         "DisplayName": "Azoth Bomb",
-        "Description": "Fire a singular bomb down the center of the fan. This bomb will implant itself in the world and explode dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Blunderbuss_ASB_Bomb.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3m\u0026lt;/font\u0026gt; area after a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1s\u0026lt;/font\u0026gt; delay",
+        "Description": "Fire a singular bomb down the center of the fan. This bomb will implant itself in the world and explode dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3m\u0026lt;/font\u0026gt; area after a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1s\u0026lt;/font\u0026gt; delay.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability05_Mod04.png",
         "StatusEffectIcon": "",
@@ -1822,7 +1822,7 @@
     {
         "AbilityID": "Blunderbuss_DeepLoad",
         "DisplayName": "Deep Load",
-        "Description": "The last shot loaded into the blunderbuss will do \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_DeepLoad.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage.",
+        "Description": "The last shot loaded into the blunderbuss will do \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; increased damage.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive06.png",
         "StatusEffectIcon": "",
@@ -1962,7 +1962,7 @@
     {
         "AbilityID": "Blunderbuss_FortifyCloseRange",
         "DisplayName": "Fortifying Aggression",
-        "Description": "Successful hits within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_FortifyCloseRange.DistFromDefender]}m\u0026lt;/font\u0026gt; grant \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;fortify\u0026lt;/font\u0026gt;, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_FortifyCloseRange.PhysicalArmor * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_FortifyCloseRange.BaseDuration]}s\u0026lt;/font\u0026gt;. ",
+        "Description": "Successful hits within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}m\u0026lt;/font\u0026gt; grant \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;fortify\u0026lt;/font\u0026gt;, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;. ",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive09.png",
         "StatusEffectIcon": "",
@@ -2102,7 +2102,7 @@
     {
         "AbilityID": "Blunderbuss_FutureEndeavors",
         "DisplayName": "Future Endeavors",
-        "Description": "Basic shots restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_FutureEndeavor_Stam.Stamina]}\u0026lt;/font\u0026gt; stamina per pellet hit.",
+        "Description": "Basic shots restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000]}\u0026lt;/font\u0026gt; stamina per pellet hit.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive03.png",
         "StatusEffectIcon": "",
@@ -2242,7 +2242,7 @@
     {
         "AbilityID": "Blunderbuss_Ramp",
         "DisplayName": "Ramp",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Reloads\u0026lt;/font\u0026gt; give you a damage boost of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_Ramp.DMGStandard * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_Ramp.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[Type_StatusEffectData.Blunderbuss_Ramp.StackMax]} stacks.)\u0026lt;/font\u0026gt;",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Reloads\u0026lt;/font\u0026gt; give you a damage boost of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.040000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[4.000000]} stacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive10.png",
         "StatusEffectIcon": "",
@@ -2382,7 +2382,7 @@
     {
         "AbilityID": "Blunderbuss_RunAndGun",
         "DisplayName": "Run and Gun",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Reloading\u0026lt;/font\u0026gt; gives you a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_Run_And_Gun.MoveSpeedMod * 100]}% haste\u0026lt;/font\u0026gt; that lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_Run_And_Gun.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Reloading\u0026lt;/font\u0026gt; gives you a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.400000 * 100]}% haste\u0026lt;/font\u0026gt; that lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive11.png",
         "StatusEffectIcon": "",
@@ -2522,7 +2522,7 @@
     {
         "AbilityID": "Blunderbuss_Unload",
         "DisplayName": "Unload",
-        "Description": "The next shot fired within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_Nine.BaseDuration]}s\u0026lt;/font\u0026gt; after triggering an ability will have \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;8\u0026lt;/font\u0026gt; pellets instead of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;6\u0026lt;/font\u0026gt;.",
+        "Description": "The next shot fired within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt; after triggering an ability will have \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;8\u0026lt;/font\u0026gt; pellets instead of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;6\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ult01.png",
         "StatusEffectIcon": "",
@@ -2662,7 +2662,7 @@
     {
         "AbilityID": "Ability_Blunderbuss_SplittingGrenade",
         "DisplayName": "Splitting Grenade",
-        "Description": "Shoot a grenade out of the blunderbuss that can bounce up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;4\u0026lt;/font\u0026gt; times. \\nThe Splitting Grenade will detonate after \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1.5s\u0026lt;/font\u0026gt; but can be detonated early by reactivating its ability key within this time period. \\n\\nUpon detonation, it will create \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3\u0026lt;/font\u0026gt; mini grenades that will disperse and explode \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1s\u0026lt;/font\u0026gt; after landing, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Blunderbuss_SplittingGrenade.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3m\u0026lt;/font\u0026gt; radius area. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Each successive grenade hit against the same target deals {[BlunderbussAbilityTable.Ability_Blunderbuss_SplittingGrenade.BaseDamage * -100]}% less base damage.)\u0026lt;/font\u0026gt;",
+        "Description": "Shoot a grenade out of the blunderbuss that can bounce up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;4\u0026lt;/font\u0026gt; times. \\nThe Splitting Grenade will detonate after \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1.5s\u0026lt;/font\u0026gt; but can be detonated early by reactivating its ability key within this time period. \\n\\nUpon detonation, it will create \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3\u0026lt;/font\u0026gt; mini grenades that will disperse and explode \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1s\u0026lt;/font\u0026gt; after landing, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.850000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3m\u0026lt;/font\u0026gt; radius area. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Each successive grenade hit against the same target deals {[-0.400000 * -100]}% less base damage.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability04.png",
         "StatusEffectIcon": "",
@@ -2802,7 +2802,7 @@
     {
         "AbilityID": "Blunderbuss_SplittingGrenade_Mod1",
         "DisplayName": "Soften",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_SplittingGrenade_Mod1.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage to targets greater than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_SplittingGrenade_Mod1.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt; increased damage to targets greater than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[50.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability04_Mod01.png",
         "StatusEffectIcon": "",
@@ -2942,7 +2942,7 @@
     {
         "AbilityID": "Blunderbuss_SplittingGrenade_Mod2",
         "DisplayName": "Delayed Escape",
-        "Description": "Any grenade hit grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_SplittingGrenade_Movespeed.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_SplittingGrenade_Movespeed.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Multiple hits will refresh the duration.)\u0026lt;/font\u0026gt;",
+        "Description": "Any grenade hit grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Multiple hits will refresh the duration.)\u0026lt;/font\u0026gt;",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability04_Mod02.png",
         "StatusEffectIcon": "",
@@ -3082,7 +3082,7 @@
     {
         "AbilityID": "Blunderbuss_SplittingGrenade_Mod3",
         "DisplayName": "Incendiary Bursts",
-        "Description": "Splitting Grenade explosions inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;burn\u0026lt;/font\u0026gt; on hit, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_SplittingGrenade_Burn.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_SplittingGrenade_Burn.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Stacks up to {[Type_StatusEffectData.Blunderbuss_SplittingGrenade_Burn.StackMax]} times.)\u0026lt;/font\u0026gt;",
+        "Description": "Splitting Grenade explosions inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;burn\u0026lt;/font\u0026gt; on hit, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Stacks up to {[3.000000]} times.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability04_Mod03.png",
         "StatusEffectIcon": "",
@@ -3222,7 +3222,7 @@
     {
         "AbilityID": "Ability_Blunderbuss_MortarShot",
         "DisplayName": "Mortar Charge",
-        "Description": "Load the blunderbuss with heavy canisters. For the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;15s\u0026lt;/font\u0026gt; or \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3\u0026lt;/font\u0026gt; shots, shots will no longer fire multiple pellets but instead will fire a heavy, fast diving, mortar-style canister that causes a tall explosion upon impact, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Blunderbuss_Mortar_Charge.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3m\u0026lt;/font\u0026gt; area. \\n\\nIf the target is \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Ability_Blunderbuss_MortarShot.DistFromDefender]}m\u0026lt;/font\u0026gt; away or further, they will take \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Ability_Blunderbuss_MortarShot.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage from the mortar.",
+        "Description": "Load the blunderbuss with heavy canisters. For the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;15s\u0026lt;/font\u0026gt; or \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3\u0026lt;/font\u0026gt; shots, shots will no longer fire multiple pellets but instead will fire a heavy, fast diving, mortar-style canister that causes a tall explosion upon impact, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3m\u0026lt;/font\u0026gt; area. \\n\\nIf the target is \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}m\u0026lt;/font\u0026gt; away or further, they will take \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.350000 * 100]}%\u0026lt;/font\u0026gt; increased damage from the mortar.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability06.png",
         "StatusEffectIcon": "",
@@ -3362,7 +3362,7 @@
     {
         "AbilityID": "Blunderbuss_MortarShot_Mod1",
         "DisplayName": "Steady",
-        "Description": "Each hit grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_SmallStam.Stamina]}\u0026lt;/font\u0026gt; stamina.",
+        "Description": "Each hit grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[7.000000]}\u0026lt;/font\u0026gt; stamina.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability06_Mod01.png",
         "StatusEffectIcon": "",
@@ -3502,7 +3502,7 @@
     {
         "AbilityID": "Blunderbuss_MortarShot_Mod2",
         "DisplayName": "Freedom",
-        "Description": "Firing grants a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_Freedom.MoveSpeedMod * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_Freedom.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "Firing grants a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability06_Mod02.png",
         "StatusEffectIcon": "",
@@ -3642,7 +3642,7 @@
     {
         "AbilityID": "Blunderbuss_MortarShot_Mod3",
         "DisplayName": "Streak",
-        "Description": "Gain an extra canister, you can now fire up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;4\u0026lt;/font\u0026gt; shots.",
+        "Description": "Gain an extra canister, you can now fire up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;4\u0026lt;/font\u0026gt; shots.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability06_Mod03.png",
         "StatusEffectIcon": "",
@@ -3782,7 +3782,7 @@
     {
         "AbilityID": "Ability_Blunderbuss_VortexShot",
         "DisplayName": "Blast Shot",
-        "Description": "Blast immense wind out of the blunderbuss \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;knocking down\u0026lt;/font\u0026gt; any target immediately in front of you. Blast Shot deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Blunderbuss_Vortex_Knockback.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your blunderbuss, hits with this ability inflict taunt for {[DamageTable.Blunderbuss_Vortex_Knockback.TauntDuration]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
+        "Description": "Blast immense wind out of the blunderbuss \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;knocking down\u0026lt;/font\u0026gt; any target immediately in front of you. Blast Shot deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your blunderbuss, hits with this ability inflict taunt for {[4.000000]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability03.png",
         "StatusEffectIcon": "",
@@ -3922,7 +3922,7 @@
     {
         "AbilityID": "Blunderbuss_VortexShot_Mod1",
         "DisplayName": "Preparation",
-        "Description": "Blast Shot applies \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;rend\u0026lt;/font\u0026gt;, decreasing armor of all targets affected by this ability by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_Increase_Damage_Taken.PhysicalArmor * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_Increase_Damage_Taken.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Blast Shot applies \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;rend\u0026lt;/font\u0026gt;, decreasing armor of all targets affected by this ability by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability03_Mod01.png",
         "StatusEffectIcon": "",
@@ -4062,7 +4062,7 @@
     {
         "AbilityID": "Blunderbuss_VortexShot_Mod2",
         "DisplayName": "Lingering Flow",
-        "Description": "The area \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;10m\u0026lt;/font\u0026gt; in front of you remains influenced by wind for the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_LingeringFlow.BaseDuration]}s\u0026lt;/font\u0026gt;. You and your allies gain a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_LingeringFlow.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt; move speed bonus while in the area.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;",
+        "Description": "The area \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;10m\u0026lt;/font\u0026gt; in front of you remains influenced by wind for the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[8.000000]}s\u0026lt;/font\u0026gt;. You and your allies gain a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt; move speed bonus while in the area.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ability03_Mod02.png",
         "StatusEffectIcon": "",
@@ -4202,7 +4202,7 @@
     {
         "AbilityID": "Blunderbuss_Artillery",
         "DisplayName": "Artillery",
-        "Description": "Direct damage from abilities is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_Artillery.BaseDamage * 100]}%\u0026lt;/font\u0026gt; if the victim is \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_Artillery.DistFromDefender]}m\u0026lt;/font\u0026gt; or further away.",
+        "Description": "Direct damage from abilities is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; if the victim is \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}m\u0026lt;/font\u0026gt; or further away.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive07.png",
         "StatusEffectIcon": "",
@@ -4342,7 +4342,7 @@
     {
         "AbilityID": "Blunderbuss_Buckshot",
         "DisplayName": "Buckshot",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_Buckshot.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage to any target as long as you have not damaged them in the last \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_Buckshot.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; increased damage to any target as long as you have not damaged them in the last \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[8.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive08.png",
         "StatusEffectIcon": "",
@@ -4377,7 +4377,7 @@
         "OnDeath": false,
         "OnDeathsDoor": false,
         "OnStatusEffectApplied": false,
-        "RequireReaction": null,
+        "RequireReaction": true,
         "NumSuccessfulHits": 0,
         "NumConsecutiveHits": 0,
         "MaxConsecutiveHits": 0,
@@ -4482,7 +4482,7 @@
     {
         "AbilityID": "Blunderbuss_FuturePlanning",
         "DisplayName": "Future Planning",
-        "Description": "Using an ability reduces all other ability cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_FuturePlanning.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Using an ability reduces all other ability cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.040000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive05.png",
         "StatusEffectIcon": "",
@@ -4622,7 +4622,7 @@
     {
         "AbilityID": "Blunderbuss_BiteBack",
         "DisplayName": "Bite Back",
-        "Description": "Every pellet that is a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;headshot\u0026lt;/font\u0026gt; reduces all cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_BiteBack.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Every pellet that is a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;headshot\u0026lt;/font\u0026gt; reduces all cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.005000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive04.png",
         "StatusEffectIcon": "",
@@ -4762,7 +4762,7 @@
     {
         "AbilityID": "Blunderbuss_OverLoad",
         "DisplayName": "Extended Chamber",
-        "Description": "Holding onto \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2\u0026lt;/font\u0026gt; loaded ammunition for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_OverloadTimer.BaseDuration]}s\u0026lt;/font\u0026gt; after a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;reload\u0026lt;/font\u0026gt; will load a 3rd active ammunition.",
+        "Description": "Holding onto \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2\u0026lt;/font\u0026gt; loaded ammunition for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt; after a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;reload\u0026lt;/font\u0026gt; will load a 3rd active ammunition.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive13.png",
         "StatusEffectIcon": "",
@@ -4902,7 +4902,7 @@
     {
         "AbilityID": "Blunderbuss_OnARoll",
         "DisplayName": "On a Roll",
-        "Description": "Triggering an ability grants a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_AbilityRamp.PhysicalArmor * 100]}% fortify\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_AbilityRamp.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Stacks up to {[Type_StatusEffectData.Blunderbuss_AbilityRamp.StackMax]} times.) (Fortify increases armor)\u0026lt;/font\u0026gt;",
+        "Description": "Triggering an ability grants a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.030000 * 100]}% fortify\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;. \\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Stacks up to {[5.000000]} times.) \\n(Fortify increases armor.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive12.png",
         "StatusEffectIcon": "",
@@ -5042,7 +5042,7 @@
     {
         "AbilityID": "Blunderbuss_LastChance",
         "DisplayName": "Last Chance",
-        "Description": "Whenever you take a hit and your health is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_LastChance.MyHealthPercent]}%\u0026lt;/font\u0026gt; gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;fortify\u0026lt;/font\u0026gt;, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_LastChance.PhysicalArmor * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_LastChance.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[Type_StatusEffectData.Blunderbuss_LastChanceCooldown.BaseDuration]}s cooldown)\u0026lt;/font\u0026gt;",
+        "Description": "Whenever you take a hit and your health is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[50.000000]}%\u0026lt;/font\u0026gt; gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;fortify\u0026lt;/font\u0026gt;, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.300000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[30.000000]}s cooldown)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Passive02.png",
         "StatusEffectIcon": "",
@@ -5182,7 +5182,7 @@
     {
         "AbilityID": "Blunderbuss_Charge",
         "DisplayName": "Double Down",
-        "Description": "Once every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Blunderbuss_ChargeCooldownOnCooldown.BaseDuration]}s\u0026lt;/font\u0026gt;, your next ability used will have its cooldown reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BlunderbussAbilityTable.Blunderbuss_Charge.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Once every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}s\u0026lt;/font\u0026gt;, your next ability used will have its cooldown reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.500000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/blunderbuss_Ult02.png",
         "StatusEffectIcon": "",
@@ -5357,7 +5357,7 @@
         "OnDeath": false,
         "OnDeathsDoor": false,
         "OnStatusEffectApplied": false,
-        "RequireReaction": null,
+        "RequireReaction": true,
         "NumSuccessfulHits": 0,
         "NumConsecutiveHits": 0,
         "MaxConsecutiveHits": 0,

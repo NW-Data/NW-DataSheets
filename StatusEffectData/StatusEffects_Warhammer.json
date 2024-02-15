@@ -982,7 +982,7 @@
     {
         "StatusID": "WarHammer_ArmRed20Pct5Sec",
         "DisplayName": "@WarHammer_ArmorReduction_DisplayName",
-        "Description": "Your armor is increased by {[Type_StatusEffectData.WarHammer_ArmRed20Pct5Sec.PhysicalArmor * 100]}%.",
+        "Description": "Your armor is increased by {[-0.200000 * 100]}%.",
         "EffectCategories": "Debuff+ArmorRend+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_RendT3.png",
         "ShowInUITray": true,
@@ -3187,7 +3187,7 @@
     {
         "StatusID": "WarHammer_ArmorBreaker_Rend",
         "DisplayName": "Rend",
-        "Description": "Your armor is reduced by {[Type_StatusEffectData.WarHammer_ArmorBreaker_Rend.PhysicalArmor * -100]}%.",
+        "Description": "Your armor is reduced by {[-0.300000 * -100]}%.",
         "EffectCategories": "Debuff+ArmorRend+Warhammer+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_RendT1.png",
         "ShowInUITray": true,
@@ -3432,7 +3432,7 @@
     {
         "StatusID": "WarHammer_Gavel_Haste",
         "DisplayName": "Haste",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.WarHammer_Gavel_Haste.MoveSpeedMod * 100]}%.",
+        "Description": "Your movement speed is increased by {[0.300000 * 100]}%.",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": true,
@@ -3677,7 +3677,7 @@
     {
         "StatusID": "WarHammer_Pass_Haste",
         "DisplayName": "Haste",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.WarHammer_Pass_Haste.MoveSpeedMod * 100]}%.",
+        "Description": "Your movement speed is increased by {[0.150000 * 100]}%.",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": true,
@@ -3922,7 +3922,7 @@
     {
         "StatusID": "WarHammer_WreckingBall_Fortify",
         "DisplayName": "Fortify",
-        "Description": "Your armor is increased by {[Type_StatusEffectData.WarHammer_WreckingBall_Fortify.PhysicalArmor * 100]}%.",
+        "Description": "Your armor is increased by {[0.200000 * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT3.png",
         "ShowInUITray": true,
@@ -4167,7 +4167,7 @@
     {
         "StatusID": "Warhammer_Pass_HeavyEmpower",
         "DisplayName": "Empower",
-        "Description": "{[Type_StatusEffectData.Warhammer_Pass_HeavyEmpower.DMGStandard * 100]}% more damage for {[Type_StatusEffectData.Warhammer_Pass_HeavyEmpower.BaseDuration]} seconds.",
+        "Description": "{[0.200000 * 100]}% more damage for {[4.000000]} seconds.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,
@@ -4412,7 +4412,7 @@
     {
         "StatusID": "Warhammer_Pass_ExhaustOnHit",
         "DisplayName": "Exhaust",
-        "Description": "Stamina regen rate decreased by {[Type_StatusEffectData.Warhammer_Pass_ExhaustOnHit.StaminaRate * -100]}%.",
+        "Description": "Stamina regen rate decreased by {[-0.200000 * -100]}%.",
         "EffectCategories": "Debuff+Exhaust+Warhammer+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_ExhaustT3.png",
         "ShowInUITray": true,
@@ -5147,7 +5147,7 @@
     {
         "StatusID": "WarHammer_ClearOut_FortifyBuff",
         "DisplayName": "Fortify",
-        "Description": "Your armor is increased by {[Type_StatusEffectData.WarHammer_ClearOut_FortifyBuff.PhysicalArmor * 100]}%.",
+        "Description": "Your armor is increased by {[0.200000 * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT3.png",
         "ShowInUITray": true,
@@ -5484,7 +5484,7 @@
         "OnlyChangeOwnedStatusEffects": "",
         "Afflictions": "",
         "OnHitAffixes": "",
-        "EquipAbility": "Passive_WarHammer_CrowdCrusher_RangeAbsorbSprint",
+        "EquipAbility": "",
         "UseSourceWeaponForAbilityEffect": "",
         "IsNegative": null,
         "RespecTradeskills": "",
@@ -5882,7 +5882,7 @@
     {
         "StatusID": "WarHammer_ClearOut_Haste",
         "DisplayName": "Haste",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.WarHammer_ClearOut_Haste.MoveSpeedMod * 100]}%.",
+        "Description": "Your movement speed is increased by {[0.300000 * 100]}%.",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": true,
@@ -5896,7 +5896,7 @@
         "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
-        "BaseDuration": 3,
+        "BaseDuration": 4,
         "TickRate": 1,
         "DelayInitialTick": "",
         "TickCondition": "",
@@ -6127,7 +6127,7 @@
     {
         "StatusID": "WarHammer_Shockwave_Weaken",
         "DisplayName": "Weaken",
-        "Description": "Your outgoing damage is reduced by {[Type_StatusEffectData.WarHammer_Shockwave_Weaken.DMGStandard * 100]}%.",
+        "Description": "Your outgoing damage is reduced by {[-0.100000 * 100]}%.",
         "EffectCategories": "Debuff+Weaken+Warhammer+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_WeakenT3.png",
         "ShowInUITray": true,
@@ -6372,7 +6372,7 @@
     {
         "StatusID": "WarHammer_Shockwave_Stun",
         "DisplayName": "Stun",
-        "Description": "Stunned for {[Type_StatusEffectData.WarHammer_Shockwave_Stun.BaseDuration]} seconds. Removed by damage.",
+        "Description": "Stunned for {[2.000000]} seconds. Removed by damage.",
         "EffectCategories": "Debuff+Stun+Warhammer+CC",
         "PlaceholderIcon": "lyshineui/images/status/SE_Stun.png",
         "ShowInUITray": true,
@@ -6617,7 +6617,7 @@
     {
         "StatusID": "WarHammer_Ult_SlowOnCC",
         "DisplayName": "Aftershock",
-        "Description": "Your movement speed is reduced by {[Type_StatusEffectData.WarHammer_Ult_SlowOnCC.MoveSpeedMod * -100]}%.",
+        "Description": "Your movement speed is reduced by {[-0.200000 * -100]}%.",
         "EffectCategories": "Debuff+Slow+Warhammer+CC",
         "PlaceholderIcon": "lyshineui/images/status/SE_SlowT5.png",
         "ShowInUITray": true,

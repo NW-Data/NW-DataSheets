@@ -59,40 +59,40 @@
         "FactionControlBuffID": "Taxes_Crafting_Modifier",
         "IsTerritoryBuff": false,
         "Value": 0.05,
-        "Name": "Crafting Taxes",
-        "Description": "Decrease Crafting Taxes {value}",
+        "Name": "Crafting Fees",
+        "Description": "Decrease Crafting Fees {value}",
         "Comments": ""
     },
     {
         "FactionControlBuffID": "Taxes_Refining_Modifier",
         "IsTerritoryBuff": false,
         "Value": 0.05,
-        "Name": "Refining Taxes",
-        "Description": "Decrease Refining Taxes {value}",
+        "Name": "Refining Fees",
+        "Description": "Decrease Refining Fees {value}",
         "Comments": ""
     },
     {
         "FactionControlBuffID": "Taxes_Trading_Modifier",
         "IsTerritoryBuff": false,
         "Value": 0.05,
-        "Name": "Trading Taxes",
-        "Description": "Decrease Trading Taxes {value}",
+        "Name": "Trading Fees",
+        "Description": "Decrease Trading Fees {value}",
         "Comments": ""
     },
     {
         "FactionControlBuffID": "Taxes_Housing_Modifier",
         "IsTerritoryBuff": false,
         "Value": 0.05,
-        "Name": "Housing Taxes",
-        "Description": "Decrease Housing Taxes {value}",
+        "Name": "Housing Fees",
+        "Description": "Decrease Housing Fees {value}",
         "Comments": ""
     },
     {
         "FactionControlBuffID": "Taxes_Global_Modifier",
         "IsTerritoryBuff": false,
         "Value": 0.1,
-        "Name": "Global Tax Reduction",
-        "Description": "Decreases global tax values by {value}.",
+        "Name": "Global Fee Reduction",
+        "Description": "Decreases global fee values by {value}.",
         "Comments": "Percentage decrease to global taxes for members of that faction."
     },
     {

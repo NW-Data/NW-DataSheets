@@ -2,7 +2,7 @@
     {
         "AbilityID": "Ability_Spear_Javelin",
         "DisplayName": "Javelin",
-        "Description": "Throw your spear, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.2H_Spear_Javelin.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;staggering\u0026lt;/font\u0026gt; on hit.",
+        "Description": "Throw your spear, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.800000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;staggering\u0026lt;/font\u0026gt; on hit.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability01.png",
         "StatusEffectIcon": "",
@@ -140,7 +140,7 @@
     {
         "AbilityID": "Ability_Spear_Javelin_Reaction_Upgrade",
         "DisplayName": "Forceful Impact",
-        "Description": "Targets are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;knocked down\u0026lt;/font\u0026gt; on hit.",
+        "Description": "Targets are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;knocked down\u0026lt;/font\u0026gt; on hit.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability01_Mod01.png",
         "StatusEffectIcon": "",
@@ -278,7 +278,7 @@
     {
         "AbilityID": "Ability_Spear_Javelin_CDROnHeadshot",
         "DisplayName": "Refreshing Precision",
-        "Description": "Headshots reduce Javelin's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;cooldown\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_Javelin_CDROnHeadshot.cooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Headshots reduce Javelin's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;cooldown\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.250000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability01_Mod02.png",
         "StatusEffectIcon": "",
@@ -416,7 +416,7 @@
     {
         "AbilityID": "Ability_Spear_Javelin_BonusDmg_LongRng",
         "DisplayName": "Deadly Distance",
-        "Description": "Javelin deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2.5%\u0026lt;/font\u0026gt; bonus damage per meter traveled. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 100%.)\u0026lt;/font\u0026gt;",
+        "Description": "Javelin deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2.5%\u0026lt;/font\u0026gt; bonus damage per meter traveled. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 100%.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability01_Mod03.png",
         "StatusEffectIcon": "",
@@ -554,7 +554,7 @@
     {
         "AbilityID": "Ability_Spear_Sweep",
         "DisplayName": "Sweep",
-        "Description": "Sweep the target's legs, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.2H_Spear_Sweep.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and causing a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;knock down\u0026lt;/font\u0026gt;.",
+        "Description": "Sweep the target's legs, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.450000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and causing a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;knock down\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability02.png",
         "StatusEffectIcon": "",
@@ -692,7 +692,7 @@
     {
         "AbilityID": "Ability_Spear_Sweep_Grit",
         "DisplayName": "Tenacious Sweep",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Grit\u0026lt;/font\u0026gt; is now active during the attack.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Grit\u0026lt;/font\u0026gt; is now active during the attack.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability02_Mod01.png",
         "StatusEffectIcon": "",
@@ -830,7 +830,7 @@
     {
         "AbilityID": "Ability_Spear_Sweep_FollowupAttack",
         "DisplayName": "Coup de Grâce",
-        "Description": "Press basic attack during Sweep to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;follow up\u0026lt;/font\u0026gt; with a heavy stab that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.2H_Spear_Sweep_Finish.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
+        "Description": "Press basic attack during Sweep to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;follow up\u0026lt;/font\u0026gt; with a heavy stab that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability02_Mod02.png",
         "StatusEffectIcon": "",
@@ -968,7 +968,7 @@
     {
         "AbilityID": "Ability_Spear_Cyclone",
         "DisplayName": "Cyclone",
-        "Description": "Perform a spin attack that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.2H_Spear_Cyclone.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to targets within a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3m\u0026lt;/font\u0026gt; radius, and applies a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Cyclone_Slow.MoveSpeedMod * -100]}% slow\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Cyclone_Slow.BaseDuration]}s\u0026lt;/font\u0026gt;. This ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt;.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Slow reduces target's movement speed.)\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your spear, hits with this ability inflict taunt for {[DamageTable.2H_Spear_Cyclone.TauntDuration]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
+        "Description": "Perform a spin attack that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.650000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to targets within a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3m\u0026lt;/font\u0026gt; radius, and applies a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.300000 * -100]}% slow\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;. This ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Slow reduces target's movement speed.)\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your spear, hits with this ability inflict taunt for {[2.000000]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability03.png",
         "StatusEffectIcon": "",
@@ -1106,7 +1106,7 @@
     {
         "AbilityID": "Ability_Spear_Cyclone_BonusStaminaOnMultiHit",
         "DisplayName": "Invigorating Combo",
-        "Description": "Restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_Cyclone_BonusStaminaOnMultiHit.Stamina]}\u0026lt;/font\u0026gt; stamina per target hit.",
+        "Description": "Restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[25.000000]}\u0026lt;/font\u0026gt; stamina per target hit.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability03_Mod01.png",
         "StatusEffectIcon": "",
@@ -1244,7 +1244,7 @@
     {
         "AbilityID": "Ability_Spear_Cyclone_Grit",
         "DisplayName": "Strong Momentum",
-        "Description": "Cyclone now \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;pushes\u0026lt;/font\u0026gt; the target back \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.2H_Spear_Cyclone_Pushback.ImpactDistanceY]}m\u0026lt;/font\u0026gt;.",
+        "Description": "Cyclone now \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;pushes\u0026lt;/font\u0026gt; the target back \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}m\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability03_Mod02.png",
         "StatusEffectIcon": "",
@@ -1382,7 +1382,7 @@
     {
         "AbilityID": "Ability_Spear_BonusHvyDmgConsec",
         "DisplayName": "Deadly Consistency",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_BonusHvyDmgConsec.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage on consecutive heavy attacks against a single target. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[SpearAbilityTable.Ability_Spear_BonusHvyDmgConsec.MaxConsecutiveHits]} stacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; increased damage on consecutive heavy attacks against a single target. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[3.000000]} stacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive01.png",
         "StatusEffectIcon": "",
@@ -1520,7 +1520,7 @@
     {
         "AbilityID": "Ability_Spear_BonusCritChanceAtRng",
         "DisplayName": "Deadly Reach",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Critical chance\u0026lt;/font\u0026gt; is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_BonusCritChanceAtRng.CritChance * 100]}%\u0026lt;/font\u0026gt; when attacking targets that are at least \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3m\u0026lt;/font\u0026gt; away.",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Critical chance\u0026lt;/font\u0026gt; is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; when attacking targets that are at least \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3m\u0026lt;/font\u0026gt; away.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive02.png",
         "StatusEffectIcon": "",
@@ -1658,7 +1658,7 @@
     {
         "AbilityID": "Ability_Spear_CDROnHvyHit",
         "DisplayName": "Refreshing Reach",
-        "Description": "Successful heavy attacks reduce all spear \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;cooldowns\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_CDROnHvyHit.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 1 reduction per attack.)\u0026lt;/font\u0026gt;",
+        "Description": "Successful heavy attacks reduce all spear \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;cooldowns\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.150000 * -100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 1 reduction per attack.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive03.png",
         "StatusEffectIcon": "",
@@ -1796,7 +1796,7 @@
     {
         "AbilityID": "Ability_Spear_ReducedDodgeStamCost",
         "DisplayName": "Evasive Maneuvers",
-        "Description": "Dodging consumes \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;20%\u0026lt;/font\u0026gt; less stamina for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_ReducedDodgeStamCost.BaseDuration]}s\u0026lt;/font\u0026gt; after a successful hit.",
+        "Description": "Dodging consumes \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;20%\u0026lt;/font\u0026gt; less stamina for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt; after a successful hit.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive04.png",
         "StatusEffectIcon": "",
@@ -1934,7 +1934,7 @@
     {
         "AbilityID": "Ability_Spear_BonusStaminaOnCrit",
         "DisplayName": "Invigorating Crits",
-        "Description": "Restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_BonusStaminaOnCrit.Stamina]}\u0026lt;/font\u0026gt; stamina on critical hits.",
+        "Description": "Restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[20.000000]}\u0026lt;/font\u0026gt; stamina on critical hits.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive05.png",
         "StatusEffectIcon": "",
@@ -2072,7 +2072,7 @@
     {
         "AbilityID": "Ability_Spear_BonusDmgVsKnockedDown",
         "DisplayName": "Merciless Strength",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_BonusDmgVsKnockedDown.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage against \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;knocked down\u0026lt;/font\u0026gt; targets.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt; increased damage against \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;knocked down\u0026lt;/font\u0026gt; targets.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive06.png",
         "StatusEffectIcon": "",
@@ -2210,7 +2210,7 @@
     {
         "AbilityID": "Ability_Spear_FortifyOnHvyHit",
         "DisplayName": "Defensive Stance",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;fortify\u0026lt;/font\u0026gt; after successful heavy attacks, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_FortifyOnHvyHit.PhysicalArmor * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_FortifyOnHvyHit.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;fortify\u0026lt;/font\u0026gt; after successful heavy attacks, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive07.png",
         "StatusEffectIcon": "",
@@ -2348,7 +2348,7 @@
     {
         "AbilityID": "Ability_Spear_BonusStamRegenOnLowStam",
         "DisplayName": "Strong Conditioning",
-        "Description": "Stamina regeneration rate is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_BonusStamRegenOnLowStam.StaminaRate * 100]}%\u0026lt;/font\u0026gt; when your stamina is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;50%\u0026lt;/font\u0026gt;.",
+        "Description": "Stamina regeneration rate is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.300000 * 100]}%\u0026lt;/font\u0026gt; when your stamina is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;50%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive08.png",
         "StatusEffectIcon": "",
@@ -2486,7 +2486,7 @@
     {
         "AbilityID": "Ability_Spear_BonusDmgMaxStamina",
         "DisplayName": "Reserved Strength",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_BonusDmgMaxStamina.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage while stamina is full.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt; increased damage while stamina is full.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Ult01.png",
         "StatusEffectIcon": "",
@@ -2624,7 +2624,7 @@
     {
         "AbilityID": "Ability_Spear_Skewer",
         "DisplayName": "Skewer",
-        "Description": "Rush forward and skewer your target, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.2H_Spear_Skewer_Stab.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and applying \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Bleed\u0026lt;/font\u0026gt; deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Skewer_Bleed.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Skewer_Bleed.TickRate]}s\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Skewer_Bleed.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Rush forward and skewer your target, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.250000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and applying \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Bleed\u0026lt;/font\u0026gt; deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000]}s\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability04.png",
         "StatusEffectIcon": "",
@@ -2762,7 +2762,7 @@
     {
         "AbilityID": "Ability_Spear_Skewer_BonusDmgVsMaxHP",
         "DisplayName": "Deadly Ambush",
-        "Description": "Skewer deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_Skewer_BonusDmgVsMaxHP.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage against targets that have full health.",
+        "Description": "Skewer deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; increased damage against targets that have full health.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability04_Mod01.png",
         "StatusEffectIcon": "",
@@ -2900,7 +2900,7 @@
     {
         "AbilityID": "Ability_Spear_Skewer_EmpowerOnCrit",
         "DisplayName": "Follow Through",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;empower\u0026lt;/font\u0026gt; if Skewer critical hits, increasing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Skewer_EmpowerOnCrit.DMGThrust * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Skewer_EmpowerOnCrit.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;empower\u0026lt;/font\u0026gt; if Skewer critical hits, increasing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability04_Mod02.png",
         "StatusEffectIcon": "",
@@ -3038,7 +3038,7 @@
     {
         "AbilityID": "Ability_Spear_Skewer_BonusBleedDuration",
         "DisplayName": "Deep Wound",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Bleed\u0026lt;/font\u0026gt; duration increased to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Bleed\u0026lt;/font\u0026gt; duration increased to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[15.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability04_Mod03.png",
         "StatusEffectIcon": "",
@@ -3176,7 +3176,7 @@
     {
         "AbilityID": "Ability_Spear_Perforate",
         "DisplayName": "Perforate",
-        "Description": "Execute \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3\u0026lt;/font\u0026gt; quick piercing strikes that each deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.2H_Spear_Perforate.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and apply \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;rend\u0026lt;/font\u0026gt;, reducing the target's armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Perforate_Rend.PhysicalArmor * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Perforate_Rend.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[Type_StatusEffectData.Spear_Perforate_Rend.StackMax]} stacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Execute \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3\u0026lt;/font\u0026gt; quick piercing strikes that each deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.800000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and apply \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;rend\u0026lt;/font\u0026gt;, reducing the target's armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[3.000000]} stacks.)\u0026lt;/font\u0026gt;\\n\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;Perforate can be block/dodge canceled after the 2nd attack.\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability05.png",
         "StatusEffectIcon": "",
@@ -3314,7 +3314,7 @@
     {
         "AbilityID": "Ability_Spear_Perforate_BonusRend",
         "DisplayName": "Rupturing Strikes",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Rend\u0026lt;/font\u0026gt; increased to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Perforate_Rend_Upgrade.PhysicalArmor * -100]}%\u0026lt;/font\u0026gt; per strike against targets above \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_Perforate_BonusRend.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Rend\u0026lt;/font\u0026gt; increased to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; per strike against targets above \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[50.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability05_Mod01.png",
         "StatusEffectIcon": "",
@@ -3452,7 +3452,7 @@
     {
         "AbilityID": "Ability_Spear_Perforate_StaggerOnEnd",
         "DisplayName": "Impactful Strikes",
-        "Description": "Each attack inflicts a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;weaken\u0026lt;/font\u0026gt; to the target, reducing target's outgoing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Perforate_WeakenStack.DMGStandard * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_Perforate_WeakenStack.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[Type_StatusEffectData.Spear_Perforate_WeakenStack.StackMax]} stacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Each attack inflicts a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;weaken\u0026lt;/font\u0026gt; to the target, reducing target's outgoing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[3.000000]} stacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability05_Mod02.png",
         "StatusEffectIcon": "",
@@ -3590,7 +3590,7 @@
     {
         "AbilityID": "Ability_Spear_VaultKick",
         "DisplayName": "Vault Kick",
-        "Description": "Use your spear to vault forward and kick your target, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.2H_Spear_VaultKick.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;staggering\u0026lt;/font\u0026gt; them. Applies \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;stun\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_VaultKick_Stun.BaseDuration]}s\u0026lt;/font\u0026gt;.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your spear, this ability inflicts taunt for {[DamageTable.2H_Spear_VaultKick.TauntDuration]}s when it hits. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
+        "Description": "Use your spear to vault forward and kick your target, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.750000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;staggering\u0026lt;/font\u0026gt; them. Applies \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;stun\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.500000]}s\u0026lt;/font\u0026gt;.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your spear, this ability inflicts taunt for {[2.000000]}s when it hits. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability06.png",
         "StatusEffectIcon": "",
@@ -3728,7 +3728,7 @@
     {
         "AbilityID": "Ability_Spear_VaultKick_EmpowerVsLowHP",
         "DisplayName": "Relentless Blows",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;empower\u0026lt;/font\u0026gt; after successful hits on targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_VaultKick_EmpowerVsLowHP.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health, increasing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_VaultKick_EmpowerVsLowHP.DMGThrust * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_VaultKick_EmpowerVsLowHP.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;empower\u0026lt;/font\u0026gt; after successful hits on targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[50.000000]}%\u0026lt;/font\u0026gt; health, increasing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability06_Mod01.png",
         "StatusEffectIcon": "",
@@ -3866,7 +3866,7 @@
     {
         "AbilityID": "Ability_Spear_VaultKick_CDROnHit",
         "DisplayName": "Continuous Motion",
-        "Description": "Cooldowns for other spear abilities are reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_VaultKick_CDROnHit.cooldownTimer * -100]}%\u0026lt;/font\u0026gt; on successful hit. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 1 reduction per ability use.)\u0026lt;/font\u0026gt;",
+        "Description": "Cooldowns for other spear abilities are reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.300000 * -100]}%\u0026lt;/font\u0026gt; on successful hit. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 1 reduction per ability use.)\u0026lt;/font\u0026gt;",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability06_Mod02.png",
         "StatusEffectIcon": "",
@@ -4004,7 +4004,7 @@
     {
         "AbilityID": "Ability_Spear_BonusCritChanceOnLight",
         "DisplayName": "Precise Jabs",
-        "Description": "Light attacks have a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_BonusCritChanceOnLight.CritChance * 100]}%\u0026lt;/font\u0026gt; increased \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;critical chance\u0026lt;/font\u0026gt;.",
+        "Description": "Light attacks have a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.050000 * 100]}%\u0026lt;/font\u0026gt; increased \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;critical chance\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive09.png",
         "StatusEffectIcon": "",
@@ -4142,7 +4142,7 @@
     {
         "AbilityID": "Ability_Spear_CDROnLight",
         "DisplayName": "Refreshing Jabs",
-        "Description": "All spear ability \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;cooldowns\u0026lt;/font\u0026gt; are reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_CDROnLight.cooldownTimer * -100]}%\u0026lt;/font\u0026gt; on the second hit of the light attack chain. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 1 reduction per attack.)\u0026lt;/font\u0026gt;",
+        "Description": "All spear ability \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;cooldowns\u0026lt;/font\u0026gt; are reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; on the second hit of the light attack chain. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 1 reduction per attack.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive10.png",
         "StatusEffectIcon": "",
@@ -4280,7 +4280,7 @@
     {
         "AbilityID": "Ability_Spear_SlowOnLightVsLowHP",
         "DisplayName": "Crippling Jabs",
-        "Description": "The last hit of the light attack chain applies \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_SlowOnLightVsLowHP.MoveSpeedMod * -100]}% slow\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_SlowOnLightVsLowHP.BaseDuration]}s\u0026lt;/font\u0026gt; to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_SlowOnLightVsLowHP.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "The last hit of the light attack chain applies \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.300000 * -100]}% slow\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt; to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}%\u0026lt;/font\u0026gt; health. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive11.png",
         "StatusEffectIcon": "",
@@ -4418,7 +4418,7 @@
     {
         "AbilityID": "Ability_Spear_BonusDmgVsLowHP",
         "DisplayName": "Finishing Blows",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_BonusDmgVsLowHP.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage against targets with less than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_BonusDmgVsLowHP.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; increased damage against targets with less than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive12.png",
         "StatusEffectIcon": "",
@@ -4556,7 +4556,7 @@
     {
         "AbilityID": "Ability_Spear_BonusDmgVsGrit",
         "DisplayName": "Unerring Precision",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_BonusDmgVsGrit.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage against targets with active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt;.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; increased damage against targets with active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive13.png",
         "StatusEffectIcon": "",
@@ -4694,7 +4694,7 @@
     {
         "AbilityID": "Ability_Spear_CDROnHitAfterDodge",
         "DisplayName": "Aggressive Maneuvers",
-        "Description": "The first successful hit with an ability within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Spear_CDROnHitAfterDodge.BaseDuration]}s\u0026lt;/font\u0026gt; of dodging reduces all spear cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_CDROnHitAfterDodge.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 1 reduction per ability use.)\u0026lt;/font\u0026gt;",
+        "Description": "The first successful hit with an ability within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt; of dodging reduces all spear cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 1 reduction per ability use.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive14.png",
         "StatusEffectIcon": "",
@@ -4832,7 +4832,7 @@
     {
         "AbilityID": "Ability_Spear_ExtendDebuffOnCrit",
         "DisplayName": "Exacerbating Crits",
-        "Description": "Critical hits extend the duration of your spear \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuffs\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_ExtendDebuffOnCrit.TargetStatusEffectDurationMult * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Critical hits extend the duration of your spear \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuffs\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive15.png",
         "StatusEffectIcon": "",
@@ -4970,7 +4970,7 @@
     {
         "AbilityID": "Ability_Spear_BonusCritChanceVsBleed",
         "DisplayName": "Exposed Wounds",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Critical chance\u0026lt;/font\u0026gt; is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_BonusCritChanceVsBleed.CritChance * 100]}%\u0026lt;/font\u0026gt; when attacking a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleeding\u0026lt;/font\u0026gt; target.",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Critical chance\u0026lt;/font\u0026gt; is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; when attacking a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleeding\u0026lt;/font\u0026gt; target.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive16.png",
         "StatusEffectIcon": "",
@@ -5108,7 +5108,7 @@
     {
         "AbilityID": "Ability_Spear_BonusDmgVsDebuff",
         "DisplayName": "Exploited Weakness",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpearAbilityTable.Ability_Spear_BonusDmgVsDebuff.BaseDamage * 100]}%\u0026lt;/font\u0026gt; bonus damage for each \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt; on your target. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 30%.)\u0026lt;/font\u0026gt;",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; bonus damage for each \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt; on your target. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 30%.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Ult02.png",
         "StatusEffectIcon": "",

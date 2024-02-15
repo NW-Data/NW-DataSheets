@@ -2445,7 +2445,7 @@
     },
     {
         "VitalsCategoryID": "AncientGuardian_Bowman_IceVariant_Raid10_Named",
-        "DisplayName": "Named Bowman",
+        "DisplayName": "Frost",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_AncientGuardian_Bowman_IceVariant_Raid10_Named\"\u003eAncientGuardian_Bowman_IceVariant_Raid10_Named\u003c/string\u003e",
@@ -2523,7 +2523,7 @@
     },
     {
         "VitalsCategoryID": "AncientGuardian_Greatsword_IceVariant_Raid10_Named",
-        "DisplayName": "Named Great Sword",
+        "DisplayName": "Rime",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_AncientGuardian_Greatsword_IceVariant_Raid10_Named\"\u003eAncientGuardian_Greatsword_IceVariant_Raid10_Named\u003c/string\u003e",
@@ -6345,7 +6345,7 @@
     },
     {
         "VitalsCategoryID": "AncientGuardian_Spearman_IceVariant_Raid10_Named",
-        "DisplayName": "Named Spearman",
+        "DisplayName": "Verglas",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_AncientGuardian_Spearman_IceVariant_Raid10_Named\"\u003eAncientGuardian_Spearman_IceVariant_Raid10_Named\u003c/string\u003e",
@@ -6527,7 +6527,7 @@
     },
     {
         "VitalsCategoryID": "AncientGuardian_Warhammer_IceVariant_Raid10_Named",
-        "DisplayName": "Named Warhammer",
+        "DisplayName": "Glacier",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_AncientGuardian_Warhammer_IceVariant_Raid10_Named\"\u003eAncientGuardian_Warhammer_IceVariant_Raid10_Named\u003c/string\u003e",
@@ -7793,6 +7793,19 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_AnubianGuardian_Horus_16BS02f\"\u003eAnubianGuardian_Horus_16BS02f\u003c/string\u003e",
         "GroupVitalsCategoryId": "Radiant",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "AnubianGuardian_Horus_Elite_Named_01",
+        "DisplayName": "Thunder Antaeus Atumnem",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_AnubianGuardian_Horus_Elite_Named_01\"\u003eAnubianGuardian_Horus_Elite_Named_01\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Generic",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
@@ -13521,7 +13534,7 @@
     },
     {
         "VitalsCategoryID": "Boar_08QP02",
-        "DisplayName": "Thunder Cradle Swine",
+        "DisplayName": "Tiaowen Shan Swine",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Boar_08QP02\"\u003eBoar_08QP02\u003c/string\u003e",
@@ -18825,7 +18838,7 @@
     },
     {
         "VitalsCategoryID": "Damned_1H_Swordsman_M-F_07SM03",
-        "DisplayName": "Warrift Soldier",
+        "DisplayName": "Redguard Soldier",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_1H_Swordsman_M-F_07SM03\"\u003eDamned_1H_Swordsman_M-F_07SM03\u003c/string\u003e",
@@ -18872,8 +18885,8 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\leather\\male_damnedleather_var01_matgroup.mtl",
-        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\leather\\female_damnedLeather_var01_matGroup.mtl"
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Damned_1H_Swordsman_M-F_08QP08",
@@ -19618,7 +19631,7 @@
     },
     {
         "VitalsCategoryID": "Damned_Acolyte_07SM05a",
-        "DisplayName": "Warrift Vicar",
+        "DisplayName": "Redguard Vicar",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Acolyte_07SM05a\"\u003eDamned_Acolyte_07SM05a\u003c/string\u003e",
@@ -20138,7 +20151,7 @@
     },
     {
         "VitalsCategoryID": "Damned_Axeman_M-F_07SM01",
-        "DisplayName": "Warrift Patroller",
+        "DisplayName": "Redguard Patroller",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Axeman_M-F_07SM01\"\u003eDamned_Axeman_M-F_07SM01\u003c/string\u003e",
@@ -20151,7 +20164,7 @@
     },
     {
         "VitalsCategoryID": "Damned_Axeman_M-F_07SM05a",
-        "DisplayName": "Warrift Patroller",
+        "DisplayName": "Redguard Patroller",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Axeman_M-F_07SM05a\"\u003eDamned_Axeman_M-F_07SM05a\u003c/string\u003e",
@@ -20775,7 +20788,7 @@
     },
     {
         "VitalsCategoryID": "Damned_Bowman_M-F_07SM01",
-        "DisplayName": "Warrift Bowman",
+        "DisplayName": "Redguard Bowman",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Bowman_M-F_07SM01\"\u003eDamned_Bowman_M-F_07SM01\u003c/string\u003e",
@@ -20788,7 +20801,7 @@
     },
     {
         "VitalsCategoryID": "Damned_Bowman_M-F_07SM05a",
-        "DisplayName": "Warrift Archer",
+        "DisplayName": "Redguard Archer",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Bowman_M-F_07SM05a\"\u003eDamned_Bowman_M-F_07SM05a\u003c/string\u003e",
@@ -20861,8 +20874,8 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var02_matGroup.mtl",
-        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var02_matGroup.mtl"
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Damned_Commander",
@@ -22863,8 +22876,8 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var02_matGroup.mtl",
-        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var02_matGroup.mtl"
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Damned_Rifleman_M-F_07SM06b",
@@ -22876,8 +22889,8 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var02_matGroup.mtl",
-        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var02_matGroup.mtl"
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Damned_Rifleman_M-F_07SM06c",
@@ -22889,8 +22902,8 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var02_matGroup.mtl",
-        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var02_matGroup.mtl"
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Damned_Rifleman_M-F_07SM06d",
@@ -22902,8 +22915,8 @@
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var02_matGroup.mtl",
-        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var02_matGroup.mtl"
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
     },
     {
         "VitalsCategoryID": "Damned_Rifleman_M-F_07SM08",
@@ -24272,7 +24285,7 @@
     },
     {
         "VitalsCategoryID": "Damned_Villager_Hammer_08QP02",
-        "DisplayName": "Thunder Cradle Worker",
+        "DisplayName": "Tiaowen Shan Worker",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Hammer_08QP02\"\u003eDamned_Villager_Hammer_08QP02\u003c/string\u003e",
@@ -26781,7 +26794,7 @@
     },
     {
         "VitalsCategoryID": "Damned_Villager_Rake_07SM01",
-        "DisplayName": "Warrift Peon",
+        "DisplayName": "Redguard Proletarian",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Rake_07SM01\"\u003eDamned_Villager_Rake_07SM01\u003c/string\u003e",
@@ -27262,7 +27275,7 @@
     },
     {
         "VitalsCategoryID": "Damned_Villager_Sickle_07SM03",
-        "DisplayName": "Warrift Scrounger",
+        "DisplayName": "Redguard Scrounger",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Sickle_07SM03\"\u003eDamned_Villager_Sickle_07SM03\u003c/string\u003e",
@@ -27288,7 +27301,7 @@
     },
     {
         "VitalsCategoryID": "Damned_Villager_Sickle_07SM08",
-        "DisplayName": "Warrift Scrounger",
+        "DisplayName": "Redguard Scrounger",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Damned_Villager_Sickle_07SM08\"\u003eDamned_Villager_Sickle_07SM08\u003c/string\u003e",
@@ -38819,7 +38832,7 @@
     },
     {
         "VitalsCategoryID": "Dynasty_Musketeer_08QP02",
-        "DisplayName": "Thunder Cradle Musketeer",
+        "DisplayName": "Tiaowen Shan Musketeer",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Musketeer_08QP02\"\u003eDynasty_Musketeer_08QP02\u003c/string\u003e",
@@ -39027,7 +39040,7 @@
     },
     {
         "VitalsCategoryID": "Dynasty_Spearman_08QP02",
-        "DisplayName": "Thunder Cradle Spear Captain",
+        "DisplayName": "Tiaowen Shan Spear Captain",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Spearman_08QP02\"\u003eDynasty_Spearman_08QP02\u003c/string\u003e",
@@ -39157,7 +39170,7 @@
     },
     {
         "VitalsCategoryID": "Dynasty_Spearman_Named_08QP02",
-        "DisplayName": "Dimethicone",
+        "DisplayName": "Captain Ren",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Spearman_Named_08QP02\"\u003eDynasty_Spearman_Named_08QP02\u003c/string\u003e",
@@ -39248,7 +39261,7 @@
     },
     {
         "VitalsCategoryID": "Dynasty_Summoner_08QP02",
-        "DisplayName": "Thunder Cradle Summoner",
+        "DisplayName": "Tiaowen Shan Summoner",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Summoner_08QP02\"\u003eDynasty_Summoner_08QP02\u003c/string\u003e",
@@ -39560,7 +39573,7 @@
     },
     {
         "VitalsCategoryID": "Dynasty_Warrior_08QP02",
-        "DisplayName": "Thunder Cradle Warrior",
+        "DisplayName": "Tiaowen Shan Warrior",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Warrior_08QP02\"\u003eDynasty_Warrior_08QP02\u003c/string\u003e",
@@ -39755,7 +39768,7 @@
     },
     {
         "VitalsCategoryID": "Dynasty_Warrior_Named_08QP02",
-        "DisplayName": "Legarath",
+        "DisplayName": "Colonel Shang",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Dynasty_Warrior_Named_08QP02\"\u003eDynasty_Warrior_Named_08QP02\u003c/string\u003e",
@@ -41874,7 +41887,7 @@
     },
     {
         "VitalsCategoryID": "Elk_Stag_Corrupted_07SM03",
-        "DisplayName": "Warrift Stag",
+        "DisplayName": "Redguard Stag",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Elk_Stag_Corrupted_07SM03\"\u003eElk_Stag_Corrupted_07SM03\u003c/string\u003e",
@@ -41887,7 +41900,7 @@
     },
     {
         "VitalsCategoryID": "Elk_Stag_Corrupted_07SM05a",
-        "DisplayName": "Warrift Stag",
+        "DisplayName": "Redguard Stag",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Elk_Stag_Corrupted_07SM05a\"\u003eElk_Stag_Corrupted_07SM05a\u003c/string\u003e",
@@ -41900,7 +41913,7 @@
     },
     {
         "VitalsCategoryID": "Elk_Stag_Corrupted_07SM08",
-        "DisplayName": "Warrift Stag",
+        "DisplayName": "Redguard Stag",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Elk_Stag_Corrupted_07SM08\"\u003eElk_Stag_Corrupted_07SM08\u003c/string\u003e",
@@ -42952,11 +42965,11 @@
         "FemaleMtlOverride": ""
     },
     {
-        "VitalsCategoryID": "Evil_Knight_Flamekeeper_Boss_S02",
-        "DisplayName": "The Firecaller",
+        "VitalsCategoryID": "Evil_Knight_Flamekeeper_Boss",
+        "DisplayName": "Hadish Azar, Keeper of Flame",
         "Icon": "",
         "LocationHint": "",
-        "LocStringGenerationHelper": "\u003cstring key=\"VC_Evil_Knight_Flamekeeper_Boss_S02\"\u003eEvil_Knight_Flamekeeper_Boss_S02\u003c/string\u003e",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Evil_Knight_Flamekeeper_Boss\"\u003eEvil_Knight_Flamekeeper_Boss\u003c/string\u003e",
         "GroupVitalsCategoryId": "",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
@@ -46688,6 +46701,19 @@
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_FL_Armored_Dragon_Named_09FL11\"\u003eFL_Armored_Dragon_Named_09FL11\u003c/string\u003e",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": null,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "FL_Armored_Dragon_Elite_09FL12",
+        "DisplayName": "Crowned Drake",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_FL_Armored_Dragon_Elite_09FL12\"\u003eFL_Armored_Dragon_Elite_09FL12\u003c/string\u003e",
         "GroupVitalsCategoryId": "BASE",
         "IsNamed": true,
         "IsDynamicPoiTarget": null,
@@ -54133,7 +54159,7 @@
     },
     {
         "VitalsCategoryID": "Goat_Mountain_08QP02",
-        "DisplayName": "Thunder Cradle Goat",
+        "DisplayName": "Tiaowen Shan Goat",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Goat_Mountain_08QP02\"\u003eGoat_Mountain_08QP02\u003c/string\u003e",
@@ -54874,7 +54900,7 @@
     },
     {
         "VitalsCategoryID": "IceGolem",
-        "DisplayName": "Ice Troll",
+        "DisplayName": "Snorok Ice Fist",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_IceGolem\"\u003eIceGolem\u003c/string\u003e",
@@ -55074,6 +55100,19 @@
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Ironslag\"\u003eIronslag\u003c/string\u003e",
         "GroupVitalsCategoryId": "BASE",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
+        "VitalsCategoryID": "Isabella_MSQ2",
+        "DisplayName": "Isabella",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Isabella_MSQ2\"\u003eIsabella_MSQ2\u003c/string\u003e",
+        "GroupVitalsCategoryId": "IsabellaPhase1",
         "IsNamed": null,
         "IsDynamicPoiTarget": null,
         "LootDropChanceOverride": null,
@@ -62024,7 +62063,7 @@
     },
     {
         "VitalsCategoryID": "Peacock_08QP02",
-        "DisplayName": "Thunder Cradle Peacock",
+        "DisplayName": "Tiaowen Shan Peacock",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Peacock_08QP02\"\u003ePeacock_08QP02\u003c/string\u003e",
@@ -78404,7 +78443,7 @@
     },
     {
         "VitalsCategoryID": "Tendril_Corruption_08QP02",
-        "DisplayName": "Thunder Cradle Tendril",
+        "DisplayName": "Tiaowen Shan Tendril",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Tendril_Corruption_08QP02\"\u003eTendril_Corruption_08QP02\u003c/string\u003e",
@@ -90155,6 +90194,19 @@
         "FemaleMtlOverride": ""
     },
     {
+        "VitalsCategoryID": "Undead_Siren",
+        "DisplayName": "The Siren Queen",
+        "Icon": "",
+        "LocationHint": "",
+        "LocStringGenerationHelper": "\u003cstring key=\"VC_Undead_Siren\"\u003eUndead_Siren_VitalsName\u003c/string\u003e",
+        "GroupVitalsCategoryId": "Black_Flag",
+        "IsNamed": null,
+        "IsDynamicPoiTarget": null,
+        "LootDropChanceOverride": null,
+        "MtlOverride": "",
+        "FemaleMtlOverride": ""
+    },
+    {
         "VitalsCategoryID": "Unhallowed",
         "DisplayName": "Unhallowed",
         "Icon": "",
@@ -90481,7 +90533,7 @@
     },
     {
         "VitalsCategoryID": "Warrift",
-        "DisplayName": "Warrift",
+        "DisplayName": "Redguard",
         "Icon": "",
         "LocationHint": "",
         "LocStringGenerationHelper": "\u003cstring key=\"VC_Warrift\"\u003eWarrift\u003c/string\u003e",

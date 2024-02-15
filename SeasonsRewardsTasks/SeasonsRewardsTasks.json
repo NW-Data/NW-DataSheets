@@ -2756,5 +2756,1020 @@
         "TaskMaxValue": 10,
         "Name": "PLACEHOLDER",
         "Description": "PLACEHOLDER"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch1_Task1",
+        "SeasonsTrackedStatID": "OpenCastGoldNMatter",
+        "TaskMaxValue": 1,
+        "Name": "Money Matters I",
+        "Description": "Craft and open a Cache of Gold-n-Matter"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch1_Task2",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 3,
+        "Name": "Seasoned Adventurer I",
+        "Description": "Complete {maxCount} Activity Cards"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch1_Task3",
+        "SeasonsTrackedStatID": "KillCorrupted",
+        "TaskMaxValue": 150,
+        "Name": "Bane of Corruption",
+        "Description": "Kill {maxCount} Corrupted Enemies"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch1_Task4",
+        "SeasonsTrackedStatID": "CompleteExpedition",
+        "TaskMaxValue": 3,
+        "Name": "Expedition Exploration I",
+        "Description": "Complete {maxCount} Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch1_Task5",
+        "SeasonsTrackedStatID": "KillNamed",
+        "TaskMaxValue": 20,
+        "Name": "Named Nemesis I",
+        "Description": "Kill {maxCount} Named Enemies"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch1_Task6",
+        "SeasonsTrackedStatID": "CraftArmorT3",
+        "TaskMaxValue": 50,
+        "Name": "Acute Armorsmith",
+        "Description": "Craft {maxCount} T3+ Armor pieces"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch1_Task7",
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 10,
+        "Name": "Elite Spoils I",
+        "Description": "Loot {maxCount} Elite Chests"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch1_Task8",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 10,
+        "Name": "Project Progenitor I",
+        "Description": "Complete {maxCount} Town Projects"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch1_Task9",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 5,
+        "Name": "Control Point Conquest I",
+        "Description": "Capture {maxCount} Faction Control Points"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch1_Task10",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPXPAnyReason",
+        "TaskMaxValue": 5000,
+        "Name": "Adept Adversary I",
+        "Description": "Earn {maxCount} PvP XP"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch2_Task1",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 10,
+        "Name": "Seasoned Adventurer II",
+        "Description": "Complete {maxCount} Activity Cards"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch2_Task2",
+        "SeasonsTrackedStatID": "WinInfluenceRace",
+        "TaskMaxValue": 2,
+        "Name": "Influential I",
+        "Description": "Win {maxCount} Influence Races"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch2_Task3",
+        "SeasonsTrackedStatID": "GameEvent_Breach",
+        "TaskMaxValue": 10,
+        "Name": "Breach Bustin' I",
+        "Description": "Close {maxCount} Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch2_Task4",
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 10,
+        "Name": "Faction Fanatic I",
+        "Description": "Complete {maxCount} Faction Missions"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch2_Task5",
+        "SeasonsTrackedStatID": "WinArena3x3",
+        "TaskMaxValue": 5,
+        "Name": "Gladiator I",
+        "Description": "Win {maxCount} PvP Arena matches"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch2_Task6",
+        "SeasonsTrackedStatID": "CraftWeaponT4",
+        "TaskMaxValue": 50,
+        "Name": "Wise Weaponsmith",
+        "Description": "Craft {maxCount} T4+ Weapons"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch2_Task7",
+        "SeasonsTrackedStatID": "KillShatteredMountainElite",
+        "TaskMaxValue": 50,
+        "Name": "Mountain Breaker",
+        "Description": "Kill {maxCount} Elite Enemies in Shattered Mountain"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch2_Task8",
+        "SeasonsTrackedStatID": "KillElite",
+        "TaskMaxValue": 50,
+        "Name": "Elite Exorciser I",
+        "Description": "Kill {maxCount} Elite Enemies"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch2_Task9",
+        "SeasonsTrackedStatID": "KillTheSirenQueen",
+        "TaskMaxValue": 1,
+        "Name": "Siren Regicide",
+        "Description": "Defeat the Siren Queen at the Spire of Melpomene"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch2_Task10",
+        "SeasonsTrackedStatID": "CompleteExpedition",
+        "TaskMaxValue": 8,
+        "Name": "Expedition Exploration II",
+        "Description": "Complete {maxCount} Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch2_Task11",
+        "SeasonsTrackedStatID": "KillHatcheryBoss",
+        "TaskMaxValue": 1,
+        "Name": "The Hatchery",
+        "Description": "Complete the Hatchery Trial"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task1",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 20,
+        "Name": "Seasoned Adventurer III",
+        "Description": "Complete {maxCount} Activity Cards"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task2",
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 30,
+        "Name": "Elite Spoils II",
+        "Description": "Loot {maxCount} Elite Chests"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task3",
+        "SeasonsTrackedStatID": "CategoricalProgressionAnyPostCap",
+        "TaskMaxValue": 5,
+        "Name": "Aptitude Addict",
+        "Description": "Gain {maxCount} Tradeskill Aptitude Levels"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task4",
+        "SeasonsTrackedStatID": "CompleteRepeatableExpeditionQuest",
+        "TaskMaxValue": 15,
+        "Name": "Repeat Offender",
+        "Description": "Complete {maxCount} Repeatable Expedition Quests"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task5",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPRewardTrack",
+        "TaskMaxValue": 4,
+        "Name": "Reaping the Rewards I",
+        "Description": "Complete {maxCount} PvP Reward Tracks"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task6",
+        "SeasonsTrackedStatID": "CompleteMutatedExpedition",
+        "TaskMaxValue": 3,
+        "Name": "Mutation Maniac I",
+        "Description": "Complete {maxCount} Mutated Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task7",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 1,
+        "Name": "Conquered the Challenge I",
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task8",
+        "SeasonsTrackedStatID": "CraftWardT5",
+        "TaskMaxValue": 30,
+        "Name": "Wielder of Wards",
+        "Description": "Craft {maxCount} T5 Ward Potions"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task9",
+        "SeasonsTrackedStatID": "KillPlayer",
+        "TaskMaxValue": 20,
+        "Name": "PK Professional I",
+        "Description": "Kill {maxCount} Players"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task10",
+        "SeasonsTrackedStatID": "PlayOutpostRush",
+        "TaskMaxValue": 5,
+        "Name": "Rush Rumble I",
+        "Description": "Participate in {maxCount} Outpost Rush matches"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task11",
+        "SeasonsTrackedStatID": "KillElite",
+        "TaskMaxValue": 150,
+        "Name": "Elite Exorciser II",
+        "Description": "Kill {maxCount} Elite Enemies"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch3_Task12",
+        "SeasonsTrackedStatID": "KillRuneforgeBoss",
+        "TaskMaxValue": 1,
+        "Name": "The Winter Rune Forge I",
+        "Description": "Complete the Winter Rune Forge Trial"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task1",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 10,
+        "Name": "Control Point Conquest II",
+        "Description": "Capture {maxCount} Faction Control Points"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task2",
+        "SeasonsTrackedStatID": "CompleteMutatedExpedition",
+        "TaskMaxValue": 8,
+        "Name": "Mutation Maniac II",
+        "Description": "Complete {maxCount} Mutated Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task3",
+        "SeasonsTrackedStatID": "WinOutpostRush",
+        "TaskMaxValue": 5,
+        "Name": "Rush Rumble II",
+        "Description": "Win {maxCount} Outpost Rush matches"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task4",
+        "SeasonsTrackedStatID": "OpenCastGoldNMatter",
+        "TaskMaxValue": 3,
+        "Name": "Money Matters II",
+        "Description": "Craft and open {maxCount} Caches of Gold-n-Matter"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task5",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 2,
+        "Name": "Conquered the Challenge II",
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task6",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPRewardTrack",
+        "TaskMaxValue": 8,
+        "Name": "Reaping the Rewards II",
+        "Description": "Complete {maxCount} PvP Reward Tracks"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task7",
+        "SeasonsTrackedStatID": "KillNamed60",
+        "TaskMaxValue": 150,
+        "Name": "Named Nemesis II",
+        "Description": "Kill {maxCount} L60+ Named Enemies"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task8",
+        "SeasonsTrackedStatID": "CraftGS700",
+        "TaskMaxValue": 10,
+        "Name": "Crafter of Greatness I",
+        "Description": "Craft {maxCount} GS 700 items"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task9",
+        "SeasonsTrackedStatID": "CategoricalProgressionFactionTokens",
+        "TaskMaxValue": 100000,
+        "Name": "Faction Financier",
+        "Description": "Earn {maxCount} Faction Tokens"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task10",
+        "SeasonsTrackedStatID": "EquipItem_S5Artifact",
+        "TaskMaxValue": 1,
+        "Name": "Artifact Appreciator",
+        "Description": "Equip one of the 8 new Artifacts"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task11",
+        "SeasonsTrackedStatID": "WinInfluenceRace",
+        "TaskMaxValue": 4,
+        "Name": "Influential II",
+        "Description": "Win {maxCount} Influence Races"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task12",
+        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
+        "TaskMaxValue": 10,
+        "Name": "Breach Bustin' II",
+        "Description": "Close {maxCount} Major Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch4_Task13",
+        "SeasonsTrackedStatID": "DefeatWurmBoss",
+        "TaskMaxValue": 1,
+        "Name": "The Trial of the Devourer I",
+        "Description": "Complete the Trial of the Devourer"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task1",
+        "SeasonsTrackedStatID": "CompleteM3Expedition",
+        "TaskMaxValue": 3,
+        "Name": "Maximum Mutation",
+        "Description": "Complete {maxCount} M3 Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task2",
+        "SeasonsTrackedStatID": "WinOutpostRush",
+        "TaskMaxValue": 10,
+        "Name": "Rush Rumble III",
+        "Description": "Win {maxCount} Outpost Rush matches"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task3",
+        "SeasonsTrackedStatID": "KillPlayer",
+        "TaskMaxValue": 50,
+        "Name": "PK Professional II",
+        "Description": "Kill {maxCount} Players"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task4",
+        "SeasonsTrackedStatID": "Kill65",
+        "TaskMaxValue": 100,
+        "Name": "High Level Hunter",
+        "Description": "Kill {maxCount} L65+ Enemies"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task5",
+        "SeasonsTrackedStatID": "KillRuneforgeBoss",
+        "TaskMaxValue": 5,
+        "Name": "The Winter Rune Forge II",
+        "Description": "Complete the Winter Rune Forge Trial {maxCount} times"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task6",
+        "SeasonsTrackedStatID": "KillNamed65",
+        "TaskMaxValue": 25,
+        "Name": "Named Nemesis III",
+        "Description": "Kill {maxCount} L65+ Named Enemies"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task7",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPXPAnyReason",
+        "TaskMaxValue": 30000,
+        "Name": "Adept Adversary II",
+        "Description": "Earn {maxCount} PvP XP"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task8",
+        "SeasonsTrackedStatID": "CraftGS700",
+        "TaskMaxValue": 25,
+        "Name": "Crafter of Greatness II",
+        "Description": "Craft {maxCount} GS 700 items"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task9",
+        "SeasonsTrackedStatID": "WinArena3x3",
+        "TaskMaxValue": 10,
+        "Name": "Gladiator II",
+        "Description": "Win {maxCount} PvP Arena matches"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task10",
+        "SeasonsTrackedStatID": "KillTrialBoss",
+        "TaskMaxValue": 15,
+        "Name": "Trials and Tribulations",
+        "Description": "Complete any Trial {maxCount} times"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task11",
+        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
+        "TaskMaxValue": 20,
+        "Name": "Breach Bustin' III",
+        "Description": "Close {maxCount} Major Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task12",
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 50,
+        "Name": "Elite Spoils III",
+        "Description": "Loot {maxCount} Elite Chests"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task13",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 3,
+        "Name": "Conquered the Challenge II",
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
+    },
+    {
+        "SeasonsTaskID": "S5_Ch5_Task14",
+        "SeasonsTrackedStatID": "DefeatWurmBoss",
+        "TaskMaxValue": 2,
+        "Name": "The Trial of the Devourer II",
+        "Description": "Complete the Trial of the Devourer {maxCount} times"
+    },
+    {
+        "SeasonsTaskID": "S5_Challenge1",
+        "SeasonsTrackedStatID": "KillRuneforgeBoss",
+        "TaskMaxValue": 20,
+        "Name": "Rune Forgemaster",
+        "Description": "Complete the Winter Rune Forge Trial {maxCount} times"
+    },
+    {
+        "SeasonsTaskID": "S5_Challenge2",
+        "SeasonsTrackedStatID": "KillFlamekeeperIceGauntlet",
+        "TaskMaxValue": 1,
+        "Name": "Flame Extinguisher",
+        "Description": "Kill Hadish Azar, Keeper of the Flame in the Hatchery Trial using an Ice Gauntlet"
+    },
+    {
+        "SeasonsTaskID": "S5_Challenge3",
+        "SeasonsTrackedStatID": "CompleteTaskAnyChapter",
+        "TaskMaxValue": 60,
+        "Name": "Guardian Completionist",
+        "Description": "Complete all of this Season's Journey Tasks"
+    },
+    {
+        "SeasonsTaskID": "S5_Challenge4",
+        "SeasonsTrackedStatID": "CategoricalProgressionCraftingPostCap",
+        "TaskMaxValue": 20,
+        "Name": "Consummate Crafter",
+        "Description": "Gain {maxCount} Aptitude levels in Crafting Tradeskills"
+    },
+    {
+        "SeasonsTaskID": "S5_Challenge5",
+        "SeasonsTrackedStatID": "CraftPrismaticScarab",
+        "TaskMaxValue": 5,
+        "Name": "Prismatic Artisan",
+        "Description": "Craft {maxCount} items using a Prismatic Scarb"
+    },
+    {
+        "SeasonsTaskID": "S5_Challenge6",
+        "SeasonsTrackedStatID": "KillRuneforgeBossGreatAxe",
+        "TaskMaxValue": 1,
+        "Name": "Ice Cleaver",
+        "Description": "Kill the Ice Guardian in the Winter rune Forge Trial with a Great Axe"
+    },
+    {
+        "SeasonsTaskID": "S5_Challenge7",
+        "SeasonsTrackedStatID": "TakeInfluenceTower",
+        "TaskMaxValue": 100,
+        "Name": "Tower Terror",
+        "Description": "Capture {maxCount} Influence Towers"
+    },
+    {
+        "SeasonsTaskID": "S5_Challenge8",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPRewardTrack",
+        "TaskMaxValue": 40,
+        "Name": "Accomplished Slayer",
+        "Description": "Complete {maxCount} PvP Reward Tracks"
+    },
+    {
+        "SeasonsTaskID": "S5_Challenge9",
+        "SeasonsTrackedStatID": "RaiseTrialBanners",
+        "TaskMaxValue": 6,
+        "Name": "Soulwarden Trials",
+        "Description": "Raise a Soulwarden banner near each of the 6 Trial entrances"
+    },
+    {
+        "SeasonsTaskID": "S5_Challenge10",
+        "SeasonsTrackedStatID": "KillSandwormMagicWeapon",
+        "TaskMaxValue": 1,
+        "Name": "Devourer's Demise",
+        "Description": "Kill Shah Neshen the Devourer in the Trial of the Devourer using a Magic weapon"
+    },
+    {
+        "SeasonsTaskID": "CompleteRuneforgeTrial",
+        "SeasonsTrackedStatID": "KillRuneforgeBoss",
+        "TaskMaxValue": 1,
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
+    },
+    {
+        "SeasonsTaskID": "Kill10VoidGauntlet",
+        "SeasonsTrackedStatID": "KillVoidGauntlet",
+        "TaskMaxValue": 10,
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
+    },
+    {
+        "SeasonsTaskID": "CompletePvPRewardTrack",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPRewardTrack",
+        "TaskMaxValue": 1,
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch1_Task1",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 3,
+        "Name": "Seasoned Adventurer I",
+        "Description": "Complete {maxCount} Activity Cards"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch1_Task2",
+        "SeasonsTrackedStatID": "KillAncient",
+        "TaskMaxValue": 150,
+        "Name": "@ui_seasons_task_name_KillAncient",
+        "Description": "@ui_seasons_task_description_KillAncient"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch1_Task3",
+        "SeasonsTrackedStatID": "CompleteExpedition",
+        "TaskMaxValue": 3,
+        "Name": "Expedition Exploration I",
+        "Description": "Complete {maxCount} Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch1_Task4",
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 8,
+        "Name": "Faction Fanatic I",
+        "Description": "Complete {maxCount} Faction Missions"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch1_Task5",
+        "SeasonsTrackedStatID": "CraftFoodT3",
+        "TaskMaxValue": 150,
+        "Name": "@ui_seasons_task_name_CraftFoodT3",
+        "Description": "@ui_seasons_task_description_CraftFoodT3"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch1_Task6",
+        "SeasonsTrackedStatID": "KillElite",
+        "TaskMaxValue": 50,
+        "Name": "Elite Exorciser I",
+        "Description": "Kill {maxCount} Elite Enemies"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch1_Task7",
+        "SeasonsTrackedStatID": "CategoricalProgressionTerritoryStanding",
+        "TaskMaxValue": 10000,
+        "Name": "@ui_seasons_task_name_TerritoryStanding_1",
+        "Description": "@ui_seasons_task_description_TerritoryStanding"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch1_Task8",
+        "SeasonsTrackedStatID": "GameEvent_Breach",
+        "TaskMaxValue": 10,
+        "Name": "Breach Bustin' I",
+        "Description": "Close {maxCount} Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch1_Task9",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 5,
+        "Name": "Control Point Conquest I",
+        "Description": "Capture {maxCount} Faction Control Points"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch1_Task10",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPXPAnyReason",
+        "TaskMaxValue": 5000,
+        "Name": "Adept Adversary I",
+        "Description": "Earn {maxCount} PvP XP"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch2_Task1",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 10,
+        "Name": "Seasoned Adventurer II",
+        "Description": "Complete {maxCount} Activity Cards"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch2_Task2",
+        "SeasonsTrackedStatID": "WinInfluenceRace",
+        "TaskMaxValue": 2,
+        "Name": "Influential I",
+        "Description": "Win {maxCount} Influence Races"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch2_Task3",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 10,
+        "Name": "Project Progenitor I",
+        "Description": "Complete {maxCount} Town Projects"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch2_Task4",
+        "SeasonsTrackedStatID": "KillNamed",
+        "TaskMaxValue": 40,
+        "Name": "Named Nemesis I",
+        "Description": "Kill {maxCount} Named Enemies"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch2_Task5",
+        "SeasonsTrackedStatID": "WinArena3x3",
+        "TaskMaxValue": 5,
+        "Name": "Gladiator I",
+        "Description": "Win {maxCount} PvP Arena matches"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch2_Task6",
+        "SeasonsTrackedStatID": "CraftGearT4",
+        "TaskMaxValue": 50,
+        "Name": "@ui_seasons_task_name_CraftGearT4",
+        "Description": "@ui_seasons_task_description_CraftGearT4"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch2_Task7",
+        "SeasonsTrackedStatID": "KillEliteBrimstone",
+        "TaskMaxValue": 50,
+        "Name": "@ui_seasons_task_name_KillEliteBrimstone",
+        "Description": "@ui_seasons_task_description_KillEliteBrimstone"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch2_Task8",
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 15,
+        "Name": "Elite Spoils I",
+        "Description": "Loot {maxCount} Elite Chests"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch2_Task9",
+        "SeasonsTrackedStatID": "KillPlayer",
+        "TaskMaxValue": 15,
+        "Name": "PK Professional I",
+        "Description": "Kill {maxCount} Players"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch2_Task10",
+        "SeasonsTrackedStatID": "CompleteExpedition",
+        "TaskMaxValue": 8,
+        "Name": "Expedition Exploration II",
+        "Description": "Complete {maxCount} Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch2_Task11",
+        "SeasonsTrackedStatID": "GameEvent_Breach",
+        "TaskMaxValue": 20,
+        "Name": "Breach Bustin' II",
+        "Description": "Close {maxCount} Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task1",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 20,
+        "Name": "Seasoned Adventurer III",
+        "Description": "Complete {maxCount} Activity Cards"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task2",
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 30,
+        "Name": "Elite Spoils II",
+        "Description": "Loot {maxCount} Elite Chests"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task3",
+        "SeasonsTrackedStatID": "CategoricalProgressionAnyPostCap",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_name_GainAptitudeAny_1",
+        "Description": "Gain {maxCount} Tradeskill Aptitude Levels"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task4",
+        "SeasonsTrackedStatID": "KillTrialBoss",
+        "TaskMaxValue": 15,
+        "Name": "@ui_seasons_task_name_AnyTrial_1",
+        "Description": "Complete any Trial {maxCount} times"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task5",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPRewardTrack",
+        "TaskMaxValue": 4,
+        "Name": "Reaping the Rewards I",
+        "Description": "Complete {maxCount} PvP Reward Tracks"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task6",
+        "SeasonsTrackedStatID": "CompleteMutatedExpedition",
+        "TaskMaxValue": 3,
+        "Name": "Mutation Maniac I",
+        "Description": "Complete {maxCount} Mutated Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task7",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 1,
+        "Name": "Conquered the Challenge I",
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task8",
+        "SeasonsTrackedStatID": "CraftWeaponT5",
+        "TaskMaxValue": 50,
+        "Name": "@ui_seasons_task_name_CraftWeaponT5",
+        "Description": "@ui_seasons_task_descripion_CraftWeaponT5"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task9",
+        "SeasonsTrackedStatID": "KillNamed60",
+        "TaskMaxValue": 100,
+        "Name": "Named Nemesis II",
+        "Description": "Kill {maxCount} L60+ Named Enemies"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task10",
+        "SeasonsTrackedStatID": "PlayOutpostRush",
+        "TaskMaxValue": 5,
+        "Name": "Rush Rumble I",
+        "Description": "Participate in {maxCount} Outpost Rush matches"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task11",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 10,
+        "Name": "Control Point Conquest II",
+        "Description": "Capture {maxCount} Faction Control Points"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch3_Task12",
+        "SeasonsTrackedStatID": "OpenCastGoldNMatter",
+        "TaskMaxValue": 5,
+        "Name": "Money Matters I",
+        "Description": "Craft and open {maxCount} Caches of Gold-n-Matter"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task1",
+        "SeasonsTrackedStatID": "CategoricalProgressionTerritoryStanding",
+        "TaskMaxValue": 100000,
+        "Name": "@ui_seasons_task_name_TerritoryStanding_2",
+        "Description": "@ui_seasons_task_description_TerritoryStanding"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task2",
+        "SeasonsTrackedStatID": "CompleteMutatedExpedition",
+        "TaskMaxValue": 8,
+        "Name": "Mutation Maniac II",
+        "Description": "Complete {maxCount} Mutated Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task3",
+        "SeasonsTrackedStatID": "WinOutpostRush",
+        "TaskMaxValue": 5,
+        "Name": "Rush Rumble II",
+        "Description": "Win {maxCount} Outpost Rush matches"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task4",
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 20,
+        "Name": "Faction Fanatic II",
+        "Description": "Complete {maxCount} Faction Missions"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task5",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 2,
+        "Name": "Conquered the Challenge II",
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task6",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPRewardTrack",
+        "TaskMaxValue": 8,
+        "Name": "Reaping the Rewards II",
+        "Description": "Complete {maxCount} PvP Reward Tracks"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task7",
+        "SeasonsTrackedStatID": "CompleteRepeatableExpeditionQuest",
+        "TaskMaxValue": 15,
+        "Name": "Repeat Offender",
+        "Description": "Complete {maxCount} Repeatable Expedition Quests"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task8",
+        "SeasonsTrackedStatID": "CraftGS700",
+        "TaskMaxValue": 10,
+        "Name": "Crafter of Greatness I",
+        "Description": "Craft {maxCount} GS 700 items"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task9",
+        "SeasonsTrackedStatID": "CategoricalProgressionFactionTokens",
+        "TaskMaxValue": 100000,
+        "Name": "Faction Financier",
+        "Description": "Earn {maxCount} Faction Tokens"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task10",
+        "SeasonsTrackedStatID": "KillPlayerInOpenWorld",
+        "TaskMaxValue": 15,
+        "Name": "Open World Menace",
+        "Description": "Kill {maxCount} Players for Azoth Salt in the Open World"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task11",
+        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
+        "TaskMaxValue": 10,
+        "Name": "Breach Bustin' III",
+        "Description": "Close {maxCount} Major Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task12",
+        "SeasonsTrackedStatID": "WinArena3x3",
+        "TaskMaxValue": 10,
+        "Name": "Gladiator II",
+        "Description": "Win {maxCount} PvP Arena matches"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch4_Task13",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPXPAnyReason",
+        "TaskMaxValue": 25000,
+        "Name": "Adept Adversary II",
+        "Description": "Earn {maxCount} PvP XP"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task1",
+        "SeasonsTrackedStatID": "CompleteM3Expedition",
+        "TaskMaxValue": 3,
+        "Name": "Maximum Mutation",
+        "Description": "Complete {maxCount} M3 Expeditions"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task2",
+        "SeasonsTrackedStatID": "WinOutpostRush",
+        "TaskMaxValue": 10,
+        "Name": "Rush Rumble III",
+        "Description": "Win {maxCount} Outpost Rush matches"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task3",
+        "SeasonsTrackedStatID": "KillPlayer",
+        "TaskMaxValue": 50,
+        "Name": "PK Professional II",
+        "Description": "Kill {maxCount} Players"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task4",
+        "SeasonsTrackedStatID": "Kill65",
+        "TaskMaxValue": 100,
+        "Name": "High Level Hunter",
+        "Description": "Kill {maxCount} L65+ Enemies"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task5",
+        "SeasonsTrackedStatID": "OpenCastGoldNMatter",
+        "TaskMaxValue": 10,
+        "Name": "Money Matters II",
+        "Description": "Craft and open {maxCount} Caches of Gold-n-Matter"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task6",
+        "SeasonsTrackedStatID": "KillNamed65",
+        "TaskMaxValue": 25,
+        "Name": "Named Nemesis III",
+        "Description": "Kill {maxCount} L65+ Named Enemies"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task7",
+        "SeasonsTrackedStatID": "WinInfluenceRace",
+        "TaskMaxValue": 8,
+        "Name": "Influential II",
+        "Description": "Win {maxCount} Influence Races"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task8",
+        "SeasonsTrackedStatID": "CraftGS700",
+        "TaskMaxValue": 25,
+        "Name": "Crafter of Greatness II",
+        "Description": "Craft {maxCount} GS 700 items"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task9",
+        "SeasonsTrackedStatID": "WinArena3x3",
+        "TaskMaxValue": 15,
+        "Name": "Gladiator III",
+        "Description": "Win {maxCount} PvP Arena matches"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task10",
+        "SeasonsTrackedStatID": "KillTrialBoss",
+        "TaskMaxValue": 20,
+        "Name": "@ui_seasons_task_name_AnyTrial_2",
+        "Description": "Complete any Trial {maxCount} times"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task11",
+        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
+        "TaskMaxValue": 25,
+        "Name": "Breach Bustin' IV",
+        "Description": "Close {maxCount} Major Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task12",
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 50,
+        "Name": "Elite Spoils III",
+        "Description": "Loot {maxCount} Elite Chests"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task13",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 30,
+        "Name": "Control Point Conquest III",
+        "Description": "Capture {maxCount} Faction Control Points"
+    },
+    {
+        "SeasonsTaskID": "S6_Ch5_Task14",
+        "SeasonsTrackedStatID": "CategoricalProgressionAnyPostCap",
+        "TaskMaxValue": 20,
+        "Name": "@ui_seasons_task_name_GainAptitudeAny_2",
+        "Description": "Gain {maxCount} Tradeskill Aptitude Levels"
+    },
+    {
+        "SeasonsTaskID": "S6_Challenge1",
+        "SeasonsTrackedStatID": "CompleteM3ExpeditionFlawlessly",
+        "TaskMaxValue": 10,
+        "Name": "@ui_seasons_task_name_Challenge_FlawlessM3",
+        "Description": "@ui_seasons_task_description_Challenge_FlawlessM3"
+    },
+    {
+        "SeasonsTaskID": "S6_Challenge2",
+        "SeasonsTrackedStatID": "KillNamed65",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_name_Challenge_KillNamed65",
+        "Description": "@ui_seasons_task_description_Challenge_KillNamed65"
+    },
+    {
+        "SeasonsTaskID": "S6_Challenge3",
+        "SeasonsTrackedStatID": "CompleteTaskAnyChapter",
+        "TaskMaxValue": 60,
+        "Name": "@ui_seasons_task_name_Challenge_S6Completionist",
+        "Description": "@ui_seasons_task_description_Challenge_S6Completionist"
+    },
+    {
+        "SeasonsTaskID": "S6_Challenge4",
+        "SeasonsTrackedStatID": "CategoricalProgressionGatheringPostCap",
+        "TaskMaxValue": 20,
+        "Name": "@ui_seasons_task_name_Challenge_GatheringPostCap",
+        "Description": "@ui_seasons_task_description_Challenge_GatheringPostCap"
+    },
+    {
+        "SeasonsTaskID": "S6_Challenge5",
+        "SeasonsTrackedStatID": "CraftNamedUpgrade",
+        "TaskMaxValue": 5,
+        "Name": "@ui_seasons_task_name_Challenge_NamedUpgrade",
+        "Description": "@ui_seasons_task_description_Challenge_NamedUpgrade"
+    },
+    {
+        "SeasonsTaskID": "S6_Challenge6",
+        "SeasonsTrackedStatID": "DamageOrHealInArena3v3",
+        "TaskMaxValue": 1000000,
+        "Name": "@ui_seasons_task_name_Challenge_ArenaDamageHeal",
+        "Description": "@ui_seasons_task_description_Challenge_ArenaDamageHeal"
+    },
+    {
+        "SeasonsTaskID": "S6_Challenge7",
+        "SeasonsTrackedStatID": "FlawlessArenaVictory",
+        "TaskMaxValue": 20,
+        "Name": "@ui_seasons_task_name_Challenge_ArenaFlawless",
+        "Description": "@ui_seasons_task_description_Challenge_ArenaFlawless"
+    },
+    {
+        "SeasonsTaskID": "S6_Challenge8",
+        "SeasonsTrackedStatID": "CaptureFCP",
+        "TaskMaxValue": 75,
+        "Name": "@ui_seasons_task_name_Challenge_CaptureFCP",
+        "Description": "@ui_seasons_task_description_Challenge_CaptureFCP"
+    },
+    {
+        "SeasonsTaskID": "S6_Challenge9",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 100,
+        "Name": "@ui_seasons_task_name_Challenge_ActivityCards",
+        "Description": "@ui_seasons_task_description_Challenge_ActivityCards"
+    },
+    {
+        "SeasonsTaskID": "S6_Challenge10",
+        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
+        "TaskMaxValue": 50,
+        "Name": "@ui_seasons_task_name_Challenge_MajorBreaches",
+        "Description": "@ui_seasons_task_description_Challenge_MajorBreaches"
+    },
+    {
+        "SeasonsTaskID": "KillPlayerMelee",
+        "SeasonsTrackedStatID": "KillPlayerMelee",
+        "TaskMaxValue": 1,
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
+    },
+    {
+        "SeasonsTaskID": "KillNamedExpedition",
+        "SeasonsTrackedStatID": "KillNamedExpedition",
+        "TaskMaxValue": 1,
+        "Name": "PLACEHOLDER",
+        "Description": "PLACEHOLDER"
     }
 ]

@@ -2,7 +2,7 @@
     {
         "AbilityID": "Ability_Bow_PoisonShot",
         "DisplayName": "Poison Shot",
-        "Description": "Shoot an arrow that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Bow_PoisonShot.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; weapon damage. On hit or land, this arrow creates \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3m\u0026lt;/font\u0026gt; radius poison cloud that lasts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;6s\u0026lt;/font\u0026gt;. Foes entering the cloud are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;poisoned\u0026lt;/font\u0026gt; and take \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Bow_Poison.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Bow_Poison.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(This ability cannot headshot.)\u0026lt;/font\u0026gt;",
+        "Description": "Shoot an arrow that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; weapon damage. On hit or land, this arrow creates \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3m\u0026lt;/font\u0026gt; radius poison cloud that lasts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;6s\u0026lt;/font\u0026gt;. Foes entering the cloud are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;poisoned\u0026lt;/font\u0026gt; and take \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(This ability cannot headshot.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility5.png",
         "StatusEffectIcon": "",
@@ -142,7 +142,7 @@
     {
         "AbilityID": "Upgrade_Bow_PoisonShot_PoisonDmg",
         "DisplayName": "Infected Arrows",
-        "Description": "Poison Shot's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;poison\u0026lt;/font\u0026gt; now does \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Bow_Poison_Upgrade.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Bow_Poison.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Poison Shot's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;poison\u0026lt;/font\u0026gt; now does \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.240000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility5_mod1.png",
         "StatusEffectIcon": "",
@@ -282,7 +282,7 @@
     {
         "AbilityID": "Upgrade_Bow_PoisonShot_DirectDmg",
         "DisplayName": "Direct Hit",
-        "Description": "Direct hits against targets are more powerful and now deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Bow_PoisonShot_Upgrade.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
+        "Description": "Direct hits against targets are more powerful and now deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility5_mod2.png",
         "StatusEffectIcon": "",
@@ -422,7 +422,7 @@
     {
         "AbilityID": "Ability_Bow_EvadeShot",
         "DisplayName": "Evade Shot",
-        "Description": "Leap back \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;5m\u0026lt;/font\u0026gt; and shoot an arrow dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.BowAttackJumpBack.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to your target.",
+        "Description": "Leap back \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;5m\u0026lt;/font\u0026gt; and shoot an arrow dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.900000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to your target.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/bowAbility2.png",
         "StatusEffectIcon": "",
@@ -562,7 +562,7 @@
     {
         "AbilityID": "Upgrade_Bow_EvasiveShot_Knockback",
         "DisplayName": "Evasive Knockback",
-        "Description": "Evade Shot \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;staggers\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;pushes\u0026lt;/font\u0026gt; the target back \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.BowAttackKnockBack.ImpactDistanceY]}m\u0026lt;/font\u0026gt;.",
+        "Description": "Evade Shot \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;staggers\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;pushes\u0026lt;/font\u0026gt; the target back \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}m\u0026lt;/font\u0026gt;.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/bowAbility2_mod1.png",
         "StatusEffectIcon": "",
@@ -702,7 +702,7 @@
     {
         "AbilityID": "Upgrade_Bow_EvasiveShot_Haste",
         "DisplayName": "Go the Distance",
-        "Description": "Evade Shot grants you a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Upgrade_Bow_EvasiveShot_Haste.MoveSpeedMod * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Upgrade_Bow_EvasiveShot_Haste.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "Evade Shot grants you a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/bowAbility2_mod2.png",
         "StatusEffectIcon": "",
@@ -726,7 +726,7 @@
         "ScalingConstitution": "",
         "OnKill": false,
         "OnExecuted": false,
-        "OnHit": false,
+        "OnHit": true,
         "OnBlockedHit": false,
         "OnCrit": false,
         "OnHeadShot": false,
@@ -737,7 +737,7 @@
         "OnDeath": false,
         "OnDeathsDoor": false,
         "OnWeaponSwap": null,
-        "RequireReaction": null,
+        "RequireReaction": true,
         "NumSuccessfulHits": 0,
         "NumConsecutiveHits": 0,
         "MaxConsecutiveHits": 0,
@@ -749,7 +749,7 @@
         "DamageIsMelee": "",
         "ForceShowNameTag": "",
         "TargetHasGritActive": "",
-        "DamageTableRow": "",
+        "DamageTableRow": "BowAttackJumpBack,BowAttackKnockBack",
         "RemoteDamageTableRow": "",
         "RangedAttackName": "",
         "AttackType": "",
@@ -775,10 +775,10 @@
         "NumAroundComparisonType": "",
         "AbilityList": "",
         "AbilityTrigger": "",
-        "InAction": "",
+        "InAction": "Bow_JumpBackShot",
         "InActionTime": null,
         "AfterAction": "",
-        "InSequence": "",
+        "InSequence": "Ability_Bow_JumpBackShot",
         "InSequenceTime": null,
         "AfterSequence": "",
         "BaseDamage": null,
@@ -812,7 +812,7 @@
         "PerStatusEffectOnTarget": "",
         "ForceTakeStaminaDamage": "",
         "CastSpell": "",
-        "SelfApplyStatusEffect": "",
+        "SelfApplyStatusEffect": "Status_Upgrade_Bow_EvasiveShot_Haste",
         "OtherApplyStatusEffect": "",
         "ModifySelfApplyStatusEffectDuration": "",
         "SetPotencyAsCount": "",
@@ -842,7 +842,7 @@
     {
         "AbilityID": "Ability_Bow_RainofArrows",
         "DisplayName": "Rain of Arrows",
-        "Description": "Shoot a barrage of arrows that covers a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_Bow.Spell_Bow_Spell_RainOfArrows.Radius]}m\u0026lt;/font\u0026gt; radius area and deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Bow_RainOfArrows_Attack.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(This ability cannot headshot.)\u0026lt;/font\u0026gt;",
+        "Description": "Shoot a barrage of arrows that covers a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}m\u0026lt;/font\u0026gt; radius area and deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(This ability cannot headshot.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility6.png",
         "StatusEffectIcon": "",
@@ -982,7 +982,7 @@
     {
         "AbilityID": "Upgrade_Bow_RainofArrows_Bleed",
         "DisplayName": "Barbed Arrows",
-        "Description": "Rain of Arrows causes \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_RainofArrows_Bleed.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_RainofArrows_Bleed.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Rain of Arrows causes \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.150000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[12.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility6_mod1.png",
         "StatusEffectIcon": "",
@@ -1122,7 +1122,7 @@
     {
         "AbilityID": "Upgrade_Bow_RainofArrows_Slow",
         "DisplayName": "Hooked Arrows",
-        "Description": "Rain of Arrows causes a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Bow_RainOfArrows_Slow.MoveSpeedMod * -100]}% slow\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Bow_RainOfArrows_Slow.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "Rain of Arrows causes a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.150000 * -100]}% slow\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility6_mod2.png",
         "StatusEffectIcon": "",
@@ -1262,7 +1262,7 @@
     {
         "AbilityID": "Passive_Bow_Skirmish_RendHead",
         "DisplayName": "Rending Headshot",
-        "Description": "Headshots inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;rend\u0026lt;/font\u0026gt; reducing target's armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_RendHead.PhysicalArmor * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_RendHead.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Headshots inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;rend\u0026lt;/font\u0026gt; reducing target's armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive15.png",
         "StatusEffectIcon": "",
@@ -1402,7 +1402,7 @@
     {
         "AbilityID": "Passive_Bow_Skirmish_HasteWhenFoesNear",
         "DisplayName": "Catch Me If You Can",
-        "Description": "If surrounded by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3\u0026lt;/font\u0026gt; or more foes within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3m\u0026lt;/font\u0026gt; of you, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_Skirmish_HasteWhenFoesNear.MoveSpeedMod * 100]}% haste\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "If surrounded by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3\u0026lt;/font\u0026gt; or more foes within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3m\u0026lt;/font\u0026gt; of you, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}% haste\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive1.png",
         "StatusEffectIcon": "",
@@ -1542,7 +1542,7 @@
     {
         "AbilityID": "Passive_Bow_Skirmish_CDRVsLow",
         "DisplayName": "Closing In",
-        "Description": "Hitting a foe below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;50%\u0026lt;/font\u0026gt; health reduces all bow ability cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Passive_Bow_Skirmish_CDRVsLow.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Hitting a foe below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;50%\u0026lt;/font\u0026gt; health reduces all bow ability cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive3.png",
         "StatusEffectIcon": "",
@@ -1682,7 +1682,7 @@
     {
         "AbilityID": "Passive_Bow_Skirmish_SlowFull",
         "DisplayName": "Impale",
-        "Description": "If you hit a foe with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;100%\u0026lt;/font\u0026gt; health, inflict a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_Skirmish_SlowFull.MoveSpeedMod * -100]}% slow\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_Skirmish_SlowFull.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "If you hit a foe with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;100%\u0026lt;/font\u0026gt; health, inflict a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}% slow\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive6.png",
         "StatusEffectIcon": "",
@@ -1822,7 +1822,7 @@
     {
         "AbilityID": "Passive_Bow_Skirmish_StaminaVsDebuff",
         "DisplayName": "Hunter's Insight",
-        "Description": "Hitting a foe with a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt; grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_Skirmish_StaminaVsDebuff.Stamina]}\u0026lt;/font\u0026gt; stamina.",
+        "Description": "Hitting a foe with a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt; grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}\u0026lt;/font\u0026gt; stamina.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/BowPassive8.png",
         "StatusEffectIcon": "",
@@ -1962,7 +1962,7 @@
     {
         "AbilityID": "Passive_Bow_Skirmish_DodgeHaste",
         "DisplayName": "Dodge and Weave",
-        "Description": "After dodging with full stamina, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_Skirmish_DodgeHaste.MoveSpeedMod * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_Skirmish_DodgeHaste.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "After dodging with full stamina, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive12.png",
         "StatusEffectIcon": "",
@@ -2102,7 +2102,7 @@
     {
         "AbilityID": "Passive_Bow_Skirmish_HasteOnSwap",
         "DisplayName": "Archer's Speed",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_Skirmish_HasteOnSwap.MoveSpeedMod * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_Skirmish_HasteOnSwap.BaseDuration]}s\u0026lt;/font\u0026gt; when you swap to your bow. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.) (Cooldown {[Type_StatusEffectData.Status_Passive_Bow_Skirmish_HasteOnSwap_Timer.BaseDuration]}s.)\u0026lt;/font\u0026gt;",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt; when you swap to your bow. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.) (Cooldown {[10.000000]}s.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive11.png",
         "StatusEffectIcon": "",
@@ -2242,7 +2242,7 @@
     {
         "AbilityID": "Passive_Bow_Skirmish_DmgVsDebuff",
         "DisplayName": "Mark",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Passive_Bow_Skirmish_DmgVsDebuff.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage to foes suffering from a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt;.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; more damage to foes suffering from a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive9.png",
         "StatusEffectIcon": "",
@@ -2382,7 +2382,7 @@
     {
         "AbilityID": "Passive_Bow_Skirmish_DebuffDur",
         "DisplayName": "Battle Precision",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Debuff\u0026lt;/font\u0026gt; durations last {[BowAbilityTable.Passive_Bow_Skirmish_DebuffDur.TargetStatusEffectDurationMult * 100]}% longer. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Does not affect crowd control debuffs.)\u0026lt;/font\u0026gt;",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Debuff\u0026lt;/font\u0026gt; durations last {[0.200000 * 100]}% longer. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Does not affect crowd control debuffs.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive10.png",
         "StatusEffectIcon": "",
@@ -2522,7 +2522,7 @@
     {
         "AbilityID": "Ultimate_Bow_Skirmish",
         "DisplayName": "Evasive Tactics",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ultimate_Bow_Skirmish_DodgeDmg.DMGStandard * 100]}%\u0026lt;/font\u0026gt; more damage for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ultimate_Bow_Skirmish_DodgeDmg.BaseDuration]}s\u0026lt;/font\u0026gt; after dodging.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; more damage for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt; after dodging.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive5.png",
         "StatusEffectIcon": "",
@@ -2662,7 +2662,7 @@
     {
         "AbilityID": "Ability_Bow_RapidShot",
         "DisplayName": "Rapid Shot",
-        "Description": "Shoot \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3\u0026lt;/font\u0026gt; consecutive arrows.\\n\\nFirst Arrow: \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Bow_RapidAttack_Standard.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.\\nSecond Arrow: \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Bow_RapidAttack_Standard.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.\\nThird Arrow: \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Bow_RapidAttack_KnockBack.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
+        "Description": "Shoot \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3\u0026lt;/font\u0026gt; consecutive arrows.\\n\\nFirst Arrow: \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.\\nSecond Arrow: \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.\\nThird Arrow: \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.250000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility1.png",
         "StatusEffectIcon": "",
@@ -2802,7 +2802,7 @@
     {
         "AbilityID": "Upgrade_Bow_RapidAccuracy_CDROnLast",
         "DisplayName": "Rapid Accuracy",
-        "Description": "If all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3\u0026lt;/font\u0026gt; arrows hit the same target, Rapid Shot's cooldown is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Upgrade_Bow_RapidAccuracy_CDROnLast.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "If all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3\u0026lt;/font\u0026gt; arrows hit the same target, Rapid Shot's cooldown is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.500000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility1_Mod1.png",
         "StatusEffectIcon": "",
@@ -2942,7 +2942,7 @@
     {
         "AbilityID": "Upgrade_Bow_RapidAccuracy_DmgOnLast",
         "DisplayName": "Final Blow",
-        "Description": "The third arrow of Rapid Shot deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Upgrade_Bow_RapidAccuracy_DmgOnLast.BaseDamage * 100]}%\u0026lt;/font\u0026gt; extra damage.",
+        "Description": "The third arrow of Rapid Shot deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt; extra damage.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility1_Mod2.png",
         "StatusEffectIcon": "",
@@ -3082,7 +3082,7 @@
     {
         "AbilityID": "Ability_Bow_PenetratingShot",
         "DisplayName": "Penetrating Shot",
-        "Description": "Shoot an arrow that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Bow_Penetrating_Attack.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;passes through\u0026lt;/font\u0026gt; targets.\\n\\nThis attack has a range of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;100m\u0026lt;/font\u0026gt;.",
+        "Description": "Shoot an arrow that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;passes through\u0026lt;/font\u0026gt; targets.\\n\\nThis attack has a range of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;100m\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility3.png",
         "StatusEffectIcon": "",
@@ -3222,7 +3222,7 @@
     {
         "AbilityID": "Upgrade_Bow_PenetratingShot_DmgPerHit",
         "DisplayName": "Blood Soaked Arrow",
-        "Description": "Penetrating Shot deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Bow_Penetrating_AttackA1.HitRateDmgModifier * 100]}%\u0026lt;/font\u0026gt; increased damage after each hit. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[DamageTable.Bow_Penetrating_AttackA1.MaxHitRateDmgMod * 100]}% damage.)\u0026lt;/font\u0026gt;",
+        "Description": "Penetrating Shot deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; increased damage after each hit. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[0.500000 * 100]}% damage.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility3_mod1.png",
         "StatusEffectIcon": "",
@@ -3362,7 +3362,7 @@
     {
         "AbilityID": "Upgrade_Bow_PenetratingShot_DmgPerDist",
         "DisplayName": "Deep Strike",
-        "Description": "Penetrating Shot deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Upgrade_Bow_PenetratingShot_DmgPerDist.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage to targets \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Upgrade_Bow_PenetratingShot_DmgPerDist.DistFromDefender]}m\u0026lt;/font\u0026gt; or more away.",
+        "Description": "Penetrating Shot deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; more damage to targets \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[20.000000]}m\u0026lt;/font\u0026gt; or more away.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility3_mod2.png",
         "StatusEffectIcon": "",
@@ -3502,7 +3502,7 @@
     {
         "AbilityID": "Ability_Bow_SplinterShot",
         "DisplayName": "Explosive Arrow",
-        "Description": "Fire an arrow that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Bow_ExplosionShot_Projectile.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage on hit, then \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;explodes\u0026lt;/font\u0026gt; on impact dealing an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Bow_ExplosionShot_Explosion.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;damage to all targets within a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_Bow.Spell_Ability_Bow_ExplosiveShot_Explosion.Radius]}m\u0026lt;/font\u0026gt; radius.",
+        "Description": "Fire an arrow that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage on hit, then \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;explodes\u0026lt;/font\u0026gt; on impact dealing an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.350000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;damage to all targets within a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.500000]}m\u0026lt;/font\u0026gt; radius.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bow_ability_explosion.png",
         "StatusEffectIcon": "",
@@ -3642,7 +3642,7 @@
     {
         "AbilityID": "Upgrade_Bow_SplinterShot_CDRPerHIt",
         "DisplayName": "Flame Arrow",
-        "Description": "Explosive Arrow direct hits inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;burn\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_ExplosiveShot_Burn.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_ExplosiveShot_Burn.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Explosive Arrow direct hits inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;burn\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.080000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bow_upgrade.png",
         "StatusEffectIcon": "",
@@ -3782,7 +3782,7 @@
     {
         "AbilityID": "Upgrade_Bow_SplinterShot_FiveA",
         "DisplayName": "Contained Detonation",
-        "Description": "Explosion damage increased to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Bow_ExplosionShot_Explosion_Dmg.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, but decreases the explosion radius to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_Bow.Spell_Ability_Bow_ExplosiveShot_Explosion_SizeChange.Radius]}m\u0026lt;/font\u0026gt;.",
+        "Description": "Explosion damage increased to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.700000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, but decreases the explosion radius to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.250000]}m\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bow_upgrade_1.png",
         "StatusEffectIcon": "",
@@ -3922,7 +3922,7 @@
     {
         "AbilityID": "Passive_Bow_Hunter_DmgVsDist",
         "DisplayName": "Long Range",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Passive_Bow_Hunter_DmgVsDist.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage to foes at least \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Passive_Bow_Hunter_DmgVsDist.DistFromDefender]}m\u0026lt;/font\u0026gt; away.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; more damage to foes at least \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}m\u0026lt;/font\u0026gt; away.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive4.png",
         "StatusEffectIcon": "",
@@ -4062,7 +4062,7 @@
     {
         "AbilityID": "Passive_Bow_Hunter_HeavyDmg",
         "DisplayName": "Aim True",
-        "Description": "Heavy attack arrows \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;fly faster\u0026lt;/font\u0026gt; and deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Passive_Bow_Hunter_HeavyDmg.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage.",
+        "Description": "Heavy attack arrows \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;fly faster\u0026lt;/font\u0026gt; and deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; more damage.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive2.png",
         "StatusEffectIcon": "",
@@ -4202,7 +4202,7 @@
     {
         "AbilityID": "Passive_Bow_Hunter_ArmorAimHeavy",
         "DisplayName": "Unbreakable Focus",
-        "Description": "Armor is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_Hunter_ArmorAimHeavy.PhysicalArmor * 100]}%\u0026lt;/font\u0026gt; while aiming.",
+        "Description": "Armor is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; while aiming.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive13.png",
         "StatusEffectIcon": "",
@@ -4342,7 +4342,7 @@
     {
         "AbilityID": "Passive_Bow_Hunter_DmgVsLow",
         "DisplayName": "Finishing Shot",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Passive_Bow_Hunter_DmgVsLow.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;50%\u0026lt;/font\u0026gt; health.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; more damage to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;50%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive20.png",
         "StatusEffectIcon": "",
@@ -4482,7 +4482,7 @@
     {
         "AbilityID": "Passive_Bow_Hunter_HeavyDmgVsFull",
         "DisplayName": "Opening Strike",
-        "Description": "Heavy attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Passive_Bow_Hunter_HeavyDmgVsFull.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage to foes with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;100%\u0026lt;/font\u0026gt; health.",
+        "Description": "Heavy attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; increased damage to foes with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;100%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive14.png",
         "StatusEffectIcon": "",
@@ -4622,7 +4622,7 @@
     {
         "AbilityID": "Passive_Bow_Hunter_DmgOnFirst",
         "DisplayName": "Surprise Attack",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Passive_Bow_Hunter_DmgVsLow.BaseDamage * 100]}%\u0026lt;/font\u0026gt; extra damage to any foe as long as you have not damaged them in the last \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Bow_Hunter_DmgOnFirst_Tracker.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; extra damage to any foe as long as you have not damaged them in the last \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive15.png",
         "StatusEffectIcon": "",
@@ -4902,7 +4902,7 @@
     {
         "AbilityID": "Passive_Bow_Hunter_Accuracy",
         "DisplayName": "Arrow Range",
-        "Description": "Increases the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;distance\u0026lt;/font\u0026gt; that arrows travel before being affected by gravity by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;100%\u0026lt;/font\u0026gt;.",
+        "Description": "Increases the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;distance\u0026lt;/font\u0026gt; that arrows travel before being affected by gravity by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;100%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive16.png",
         "StatusEffectIcon": "",
@@ -5042,7 +5042,7 @@
     {
         "AbilityID": "Passive_Bow_Hunter_HealOnFive",
         "DisplayName": "Hawkeye",
-        "Description": "When you land a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;headshot\u0026lt;/font\u0026gt;, heal yourself for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Passive_Bow_Hunter_HealOnFive.DmgPctToHealth * 100]}%\u0026lt;/font\u0026gt; of damage done.",
+        "Description": "When you land a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;headshot\u0026lt;/font\u0026gt;, heal yourself for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; of damage done.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive17.png",
         "StatusEffectIcon": "",
@@ -5182,7 +5182,7 @@
     {
         "AbilityID": "Passive_Bow_Hunter_Crit",
         "DisplayName": "Bullseye",
-        "Description": "Increases critical chance of bow shots by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Passive_Bow_Hunter_Crit.CritChance * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Increases critical chance of bow shots by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive18.png",
         "StatusEffectIcon": "",
@@ -5322,7 +5322,7 @@
     {
         "AbilityID": "Ultimate_Bow_Hunter",
         "DisplayName": "Concussion",
-        "Description": "When you land a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;headshot\u0026lt;/font\u0026gt;, deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Ultimate_Bow_Hunter.HeadshotDamage * 100]}%\u0026lt;/font\u0026gt; more damage and have a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[BowAbilityTable.Ultimate_Bow_Hunter_Refund.RefundAmmoPercentChance * 100]}%\u0026lt;/font\u0026gt; chance to get your arrow back.",
+        "Description": "When you land a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;headshot\u0026lt;/font\u0026gt;, deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; more damage and have a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt; chance to get your arrow back.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive19.png",
         "StatusEffectIcon": "",

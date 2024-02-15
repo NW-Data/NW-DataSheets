@@ -2,7 +2,7 @@
     {
         "AbilityID": "Ability_Rapier_Slash",
         "DisplayName": "Tondo",
-        "Description": "Slash so quickly that it extends the reach of your blade up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;5m\u0026lt;/font\u0026gt;. This strike deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.1H_Rapier_Slash.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and applies a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt; that will deal an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Bleed_DOT.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Bleed_DOT.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Stacks up to 3 times and refreshes previous applications.)\u0026lt;/font\u0026gt;",
+        "Description": "Slash so quickly that it extends the reach of your blade up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;5m\u0026lt;/font\u0026gt;. This strike deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and applies a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt; that will deal an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[12.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Stacks up to 3 times and refreshes previous applications.)\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability1_Slash.png",
         "StatusEffectIcon": "",
@@ -138,7 +138,7 @@
     {
         "AbilityID": "Rapier_Slash_Mod1",
         "DisplayName": "Thirst For Blood",
-        "Description": "When applying the first \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt; stack to an opponent, Tondo's cooldown is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Slash_Mod1.cooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "When applying the first \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt; stack to an opponent, Tondo's cooldown is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability1Mod1_Pressure.png",
         "StatusEffectIcon": "",
@@ -274,7 +274,7 @@
     {
         "AbilityID": "Rapier_Slash_Mod2",
         "DisplayName": "And Again",
-        "Description": "If you hit only \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1\u0026lt;/font\u0026gt; target, even on a blocked hit, Tondo's cooldown is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Slash_Mod2.cooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "If you hit only \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1\u0026lt;/font\u0026gt; target, even on a blocked hit, Tondo's cooldown is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.250000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability1Mod2_CompoundAttack.png",
         "StatusEffectIcon": "",
@@ -410,7 +410,7 @@
     {
         "AbilityID": "Rapier_Slash_Mod3",
         "DisplayName": "Proper Spacing",
-        "Description": "Increases initial hit damage from Tondo by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Slash_Mod3.BaseDamage * 100]}%\u0026lt;/font\u0026gt; if the target is already inflicted with rapier's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt;.",
+        "Description": "Increases initial hit damage from Tondo by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; if the target is already inflicted with rapier's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_EvasionPass2_ControlledBreathing.png",
         "StatusEffectIcon": "",
@@ -546,7 +546,7 @@
     {
         "AbilityID": "Ability_Rapier_Flurry",
         "DisplayName": "Flurry",
-        "Description": "Enter a posed stance and unleash a series of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;5\u0026lt;/font\u0026gt; quick thrust attacks with each strike dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.1H_Rapier_Flurry_Strike_1.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \\n\\nFlurry can be canceled at any time by dodging or by using another ability.\\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Enter a posed stance and unleash a series of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;5\u0026lt;/font\u0026gt; quick thrust attacks with each strike dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.600000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \\n\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;Flurry can be cancelled at any time by dodging or by using another ability.\u0026lt;/font\u0026gt;\\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability2_Flurry.png",
         "StatusEffectIcon": "",
@@ -682,7 +682,7 @@
     {
         "AbilityID": "Rapier_Flurry_All_In",
         "DisplayName": "Overwhelm",
-        "Description": "Each hit of Flurry does \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Flurry_All_In.BlockDamage * 100]}%\u0026lt;/font\u0026gt; more block damage.",
+        "Description": "Each hit of Flurry does \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt; more block damage.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability2Mod2_All_In.png",
         "StatusEffectIcon": "",
@@ -818,7 +818,7 @@
     {
         "AbilityID": "Rapier_Flurry_Weakness",
         "DisplayName": "To the Bone",
-        "Description": "Each hit of Flurry extends the rapier's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Flurry_Weakness.TargetStatusEffectDurationMod]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Future stacking applications of this extended bleed will also be extended to its longer duration.)\u0026lt;/font\u0026gt;",
+        "Description": "Each hit of Flurry extends the rapier's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Future stacking applications of this extended bleed will also be extended to its longer duration.)\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability2Mod3_ContinuedWeakness.png",
         "StatusEffectIcon": "",
@@ -954,7 +954,7 @@
     {
         "AbilityID": "Rapier_Flurry_Haste",
         "DisplayName": "Fleeting Strikes",
-        "Description": "Each hit of Flurry reduces its cooldown by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Flurry_Haste.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Each hit of Flurry reduces its cooldown by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability2Mod1_HastyFlurry.png",
         "StatusEffectIcon": "",
@@ -1090,7 +1090,7 @@
     {
         "AbilityID": "Rapier_Flurry_Mod4",
         "DisplayName": "Finalize",
-        "Description": "The last hit of Flurry will inflict the enemy with a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Bleed_DOT.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Bleed_DOT.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "The last hit of Flurry will inflict the enemy with a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[12.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_EvasionPass4_ArtOfBattle.png",
         "StatusEffectIcon": "",
@@ -1226,7 +1226,7 @@
     {
         "AbilityID": "Ability_Rapier_Flourish",
         "DisplayName": "Flourish and Finish",
-        "Description": "Flourish performs an attack dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.1H_Rapier_Flourish.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;staggering\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;pushing back\u0026lt;/font\u0026gt; enemies. \\n\\nPressing basic attack at the end of Flourish will perform the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;follow up\u0026lt;/font\u0026gt; attack, Finish. \\n\\nFinish lunges forward dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.1H_Rapier_Finish.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;direct weapon damage and consumes all rapier bleeds on any target hit dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Ability_Rapier_Flourish.ConsumeTargetStatusEffectMult * 100]}%\u0026lt;/font\u0026gt; of their damage immediately.",
+        "Description": "Flourish performs an attack dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.600000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;staggering\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;pushing back\u0026lt;/font\u0026gt; enemies. \\n\\nPressing basic attack at the end of Flourish will perform the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;follow up\u0026lt;/font\u0026gt; attack, Finish. \\n\\nFinish lunges forward dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.200000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;direct weapon damage and consumes all rapier bleeds on any target hit dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.100000 * 100]}%\u0026lt;/font\u0026gt; of their damage immediately.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability3_Flourish.png",
         "StatusEffectIcon": "",
@@ -1362,7 +1362,7 @@
     {
         "AbilityID": "Rapier_Flourish_Mod1",
         "DisplayName": "With Flair",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt; on both Flourish and Finish. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt; on both Flourish and Finish. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability3Mod1_Grit.png",
         "StatusEffectIcon": "",
@@ -1498,7 +1498,7 @@
     {
         "AbilityID": "Rapier_Flourish_Mod2",
         "DisplayName": "Swagger",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Finish_Stam_Mod2.Stamina]}\u0026lt;/font\u0026gt; stamina when successfully hitting a target with Finish.",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[20.000000]}\u0026lt;/font\u0026gt; stamina when successfully hitting a target with Finish.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability3Mod2_Stamina.png",
         "StatusEffectIcon": "",
@@ -1634,7 +1634,7 @@
     {
         "AbilityID": "Rapier_Flourish_Mod3",
         "DisplayName": "Fuel",
-        "Description": "Each tick of damage from Tondo's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt; reduces the cooldown of this ability by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Flourish_Mod3.cooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Each tick of damage from Tondo's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt; reduces the cooldown of this ability by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.035000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_BloodMasterPass2_HeavyBleeds.png",
         "StatusEffectIcon": "",
@@ -1770,7 +1770,7 @@
     {
         "AbilityID": "Rapier_Flourish_Mod4",
         "DisplayName": "Bloody End",
-        "Description": "Finish deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Flourish_Mod4.ConsumeTargetStatusEffectMult * 100]}%\u0026lt;/font\u0026gt; of the rapier's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt; damage instead of only \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Ability_Rapier_Flourish.ConsumeTargetStatusEffectMult * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Finish deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.500000 * 100]}%\u0026lt;/font\u0026gt; of the rapier's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt; damage instead of only \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.100000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability3Mod3_DeadlyFinish.png",
         "StatusEffectIcon": "",
@@ -1906,7 +1906,7 @@
     {
         "AbilityID": "PassiveRapier01",
         "DisplayName": "Light Edge",
-        "Description": "Increase damage from both middle swipe attacks in the light attack chain by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.PassiveRapier01.BaseDamage * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Increase damage from both middle swipe attacks in the light attack chain by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.080000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/Rapier_BloodMasterPass5_DoubleSlash.png",
         "StatusEffectIcon": "",
@@ -2042,7 +2042,7 @@
     {
         "AbilityID": "PassiveRapier02",
         "DisplayName": "Refreshing Strikes",
-        "Description": "Reduce all rapier cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.PassiveRapier02.cooldownTimer * -100]}%\u0026lt;/font\u0026gt; on any hit. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[RapierAbilityTable.PassiveRapier02.NumberOfTrackedHits]} reductions per attack.)\u0026lt;/font\u0026gt;",
+        "Description": "Reduce all rapier cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.010000 * -100]}%\u0026lt;/font\u0026gt; on any hit. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} reductions per attack.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/Rapier_BloodMasterPass2_HeavyBleeds.png",
         "StatusEffectIcon": "",
@@ -2178,7 +2178,7 @@
     {
         "AbilityID": "PassiveRapier03",
         "DisplayName": "Heavy Puncture",
-        "Description": "Any heavy attack on a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleeding\u0026lt;/font\u0026gt; enemy will extend their rapier \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleeds\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.PassiveRapier03.TargetStatusEffectDurationMod]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Future stacking applications of this extended bleed will also be extended to its longer duration.)\u0026lt;/font\u0026gt;",
+        "Description": "Any heavy attack on a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleeding\u0026lt;/font\u0026gt; enemy will extend their rapier \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleeds\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Future stacking applications of this extended bleed will also be extended to its longer duration.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/Rapier_BloodMasterPass1_LightBleeds.png",
         "StatusEffectIcon": "",
@@ -2314,7 +2314,7 @@
     {
         "AbilityID": "PassiveRapier04",
         "DisplayName": "Unerring",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.PassiveRapier04.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage to targets with a rapier \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt;.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.050000 * 100]}%\u0026lt;/font\u0026gt; more damage to targets with a rapier \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/Rapier_BloodMasterPass4_BleedDamage.png",
         "StatusEffectIcon": "",
@@ -2450,7 +2450,7 @@
     {
         "AbilityID": "PassiveRapier05",
         "DisplayName": "Engarde",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.PassiveRapier05.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage when your target has greater than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.PassiveRapier05.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; more damage when your target has greater than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[50.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/Rapier_EvasionPass1_Perfectionist.png",
         "StatusEffectIcon": "",
@@ -2586,7 +2586,7 @@
     {
         "AbilityID": "Ability_Rapier_Riposte",
         "DisplayName": "Riposte",
-        "Description": "Enter into a defensive stance for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1s\u0026lt;/font\u0026gt;. If struck during this ability, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;counter\u0026lt;/font\u0026gt; the attacker dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.1H_Rapier_Riposte_Stun.DmgCoef * 100]}% \u0026lt;/font\u0026gt; weapon damage, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;staggering\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;stunning\u0026lt;/font\u0026gt; them for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Riposte_Stun.BaseDuration]}s\u0026lt;/font\u0026gt;. You are briefly \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;invulnerable\u0026lt;/font\u0026gt; upon a successful Riposte.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your rapier, activating this ability inflicts taunt for {[DamageTable.1H_Rapier_Riposte_Taunt.TauntDuration]}s to all foes within 5m. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
+        "Description": "Enter into a defensive stance for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1s\u0026lt;/font\u0026gt;. If struck during this ability, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;counter\u0026lt;/font\u0026gt; the attacker dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}% \u0026lt;/font\u0026gt; weapon damage, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;staggering\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;stunning\u0026lt;/font\u0026gt; them for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;. You are briefly \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;invulnerable\u0026lt;/font\u0026gt; upon a successful Riposte.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your rapier, activating this ability inflicts taunt for {[4.000000]}s to all foes within 5m. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability4_Riposte.png",
         "StatusEffectIcon": "",
@@ -2722,7 +2722,7 @@
     {
         "AbilityID": "Rapier_Riposte_Mod1",
         "DisplayName": "Insult to Injury",
-        "Description": "If riposte successfully hits a target, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;empower\u0026lt;/font\u0026gt;, increasing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Riposte_Empower.DMGStandard * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Riposte_Empower.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "If riposte successfully hits a target, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;empower\u0026lt;/font\u0026gt;, increasing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability4Mod1_Insult_to_Injury.png",
         "StatusEffectIcon": "",
@@ -2858,7 +2858,7 @@
     {
         "AbilityID": "Rapier_Riposte_Mod2",
         "DisplayName": "Priority",
-        "Description": "Reduce the cooldown of other rapier abilities by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Riposte_Mod2.cooldownTimer * -100]}%\u0026lt;/font\u0026gt; when landing a Riposte counter attack.",
+        "Description": "Reduce the cooldown of other rapier abilities by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt; when landing a Riposte counter attack.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability4Mod2_Priority.png",
         "StatusEffectIcon": "",
@@ -2994,7 +2994,7 @@
     {
         "AbilityID": "Rapier_Riposte_Mod3",
         "DisplayName": "Lasting Consequence",
-        "Description": "Increase the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;stun\u0026lt;/font\u0026gt; from Riposte to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Riposte_Stun_Enhanced.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Increase the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;stun\u0026lt;/font\u0026gt; from Riposte to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.500000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability4Mod3.png",
         "StatusEffectIcon": "",
@@ -3130,7 +3130,7 @@
     {
         "AbilityID": "Ability_Rapier_Aerial_Lunge_Intro",
         "DisplayName": "Fleche",
-        "Description": "Leave the ground lunging forward for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;10m\u0026lt;/font\u0026gt; in a stabbing motion and pierce through enemies dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.1H_Rapier_Aerial_Lunge.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
+        "Description": "Leave the ground lunging forward for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;10m\u0026lt;/font\u0026gt; in a stabbing motion and pierce through enemies dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.450000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability5_AerialLunge.png",
         "StatusEffectIcon": "",
@@ -3266,7 +3266,7 @@
     {
         "AbilityID": "Rapier_Aerial_Lunge_Mod1",
         "DisplayName": "Quick Lunge",
-        "Description": "Killing with this ability reduces its cooldown by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Aerial_Lunge_Mod1.cooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Killing with this ability reduces its cooldown by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.800000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability5Mod1_RenewedVigor.png",
         "StatusEffectIcon": "",
@@ -3402,7 +3402,7 @@
     {
         "AbilityID": "Rapier_Aerial_Lunge_Mod2",
         "DisplayName": "Backside",
-        "Description": "After performing Fleche, your next critical strike within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Fleche_Backstab.BaseDuration]}s\u0026lt;/font\u0026gt; will deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Aerial_Lunge_Mod2.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage.",
+        "Description": "After performing Fleche, your next critical strike within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt; will deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; more damage.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_BloodMasterPass5_DoubleSlash.png",
         "StatusEffectIcon": "",
@@ -3538,7 +3538,7 @@
     {
         "AbilityID": "Rapier_Aerial_Lunge_Mod3",
         "DisplayName": "Interruption",
-        "Description": "Pressing basic attack any time during Fleche will stop and perform a static, continuation attack dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.1H_Rapier_Wake.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;damage.",
+        "Description": "Pressing basic attack any time during Fleche will stop and perform a static, continuation attack dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.150000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;damage.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability5Mod2_Wake.png",
         "StatusEffectIcon": "",
@@ -3674,7 +3674,7 @@
     {
         "AbilityID": "Ability_Rapier_Evasion",
         "DisplayName": "Evade",
-        "Description": "Perform a small, reliable sidestep in your current movement direction that cancels any current activity and provides momentary \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;invulnerability\u0026lt;/font\u0026gt;. Light attacks made during Evade are performed exceptionally fast.",
+        "Description": "Perform a small, reliable sidestep in your current movement direction that cancels any current activity and provides momentary \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;invulnerability\u0026lt;/font\u0026gt;. Light attacks made during Evade are performed exceptionally fast.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability6_Evade.png",
         "StatusEffectIcon": "",
@@ -3810,7 +3810,7 @@
     {
         "AbilityID": "Rapier_Evasion_Mod1",
         "DisplayName": "Crescendo",
-        "Description": "Individual successful light attacks reduce the cooldown of this ability by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Evasion_Mod1.cooldownTimer * -100]}%\u0026lt;/font\u0026gt; each.",
+        "Description": "Individual successful light attacks reduce the cooldown of this ability by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.300000 * -100]}%\u0026lt;/font\u0026gt; each.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability6Mod4_BurstTempo.png",
         "StatusEffectIcon": "",
@@ -3946,7 +3946,7 @@
     {
         "AbilityID": "Rapier_Evasion_Mod2",
         "DisplayName": "Allegro",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Evasion_Mod2.MoveSpeedMod* 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Evasion_Mod2.BaseDuration]}s\u0026lt;/font\u0026gt; after successfully evading through an enemy attack. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000* 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt; after successfully evading through an enemy attack. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability6Mod2_MinorTempo.png",
         "StatusEffectIcon": "",
@@ -4082,7 +4082,7 @@
     {
         "AbilityID": "Rapier_Evasion_Mod3",
         "DisplayName": "Adagio",
-        "Description": "Evading forward gains \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_Evasion_Mod3.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage on your next light attack. Ends on hit or after \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Evade_Forward_Damage.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Evading forward gains \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; increased damage on your next light attack. Ends on hit or after \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability6Mod3_MajorTempo.png",
         "StatusEffectIcon": "",
@@ -4218,7 +4218,7 @@
     {
         "AbilityID": "Rapier_Evasion_Mod4",
         "DisplayName": "Breathe In",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_Evasion_Mod1.Stamina]}\u0026lt;/font\u0026gt; stamina after successfully evading through an enemy attack.",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[20.000000]}\u0026lt;/font\u0026gt; stamina after successfully evading through an enemy attack.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/Rapier_Ability6Mod1_Breath.png",
         "StatusEffectIcon": "",
@@ -4354,7 +4354,7 @@
     {
         "AbilityID": "Rapier_BonusDMGMaxHP",
         "DisplayName": "Perfectionist",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_BonusDMGMaxHP.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage when your health is full.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; more damage when your health is full.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/Rapier_EvasionPass1_Perfectionist.png",
         "StatusEffectIcon": "",
@@ -4490,7 +4490,7 @@
     {
         "AbilityID": "Rapier_BonusStamRegenOnKill",
         "DisplayName": "Controlled Breathing",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusStamOnHit.Stamina]}\u0026lt;/font\u0026gt; stamina on any hit.",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}\u0026lt;/font\u0026gt; stamina on any hit.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/Rapier_EvasionPass2_ControlledBreathing.png",
         "StatusEffectIcon": "",
@@ -4626,7 +4626,7 @@
     {
         "AbilityID": "Rapier_BonusSpeedOnKill",
         "DisplayName": "Swiftness",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusSpeedOnKill.MoveSpeedMod * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusSpeedOnKill.BaseDuration]}s\u0026lt;/font\u0026gt; on rapier hits. Can stack up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusSpeedOnKill.StackMax]}\u0026lt;/font\u0026gt; times. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.030000 * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt; on rapier hits. Can stack up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}\u0026lt;/font\u0026gt; times. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/Rapier_EvasionPass4_ArtOfBattle.png",
         "StatusEffectIcon": "",
@@ -4762,7 +4762,7 @@
     {
         "AbilityID": "Rapier_BonusDmgLowStamina",
         "DisplayName": "Desperation",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_BonusDmgLowStamina.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage when your stamina is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_BonusDmgLowStamina.MyStaminaPercent]}%.\u0026lt;/font\u0026gt;",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; more damage when your stamina is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[40.000000]}%.\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/Rapier_EvasionPass5_DodgeIn.png",
         "StatusEffectIcon": "",
@@ -4898,7 +4898,7 @@
     {
         "AbilityID": "Rapier_BonusDMGAfterAbility",
         "DisplayName": "Momentum",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_BonusDMGAfterAbility.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage on your next light or heavy attack after performing an ability. Ends on hit or after \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusDMGAfterAbility.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.300000 * 100]}%\u0026lt;/font\u0026gt; increased damage on your next light or heavy attack after performing an ability. Ends on hit or after \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/Rapier_EvasionPass3_Momentum.png",
         "StatusEffectIcon": "",
@@ -5034,7 +5034,7 @@
     {
         "AbilityID": "Rapier_BonusCDOnCrit",
         "DisplayName": "Red Curtains",
-        "Description": "Critical strikes reduce all cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_BonusCDOnCrit.cooldownTimer * -100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[RapierAbilityTable.Rapier_BonusCDOnCrit.NumberOfTrackedHits]} reductions per attack.)\u0026lt;/font\u0026gt;",
+        "Description": "Critical strikes reduce all cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} reductions per attack.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/Rapier_BloodMasterPass2_HeavyBleeds.png",
         "StatusEffectIcon": "",

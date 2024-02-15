@@ -492,7 +492,7 @@
     {
         "StatusID": "Status_Ultimate_Greataxe_Mauler",
         "DisplayName": "Mauler's Fury",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.Status_Ultimate_Greataxe_Mauler.DMGStandard * 100]}%.",
+        "Description": "Your damage is increased by {[0.030000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT1.png",
         "ShowInUITray": true,
@@ -737,7 +737,7 @@
     {
         "StatusID": "Status_Ultimate_Greataxe_Reaper",
         "DisplayName": "Blood Lust",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.Status_Ultimate_Greataxe_Reaper.SprintSpeedMod * 100]}%.\\nYour damage is increased by {[Type_StatusEffectData.Status_Ultimate_Greataxe_Reaper.DMGStandard * 100]}%.",
+        "Description": "Your movement speed is increased by {[0.200000 * 100]}%.\\nYour damage is increased by {[0.150000 * 100]}%.",
         "EffectCategories": "Buff+Haste+NonDispellableEmpower",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": true,
@@ -982,7 +982,7 @@
     {
         "StatusID": "Status_Passive_Greataxe_Reaper_DmgOnLight",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.Status_Passive_Greataxe_Reaper_DmgOnLight.DMGStandard * 100]}%.",
+        "Description": "Your damage is increased by {[0.050000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,
@@ -1227,7 +1227,7 @@
     {
         "StatusID": "Status_Passive_Greataxe_Reaper_HasteOnLight",
         "DisplayName": "Haste",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.Status_Passive_Greataxe_Reaper_HasteOnLight.SprintSpeedMod * 100]}%.",
+        "Description": "Your movement speed is increased by {[0.200000 * 100]}%.",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": true,
@@ -1438,7 +1438,7 @@
         "AFACurse": "",
         "AFABlight": "",
         "StackDuration": 0,
-        "DurationMax": 3,
+        "DurationMax": 6,
         "InheritDuration": "1",
         "InheritTotalDuration": false,
         "RefreshDuration": "0",
@@ -1472,7 +1472,7 @@
     {
         "StatusID": "Status_Passive_Greataxe_Reaper_DmgWhenBlocked",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.Status_Passive_Greataxe_Reaper_DmgWhenBlocked.DMGStandard * 100]}%.",
+        "Description": "Your damage is increased by {[0.150000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT3.png",
         "ShowInUITray": true,
@@ -1962,7 +1962,7 @@
     {
         "StatusID": "Status_Passive_Greataxe_Mauler_DmgOnBlock",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.Status_Passive_Greataxe_Mauler_DmgOnBlock.DMGStandard * 100]}%.",
+        "Description": "Your damage is increased by {[0.050000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT1.png",
         "ShowInUITray": true,
@@ -2207,7 +2207,7 @@
     {
         "StatusID": "Status_Upgrade_Greataxe_GravityWell_ArmorInWell",
         "DisplayName": "Fortify",
-        "Description": "Your armor is increased by {[Type_StatusEffectData.Status_Upgrade_Greataxe_GravityWell_ArmorInWell.PhysicalArmor * 100]}%.",
+        "Description": "Your armor is increased by {[0.100000 * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT3.png",
         "ShowInUITray": true,
@@ -2942,7 +2942,7 @@
     {
         "StatusID": "Status_Passive_Greataxe_Mauler_DmgWhenFoesNear",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.Status_Passive_Greataxe_Mauler_DmgWhenFoesNear.DMGStandard * 100]}%.",
+        "Description": "Your damage is increased by {[0.100000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,
@@ -3187,7 +3187,7 @@
     {
         "StatusID": "Status_Passive_Greataxe_Mauler_ArmorWhenFoesNear",
         "DisplayName": "Fortify",
-        "Description": "Your armor is increased by {[Type_StatusEffectData.Status_Passive_Greataxe_Mauler_ArmorWhenFoesNear.PhysicalArmor * 100]}%.",
+        "Description": "Your armor is increased by {[0.200000 * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT2.png",
         "ShowInUITray": true,

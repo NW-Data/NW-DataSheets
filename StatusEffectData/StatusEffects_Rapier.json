@@ -2,7 +2,7 @@
     {
         "StatusID": "Rapier_Bleed_DOT",
         "DisplayName": "Bleed",
-        "Description": "Deals {[Type_StatusEffectData.Rapier_Bleed_DOT.HealthModifierDamageBased * -100]}% of attacker's weapon damage each second.",
+        "Description": "Deals {[-0.100000 * -100]}% of attacker's weapon damage each second.",
         "EffectCategories": "Debuff+Bleed+Dot",
         "PlaceholderIcon": "lyshineui/images/status/SE_BleedT2.png",
         "ShowInUITray": "TRUE",
@@ -2243,7 +2243,7 @@
     {
         "StatusID": "Rapier_BonusDMGAfterAbility",
         "DisplayName": "",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[RapierAbilityTable.Rapier_BonusDMGAfterAbility.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage on your next light or heavy attack after performing an ability. Ends on hit or after \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusDMGAfterAbility.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.300000 * 100]}%\u0026lt;/font\u0026gt; increased damage on your next light or heavy attack after performing an ability. Ends on hit or after \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT5.png",
         "ShowInUITray": "1",
@@ -2741,7 +2741,7 @@
     {
         "StatusID": "Rapier_BonusSpeedOnKill",
         "DisplayName": "Haste",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusSpeedOnKill.MoveSpeedMod * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusSpeedOnKill.BaseDuration]}s\u0026lt;/font\u0026gt; on rapier hits. Can stack up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Rapier_BonusSpeedOnKill.StackMax]}\u0026lt;/font\u0026gt; times. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.030000 * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt; on rapier hits. Can stack up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}\u0026lt;/font\u0026gt; times. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": "1",
@@ -2985,7 +2985,7 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": 0.25
+        "ApplicationCooldown": 0.1
     },
     {
         "StatusID": "Rapier_Riposte_Uninterruptible",
@@ -3488,7 +3488,7 @@
     {
         "StatusID": "Rapier_Riposte_Empower",
         "DisplayName": "Riposte Empower",
-        "Description": "Damage increased by {[Type_StatusEffectData.Rapier_Riposte_Empower.DMGStandard * 100]}%.",
+        "Description": "Damage increased by {[0.100000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT1.png",
         "ShowInUITray": "1",

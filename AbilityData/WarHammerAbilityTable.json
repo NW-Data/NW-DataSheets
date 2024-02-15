@@ -2,7 +2,7 @@
     {
         "AbilityID": "Ability_Warhammer_ArmorBreaker",
         "DisplayName": "Armor Breaker",
-        "Description": "A powerful swing that penetrates \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Ability_WarHammer_ArmorBreaker.ArmorPenetration * 100]}%\u0026lt;/font\u0026gt; of the target's armor and deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Warhammer_Damage_ArmorBreaker.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
+        "Description": "A powerful swing that penetrates \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.350000 * 100]}%\u0026lt;/font\u0026gt; of the target's armor and deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.600000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability01.png",
         "StatusEffectIcon": "",
@@ -138,7 +138,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_ArmBreak_Grit",
         "DisplayName": "Indomitable",
-        "Description": "Adds \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt; to Armor Breaker.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Adds \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt; to Armor Breaker.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability01_Mod01.png",
         "StatusEffectIcon": "",
@@ -274,7 +274,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_ArmBreak_Rend",
         "DisplayName": "Lasting Trauma",
-        "Description": "Armor Breaker inflicts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;rend\u0026lt;/font\u0026gt; on the target, reducing target's armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_ArmorBreaker_Rend.PhysicalArmor * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_ArmorBreaker_Rend.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Armor Breaker inflicts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;rend\u0026lt;/font\u0026gt; on the target, reducing target's armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.300000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability01_Mod02.png",
         "StatusEffectIcon": "",
@@ -410,7 +410,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_ArmBreak_DmgFullHealth",
         "DisplayName": "Opening Act",
-        "Description": "Increase Armor Breaker damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Upgrade_WarHammer_ArmBreak_DmgFullHealth.BaseDamage * 100]}%\u0026lt;/font\u0026gt; against targets above \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Upgrade_WarHammer_ArmBreak_DmgFullHealth.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "Increase Armor Breaker damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt; against targets above \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[70.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability01_Mod03.png",
         "StatusEffectIcon": "",
@@ -546,7 +546,7 @@
     {
         "AbilityID": "Ability_WarHammer_MightyGavel",
         "DisplayName": "Mighty Gavel",
-        "Description": "An overhead leaping attack that \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;crushes down\u0026lt;/font\u0026gt; on enemies, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Warhammer_Damage_MightyGavel.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your war hammer, hits with this ability inflict taunt for {[DamageTable.Warhammer_Damage_MightyGavel.TauntDuration]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
+        "Description": "An overhead leaping attack that \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;crushes down\u0026lt;/font\u0026gt; on enemies, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.700000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your war hammer, hits with this ability inflict taunt for {[4.000000]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability02.png",
         "StatusEffectIcon": "",
@@ -682,7 +682,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_Gavel_DmgUnder30pctHP",
         "DisplayName": "Summary Judgment",
-        "Description": "Increases Mighty Gavel damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Upgrade_WarHammer_Gavel_DmgUnder30pctHP.BaseDamage * 100]}%\u0026lt;/font\u0026gt; to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Upgrade_WarHammer_Gavel_DmgUnder30pctHP.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "Increases Mighty Gavel damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability02_Mod01.png",
         "StatusEffectIcon": "",
@@ -818,7 +818,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_Gavel_StaminaDmg",
         "DisplayName": "Impact Fracture",
-        "Description": "Increase \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;stamina damage\u0026lt;/font\u0026gt; done by Mighty Gavel by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Upgrade_WarHammer_Gavel_StaminaDmg.BlockDamage * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Increase \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;stamina damage\u0026lt;/font\u0026gt; done by Mighty Gavel by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability02_Mod02.png",
         "StatusEffectIcon": "",
@@ -954,7 +954,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_Gavel_Haste",
         "DisplayName": "Expedite",
-        "Description": "After a successful Mighty Gavel attack, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing player's movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Gavel_Haste.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Gavel_Haste.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "After a successful Mighty Gavel attack, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing player's movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.300000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability02_Mod03.png",
         "StatusEffectIcon": "",
@@ -1090,7 +1090,7 @@
     {
         "AbilityID": "Ability_Warhammer_MightyGavel_Upg",
         "DisplayName": "Justice For All",
-        "Description": "Mighty Gavel now has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt;, its critical hit chance is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Ability_Warhammer_MightyGavel_Upg.CritChance * 100]}%\u0026lt;/font\u0026gt;, and hits will reduce all other war hammer cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Ability_Warhammer_MightyGavel_Upg.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt; (Cooldown reduction only occurs once per attack)\u0026lt;/font\u0026gt;. \\n\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Mighty Gavel now has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;, its critical hit chance is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt;, and hits will reduce all other war hammer cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt; (Cooldown reduction only occurs once per attack.)\u0026lt;/font\u0026gt; \\n\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ult01.png",
         "StatusEffectIcon": "",
@@ -1226,7 +1226,7 @@
     {
         "AbilityID": "Ability_WarHammer_WreckingBall",
         "DisplayName": "Wrecking Ball",
-        "Description": "Strike the ground with your war hammer, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Warhammer_Damage_WreckingBall.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;knocking down\u0026lt;/font\u0026gt; your target. \\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Strike the ground with your war hammer, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.900000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;knocking down\u0026lt;/font\u0026gt; your target. \\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability03.png",
         "StatusEffectIcon": "",
@@ -1362,7 +1362,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_Wreck_Fortify",
         "DisplayName": "Safety Measures",
-        "Description": "On a successful hit, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;fortify\u0026lt;/font\u0026gt;, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_WreckingBall_Fortify.PhysicalArmor * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_WreckingBall_Fortify.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "On a successful hit, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;fortify\u0026lt;/font\u0026gt;, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[7.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability03_Mod01.png",
         "StatusEffectIcon": "",
@@ -1498,7 +1498,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_Wreck_Pushback",
         "DisplayName": "Breathing Room",
-        "Description": "Expands the range of Wrecking Ball to a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1.5m\u0026lt;/font\u0026gt; radius.",
+        "Description": "Expands the range of Wrecking Ball to a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1.5m\u0026lt;/font\u0026gt; radius.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability03_Mod02.png",
         "StatusEffectIcon": "",
@@ -1634,7 +1634,7 @@
     {
         "AbilityID": "Passive_WarHammer_Juggernaut_LightHeavyPenetrate",
         "DisplayName": "Epitome Of Bonk!",
-        "Description": "Increase armor penetration by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Passive_WarHammer_Juggernaut_LightHeavyPenetrate.ArmorPenetration * 100]}%\u0026lt;/font\u0026gt; for all war hammer basic attacks.",
+        "Description": "Increase armor penetration by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; for all war hammer basic attacks.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive01.png",
         "StatusEffectIcon": "",
@@ -1770,7 +1770,7 @@
     {
         "AbilityID": "Passive_WarHammer_Juggernaut_HeavyEmpower",
         "DisplayName": "Hammer Time",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;empower\u0026lt;/font\u0026gt; on heavy attacks, increasing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Warhammer_Pass_HeavyEmpower.DMGStandard * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Warhammer_Pass_HeavyEmpower.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;empower\u0026lt;/font\u0026gt; on heavy attacks, increasing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive02.png",
         "StatusEffectIcon": "",
@@ -1906,7 +1906,7 @@
     {
         "AbilityID": "Passive_WarHammer_Juggernaut_ExhaustOnHit",
         "DisplayName": "Exhaustive Attacks",
-        "Description": "All war hammer abilities apply \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;exhaust\u0026lt;/font\u0026gt;, slowing target's stamina regeneration by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Warhammer_Pass_ExhaustOnHit.StaminaRate * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Warhammer_Pass_ExhaustOnHit.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Does not stack.)\u0026lt;/font\u0026gt;",
+        "Description": "All war hammer abilities apply \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;exhaust\u0026lt;/font\u0026gt;, slowing target's stamina regeneration by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Does not stack.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive03.png",
         "StatusEffectIcon": "",
@@ -2042,7 +2042,7 @@
     {
         "AbilityID": "Passive_WarHammer_Juggernaut_HeavyGrit",
         "DisplayName": "Hardened Steel",
-        "Description": "Adds \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt; to war hammer heavy attacks. Also grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Passive_WarHammer_Juggernaut_HeavyGrit.BaseDamageReduction * 100]}%\u0026lt;/font\u0026gt; damage reduction while \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt; is active. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Adds \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt; to war hammer heavy attacks. Also grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.120000 * 100]}%\u0026lt;/font\u0026gt; damage reduction while \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt; is active. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive04.png",
         "StatusEffectIcon": "",
@@ -2178,7 +2178,7 @@
     {
         "AbilityID": "Passive_WarHammer_Juggernaut_HeavyvsLowHP",
         "DisplayName": "Contemption",
-        "Description": "Increase heavy attack damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Passive_WarHammer_Juggernaut_HeavyvsLowHP.BaseDamage * 100]}%\u0026lt;/font\u0026gt; against targets under \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Passive_WarHammer_Juggernaut_HeavyvsLowHP.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "Increase heavy attack damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; against targets under \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive05.png",
         "StatusEffectIcon": "",
@@ -2314,7 +2314,7 @@
     {
         "AbilityID": "Passive_WarHammer_Juggernaut_CDROnHit",
         "DisplayName": "Quick Recovery",
-        "Description": "Heavy attacks that hit reduce cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;7%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[WarHammerAbilityTable.Passive_WarHammer_Juggernaut_CDROnHit.NumberOfTrackedHits]} reductions per attack.)\u0026lt;/font\u0026gt;",
+        "Description": "Heavy attacks that hit reduce cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;7%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} reductions per attack.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive06.png",
         "StatusEffectIcon": "",
@@ -2450,7 +2450,7 @@
     {
         "AbilityID": "Passive_WarHammer_Juggernaut_DmgAfterTakingDmg",
         "DisplayName": "Power Through Pain",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Pass_EmpowerOnDmgTaken.DMGStandard * 100]}%\u0026lt;/font\u0026gt; extra damage for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Pass_EmpowerOnDmgTaken.BaseDuration]}s\u0026lt;/font\u0026gt; after taking damage.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.350000 * 100]}%\u0026lt;/font\u0026gt; extra damage for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000]}s\u0026lt;/font\u0026gt; after taking damage.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive07.png",
         "StatusEffectIcon": "",
@@ -2586,7 +2586,7 @@
     {
         "AbilityID": "Ability_WarHammer_ClearOut",
         "DisplayName": "Clear Out",
-        "Description": "A wide swing that \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;knocks back\u0026lt;/font\u0026gt; targets \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;4m\u0026lt;/font\u0026gt; and deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Warhammer_Damage_ClearOut.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
+        "Description": "A wide swing that \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;knocks back\u0026lt;/font\u0026gt; targets \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;4m\u0026lt;/font\u0026gt; and deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability04.png",
         "StatusEffectIcon": "",
@@ -2722,7 +2722,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_ClearOut_FortifyAOE",
         "DisplayName": "Power Cleaner",
-        "Description": "Hitting a target with Clear Out grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;fortify\u0026lt;/font\u0026gt;, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_ClearOut_FortifyBuff.PhysicalArmor * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_ClearOut_FortifyBuff.BaseDuration]}s\u0026lt;/font\u0026gt; to all friendlies within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_WarHammer.WarHammer_Spell_ClearOut_Fortify.Radius]}m\u0026lt;/font\u0026gt;.",
+        "Description": "Hitting a target with Clear Out grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;fortify\u0026lt;/font\u0026gt;, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt; to all friendlies within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}m\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability04_Mod01.png",
         "StatusEffectIcon": "",
@@ -2858,7 +2858,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_ClearOut_CDRonHit",
         "DisplayName": "Clean and Refreshed",
-        "Description": "Clear Out's cooldown is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Upgrade_WarHammer_ClearOut_CDRonHit.CooldownTimer * -100]}%\u0026lt;/font\u0026gt; per enemy hit with the ability.",
+        "Description": "Clear Out's cooldown is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; per enemy hit with the ability.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability04_Mod02.png",
         "StatusEffectIcon": "",
@@ -2994,7 +2994,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_ClearOut_Haste",
         "DisplayName": "Swing Away",
-        "Description": "Using Clear Out on a target grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_ClearOut_Haste.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_ClearOut_Haste.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Using Clear Out on a target grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.300000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability04_Mod03.png",
         "StatusEffectIcon": "",
@@ -3130,7 +3130,7 @@
     {
         "AbilityID": "Ability_WarHammer_Shockwave",
         "DisplayName": "Shockwave",
-        "Description": "Slam your war hammer into the ground, causing a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_WarHammer.WarHammer_Spell_Shockwave.Radius]}m\u0026lt;/font\u0026gt; radius earthquake that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Warhammer_Damage_Shockwave.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;staggering\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;stunning\u0026lt;/font\u0026gt; all impacted targets for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Shockwave_Stun.BaseDuration]}s\u0026lt;/font\u0026gt;. \\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your war hammer, this ability inflicts taunt for {[DamageTable.Warhammer_Damage_Shockwave.TauntDuration]}s to all enemies hit. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
+        "Description": "Slam your war hammer into the ground, causing a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}m\u0026lt;/font\u0026gt; radius earthquake that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.600000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;staggering\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;stunning\u0026lt;/font\u0026gt; all impacted targets for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;. \\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your war hammer, this ability inflicts taunt for {[6.000000]}s to all enemies hit. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability05.png",
         "StatusEffectIcon": "",
@@ -3266,7 +3266,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_Shockwave_Weaken",
         "DisplayName": "Frailty",
-        "Description": "The trauma of the attack causes \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;weaken\u0026lt;/font\u0026gt;, decreasing the damage dealt from the target's attacks by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Shockwave_Weaken.DMGStandard * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Shockwave_Weaken.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "The trauma of the attack causes \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;weaken\u0026lt;/font\u0026gt;, decreasing the damage dealt from the target's attacks by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability05_Mod01.png",
         "StatusEffectIcon": "",
@@ -3402,7 +3402,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_Shockwave_SizeIncrease",
         "DisplayName": "Meteoric Crater",
-        "Description": "Expands the range Shockwave to a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_WarHammer.WarHammer_Spell_Shockwave_L2.Radius]}m\u0026lt;/font\u0026gt; radius.",
+        "Description": "Expands the range Shockwave to a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}m\u0026lt;/font\u0026gt; radius.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability05_Mod02.png",
         "StatusEffectIcon": "",
@@ -3538,7 +3538,7 @@
     {
         "AbilityID": "Ability_WarHammer_PathOfDestiny",
         "DisplayName": "Path Of Destiny",
-        "Description": "A powerful ground strike that erupts a linear wave of energy in front of the player, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Warhammer_Damage_PathOfDestiny.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to all targets in its path.",
+        "Description": "A powerful ground strike that erupts a linear wave of energy in front of the player, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.700000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to all targets in its path.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability06.png",
         "StatusEffectIcon": "",
@@ -3674,7 +3674,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_PathOfDestiny_Stagger",
         "DisplayName": "Seismic Waves",
-        "Description": "Path of Destiny now \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;staggers\u0026lt;/font\u0026gt; all targets in its path.",
+        "Description": "Path of Destiny now \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;staggers\u0026lt;/font\u0026gt; all targets in its path.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability06_Mod01.png",
         "StatusEffectIcon": "",
@@ -3810,7 +3810,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_PathOfDestiny_CDRPerHit",
         "DisplayName": "Stimulated Reduction",
-        "Description": "Ability cooldown reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Upgrade_WarHammer_PathOfDestiny_CDRPerHit.CooldownTimer * -100]}%\u0026lt;/font\u0026gt; for each enemy hit with Path of Destiny. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[WarHammerAbilityTable.Upgrade_WarHammer_PathOfDestiny_CDRPerHit.NumberOfTrackedHits]} enemies.)\u0026lt;/font\u0026gt;",
+        "Description": "Ability cooldown reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; for each enemy hit with Path of Destiny. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} enemies.)\u0026lt;/font\u0026gt;",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability06_Mod02.png",
         "StatusEffectIcon": "",
@@ -3946,7 +3946,7 @@
     {
         "AbilityID": "Passive_WarHammer_CrowdCrusher_ArmorPerNearbyEnemy",
         "DisplayName": "Outnumbered",
-        "Description": "Increase armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_CrowdCrusher_ArmorNearbyEnemy.PhysicalArmor * 100]}%\u0026lt;/font\u0026gt; if surrounded by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2\u0026lt;/font\u0026gt; or more enemies within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_WarHammer.WarHammer_ArmorPerNearbyEnemy_Detection.Radius]}m\u0026lt;/font\u0026gt;.",
+        "Description": "Increase armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; if surrounded by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2\u0026lt;/font\u0026gt; or more enemies within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}m\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive08.png",
         "StatusEffectIcon": "",
@@ -4082,7 +4082,7 @@
     {
         "AbilityID": "Passive_WarHammer_CrowdCrusher_LessStaminaOnBlock",
         "DisplayName": "I Can Do This All Day",
-        "Description": "Reduce stamina consumption by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Passive_WarHammer_CrowdCrusher_LessStaminaOnBlock.BlockDamageReduction * 100]}%\u0026lt;/font\u0026gt; when blocking melee attacks.",
+        "Description": "Reduce stamina consumption by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.300000 * 100]}%\u0026lt;/font\u0026gt; when blocking melee attacks.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive09.png",
         "StatusEffectIcon": "",
@@ -4218,7 +4218,7 @@
     {
         "AbilityID": "Passive_WarHammer_CrowdCrusher_RangeAbsorbSprint",
         "DisplayName": "Guarded Sprint",
-        "Description": "Reduce damage taken by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Pass_SprintDmgReduction.ABSThrust * 100]}%\u0026lt;/font\u0026gt; while sprinting.",
+        "Description": "Reduce damage taken by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; while walking, running, and sprinting.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive10.png",
         "StatusEffectIcon": "",
@@ -4354,7 +4354,7 @@
     {
         "AbilityID": "Passive_WarHammer_CrowdCrusher_CDROnDebuffHit",
         "DisplayName": "Acceleration",
-        "Description": "Reduce war hammer cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Passive_WarHammer_CrowdCrusher_CDROnDebuffHit.CooldownTimer * -100]}%\u0026lt;/font\u0026gt; when using light attacks against targets with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[WarHammerAbilityTable.Passive_WarHammer_CrowdCrusher_CDROnDebuffHit.NumberOfTrackedHits]} reductions per attack.)\u0026lt;/font\u0026gt;",
+        "Description": "Reduce war hammer cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.070000 * -100]}%\u0026lt;/font\u0026gt; when using light attacks against targets with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} reductions per attack.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive11.png",
         "StatusEffectIcon": "",
@@ -4490,7 +4490,7 @@
     {
         "AbilityID": "Passive_WarHammer_CrowdCrusher_HasteOnDebuff",
         "DisplayName": "Facilitated Expedition",
-        "Description": "After hitting a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt;, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Pass_Haste.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Pass_Haste.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "After hitting a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt;, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive12.png",
         "StatusEffectIcon": "",
@@ -4626,7 +4626,7 @@
     {
         "AbilityID": "Passive_WarHammer_CrowdCrusher_DmgToWHDebuff",
         "DisplayName": "Concussive Impact",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Passive_WarHammer_CrowdCrusher_DmgToWHDebuff.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage against targets affected by war hammer \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuffs\u0026lt;/font\u0026gt;.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; increased damage against targets affected by war hammer \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuffs\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive13.png",
         "StatusEffectIcon": "",
@@ -4762,7 +4762,7 @@
     {
         "AbilityID": "Passive_WarHammer_CrowdCrusher_HPOnCCHit",
         "DisplayName": "Prevailing Spirit",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Heal\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[WarHammerAbilityTable.Passive_WarHammer_CrowdCrusher_HPOnCCHit.DmgPctToHealth * 100]}%\u0026lt;/font\u0026gt; of damage dealt when using a Crowd Crusher ability.",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Heal\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.350000 * 100]}%\u0026lt;/font\u0026gt; of damage dealt when using a Crowd Crusher ability.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive14.png",
         "StatusEffectIcon": "",
@@ -4898,7 +4898,7 @@
     {
         "AbilityID": "Passive_WarHammer_CrowdCrusher_DebuffReduction2Hits",
         "DisplayName": "Resurgence",
-        "Description": "After \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2\u0026lt;/font\u0026gt; light attacks with the war hammer, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt; durations on player are reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;25%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown 5s.)\u0026lt;/font\u0026gt;",
+        "Description": "After \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2\u0026lt;/font\u0026gt; light attacks with the war hammer, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt; durations on player are reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;25%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown 5s.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Passive15.png",
         "StatusEffectIcon": "",
@@ -5034,7 +5034,7 @@
     {
         "AbilityID": "Ult_Passive_WarHammer_SlowOnCC",
         "DisplayName": "Aftershock",
-        "Description": "Whenever a target is affected by a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;crowd control effect\u0026lt;/font\u0026gt;, they are slowed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Ult_SlowOnCC.MoveSpeedMod * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.WarHammer_Ult_SlowOnCC.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Whenever a target is hit by a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;crowd crusher tree\u0026lt;/font\u0026gt; ability, they are slowed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ult02.png",
         "StatusEffectIcon": "",

@@ -2,7 +2,7 @@
     {
         "AbilityID": "IceMagic_Spikes",
         "DisplayName": "Ice Spikes",
-        "Description": "Creates a trail of spikes that start from the player and go out in a straight line for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;8m\u0026lt;/font\u0026gt; dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.IceMagic_Spikes.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. The final spike is a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Mighty Spike\u0026lt;/font\u0026gt; that will deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.IceMagic_Spikes_End.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;pushing\u0026lt;/font\u0026gt; back enemies. Pressing basic attack before the path fully forms will spawn the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Mighty Spike\u0026lt;/font\u0026gt; early.\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.IceMagic_Spikes.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
+        "Description": "Creates a trail of spikes that start from the player and go out in a straight line for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;8m\u0026lt;/font\u0026gt; dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.610000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. The final spike is a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Mighty Spike\u0026lt;/font\u0026gt; that will deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.570000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;pushing\u0026lt;/font\u0026gt; back enemies. Pressing basic attack before the path fully forms will spawn the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Mighty Spike\u0026lt;/font\u0026gt; early.\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[15.000000]}\u0026lt;/font\u0026gt; mana.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "IceMagic_Spell_Spikes_UI",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability1.png",
@@ -136,7 +136,7 @@
     {
         "AbilityID": "SpikesRefreshingSpikes",
         "DisplayName": "Refreshing Spikes",
-        "Description": "Cooldown for this ability reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.SpikesRefreshingSpikes.CooldownTimer * -100]}% \u0026lt;/font\u0026gt; if an enemy is hit by the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Mighty Spike\u0026lt;/font\u0026gt;.",
+        "Description": "Cooldown for this ability reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}% \u0026lt;/font\u0026gt; if an enemy is hit by the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Mighty Spike\u0026lt;/font\u0026gt;.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability1_Mod1.png",
@@ -270,7 +270,7 @@
     {
         "AbilityID": "SpikesEmpoweredSpikes",
         "DisplayName": "Empowered Spikes",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Mighty Spike\u0026lt;/font\u0026gt; damage increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.SpikesEmpoweredSpikes.BaseDamage * 100]}%\u0026lt;/font\u0026gt; when hitting an enemy below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.SpikesEmpoweredSpikes.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Mighty Spike\u0026lt;/font\u0026gt; damage increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; when hitting an enemy below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability1_Mod2.png",
@@ -404,7 +404,7 @@
     {
         "AbilityID": "SpikesDeadlyPath",
         "DisplayName": "Deadly Path",
-        "Description": "Increases damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;10%\u0026lt;/font\u0026gt; and adds \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;stagger\u0026lt;/font\u0026gt; to the path of spikes. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Does not increase Mighty Spike damage.)\u0026lt;/font\u0026gt;",
+        "Description": "Increases damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;10%\u0026lt;/font\u0026gt; and adds \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;stagger\u0026lt;/font\u0026gt; to the path of spikes. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Does not increase Mighty Spike damage.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability1_Mod3.png",
@@ -538,7 +538,7 @@
     {
         "AbilityID": "SpikesSpikyReach",
         "DisplayName": "Spiky Reach",
-        "Description": "Ice shards fire from the sides of the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Mighty Spike\u0026lt;/font\u0026gt; to hit a wider area.  Each shard has a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;6m\u0026lt;/font\u0026gt; range and deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.IceMagic_Spike_Reach.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
+        "Description": "Ice shards fire from the sides of the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Mighty Spike\u0026lt;/font\u0026gt; to hit a wider area.  Each shard has a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;6m\u0026lt;/font\u0026gt; range and deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.180000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability1_Mod4.png",
@@ -672,7 +672,7 @@
     {
         "AbilityID": "IceMagic_IceStorm",
         "DisplayName": "Ice Storm",
-        "Description": "Create a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;5m\u0026lt;/font\u0026gt; radius storm at the target area that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.IceMagic_IceStorm.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_IceStorm.TickRate]}s\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;5s\u0026lt;/font\u0026gt;. The storm also creates a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frosted area\u0026lt;/font\u0026gt; that slows enemies in it by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_IceStorm.MoveSpeedMod * -100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.IceMagic_IceStorm.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
+        "Description": "Create a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;5m\u0026lt;/font\u0026gt; radius storm at the target area that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.170000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.330000]}s\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;5s\u0026lt;/font\u0026gt;. The storm also creates a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frosted area\u0026lt;/font\u0026gt; that slows enemies in it by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.250000 * -100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[25.000000]}\u0026lt;/font\u0026gt; mana.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "IceMagic_Spell_IceStorm",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability2.png",
@@ -806,7 +806,7 @@
     {
         "AbilityID": "IceStormWeakeningGust",
         "DisplayName": "Weakening Gust",
-        "Description": "Ice Storm damage is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceStormWeakeningGust.BaseDamage * 100]}%\u0026lt;/font\u0026gt; to enemies below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceStormWeakeningGust.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "Ice Storm damage is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; to enemies below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[50.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability2_Mod1.png",
@@ -940,7 +940,7 @@
     {
         "AbilityID": "IceStormStormSummoner",
         "DisplayName": "Storm Summoner",
-        "Description": "Ice Storm mana cost is decreased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;80%\u0026lt;/font\u0026gt; while at full mana.",
+        "Description": "Ice Storm mana cost is decreased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;80%\u0026lt;/font\u0026gt; while at full mana.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability2_Mod2.png",
@@ -1074,7 +1074,7 @@
     {
         "AbilityID": "IceStormPunishingStorm",
         "DisplayName": "Punishing Storm",
-        "Description": "Increases Ice Storm damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceStormPunishingStorm.BaseDamage * 100]}%\u0026lt;/font\u0026gt; for each enemy in Ice Storm. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#808080\"\u0026gt;(Max {[IceMagicAbilityTable.IceStormPunishingStorm.MaxNumAroundMe]} targets.)\u0026lt;/font\u0026gt; ",
+        "Description": "Increases Ice Storm damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; for each enemy in Ice Storm. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#808080\"\u0026gt;(Max {[5.000000]} targets.)\u0026lt;/font\u0026gt; ",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability2_Mod3.png",
@@ -1208,7 +1208,7 @@
     {
         "AbilityID": "IceMagic_WindChill",
         "DisplayName": "Wind Chill",
-        "Description": "Blasts a column of freezing winds forward that \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;pushes\u0026lt;/font\u0026gt; back enemies \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;5m\u0026lt;/font\u0026gt; and deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.IceMagic_WindChill.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;0.2s\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2s\u0026lt;/font\u0026gt;. Wind Chill has a total range of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;7m\u0026lt;/font\u0026gt; with the farthest \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2m\u0026lt;/font\u0026gt; increasing damage \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;20%\u0026lt;/font\u0026gt; without pushing enemies.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;\\n\\n(Player is able to move during the attack.)\u0026lt;/font\u0026gt;\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.IceMagic_WindChill.ManaCost]}\u0026lt;/font\u0026gt; Mana.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your ice gauntlet, hits with this ability inflict taunt for {[DamageTable.IceMagic_WindChill.TauntDuration]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
+        "Description": "Blasts a column of freezing winds forward that \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;pushes\u0026lt;/font\u0026gt; back enemies \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;5m\u0026lt;/font\u0026gt; and deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.240000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;0.2s\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2s\u0026lt;/font\u0026gt;. Wind Chill has a total range of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;7m\u0026lt;/font\u0026gt; with the farthest \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2m\u0026lt;/font\u0026gt; increasing damage \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;25%\u0026lt;/font\u0026gt; without pushing enemies.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;\\n\\n(Player is able to move during the attack.)\u0026lt;/font\u0026gt;\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[20.000000]}\u0026lt;/font\u0026gt; mana.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your ice gauntlet, hits with this ability inflict taunt for {[3.000000]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "IceMagic_Spell_WindChill_UI",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability3.png",
@@ -1342,7 +1342,7 @@
     {
         "AbilityID": "WindChillEnduringChill",
         "DisplayName": "Enduring Chill",
-        "Description": "Increase duration of Wind Chill by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1s\u0026lt;/font\u0026gt;.",
+        "Description": "Increase duration of Wind Chill by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1s\u0026lt;/font\u0026gt;.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability5_Mod3.png",
@@ -1476,7 +1476,7 @@
     {
         "AbilityID": "WindChillShatter",
         "DisplayName": "Chilling Blast",
-        "Description": "Increase the damage of the last \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2m\u0026lt;/font\u0026gt; of the Wind Chill range by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.WindChillShatter.BaseDamage * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Increase the damage of the last \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2m\u0026lt;/font\u0026gt; of the Wind Chill range by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability3_Mod1.png",
@@ -1610,7 +1610,7 @@
     {
         "AbilityID": "IceTempestPass1",
         "DisplayName": "Cold Reach",
-        "Description": "Increase damage of basic attacks by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceTempestPass1.BaseDamage * 100]}%\u0026lt;/font\u0026gt; for targets within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceTempestPass1.DistFromDefender]}m\u0026lt;/font\u0026gt; of player.",
+        "Description": "Increase damage of basic attacks by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; for targets within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[15.000000]}m\u0026lt;/font\u0026gt; of player.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive1.png",
@@ -1744,7 +1744,7 @@
     {
         "AbilityID": "IceTempestPass2",
         "DisplayName": "Critical Rejuvenation",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceTempestPass2.Mana * 100]}\u0026lt;/font\u0026gt; mana whenever you critically hit a target.",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}\u0026lt;/font\u0026gt; mana whenever you critically hit a target.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive2.png",
@@ -1878,7 +1878,7 @@
     {
         "AbilityID": "IceTempestPass3",
         "DisplayName": "Energized Critical",
-        "Description": "Increase critical damage of ice gauntlet abilities by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceTempestPass3.CritDamage * 100]}%\u0026lt;/font\u0026gt; while stamina is full.",
+        "Description": "Increase critical damage of ice gauntlet abilities by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; while stamina is full.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive3.png",
@@ -2012,7 +2012,7 @@
     {
         "AbilityID": "IceTempestPass4",
         "DisplayName": "Gathering Storm",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceTempestPass4.Mana * 100]}\u0026lt;/font\u0026gt; mana whenever you hit with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceTempestPass4.NumConsecutiveHits]}\u0026lt;/font\u0026gt; consecutive light attacks.",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}\u0026lt;/font\u0026gt; mana whenever you hit with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}\u0026lt;/font\u0026gt; consecutive light attacks.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive4.png",
@@ -2146,7 +2146,7 @@
     {
         "AbilityID": "IceTempestPass5",
         "DisplayName": "Critical Frost",
-        "Description": "Increase \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;critical chance\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceTempestPass5.CritChance * 100]}%\u0026lt;/font\u0026gt; when hitting an enemy in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frosted area\u0026lt;/font\u0026gt; or when hitting an enemy with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frostbite\u0026lt;/font\u0026gt;.",
+        "Description": "Increase \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;critical chance\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; when hitting an enemy in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frosted area\u0026lt;/font\u0026gt; or when hitting an enemy with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frostbite\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive5.png",
@@ -2280,7 +2280,7 @@
     {
         "AbilityID": "IceTempestPass6",
         "DisplayName": "Heavy Freeze",
-        "Description": "Heavy attacks will \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;root\u0026lt;/font\u0026gt; a target for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_Freeze.BaseDuration]}s\u0026lt;/font\u0026gt; if they are standing in Ice Storm or have \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frostbite\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(This effect has a {[Type_StatusEffectData.IceMagic_Freeze_Cooldown.BaseDuration]}s cooldown after root expires.)\u0026lt;/font\u0026gt;",
+        "Description": "Heavy attacks will \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;root\u0026lt;/font\u0026gt; a target for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000]}s\u0026lt;/font\u0026gt; if they are standing in Ice Storm or have \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frostbite\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(This effect has a {[4.000000]}s cooldown after root expires.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive6.png",
@@ -2414,7 +2414,7 @@
     {
         "AbilityID": "IceTempestUltimate",
         "DisplayName": "Ultimate Chill",
-        "Description": "Ice gauntlet abilities \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;chill\u0026lt;/font\u0026gt; targets, increasing ice damage dealt to the target by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceTempestUltimate_Helper.BaseDamage * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_UltimateChill.BaseDuration]}s\u0026lt;/font\u0026gt;. Ice Pylon attacks do not apply chill.",
+        "Description": "Ice gauntlet abilities \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;chill\u0026lt;/font\u0026gt; targets, increasing ice damage dealt to the target by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;. Ice Pylon attacks do not apply chill.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ult01.png",
@@ -2682,7 +2682,7 @@
     {
         "AbilityID": "IceMagic_IcePylon",
         "DisplayName": "Ice Pylon",
-        "Description": "Place a pylon that fires ice projectiles at enemies within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;20m\u0026lt;/font\u0026gt;. Projectiles deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.IceMagic_Pylon.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage if they hit. Ice Pylon health will be \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;20%\u0026lt;/font\u0026gt; of players max health. Ice Pylon creates a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1m\u0026lt;/font\u0026gt; radius \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frosted area\u0026lt;/font\u0026gt; around itself and lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;15s\u0026lt;/font\u0026gt; unless it is destroyed. Hold ability input for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1s\u0026lt;/font\u0026gt; to despawn Ice Pylon.\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.IceMagic_IcePylon.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
+        "Description": "Place a pylon that fires ice projectiles at enemies within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;20m\u0026lt;/font\u0026gt;. Projectiles deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.750000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage if they hit. Ice Pylon health will be \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;20%\u0026lt;/font\u0026gt; of players max health. Ice Pylon creates a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1m\u0026lt;/font\u0026gt; radius \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frosted area\u0026lt;/font\u0026gt; around itself and lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;15s\u0026lt;/font\u0026gt; unless it is destroyed. Hold ability input for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1s\u0026lt;/font\u0026gt; to despawn Ice Pylon.\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[15.000000]}\u0026lt;/font\u0026gt; mana.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "IceMagic_Spell_Pylon_UI",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability4.png",
@@ -2816,7 +2816,7 @@
     {
         "AbilityID": "IcePylonGreaterPylon",
         "DisplayName": "Greater Pylon",
-        "Description": "Increases damage of Ice Pylon by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IcePylonGreaterPylon.BaseDamage * 100]}%\u0026lt;/font\u0026gt; against \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;slowed\u0026lt;/font\u0026gt; targets.",
+        "Description": "Increases damage of Ice Pylon by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; against \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;slowed\u0026lt;/font\u0026gt; targets.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability4_Mod1.png",
@@ -2950,7 +2950,7 @@
     {
         "AbilityID": "IcePylonPylonRegen",
         "DisplayName": "Pylon Regen",
-        "Description": "Ice Pylon regenerates to full health \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_PylonRefresh.BaseDuration]}s\u0026lt;/font\u0026gt; after last damage taken.",
+        "Description": "Ice Pylon regenerates to full health \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt; after last damage taken.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability4_Mod2.png",
@@ -3084,7 +3084,7 @@
     {
         "AbilityID": "IcePylonPylonDodge",
         "DisplayName": "Pylon Dodge",
-        "Description": "Dodging increases Ice Pylon rate of fire for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3s\u0026lt;/font\u0026gt;.",
+        "Description": "Dodging increases Ice Pylon rate of fire for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3s\u0026lt;/font\u0026gt;.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability4_Mod3.png",
@@ -3218,7 +3218,7 @@
     {
         "AbilityID": "IcePylonPylonRefresh",
         "DisplayName": "Pylon Refresh",
-        "Description": "A successful hit from the Ice Pylon extends its lifetime by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Maximum {[Type_StatusEffectData.IceMagic_PylonCooldownSafety.BaseDuration]}s.)\u0026lt;/font\u0026gt;",
+        "Description": "A successful hit from the Ice Pylon extends its lifetime by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Maximum {[45.000000]}s.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability4_Mod4.png",
@@ -3352,7 +3352,7 @@
     {
         "AbilityID": "IceMagic_IceShower",
         "DisplayName": "Ice Shower",
-        "Description": "Summon a shower of ice that creates a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frosted area\u0026lt;/font\u0026gt; approximately \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;1m by 5m\u0026lt;/font\u0026gt; that lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;4s\u0026lt;/font\u0026gt;. Enemies that enter the Ice Shower will be stricken with a powerful \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frostbite\u0026lt;/font\u0026gt;.\\n\\nFrostbite \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;roots\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_IceShower_Freeze.BaseDuration]}s\u0026lt;/font\u0026gt;, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;slows\u0026lt;/font\u0026gt; movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_Frostbite.MoveSpeedMod * -100]}%\u0026lt;/font\u0026gt;, and will remain on target for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_Frostbite_Dur3.BaseDuration]}s\u0026lt;/font\u0026gt; after exiting the Ice Shower. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Ice Shower's root can only be applied once every {[Type_StatusEffectData.IceMagic_IceShower_Freeze_Cooldown.BaseDuration]}s to the same target.)\u0026lt;/font\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.IceMagic_IceShower.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
+        "Description": "Summon a shower of ice that creates a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frosted area\u0026lt;/font\u0026gt; approximately \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;1m by 5m\u0026lt;/font\u0026gt; that lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;4s\u0026lt;/font\u0026gt;. Enemies that enter the Ice Shower will be stricken with a powerful \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frostbite\u0026lt;/font\u0026gt;.\\n\\nFrostbite \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;roots\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000]}s\u0026lt;/font\u0026gt;, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;slows\u0026lt;/font\u0026gt; movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.500000 * -100]}%\u0026lt;/font\u0026gt;, and will remain on target for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt; after exiting the Ice Shower. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Ice Shower's root can only be applied once every {[6.000000]}s to the same target.)\u0026lt;/font\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[25.000000]}\u0026lt;/font\u0026gt; mana.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "IceMagic_Spell_Shower1",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability5.png",
@@ -3486,7 +3486,7 @@
     {
         "AbilityID": "IceShowerEnduringShower",
         "DisplayName": "Enduring Shower",
-        "Description": "Increase Ice Shower duration to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;7s\u0026lt;/font\u0026gt;.",
+        "Description": "Increase Ice Shower duration to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;7s\u0026lt;/font\u0026gt;.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability5_Mod1.png",
@@ -3620,7 +3620,7 @@
     {
         "AbilityID": "IceShowerQuickShower",
         "DisplayName": "Quick Shower",
-        "Description": "Any ally, including self, will get a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_QuickShower_Dur2.MoveSpeedMod * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_QuickShower_Dur2.BaseDuration]}s\u0026lt;/font\u0026gt; when entering Ice Shower.",
+        "Description": "Any ally, including self, will get a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt; when entering Ice Shower.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability5_Mod2.png",
@@ -3754,7 +3754,7 @@
     {
         "AbilityID": "IceShowerShowerSlush",
         "DisplayName": "Frigid Showers",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Frostbite\u0026lt;/font\u0026gt; applies \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;rend\u0026lt;/font\u0026gt; to target, reducing their defense by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_Frostbite_Rend.PhysicalArmor * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Frostbite\u0026lt;/font\u0026gt; applies \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;rend\u0026lt;/font\u0026gt; to target, reducing their defense by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability3_Mod2.png",
@@ -3888,7 +3888,7 @@
     {
         "AbilityID": "IceMagic_Entombed",
         "DisplayName": "Entombed",
-        "Description": "Entomb yourself in ice to become \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;invulnerable\u0026lt;/font\u0026gt; and greatly increase mana regeneration. The tomb lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;10s\u0026lt;/font\u0026gt; but can be destroyed early. Tomb health will be \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;50%\u0026lt;/font\u0026gt; of players max health.\\n\\nPress ability input, block, or dodge to exit the tomb normally or press basic attack to exit while causing a damaging \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;push\u0026lt;/font\u0026gt; at the cost of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.IceMagic_Entombed_Break.ManaCost]}\u0026lt;/font\u0026gt; mana. The \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;push\u0026lt;/font\u0026gt; deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.IceMagic_Entombed_Break.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to enemies in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3m\u0026lt;/font\u0026gt; radius.\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.IceMagic_Entombed.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
+        "Description": "Entomb yourself in ice to become \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;invulnerable\u0026lt;/font\u0026gt; and greatly increase mana regeneration. The tomb lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;10s\u0026lt;/font\u0026gt; but can be destroyed early. Tomb health will be \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;50%\u0026lt;/font\u0026gt; of players max health.\\n\\nPress ability input, block, or dodge to exit the tomb normally or press basic attack to exit while causing a damaging \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;push\u0026lt;/font\u0026gt; at the cost of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}\u0026lt;/font\u0026gt; mana. The \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;push\u0026lt;/font\u0026gt; deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.700000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to enemies in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3m\u0026lt;/font\u0026gt; radius.\\n\\nCost \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.000000]}\u0026lt;/font\u0026gt; mana.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "IceMagic_Spell_Entomb",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability6.png",
@@ -4022,7 +4022,7 @@
     {
         "AbilityID": "EntombedStrengthenedTomb",
         "DisplayName": "Strengthened Tomb",
-        "Description": "Gain a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_StrengthenedTomb.PhysicalArmor * 100]}% fortify\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_StrengthenedTomb.BaseDuration]}s\u0026lt;/font\u0026gt; after breaking out of Entombed. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Fortify increases armor)\u0026lt;/font\u0026gt;",
+        "Description": "Gain a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}% fortify\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt; after breaking out of Entombed. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Fortify increases armor.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability6_Mod1.png",
@@ -4156,7 +4156,7 @@
     {
         "AbilityID": "EntombedCleansingTomb",
         "DisplayName": "Cleansing Tomb",
-        "Description": "Cleanse all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuffs\u0026lt;/font\u0026gt; when Entombed activates.",
+        "Description": "Cleanse all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuffs\u0026lt;/font\u0026gt; when Entombed activates.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability6_Mod2.png",
@@ -4290,7 +4290,7 @@
     {
         "AbilityID": "IceConjurorPass1",
         "DisplayName": "Blocking Stamina",
-        "Description": "Blocking an attack with the ice gauntlet will convert mana to stamina. Converts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_BlockingStamina.Mana * -1]}\u0026lt;/font\u0026gt; mana to  \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_BlockingStamina.Stamina]}\u0026lt;/font\u0026gt; stamina.",
+        "Description": "Blocking an attack with the ice gauntlet will convert mana to stamina. Converts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-5.000000 * -1]}\u0026lt;/font\u0026gt; mana to  \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}\u0026lt;/font\u0026gt; stamina.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive7.png",
@@ -4424,7 +4424,7 @@
     {
         "AbilityID": "IceConjurorPass2",
         "DisplayName": "Quick Frost",
-        "Description": "Increase movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_QuickFrost.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt; in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frosted area\u0026lt;/font\u0026gt;.",
+        "Description": "Increase movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frosted area\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive8.png",
@@ -4558,7 +4558,7 @@
     {
         "AbilityID": "IceConjurorPass3",
         "DisplayName": "Empowered Frost",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_EmpoweredFrost.Mana]}\u0026lt;/font\u0026gt; mana for each attack performed while in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frosted area\u0026lt;/font\u0026gt;.",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}\u0026lt;/font\u0026gt; mana for each attack performed while in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frosted area\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive9.png",
@@ -4692,7 +4692,7 @@
     {
         "AbilityID": "IceConjurorPass4",
         "DisplayName": "Frozen Touch",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Slow\u0026lt;/font\u0026gt; enemies by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_FrozenTouch.MoveSpeedMod * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_FrozenTouch.BaseDuration]}s\u0026lt;/font\u0026gt; when they hit you with a melee attack while your health is full. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Slow\u0026lt;/font\u0026gt; enemies by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.250000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt; when they hit you with a melee attack while your health is full. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive10.png",
@@ -4826,7 +4826,7 @@
     {
         "AbilityID": "IceConjurorPass5",
         "DisplayName": "Refreshing Frost",
-        "Description": "Reduce the cooldown of all ice gauntlet abilities by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[IceMagicAbilityTable.IceConjurorPass5.CooldownTimer * -100]}%\u0026lt;/font\u0026gt; when casting an ability in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frosted area\u0026lt;/font\u0026gt;.",
+        "Description": "Reduce the cooldown of all ice gauntlet abilities by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt; when casting an ability in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frosted area\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive11.png",
@@ -4960,7 +4960,7 @@
     {
         "AbilityID": "IceConjurorPass6",
         "DisplayName": "Defiant Freeze",
-        "Description": "Casting an ice gauntlet ability grants a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_DefiantFreeze.PhysicalArmor * 100]}% fortify\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.IceMagic_DefiantFreeze.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Fortify increases armor)\u0026lt;/font\u0026gt;",
+        "Description": "Casting an ice gauntlet ability grants a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}% fortify\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Fortify increases armor.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive12.png",
@@ -5094,7 +5094,7 @@
     {
         "AbilityID": "IceConjurorUltimate",
         "DisplayName": "Ultimate Frost",
-        "Description": "Doubles Ice Pylon's health and extends Ice Pylon's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frosted area\u0026lt;/font\u0026gt; radius to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;5m\u0026lt;/font\u0026gt;.  Standing in this \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;frosted area\u0026lt;/font\u0026gt; doubles Quick Frost and Empowered Frost bonuses.",
+        "Description": "Doubles Ice Pylon's health and extends Ice Pylon's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frosted area\u0026lt;/font\u0026gt; radius to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;5m\u0026lt;/font\u0026gt;.  Standing in this \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;frosted area\u0026lt;/font\u0026gt; doubles Quick Frost and Empowered Frost bonuses.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ult02.png",

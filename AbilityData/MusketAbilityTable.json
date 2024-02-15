@@ -2,7 +2,7 @@
     {
         "AbilityID": "Ability_Musket_PowerShot",
         "DisplayName": "Power Shot",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Overload\u0026lt;/font\u0026gt; your musket with gun powder, causing the next shot to deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.MusketAttack_ChargedShot.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, and an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Ability_Musket_PowerShot.BaseDamage * 100]}%\u0026lt;/font\u0026gt; to hostile AI targets.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Does not stack with Powder Burn.)\u0026lt;/font\u0026gt;",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Overload\u0026lt;/font\u0026gt; your musket with gun powder, causing the next shot to deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.600000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, and an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.300000 * 100]}%\u0026lt;/font\u0026gt; to hostile AI targets.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Does not stack with Powder Burn.)\u0026lt;/font\u0026gt;",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability01.png",
         "StatusEffectIcon": "",
@@ -142,7 +142,7 @@
     {
         "AbilityID": "Upgrade_Musket_Power_Empower",
         "DisplayName": "Initial Engagement",
-        "Description": "When you hit with Power Shot, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;empower\u0026lt;/font\u0026gt;, increasing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_PowerShot_Empower.DMGStandard * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_PowerShot_Empower.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "When you hit with Power Shot, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;empower\u0026lt;/font\u0026gt;, increasing damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability01_Mod01.png",
         "StatusEffectIcon": "",
@@ -282,7 +282,7 @@
     {
         "AbilityID": "Upgrade_Musket_Power_DmgAtFullHealth",
         "DisplayName": "First Blood",
-        "Description": "Power Shot deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Upgrade_Musket_Power_DmgAtFullHealth.BaseDamage * 100]}%\u0026lt;/font\u0026gt; additional damage to targets with full health.",
+        "Description": "Power Shot deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; additional damage to targets with full health.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability01_Mod02.png",
         "StatusEffectIcon": "",
@@ -422,7 +422,7 @@
     {
         "AbilityID": "Upgrade_Musket_Power_CDRonHeadshot",
         "DisplayName": "Bullseye",
-        "Description": "Power Shot \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;headshots\u0026lt;/font\u0026gt; reduce Power Shot's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;cooldown\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Upgrade_Musket_Power_CDRonHeadshot.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Power Shot \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;headshots\u0026lt;/font\u0026gt; reduce Power Shot's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;cooldown\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.150000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability01_Mod03.png",
         "StatusEffectIcon": "",
@@ -562,7 +562,7 @@
     {
         "AbilityID": "Ability_Musket_PowderBurn",
         "DisplayName": "Powder Burn",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Overload\u0026lt;/font\u0026gt; your musket with gun powder, causing the next shot to deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Musket_Damage_PowderBurn.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and inflict a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;burn\u0026lt;/font\u0026gt; that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_PowderBurn_Burn.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_PowderBurn_Burn.BaseDuration]}s\u0026lt;/font\u0026gt;.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Does not stack with Power Shot.)\u0026lt;/font\u0026gt;",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Overload\u0026lt;/font\u0026gt; your musket with gun powder, causing the next shot to deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.100000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and inflict a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;burn\u0026lt;/font\u0026gt; that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage per second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[9.000000]}s\u0026lt;/font\u0026gt;.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Does not stack with Power Shot.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability02.png",
         "StatusEffectIcon": "",
@@ -702,7 +702,7 @@
     {
         "AbilityID": "Upgrade_Musket_Burn_DmgWhileOnFire",
         "DisplayName": "Backdraft",
-        "Description": "Standard musket shots deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Upgrade_Musket_Burn_DmgWhileOnFire.BaseDamage * 100]}%\u0026lt;/font\u0026gt; additional damage if they hit a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;burning\u0026lt;/font\u0026gt; target.",
+        "Description": "Standard musket shots deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.120000 * 100]}%\u0026lt;/font\u0026gt; additional damage if they hit a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;burning\u0026lt;/font\u0026gt; target.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability02_Mod01.png",
         "StatusEffectIcon": "",
@@ -842,7 +842,7 @@
     {
         "AbilityID": "Upgrade_Musket_Burn_ExtendBurnOnHeadshot",
         "DisplayName": "Chronic Trauma",
-        "Description": "If Powder Burn is a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;headshot\u0026lt;/font\u0026gt;, the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;burn\u0026lt;/font\u0026gt; duration is extended by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Upgrade_Musket_Burn_ExtendBurnOnHeadshot.TargetStatusEffectDurationMod]}s\u0026lt;/font\u0026gt;.",
+        "Description": "If Powder Burn is a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;headshot\u0026lt;/font\u0026gt;, the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;burn\u0026lt;/font\u0026gt; duration is extended by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability02_Mod02.png",
         "StatusEffectIcon": "",
@@ -982,7 +982,7 @@
     {
         "AbilityID": "Ability_Musket_ShootersStance",
         "DisplayName": "Shooter's Stance",
-        "Description": "Player enters a crouching aim stance to enhance shooting performance. While in this stance, shots deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.MusketAttack_ShootersStance.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, mobility is reduced to zero and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;reload\u0026lt;/font\u0026gt; time is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;75%\u0026lt;/font\u0026gt;. \\n\\nShooter's Stance ends after \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3\u0026lt;/font\u0026gt; shots.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Power shot and powder burn can be used while inside shooter's stance.)\u0026lt;/font\u0026gt;",
+        "Description": "Player enters a crouching aim stance to enhance shooting performance. While in this stance, shots deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, mobility is reduced to zero and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;reload\u0026lt;/font\u0026gt; time is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;75%\u0026lt;/font\u0026gt;. \\n\\nShooter's Stance ends after \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3\u0026lt;/font\u0026gt; shots.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Power shot and powder burn can be used while inside shooter's stance.)\u0026lt;/font\u0026gt;",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability03.png",
         "StatusEffectIcon": "",
@@ -1122,7 +1122,7 @@
     {
         "AbilityID": "Upgrade_Musket_Shooters_ShootMore",
         "DisplayName": "Shoot More",
-        "Description": "Shots fired before exiting stance increased to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;5\u0026lt;/font\u0026gt;.",
+        "Description": "Shots fired before exiting stance increased to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;5\u0026lt;/font\u0026gt;.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability03_Mod01.png",
         "StatusEffectIcon": "",
@@ -1262,7 +1262,7 @@
     {
         "AbilityID": "Upgrade_Musket_Shooters_CDROnSameTarget",
         "DisplayName": "Marksman",
-        "Description": "If \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3\u0026lt;/font\u0026gt; consecutive shots hit the same target, reduce all other musket \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;cooldowns\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Upgrade_Musket_Shooters_CDROnSameTarget.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "If \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3\u0026lt;/font\u0026gt; consecutive shots hit the same target, reduce all other musket \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;cooldowns\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.250000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability03_Mod02.png",
         "StatusEffectIcon": "",
@@ -1402,7 +1402,7 @@
     {
         "AbilityID": "Passive_Musket_Sharpshooter_3HeadshotReload",
         "DisplayName": "Critical Reload",
-        "Description": "Landing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2 headshots\u0026lt;/font\u0026gt; within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_HeadshotTracker.BaseDuration]}s\u0026lt;/font\u0026gt; of each other reduces the duration of the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;reload\u0026lt;/font\u0026gt;.",
+        "Description": "Landing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2 headshots\u0026lt;/font\u0026gt; within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt; of each other halves the duration of the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;reload\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive01.png",
         "StatusEffectIcon": "",
@@ -1542,7 +1542,7 @@
     {
         "AbilityID": "Passive_Musket_Sharpshooter_DMGIfAim2Sec",
         "DisplayName": "Called Shot",
-        "Description": "Increase musket damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Sharpshooter_DMGIfAim2Sec.BaseDamage * 100]}%\u0026lt;/font\u0026gt; after aiming down sights for more than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Sharpshooter_DMGIfAim2Sec.InActionTime]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Increase musket damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; after aiming down sights for more than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive02.png",
         "StatusEffectIcon": "",
@@ -1618,7 +1618,7 @@
         "InActionTime": 2,
         "AfterAction": "",
         "TargetVitalsCategory": "",
-        "InSequence": "Firearm_ReadyWeapon_UpperBody,Firearm_Aim_UpperBody,Firearm_Shoot_Primary_UpperBody",
+        "InSequence": "Firearm_ReadyWeapon_UpperBody,Firearm_Aim_UpperBody,Firearm_Shoot_Primary_UpperBody,Firearm_Reload_Finish_UpperBody",
         "InSequenceTime": 2,
         "AfterSequence": "",
         "BaseDamage": 0.1,
@@ -1682,7 +1682,7 @@
     {
         "AbilityID": "Passive_Musket_Sharpshooter_Accuracy",
         "DisplayName": "Quick Load",
-        "Description": "If \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_TwoHitStack_Trigger.AddOnStackSize]}\u0026lt;/font\u0026gt; or more targets are hit with a single shot, reduce the duration of the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;reload\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[Type_StatusEffectData.Musket_Pass_TwoHitStack_Trigger_Cooldown.BaseDuration]}s cooldown)\u0026lt;/font\u0026gt;",
+        "Description": "If \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}\u0026lt;/font\u0026gt; or more targets are hit with a single shot, the duration of the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;reload\u0026lt;/font\u0026gt; is halved. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[4.000000]}s cooldown.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive19.png",
         "StatusEffectIcon": "",
@@ -1822,7 +1822,7 @@
     {
         "AbilityID": "Passive_Musket_Sharpshooter_EmpowerOnHeadshot",
         "DisplayName": "Empowering Headshot",
-        "Description": "On a successful \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;headshot\u0026lt;/font\u0026gt;, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;empower\u0026lt;/font\u0026gt;, increasing damage dealt by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_EmpowerOnHeadshot.DMGStandard * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_EmpowerOnHeadshot.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "On a successful \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;headshot\u0026lt;/font\u0026gt;, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;empower\u0026lt;/font\u0026gt;, increasing damage dealt by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive04.png",
         "StatusEffectIcon": "",
@@ -1962,7 +1962,7 @@
     {
         "AbilityID": "Passive_Musket_Sharpshooter_DmgFallOff",
         "DisplayName": "Shell Shock",
-        "Description": "Headshots \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;weaken\u0026lt;/font\u0026gt; targets, decreasing their damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_Weaken.DMGStandard * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_Weaken.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[MusketAbilityTable.Passive_Musket_Sharpshooter_DmgFallOff.ActivationCooldown]}s cooldown)\u0026lt;/font\u0026gt; ",
+        "Description": "Headshots \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;weaken\u0026lt;/font\u0026gt; targets, decreasing their damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[8.000000]}s cooldown.)\u0026lt;/font\u0026gt; ",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive18.png",
         "StatusEffectIcon": "",
@@ -2102,7 +2102,7 @@
     {
         "AbilityID": "Passive_Musket_Sharpshooter_CDROnHeadshot",
         "DisplayName": "Called Shot Resupply",
-        "Description": "Basic attack \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;headshots\u0026lt;/font\u0026gt; reduce all musket ability \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;cooldowns\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Sharpshooter_CDROnHeadshot.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Basic attack \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;headshots\u0026lt;/font\u0026gt; reduce all musket ability \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;cooldowns\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive06.png",
         "StatusEffectIcon": "",
@@ -2242,7 +2242,7 @@
     {
         "AbilityID": "Passive_Musket_Sharpshooter_CritChanceDistance",
         "DisplayName": "Optimal Range",
-        "Description": "Musket shots deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Sharpshooter_CritChanceDistance.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased base damage to targets \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Sharpshooter_CritChanceDistance.DistFromDefender]}m\u0026lt;/font\u0026gt; or further away from the player. \\n\\nAlso deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Sharpshooter_CritChanceDistance_Helper.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage to targets within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Sharpshooter_CritChanceDistance_Helper.DistFromDefender]}m\u0026lt;/font\u0026gt;.",
+        "Description": "Musket shots deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; increased base damage to targets \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[20.000000]}m\u0026lt;/font\u0026gt; or further away from the player. \\n\\nAlso deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.050000 * 100]}%\u0026lt;/font\u0026gt; increased damage to targets within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[50.000000]}m\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive07.png",
         "StatusEffectIcon": "",
@@ -2522,7 +2522,7 @@
     {
         "AbilityID": "Passive_Musket_Sharpshooter_Precision",
         "DisplayName": "Heightened Precision",
-        "Description": "Successful hits with a musket grant a stackable \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2.5%\u0026lt;/font\u0026gt; damage increase. This effect ends after more than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_Damage_EveryADSShot.BaseDuration]}s\u0026lt;/font\u0026gt; passes between shots. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[Type_StatusEffectData.Musket_Pass_Damage_EveryADSShot.StackMax]} stacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Successful hits with a musket grant a stackable \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2.5%\u0026lt;/font\u0026gt; damage increase. This effect ends after more than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt; passes between shots. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[6.000000]} stacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive08.png",
         "StatusEffectIcon": "",
@@ -2662,7 +2662,7 @@
     {
         "AbilityID": "Ult_Passive_Musket_ZoomHeadshot",
         "DisplayName": "Deadeye",
-        "Description": "Grants a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Ult_Passive_Musket_ZoomHeadshot.HeadshotDamage * 100]}%\u0026lt;/font\u0026gt; damage increase to all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;headshots\u0026lt;/font\u0026gt;. \\n\\nIf multiple targets are hit when you get a headshot, the next shot within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Ultimate_HeadshotTracker_Duration.BaseDuration]}s\u0026lt;/font\u0026gt; inflicts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt; to all targets the shot passes through, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Ultimate_Headshot_Bleed.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Ultimate_Headshot_Bleed.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Grants a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; damage increase to all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;headshots\u0026lt;/font\u0026gt;. \\n\\nIf multiple targets are hit when you get a headshot, the next shot within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt; inflicts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt; to all targets the shot passes through, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.150000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_bleed_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Ult01.png",
         "StatusEffectIcon": "",
@@ -2942,7 +2942,7 @@
     {
         "AbilityID": "Ability_Musket_Traps",
         "DisplayName": "Traps",
-        "Description": "Deploy a trap that lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;30s\u0026lt;/font\u0026gt;. When triggered, it deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Musket_Trap.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and causes its target to be \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;rooted\u0026lt;/font\u0026gt;, immobilizing them for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Trap_Root.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Deploy a trap that lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;30s\u0026lt;/font\u0026gt;. When triggered, it deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and causes its target to be \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;rooted\u0026lt;/font\u0026gt;, immobilizing them for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability04.png",
         "StatusEffectIcon": "",
@@ -3082,7 +3082,7 @@
     {
         "AbilityID": "Upgrade_Musket_TrapRend",
         "DisplayName": "Trapped Damage",
-        "Description": "Traps apply \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;rend\u0026lt;/font\u0026gt; to targets that trigger them, increasing damage taken by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Trap_Rend.PhysicalArmor * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Trap_Rend.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Traps apply \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;rend\u0026lt;/font\u0026gt; to targets that trigger them, increasing damage taken by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability04_Mod01.png",
         "StatusEffectIcon": "",
@@ -3222,7 +3222,7 @@
     {
         "AbilityID": "Upgrade_Musket_TrapLifeSteal",
         "DisplayName": "Scent of Blood",
-        "Description": "Dealing damage to a trapped target \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;heals\u0026lt;/font\u0026gt; you for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Upgrade_Musket_TrapLifeSteal.DmgPctToHealth * 100]}%\u0026lt;/font\u0026gt; of weapon damage dealt.",
+        "Description": "Dealing damage to a trapped target \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;heals\u0026lt;/font\u0026gt; you for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; of weapon damage dealt. \\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt; ({[1.000000]}s Cooldown.)\u0026lt;/font\u0026gt;",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability04_Mod02.png",
         "StatusEffectIcon": "",
@@ -3362,7 +3362,7 @@
     {
         "AbilityID": "Upgrade_Musket_DoubleTrap",
         "DisplayName": "Double Trap",
-        "Description": "Gain an extra trap per cooldown, allowing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2\u0026lt;/font\u0026gt; active traps to be placed in the world.",
+        "Description": "Gain an extra trap per cooldown, allowing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2\u0026lt;/font\u0026gt; active traps to be placed in the world.",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability04_Mod03.png",
         "StatusEffectIcon": "",
@@ -3502,7 +3502,7 @@
     {
         "AbilityID": "Ability_Musket_StickyBomb",
         "DisplayName": "Sticky Bomb",
-        "Description": "Throw a short range bomb that \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;sticks\u0026lt;/font\u0026gt; to anything it makes contact with.\\n\\nDetonation will occur \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3s\u0026lt;/font\u0026gt; after impact dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Musket_StickyBomb_Explosion.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to all targets within a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_Musket.Musket_StickyBomb_Explosion.Radius]}m\u0026lt;/font\u0026gt; radius.",
+        "Description": "Throw a short range bomb that \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;sticks\u0026lt;/font\u0026gt; to anything it makes contact with.\\n\\nDetonation will occur \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3s\u0026lt;/font\u0026gt; after impact dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.100000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to all targets within a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}m\u0026lt;/font\u0026gt; radius.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability05.png",
         "StatusEffectIcon": "",
@@ -3642,7 +3642,7 @@
     {
         "AbilityID": "Passive_Musket_StickyStamina",
         "DisplayName": "Unflinching Walk",
-        "Description": "Sticky Bomb grants the player \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Sticky_StaminaRegen.Stamina]}\u0026lt;/font\u0026gt; stamina when it deals damage with an explosion.",
+        "Description": "Sticky Bomb grants the player \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[40.000000]}\u0026lt;/font\u0026gt; stamina when it deals damage with an explosion.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability05_Mod01.png",
         "StatusEffectIcon": "",
@@ -3782,7 +3782,7 @@
     {
         "AbilityID": "Passive_Musket_StickySlow",
         "DisplayName": "Sticky Slow",
-        "Description": "Direct hits with the Sticky Bomb cause the target to be \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;slowed\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Sticky_Slow.MoveSpeedMod * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Sticky_Slow.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "Direct hits with the Sticky Bomb cause the target to be \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;slowed\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.150000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability05_Mod02.png",
         "StatusEffectIcon": "",
@@ -3922,7 +3922,7 @@
     {
         "AbilityID": "Ability_Musket_StoppingPower",
         "DisplayName": "Stopping Power",
-        "Description": "A Powerful shot that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Musket_Damage_StoppingPower.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;staggering\u0026lt;/font\u0026gt; the target and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;knocking back {[DamageTable.Musket_Damage_StoppingPower.ImpactDistanceY]}m\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Can be fired from hip or while aiming down sights.)\u0026lt;/font\u0026gt;",
+        "Description": "A Powerful shot that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.900000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;staggering\u0026lt;/font\u0026gt; the target and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;knocking back {[3.000000]}m\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Can be fired from hip or while aiming down sights.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability06.png",
         "StatusEffectIcon": "",
@@ -4062,7 +4062,7 @@
     {
         "AbilityID": "Upgrade_Musket_StoppingExhaust",
         "DisplayName": "Lasting Impression",
-        "Description": "Targets hit with Stopping Power are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;exhausted\u0026lt;/font\u0026gt;, reducing their stamina regeneration speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_StoppingPower_Exhaust.StaminaRate * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_StoppingPower_Exhaust.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Targets hit with Stopping Power are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;exhausted\u0026lt;/font\u0026gt;, reducing their stamina regeneration speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[8.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability06_Mod01.png",
         "StatusEffectIcon": "",
@@ -4202,7 +4202,7 @@
     {
         "AbilityID": "Upgrade_Musket_StoppingSlow",
         "DisplayName": "Supplementary Repulsion",
-        "Description": "Targets hit with Stopping Power are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;slowed\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_StoppingPower_Slow.MoveSpeedMod * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_StoppingPower_Slow.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "Targets hit with Stopping Power are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;slowed\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[8.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/musket_Ability06_Mod02.png",
         "StatusEffectIcon": "",
@@ -4342,7 +4342,7 @@
     {
         "AbilityID": "Passive_Musket_Trapper_DMGvsLowHP",
         "DisplayName": "Salt On The Wounds",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Trapper_DMGvsLowHP.BaseDamage *100]}%\u0026lt;/font\u0026gt; increased damage to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Trapper_DMGvsLowHP.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 *100]}%\u0026lt;/font\u0026gt; increased damage to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive09.png",
         "StatusEffectIcon": "",
@@ -4482,7 +4482,7 @@
     {
         "AbilityID": "Passive_Musket_Trapper_BackSpdNearEnemy",
         "DisplayName": "Back It Up",
-        "Description": "Walking/Strafing movement speed increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_WalkSpeedWhileNearEnemy.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt; when an enemy is within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;8m\u0026lt;/font\u0026gt; of player.",
+        "Description": "Walking/Strafing movement speed increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; when an enemy is within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;8m\u0026lt;/font\u0026gt; of player.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive10.png",
         "StatusEffectIcon": "",
@@ -4622,7 +4622,7 @@
     {
         "AbilityID": "Passive_Musket_Trapper_StamDMGPenetrate",
         "DisplayName": "Weakened Defense",
-        "Description": "Increases the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;stamina damage\u0026lt;/font\u0026gt; from standard shots dealt to enemies blocking with shields by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Trapper_StamDMGPenetrate.BlockDamage * 100]}%\u0026lt;/font\u0026gt;.\\n\\nIncreases \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;armor penetration\u0026lt;/font\u0026gt; against targets that are not blocking with a shield by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Trapper_StamDMGPenetrate.ArmorPenetration * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Increases the \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;stamina damage\u0026lt;/font\u0026gt; from standard shots dealt to enemies blocking with shields by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt;.\\n\\nIncreases \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;armor penetration\u0026lt;/font\u0026gt; against targets that are not blocking with a shield by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive11.png",
         "StatusEffectIcon": "",
@@ -4762,7 +4762,7 @@
     {
         "AbilityID": "Passive_Musket_Trapper_EmpowerOnDebuffHit",
         "DisplayName": "Empowering Weakness",
-        "Description": "Hitting a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt; grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;empower\u0026lt;/font\u0026gt;, increasing your damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_EmpowerOnDebuffHit.DMGStandard * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_EmpowerOnDebuffHit.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Hitting a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt; grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;empower\u0026lt;/font\u0026gt;, increasing your damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.050000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive12.png",
         "StatusEffectIcon": "",
@@ -4902,7 +4902,7 @@
     {
         "AbilityID": "Passive_Musket_Trapper_HasteOnDodge",
         "DisplayName": "Hustle",
-        "Description": "After a dodge, gain a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_HasteOnDodge.MovespeedMod * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_HasteOnDodge.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
+        "Description": "After a dodge, gain a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive13.png",
         "StatusEffectIcon": "",
@@ -5042,7 +5042,7 @@
     {
         "AbilityID": "Passive_Musket_Trapper_DodgeReload",
         "DisplayName": "Tactical Reload",
-        "Description": "Dodging \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;reloads\u0026lt;/font\u0026gt; the musket. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Can only trigger once every {[Type_StatusEffectData.Musket_Pass_DodgeReloadSpamPrevention.BaseDuration]}s.)\u0026lt;/font\u0026gt;",
+        "Description": "Dodging \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;reloads\u0026lt;/font\u0026gt; the musket. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Can only trigger once every {[6.000000]}s.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive17.png",
         "StatusEffectIcon": "",
@@ -5182,7 +5182,7 @@
     {
         "AbilityID": "Passive_Musket_Trapper_StaminaOnDebuffHit",
         "DisplayName": "Energy Burst",
-        "Description": "Attacking a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt; restores \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Musket_Pass_StaminaOnDebuffHit.Stamina]}\u0026lt;/font\u0026gt; stamina.",
+        "Description": "Attacking a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt; restores \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}\u0026lt;/font\u0026gt; stamina.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive15.png",
         "StatusEffectIcon": "",
@@ -5322,7 +5322,7 @@
     {
         "AbilityID": "Passive_Musket_Trapper_DMGOnDebuffHit",
         "DisplayName": "Kick 'em When They're Down",
-        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Passive_Musket_Trapper_DMGOnDebuffHit.BaseDamage *100]}%\u0026lt;/font\u0026gt; extra damage to targets with an active crowd control status effect. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow, Root, Stun.)\u0026lt;/font\u0026gt;",
+        "Description": "Deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 *100]}%\u0026lt;/font\u0026gt; extra damage to targets with an active crowd control status effect. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow, Root, Stun.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Passive16.png",
         "StatusEffectIcon": "",
@@ -5462,7 +5462,7 @@
     {
         "AbilityID": "Ult_Passive_Musket_StackAbilities",
         "DisplayName": "Lethal Combo",
-        "Description": "Increase musket damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[MusketAbilityTable.Ult_Passive_Musket_StackAbilities.BaseDamage * 100]}%\u0026lt;/font\u0026gt; against targets affected by Trapper tree \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuffs\u0026lt;/font\u0026gt;.",
+        "Description": "Increase musket damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; against targets affected by Trapper tree \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuffs\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/musket_Ult02.png",
         "StatusEffectIcon": "",

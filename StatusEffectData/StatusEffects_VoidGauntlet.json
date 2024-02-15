@@ -1014,7 +1014,7 @@
     {
         "StatusID": "VoidGauntlet_VoidBlade_Fortify",
         "DisplayName": "Fortify",
-        "Description": "Your armor is increased by {[Type_StatusEffectData.VoidGauntlet_VoidBlade_Fortify.PhysicalArmor * 100]}%.",
+        "Description": "Your armor is increased by {[0.200000 * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT1.png",
         "ShowInUITray": true,
@@ -1520,7 +1520,7 @@
     {
         "StatusID": "VoidGauntlet_Disintegrate",
         "DisplayName": "Disintegrate",
-        "Description": "You suffer {[Type_StatusEffectData.VoidGauntlet_Disintegrate.HealthModifierDamageBased * -100]}% Void damage per second and your armor is reduced by {[Type_StatusEffectData.VoidGauntlet_Disintegrate.PhysicalArmor * -100]}%.",
+        "Description": "You suffer {[-0.050000 * -100]}% Void damage per second and your armor is reduced by {[-0.100000 * -100]}%.",
         "EffectCategories": "Debuff+ArmorRend+Dot+Debilitate+VoidGauntlet",
         "PlaceholderIcon": "lyshineui/images/status/SE_RendT1.png",
         "ShowInUITray": true,
@@ -1808,7 +1808,7 @@
         "Health": "",
         "HealthMin": "",
         "HealthModifierPercent": null,
-        "HealthModifierDamageBased": -0.3,
+        "HealthModifierDamageBased": -0.28,
         "UseHealScalingValue": null,
         "HealScalingValueMultiplier": null,
         "StaminaDamageModifier": "",
@@ -2026,7 +2026,7 @@
     {
         "StatusID": "VoidGauntlet_NullChamber_Empower",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.VoidGauntlet_NullChamber_Empower.DMGCorruption * 100]}%.",
+        "Description": "Your damage is increased by {[0.150000 * 100]}%.",
         "EffectCategories": "NullChamberBuff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,
@@ -2785,7 +2785,7 @@
     {
         "StatusID": "VoidGauntlet_NullChamber_Weaken",
         "DisplayName": "Weaken",
-        "Description": "Your damage is reduced by {[Type_StatusEffectData.VoidGauntlet_NullChamber_Weaken.DMGCorruption * -100]}%.",
+        "Description": "Your damage is reduced by {[-0.050000 * -100]}%.",
         "EffectCategories": "Debuff+Weaken+Debilitate+VoidGauntlet",
         "PlaceholderIcon": "lyshineui/images/status/SE_WeakenT1.png",
         "ShowInUITray": true,
@@ -3291,7 +3291,7 @@
     {
         "StatusID": "VoidGauntlet_Scream_Fortify",
         "DisplayName": "Fortify",
-        "Description": "Your armor is increased by {[Type_StatusEffectData.VoidGauntlet_Scream_Fortify.PhysicalArmor * 100]}%.",
+        "Description": "Your armor is increased by {[0.100000 * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT1.png",
         "ShowInUITray": true,
@@ -3544,7 +3544,7 @@
     {
         "StatusID": "VoidGauntlet_Scream_Disease",
         "DisplayName": "Disease",
-        "Description": "Incoming healing is reduced by {[Type_StatusEffectData.VoidGauntlet_Scream_Disease.HealMod * -100 {perkMultiplier}]}% and outgoing healing by {[Type_StatusEffectData.VoidGauntlet_Scream_Disease.HealScalingValueMultiplier * -100 * {perkMultiplier}]}.",
+        "Description": "Incoming healing is reduced by {[-0.100000 * -100 {perkMultiplier}]}% and outgoing healing by {[-0.050000 * -100 * {perkMultiplier}]}.",
         "EffectCategories": "Debuff+Disease+Debilitate+VoidGauntlet",
         "PlaceholderIcon": "lyshineui/images/status/SE_DiseaseT3.png",
         "ShowInUITray": true,
@@ -3797,7 +3797,7 @@
     {
         "StatusID": "VoidGauntlet_DecayingOrb_Heal",
         "DisplayName": "Heal",
-        "Description": "Heal for {[Type_StatusEffectData.VoidGauntlet_DecayingOrb_Heal.HealthModifierDamageBased * 100]}% weapon damage per second.",
+        "Description": "Heal for {[0.200000 * 100]}% weapon damage per second.",
         "EffectCategories": "Buff+Heal",
         "PlaceholderIcon": "lyshineui/images/status/SE_HealT4.png",
         "ShowInUITray": true,
@@ -4556,7 +4556,7 @@
     {
         "StatusID": "VoidGauntlet_DrainingTether_Empower",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Empower.DMGCorruption * 100]}%.",
+        "Description": "Your damage is increased by {[0.200000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT1.png",
         "ShowInUITray": true,
@@ -5062,7 +5062,7 @@
     {
         "StatusID": "VoidGauntlet_DrainingTether_Weaken",
         "DisplayName": "Weaken",
-        "Description": "Your damage is reduced by {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Weaken.DMGCorruption * -100]}%.",
+        "Description": "Your damage is reduced by {[-0.200000 * -100]}%.",
         "EffectCategories": "Debuff+Weaken+Debilitate+VoidGauntlet",
         "PlaceholderIcon": "lyshineui/images/status/SE_WeakenT1.png",
         "ShowInUITray": true,
@@ -5568,7 +5568,7 @@
     {
         "StatusID": "VoidGauntlet_DrainingTether_Slow",
         "DisplayName": "Slow",
-        "Description": "Your movement speed is reduced by {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Slow.MoveSpeedMod * {Potency} * -100]}%.",
+        "Description": "Your movement speed is reduced by {[-0.200000 * {Potency} * -100]}%.",
         "EffectCategories": "Debuff+Slow+CC+VoidGauntlet",
         "PlaceholderIcon": "lyshineui/images/status/SE_SlowT3.png",
         "ShowInUITray": true,
@@ -5821,7 +5821,7 @@
     {
         "StatusID": "VoidGauntlet_EssenceRupture",
         "DisplayName": "Essence Rupture",
-        "Description": "Enemies who hit you are healed for {[Type_StatusEffectData.VoidGauntlet_EssenceRupture_Heal.HealthModifierDamageBased * 100]}% of the damage done.",
+        "Description": "Enemies who hit you are healed for {[0.200000 * 100]}% of the damage done.",
         "EffectCategories": "Debuff+Debilitate+EssenceRupture+VoidGauntlet+EssenceRuptureT1",
         "PlaceholderIcon": "lyshineui/images/status/SE_ShockT1.png",
         "ShowInUITray": true,
@@ -6074,7 +6074,7 @@
     {
         "StatusID": "VoidGauntlet_EssenceRupture_Stamina",
         "DisplayName": "Essence Rupture",
-        "Description": "Enemies who hit you are healed for {[Type_StatusEffectData.VoidGauntlet_EssenceRupture_Heal.HealthModifierDamageBased * 100]}% of the damage done.",
+        "Description": "Enemies who hit you are healed for {[0.200000 * 100]}% of the damage done.",
         "EffectCategories": "Debuff+Debilitate+EssenceRupture+VoidGauntlet+EssenceRuptureT2",
         "PlaceholderIcon": "lyshineui/images/status/SE_ShockT1.png",
         "ShowInUITray": true,
@@ -6327,7 +6327,7 @@
     {
         "StatusID": "VoidGauntlet_EssenceRupture_AoE_OnEnd",
         "DisplayName": "Essence Rupture",
-        "Description": "Enemies who hit you are healed for {[Type_StatusEffectData.VoidGauntlet_EssenceRupture_Heal.HealthModifierDamageBased * 100]}% of the damage done.",
+        "Description": "Enemies who hit you are healed for {[0.200000 * 100]}% of the damage done.",
         "EffectCategories": "Debuff+Debilitate+EssenceRupture+VoidGauntlet+EssenceRuptureT3",
         "PlaceholderIcon": "lyshineui/images/status/SE_ShockT1.png",
         "ShowInUITray": true,
@@ -7592,7 +7592,7 @@
     {
         "StatusID": "VoidGauntlet_EssenceRupture_Empower",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.VoidGauntlet_EssenceRupture_Empower.DMGCorruption * 100]}%.",
+        "Description": "Your damage is increased by {[0.100000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,
@@ -7845,7 +7845,7 @@
     {
         "StatusID": "VoidGauntlet_EmpowerLowMana",
         "DisplayName": "Empower",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;+{[Type_StatusEffectData.VoidGauntlet_EmpowerLowMana.DMGCorruption * 100]}%\u0026lt;/font\u0026gt; damage while below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;50%\u0026lt;/font\u0026gt; mana.",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;+{[0.100000 * 100]}%\u0026lt;/font\u0026gt; damage while below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;50%\u0026lt;/font\u0026gt; mana.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,
@@ -8098,7 +8098,7 @@
     {
         "StatusID": "VoidGauntlet_EmpowerCloseRange",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.VoidGauntlet_EmpowerCloseRange.DMGCorruption * 100]}%.",
+        "Description": "Your damage is increased by {[0.100000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,
@@ -9110,7 +9110,7 @@
     {
         "StatusID": "VoidGauntlet_SiphonAura_Heal",
         "DisplayName": "Heal",
-        "Description": "Heal for {[Type_StatusEffectData.VoidGauntlet_SiphonAura_Heal.HealthModifierDamageBased * 100]}% weapon damage per second.",
+        "Description": "Heal for {[0.300000 * 100]}% weapon damage per second.",
         "EffectCategories": "Heal",
         "PlaceholderIcon": "lyshineui/images/status/SE_Voidcaller.png",
         "ShowInUITray": true,

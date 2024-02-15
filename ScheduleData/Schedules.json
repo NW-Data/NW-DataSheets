@@ -6,6 +6,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": false,
+        "ScheduledQuestDescription": "",
         "Comments": "Forinternaltesting,donotremove"
     },
     {
@@ -15,6 +16,7 @@
         "StartWeekday": "Wednesday",
         "EndWeekday": "Thursday",
         "UTC": false,
+        "ScheduledQuestDescription": "",
         "Comments": "Forinternaltesting,donotremove"
     },
     {
@@ -24,6 +26,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
+        "ScheduledQuestDescription": "",
         "Comments": "TurkeyTerror Event"
     },
     {
@@ -33,6 +36,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
+        "ScheduledQuestDescription": "",
         "Comments": "Legacy of Crassus February Event (Modified for dates 2024)"
     },
     {
@@ -42,6 +46,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
+        "ScheduledQuestDescription": "",
         "Comments": "Eggciting Defense August Event"
     },
     {
@@ -51,6 +56,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
+        "ScheduledQuestDescription": "",
         "Comments": "For Diamond Gypsum Events (JuniperBag)"
     },
     {
@@ -60,6 +66,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
+        "ScheduledQuestDescription": "",
         "Comments": "For Diamond Gypsum Events (RitualBag)"
     },
     {
@@ -69,6 +76,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
+        "ScheduledQuestDescription": "",
         "Comments": "For Diamond Gypsum Events (BagofEarthGifts)"
     },
     {
@@ -78,6 +86,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": null,
+        "ScheduledQuestDescription": "",
         "Comments": "For Diamond Gypsum Events (ConcealedVault)"
     },
     {
@@ -87,6 +96,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": false,
+        "ScheduledQuestDescription": "",
         "Comments": "For C2C event Fortunes of the Bold (Rafflebones)"
     },
     {
@@ -96,6 +106,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": true,
+        "ScheduledQuestDescription": "",
         "Comments": "Summer Medleyfaire"
     },
     {
@@ -105,24 +116,27 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": true,
+        "ScheduledQuestDescription": "",
         "Comments": "Nightveil Hollow"
     },
     {
         "ScheduleId": "EventWinter",
-        "StartDate": "2023-12-12T13:15:00",
+        "StartDate": "2023-12-01T13:15:00",
         "EndDate": "2024-01-10T07:15:00",
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": true,
+        "ScheduledQuestDescription": "",
         "Comments": "Winter Convergence"
     },
     {
         "ScheduleId": "EventSpring",
-        "StartDate": "2024-04-01T*:*:*",
+        "StartDate": "2024-04-09T*:*:*",
         "EndDate": "2024-05-01T*:*:*",
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": true,
+        "ScheduledQuestDescription": "",
         "Comments": "Springtide Bloom"
     },
     {
@@ -132,6 +146,7 @@
         "StartWeekday": "",
         "EndWeekday": "",
         "UTC": false,
+        "ScheduledQuestDescription": "",
         "Comments": "Lunar New Year"
     },
     {
@@ -141,6 +156,7 @@
         "StartWeekday": "Sunday",
         "EndWeekday": "Tuesday",
         "UTC": false,
+        "ScheduledQuestDescription": "",
         "Comments": "Tribute run rotation: S,M,T for Skysong Temple"
     },
     {
@@ -150,6 +166,7 @@
         "StartWeekday": "Wednesday",
         "EndWeekday": "Thursday",
         "UTC": false,
+        "ScheduledQuestDescription": "",
         "Comments": "Tribute run rotation: W,H for Serenity Outpost"
     },
     {
@@ -159,6 +176,47 @@
         "StartWeekday": "Friday",
         "EndWeekday": "Saturday",
         "UTC": false,
+        "ScheduledQuestDescription": "",
         "Comments": "Tribute run rotation: F,S for Imperial Palace"
+    },
+    {
+        "ScheduleId": "Minutely",
+        "StartDate": "*-*-*T*:*:00",
+        "EndDate": "",
+        "StartWeekday": "",
+        "EndWeekday": "",
+        "UTC": null,
+        "ScheduledQuestDescription": "Once-Per-Minute Quest",
+        "Comments": "Once per minute schedule"
+    },
+    {
+        "ScheduleId": "Hourly",
+        "StartDate": "*-*-*T*:00:00",
+        "EndDate": "",
+        "StartWeekday": "",
+        "EndWeekday": "",
+        "UTC": null,
+        "ScheduledQuestDescription": "Hourly Quest",
+        "Comments": "Hourly schedule"
+    },
+    {
+        "ScheduleId": "Daily",
+        "StartDate": "*-*-*TDailyCooldown",
+        "EndDate": "",
+        "StartWeekday": "",
+        "EndWeekday": "",
+        "UTC": null,
+        "ScheduledQuestDescription": "Daily Quest",
+        "Comments": "Daily schedule - resets at daily cooldown config time"
+    },
+    {
+        "ScheduleId": "Weekly",
+        "StartDate": "",
+        "EndDate": "",
+        "StartWeekday": "WeeklyCooldown",
+        "EndWeekday": "",
+        "UTC": null,
+        "ScheduledQuestDescription": "Weekly Quest",
+        "Comments": "Weekly schedule - resets at weekly cooldown config time"
     }
 ]

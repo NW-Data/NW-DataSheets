@@ -2,7 +2,7 @@
     {
         "AbilityID": "Ability_Firestaff_PillarofFire",
         "DisplayName": "Pillar of Fire",
-        "Description": "Invoke a burst of flames with a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_FireMagic.FireStaff_PillarOfFire.Radius]}m\u0026lt;/font\u0026gt; radius at the target area that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Firestaff_Pillar.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.FireStaff_PillarOfFire.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
+        "Description": "Invoke a burst of flames with a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.500000]}m\u0026lt;/font\u0026gt; radius at the target area that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.550000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[15.000000]}\u0026lt;/font\u0026gt; mana.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "FireStaff_PillarOfFire",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility2.png",
@@ -143,7 +143,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_PillarofFire_Dmg",
         "DisplayName": "Strike The Match",
-        "Description": "Pillar of Fire deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Upgrade_Firestaff_PillarofFire_Dmg.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage for each stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt; on the target.",
+        "Description": "Pillar of Fire deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.050000 * 100]}%\u0026lt;/font\u0026gt; more damage for each stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt; on the target, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} stacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility2_mod1.png",
@@ -284,7 +284,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_PillarofFire_Mana",
         "DisplayName": "Arson's Advantage",
-        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Upgrade_Firestaff_PillarofFire_Mana.Mana * 100]}%\u0026lt;/font\u0026gt; of your max mana per enemy hit by Pillar of Fire.",
+        "Description": "Gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; of your max mana per enemy hit by Pillar of Fire.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility2_mod2.png",
@@ -425,7 +425,7 @@
     {
         "AbilityID": "Ability_Firestaff_MeteorShower",
         "DisplayName": "Meteor Shower",
-        "Description": "Summon down a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_FireMagic.FireStaff_Storm.Radius]}m\u0026lt;/font\u0026gt; radius rain of meteors for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_FireMagic.Spell_Ability_FireStaff_Storm.Duration / 1000]}s\u0026lt;/font\u0026gt; up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_FireMagic.FireStaff_Storm.CastDistance]}m\u0026lt;/font\u0026gt; away. Deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.FireStaff_Storm.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to targets upon entering the area, then deals an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_FireStaff_MeteorShower_Damage.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_FireStaff_MeteorShower_Damage.TickRate]}s\u0026lt;/font\u0026gt; while targets remain inside. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;\\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.FireStaff_Storm.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
+        "Description": "Summon down a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.500000]}m\u0026lt;/font\u0026gt; radius rain of meteors for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4000.000000 / 1000]}s\u0026lt;/font\u0026gt; up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[20.000000]}m\u0026lt;/font\u0026gt; away. Deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to targets upon entering the area, then deals an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.500000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000]}s\u0026lt;/font\u0026gt; while targets remain inside. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;\\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}\u0026lt;/font\u0026gt; mana.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "FireStaff_Storm",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility3.png",
@@ -566,7 +566,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_MeteorShower_Mana",
         "DisplayName": "Immolation",
-        "Description": "Meteor Shower gives you \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Upgrade_Firestaff_MeteorShower_Mana.Mana * 100]}%\u0026lt;/font\u0026gt; of your max mana for each instance of damage dealt.",
+        "Description": "Meteor Shower gives you \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.030000 * 100]}%\u0026lt;/font\u0026gt; of your max mana for each instance of damage dealt.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility3_mod1.png",
@@ -707,7 +707,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_MeteorShower_More",
         "DisplayName": "Judgment of Helios",
-        "Description": "Hitting a target that is inside meteor shower with a light or heavy attack will inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt; on targets, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Hitting a target that is inside meteor shower with a light or heavy attack will inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt; on targets, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} stacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility3_mod3.png",
@@ -848,7 +848,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_MeteorShower_Extra",
         "DisplayName": "Fiery Determination",
-        "Description": "Adds \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt; while casting Meteor Shower.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Adds \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt; while casting Meteor Shower.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility3_mod2.png",
@@ -989,7 +989,7 @@
     {
         "AbilityID": "Ability_Firestaff_Fireball",
         "DisplayName": "Fireball",
-        "Description": "Cast forth a heavy fireball that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Firestaff_Siege_AOE.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_FireMagic.Spell_Ability_Firestaff_Fireball_ScorchedEarth.Radius]}m\u0026lt;/font\u0026gt; radius on impact. \\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.FireStaff_Siege.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
+        "Description": "Cast forth a heavy fireball that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}m\u0026lt;/font\u0026gt; radius on impact. \\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[25.000000]}\u0026lt;/font\u0026gt; mana.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "FireStaff_Siege_Shoot",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility1.png",
@@ -1130,7 +1130,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_Fireball_Dur",
         "DisplayName": "Scorched Earth",
-        "Description": "Fireball hits now apply a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt; on targets, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Fireball hits now apply a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt; on targets, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} stacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility1_mod1.png",
@@ -1271,7 +1271,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_Fireball_Mana",
         "DisplayName": "Catch",
-        "Description": "Direct hits with Fireball give you \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Upgrade_Firestaff_Fireball_Mana.Mana * 100]}% \u0026lt;/font\u0026gt;of your max mana and reduce your fire staff ability cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Upgrade_Firestaff_Fireball_Mana.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Direct hits with Fireball restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}% \u0026lt;/font\u0026gt;of your max mana and reduce your fire staff ability cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.070000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility1_mod2.png",
@@ -1412,7 +1412,7 @@
     {
         "AbilityID": "Passive_Firestaff_FireMage_ManaOnHit",
         "DisplayName": "Spell Focus",
-        "Description": "Heavy attacks no longer consume \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;mana\u0026lt;/font\u0026gt; and will now restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Passive_Firestaff_FireMage_ManaOnHit.Mana * 100]}%\u0026lt;/font\u0026gt; of your max mana on hit.",
+        "Description": "Heavy attacks no longer consume \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;mana\u0026lt;/font\u0026gt; and will now restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.050000 * 100]}%\u0026lt;/font\u0026gt; of your max mana on hit.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive1.png",
@@ -1553,7 +1553,7 @@
     {
         "AbilityID": "Passive_Firestaff_FireMage_CDRHeavy",
         "DisplayName": "Fiery Restoration",
-        "Description": "Heavy attacks reduce fire staff cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Passive_Firestaff_FireMage_CDRHeavy.CooldownTimer * -100]}%\u0026lt;/font\u0026gt; on hit.",
+        "Description": "Heavy attacks reduce fire staff cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}%\u0026lt;/font\u0026gt; on hit.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive2.png",
@@ -1694,7 +1694,7 @@
     {
         "AbilityID": "Passive_Firestaff_FireMage_DmgFullMana",
         "DisplayName": "Clear Mind",
-        "Description": "While holding a fire staff and above \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;50%\u0026lt;/font\u0026gt; mana, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Firestaff_FireMage_DmgFullMana.DMGStandard * 100]}% empower\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Empower increases damage.)\u0026lt;/font\u0026gt;",
+        "Description": "While holding a fire staff and above \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;50%\u0026lt;/font\u0026gt; mana, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.050000 * 100]}% empower\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Empower increases damage.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive3.png",
@@ -1835,7 +1835,7 @@
     {
         "AbilityID": "Passive_Firestaff_FireMage_HeavyNoMana",
         "DisplayName": "Flare",
-        "Description": "Heavy attacks now trigger a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_FireMagic.Spell_Heavy_Firestaff_Splash.Radius]}m\u0026lt;/font\u0026gt; splash on impact, but the damage is reduced to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Firestaff_PrimaryAttackC2_Splash.DmgCoef * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Heavy attacks now trigger a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000]}m\u0026lt;/font\u0026gt; splash on impact, but the damage is reduced to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.100000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive4.png",
@@ -1976,7 +1976,7 @@
     {
         "AbilityID": "Passive_Firestaff_FireMage_CritBurn",
         "DisplayName": "Singe",
-        "Description": "Light and Heavy attacks inflict a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt; on foes, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[Type_StatusEffectData.FireStaff_Pyro_DOT.StackMax]} stacks.)\u0026lt;/font\u0026gt;.",
+        "Description": "Light and Heavy attacks inflict a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt; on foes, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} stacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive5.png",
@@ -2117,7 +2117,7 @@
     {
         "AbilityID": "Passive_Firestaff_FireMage_Crit",
         "DisplayName": "Spellslinger",
-        "Description": "Your fire staff abilities gain an extra \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Passive_Firestaff_FireMage_Crit.CritChance * 100]}%\u0026lt;/font\u0026gt; chance to critical strike.",
+        "Description": "Your fire staff abilities gain an extra \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; chance to critical strike.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive6.png",
@@ -2258,7 +2258,7 @@
     {
         "AbilityID": "Passive_Firestaff_FireMage_DmgNoDmg",
         "DisplayName": "Clear Casting",
-        "Description": "After not taking damage from an attack in the last \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Firestaff_FireMage_DmgNoDmg_Timer.BaseDuration]}s\u0026lt;/font\u0026gt;, deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Firestaff_FireMage_DmgNoDmg.DMGStandard * 100]}%\u0026lt;/font\u0026gt; more damage.",
+        "Description": "After not taking damage from an attack in the last \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;, deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.050000 * 100]}%\u0026lt;/font\u0026gt; more damage.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive7.png",
@@ -2399,7 +2399,7 @@
     {
         "AbilityID": "Passive_Firestaff_FireMage_CritDmg",
         "DisplayName": "Prophet of a Fire God",
-        "Description": "While holding a fire staff, your critical strike damage is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Passive_Firestaff_FireMage_CritDmg.CritDamage * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "While holding a fire staff, your critical strike damage is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive8.png",
@@ -2540,7 +2540,7 @@
     {
         "AbilityID": "Passive_Firestaff_FireMage_Ultimate",
         "DisplayName": "Runes of Helios",
-        "Description": "Using a fire staff ability places a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_FireMagic.Spell_Ultimate_Firemage.Radius]}m\u0026lt;/font\u0026gt; rune on the ground that increases your damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ultimate_Firemage_DMG.DMGStandard * 100]}%\u0026lt;/font\u0026gt; while standing inside. The rune lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Ultimate_Firemage.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown {[Type_StatusEffectData.Status_Ultimate_Firemage_Timer.BaseDuration]}s)\u0026lt;/font\u0026gt;.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;",
+        "Description": "Using a fire staff ability places a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}m\u0026lt;/font\u0026gt; rune on the ground that increases your damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; while standing inside. The rune lasts for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[7.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown {[30.000000]}s.)\u0026lt;/font\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(This effect cannot be dispelled.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive9.png",
@@ -2681,7 +2681,7 @@
     {
         "AbilityID": "Ability_Firestaff_Incinerate",
         "DisplayName": "Incinerate",
-        "Description": "Cause a fiery explosion in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_FireMagic.Spell_Ability_FireStaff_Incinerate.Radius]}m\u0026lt;/font\u0026gt; radius area around yourself that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Firestaff_Incinerate.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;staggering\u0026lt;/font\u0026gt; your target. Inflicts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt; on struck foes, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.BaseDuration]}s\u0026lt;/font\u0026gt;. \\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;\\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.FireStaff_Incinerate.ManaCost]}\u0026lt;/font\u0026gt; Mana.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your fire staff, hits with this ability inflict taunt for {[DamageTable.Firestaff_Incinerate.TauntDuration]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
+        "Description": "Cause a fiery explosion in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}m\u0026lt;/font\u0026gt; radius area around yourself that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.250000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;staggering\u0026lt;/font\u0026gt; your target. Inflicts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt; on struck foes, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} stacks.)\u0026lt;/font\u0026gt;\\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;\\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[22.000000]}\u0026lt;/font\u0026gt; mana.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your fire staff, hits with this ability inflict taunt for {[3.000000]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "FireStaff_Incinerate",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility6.png",
@@ -2822,7 +2822,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_Incinerate_Burn",
         "DisplayName": "Scorched",
-        "Description": "Each hit of Incinerate causes an additional stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt;.",
+        "Description": "Each hit of Incinerate causes an additional stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt;.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility6_mod1.png",
@@ -2963,7 +2963,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_Incinerate_Heal",
         "DisplayName": "Cauterize Wounds",
-        "Description": "Restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Upgrade_Firestaff_Incinerate_Heal.DmgPctToHealth * 100]}%\u0026lt;/font\u0026gt; of Incinerate damage dealt as health.",
+        "Description": "Restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; of Incinerate damage dealt as health.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility6_mod2.png",
@@ -3104,7 +3104,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_Incinerate_Double",
         "DisplayName": "Flame out!",
-        "Description": "Gain a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Firestaff_incinerate_Empower.DMGStandard * 100]}%\u0026lt;/font\u0026gt; empower for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Firestaff_incinerate_Empower.BaseDuration]}s\u0026lt;/font\u0026gt; for each target hit with incinerate. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[Type_StatusEffectData.Status_Passive_Firestaff_incinerate_Empower.StackMax]} stacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Gain a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.030000 * 100]}%\u0026lt;/font\u0026gt; empower for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[7.000000]}s\u0026lt;/font\u0026gt; for each target hit with incinerate. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} stacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility6_mod3.png",
@@ -3245,7 +3245,7 @@
     {
         "AbilityID": "Ability_Firestaff_FlameThrower",
         "DisplayName": "Flamethrower",
-        "Description": "Create a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;4m\u0026lt;/font\u0026gt; jet of flame from the staff dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.FireStaff_FlameThrower.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every second. Each hit inflicts a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[Type_StatusEffectData.FireStaff_Pyro_DOT.StackMax]} stacks.)\u0026lt;/font\u0026gt;\\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.FireStaff_FlameThrower.ManaCost * 2]}\u0026lt;/font\u0026gt; Mana per second.",
+        "Description": "Create a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;4m\u0026lt;/font\u0026gt; jet of flame from the staff dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage every second. Each hit inflicts a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} stacks.)\u0026lt;/font\u0026gt;\\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.500000 * 2]}\u0026lt;/font\u0026gt; mana per second. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Mana does not regenerate while flamethrower is active.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "FireStaff_FlameThrower",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility4.png",
@@ -3386,7 +3386,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_FlameThrower_Rng",
         "DisplayName": "Fire's Reach",
-        "Description": "Increase the range of Flamethrower by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;50%\u0026lt;/font\u0026gt;.",
+        "Description": "Increase the range of Flamethrower by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;50%\u0026lt;/font\u0026gt;.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility4_mod2.png",
@@ -3527,7 +3527,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_FlameThrower_Dmg",
         "DisplayName": "Infernal Flames",
-        "Description": "Increase the base damage of Flamethrower by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Upgrade_Firestaff_FlameThrower_Dmg.BaseDamage * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Increase the base damage of Flamethrower by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility4_mod1.png",
@@ -3668,7 +3668,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_FlameThrower_NoCooldown",
         "DisplayName": "Pyro Dancer",
-        "Description": "Flamethrower has no \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;cooldown\u0026lt;/font\u0026gt; when canceled. While Flamethrower is active, being staggered will activate a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;2.5s\u0026lt;/font\u0026gt; cooldown.",
+        "Description": "Flamethrower has no \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;cooldown\u0026lt;/font\u0026gt; when cancelled. While Flamethrower is active, being staggered will activate a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2.5s\u0026lt;/font\u0026gt; cooldown.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility4_mod3.png",
@@ -3809,7 +3809,7 @@
     {
         "AbilityID": "Ability_Firestaff_BurnOut",
         "DisplayName": "Burnout",
-        "Description": "Dash forward up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;18m\u0026lt;/font\u0026gt; through targets dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.FireStaff_FireDash.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage on hit. Passing through a target will inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt; on targets, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.BaseDuration]}s\u0026lt;/font\u0026gt;. \\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[ManaCosts_Player.FireStaff_Speed_Cost.ManaCost]}\u0026lt;/font\u0026gt; Mana.",
+        "Description": "Dash forward up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;18m\u0026lt;/font\u0026gt; through targets dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.300000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage on hit. Passing through a target will inflict \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt; on targets, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} stacks.)\u0026lt;/font\u0026gt;\\n\\nCosts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}\u0026lt;/font\u0026gt; mana.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "FireStaff_Speed_Intro",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility5.png",
@@ -3950,7 +3950,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_BurnOut_CDR",
         "DisplayName": "All In",
-        "Description": "Fire staff cooldowns are reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Upgrade_Firestaff_BurnOut_CDR.CooldownTimer * -100]}%\u0026lt;/font\u0026gt; for each foe hit by Burn Out. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[FireMagicAbilityTable.Upgrade_Firestaff_BurnOut_CDR.NumberOfTrackedHits]} reductions per ability use.)\u0026lt;/font\u0026gt;",
+        "Description": "Fire staff cooldowns are reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; for each foe hit by Burnout. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} reductions per ability use.)\u0026lt;/font\u0026gt;",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffAbility5_mod1.png",
@@ -4091,7 +4091,7 @@
     {
         "AbilityID": "Upgrade_Firestaff_BurnOut_Aoe",
         "DisplayName": "Heat it Up!",
-        "Description": "Burn Out now triggers an explosion right as it ends dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.FireStaff_FireDash_Explosion.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;damage to all targets in a 2.5m radius.",
+        "Description": "Burnout now triggers an explosion right as it ends dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;damage to all targets in a 2.5m radius.",
         "UICategory": "Magic Damage",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/bow_ability_explosion.png",
@@ -4232,7 +4232,7 @@
     {
         "AbilityID": "Passive_Firestaff_Pyro_DmgOnLow",
         "DisplayName": "Pyromania",
-        "Description": "All attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Passive_Firestaff_Pyro_DmgOnLow.BaseDamage * 100]}%\u0026lt;/font\u0026gt; increased damage against targets with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;burn\u0026lt;/font\u0026gt; or \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt;.",
+        "Description": "All attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; increased damage against targets with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;burn\u0026lt;/font\u0026gt; or \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive10.png",
@@ -4373,7 +4373,7 @@
     {
         "AbilityID": "Passive_Firestaff_Pyro_ManaOnblock",
         "DisplayName": "Heat Up",
-        "Description": "Dodging through an enemy melee attack inflicts a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt; on foes, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[Type_StatusEffectData.FireStaff_Pyro_DOT.StackMax]} stacks. {[FireMagicAbilityTable.Passive_Firestaff_Pyro_ManaOnblock.ActivationCooldown]}s Cooldown.)\u0026lt;/font\u0026gt;.",
+        "Description": "Dodging through an enemy melee attack inflicts a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt; on foes, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} stacks. {[1.000000]}s Cooldown.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive11.png",
@@ -4514,7 +4514,7 @@
     {
         "AbilityID": "Passive_Firestaff_Pyro_FortOnBurn",
         "DisplayName": "Let it Burn",
-        "Description": "Whenever a fire staff \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt; effect deals damage, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_FortOnBurn.PhysicalArmor * 100]}% fortify\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_FortOnBurn.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Fortify increases armor)\u0026lt;/font\u0026gt;",
+        "Description": "Whenever a fire staff \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt; effect deals damage, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}% fortify\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Fortify increases armor.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive12.png",
@@ -4655,7 +4655,7 @@
     {
         "AbilityID": "Passive_Firestaff_Pyro_ManaOnBurn",
         "DisplayName": "Kindle",
-        "Description": "Applied \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt; effects last \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Passive_Firestaff_Pyro_ManaOnBurn.TargetStatusEffectDurationMult * 100]}%\u0026lt;/font\u0026gt; longer.",
+        "Description": "Applied \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt; effects last \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; longer.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive13.png",
@@ -4796,7 +4796,7 @@
     {
         "AbilityID": "Passive_Firestaff_Pyro_BurnOnLight",
         "DisplayName": "Watch it Burn",
-        "Description": "Critical hits with fire staff abilities inflict a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.FireStaff_Pyro_DOT.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[Type_StatusEffectData.FireStaff_Pyro_DOT.StackMax]} stacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Critical hits with fire staff abilities inflict a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage each second for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} stacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive14.png",
@@ -4937,7 +4937,7 @@
     {
         "AbilityID": "Passive_Firestaff_Pyro_BurnNearby",
         "DisplayName": "Trial by Fire",
-        "Description": "When hitting a target within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Passive_Firestaff_Pyro_BurnNearby.DistFromDefender]}m\u0026lt;/font\u0026gt; of player, create a field of fire around you dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_BurnNearby.HealthModifierDamageBased * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to all to nearby enemies in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_FireMagic.Spell_Passive_Firestaff_Pyro_BurnNearby.Radius]}m\u0026lt;/font\u0026gt; radius for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_FireMagic.Spell_Passive_Firestaff_Pyro_BurnNearby.Duration / 1000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown {[Type_StatusEffectData.TrialByFireTimer.BaseDuration]}s.)\u0026lt;/font\u0026gt;",
+        "Description": "When hitting a target within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}m\u0026lt;/font\u0026gt; of player, create a field of fire around you dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to all to nearby enemies in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}m\u0026lt;/font\u0026gt; radius for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5000.000000 / 1000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown {[30.000000]}s.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive15.png",
@@ -5078,7 +5078,7 @@
     {
         "AbilityID": "Passive_Firestaff_Pyro_Haste",
         "DisplayName": "Combat Speed",
-        "Description": "When you activate a fire staff ability gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_Haste.MoveSpeedMod * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_Haste.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.) (Cooldown {[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_Haste_Timer.BaseDuration]}s.)\u0026lt;/font\u0026gt;",
+        "Description": "When you activate a fire staff ability gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Haste increases movement speed.) (Cooldown {[10.000000]}s.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffPassive16.png",
@@ -5219,7 +5219,7 @@
     {
         "AbilityID": "Passive_Firestaff_Pyro_Ultimate",
         "DisplayName": "Backdraft",
-        "Description": "Hitting a target that is inflicted with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[FireMagicAbilityTable.Passive_Firestaff_Pyro_Ultimate.TargetStatusEffectStackSize]}\u0026lt;/font\u0026gt; stacks of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;smolder\u0026lt;/font\u0026gt; with a heavy attack will consume all of the stacks on the target. Upon consumption, an explosion will be triggered, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Firestaff_Ultimate_Explosion.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to all targets in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_FireMagic.Spell_Ability_FireStaff_PyroUlt_Explosion.Radius]}m\u0026lt;/font\u0026gt; radius of the target. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[Type_StatusEffectData.Status_Passive_Firestaff_PyroUlt_Explosion_Timer.BaseDuration]}s Cooldown.)\u0026lt;/font\u0026gt;",
+        "Description": "Hitting a target that is inflicted with \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}\u0026lt;/font\u0026gt; stacks of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;smolder\u0026lt;/font\u0026gt; with a heavy attack will consume all of the stacks on the target. Upon consumption, an explosion will be triggered, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to all targets in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}m\u0026lt;/font\u0026gt; radius of the target. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[10.000000]}s Cooldown.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/firestaffUltimate2.png",

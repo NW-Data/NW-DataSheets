@@ -534,5 +534,13 @@
         "Title": "Territory Control",
         "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background10.dds",
         "HideFromUI": true
+    },
+    {
+        "MetaAchievementCategoryId": "Legacy",
+        "Parent Category": "",
+        "Index": 13,
+        "Title": "@ui_meta_achievements_legacy",
+        "Icon Color Background": "LyShineUI\\Images\\Icons\\Achievements\\achievement_icon_background.dds",
+        "HideFromUI": null
     }
 ]

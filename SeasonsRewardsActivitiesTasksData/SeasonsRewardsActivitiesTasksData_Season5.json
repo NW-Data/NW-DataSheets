@@ -161,20 +161,6 @@
         "Disabled": ""
     },
     {
-        "ActivitiesTaskId": "ActivitiesS1Task25",
-        "Task": "Craft5T5Weapon",
-        "Type": "Crafting",
-        "Description": "Craft Tier 5 Weapon Items",
-        "Disabled": ""
-    },
-    {
-        "ActivitiesTaskId": "ActivitiesS1Task31",
-        "Task": "Craft5T5Apparel",
-        "Type": "Crafting",
-        "Description": "Craft Tier 5 Apparel Items",
-        "Disabled": ""
-    },
-    {
         "ActivitiesTaskId": "ActivitiesS1Task26",
         "Task": "Craft10T5Consumables",
         "Type": "Crafting",
@@ -308,38 +294,10 @@
         "Disabled": ""
     },
     {
-        "ActivitiesTaskId": "ActivitiesS1Task65",
-        "Task": "Kill10EnemiesBedsOfTaBitJet",
-        "Type": "Expedition",
-        "Description": "Kill Enemies in the Beds of Ta-Bitjet",
-        "Disabled": ""
-    },
-    {
         "ActivitiesTaskId": "ActivitiesS1Task66",
         "Task": "Kill2Named",
         "Type": "Expedition",
         "Description": "Kill Named Enemies",
-        "Disabled": ""
-    },
-    {
-        "ActivitiesTaskId": "ActivitiesS1Task67",
-        "Task": "Kill20Elite",
-        "Type": "Expedition",
-        "Description": "Kill Elite Enemies",
-        "Disabled": ""
-    },
-    {
-        "ActivitiesTaskId": "ActivitiesS1Task68",
-        "Task": "CompleteSavageDivide",
-        "Type": "Season",
-        "Description": "Complete a run of Savage Divide",
-        "Disabled": ""
-    },
-    {
-        "ActivitiesTaskId": "ActivitiesS1Task70",
-        "Task": "GatherSporePlant",
-        "Type": "Season",
-        "Description": "Gather from a Spore Pod",
         "Disabled": ""
     },
     {
@@ -359,14 +317,14 @@
     {
         "ActivitiesTaskId": "ActivitiesS1Task73",
         "Task": "Kill1Player",
-        "Type": "PvP",
+        "Type": "Pvp",
         "Description": "Earn Azoth Salt by Killing Players",
         "Disabled": ""
     },
     {
         "ActivitiesTaskId": "ActivitiesS1Task74",
         "Task": "Gain100PvPXP",
-        "Type": "PvP",
+        "Type": "Pvp",
         "Description": "Earn PvP XP",
         "Disabled": ""
     },
@@ -375,6 +333,69 @@
         "Task": "LootEliteChest",
         "Type": "Expedition",
         "Description": "Loot Elite Chests",
+        "Disabled": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task77",
+        "Task": "Craft5T5Weapon",
+        "Type": "Crafting",
+        "Description": "Craft Tier 5 Weapon Items",
+        "Disabled": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task78",
+        "Task": "Craft5T5Apparel",
+        "Type": "Crafting",
+        "Description": "Craft Tier 5 Apparel Items",
+        "Disabled": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task79",
+        "Task": "CompleteRuneforgeTrial",
+        "Type": "Season",
+        "Description": "Complete the Winter Rune Forge Trial",
+        "Disabled": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task80",
+        "Task": "Kill10VoidGauntlet",
+        "Type": "Season",
+        "Description": "Get Kills with the Void Gauntlet",
+        "Disabled": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task81",
+        "Task": "CompletePvPRewardTrack",
+        "Type": "Season",
+        "Description": "Complete a level on the PvP Reward Track",
+        "Disabled": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task82",
+        "Task": "Slay20CorruptedRabbits_RabbitsRevenge",
+        "Type": "Season",
+        "Description": "Slay Corrupted Rabbits",
+        "Disabled": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task84",
+        "Task": "GatherWispybloomFlower",
+        "Type": "Season",
+        "Description": "Gather Wispybloom Flowers",
+        "Disabled": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task85",
+        "Task": "Craft5WispySpritzes",
+        "Type": "Season",
+        "Description": "Craft Wispy Spritzes",
+        "Disabled": ""
+    },
+    {
+        "ActivitiesTaskId": "ActivitiesS1Task86",
+        "Task": "Plant10WispySpritzes",
+        "Type": "Season",
+        "Description": "Plant Wispy Spritzes",
         "Disabled": ""
     }
 ]

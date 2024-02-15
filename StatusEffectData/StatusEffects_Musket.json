@@ -250,7 +250,7 @@
     {
         "StatusID": "Musket_Trap_Root",
         "DisplayName": "Trapped",
-        "Description": "Immobilized for {[Type_StatusEffectData.Musket_Trap_Root.BaseDuration]} seconds.",
+        "Description": "Immobilized for {[3.000000]} seconds.",
         "EffectCategories": "Debuff+Root+CC+Trapper+TrapRoot",
         "PlaceholderIcon": "lyshineui/images/status/SE_TrappedT1.png",
         "ShowInUITray": true,
@@ -498,7 +498,7 @@
     {
         "StatusID": "Musket_Trap_Rend",
         "DisplayName": "Rend",
-        "Description": "Your armor is reduced by {[Type_StatusEffectData.Musket_Trap_Rend.PhysicalArmor * -100]}%",
+        "Description": "Your armor is reduced by {[-0.200000 * -100]}%",
         "EffectCategories": "Debuff+Debilitate+Trapper+ArmorRend+TrapRoot",
         "PlaceholderIcon": "lyshineui/images/status/SE_RendT3.png",
         "ShowInUITray": true,
@@ -994,7 +994,7 @@
     {
         "StatusID": "Musket_Sticky_Slow",
         "DisplayName": "Sticky Slow",
-        "Description": "Your movement speed is reduced by {[Type_StatusEffectData.Musket_Sticky_Slow.MoveSpeedMod * -100]}%.",
+        "Description": "Your movement speed is reduced by {[-0.150000 * -100]}%.",
         "EffectCategories": "Debuff+Slow+CC+Trapper",
         "PlaceholderIcon": "lyshineui/images/status/SE_SlowT3.png",
         "ShowInUITray": true,
@@ -1242,7 +1242,7 @@
     {
         "StatusID": "Musket_PowerShot_Empower",
         "DisplayName": "Empower",
-        "Description": "{[Type_StatusEffectData.Musket_PowerShot_Empower.DMGStandard * 100]}% more damage for {[Type_StatusEffectData.Musket_PowerShot_Empower.BaseDuration]} seconds.",
+        "Description": "{[0.100000 * 100]}% more damage for {[5.000000]} seconds.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,
@@ -1452,7 +1452,7 @@
         "AFAFrostbite": "",
         "AFACurse": "",
         "AFABlight": "",
-        "StackDuration": 1,
+        "StackDuration": 0,
         "DurationMax": 5,
         "InheritDuration": "0",
         "InheritTotalDuration": "",
@@ -1490,7 +1490,7 @@
     {
         "StatusID": "Musket_StoppingPower_Exhaust",
         "DisplayName": "Exhaust",
-        "Description": "Stamina regen rate decreased by {[Type_StatusEffectData.Musket_StoppingPower_Exhaust.StaminaRate * -100]}%.",
+        "Description": "Stamina regen rate decreased by {[-0.100000 * -100]}%.",
         "EffectCategories": "Debuff+Exhaust+Debilitate+Trapper",
         "PlaceholderIcon": "lyshineui/images/status/SE_ExhaustT3.png",
         "ShowInUITray": true,
@@ -1738,7 +1738,7 @@
     {
         "StatusID": "Musket_StoppingPower_Slow",
         "DisplayName": "Slow",
-        "Description": "Your movement speed is reduced by {[Type_StatusEffectData.Musket_StoppingPower_Slow.MoveSpeedMod * -100]}%.",
+        "Description": "Your movement speed is reduced by {[-0.100000 * -100]}%.",
         "EffectCategories": "Debuff+Slow+CC+Trapper",
         "PlaceholderIcon": "lyshineui/images/status/SE_SlowT3.png",
         "ShowInUITray": true,
@@ -1986,7 +1986,7 @@
     {
         "StatusID": "Musket_PowderBurn_Burn",
         "DisplayName": "Burn",
-        "Description": "Deals {[Type_StatusEffectData.Musket_PowderBurn_Burn.HealthModifierDamageBased * -100]}% weapon damage converted to Fire every {[Type_StatusEffectData.Musket_PowderBurn_Burn.TickRate]} second for {[Type_StatusEffectData.Musket_PowderBurn_Burn.BaseDuration]} seconds.",
+        "Description": "Deals {[-0.200000 * -100]}% weapon damage converted to Fire every {[1.000000]} second for {[9.000000]} seconds.",
         "EffectCategories": "Debuff+Burn+PowderBurn+Dot",
         "PlaceholderIcon": "lyshineui/images/status/SE_BurnT1.png",
         "ShowInUITray": true,
@@ -2234,7 +2234,7 @@
     {
         "StatusID": "Musket_PowderBurn_BurnExtend",
         "DisplayName": "Burn",
-        "Description": "Deals {[Type_StatusEffectData.Musket_PowderBurn_BurnExtend.HealthModifierDamageBased * -100]}% weapon damage converted to every {[Type_StatusEffectData.Musket_PowderBurn_BurnExtend.TickRate]} second for {[Type_StatusEffectData.Musket_PowderBurn_BurnExtend.BaseDuration]} seconds.",
+        "Description": "Deals {[-0.200000 * -100]}% weapon damage converted to every {[1.000000]} second for {[13.000000]} seconds.",
         "EffectCategories": "Debuff+Burn+PowderBurn+Dot",
         "PlaceholderIcon": "lyshineui/images/status/SE_BurnT1.png",
         "ShowInUITray": true,
@@ -2730,7 +2730,7 @@
     {
         "StatusID": "Musket_Pass_HasteOnDodge",
         "DisplayName": "Haste",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.Musket_Pass_HasteOnDodge.MoveSpeedMod * 100]}% after dodging.",
+        "Description": "Your movement speed is increased by {[0.100000 * 100]}% after dodging.",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": true,
@@ -2941,7 +2941,7 @@
         "AFACurse": "",
         "AFABlight": "",
         "StackDuration": null,
-        "DurationMax": 3,
+        "DurationMax": 6,
         "InheritDuration": "",
         "InheritTotalDuration": "",
         "RefreshDuration": "",
@@ -2978,7 +2978,7 @@
     {
         "StatusID": "Musket_Pass_WalkSpeedWhileNearEnemy",
         "DisplayName": "Haste",
-        "Description": "Your walking/strafing movement speed is increased by {[Type_StatusEffectData.Musket_Pass_WalkSpeedWhileNearEnemy.MoveSpeedMod * 100]}% while near an enemy.",
+        "Description": "Your walking/strafing movement speed is increased by {[0.100000 * 100]}% while near an enemy.",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": true,
@@ -3226,7 +3226,7 @@
     {
         "StatusID": "Musket_Pass_EmpowerOnHeadshot",
         "DisplayName": "Empower",
-        "Description": "Your attacks deal {[Type_StatusEffectData.Musket_Pass_EmpowerOnHeadshot.DMGSlash * 100]}% more damage.",
+        "Description": "Your attacks deal {[0.100000 * 100]}% more damage.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,
@@ -3474,7 +3474,7 @@
     {
         "StatusID": "Musket_Pass_EmpowerOnDebuffHit",
         "DisplayName": "Empower",
-        "Description": "Your attacks deal {[Type_StatusEffectData.Musket_Pass_EmpowerOnDebuffHit.DMGSlash * 100]}% more damage.",
+        "Description": "Your attacks deal {[0.050000 * 100]}% more damage.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,

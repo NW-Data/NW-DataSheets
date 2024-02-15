@@ -2,7 +2,7 @@
     {
         "AbilityID": "Ability_Hatchet_Berserk",
         "DisplayName": "Berserk",
-        "Description": "Enter a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;berserk\u0026lt;/font\u0026gt; mode that increases all attack damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Berserk.DMGStandard * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Berserk.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown for this ability will not start until the mode ends.)\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your hatchet, activating this ability inflicts taunt for {[DamageTable.Hatchet_Berserk_Taunt.TauntDuration]}s to all enemies within 8m. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
+        "Description": "Enter a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;berserk\u0026lt;/font\u0026gt; mode that increases all attack damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[12.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown for this ability will not start until the mode ends.)\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your hatchet, activating this ability inflicts taunt for {[8.000000]}s to all enemies within 8m. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability01.png",
         "StatusEffectIcon": "",
@@ -151,7 +151,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_Berserk_Speed",
         "DisplayName": "On The Hunt",
-        "Description": "While Berserk is active, your movement speed is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Berserk_SpeedUp.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "While Berserk is active, your movement speed is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability01_Mod01.png",
         "StatusEffectIcon": "",
@@ -300,7 +300,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_Berserk_HPOnEnd",
         "DisplayName": "Berserking Refresh",
-        "Description": "While Berserk is active, all attacks gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Upgrade_Hatchet_Berserk_HPOnEnd.DmgPctToHealth * 100]}%\u0026lt;/font\u0026gt; lifesteal.",
+        "Description": "While Berserk is active, all attacks gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.050000 * 100]}%\u0026lt;/font\u0026gt; lifesteal.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability01_Mod02.png",
         "StatusEffectIcon": "",
@@ -449,7 +449,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_Berserk_Purge",
         "DisplayName": "Berserking Purge",
-        "Description": "Remove all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;stuns\u0026lt;/font\u0026gt;, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;slows\u0026lt;/font\u0026gt;, and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;roots\u0026lt;/font\u0026gt; from yourself when you activate Berserk.",
+        "Description": "Remove all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;stuns\u0026lt;/font\u0026gt;, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;slows\u0026lt;/font\u0026gt;, and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;roots\u0026lt;/font\u0026gt; from yourself when you activate Berserk.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability01_Mod03.png",
         "StatusEffectIcon": "",
@@ -598,7 +598,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_Berserk_Unstoppable",
         "DisplayName": "Uninterruptible Berserk",
-        "Description": "While Berserk is active, your attacks are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;uninterruptible\u0026lt;/font\u0026gt; and you can't be \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;staggered\u0026lt;/font\u0026gt;.",
+        "Description": "While Berserk is active, your attacks are \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;uninterruptible\u0026lt;/font\u0026gt; and you can't be \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;staggered\u0026lt;/font\u0026gt;.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability01_Mod04.png",
         "StatusEffectIcon": "",
@@ -747,7 +747,7 @@
     {
         "AbilityID": "Ability_Hatchet_FeralRush",
         "DisplayName": "Feral Rush",
-        "Description": "Leap forward and strike \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;twice\u0026lt;/font\u0026gt;.\\n\\nFirst Hit: \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Hatchet_Damage_SprintAttack1.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;staggers\u0026lt;/font\u0026gt;.\\nSecond Hit: \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Hatchet_Damage_SprintAttack2.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
+        "Description": "Leap forward and strike \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;twice\u0026lt;/font\u0026gt;.\\n\\nFirst Hit: \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.800000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;staggers\u0026lt;/font\u0026gt;.\\nSecond Hit: \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.300000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability02.png",
         "StatusEffectIcon": "",
@@ -896,7 +896,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_FeralRush_DMGVsLowHP",
         "DisplayName": "Dispatch",
-        "Description": "If target is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Upgrade_Hatchet_FeralRush_DMGVsLowHP.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health, Feral Rush deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Upgrade_Hatchet_FeralRush_DMGVsLowHP.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage.",
+        "Description": "If target is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}%\u0026lt;/font\u0026gt; health, Feral Rush deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; more damage.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability02_Mod01.png",
         "StatusEffectIcon": "",
@@ -1045,7 +1045,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_FeralRush_BackstabRoot",
         "DisplayName": "Crippling Strikes",
-        "Description": "If Feral Rush hits a target in the back, it inflicts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;root\u0026lt;/font\u0026gt;, immobilizing the target for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Rush_Root.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "If Feral Rush hits a target in the back, it inflicts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;root\u0026lt;/font\u0026gt;, immobilizing the target for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability02_Mod02.png",
         "StatusEffectIcon": "",
@@ -1194,7 +1194,7 @@
     {
         "AbilityID": "Ability_Hatchet_RagingTorrent",
         "DisplayName": "Raging Torrent",
-        "Description": "Perform \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;4\u0026lt;/font\u0026gt; fast attacks, each dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Hatchet_Damage_RapidStrikes.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
+        "Description": "Perform \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;4\u0026lt;/font\u0026gt; fast attacks, each dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.900000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. \\n\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;Raging Torrent can be block/dodge cancelled after the 1st attack.\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability03.png",
         "StatusEffectIcon": "",
@@ -1343,7 +1343,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_Torrent_Haste",
         "DisplayName": "Aggressive Approach",
-        "Description": "Hitting a target with Raging Torrent grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Raging_Haste.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Raging_Haste.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Hitting a target with Raging Torrent grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability03_Mod01.png",
         "StatusEffectIcon": "",
@@ -1492,7 +1492,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_Torrent_ExtraAtk",
         "DisplayName": "Final Blow",
-        "Description": "Press basic attack at the end of Raging Torrent to perform a final attack that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Hatchet_Damage_RapidStrikes_FinalBlow.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
+        "Description": "Press basic attack at the end of Raging Torrent to perform a final attack that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.200000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability03_Mod02.png",
         "StatusEffectIcon": "",
@@ -1641,7 +1641,7 @@
     {
         "AbilityID": "Passive_Hatchet_Berserk_LightHeavyVsLowHP",
         "DisplayName": "Enraged Strikes",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Abilities\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;heavy\u0026lt;/font\u0026gt; attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_Berserk_LightHeavyVsLowHP.BaseDamage * 100]}%\u0026lt;/font\u0026gt; more damage to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_Berserk_LightHeavyVsLowHP.TargetHealthPercent]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Abilities\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;heavy\u0026lt;/font\u0026gt; attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; more damage to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive01.png",
         "StatusEffectIcon": "",
@@ -1790,7 +1790,7 @@
     {
         "AbilityID": "Passive_Hatchet_Berserk_3LightsToHeavyDMG",
         "DisplayName": "Accumulated Power",
-        "Description": "After \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;3\u0026lt;/font\u0026gt; successful light attacks or aimed throws against the same target, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;empower\u0026lt;/font\u0026gt;, granting a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Pass_3AtkEmpower.DMGSlash * 100]}%\u0026lt;/font\u0026gt; damage increase for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Pass_3AtkEmpower.BaseDuration]}s\u0026lt;/font\u0026gt; or until the next attack.",
+        "Description": "After \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3\u0026lt;/font\u0026gt; successful light attacks or aimed throws against the same target, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;empower\u0026lt;/font\u0026gt;, granting a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; damage increase for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt; or until the next attack.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive02.png",
         "StatusEffectIcon": "",
@@ -1939,7 +1939,7 @@
     {
         "AbilityID": "Passive_Hatchet_Berserk_HeavyEmpower",
         "DisplayName": "Relentless Fury",
-        "Description": "After a successful heavy attack, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;empower\u0026lt;/font\u0026gt;, granting a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Pass_HeavyEmpower.DMGSlash * 100]}%\u0026lt;/font\u0026gt; damage increase for the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;4\u0026lt;/font\u0026gt; attacks within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Pass_HeavyEmpower.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "After a successful heavy attack, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;empower\u0026lt;/font\u0026gt;, granting a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; damage increase for the next \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;4\u0026lt;/font\u0026gt; attacks within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive03.png",
         "StatusEffectIcon": "",
@@ -2088,7 +2088,7 @@
     {
         "AbilityID": "Passive_Hatchet_Berserk_CDRAtLowHP",
         "DisplayName": "Desperate Refresh",
-        "Description": "All cooldowns are reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_Berserk_CDRAtLowHP.CooldownTimer * -100]}%\u0026lt;/font\u0026gt; when hitting an enemy with an attack while your health is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_Berserk_CDRAtLowHP.MyHealthPercent]}%\u0026lt;/font\u0026gt;. (Max {[HatchetAbilityTable.Passive_Hatchet_Berserk_CDRAtLowHP.NumberOfTrackedHits]} hits per attack.)",
+        "Description": "All cooldowns are reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.020000 * -100]}%\u0026lt;/font\u0026gt; when hitting an enemy with an attack while your health is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} hits per attack.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive04.png",
         "StatusEffectIcon": "",
@@ -2237,7 +2237,7 @@
     {
         "AbilityID": "Passive_Hatchet_Berserk_DMGPerNearbyEnemy",
         "DisplayName": "Against All Odds",
-        "Description": "Increase base damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_Berserk_DMGPerNearbyEnemy.BaseDamage * 100]}%\u0026lt;/font\u0026gt; for every enemy within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_Hatchet.Hatchet_DmgPerNearbyEnemy_Detection.Radius]}m\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#808080\"\u0026gt;(Max {[HatchetAbilityTable.Passive_Hatchet_Berserk_DMGPerNearbyEnemy.MaxNumAroundMe]} targets.)\u0026lt;/font\u0026gt; ",
+        "Description": "Increase base damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; for every enemy within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}m\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#808080\"\u0026gt;(Max {[5.000000]} targets.)\u0026lt;/font\u0026gt; ",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive05.png",
         "StatusEffectIcon": "",
@@ -2386,7 +2386,7 @@
     {
         "AbilityID": "Passive_Hatchet_Berserk_FortifyAfter3Attacks",
         "DisplayName": "Fortifying Strikes",
-        "Description": "Hitting a target with a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;heavy\u0026lt;/font\u0026gt; attack grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;fortify\u0026lt;/font\u0026gt;, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Pass_Fortify3Atk.PhysicalArmor * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Pass_Fortify3Atk.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Hitting a target with a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;heavy\u0026lt;/font\u0026gt; attack grants \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;fortify\u0026lt;/font\u0026gt;, increasing armor by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive06.png",
         "StatusEffectIcon": "",
@@ -2535,7 +2535,7 @@
     {
         "AbilityID": "Passive_Hatchet_Berserk_PurgeDoTLowHP",
         "DisplayName": "Frenzied Purge",
-        "Description": "Remove all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;bleed\u0026lt;/font\u0026gt;, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;burn\u0026lt;/font\u0026gt;, and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;poison\u0026lt;/font\u0026gt; effects from yourself if you hit an enemy while your health is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_Berserk_PurgeDoTLowHP.MyHealthPercent]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown {[Type_StatusEffectData.Hatchet_Pass_DoTPurgeTimer.BaseDuration]}s.)\u0026lt;/font\u0026gt;",
+        "Description": "Remove all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;bleed\u0026lt;/font\u0026gt;, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;burn\u0026lt;/font\u0026gt;, and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;poison\u0026lt;/font\u0026gt; effects from yourself if you hit an enemy while your health is below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Cooldown {[60.000000]}s.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive07.png",
         "StatusEffectIcon": "",
@@ -2684,7 +2684,7 @@
     {
         "AbilityID": "Ult_Passive_Hatchet_ImmortalWhen0HP",
         "DisplayName": "Defy Death",
-        "Description": "When you receive lethal damage, avoid death and become invulnerable for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Berserk_Immortal.BaseDuration]}s\u0026lt;/font\u0026gt; and restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Ult_Passive_Hatchet_ImmortalWhen0HP.SetHealthOnFatalDamageTaken]} HP\u0026lt;/font\u0026gt; + \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Ult_GainHP.HealthModifierBasePercent * 100]}%\u0026lt;/font\u0026gt; of your base health upon activation. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[Type_StatusEffectData.Hatchet_Ult_ImmortalTimer.BaseDuration]}s cooldown.)\u0026lt;/font\u0026gt;",
+        "Description": "When you receive lethal damage, avoid death and become invulnerable for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000]}s\u0026lt;/font\u0026gt; and restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[500.000000]} HP\u0026lt;/font\u0026gt; + \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt; of your base health upon activation. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[60.000000]}s cooldown.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ult01.png",
         "StatusEffectIcon": "",
@@ -2833,7 +2833,7 @@
     {
         "AbilityID": "Ability_Hatchet_RendingThrow",
         "DisplayName": "Rending Throw",
-        "Description": "Throw a hatchet up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;25m\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Hatchet_Damage_RendingThrow.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and applying \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;rend\u0026lt;/font\u0026gt;, reducing target's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;armor\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_RendingThrow_Rend.PhysicalArmor * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_RendingThrow_Rend.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "Throw a hatchet up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;25m\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.100000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and applying \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;rend\u0026lt;/font\u0026gt;, reducing target's \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;armor\u0026lt;/font\u0026gt; by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability04.png",
         "StatusEffectIcon": "",
@@ -2982,7 +2982,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_RendThrow_DistanceBuffRend",
         "DisplayName": "Targeted Impact",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;Rend\u0026lt;/font\u0026gt; duration increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Upgrade_Hatchet_RendThrow_DistanceBuffRend.TargetStatusEffectDurationMod]}s\u0026lt;/font\u0026gt; if the target is further than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Upgrade_Hatchet_RendThrow_DistanceBuffRend.DistFromDefender]}m\u0026lt;/font\u0026gt; away.",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Rend\u0026lt;/font\u0026gt; duration increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}s\u0026lt;/font\u0026gt; if the target is further than \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}m\u0026lt;/font\u0026gt; away.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability04_Mod01.png",
         "StatusEffectIcon": "",
@@ -3131,7 +3131,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_RendThrow_DmgOnDebuff",
         "DisplayName": "Opportunistic",
-        "Description": "If Rending Throw hits a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt;, it deals an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Upgrade_Hatchet_RendThrow_DmgOnDebuff.BaseDamage * 100]}%\u0026lt;/font\u0026gt; damage.",
+        "Description": "If Rending Throw hits a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt;, it deals an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; damage.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability04_Mod02.png",
         "StatusEffectIcon": "",
@@ -3280,7 +3280,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_RendThrow_CDROnDebuff",
         "DisplayName": "Second Wind",
-        "Description": "If Rending Throw hits a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt;, its cooldown is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Upgrade_Hatchet_RendThrow_CDROnDebuff.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "If Rending Throw hits a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt;, its cooldown is reduced by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.200000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability04_Mod03.png",
         "StatusEffectIcon": "",
@@ -3429,7 +3429,7 @@
     {
         "AbilityID": "Ability_Hatchet_SocialDistancing",
         "DisplayName": "Social Distancing",
-        "Description": "Throw a hatchet up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;25m\u0026lt;/font\u0026gt; forward, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Hatchet_Damage_SocialDistancing.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and inflicting \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_SocialDist_Slow.MoveSpeedMod * -100]}% slow\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_SocialDist_Slow.BaseDuration]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;\\n\\nIf standing still or moving backwards, you will dodge backwards obtaining momentary \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;invulnerability\u0026lt;/font\u0026gt;. If moving sideways or forwards, you will continue moving unhindered.",
+        "Description": "Throw a hatchet up to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;25m\u0026lt;/font\u0026gt; forward, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.150000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage and inflicting \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.300000 * -100]}% slow\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Slow reduces target's movement speed.)\u0026lt;/font\u0026gt;\\n\\nIf standing still or moving backwards, you will dodge backwards obtaining momentary \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;invulnerability\u0026lt;/font\u0026gt;. If moving sideways or forwards, you will continue moving unhindered.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability05.png",
         "StatusEffectIcon": "",
@@ -3578,7 +3578,7 @@
     {
         "AbilityID": "Passive_Hatchet_Distance_HasteOnDebuff",
         "DisplayName": "Quick Power",
-        "Description": "If Social Distancing hits a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt;, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing your movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_SocialDist_Haste.MoveSpeedMod * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_SocialDist_Haste.BaseDuration]}s\u0026lt;/font\u0026gt;.",
+        "Description": "If Social Distancing hits a target with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt;, gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;haste\u0026lt;/font\u0026gt;, increasing your movement speed by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[6.000000]}s\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability05_Mod01.png",
         "StatusEffectIcon": "",
@@ -3727,7 +3727,7 @@
     {
         "AbilityID": "Passive_Hatchet_Distance_BetterSlow",
         "DisplayName": "Stay Back",
-        "Description": "Social Distancing hits apply a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_SocialDist_Root.BaseDuration]}s root\u0026lt;/font\u0026gt; to targets.",
+        "Description": "Social Distancing hits apply a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000]}s root\u0026lt;/font\u0026gt; to targets.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability05_Mod02.png",
         "StatusEffectIcon": "",
@@ -3876,7 +3876,7 @@
     {
         "AbilityID": "Ability_Hatchet_InfectedThrow",
         "DisplayName": "Infected Throw",
-        "Description": "Leap into the air and throw a hatchet that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Hatchet_Damage_InfectedThrow.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.\\nThis attack inflicts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Infected_Disease.HealMod * -100]}% disease\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Infected_Weaken.DMGStandard * -100]}% weaken\u0026lt;/font\u0026gt; to your target for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Infected_Disease.BaseDuration]}s\u0026lt;/font\u0026gt;.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Disease reduces target's incoming healing efficiency and outgoing healing efficiency by half the incoming value.)\\n(Weaken reduces target's outgoing damage.)\u0026lt;/font\u0026gt;",
+        "Description": "Leap into the air and throw a hatchet that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.\\nThis attack inflicts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.300000 * -100]}% disease\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.100000 * -100]}% weaken\u0026lt;/font\u0026gt; to your target for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}s\u0026lt;/font\u0026gt;.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\n(Disease reduces target's incoming healing efficiency and outgoing healing efficiency by half the incoming value.)\\n(Weaken reduces target's outgoing damage.)\u0026lt;/font\u0026gt;",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability06.png",
         "StatusEffectIcon": "",
@@ -4025,7 +4025,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_Infected_BuffWeakenVsLowHP",
         "DisplayName": "Mortal Power",
-        "Description": "Increases the duration of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;disease\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;weaken\u0026lt;/font\u0026gt; by an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Upgrade_Hatchet_Infected_BuffWeakenVsLowHP.TargetStatusEffectDurationMod]}s\u0026lt;/font\u0026gt; when hitting targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Upgrade_Hatchet_Infected_BuffWeakenVsLowHP.TargetHealthPercent]}% \u0026lt;/font\u0026gt;health.",
+        "Description": "Increases the duration of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;disease\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;weaken\u0026lt;/font\u0026gt; by an additional \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}s\u0026lt;/font\u0026gt; when hitting targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[50.000000]}% \u0026lt;/font\u0026gt;health.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability06_Mod01.png",
         "StatusEffectIcon": "",
@@ -4174,7 +4174,7 @@
     {
         "AbilityID": "Upgrade_Hatchet_Infected_AOE",
         "DisplayName": "Aerial Transmission",
-        "Description": "Creates a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[SpellDataTable_Hatchet.Hatchet_Spell_InfectedThrowAOE.Radius]}m \u0026lt;/font\u0026gt;radius \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;disease\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;weaken\u0026lt;/font\u0026gt; cloud on impact that lingers in place for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;6s\u0026lt;/font\u0026gt;.",
+        "Description": "Creates a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}m \u0026lt;/font\u0026gt;radius \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;disease\u0026lt;/font\u0026gt; and \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;weaken\u0026lt;/font\u0026gt; cloud on impact that lingers in place for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;6s\u0026lt;/font\u0026gt;.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ability06_Mod02.png",
         "StatusEffectIcon": "",
@@ -4323,7 +4323,7 @@
     {
         "AbilityID": "Passive_Hatchet_ThrowingAxe_AimedThrow",
         "DisplayName": "Aimed Throw",
-        "Description": "Replaces block with an \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;aimed throw\u0026lt;/font\u0026gt; that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[DamageTable.Hatchet_Damage_AimedThrow.DmgCoef * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. Hold block to enter aimed stance and press basic attack to throw.",
+        "Description": "Replaces block with an \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;aimed throw\u0026lt;/font\u0026gt; that deals \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.000000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. Hold block to enter aimed stance and press basic attack to throw.",
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive08.png",
         "StatusEffectIcon": "",
@@ -4472,7 +4472,7 @@
     {
         "AbilityID": "Passive_Hatchet_ThrowingAxe_CriticalThrows",
         "DisplayName": "Critical Throw",
-        "Description": "Increased critical hit chance of all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;melee\u0026lt;/font\u0026gt; attacks by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_ThrowingAxe_CriticalThrows.CritChance * 100]}%\u0026lt;/font\u0026gt;.\\n\\nIncreased critical hit chance of all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;ranged\u0026lt;/font\u0026gt; attacks by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_ThrowingAxe_CriticalThrows_Ranged.CritChance * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Increased critical hit chance of all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;melee\u0026lt;/font\u0026gt; attacks by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.050000 * 100]}%\u0026lt;/font\u0026gt;.\\n\\nIncreased critical hit chance of all \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;ranged\u0026lt;/font\u0026gt; attacks by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive09.png",
         "StatusEffectIcon": "",
@@ -4770,7 +4770,7 @@
     {
         "AbilityID": "Passive_Hatchet_ThrowingAxe_DmgVsDebuff",
         "DisplayName": "Exploitation",
-        "Description": "All attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_ThrowingAxe_DmgVsDebuff.BaseDamage * 100]}%\u0026lt;/font\u0026gt; additional damage to targets with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt;.",
+        "Description": "All attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; additional damage to targets with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive16.png",
         "StatusEffectIcon": "",
@@ -4919,7 +4919,7 @@
     {
         "AbilityID": "Passive_Hatchet_ThrowingAxe_3rdThrowCrit",
         "DisplayName": "On Fire",
-        "Description": "Every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;third\u0026lt;/font\u0026gt; thrown hatchet hit is a guaranteed critical hit.",
+        "Description": "Every \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;third\u0026lt;/font\u0026gt; thrown hatchet hit is a guaranteed critical hit.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive18.png",
         "StatusEffectIcon": "",
@@ -5068,7 +5068,7 @@
     {
         "AbilityID": "Passive_Hatchet_ThrowingAxe_CDROnDebuffThrow",
         "DisplayName": "Refreshing Throws",
-        "Description": "Thrown hatchets that hit targets with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt; reduce all hatchet ability cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_ThrowingAxe_CDROnDebuffThrow.CooldownTimer * -100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "Thrown hatchets that hit targets with an active \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt; reduce all hatchet ability cooldowns by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[-0.050000 * -100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive12.png",
         "StatusEffectIcon": "",
@@ -5217,7 +5217,7 @@
     {
         "AbilityID": "Passive_Hatchet_ThrowingAxe_StaminaOnCrit",
         "DisplayName": "Rejuvenating Crits",
-        "Description": "Critical hits with light attacks and aimed throws regenerate \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Pass_StaminaGainCrit.Stamina]}\u0026lt;/font\u0026gt; stamina.",
+        "Description": "Critical hits with light attacks and aimed throws regenerate \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[10.000000]}\u0026lt;/font\u0026gt; stamina.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive13.png",
         "StatusEffectIcon": "",
@@ -5366,7 +5366,7 @@
     {
         "AbilityID": "Passive_Hatchet_ThrowingAxe_StaminaOnDebuff",
         "DisplayName": "Hurling Force",
-        "Description": "Thrown hatchets deal additional damage based on distance from the target. Up to a max of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_ThrowingAxe_StaminaOnDebuff.BaseDamage * 100]}%\u0026lt;/font\u0026gt; additional damage at \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Passive_Hatchet_ThrowingAxe_StaminaOnDebuff.LinearlyScaleToDistance]}m\u0026lt;/font\u0026gt; or greater.",
+        "Description": "Thrown hatchets deal additional damage based on distance from the target. Up to a max of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}%\u0026lt;/font\u0026gt; additional damage at \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[20.000000]}m\u0026lt;/font\u0026gt; or greater.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive17.png",
         "StatusEffectIcon": "",
@@ -5449,7 +5449,7 @@
         "InSequence": "",
         "InSequenceTime": null,
         "AfterSequence": "",
-        "BaseDamage": 0.2,
+        "BaseDamage": 0.25,
         "SetHealthOnFatalDamageTaken": null,
         "BaseDamageReduction": "",
         "BlockDamage": "",
@@ -5515,7 +5515,7 @@
     {
         "AbilityID": "Passive_Hatchet_ThrowingAxe_AbilityDodgeStamina",
         "DisplayName": "Adrenaline Rush",
-        "Description": "Dodging within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[Type_StatusEffectData.Hatchet_Pass_DodgeStaminaCost.BaseDuration]}s\u0026lt;/font\u0026gt; of hitting a target with an ability consumes \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;25%\u0026lt;/font\u0026gt; less stamina.",
+        "Description": "Dodging within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt; of hitting a target with an ability consumes \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;25%\u0026lt;/font\u0026gt; less stamina.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Passive15.png",
         "StatusEffectIcon": "",
@@ -5664,7 +5664,7 @@
     {
         "AbilityID": "Ult_Passive_Hatchet_ExtendDebuffDuration",
         "DisplayName": "Persistent Hinderance",
-        "Description": "Hitting a target with a thrown hatchet extends the duration of all hatchet \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuffs\u0026lt;/font\u0026gt; you applied on the target by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Ult_Passive_Hatchet_ExtendDebuffDuration.TargetStatusEffectDurationMult *100]}%\u0026lt;/font\u0026gt;.\\n\\nAll attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;{[HatchetAbilityTable.Ult_Passive_Hatchet_ExtendDebuffDuration_Damage.BaseDamage *100]}%\u0026lt;/font\u0026gt; additional damage per \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#ffd45f\"\u0026gt;debuff\u0026lt;/font\u0026gt; on the target. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[HatchetAbilityTable.Ult_Passive_Hatchet_ExtendDebuffDuration_Damage.PerStatusEffectOnTargetMax]} debuffs max)\u0026lt;/font\u0026gt;",
+        "Description": "Hitting a target with a thrown hatchet extends the duration of all hatchet \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuffs\u0026lt;/font\u0026gt; you applied on the target by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 *100]}%\u0026lt;/font\u0026gt;.\\n\\nAll attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.040000 *100]}%\u0026lt;/font\u0026gt; additional damage per \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt; on the target. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[4.000000]} debuffs max.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ult02.png",
         "StatusEffectIcon": "",
@@ -5797,7 +5797,7 @@
         "TargetStatusEffectDurationList": "",
         "TargetStatusEffectDurationCats": "ThrowingAxe",
         "TargetStatusEffectDurationMod": null,
-        "TargetStatusEffectDurationMult": 0.2,
+        "TargetStatusEffectDurationMult": 0.25,
         "ActivationCooldown": null,
         "Duration": "",
         "CooldownId": "",
@@ -5896,7 +5896,7 @@
         "InSequence": "",
         "InSequenceTime": null,
         "AfterSequence": "",
-        "BaseDamage": 0.03,
+        "BaseDamage": 0.04,
         "SetHealthOnFatalDamageTaken": null,
         "BaseDamageReduction": "",
         "BlockDamage": "",

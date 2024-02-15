@@ -36,7 +36,7 @@
         "FillingColorHex": "802e5daa",
         "LocalizedText": "frostbite resistance",
         "LocalizedTextAfflicted": "frostbitten",
-        "AfflictionTooltipText": "If you run out of frostbite resistance, you will become frostbitten and be unable to run or dodge for {[Afflictions.AfflictionFrostBite.AfflictedDrainTime]} seconds.",
+        "AfflictionTooltipText": "If you run out of frostbite resistance, you will become frostbitten and be unable to run or dodge for {[10.000000]} seconds.",
         "AfflictedTooltipText": "While frostbitten, you cannot run or dodge."
     },
     {
@@ -96,15 +96,15 @@
         "FillingColorHex": "80632791",
         "LocalizedText": "corruption resistance",
         "LocalizedTextAfflicted": "corrupted",
-        "AfflictionTooltipText": "If you run out of corruption resistance, you will become corrupted and take damage equal to {[Type_StatusEffectData.Curse.HealthModifierPercent * -100]}% base health instantly.",
-        "AfflictedTooltipText": "While corrupted, you lose {[Type_StatusEffectData.Curse.HealthModifierPercent * 100]}% base health instantly."
+        "AfflictionTooltipText": "If you run out of corruption resistance, you will become corrupted and take damage equal to {[-0.150000 * -100]}% base health instantly.",
+        "AfflictedTooltipText": "While corrupted, you lose {[-0.150000 * 100]}% base health instantly."
     },
     {
         "AfflictionID": "AfflictionDrowning",
         "IntID": 6,
         "StatusEffects": "Drowning",
         "DrainRate": 0.075,
-        "AfflictedDrainTime": 1.5,
+        "AfflictedDrainTime": 4,
         "DrainDelay": 1.1,
         "Max": 20,
         "IgnoreWhenAfflicted": false,
@@ -156,8 +156,8 @@
         "FillingColorHex": "80a9842e",
         "LocalizedText": "blight resistance",
         "LocalizedTextAfflicted": "blighted",
-        "AfflictionTooltipText": "If you run out of blight resistance, you will become blighted and deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * -100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds for {[Afflictions.AfflictionBlight.AfflictedDrainTime]} seconds.",
-        "AfflictedTooltipText": "While blighted, you deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * 100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds."
+        "AfflictionTooltipText": "If you run out of blight resistance, you will become blighted and deal {[-0.500000 * 100]}% reduced damage, take {[-0.750000 * 100]}% reduced healing, and lose {[-0.013900 * -100]}% of your base health every {[2.500000]} seconds for {[180.000000]} seconds.",
+        "AfflictedTooltipText": "While blighted, you deal {[-0.500000 * 100]}% reduced damage, take {[-0.750000 * 100]}% reduced healing, and lose {[-0.013900 * 100]}% of your base health every {[2.500000]} seconds."
     },
     {
         "AfflictionID": "AfflictionCurse3",

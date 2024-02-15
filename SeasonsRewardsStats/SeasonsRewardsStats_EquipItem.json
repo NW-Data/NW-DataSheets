@@ -5,7 +5,8 @@
         "ItemGS": 700,
         "ItemClass": "Artifact",
         "ItemRarity": null,
-        "ExcludeItemClass": ""
+        "ExcludeItemClass": "",
+        "TargetID": ""
     },
     {
         "TrackedStatID": "EquipItem_700GS",
@@ -13,7 +14,8 @@
         "ItemGS": 700,
         "ItemClass": "",
         "ItemRarity": null,
-        "ExcludeItemClass": ""
+        "ExcludeItemClass": "",
+        "TargetID": ""
     },
     {
         "TrackedStatID": "EquipItem_MountAttachmentEpic",
@@ -21,6 +23,16 @@
         "ItemGS": null,
         "ItemClass": "MountAttachment",
         "ItemRarity": 3,
-        "ExcludeItemClass": ""
+        "ExcludeItemClass": "",
+        "TargetID": ""
+    },
+    {
+        "TrackedStatID": "EquipItem_S5Artifact",
+        "StatType": "EquipItem",
+        "ItemGS": null,
+        "ItemClass": "",
+        "ItemRarity": null,
+        "ExcludeItemClass": "",
+        "TargetID": "Artifact_Set2_HeavyHands,Artifact_Set2_HeavyLegs,Artifact_Set2_MediumChest,Artifact_Set2_LightFeet,Artifact_Set2_1hThrowingAxe,Artifact_Set2_2hGreatAxe,Artifact_Set2_2hSpear,Artifact_Set2_Amulet1"
     }
 ]

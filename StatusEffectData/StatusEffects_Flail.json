@@ -2,7 +2,7 @@
     {
         "StatusID": "Status_Flail_HexDoT",
         "DisplayName": "Impairment",
-        "Description": "You suffer {[Type_StatusEffectData.Status_Flail_HexDoT.HealthModifierDamageBased * -100]}% Arcane damage per second and your attack damage is reduced by {[Type_StatusEffectData.Status_Flail_HexDoT.DMGStandard * -100]}%.",
+        "Description": "You suffer {[-0.100000 * -100]}% Arcane damage per second and your attack damage is reduced by {[-0.100000 * -100]}%.",
         "EffectCategories": "Debuff+Debilitate+DoT+Weaken",
         "PlaceholderIcon": "lyshineui/images/status/SE_Flail_ImpairmentT1.png",
         "ShowInUITray": true,
@@ -6410,7 +6410,7 @@
     {
         "StatusID": "Status_Flail_DefensiveStrike_Reinforced",
         "DisplayName": "Reinforced",
-        "Description": "Gain damage reduction for {[Type_StatusEffectData.Status_Flail_DefensiveStrike_Reinforced.StopOnHitCount]} hits while this is active.",
+        "Description": "Gain damage reduction for {[3.000000]} hits while this is active.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT1.png",
         "ShowInUITray": true,
@@ -9614,7 +9614,7 @@
     {
         "StatusID": "Status_Flail_Ultimate_HealOverTime",
         "DisplayName": "Better Together",
-        "Description": "You heal for {[Type_StatusEffectData.Status_Flail_Ultimate_HealOverTime.HealthModifierDamageBased * 100]}% of the flail wielder's weapon damage.",
+        "Description": "You heal for {[0.160000 * 100]}% of the flail wielder's weapon damage.",
         "EffectCategories": "Heal+NonDispellableBuff",
         "PlaceholderIcon": "lyshineui/images/status/SE_HealT1.png",
         "ShowInUITray": true,

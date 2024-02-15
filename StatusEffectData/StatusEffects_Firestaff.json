@@ -4269,7 +4269,7 @@
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_FortOnBurn",
         "DisplayName": "Fortify",
-        "Description": "Your armor is increased by {[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_FortOnBurn.PhysicalArmor * 100]}%.",
+        "Description": "Your armor is increased by {[0.100000 * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT3.png",
         "ShowInUITray": true,
@@ -4520,7 +4520,7 @@
     {
         "StatusID": "Status_Passive_Firestaff_FireMage_DmgFullMana",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.Status_Passive_Firestaff_FireMage_DmgFullMana.DMGStandard * 100]}% while mana is above 50%.",
+        "Description": "Your damage is increased by {[0.050000 * 100]}% while mana is above 50%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT1.png",
         "ShowInUITray": true,
@@ -5022,7 +5022,7 @@
     {
         "StatusID": "Status_Passive_Firestaff_FireMage_DmgNoDmg",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.Status_Passive_Firestaff_FireMage_DmgNoDmg.DMGStandard * 100]}%. This ends if you take damage.",
+        "Description": "Your damage is increased by {[0.050000 * 100]}%. This ends if you take damage.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT1.png",
         "ShowInUITray": true,
@@ -5273,7 +5273,7 @@
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Haste",
         "DisplayName": "Haste",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_Haste.MoveSpeedMod * 100]}%.",
+        "Description": "Your movement speed is increased by {[0.100000 * 100]}%.",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": true,
@@ -6026,7 +6026,7 @@
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Ultimate",
         "DisplayName": "Backdraft",
-        "Description": "Gain {[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_Ultimate.ManaRate * 100]}% mana regeneration",
+        "Description": "Gain {[4.000000 * 100]}% mana regeneration",
         "EffectCategories": "Buff",
         "PlaceholderIcon": "lyshineui/images/status/SE_Sight.png",
         "ShowInUITray": true,
@@ -7030,7 +7030,7 @@
     {
         "StatusID": "Status_Ultimate_Firemage_DMG",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.Status_Ultimate_Firemage_DMG.DMGStandard * 100]}% while standing in the rune.",
+        "Description": "Your damage is increased by {[0.200000 * 100]}% while standing in the rune.",
         "EffectCategories": "Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT5.png",
         "ShowInUITray": true,
@@ -9038,7 +9038,7 @@
     {
         "StatusID": "Status_Passive_Firestaff_incinerate_Empower",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.Status_Passive_Firestaff_incinerate_Empower.DMGStandard * 100]}% per stack.",
+        "Description": "Your damage is increased by {[0.030000 * 100]}% per stack.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT1.png",
         "ShowInUITray": true,

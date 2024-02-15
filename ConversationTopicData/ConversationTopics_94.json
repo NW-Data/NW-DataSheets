@@ -2,7 +2,7 @@
     {
         "ConversationTopicId": "9401_Hint",
         "PlayerPrompt": "\"Can you explain riding?\"",
-        "NPCResponse": "Summon, Canter, Dash, Jump, Dashing, and Jumping cost mount stamina. Falling from great heights and taking heavy hits from enemies will dismount you.",
+        "NPCResponse": "You can summon your mount with {$player.mount_summon$}. Walk with {$movement.walk$}, sprint with {$player.mount_dash$}, and jump with {$movement.jump$}. Sprinting and jumping cost mount stamina. Falling from great heights and being hit by enemies reduces its stamina. You can replenish stamina by feeding your mount. If its stamina gets too low you will be dismounted.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
@@ -56,7 +56,7 @@
     {
         "ConversationTopicId": "9405_LionTalk",
         "PlayerPrompt": "\"What was the island like before mankind arrived?\"",
-        "NPCResponse": "Before your kind arrived in this land, we lions were known as the king of beasts. All creatures, great and small, bowed to our majesty.\\n\\nThe world has changed now… for all of us.",
+        "NPCResponse": "Before your kind arrived in this land, we lions were known as the king of beasts. All creatures, great and small, bowed to our majesty.",
         "AchievementUnlock": "",
         "RequiredAchievement": "",
         "RequiredFaction": "",
