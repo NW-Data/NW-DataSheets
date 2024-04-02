@@ -4752,7 +4752,7 @@
     {
         "StatusID": "IceMagic_UltimateChill",
         "DisplayName": "Ultimate Chill",
-        "Description": "Incoming Ice Gauntlet damage received is increased by {[0.250000 * 100]}%.",
+        "Description": "Incoming Ice Gauntlet damage received is increased by {[IceMagicAbilityTable.IceTempestUltimate_Helper.BaseDamage * 100]}%.",
         "EffectCategories": "Debuff+Weaken",
         "PlaceholderIcon": "lyshineui/images/status/SE_WeakenT3.png",
         "ShowInUITray": true,
@@ -5752,7 +5752,7 @@
     {
         "StatusID": "IceMagic_StrengthenedTomb",
         "DisplayName": "Strengthened Tomb",
-        "Description": "Armor increased by {[0.250000 * 100]}%.",
+        "Description": "Armor increased by {[Type_StatusEffectData.IceMagic_StrengthenedTomb.PhysicalArmor * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT3.png",
         "ShowInUITray": true,
@@ -6752,7 +6752,7 @@
     {
         "StatusID": "IceMagic_WindChill_Shatter",
         "DisplayName": "Shatter",
-        "Description": "Armor reduced by {[-0.050000 * -100]}% per stack.",
+        "Description": "Armor reduced by {[Type_StatusEffectData.IceMagic_WindChill_Shatter.PhysicalArmor * -100]}% per stack.",
         "EffectCategories": "Debuff+ArmorRend+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_RendT1.png",
         "ShowInUITray": true,
@@ -8502,7 +8502,7 @@
     {
         "StatusID": "IceMagic_DefiantFreeze",
         "DisplayName": "Defiant Freeze",
-        "Description": "Armor increased by {[0.200000 * 100]}%.",
+        "Description": "Armor increased by {[Type_StatusEffectData.IceMagic_DefiantFreeze.PhysicalArmor * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT3.png",
         "ShowInUITray": true,

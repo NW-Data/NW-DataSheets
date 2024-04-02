@@ -406696,7 +406696,7 @@
         "Name": "Weak Boon of Demeter Potion",
         "ItemType": "Consumable",
         "ItemTypeDisplayName": "Quest Item",
-        "Description": "Consuming this potion attunes you to the Spores. Clears the Spore Drenched Affliction on contact and lasts for {[1200.000000 / 60]} minutes. After clearing affliction, take 12% less damage and gain increased resources when Harvesting Sporeplants for {[45.000000]} seconds.",
+        "Description": "Consuming this potion attunes you to the Spores. Clears the Spore Drenched Affliction on contact and lasts for {[Type_StatusEffectData.SE_DemeterBoonPotionD1_T1.BaseDuration / 60]} minutes. After clearing affliction, take 12% less damage and gain increased resources when Harvesting Sporeplants for {[Type_StatusEffectData.SE_DemeterBoonSecondaryD1_T1.BaseDuration]} seconds.",
         "HeartgemRuneTooltipTitle": "",
         "ItemClass": "Resource",
         "TradingCategory": "",

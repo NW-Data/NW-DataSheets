@@ -154912,7 +154912,7 @@
         "Name": "Spicy Hotpot",
         "ItemType": "Consumable",
         "ItemTypeDisplayName": "Consumable",
-        "Description": "Increase Faction Token gain by {[0.250000 * 100]}% and gathering yield by {[0.150000 * 100]}% for {[3600.000000 / 60]} minutes. Your health slowly recovers while under these effects.",
+        "Description": "Increase Faction Token gain by {[Type_StatusEffectData.LNY_Spicy_Hotpot.FactionTokensMod * 100]}% and gathering yield by {[Type_StatusEffectData.LNY_Spicy_Hotpot.MULTSkinning * 100]}% for {[Type_StatusEffectData.LNY_Spicy_Hotpot.BaseDuration / 60]} minutes. Your health slowly recovers while under these effects.",
         "HeartgemRuneTooltipTitle": "",
         "ItemClass": "Consumable+Food",
         "TradingCategory": "Utilities",

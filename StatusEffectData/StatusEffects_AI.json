@@ -2333,7 +2333,7 @@
     {
         "StatusID": "Mut_Disease_1_Buff",
         "DisplayName": "Festering I",
-        "Description": "Enemies apply a stacking Disease on hit, reducing incoming healing by {[-0.025000 * -100]}% per stack.",
+        "Description": "Enemies apply a stacking Disease on hit, reducing incoming healing by {[Type_StatusEffectData.Mut_Disease_1.HealMod * -100]}% per stack.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -2592,7 +2592,7 @@
     {
         "StatusID": "Mut_Disease_2_Buff",
         "DisplayName": "Festering II",
-        "Description": "Enemies apply a stacking Disease on hit, reducing incoming healing by {[-0.025000 * -100]}/{[-0.050000 * -100]}% per stack.",
+        "Description": "Enemies apply a stacking Disease on hit, reducing incoming healing by {[Type_StatusEffectData.Mut_Disease_1.HealMod * -100]}/{[Type_StatusEffectData.Mut_Disease_2.HealMod * -100]}% per stack.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -2851,7 +2851,7 @@
     {
         "StatusID": "Mut_Disease_1",
         "DisplayName": "Minor Disease",
-        "Description": "Reduces healing taken by {[-0.025000 * -100]}%, stacking {[20.000000]} times.",
+        "Description": "Reduces healing taken by {[Type_StatusEffectData.Mut_Disease_1.HealMod * -100]}%, stacking {[Type_StatusEffectData.Mut_Disease_1.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -3110,7 +3110,7 @@
     {
         "StatusID": "Mut_Disease_2",
         "DisplayName": "Disease",
-        "Description": "Reduces healing taken by {[-0.050000 * -100]}%, stacking {[20.000000]} times.",
+        "Description": "Reduces healing taken by {[Type_StatusEffectData.Mut_Disease_2.HealMod * -100]}%, stacking {[Type_StatusEffectData.Mut_Disease_2.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -4146,7 +4146,7 @@
     {
         "StatusID": "Mut_StaminaDamage_1_Buff",
         "DisplayName": "Shattering I",
-        "Description": "Enemies forgo the {[-0.250000 * -100]}% reduced stamina damage in Expeditions.\\nEnemies deal {[0.400000 * 100]}% increased stamina damage.\\nAdditionally, upon breaking your block, enemies apply a bleed, dealing {[-0.050000 * -100]}% base health damage per tick.",
+        "Description": "Enemies forgo the {[Type_AbilityData.AI_Elite_StaggerAndStaminaDMG.BlockDamage * -100]}% reduced stamina damage in Expeditions.\\nEnemies deal {[Type_AbilityData.Mut_StaminaDamage_1.BlockDamage * 100]}% increased stamina damage.\\nAdditionally, upon breaking your block, enemies apply a bleed, dealing {[Type_StatusEffectData.Mut_StaminaDamage_1_BlockBreak_Bleed.HealthModifierPercent * -100]}% base health damage per tick.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -4664,7 +4664,7 @@
     {
         "StatusID": "Mut_StaminaDamage_1_BlockBreak_Bleed",
         "DisplayName": "Shattered Bleed",
-        "Description": "Bleeding for {[-0.050000 * -100]}% base health Physical damage every {[2.000000]} seconds.",
+        "Description": "Bleeding for {[Type_StatusEffectData.Mut_StaminaDamage_1_BlockBreak_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.Mut_StaminaDamage_1_BlockBreak_Bleed.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -4923,7 +4923,7 @@
     {
         "StatusID": "Mut_StaminaDamage_2_Buff",
         "DisplayName": "Shattering II",
-        "Description": "Enemies forgo the {[-0.250000 * -100]}% reduced stamina damage in Expeditions.\\nEnemies deal {[0.400000 * 100]}/{[0.750000 * 100]}% increased stamina damage.\\nAdditionally, upon breaking your block, enemies apply a bleed, dealing {[-0.050000 * -100]}/{[-0.080000 * -100]}% base health damage per tick.",
+        "Description": "Enemies forgo the {[Type_AbilityData.AI_Elite_StaggerAndStaminaDMG.BlockDamage * -100]}% reduced stamina damage in Expeditions.\\nEnemies deal {[Type_AbilityData.Mut_StaminaDamage_1.BlockDamage * 100]}/{[Type_AbilityData.Mut_StaminaDamage_2.BlockDamage * 100]}% increased stamina damage.\\nAdditionally, upon breaking your block, enemies apply a bleed, dealing {[Type_StatusEffectData.Mut_StaminaDamage_1_BlockBreak_Bleed.HealthModifierPercent * -100]}/{[Type_StatusEffectData.Mut_StaminaDamage_2_BlockBreak_Bleed.HealthModifierPercent * -100]}% base health damage per tick.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -5441,7 +5441,7 @@
     {
         "StatusID": "Mut_StaminaDamage_2_BlockBreak_Bleed",
         "DisplayName": "Shattered Bleed",
-        "Description": "Bleeding for {[-0.080000 * -100]}% base health Physical damage every {[2.000000]} seconds.",
+        "Description": "Bleeding for {[Type_StatusEffectData.Mut_StaminaDamage_2_BlockBreak_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.Mut_StaminaDamage_2_BlockBreak_Bleed.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -5700,7 +5700,7 @@
     {
         "StatusID": "Mut_Enrage_Buff",
         "DisplayName": "Enraged",
-        "Description": "When hit, enemies generate Fury. At {[20.000000]} Fury, they become enraged, dealing {[0.500000 * 100]}% increased damage and become {[0.150000 * 100]}% larger.",
+        "Description": "When hit, enemies generate Fury. At {[Type_StatusEffectData.Mut_Enrage_Effect.AddOnStackSize]} Fury, they become enraged, dealing {[Type_StatusEffectData.Mut_Enrage_Empower.DMGStandard * 100]}% increased damage and become {[Type_StatusEffectData.Mut_Enrage_Empower.DynamicModelScaleFactor * 100]}% larger.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -7772,7 +7772,7 @@
     {
         "StatusID": "Mut_ManaThorns_1_Buff",
         "DisplayName": "Mage Hunter I",
-        "Description": "Enemies drain {[-10.000000* -1]} mana upon being hit.",
+        "Description": "Enemies drain {[Type_StatusEffectData.Mut_ManaDamage_1.Mana* -1]} mana upon being hit.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -8031,7 +8031,7 @@
     {
         "StatusID": "Mut_ManaThorns_2_Buff",
         "DisplayName": "Mage Hunter II",
-        "Description": "Enemies drain {[-10.000000* -1]}/{[-20.000000* -1]} mana upon being hit.",
+        "Description": "Enemies drain {[Type_StatusEffectData.Mut_ManaDamage_1.Mana* -1]}/{[Type_StatusEffectData.Mut_ManaDamage_2.Mana* -1]} mana upon being hit.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -9844,7 +9844,7 @@
     {
         "StatusID": "Mut_LifeSteal_1_Buff",
         "DisplayName": "Vampiric I",
-        "Description": "Enemies heal {[0.200000 * 100]}% of damage done.",
+        "Description": "Enemies heal {[Type_AbilityData.Mut_LifeSteal_1.DmgPctToHealth * 100]}% of damage done.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -10103,7 +10103,7 @@
     {
         "StatusID": "Mut_LifeSteal_2_Buff",
         "DisplayName": "Vampiric II",
-        "Description": "Enemies heal {[0.200000 * 100]}/{[0.400000 * 100]}% of damage done.",
+        "Description": "Enemies heal {[Type_AbilityData.Mut_LifeSteal_1.DmgPctToHealth * 100]}/{[Type_AbilityData.Mut_LifeSteal_2.DmgPctToHealth * 100]}% of damage done.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -12434,7 +12434,7 @@
     {
         "StatusID": "Mut_Fir_Burn_1_Effect",
         "DisplayName": "Singed Burn I",
-        "Description": "Burning for {[-0.040000 * -100]}% base Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.Mut_Fir_Burn_1_Effect.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.Mut_Fir_Burn_1_Effect.TickRate]} seconds for {[Type_StatusEffectData.Mut_Fir_Burn_1_Effect.BaseDuration]} seconds.",
         "Notes": "FIERY 1",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 2,
@@ -12952,7 +12952,7 @@
     {
         "StatusID": "Mut_Fir_Burn_2_Effect",
         "DisplayName": "Singed Burn II",
-        "Description": "Burning for {[-0.080000 * -100]}% base Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.Mut_Fir_Burn_2_Effect.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.Mut_Fir_Burn_2_Effect.TickRate]} seconds for {[Type_StatusEffectData.Mut_Fir_Burn_2_Effect.BaseDuration]} seconds.",
         "Notes": "FIERY 2",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 2,
@@ -14247,7 +14247,7 @@
     {
         "StatusID": "Mut_Fir_AOE_1_Damage",
         "DisplayName": "Enflamed Burn I",
-        "Description": "Burning for {[-0.200000 * -100]}% base Fire damage every {[1.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.Mut_Fir_AOE_1_Damage.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.Mut_Fir_AOE_1_Damage.TickRate]} seconds.",
         "Notes": "ENFLAMED 1",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 1,
@@ -15283,7 +15283,7 @@
     {
         "StatusID": "Mut_Fir_AOE_2_Damage",
         "DisplayName": "Enflamed Burn II",
-        "Description": "Burning for {[-0.400000 * -100]}% base Fire damage every {[1.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.Mut_Fir_AOE_2_Damage.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.Mut_Fir_AOE_2_Damage.TickRate]} seconds.",
         "Notes": "ENFLAMED 2",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 1,
@@ -17873,7 +17873,7 @@
     {
         "StatusID": "Mut_Voi_Stacks_1_Effect",
         "DisplayName": "Paranoia I",
-        "Description": "Filled with dread for {[3.000000]} seconds. At {[4.000000]} stacks, causes a void burst to appear at your location.",
+        "Description": "Filled with dread for {[Type_StatusEffectData.Mut_Voi_Stacks_1_Effect.BaseDuration]} seconds. At {[Type_StatusEffectData.Mut_Voi_Stacks_1_Effect.AddOnStackSize]} stacks, causes a void burst to appear at your location.",
         "Notes": "PARANOID 1",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 1,
@@ -18909,7 +18909,7 @@
     {
         "StatusID": "Mut_Voi_Stacks_2_Effect",
         "DisplayName": "Paranoia II",
-        "Description": "Filled with dread for {[3.000000]} seconds. At {[4.000000]} stacks, causes a void burst to appear at your location.",
+        "Description": "Filled with dread for {[Type_StatusEffectData.Mut_Voi_Stacks_2_Effect.BaseDuration]} seconds. At {[Type_StatusEffectData.Mut_Voi_Stacks_2_Effect.AddOnStackSize]} stacks, causes a void burst to appear at your location.",
         "Notes": "PARANOID 2",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 1,
@@ -19686,7 +19686,7 @@
     {
         "StatusID": "Mut_Voi_Leech_1_Damage",
         "DisplayName": "Oblivion Leech I",
-        "Description": "Taking {[-0.200000 * -100]}% base Void damage and healing the caster {[0.900000 * 100]}% of damage dealt, every {[3.000000]} seconds.",
+        "Description": "Taking {[Type_StatusEffectData.Mut_Voi_Leech_1_Damage.HealthModifierDamageBased * -100]}% base Void damage and healing the caster {[Type_AbilityData.Mut_Voi_Leech_1_Heal.DmgPctToHealth * 100]}% of damage dealt, every {[Type_StatusEffectData.Mut_Voi_Leech_1_Damage.TickRate]} seconds.",
         "Notes": "OBLIVION 1",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 2,
@@ -20463,7 +20463,7 @@
     {
         "StatusID": "Mut_Voi_Leech_2_Damage",
         "DisplayName": "Oblivion Leech II",
-        "Description": "Taking {[-0.300000 * -100]}% base Void damage and healing the caster {[1.200000 * 100]}% of damage dealt, every {[3.000000]} seconds.",
+        "Description": "Taking {[Type_StatusEffectData.Mut_Voi_Leech_2_Damage.HealthModifierDamageBased * -100]}% base Void damage and healing the caster {[Type_AbilityData.Mut_Voi_Leech_2_Heal.DmgPctToHealth * 100]}% of damage dealt, every {[Type_StatusEffectData.Mut_Voi_Leech_2_Damage.TickRate]} seconds.",
         "Notes": "OBLIVION 2",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 2,
@@ -25902,7 +25902,7 @@
     {
         "StatusID": "Mut_Nat_Pools_1_Damage",
         "DisplayName": "Poison I",
-        "Description": "Suffering {[-0.050000 * -100]}% base Nature damage every {[1.000000]} seconds.",
+        "Description": "Suffering {[Type_StatusEffectData.Mut_Nat_Pools_1_Damage.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.Mut_Nat_Pools_1_Damage.TickRate]} seconds.",
         "Notes": "deprecated",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": null,
@@ -26420,7 +26420,7 @@
     {
         "StatusID": "Mut_Nat_Pools_2_Damage",
         "DisplayName": "Poison II",
-        "Description": "Suffering {[-0.100000 * -100]}% base Nature damage every {[1.000000]} seconds.",
+        "Description": "Suffering {[Type_StatusEffectData.Mut_Nat_Pools_2_Damage.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.Mut_Nat_Pools_2_Damage.TickRate]} seconds.",
         "Notes": "deprecated",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": null,
@@ -26938,7 +26938,7 @@
     {
         "StatusID": "Mut_Nat_Crawler_1_Damage",
         "DisplayName": "Toxin I",
-        "Description": "Suffering {[-0.200000 * -100]}% base Nature damage every {[1.000000]} seconds.",
+        "Description": "Suffering {[Type_StatusEffectData.Mut_Nat_Crawler_1_Damage.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.Mut_Nat_Crawler_1_Damage.TickRate]} seconds.",
         "Notes": "TOXIC 1",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 1,
@@ -27456,7 +27456,7 @@
     {
         "StatusID": "Mut_Nat_Crawler_2_Damage",
         "DisplayName": "Toxin II",
-        "Description": "Suffering {[-0.400000 * -100]}% base Nature damage every {[1.000000]} seconds.",
+        "Description": "Suffering {[Type_StatusEffectData.Mut_Nat_Crawler_2_Damage.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.Mut_Nat_Crawler_2_Damage.TickRate]} seconds.",
         "Notes": "TOXIC 2",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 1,
@@ -29528,7 +29528,7 @@
     {
         "StatusID": "Mut_Ice_Slow_1_Effect",
         "DisplayName": "Slow I",
-        "Description": "Movement speed reduced by {[-0.200000 * -100]}% for {[10.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.Mut_Ice_Slow_1_Effect.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Mut_Ice_Slow_1_Effect.BaseDuration]} seconds.",
         "Notes": "RIME 1",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 2,
@@ -30046,7 +30046,7 @@
     {
         "StatusID": "Mut_Ice_Slow_2_Effect",
         "DisplayName": "Slow II",
-        "Description": "Movement speed reduced by {[-0.350000 * -100]}% for {[10.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.Mut_Ice_Slow_2_Effect.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Mut_Ice_Slow_2_Effect.BaseDuration]} seconds.",
         "Notes": "RIME 2",
         "WindowHeader": "@SomeEnemies_Header",
         "RankSorting": 2,
@@ -30564,7 +30564,7 @@
     {
         "StatusID": "Mut_Ice_CloseZone_1_Damage",
         "DisplayName": "Biting Cold I",
-        "Description": "Suffering {[0.000000 * -100]}% base Ice damage every {[1.000000]} seconds.",
+        "Description": "Suffering {[Type_StatusEffectData.Mut_Ice_CloseZone_1_Damage.HealthModifierDamageBased * -100]}% base Ice damage every {[Type_StatusEffectData.Mut_Ice_CloseZone_1_Damage.TickRate]} seconds.",
         "Notes": "SHIVER 1",
         "WindowHeader": "",
         "RankSorting": 1,
@@ -31082,7 +31082,7 @@
     {
         "StatusID": "Mut_Ice_CloseZone_2_Damage",
         "DisplayName": "Biting Cold II",
-        "Description": "Suffering {[0.000000 * -100]}% base Ice damage every {[1.000000]} seconds.",
+        "Description": "Suffering {[Type_StatusEffectData.Mut_Ice_CloseZone_2_Damage.HealthModifierDamageBased * -100]}% base Ice damage every {[Type_StatusEffectData.Mut_Ice_CloseZone_2_Damage.TickRate]} seconds.",
         "Notes": "SHIVER 2",
         "WindowHeader": "",
         "RankSorting": 1,
@@ -32118,7 +32118,7 @@
     {
         "StatusID": "Mut_Ice_DeathFreeze_Slow",
         "DisplayName": "Freezing Slow",
-        "Description": "Movement slowed by {[-0.200000 * -100]}%. At {[5.000000]} stacks become frozen.",
+        "Description": "Movement slowed by {[Type_StatusEffectData.Mut_Ice_DeathFreeze_Slow.MoveSpeedMod * -100]}%. At {[Type_StatusEffectData.Mut_Ice_DeathFreeze_Slow.AddOnStackSize]} stacks become frozen.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -40924,7 +40924,7 @@
     {
         "StatusID": "AI_Slime_Slow",
         "DisplayName": "Sticky",
-        "Description": "Movement speed reduced by {[-0.600000 * -100]}%.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]}%.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -41960,7 +41960,7 @@
     {
         "StatusID": "AI_PoisonOnHit_Damage",
         "DisplayName": "Poison",
-        "Description": "Poisoned for {[-0.050000 * -100]}% base Nature damage every {[1.000000]} seconds for {[20.000000]} seconds.",
+        "Description": "Poisoned for {[Type_StatusEffectData.AI_PoisonOnHit_Damage.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_PoisonOnHit_Damage.TickRate]} seconds for {[Type_StatusEffectData.AI_PoisonOnHit_Damage.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -51284,7 +51284,7 @@
     {
         "StatusID": "AI_Hercyne_Bleed",
         "DisplayName": "Bleed",
-        "Description": "Bleeding for {[-0.025000 * -100]}% base + {[-0.007500 * -100]}% base health Physical damage every {[2.000000]} seconds for {[16.000000]} seconds. Stacks {[4.000000]} times.",
+        "Description": "Bleeding for {[Type_StatusEffectData.AI_Hercyne_Bleed.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Hercyne_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_Hercyne_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_Hercyne_Bleed.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.AI_Hercyne_Bleed.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -53615,7 +53615,7 @@
     {
         "StatusID": "AI_IceDryad_Frostgrip_IceField_Slow",
         "DisplayName": "Slow",
-        "Description": "Movement speed reduced by {[-0.450000 * -100]}% for {[8.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_IceDryad_Frostgrip_IceField_Slow.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_IceDryad_Frostgrip_IceField_Slow.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -53874,7 +53874,7 @@
     {
         "StatusID": "AI_IceDryad_Frostgrip_IceVein_Root",
         "DisplayName": "Rooted",
-        "Description": "Rooted in place and unable to move for {[2.000000]} seconds.",
+        "Description": "Rooted in place and unable to move for {[Type_StatusEffectData.AI_IceDryad_Frostgrip_IceVein_Root.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -54133,7 +54133,7 @@
     {
         "StatusID": "AI_IceDryad_Frostfang_Buff_Empower",
         "DisplayName": "Empower",
-        "Description": "Increased damage from specific types for {[10.000000 * 100]} seconds.",
+        "Description": "Increased damage from specific types for {[Type_StatusEffectData.AI_IceDryad_Frostfang_Buff_Empower.BaseDuration * 100]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -54392,7 +54392,7 @@
     {
         "StatusID": "AI_IceDryad_Frostfang_Debuff_Weaken",
         "DisplayName": "Weaken",
-        "Description": "Outgoing damage reduction for most types for {[10.000000]} seconds.",
+        "Description": "Outgoing damage reduction for most types for {[Type_StatusEffectData.AI_IceDryad_Frostfang_Debuff_Weaken.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -55428,7 +55428,7 @@
     {
         "StatusID": "AI_DPTank_Empower_Unlimited",
         "DisplayName": "Empower",
-        "Description": "Increased damage from specific types for {[20.000000 * 100]} seconds.",
+        "Description": "Increased damage from specific types for {[Type_StatusEffectData.AI_DPTank_Empower_Unlimited.BaseDuration * 100]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -55687,7 +55687,7 @@
     {
         "StatusID": "AI_DPTank_Fortify_Limited",
         "DisplayName": "Fortify",
-        "Description": "Increased damage absorption from specfic types for {[5.000000 * 100]} seconds.",
+        "Description": "Increased damage absorption from specfic types for {[Type_StatusEffectData.AI_DPTank_Fortify_Limited.BaseDuration * 100]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -56205,7 +56205,7 @@
     {
         "StatusID": "AI_DPTank_WorldSplitter_Bleed_Axe",
         "DisplayName": "Sandstorm",
-        "Description": "Bleeding for {[-0.050000 * -100]}% base health Physical damage every {[2.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Bleeding for {[Type_StatusEffectData.AI_DPTank_WorldSplitter_Bleed_Axe.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_DPTank_WorldSplitter_Bleed_Axe.TickRate]} seconds for {[Type_StatusEffectData.AI_DPTank_WorldSplitter_Bleed_Axe.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -56464,7 +56464,7 @@
     {
         "StatusID": "AI_DPTank_SandDevil_Bleed_Axe",
         "DisplayName": "Bleeding Sands",
-        "Description": "Bleeding for {[-0.010000 * -100]}% base health Physical damage every {[4.000000]} seconds for {[20.000000]} seconds.",
+        "Description": "Bleeding for {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.TickRate]} seconds for {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -56982,7 +56982,7 @@
     {
         "StatusID": "AI_DPTank_SandDevil_Bleed_Cyclone",
         "DisplayName": "Sand Devil",
-        "Description": "Bleeding for {[-0.010000 * -100]}% base health Physical damage every {[5.000000]} seconds for {[30.000000]} seconds.",
+        "Description": "Bleeding for {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Cyclone.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Cyclone.TickRate]} seconds for {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Cyclone.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -58536,7 +58536,7 @@
     {
         "StatusID": "AI_Bleed_9",
         "DisplayName": "Bleeding",
-        "Description": "Bleeding for {[-0.050000 * -100]}% base + {[-0.015000 * -100]}% base health Physical damage every {[2.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Bleeding for {[Type_StatusEffectData.AI_Bleed_9.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Bleed_9.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_Bleed_9.TickRate]} seconds for {[Type_StatusEffectData.AI_Bleed_9.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -58795,7 +58795,7 @@
     {
         "StatusID": "AI_Burn_9",
         "DisplayName": "Burning",
-        "Description": "Burning for {[-0.075000 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.AI_Burn_9.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Burn_9.TickRate]} seconds for {[Type_StatusEffectData.AI_Burn_9.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -59054,7 +59054,7 @@
     {
         "StatusID": "AI_Anubian_Burn_9",
         "DisplayName": "Ancient Solar Burn",
-        "Description": "Deals {[-0.025000 * -100]}% base Fire damage every {[2.000000]} seconds.",
+        "Description": "Deals {[Type_StatusEffectData.AI_Anubian_Burn_9.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Anubian_Burn_9.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -59313,7 +59313,7 @@
     {
         "StatusID": "AI_Anubian_Boss_Burn_9",
         "DisplayName": "Ancient Solar Burn",
-        "Description": "Deals {[-0.040000 * -100]}% base Fire damage every {[2.000000]} seconds.",
+        "Description": "Deals {[Type_StatusEffectData.AI_Anubian_Boss_Burn_9.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Anubian_Boss_Burn_9.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -59572,7 +59572,7 @@
     {
         "StatusID": "AI_Poison_Pool",
         "DisplayName": "Poisoned",
-        "Description": "Poisoned for {[-0.045000 * -100]}% base + {[-0.025000 * -100]}% base health Nature damage every {[2.000000]} seconds.",
+        "Description": "Poisoned for {[Type_StatusEffectData.AI_Poison_Pool.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Poison_Pool.HealthModifierPercent * -100]}% base health Nature damage every {[Type_StatusEffectData.AI_Poison_Pool.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -59831,7 +59831,7 @@
     {
         "StatusID": "AI_Poison_55",
         "DisplayName": "Poisoned",
-        "Description": "Poisoned for {[-0.040000 * -100]}% base + {[-0.020000 * -100]}% base health Nature damage every {[2.000000]} seconds for {[20.000000]} seconds.",
+        "Description": "Poisoned for {[Type_StatusEffectData.AI_Poison_55.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Poison_55.HealthModifierPercent * -100]}% base health Nature damage every {[Type_StatusEffectData.AI_Poison_55.TickRate]} seconds for {[Type_StatusEffectData.AI_Poison_55.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -60090,7 +60090,7 @@
     {
         "StatusID": "AI_Root_4sec",
         "DisplayName": "Rooted",
-        "Description": "Rooted in place and unable to move for {[4.000000]} seconds.",
+        "Description": "Rooted in place and unable to move for {[Type_StatusEffectData.AI_Root_4sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -60867,7 +60867,7 @@
     {
         "StatusID": "AI_Snare_30percent_3sec",
         "DisplayName": "Snared",
-        "Description": "Movement speed reduced by {[-0.300000 * -100]}% for {[3.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_Snare_30percent_3sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Snare_30percent_3sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -61126,7 +61126,7 @@
     {
         "StatusID": "AI_Snare_2sec",
         "DisplayName": "Snared",
-        "Description": "Movement speed reduced by {[-0.500000 * -100]}% for {[4.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_Snare_2sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Snare_4sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -61385,7 +61385,7 @@
     {
         "StatusID": "AI_Snare_4sec",
         "DisplayName": "Snared",
-        "Description": "Movement speed reduced by {[-0.500000 * -100]}% for {[4.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_Snare_4sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Snare_4sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -61644,7 +61644,7 @@
     {
         "StatusID": "AI_Snare_6sec",
         "DisplayName": "Snared",
-        "Description": "Movement speed reduced by {[-0.500000 * -100]}% for {[6.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_Snare_6sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Snare_6sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -61903,7 +61903,7 @@
     {
         "StatusID": "AI_Rend",
         "DisplayName": "Rend",
-        "Description": "You suffer {[-0.200000 * -100]}% increased damage from all sources for {[15.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.AI_Rend.ABSStandard * -100]}% increased damage from all sources for {[Type_StatusEffectData.AI_Rend.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -62162,7 +62162,7 @@
     {
         "StatusID": "AI_Weaken",
         "DisplayName": "Weaken",
-        "Description": "You deal {[-0.200000 * -100]}% less damage for {[20.000000]} seconds.",
+        "Description": "You deal {[Type_StatusEffectData.AI_Weaken.DMGStandard * -100]}% less damage for {[Type_StatusEffectData.AI_Weaken.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -62421,7 +62421,7 @@
     {
         "StatusID": "AI_Disease",
         "DisplayName": "Disease",
-        "Description": "Reduces healing taken by {[-0.150000 * -100]}%, stacking {[3.000000]} times.",
+        "Description": "Reduces healing taken by {[Type_StatusEffectData.AI_Disease.HealMod * -100]}%, stacking {[Type_StatusEffectData.AI_Disease.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -62680,7 +62680,7 @@
     {
         "StatusID": "AI_Disease_GraveDigger",
         "DisplayName": "Disease",
-        "Description": "Reduces healing taken by {[-0.150000 * -100]}%, stacking {[3.000000]} times.",
+        "Description": "Reduces healing taken by {[Type_StatusEffectData.AI_Disease.HealMod * -100]}%, stacking {[Type_StatusEffectData.AI_Disease.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -63198,7 +63198,7 @@
     {
         "StatusID": "AI_Stun_2sec",
         "DisplayName": "Stunned",
-        "Description": "Stunned for {[2.000000]} seconds.",
+        "Description": "Stunned for {[Type_StatusEffectData.AI_Stun_2sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -63457,7 +63457,7 @@
     {
         "StatusID": "AI_Stun_4sec",
         "DisplayName": "Stunned",
-        "Description": "Stunned for {[4.000000]} seconds.",
+        "Description": "Stunned for {[Type_StatusEffectData.AI_Stun_4sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -63716,7 +63716,7 @@
     {
         "StatusID": "AI_Stun_6sec",
         "DisplayName": "Stunned",
-        "Description": "You suffer {[-0.200000 * -100]}% increased damage from all sources for {[15.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.AI_Rend.ABSStandard * -100]}% increased damage from all sources for {[Type_StatusEffectData.AI_Rend.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -63975,7 +63975,7 @@
     {
         "StatusID": "AI_Stun_10sec",
         "DisplayName": "Stunned",
-        "Description": "Stunned for {[10.000000]} seconds.",
+        "Description": "Stunned for {[Type_StatusEffectData.AI_Stun_10sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -66306,7 +66306,7 @@
     {
         "StatusID": "AI_Shock",
         "DisplayName": "Shock",
-        "Description": "Drains {[-20.000000 * -1]} stamina every {[0.250000]} seconds and reduces stamina regeneration by {[-0.300000 * -100]}% for {[5.000000]} seconds. Stacks {[3.000000]} times.",
+        "Description": "Drains {[Type_StatusEffectData.ShipwreckedGhost_Shock.Stamina * -1]} stamina every {[Type_StatusEffectData.ShipwreckedGhost_Shock.TickRate]} seconds and reduces stamina regeneration by {[Type_StatusEffectData.ShipwreckedGhost_Shock.StaminaRate * -100]}% for {[Type_StatusEffectData.ShipwreckedGhost_Shock.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.ShipwreckedGhost_Shock.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -66565,7 +66565,7 @@
     {
         "StatusID": "AI_Empower",
         "DisplayName": "Empower",
-        "Description": "Increased damage from specific types for {[-1.000000 * 100]} seconds.",
+        "Description": "Increased damage from specific types for {[Type_StatusEffectData.AI_Empower.BaseDuration * 100]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -68637,7 +68637,7 @@
     {
         "StatusID": "AI_Empress_DragonBurn",
         "DisplayName": "Burn",
-        "Description": "Deals {[-0.050000 * -100]}% fire damage every {[0.500000]} seconds for {[3.000000]} seconds. Stacks {[5.000000]} times.",
+        "Description": "Deals {[Type_StatusEffectData.AI_Empress_DragonBurn.HealthModifierDamageBased * -100]}% fire damage every {[Type_StatusEffectData.AI_Empress_DragonBurn.TickRate]} seconds for {[Type_StatusEffectData.AI_Empress_DragonBurn.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.AI_Empress_DragonBurn.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -70191,7 +70191,7 @@
     {
         "StatusID": "AI_Oro_Rend",
         "DisplayName": "Oro Rend",
-        "Description": "You suffer {[-0.200000 * 100]}% increased damage from all physical sources for {[15.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.AI_Oro_Rend.ABSStandard * 100]}% increased damage from all physical sources for {[Type_StatusEffectData.AI_Oro_Rend.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -70450,7 +70450,7 @@
     {
         "StatusID": "AI_Joven_Rend",
         "DisplayName": "Joven Rend",
-        "Description": "You suffer {[0.200000 * 100]}% increased void damage for {[15.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.AI_Joven_Rend.WKNCorruption * 100]}% increased void damage for {[Type_StatusEffectData.AI_Joven_Rend.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -72004,7 +72004,7 @@
     {
         "StatusID": "AI_Isabella_Phase2_TouchOfCorruption",
         "DisplayName": "Touch of Corruption",
-        "Description": "Movement speed reduced by {[-0.500000 * -100]}% and you suffer Corruption Affliction every {[1.000000]} second for {[20.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.MoveSpeedMod * -100]}% and you suffer Corruption Affliction every {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.TickRate]} second for {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -80810,7 +80810,7 @@
     {
         "StatusID": "AI_Evil_Knight_Mine_Burn",
         "DisplayName": "Burning",
-        "Description": "Burning for {[-0.050000 * -100]}% base Fire damage per stack every {[2.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.HealthModifierPercent * -100]}% base Fire damage per stack every {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -81587,7 +81587,7 @@
     {
         "StatusID": "AI_Evil_Knight_SeasonsBeatings",
         "DisplayName": "Chilled",
-        "Description": "Slowed for {[3.000000]} seconds.",
+        "Description": "Slowed for {[Type_StatusEffectData.AI_Evil_Knight_SeasonsBeatings.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -81846,7 +81846,7 @@
     {
         "StatusID": "AI_Torso_Boss_Weakened",
         "DisplayName": "Weaken",
-        "Description": "You deal {[-0.200000 * -100]}% less damage for {[20.000000]} seconds.",
+        "Description": "You deal {[Type_StatusEffectData.AI_Weaken.DMGStandard * -100]}% less damage for {[Type_StatusEffectData.AI_Weaken.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -91947,7 +91947,7 @@
     {
         "StatusID": "AI_AnubianGuardian_HorusBoss_DivineDoom_Rend",
         "DisplayName": "Rend",
-        "Description": "You suffer {[-0.200000 * -100]}% increased damage from all sources for {[15.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.AI_Rend.ABSStandard * -100]}% increased damage from all sources for {[Type_StatusEffectData.AI_Rend.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -97645,7 +97645,7 @@
     {
         "StatusID": "AI_Naga_AngryEarth_Channel_Poison",
         "DisplayName": "Poisoned",
-        "Description": "Poisoned for {[-0.040000 * -100]}% base + {[-0.020000 * -100]}% base health Nature damage every {[2.000000]} seconds for {[20.000000]} seconds.",
+        "Description": "Poisoned for {[Type_StatusEffectData.AI_Poison_55.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Poison_55.HealthModifierPercent * -100]}% base health Nature damage every {[Type_StatusEffectData.AI_Poison_55.TickRate]} seconds for {[Type_StatusEffectData.AI_Poison_55.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -98681,7 +98681,7 @@
     {
         "StatusID": "AI_Naga_AngryEarth_Poison",
         "DisplayName": "Poisoned",
-        "Description": "Poisoned for {[-0.040000 * -100]}% base + {[-0.020000 * -100]}% base health Nature damage every {[2.000000]} seconds for {[20.000000]} seconds.",
+        "Description": "Poisoned for {[Type_StatusEffectData.AI_Poison_55.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Poison_55.HealthModifierPercent * -100]}% base health Nature damage every {[Type_StatusEffectData.AI_Poison_55.TickRate]} seconds for {[Type_StatusEffectData.AI_Poison_55.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -99717,7 +99717,7 @@
     {
         "StatusID": "AI_Naga_AncientGuardian_Vuln",
         "DisplayName": "Arcane Rend",
-        "Description": "You suffer {[-0.200000 * -100]}% increased Arcane damage per stack for {[300.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.AI_Naga_AncientGuardian_Vuln.ABSArcane * -100]}% increased Arcane damage per stack for {[Type_StatusEffectData.AI_Naga_AncientGuardian_Vuln.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -99976,7 +99976,7 @@
     {
         "StatusID": "AI_Naga_AncientGuardian_Bomb_StatusEffect",
         "DisplayName": "Arcane Explosion",
-        "Description": "The Naga charges you with an unstable amount of Arcane. After {[3.000000]} seconds you discharge the Arcane, spawning an explosive orb.",
+        "Description": "The Naga charges you with an unstable amount of Arcane. After {[Type_StatusEffectData.AI_Naga_AncientGuardian_Bomb_StatusEffect.BaseDuration]} seconds you discharge the Arcane, spawning an explosive orb.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -101530,7 +101530,7 @@
     {
         "StatusID": "AI_Naga_Corrupted_CorruptionCore",
         "DisplayName": "Corrupted Soul",
-        "Description": "Your soul is weakened, causing you to suffer {[-0.025000 * -100]}% of your health per second per stack. This effect cannot be removed.",
+        "Description": "Your soul is weakened, causing you to suffer {[Type_StatusEffectData.AI_Naga_Corrupted_CorruptionCore.HealthModifierPercent * -100]}% of your health per second per stack. This effect cannot be removed.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -103084,7 +103084,7 @@
     {
         "StatusID": "AI_HercyneRat_Disease",
         "DisplayName": "Disease",
-        "Description": "Reduces healing taken by {[-0.040000 * -100]}%, stacking {[2.000000]} times.",
+        "Description": "Reduces healing taken by {[Type_StatusEffectData.AI_HercyneRat_Disease.HealMod * -100]}%, stacking {[Type_StatusEffectData.AI_HercyneRat_Disease.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -103343,7 +103343,7 @@
     {
         "StatusID": "AI_SandElementalHeavy_AoESlow_T2",
         "DisplayName": "Snared",
-        "Description": "Movement speed reduced by {[-0.230000 * -100]}% for {[6.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_SandElementalHeavy_AoESlow_T2.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_SandElementalHeavy_AoESlow_T2.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -103602,7 +103602,7 @@
     {
         "StatusID": "AI_SandElementalHeavy_AoESlow_T3",
         "DisplayName": "Snared",
-        "Description": "Movement speed reduced by {[-0.390000 * -100]}% for {[8.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_SandElementalHeavy_AoESlow_T3.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_SandElementalHeavy_AoESlow_T3.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -103861,7 +103861,7 @@
     {
         "StatusID": "AI_SandElementalHeavy_Exhaust_T2",
         "DisplayName": "Exhausted",
-        "Description": "Stamina regeneration reduced by {[-0.190000 * -100]}%.",
+        "Description": "Stamina regeneration reduced by {[Type_StatusEffectData.AI_SandElementalHeavy_Exhaust_T2.StaminaRate * -100]}%.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -104379,7 +104379,7 @@
     {
         "StatusID": "AI_CorruptedPriest_DoomRend",
         "DisplayName": "Corruption Rend",
-        "Description": "You suffer {[0.500000 * 100]}% increased Corruption damage per stack, for {[10.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.AI_CorruptedPriest_DoomRend.WKNCorruption * 100]}% increased Corruption damage per stack, for {[Type_StatusEffectData.AI_CorruptedPriest_DoomRend.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -105933,7 +105933,7 @@
     {
         "StatusID": "AI_AdmiralBrute_Blackpowder_Burn",
         "DisplayName": "Black Powder Burn",
-        "Description": "Burning for {[-0.050000 * -100]}% base health Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -108782,7 +108782,7 @@
     {
         "StatusID": "AI_AdmiralBrute_CannonRain_Targeted_DOT",
         "DisplayName": "Cannon Burn",
-        "Description": "Burning for {[-0.075000 * -100]}% base Fire damage every {[1.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -110595,7 +110595,7 @@
     {
         "StatusID": "PirateBrute_Blast",
         "DisplayName": "Blast Burn",
-        "Description": "Deals {[-0.100000 * -100]}% base Fire damage every {[1.000000]} seconds for {[5.000000]}.",
+        "Description": "Deals {[Type_StatusEffectData.PirateBrute_Blast.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.PirateBrute_Blast.TickRate]} seconds for {[Type_StatusEffectData.PirateBrute_Blast.BaseDuration]}.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -113444,7 +113444,7 @@
     {
         "StatusID": "AI_DryadSiren_Erosion_Debuff",
         "DisplayName": "Erosion",
-        "Description": "You suffer {[-0.050000 * -100]}% increased damage from all sources for {[30.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.AI_DryadSiren_Erosion_Debuff.ABSStandard * -100]}% increased damage from all sources for {[Type_StatusEffectData.AI_DryadSiren_Erosion_Debuff.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -121214,7 +121214,7 @@
     {
         "StatusID": "AI_Thorpe_Burn",
         "DisplayName": "Umbrous Burn",
-        "Description": "Burning for {[-0.030000 * -100]}% base health Fire damage every {[0.650000]} seconds for {[10.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierDamageBased * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_Thorpe_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Thorpe_Burn.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -125099,7 +125099,7 @@
     {
         "StatusID": "PlaguedGhost_Disease",
         "DisplayName": "Disease",
-        "Description": "Healing is reduced by {[-0.100000 * -100]}% for {[5.000000]} seconds. Stacks {[3.000000]} times.",
+        "Description": "Healing is reduced by {[Type_StatusEffectData.PlaguedGhost_Disease.HealMod * -100]}% for {[Type_StatusEffectData.PlaguedGhost_Disease.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.PlaguedGhost_Disease.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -125876,7 +125876,7 @@
     {
         "StatusID": "FrozenGhost_FrostAura",
         "DisplayName": "Frozen Slow",
-        "Description": "Movement slowed by {[-0.350000 * -100]}% for {[4.000000]} seconds.  Reapplied when within a Frostgeist's aura.",
+        "Description": "Movement slowed by {[Type_StatusEffectData.FrozenGhost_FrostAura.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.FrozenGhost_FrostAura.BaseDuration]} seconds.  Reapplied when within a Frostgeist's aura.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -126135,7 +126135,7 @@
     {
         "StatusID": "ShackledGhost_Doom",
         "DisplayName": "Detained Stun",
-        "Description": "Stunned for {[2.500000]} seconds.",
+        "Description": "Stunned for {[Type_StatusEffectData.ShackledGhost_Doom.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -126394,7 +126394,7 @@
     {
         "StatusID": "CharredGhost_Burn",
         "DisplayName": "Burn",
-        "Description": "Deals {[-0.050000 * -100]}% fire damage every {[0.500000]} seconds for {[3.000000]} seconds. Stacks {[5.000000]} times.",
+        "Description": "Deals {[Type_StatusEffectData.CharredGhost_Burn.HealthModifierDamageBased * -100]}% fire damage every {[Type_StatusEffectData.CharredGhost_Burn.TickRate]} seconds for {[Type_StatusEffectData.CharredGhost_Burn.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.CharredGhost_Burn.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -126653,7 +126653,7 @@
     {
         "StatusID": "ShipwreckedGhost_Shock",
         "DisplayName": "Shock",
-        "Description": "Drains {[-20.000000 * -1]} stamina every {[0.250000]} seconds and reduces stamina regeneration by {[-0.300000 * -100]}% for {[5.000000]} seconds. Stacks {[3.000000]} times.",
+        "Description": "Drains {[Type_StatusEffectData.ShipwreckedGhost_Shock.Stamina * -1]} stamina every {[Type_StatusEffectData.ShipwreckedGhost_Shock.TickRate]} seconds and reduces stamina regeneration by {[Type_StatusEffectData.ShipwreckedGhost_Shock.StaminaRate * -100]}% for {[Type_StatusEffectData.ShipwreckedGhost_Shock.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.ShipwreckedGhost_Shock.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -126912,7 +126912,7 @@
     {
         "StatusID": "Waterlogged",
         "DisplayName": "Waterlogged",
-        "Description": "Movement slowed by {[-0.400000 * -100]}%.",
+        "Description": "Movement slowed by {[Type_StatusEffectData.Waterlogged.MoveSpeedMod * -100]}%.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -127689,7 +127689,7 @@
     {
         "StatusID": "BruteStun",
         "DisplayName": "Bashed",
-        "Description": "Stunned for {[3.000000]} seconds. Removed by damage.",
+        "Description": "Stunned for {[Type_StatusEffectData.BruteStun.BaseDuration]} seconds. Removed by damage.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -127948,7 +127948,7 @@
     {
         "StatusID": "UndeadGrenadier_Burn",
         "DisplayName": "Soulfire Burn",
-        "Description": "Deals {[-0.110000 * -100]}% base Fire damage every {[0.500000]} seconds for {[1.500000]}.",
+        "Description": "Deals {[Type_StatusEffectData.UndeadGrenadier_Burn.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.UndeadGrenadier_Burn.TickRate]} seconds for {[Type_StatusEffectData.UndeadGrenadier_Burn.BaseDuration]}.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -128207,7 +128207,7 @@
     {
         "StatusID": "UndeadHunter_Burn",
         "DisplayName": "Soulfire Burn",
-        "Description": "Deals {[-0.050000 * -100]}% base Fire damage every {[0.500000]} seconds for {[3.000000]} seconds.",
+        "Description": "Deals {[Type_StatusEffectData.UndeadHunter_Burn.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.UndeadHunter_Burn.TickRate]} seconds for {[Type_StatusEffectData.UndeadHunter_Burn.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -128466,7 +128466,7 @@
     {
         "StatusID": "UndeadBrute_Consume",
         "DisplayName": "Full Stomach",
-        "Description": "Increases base damage by {[0.350000]} for {[10.000000]} seconds.",
+        "Description": "Increases base damage by {[Type_StatusEffectData.UndeadBrute_Consume.DMGStandard]} for {[Type_StatusEffectData.UndeadBrute_Consume.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -128725,7 +128725,7 @@
     {
         "StatusID": "WitheredMinionFrenzy",
         "DisplayName": "Frenzy",
-        "Description": "Increases base damage by {[0.350000]} for {[10.000000]} seconds.",
+        "Description": "Increases base damage by {[Type_StatusEffectData.WitheredMinionFrenzy.DMGStandard]} for {[Type_StatusEffectData.WitheredMinionFrenzy.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -129243,7 +129243,7 @@
     {
         "StatusID": "Bog_Monster_Power_Spore",
         "DisplayName": "Empowering Spores",
-        "Description": "Increases base damage by {[0.200000 * 100]}% for {[10.000000]} seconds. Chains to nearby allies.",
+        "Description": "Increases base damage by {[Type_StatusEffectData.Bog_Monster_Power_Spore.DMGStandard * 100]}% for {[Type_StatusEffectData.Bog_Monster_Power_Spore.BaseDuration]} seconds. Chains to nearby allies.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -133387,7 +133387,7 @@
     {
         "StatusID": "PoisonCloud",
         "DisplayName": "Poisoned",
-        "Description": "Poisoned for {[-0.040000 * -100]}% base + {[-0.020000 * -100]}% base health Nature damage every {[2.000000]} seconds for {[20.000000]} seconds.",
+        "Description": "Poisoned for {[Type_StatusEffectData.AI_Poison_55.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Poison_55.HealthModifierPercent * -100]}% base health Nature damage every {[Type_StatusEffectData.AI_Poison_55.TickRate]} seconds for {[Type_StatusEffectData.AI_Poison_55.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -136754,7 +136754,7 @@
     {
         "StatusID": "TotemDisease",
         "DisplayName": "Disease Aura",
-        "Description": "Reduces healing taken by {[-0.300000 * -100]}%. Stacks with other Disease effects.",
+        "Description": "Reduces healing taken by {[Type_StatusEffectData.TotemDisease.HealMod * -100]}%. Stacks with other Disease effects.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -137013,7 +137013,7 @@
     {
         "StatusID": "Totem_Player_Defense_Debuff",
         "DisplayName": "Rend",
-        "Description": "You suffer {[-0.200000 * -100]}% increased damage from all sources for {[15.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.AI_Rend.ABSStandard * -100]}% increased damage from all sources for {[Type_StatusEffectData.AI_Rend.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -139085,7 +139085,7 @@
     {
         "StatusID": "Legion_FireRainBurn_Debuff",
         "DisplayName": "Burn",
-        "Description": "Deals {[-0.075000 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds. Stacks {[1.000000]} times.",
+        "Description": "Deals {[Type_StatusEffectData.Legion_FireRainBurn_Debuff.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.Legion_FireRainBurn_Debuff.TickRate]} seconds for {[Type_StatusEffectData.Legion_FireRainBurn_Debuff.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.Legion_FireRainBurn_Debuff.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -139344,7 +139344,7 @@
     {
         "StatusID": "Legion_FireRainBurn_Crassus_Debuff",
         "DisplayName": "Burn",
-        "Description": "Deals {[-0.075000 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds. Stacks {[1.000000]} times.",
+        "Description": "Deals {[Type_StatusEffectData.Legion_FireRainBurn_Crassus_Debuff.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.Legion_FireRainBurn_Crassus_Debuff.TickRate]} seconds for {[Type_StatusEffectData.Legion_FireRainBurn_Crassus_Debuff.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.Legion_FireRainBurn_Crassus_Debuff.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -140121,7 +140121,7 @@
     {
         "StatusID": "Legion_Crassus_TouchOfCorruption",
         "DisplayName": "Touch of Corruption",
-        "Description": "Movement speed reduced by {[-0.500000 * -100]}% and you suffer Corruption Affliction every {[0.500000]} second for {[20.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.MoveSpeedMod * -100]}% and you suffer Corruption Affliction every {[Type_StatusEffectData.Legion_Crassus_TouchOfCorruption.TickRate]} second for {[Type_StatusEffectData.Legion_Crassus_TouchOfCorruption.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -140380,7 +140380,7 @@
     {
         "StatusID": "CorruptedLegion_Cyclops_ExhaustT5_Doomfist",
         "DisplayName": "Exhaust",
-        "Description": "Stamina regeneration reduced by {[-0.500000 * -100]}% for {[20.000000]} seconds.",
+        "Description": "Stamina regeneration reduced by {[Type_StatusEffectData.CorruptedLegion_Cyclops_ExhaustT5_Doomfist.StaminaRate * -100]}% for {[Type_StatusEffectData.CorruptedLegion_Cyclops_ExhaustT5_Doomfist.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -140639,7 +140639,7 @@
     {
         "StatusID": "CorruptedLegion_Cyclops_Rend_BloodShot",
         "DisplayName": "@CorruptedLegion_Cyclops_Rend_BloodShot_DisplayName",
-        "Description": "You suffer {[-0.200000 * -100]}% increased damage from all sources for {[15.000000]} seconds, and you are marked.",
+        "Description": "You suffer {[Type_StatusEffectData.CorruptedLegion_Cyclops_Rend_BloodShot.ABSStandard * -100]}% increased damage from all sources for {[Type_StatusEffectData.CorruptedLegion_Cyclops_Rend_BloodShot.BaseDuration]} seconds, and you are marked.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -140898,7 +140898,7 @@
     {
         "StatusID": "CorruptedLegion_Cyclops_Root_UnhallowedGrounds",
         "DisplayName": "@CorruptedLegion_Cyclops_Root_UnhallowedGrounds_DisplayName",
-        "Description": "Rooted in place and unable to move for {[4.000000]} seconds.",
+        "Description": "Rooted in place and unable to move for {[Type_StatusEffectData.AI_Root_4sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -142452,7 +142452,7 @@
     {
         "StatusID": "AI_Anubian_Sunspots_Burn",
         "DisplayName": "Ancient Solar Burn",
-        "Description": "Deals {[-0.100000 * -100]}% base Fire damage every {[1.000000]} seconds.",
+        "Description": "Deals {[Type_StatusEffectData.AI_Anubian_Sunspots_Burn.HealthModifierPercent * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Anubian_Sunspots_Burn.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -143488,7 +143488,7 @@
     {
         "StatusID": "Yeti_Arctic_Breath_Slow_6sec",
         "DisplayName": "Arctic Breath",
-        "Description": "You suffer {[-0.010000 * -100]}% damage every  {[0.500000]} seconds and are slowed by {[-0.500000 * -100]}% for {[6.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.HealthModifierPercent * -100]}% damage every  {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.TickRate]} seconds and are slowed by {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -145042,7 +145042,7 @@
     {
         "StatusID": "AI_Snare_FrostPool",
         "DisplayName": "Snared",
-        "Description": "Movement speed reduced by {[-0.500000 * -100]}% for {[6.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_Snare_6sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Snare_6sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -145301,7 +145301,7 @@
     {
         "StatusID": "AI_Snare_FrostPool_Avalancher",
         "DisplayName": "Snared",
-        "Description": "Movement speed reduced by {[-0.500000 * -100]}% for {[4.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_Snare_4sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Snare_4sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -149963,7 +149963,7 @@
     {
         "StatusID": "Sandworm_Acid_Storm",
         "DisplayName": "Acid Storm",
-        "Description": "Taking {[-0.015000 * -100]}% max health in Acid damage and suffer Acid Affliction every {[1.000000]} seconds.",
+        "Description": "Taking {[Type_StatusEffectData.Sandworm_Acid_Storm.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Storm.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -150481,7 +150481,7 @@
     {
         "StatusID": "Sandworm_Acid_Pool",
         "DisplayName": "Acid Pool",
-        "Description": "Taking {[-0.040000 * -100]}% max health in Acid damage and suffer Acid Affliction every {[0.500000]} seconds.",
+        "Description": "Taking {[Type_StatusEffectData.Sandworm_Acid_Pool.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Pool.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -150740,7 +150740,7 @@
     {
         "StatusID": "Sandworm_Acid_Pit",
         "DisplayName": "Acid Pool",
-        "Description": "Taking {[-0.040000 * -100]}% max health in Acid damage and suffer Acid Affliction every {[0.500000]} seconds.",
+        "Description": "Taking {[Type_StatusEffectData.Sandworm_Acid_Pool.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Pool.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -151258,7 +151258,7 @@
     {
         "StatusID": "Sandworm_Devour_Area_Denial",
         "DisplayName": "Digestive Juices",
-        "Description": "Taking {[-0.025000 * -100]}% max health in Acid damage and suffer Acid Affliction every {[0.500000]} seconds.",
+        "Description": "Taking {[Type_StatusEffectData.Sandworm_Devour_Area_Denial.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Devour_Area_Denial.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -151517,7 +151517,7 @@
     {
         "StatusID": "Sandworm_Acid_Spew",
         "DisplayName": "Acid Spew",
-        "Description": "Taking {[-0.250000 * -100]}% max health in Acid damage and suffer Acid Affliction every {[1.000000]} seconds.",
+        "Description": "Taking {[Type_StatusEffectData.Sandworm_Acid_Spew.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Spew.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -152553,7 +152553,7 @@
     {
         "StatusID": "Sandworm_Acid_Resistance",
         "DisplayName": "Storm Chaser",
-        "Description": "Become highly resistant to Siege Damage. Your Melee attacks apply Rend causing targets hit to take increased damage by {[-0.020000 * -100]}% for {[3.500000]} seconds, stacking up to {[25.000000]} times.",
+        "Description": "Become highly resistant to Siege Damage. Your Melee attacks apply Rend causing targets hit to take increased damage by {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.ABSStandard * -100]}% for {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.BaseDuration]} seconds, stacking up to {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.StackMax]} times.",
         "Notes": "\"Storm Chaser\"",
         "WindowHeader": "",
         "RankSorting": null,
@@ -154107,7 +154107,7 @@
     {
         "StatusID": "Sandworm_Storm_Chaser_Debuff",
         "DisplayName": "Storm Chaser Rend",
-        "Description": "Incoming damage is increased by {[-0.020000 * 100]}% for {[{[3.500000]}]} seconds. Stacks up to {[25.000000]} times.",
+        "Description": "Incoming damage is increased by {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.ABSStandard * 100]}% for {[{[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.BaseDuration]}]} seconds. Stacks up to {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.StackMax]} times.",
         "Notes": "\"Rend applied via Storm Chaser\"",
         "WindowHeader": "",
         "RankSorting": null,
@@ -154884,7 +154884,7 @@
     {
         "StatusID": "AI_DesertScorpionImpaler_Poison_Sandworm",
         "DisplayName": "Poisoned",
-        "Description": "Poisoned for {[-0.040000 * -100]}% base + {[-0.020000 * -100]}% base health Nature damage every {[2.000000]} seconds for {[20.000000]} seconds.",
+        "Description": "Poisoned for {[Type_StatusEffectData.AI_Poison_55.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Poison_55.HealthModifierPercent * -100]}% base health Nature damage every {[Type_StatusEffectData.AI_Poison_55.TickRate]} seconds for {[Type_StatusEffectData.AI_Poison_55.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -155143,7 +155143,7 @@
     {
         "StatusID": "AI_DesertScorpionSlinger_Poison_Sandworm",
         "DisplayName": "Poisoned",
-        "Description": "Poisoned for {[-0.040000 * -100]}% base + {[-0.020000 * -100]}% base health Nature damage every {[2.000000]} seconds for {[20.000000]} seconds.",
+        "Description": "Poisoned for {[Type_StatusEffectData.AI_Poison_55.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Poison_55.HealthModifierPercent * -100]}% base health Nature damage every {[Type_StatusEffectData.AI_Poison_55.TickRate]} seconds for {[Type_StatusEffectData.AI_Poison_55.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -155402,7 +155402,7 @@
     {
         "StatusID": "AI_DesertScorpionImpaler_Poison",
         "DisplayName": "Poisoned",
-        "Description": "Poisoned for {[-0.040000 * -100]}% base + {[-0.020000 * -100]}% base health Nature damage every {[2.000000]} seconds for {[20.000000]} seconds.",
+        "Description": "Poisoned for {[Type_StatusEffectData.AI_Poison_55.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Poison_55.HealthModifierPercent * -100]}% base health Nature damage every {[Type_StatusEffectData.AI_Poison_55.TickRate]} seconds for {[Type_StatusEffectData.AI_Poison_55.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -155661,7 +155661,7 @@
     {
         "StatusID": "AI_DesertScorpionSlinger_Poison",
         "DisplayName": "Poisoned",
-        "Description": "Poisoned for {[-0.040000 * -100]}% base + {[-0.020000 * -100]}% base health Nature damage every {[2.000000]} seconds for {[20.000000]} seconds.",
+        "Description": "Poisoned for {[Type_StatusEffectData.AI_Poison_55.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Poison_55.HealthModifierPercent * -100]}% base health Nature damage every {[Type_StatusEffectData.AI_Poison_55.TickRate]} seconds for {[Type_StatusEffectData.AI_Poison_55.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -155920,7 +155920,7 @@
     {
         "StatusID": "AI_SandElemental_Soldier_Vengeance_Rend",
         "DisplayName": "Rend",
-        "Description": "You suffer {[-0.200000 * -100]}% increased damage from all sources for {[10.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.AI_SandElemental_Soldier_Vengeance_Rend.ABSStandard * -100]}% increased damage from all sources for {[Type_StatusEffectData.AI_SandElemental_Soldier_Vengeance_Rend.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -163431,7 +163431,7 @@
     {
         "StatusID": "AI_SulfurBurn",
         "DisplayName": "Sulfur Burn",
-        "Description": "You suffer {[-0.020000 * -100]}% Fire damage per tick and take {[-0.100000 * -100]}% increased damage per stack from all sources for {[10.000000]} seconds.",
+        "Description": "You suffer {[Type_StatusEffectData.AI_SulfurBurn.HealthModifierPercent * -100]}% Fire damage per tick and take {[Type_StatusEffectData.AI_SulfurBurn.ABSStandard * -100]}% increased damage per stack from all sources for {[Type_StatusEffectData.AI_SulfurBurn.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -164208,7 +164208,7 @@
     {
         "StatusID": "AI_FireNaga_Flamethrower_DoT",
         "DisplayName": "Burning",
-        "Description": "Burning for {[-0.030000 * -100]}% max health of Fire damage every {[0.300000]} seconds for {[3.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.HealthModifierPercent * -100]}% max health of Fire damage every {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.TickRate]} seconds for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -164467,7 +164467,7 @@
     {
         "StatusID": "AI_FireNaga_LavaPool_DoT",
         "DisplayName": "Burning Lava",
-        "Description": "Burning for {[-0.040000 * -100]}% max health of Fire damage every {[0.100000]} second.",
+        "Description": "Burning for {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.HealthModifierPercent * -100]}% max health of Fire damage every {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.TickRate]} second.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -165244,7 +165244,7 @@
     {
         "StatusID": "AI_IceGolem_Bleed",
         "DisplayName": "Bleeding",
-        "Description": "Bleeding for {[-0.030000 * -100]}% base health Physical damage every {[1.000000]} seconds for {[8.000000]} seconds, stacking {[4.000000]} times.",
+        "Description": "Bleeding for {[Type_StatusEffectData.AI_IceGolem_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_IceGolem_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_IceGolem_Bleed.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_IceGolem_Bleed.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -165503,7 +165503,7 @@
     {
         "StatusID": "AI_IceGolem_Exhaust",
         "DisplayName": "Exhausted",
-        "Description": "Stamina regeneration reduced by {[-0.190000 * -100]}%.",
+        "Description": "Stamina regeneration reduced by {[Type_StatusEffectData.AI_IceGolem_Exhaust.StaminaRate * -100]}%.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -165762,7 +165762,7 @@
     {
         "StatusID": "AI_IceGolem_Slow",
         "DisplayName": "Slow",
-        "Description": "Movement speed reduced by {[-0.470000 * -100]}% for {[-1.000000]} seconds, stacking {[1.000000]} times.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_IceGolem_Slow.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_IceGolem_Slow.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_IceGolem_Slow.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -166021,7 +166021,7 @@
     {
         "StatusID": "AI_IceGolem_Slow_FrostBreath",
         "DisplayName": "Slow",
-        "Description": "Movement speed reduced by {[-0.400000 * -100]}% for {[6.000000]} seconds, stacking {[1.000000]} times.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_IceGolem_Slow_FrostBreath.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_IceGolem_Slow_FrostBreath.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_IceGolem_Slow_FrostBreath.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -166280,7 +166280,7 @@
     {
         "StatusID": "AI_IceGolem_Hypothermia",
         "DisplayName": "Hypothermia",
-        "Description": "Damaging {[-0.040000 * -100]}% base health Ice damage every {[2.000000]} seconds, stacking {[10.000000]} times.",
+        "Description": "Damaging {[Type_StatusEffectData.AI_IceGolem_Hypothermia.HealthModifierPercent * -100]}% base health Ice damage every {[Type_StatusEffectData.AI_IceGolem_Hypothermia.TickRate]} seconds, stacking {[Type_StatusEffectData.AI_IceGolem_Hypothermia.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -171460,7 +171460,7 @@
     {
         "StatusID": "AI_Evil_Knight_Fire_Champion_Overheat",
         "DisplayName": "Overheat",
-        "Description": "Overheating from the Commander's attacks and will explode at 10 stacks.  Also burning for {[-0.012500 * -100]}% base Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Overheating from the Commander's attacks and will explode at 10 stacks.  Also burning for {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_Overheat.HealthModifierPercent * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_Overheat.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_Overheat.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -174309,7 +174309,7 @@
     {
         "StatusID": "AI_Evil_Knight_Fire_Champion_DangerTick",
         "DisplayName": "Lava Tide",
-        "Description": "Burning for {[-0.300000 * -100]}% base health Fire damage every {[Type_StatusEffectDataAI_Evil_Knight_Fire_Champion_DangerTick.TickRate]} seconds for {[1.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_DangerTick.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectDataAI_Evil_Knight_Fire_Champion_DangerTick.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_DangerTick.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -177935,7 +177935,7 @@
     {
         "StatusID": "AI_Evil_Knight_Flamekeeper_Burn",
         "DisplayName": "Flamekeeper's Fire",
-        "Description": "Burning for {[-0.025000 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.AI_Evil_Knight_Flamekeeper_Burn.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Evil_Knight_Flamekeeper_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Flamekeeper_Burn.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -178194,7 +178194,7 @@
     {
         "StatusID": "Chameleon_Sticky_Slow_6sec",
         "DisplayName": "Sticky",
-        "Description": "Movement speed reduced by {[-0.500000 * -100]}% for {[6.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.Chameleon_Sticky_Slow_6sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Chameleon_Sticky_Slow_6sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -179489,7 +179489,7 @@
     {
         "StatusID": "AI_AncientGuardian_Bowman_Frosty_Rapid_Shot",
         "DisplayName": "Ice cloud",
-        "Description": "Movement speed reduced by {[-0.500000 * -100]}%.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_AncientGuardian_Bowman_Frosty_Rapid_Shot.MoveSpeedMod * -100]}%.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -180007,7 +180007,7 @@
     {
         "StatusID": "AI_Medusa_Poison",
         "DisplayName": "Envenomed",
-        "Description": "Damages {[-0.025000 * -100]}% health.",
+        "Description": "Damages {[Type_StatusEffectData.AI_Medusa_Poison.HealthModifierPercent * -100]}% health.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -180266,7 +180266,7 @@
     {
         "StatusID": "AI_Medusa_Poison_Pool",
         "DisplayName": "Medusa's Poison",
-        "Description": "Damages {[-0.030000 * -100]}% health.",
+        "Description": "Damages {[Type_StatusEffectData.AI_Medusa_Poison_Pool.HealthModifierPercent * -100]}% health.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -180525,7 +180525,7 @@
     {
         "StatusID": "AI_Medusa_Gaze",
         "DisplayName": "Gorgons Gaze",
-        "Description": "Slows {[-0.150000 * -100]}% move speed for {[15.000000]} seconds.",
+        "Description": "Slows {[Type_StatusEffectData.AI_Medusa_Gaze.MoveSpeedMod * -100]}% move speed for {[Type_StatusEffectData.AI_Medusa_Gaze.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -180784,7 +180784,7 @@
     {
         "StatusID": "AI_Medusa_Petrification",
         "DisplayName": "Petrifying",
-        "Description": "Damages {[-0.500000 * -100]}% health and slows {[-0.500000 * -100]}% move speed for {[8.000000]} seconds.",
+        "Description": "Damages {[Type_StatusEffectData.AI_Medusa_Petrification.HealthModifierPercent * -100]}% health and slows {[Type_StatusEffectData.AI_Medusa_Petrification.MoveSpeedMod * -100]}% move speed for {[Type_StatusEffectData.AI_Medusa_Petrification.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -184151,7 +184151,7 @@
     {
         "StatusID": "AI_ArmoredDragon_Bleed",
         "DisplayName": "Metal Breath Shards",
-        "Description": "Bleeding for {[-0.005000 * -100]}% base health Physical damage every {[0.500000]} seconds for {[10.000000]} seconds.",
+        "Description": "Bleeding for {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -186482,7 +186482,7 @@
     {
         "StatusID": "AI_IceDragon_Bleed_9",
         "DisplayName": "Frigid Bleeding",
-        "Description": "Bleeding for {[-0.050000 * -100]}% base + {[-0.015000 * -100]}% base health Physical damage every {[2.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Bleeding for {[Type_StatusEffectData.AI_Bleed_9.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Bleed_9.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_Bleed_9.TickRate]} seconds for {[Type_StatusEffectData.AI_Bleed_9.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -186741,7 +186741,7 @@
     {
         "StatusID": "AI_ExplosiveSprout_FireExplosion",
         "DisplayName": "Burn",
-        "Description": "Deals {[-0.100000 * -100]}% base Fire damage every {[1.000000]} seconds.",
+        "Description": "Deals {[Type_StatusEffectData.AI_ExplosiveSprout_FireExplosion.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_ExplosiveSprout_FireExplosion.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -187000,7 +187000,7 @@
     {
         "StatusID": "AI_ExplosiveSprout_PoisonExplosion",
         "DisplayName": "Poisoned",
-        "Description": "Deals {[-0.040000 * -100]}% base Nature damage every {[2.000000]} seconds.",
+        "Description": "Deals {[Type_StatusEffectData.AI_ExplosiveSprout_PoisonExplosion.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_ExplosiveSprout_PoisonExplosion.TickRate]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -187259,7 +187259,7 @@
     {
         "StatusID": "AI_Evil_Knight_Ice_Arrow_Root_2sec",
         "DisplayName": "Frozen Toes",
-        "Description": "Frozen in place and unable to move for {[3.000000]} seconds.",
+        "Description": "Frozen in place and unable to move for {[Type_StatusEffectData.AI_Evil_Knight_Ice_Arrow_Root_2sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -187518,7 +187518,7 @@
     {
         "StatusID": "AI_Evil_Knight_Ice_Mace_Slow_4sec",
         "DisplayName": "Slow",
-        "Description": "Movement speed reduced by {[-0.200000 * -100]}% for {[4.000000]} seconds.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_Evil_Knight_Ice_Mace_Slow_4sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Evil_Knight_Ice_Mace_Slow_4sec.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -187777,7 +187777,7 @@
     {
         "StatusID": "AI_Ice_Knight_IceyPummel_Stomp",
         "DisplayName": "Chilled",
-        "Description": "Slowed for {[1.000000]} seconds.",
+        "Description": "Slowed for {[Type_StatusEffectData.AI_Ice_Knight_IceyPummel_Stomp.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -189331,7 +189331,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_AncientChill",
         "DisplayName": "Ancient Chill",
-        "Description": "Chilled to the bone by being the primary threat of the boss.  Stamina regeneration reduced by {[-0.075000 * -100]}%, incoming damage increased by {[0.100000 * 100]}%, and outgoing damage reduced by {[-0.050000 * 100]}%  per stack for {[60.000000]} seconds.",
+        "Description": "Chilled to the bone by being the primary threat of the boss.  Stamina regeneration reduced by {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.StaminaRate * -100]}%, incoming damage increased by {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.WKNStandard * 100]}%, and outgoing damage reduced by {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.DMGStandard * 100]}%  per stack for {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -189590,7 +189590,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_DeepFreeze",
         "DisplayName": "Deep Freeze",
-        "Description": "Lingering frost from the feezing wave.  Mana regeneration reduced by {[-1.000000 * -100]}% for {[60.000000]} seconds.",
+        "Description": "Lingering frost from the feezing wave.  Mana regeneration reduced by {[Type_StatusEffectData.AI_Season_04_IceGuardian_DeepFreeze.ManaRate * -100]}% for {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -190367,7 +190367,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_Entomb_Root",
         "DisplayName": "Icy Tomb",
-        "Description": "Frozen in a block of ice.  Unable to move or attack and taking {[-0.200000 * -100]}% base health Ice damage every {[1.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Frozen in a block of ice.  Unable to move or attack and taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_Entomb_Root.HealthModifierPercent * -100]}% base health Ice damage every {[Type_StatusEffectData.AI_Season_04_IceGuardian_Entomb_Root.TickRate]} seconds for {[Type_StatusEffectData.AI_Season_04_IceGuardian_Entomb_Root.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -190885,7 +190885,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_FrostNova_Root",
         "DisplayName": "Frozen Soles",
-        "Description": "The soles of your shoes are frozen and attached to the floor.  Unable to move for {[3.000000]} seconds.",
+        "Description": "The soles of your shoes are frozen and attached to the floor.  Unable to move for {[Type_StatusEffectData.AI_Season_04_IceGuardian_FrostNova_Root.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -194252,7 +194252,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_RuneFireDamageBuff",
         "DisplayName": "Firey Rune Empowerment",
-        "Description": "Buzzing with firey empowerment.  {[2.000000 * 100]}% increase in outgoing Fire damage per stack for {[10.000000]} seconds.",
+        "Description": "Buzzing with firey empowerment.  {[Type_StatusEffectData.AI_Season_04_IceGuardian_RuneFireDamageBuff.DMGFire * 100]}% increase in outgoing Fire damage per stack for {[Type_StatusEffectData.AI_Season_04_IceGuardian_RuneFireDamageBuff.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -195029,7 +195029,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_Hypothermia",
         "DisplayName": "Hypothermia",
-        "Description": "Taking {[-0.010000 * -100]}% base health damage every {[1.000000]} seconds.  Also being slowed by {[-0.050000 * -100]}% with {[0.050000 * 100]}% increased Ice weakness per stack.",
+        "Description": "Taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia.HealthModifierPercent * -100]}% base health damage every {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia.TickRate]} seconds.  Also being slowed by {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia.MoveSpeedMod * -100]}% with {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia.WKNIce * 100]}% increased Ice weakness per stack.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -195806,7 +195806,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_Hypothermia_Solo",
         "DisplayName": "Hypothermia",
-        "Description": "Taking {[-0.010000 * -100]}% base health damage every {[1.000000]} seconds.  Also being slowed by {[-0.050000 * -100]}% with {[0.050000 * 100]}% increased Ice weakness per stack.",
+        "Description": "Taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia_Solo.HealthModifierPercent * -100]}% base health damage every {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia_Solo.TickRate]} seconds.  Also being slowed by {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia_Solo.MoveSpeedMod * -100]}% with {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia_Solo.WKNIce * 100]}% increased Ice weakness per stack.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -196324,7 +196324,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_AncientFlame",
         "DisplayName": "Ancient Flame",
-        "Description": "Protects against and removes stacks of Hypothermia while also taking {[0.250000 * 100]}% decreased Ice per stack",
+        "Description": "Protects against and removes stacks of Hypothermia while also taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlame.ABSIce * 100]}% decreased Ice per stack",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -196842,7 +196842,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_AncientFlameLingering",
         "DisplayName": "Lingering Ancient Flame",
-        "Description": "Lingering remnants of warmth.  Short protection against Hypothermia and taking {[0.100000 * 100]}% decreased Ice per stack",
+        "Description": "Lingering remnants of warmth.  Short protection against Hypothermia and taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlameLingering.ABSIce * 100]}% decreased Ice per stack",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -197101,7 +197101,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_AncientFlameCooldown",
         "DisplayName": "Ancient Flame Bearer Exhaustion",
-        "Description": "Weary from holding the Ancient Flame.  Unable to hold the Flame again for {[30.000000]} seconds.",
+        "Description": "Weary from holding the Ancient Flame.  Unable to hold the Flame again for {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlameCooldown.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -197619,7 +197619,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_AncientFlame_Solo",
         "DisplayName": "Ancient Flame",
-        "Description": "Protects against and removes stacks of Hypothermia while also taking {[0.250000 * 100]}% decreased Ice per stack",
+        "Description": "Protects against and removes stacks of Hypothermia while also taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlame_Solo.ABSIce * 100]}% decreased Ice per stack",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -198137,7 +198137,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_AncientFlameLingering_Solo",
         "DisplayName": "Lingering Ancient Flame",
-        "Description": "Lingering remnants of warmth.  Short protection against Hypothermia and taking {[0.100000 * 100]}% decreased Ice per stack",
+        "Description": "Lingering remnants of warmth.  Short protection against Hypothermia and taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlameLingering_Solo.ABSIce * 100]}% decreased Ice per stack",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -198396,7 +198396,7 @@
     {
         "StatusID": "AI_Season_04_IceGuardian_AncientFlameCooldown_Solo",
         "DisplayName": "Ancient Flame Bearer Exhaustion",
-        "Description": "Weary from holding the Ancient Flame.  Unable to hold the Flame again for {[30.000000]} seconds.",
+        "Description": "Weary from holding the Ancient Flame.  Unable to hold the Flame again for {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlameCooldown_Solo.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -201763,7 +201763,7 @@
     {
         "StatusID": "Mammoth_Boss_IceStorm_Slow",
         "DisplayName": "Slowed",
-        "Description": "Movement speed reduced by {[-0.050000 * -100]}% per stack.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.Mammoth_Boss_IceStorm_Slow.SprintSpeedMod * -100]}% per stack.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -204871,7 +204871,7 @@
     {
         "StatusID": "Mammoth_Lightning_Shock",
         "DisplayName": "Shock Blast",
-        "Description": "Drains {[-30.000000 * -1]} stamina every {[1.000000]} seconds and reduces stamina regeneration by {[-0.250000 * -100]}% for {[2.000000]} seconds. Stacks {[3.000000]} times.",
+        "Description": "Drains {[Type_StatusEffectData.Mammoth_Lightning_Shock.Stamina * -1]} stamina every {[Type_StatusEffectData.Mammoth_Lightning_Shock.TickRate]} seconds and reduces stamina regeneration by {[Type_StatusEffectData.Mammoth_Lightning_Shock.StaminaRate * -100]}% for {[Type_StatusEffectData.Mammoth_Lightning_Shock.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.Mammoth_Lightning_Shock.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -205389,7 +205389,7 @@
     {
         "StatusID": "Mammoth_Lightning_Empowered_Debuff_Tick",
         "DisplayName": "Electrocuted",
-        "Description": "Shocks 1 ally within range every second for {[10.000000]} seconds.",
+        "Description": "Shocks 1 ally within range every second for {[Type_StatusEffectData.Mammoth_Lightning_Empowered_Debuff_Tick.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -211346,7 +211346,7 @@
     {
         "StatusID": "AI_Gorilla_Boss_Dmg_Fire",
         "DisplayName": "Fire Node Empowerment",
-        "Description": "Kurok deals {[0.100000 * 100]}% additional Fire Damage, stacking up to {[20.000000]} times. At max stacks, Kurok detonates all accumulated Fire energy.",
+        "Description": "Kurok deals {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Fire.DMGFire * 100]}% additional Fire Damage, stacking up to {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Fire.StackMax]} times. At max stacks, Kurok detonates all accumulated Fire energy.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -211605,7 +211605,7 @@
     {
         "StatusID": "AI_Gorilla_Boss_Dmg_Ice",
         "DisplayName": "Ice Node Empowerment",
-        "Description": "Kurok deals {[0.100000 * 100]}% additional Ice Damage, stacking up to {[20.000000]} times. At max stacks, Kurok detonates all accumulated Ice energy.",
+        "Description": "Kurok deals {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Ice.DMGIce * 100]}% additional Ice Damage, stacking up to {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Ice.StackMax]} times. At max stacks, Kurok detonates all accumulated Ice energy.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -211864,7 +211864,7 @@
     {
         "StatusID": "AI_Gorilla_Boss_Dmg_Nature",
         "DisplayName": "Nature Node Empowerment",
-        "Description": "Kurok deals {[0.100000 * 100]}% additional Nature Damage, stacking up to {[20.000000]} times. At max stacks, Kurok detonates all accumulated Nature energy.",
+        "Description": "Kurok deals {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Nature.DMGNature * 100]}% additional Nature Damage, stacking up to {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Nature.StackMax]} times. At max stacks, Kurok detonates all accumulated Nature energy.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -212123,7 +212123,7 @@
     {
         "StatusID": "AI_Gorilla_Boss_Dmg_Lightning",
         "DisplayName": "Lightning Node Empowerment",
-        "Description": "Kurok deals {[0.100000 * 100]}% additional Lightning Damage, stacking up to {[20.000000]} times. At max stacks, Kurok detonates all accumulated Lightning energy.",
+        "Description": "Kurok deals {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Lightning.DMGLightning * 100]}% additional Lightning Damage, stacking up to {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Lightning.StackMax]} times. At max stacks, Kurok detonates all accumulated Lightning energy.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -212382,7 +212382,7 @@
     {
         "StatusID": "AI_Gorilla_Boss_Dmg_Void",
         "DisplayName": "Elemental Entropy",
-        "Description": "Kurok deals {[0.100000 * 100]}% additional Void Damage, stacking up to {[20.000000]} times.",
+        "Description": "Kurok deals {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Void.DMGCorruption * 100]}% additional Void Damage, stacking up to {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Void.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -212641,7 +212641,7 @@
     {
         "StatusID": "AI_Gorilla_Boss_Dmg_Void_Extra",
         "DisplayName": "Elemental Entropy",
-        "Description": "Kurok deals {[0.100000 * 100]}% additional Void Damage, stacking up to {[20.000000]} times.",
+        "Description": "Kurok deals {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Void.DMGCorruption * 100]}% additional Void Damage, stacking up to {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Void.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -213159,7 +213159,7 @@
     {
         "StatusID": "AI_Gorilla_Boss_DamageVuln",
         "DisplayName": "Elemental Node Backlash",
-        "Description": "Kurok is disoriented and takes {[-0.500000 * -100]} additional Damage. Duration is determined by stacks of Node Empowerment when backlash is triggered.",
+        "Description": "Kurok is disoriented and takes {[Type_StatusEffectData.AI_Gorilla_Boss_DamageVuln.ABSStrike * -100]} additional Damage. Duration is determined by stacks of Node Empowerment when backlash is triggered.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -214195,7 +214195,7 @@
     {
         "StatusID": "AI_Gorilla_Boss_Burn",
         "DisplayName": "Flames of Kurok",
-        "Description": "Burning for {[-0.050000 * -100]}% of Kurok's damage as Fire Damage for {[5.000000]} seconds. Stacks up to {[3.000000]} times.",
+        "Description": "Burning for {[Type_StatusEffectData.AI_Gorilla_Boss_Burn.HealthModifierDamageBased * -100]}% of Kurok's damage as Fire Damage for {[Type_StatusEffectData.AI_Gorilla_Boss_Burn.BaseDuration]} seconds. Stacks up to {[Type_StatusEffectData.AI_Gorilla_Boss_Burn.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -214454,7 +214454,7 @@
     {
         "StatusID": "AI_Gorilla_Boss_Chill",
         "DisplayName": "Frost of Kurok",
-        "Description": "Slowed by {[-0.030000 * -100]}% for {[6.000000 * 100]} seconds. Stacks up to {[10.000000]} times.",
+        "Description": "Slowed by {[Type_StatusEffectData.AI_Gorilla_Boss_Chill.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Gorilla_Boss_Chill.BaseDuration * 100]} seconds. Stacks up to {[Type_StatusEffectData.AI_Gorilla_Boss_Chill.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -216526,7 +216526,7 @@
     {
         "StatusID": "AI_Evil_Knight_Gruntmaster_LavaBurn",
         "DisplayName": "Lava Burn",
-        "Description": "Burning for {[-0.035000 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds.",
+        "Description": "Burning for {[Type_StatusEffectData.AI_Evil_Knight_Gruntmaster_LavaBurn.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Evil_Knight_Gruntmaster_LavaBurn.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Gruntmaster_LavaBurn.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -220929,7 +220929,7 @@
     {
         "StatusID": "AI_CorruptedLeviathan_IchorBurn",
         "DisplayName": "Ichor Burn",
-        "Description": "Take {[AfflictionCurse=2]} points of corruption every second for {[4.000000]} seconds.",
+        "Description": "Take {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorBurn.Afflictions]} points of corruption every second for {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorBurn.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -221188,7 +221188,7 @@
     {
         "StatusID": "AI_CorruptedLeviathan_CorruptionPuddle_Damage",
         "DisplayName": "Ichor Burn",
-        "Description": "Take {[AfflictionCurse=2]} points of corruption every second for {[4.000000]} seconds.",
+        "Description": "Take {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorBurn.Afflictions]} points of corruption every second for {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorBurn.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -221706,7 +221706,7 @@
     {
         "StatusID": "AI_CorruptedLeviathan_IchorCoating",
         "DisplayName": "Ichor Coating",
-        "Description": "Take {[0.200000 * 100]}% more corruption damage for {[15.000000]} seconds.",
+        "Description": "Take {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorCoating.WKNCorruption * 100]}% more corruption damage for {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorCoating.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -223519,7 +223519,7 @@
     {
         "StatusID": "AI_MotherwellElk_SE_Slow",
         "DisplayName": "Slow",
-        "Description": "Movement speed reduced by {[-0.200000 * -100]}% for {[3.000000]} seconds, stacking {[2.000000]} times.",
+        "Description": "Movement speed reduced by {[Type_StatusEffectData.AI_MotherwellElk_SE_Slow.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_MotherwellElk_SE_Slow.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_MotherwellElk_SE_Slow.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -224555,7 +224555,7 @@
     {
         "StatusID": "AI_MotherwellElk_SE_Bleed",
         "DisplayName": "Bleeding",
-        "Description": "Bleeding for {[-0.030000 * -100]}% base health Physical damage every {[3.000000]} seconds for {[15.000000]} seconds.",
+        "Description": "Bleeding for {[Type_StatusEffectData.AI_MotherwellElk_SE_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_MotherwellElk_SE_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_MotherwellElk_SE_Bleed.BaseDuration]} seconds.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -224814,7 +224814,7 @@
     {
         "StatusID": "AI_MotherwellElk_SE_Rend",
         "DisplayName": "Rend",
-        "Description": "Incoming damage is increased by {[-0.190000 * -100]}% for {[15.000000]} seconds, stacking {[3.000000]} times.",
+        "Description": "Incoming damage is increased by {[Type_StatusEffectData.AI_MotherwellElk_SE_Rend.ABSStandard * -100]}% for {[Type_StatusEffectData.AI_MotherwellElk_SE_Rend.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_MotherwellElk_SE_Rend.StackMax]} times.",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
@@ -225073,7 +225073,7 @@
     {
         "StatusID": "AI_MotherwellElk_SE_Exhaust",
         "DisplayName": "Exhausted",
-        "Description": "Stamina regeneration reduced by {[-0.190000 * -100]}% for {[12.000000]} seconds, stacking {[2.000000]} times..",
+        "Description": "Stamina regeneration reduced by {[Type_StatusEffectData.AI_MotherwellElk_SE_Exhaust.StaminaRate * -100]}% for {[Type_StatusEffectData.AI_MotherwellElk_SE_Exhaust.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_MotherwellElk_SE_Exhaust.StackMax]} times..",
         "Notes": "",
         "WindowHeader": "",
         "RankSorting": null,
