@@ -2,7 +2,15 @@
     {
         "TowerID": "Cutlass_Keys_Tower_01",
         "Name": "South Cutlass Keys Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "CaptureTimeInSeconds": 120,
+        "CaptureTimeMinimum": 75,
+        "CaptureMaxPlayerDelta": 5
+    },
+    {
+        "TowerID": "Cutlass_Keys_Tower_01_CKRV",
+        "Name": "@Cutlass_Keys_Tower_01_CKRV",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -10,7 +18,7 @@
     {
         "TowerID": "Cutlass_Keys_Tower_02",
         "Name": "North Cutlass Keys Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -18,7 +26,7 @@
     {
         "TowerID": "Cutlass_Keys_Tower_03",
         "Name": "East Cutlass Keys Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -26,7 +34,7 @@
     {
         "TowerID": "Windsward_Tower_01",
         "Name": "South Windsward Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -34,7 +42,7 @@
     {
         "TowerID": "Windsward_Tower_02",
         "Name": "North Windsward Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -42,7 +50,7 @@
     {
         "TowerID": "Windsward_Tower_03",
         "Name": "Central Windsward Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -50,7 +58,7 @@
     {
         "TowerID": "Monarchs_Bluff_Tower_01",
         "Name": "West Monarch's Bluffs Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -58,7 +66,7 @@
     {
         "TowerID": "Monarchs_Bluff_Tower_02",
         "Name": "South Monarch's Bluffs Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -66,7 +74,7 @@
     {
         "TowerID": "Monarchs_Bluff_Tower_03",
         "Name": "East Monarch's Bluffs Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -74,7 +82,7 @@
     {
         "TowerID": "Everfall_Tower_01",
         "Name": "North Everfall Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -82,7 +90,7 @@
     {
         "TowerID": "Everfall_Tower_02",
         "Name": "East Everfall Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -90,7 +98,7 @@
     {
         "TowerID": "Everfall_Tower_03",
         "Name": "West Everfall Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -98,7 +106,7 @@
     {
         "TowerID": "Ebonscale_Reach_Tower_01",
         "Name": "Central Ebonscale Reach Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -106,7 +114,7 @@
     {
         "TowerID": "Ebonscale_Reach_Tower_02",
         "Name": "North Ebonscale Reach Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -114,7 +122,7 @@
     {
         "TowerID": "Ebonscale_Reach_Tower_03",
         "Name": "South Ebonscale Reach Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -122,7 +130,7 @@
     {
         "TowerID": "Weavers_Fen_Tower_01",
         "Name": "East Weaver's Fen Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -130,7 +138,7 @@
     {
         "TowerID": "Weavers_Fen_Tower_02",
         "Name": "South Weaver's Fen Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -138,7 +146,7 @@
     {
         "TowerID": "Weavers_Fen_Tower_03",
         "Name": "West Weaver's Fen Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -146,7 +154,7 @@
     {
         "TowerID": "Reekwater_Tower_01",
         "Name": "South Reekwater Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -154,7 +162,7 @@
     {
         "TowerID": "Reekwater_Tower_02",
         "Name": "Central Reekwater Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -162,7 +170,7 @@
     {
         "TowerID": "Reekwater_Tower_03",
         "Name": "North Reekwater Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -170,7 +178,7 @@
     {
         "TowerID": "Restless_Shore_Tower_01",
         "Name": "Central Restless Shore Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -178,7 +186,7 @@
     {
         "TowerID": "Restless_Shore_Tower_02",
         "Name": "South Restless Shore Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -186,7 +194,7 @@
     {
         "TowerID": "Restless_Shore_Tower_03",
         "Name": "North Restless Shore Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -194,7 +202,7 @@
     {
         "TowerID": "Brightwood_Tower_01",
         "Name": "East Brightwood Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -202,7 +210,7 @@
     {
         "TowerID": "Brightwood_Tower_02",
         "Name": "South Brightwood Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -210,7 +218,7 @@
     {
         "TowerID": "Brightwood_Tower_03",
         "Name": "West Brightwood Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -218,7 +226,7 @@
     {
         "TowerID": "Mourningdale_Tower_01",
         "Name": "North Mourningdale Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -226,7 +234,7 @@
     {
         "TowerID": "Mourningdale_Tower_02",
         "Name": "West Mourningdale Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -234,7 +242,7 @@
     {
         "TowerID": "Mourningdale_Tower_03",
         "Name": "East Mourningdale Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -242,7 +250,7 @@
     {
         "TowerID": "Brimstone_Sands_Tower_01",
         "Name": "North Brimstone Sands Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -250,7 +258,7 @@
     {
         "TowerID": "Brimstone_Sands_Tower_02",
         "Name": "Central Brimstone Sands Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -258,7 +266,7 @@
     {
         "TowerID": "Brimstone_Sands_Tower_03",
         "Name": "South Brimstone Sands Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -266,7 +274,7 @@
     {
         "TowerID": "Edengrove_Tower_01",
         "Name": "East Edengrove Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -274,7 +282,7 @@
     {
         "TowerID": "Edengrove_Tower_02",
         "Name": "South Edengrove Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -282,7 +290,7 @@
     {
         "TowerID": "Edengrove_Tower_03",
         "Name": "North Edengrove Watch",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -290,7 +298,7 @@
     {
         "TowerID": "Great_Cleave_Tower_01",
         "Name": "@Great_Cleave_Tower_01",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -298,7 +306,7 @@
     {
         "TowerID": "Great_Cleave_Tower_02",
         "Name": "@Great_Cleave_Tower_02",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5
@@ -306,7 +314,7 @@
     {
         "TowerID": "Great_Cleave_Tower_03",
         "Name": "@Great_Cleave_Tower_03",
-        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ffffff\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
+        "Description": "This Control Point is capturable during an Influence Race.\\n\\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerInfluenceValue}\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence every 5 seconds \\n\u0026lt;img src=\"lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease\" xPadding=\"0\" scale=\"2\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#ebe3d6\"\u0026gt;\u0026lt;font face=\"lyshineui/fonts/Nimbus_Semibold.font\"\u0026gt;+{TowerPercentageValue}%\u0026lt;/font\u0026gt;\u0026lt;/font\u0026gt; Influence earned",
         "CaptureTimeInSeconds": 120,
         "CaptureTimeMinimum": 75,
         "CaptureMaxPlayerDelta": 5

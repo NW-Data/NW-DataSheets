@@ -22,8 +22,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Out of the Frying Pan",
         "Description": "Return the set of pots and pans to Cook Swampy in the Cutlass Keys Settlement.",
         "PlayerPrompt": "\"What would you recommend?\"",
@@ -39,7 +39,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "CutlassKeysArc1",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1010_0102_eternal_mixes",
@@ -64,8 +65,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Recipe for Disaster",
         "Description": "Recover Swampy's missing recipes from the Salty Snail Fishery and his cookbook from Misanthrope Broadbin at Pond Scum Fort. Talk to Cook Swampy in the Cutlass Keys Settlement when the task is complete.",
         "PlayerPrompt": "\"Got any special meals planned?\"",
@@ -81,7 +82,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "CutlassKeysArc1",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1002_0101_ancient_wonders",
@@ -106,8 +108,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "In Search of Plunder",
         "Description": "Explore the Spiti Ruins to collect artifacts. Search chests to collect William's notes. Talk to Quartermaster Duffy in the Cutlass Keys Settlement when your task is complete.",
         "PlayerPrompt": "\"You don't have any treasures?\"",
@@ -123,7 +125,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "CutlassKeysArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1002_0102_aeternum_triangle",
@@ -148,8 +151,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Relics of the Tower",
         "Description": "Loot orbs from statues inside Malocchio Spire. Then Investigate what is at the top of the spire. Talk to Quartermaster Duffy in the Cutlass Keys Settlement when your task is complete.",
         "PlayerPrompt": "\"What else needs to be done?\"",
@@ -165,7 +168,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "CutlassKeysArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1002_0103_skull_fort",
@@ -190,8 +194,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Pirate Island",
         "Description": "Raid Pirate Island and recover the papers from the Pirate Figurehead between the Festering Fishery and Clearmon's Doubt. Talk to Quartermaster Duffy in the Cutlass Keys Settlement when the task is complete.",
         "PlayerPrompt": "\"What's going on?\"",
@@ -207,7 +211,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "CutlassKeysArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1004_0101_explosive_prospecting",
@@ -232,8 +237,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Explosive Prospecting",
         "Description": "Investigate the source of the tremors in the Highpass Mining Camp and diffuse the situation. Talk to Captain Lucian in the Cutlass Key Settlement when the task is complete.",
         "PlayerPrompt": "\"What have they done?\"",
@@ -249,7 +254,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "CutlassKeysArc3",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1004_0102_missing_features",
@@ -274,8 +280,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Stolen Plans",
         "Description": "Recover the stolen building plans and the building supplies from the Corrupted at Rusty Spoon Camp. Talk to Captain Lucian in the Cutlass Keys Settlement when the task is complete.",
         "PlayerPrompt": "\"They're getting smarter?\"",
@@ -291,7 +297,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "CutlassKeysArc3",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1005_0101_lightning_bottle",
@@ -316,8 +323,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Lightning in a Bottle",
         "Description": "Find elemental materials from spirits and bring them back to Carpenter Fei in the Cutlass Keys Settlement. ",
         "PlayerPrompt": "\"They are getting bolder?\"",
@@ -333,7 +340,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "CutlassKeysArc3",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1005_0102_lightning_test",
@@ -358,8 +366,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Lightning Unleashed",
         "Description": "Place the Lightning Jars in locations around Fort Ramos. Talk to Carpenter Fei in the Cutlass Keys Settlement when the task is complete.",
         "PlayerPrompt": "\"Making any progress?\"",
@@ -375,7 +383,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "CutlassKeysArc3",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1003_0101_watcher_coin",
@@ -400,8 +409,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Toss of a Coin",
         "Description": "Travel to Fishbone Village to discover if the rumors about the Touched Coin are true. Talk to Coxwain Bryce in the Cutlass Keys Settlement when your task is complete.",
         "PlayerPrompt": "\"I bet you've got some stories.\"",
@@ -417,7 +426,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "CutlassKeysArc4",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1001_0101_heads_tails",
@@ -442,8 +452,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Heads or Tails (Elite)",
         "Description": "Defeat Boatswain Benjamin to collect the Touched Coin. Chose to return the coin to Sailing Master Trost or Coxwain Bryce in Cutlass Keys.",
         "PlayerPrompt": "\"What do you mean?\"",
@@ -459,7 +469,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "CutlassKeysArc4",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1001_0101a_heads_tails_watcher",
@@ -484,8 +495,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Heads for the Sailing Master",
         "Description": "Both Sailing Master Trost and Coxwain Bryce in Cutlass Keys want the Touched Coin.\\n\\nChoose wisely.",
         "PlayerPrompt": "Accept the Quest",
@@ -501,7 +512,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1001_0101b_heads_tails_survivalist",
@@ -526,8 +538,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Tails for the Coxwain",
         "Description": "Both Coxwain Bryce and Sailing Master Trost in Cutlass Keys want the Touched Coin.\\n\\nChoose wisely.",
         "PlayerPrompt": "Accept the Quest",
@@ -543,7 +555,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1030_0201_animalinstincts",
@@ -568,8 +581,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Animal Instincts",
         "Description": "Gather samples from wildcats and alligators and bring them to Tosch in Cutlass Keys so he can study how to tame them.",
         "PlayerPrompt": "\"How do you propose to do that?\"",
@@ -585,7 +598,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1030_0201_animalinstincts_alt",
@@ -610,8 +624,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Animal Instincts",
         "Description": "Gather samples from wildcats and alligators and bring them to Tosch in Cutlass Keys so he can study how to tame them.",
         "PlayerPrompt": "\"How do you propose to do that?\"",
@@ -627,7 +641,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1030_0202_snaggletooth",
@@ -652,8 +667,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Snaggletooth",
         "Description": "Collect a tooth from a fierce lion and bring it to Tosch in Cutlass Keys.",
         "PlayerPrompt": "\"What would that be?\"",
@@ -669,7 +684,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1030_0203_catnipping",
@@ -694,8 +710,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Catnipping",
         "Description": "Gather whiskers from island pumas and bring them to Tosch in Cutlass Keys.",
         "PlayerPrompt": "\"What do you need?\"",
@@ -711,7 +727,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1030_0204_tamingthelionhearted",
@@ -736,8 +753,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Taming the Lionhearted",
         "Description": "Gather collars and leashes from the Corrupted and bring them to Tosch in Cutlass Keys.",
         "PlayerPrompt": "\"Who is it?\"",
@@ -753,7 +770,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1030_0205_perfectcompanion",
@@ -778,8 +796,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Perfect Companion",
         "Description": "Gather boar bristles and bring them to Tosch in Cutlass Keys so that he may tame the ultimate pet!",
         "PlayerPrompt": "\"What's that?\"",
@@ -795,7 +813,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1031_0201_adisturbingsilence",
@@ -820,8 +839,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "A Disturbing Silence",
         "Description": "Search for Jocelyn at Castaway Colony. Talk to Swamp Walker Nekumanesh in Cutlass Keys when the task is complete.",
         "PlayerPrompt": "\"Why would you say that?\"",
@@ -837,7 +856,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1031_0202_trackingbyteeth",
@@ -862,8 +882,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Tracking by Teeth",
         "Description": "Track Jocelyn by finding her teeth in Flatfish Fishery. Talk to Swamp Walker Nekumanesh in Cutlass Keys when the task is complete.",
         "PlayerPrompt": "“What relatives?”",
@@ -879,7 +899,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1031_0203_heartofthemarsh",
@@ -904,8 +925,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Heart of the Marsh",
         "Description": "Find Jocelyn and recover a keepsake from her. Talk to Swamp Walker Nekumanesh in Cutlass Keys when the task is complete.",
         "PlayerPrompt": "\"You know where she is?\"",
@@ -921,7 +942,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1032_0201_onewhotolledthebells",
@@ -946,8 +968,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "One Who Tolled the Bells",
         "Description": "Travel across the Old Fort Bridge and clear out any alligators too close to it. Talk to Watcher Jie Hu when the task is complete.",
         "PlayerPrompt": "\"Bells?\"",
@@ -963,7 +985,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1032_0202_bridgetonowhere",
@@ -988,8 +1011,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Bridge to Nowhere",
         "Description": "Travel across Flatfish Bridge then clear out any scavengers and alligators near it. Talk to Watcher Jie Hu in Cutlass Keys when the task is done.",
         "PlayerPrompt": "\"What bridge?\"",
@@ -1005,7 +1028,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1032_0203_onebridgetoofar",
@@ -1030,8 +1054,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "One Bridge too Far",
         "Description": "Travel across the Saltshore Bridge then clear out any Wormsworn Pirates near it. Talk to Watcher Jie Hu in Cutlass Keys when the task is complete.",
         "PlayerPrompt": "\"Where did you patrol?\"",
@@ -1047,7 +1071,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1032_0204_burningbridges",
@@ -1072,8 +1097,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Burning Bridges",
         "Description": "Travel across Stone Skull Crossing and clear out any Wormsworn Pirates nearby. Talk to Watcher Jie Hu in Cutlass Keys when the task is complete.",
         "PlayerPrompt": "\"What things?\"",
@@ -1089,7 +1114,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1033_0201_treasureisland",
@@ -1114,8 +1140,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Treasure Island",
         "Description": "Follow the treasure map Claire provided to discover great riches! Talk to Claire Fergus in Cutlass Keys when the task is done.",
         "PlayerPrompt": "\"What do you need?\"",
@@ -1131,7 +1157,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1033_0202_trailofthemisanthrope",
@@ -1156,8 +1183,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Trail of the Misanthrope",
         "Description": "Track down Claire's partner who stole all the treasure! Talk to Claire Fergus in Cutlass Keys when the task is complete.",
         "PlayerPrompt": "\"What are you going to do?\"",
@@ -1173,7 +1200,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1034_0201_motherocean",
@@ -1198,8 +1226,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Mother Ocean",
         "Description": "Recover Billiam's Sextant from the wreck of The Storm Petral, located in the Condemned Shallows. Return the sextant to Wistful Billiam in Cutlass Keys.",
         "PlayerPrompt": "\"Where is she now?\"",
@@ -1215,7 +1243,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1034_0202_seadreams",
@@ -1240,8 +1269,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Sea Dreams",
         "Description": "Recover Billiam's Astrolabe from a chest at the wreck of the ship Nizam's Foresight, located on the southern beach of Haunted Isle. Return the astrolabe to Wistful Billiam in Cutlass Keys.",
         "PlayerPrompt": "\"What happened to it?\"",
@@ -1257,7 +1286,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1034_0203_hightide",
@@ -1282,8 +1312,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "High Tide",
         "Description": "Recover Billiam's Sea Charts from the wreck of the ship Sirin's Magnificence, located along the southern edge of Cayo De La Muerte. Return the charts to Wistful Billiam in Cutlass Keys.",
         "PlayerPrompt": "\"Who took your charts?\"",
@@ -1299,7 +1329,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1035_0201_cookiecrumbles",
@@ -1324,8 +1355,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Way the Cookie Crumbles",
         "Description": "Recover Junia's winning cookie recipe then find the ingredients used to make it. Talk to Chef Decima Opimius in Cutlass Keys when the task is done.",
         "PlayerPrompt": "\"He always wins?\"",
@@ -1341,7 +1372,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1036_0101_AdmiralBlackpowder",
@@ -1366,8 +1398,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Admiral Blackpowder's Fall (Expedition)",
         "Description": "Enter the Barnacles and Black Powder Expedition. Gather the chronicles of the infamous Admiral Blackpowder, and take him down for Wally Widdershins.",
         "PlayerPrompt": "\"'…Sure, I can stay and listen.\"",
@@ -1383,7 +1415,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1037_0101_MysteriesOfDeep",
@@ -1408,8 +1441,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Mysteries of the Deep (Expedition)",
         "Description": "Enter the Barnacles and Black Powder Expedition to disrupt the work of a suspected Water Elemental for Rowan Pennbrook.",
         "PlayerPrompt": "\"An underwater city?\"",
@@ -1425,7 +1458,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1038_0101_CleansingTreasure",
@@ -1450,8 +1484,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "Cleansing Treasure (Expedition)",
         "Description": "Enter the Barnacles and Black Powder Expedition to collect golden trinkets from the crewmembers. Bring them back to Quiggley Quorus to cleanse and sell them.",
         "PlayerPrompt": "\"Uh… What?\"",
@@ -1467,7 +1501,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_10_PVP_Spy_Marauder_objective",
@@ -1492,8 +1527,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1509,7 +1544,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_10_PVP_Poach_Marauder_objective",
@@ -1534,8 +1570,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1551,7 +1587,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_10_PVP_Control_Marauder_objective",
@@ -1576,8 +1613,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1593,7 +1630,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_10_PVP_Spy_Syndicate_objective",
@@ -1618,8 +1656,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1635,7 +1673,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_10_PVP_Poach_Syndicate_objective",
@@ -1660,8 +1699,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1677,7 +1716,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_10_PVP_Control_Syndicate_objective",
@@ -1702,8 +1742,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1719,7 +1759,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_10_PVP_Spy_Covenant_objective",
@@ -1744,8 +1785,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1761,7 +1802,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_10_PVP_Poach_Covenant_objective",
@@ -1786,8 +1828,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1803,7 +1845,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_10_PVP_Control_Covenant_objective",
@@ -1828,8 +1871,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1845,7 +1888,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_1001_objective",
@@ -1870,8 +1914,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1887,7 +1931,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1002_objective",
@@ -1912,8 +1957,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1929,7 +1974,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1003_objective",
@@ -1954,8 +2000,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1971,7 +2017,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1004_objective",
@@ -1996,8 +2043,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2013,7 +2060,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1005_objective",
@@ -2038,8 +2086,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2055,7 +2103,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1006_objective",
@@ -2080,8 +2129,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2097,7 +2146,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1007_objective",
@@ -2122,8 +2172,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2139,7 +2189,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1008_objective",
@@ -2164,8 +2215,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2181,7 +2232,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1009_objective",
@@ -2206,8 +2258,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2223,7 +2275,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1010_objective",
@@ -2248,8 +2301,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2265,7 +2318,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1001_objective",
@@ -2290,8 +2344,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2307,7 +2361,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1002_objective",
@@ -2332,8 +2387,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2349,7 +2404,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1003_objective",
@@ -2374,8 +2430,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2391,7 +2447,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1004_objective",
@@ -2416,8 +2473,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2433,7 +2490,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1005_objective",
@@ -2458,8 +2516,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2475,7 +2533,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1006_objective",
@@ -2500,8 +2559,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2517,7 +2576,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1007_objective",
@@ -2542,8 +2602,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2559,7 +2619,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1008_objective",
@@ -2584,8 +2645,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2601,7 +2662,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1009_objective",
@@ -2626,8 +2688,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2643,7 +2705,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1010_objective",
@@ -2668,8 +2731,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2685,7 +2748,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1001_objective",
@@ -2710,8 +2774,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2727,7 +2791,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1002_objective",
@@ -2752,8 +2817,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2769,7 +2834,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1003_objective",
@@ -2794,8 +2860,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2811,7 +2877,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1004_objective",
@@ -2836,8 +2903,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2853,7 +2920,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1005_objective",
@@ -2878,8 +2946,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2895,7 +2963,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1006_objective",
@@ -2920,8 +2989,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2937,7 +3006,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1007_objective",
@@ -2962,8 +3032,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2979,7 +3049,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1008_objective",
@@ -3004,8 +3075,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3021,7 +3092,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1009_objective",
@@ -3046,8 +3118,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3063,7 +3135,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1010_objective",
@@ -3088,8 +3161,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3105,7 +3178,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1061_objective",
@@ -3130,8 +3204,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3147,7 +3221,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1062_objective",
@@ -3172,8 +3247,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3189,7 +3264,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1063_objective",
@@ -3214,8 +3290,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3231,7 +3307,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1064_objective",
@@ -3256,8 +3333,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3273,7 +3350,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1065_objective",
@@ -3298,8 +3376,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3315,7 +3393,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1066_objective",
@@ -3340,8 +3419,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3357,7 +3436,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1067_objective",
@@ -3382,8 +3462,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3399,7 +3479,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1068_objective",
@@ -3424,8 +3505,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3441,7 +3522,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1069_objective",
@@ -3466,8 +3548,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3483,7 +3565,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1070_objective",
@@ -3508,8 +3591,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3525,7 +3608,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1061_objective",
@@ -3550,8 +3634,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3567,7 +3651,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1062_objective",
@@ -3592,8 +3677,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3609,7 +3694,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1063_objective",
@@ -3634,8 +3720,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3651,7 +3737,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1064_objective",
@@ -3676,8 +3763,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3693,7 +3780,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1065_objective",
@@ -3718,8 +3806,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3735,7 +3823,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1066_objective",
@@ -3760,8 +3849,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3777,7 +3866,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1067_objective",
@@ -3802,8 +3892,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3819,7 +3909,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1068_objective",
@@ -3844,8 +3935,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3861,7 +3952,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1069_objective",
@@ -3886,8 +3978,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3903,7 +3995,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_1070_objective",
@@ -3928,8 +4021,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3945,7 +4038,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1061_objective",
@@ -3970,8 +4064,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3987,7 +4081,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1062_objective",
@@ -4012,8 +4107,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4029,7 +4124,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1063_objective",
@@ -4054,8 +4150,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4071,7 +4167,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1064_objective",
@@ -4096,8 +4193,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4113,7 +4210,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1065_objective",
@@ -4138,8 +4236,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4155,7 +4253,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1066_objective",
@@ -4180,8 +4279,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4197,7 +4296,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1067_objective",
@@ -4222,8 +4322,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4239,7 +4339,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1068_objective",
@@ -4264,8 +4365,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4281,7 +4382,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1069_objective",
@@ -4306,8 +4408,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4323,7 +4425,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_1070_objective",
@@ -4348,8 +4451,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4365,7 +4468,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_10_H_01_objective",
@@ -4390,8 +4494,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4407,7 +4511,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_10_H_02_objective",
@@ -4432,8 +4537,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4449,7 +4554,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_10_H_03_objective",
@@ -4474,8 +4580,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4491,7 +4597,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_10_EXP_01_objective",
@@ -4516,8 +4623,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4533,7 +4640,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_10_EXP_02_objective",
@@ -4558,8 +4666,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4575,7 +4683,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_10_EXP_03_objective",
@@ -4600,8 +4709,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4617,6 +4726,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     }
 ]

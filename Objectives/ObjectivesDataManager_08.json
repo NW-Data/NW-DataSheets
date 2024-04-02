@@ -1,6 +1,6 @@
 [
     {
-        "ObjectiveID": "0804_0804_FlowerForTheDeparted",
+        "ObjectiveID": "0826_0801_ToBeFree",
         "Type": "Journey",
         "Difficulty": "",
         "DifficultyLevel": null,
@@ -8,14 +8,14 @@
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "0804_0804_d_00_container_FlowerForTheDeparted",
-        "NpcDestinationId": "0804_Overseer",
+        "Task": "0826_0801_d_00_container_ToBeFree",
+        "NpcDestinationId": "0826_MaWeizhe",
         "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_04",
-        "RequiredAchievementId": "08_Quest_12",
+        "AchievementId": "08_Quest_18",
+        "RequiredAchievementId": "99F_MSQ_02",
         "RequiredFaction": "",
         "RequiredLevel": null,
-        "SuccessGameEventId": "0804_0804_FlowerForTheDeparted_success",
+        "SuccessGameEventId": "0826_0801_ToBeFree_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
@@ -23,14 +23,14 @@
         "ItemRewardName": "",
         "ItemRewardQty": null,
         "Repeatable": "",
-        "CanBeAbandoned": "1",
-        "Title": "Flower for the Departed",
-        "Description": "Place a Blossoming Flower on the Altar of the Departed in the Haunted Crypt for Elder Danya in the Ebonscale Reach Settlement.",
-        "PlayerPrompt": "\"That's not surprising.\"",
-        "ObjectiveProposalResponse": "You must understand - the people here - many have actually been given the comfort of eternal rest. \\n\\nIt's a blessing after they've endured so much at the hands of the Empress.",
-        "InProgressResponse": "The Blossoming Flower, for how full of life it is, should help the spirits rest.",
+        "CanBeAbandoned": "TRUE",
+        "Title": "To Be Free",
+        "Description": "Free the baby tigers for Ma Xinyi.",
+        "PlayerPrompt": "\"Fate can be cruel.\"",
+        "ObjectiveProposalResponse": "Even if the babies make it out alive, I doubt their minds will be intact. The innocent animals. We must help them!",
+        "InProgressResponse": "Those predators! These cubs are only their most recent victims. But imagine if we could free them all…",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "Oh, I was just reading a book of Bhakti kaal. Not enough to share I'm afraid.\\n\\nBut you placed the Blossoming Flower? Did it help the drowned Dynasty citizens find rest?",
+        "DestinationCompletionAvailableResponse": "The little ones roar their thanks. You have my gratitude, along with this humble reward.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -39,10 +39,54 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
-        "ObjectiveID": "0803_0811_TigerTiger",
+        "ObjectiveID": "0830_0801_Inevitable",
+        "Type": "Journey",
+        "Difficulty": "",
+        "DifficultyLevel": 55,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "0830_0801_d_00_container_Inevitable",
+        "NpcDestinationId": "08_ElderKemba",
+        "ExclusiveTerritory": null,
+        "AchievementId": "08_Quest_19",
+        "RequiredAchievementId": "99E_MSQ_10",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "0830_0801_Inevitable_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": null,
+        "Repeatable": "",
+        "CanBeAbandoned": "TRUE",
+        "Title": "Scourging The Scourge",
+        "Description": "Defeat Ivan The Scourge for Elder Danya.",
+        "PlayerPrompt": "\"Utter Nuisance, hmm...\"",
+        "ObjectiveProposalResponse": "WANTED by Order of Elder Danya: IVAN THE SCOURGE, Grave-Robber, now Lost Behemoth and Utter Nuisance, must be eliminated.",
+        "InProgressResponse": "WANTED by Order of Elder Danya: IVAN THE SCOURGE, Grave-Robber, now Lost Behemoth and Utter Nuisance, must be eliminated.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Ah! You've done us all a service. The reprobate made a habit of robbing graves before he lost his soul.",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
+    },
+    {
+        "ObjectiveID": "08a04_08a04_FlowerForTheDeparted",
         "Type": "Journey",
         "Difficulty": "",
         "DifficultyLevel": null,
@@ -50,14 +94,14 @@
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "0803_0811_d_00_container_TigerTiger",
-        "NpcDestinationId": "0803_Survivalist",
+        "Task": "08a04_08a04_d_00_container_FlowerForTheDeparted",
+        "NpcDestinationId": "08_ElderKemba",
         "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_11",
-        "RequiredAchievementId": "08_Quest_05",
+        "AchievementId": "08a_Quest_04",
+        "RequiredAchievementId": "08_Quest_19",
         "RequiredFaction": "",
         "RequiredLevel": null,
-        "SuccessGameEventId": "0803_0811_TigerTiger_success",
+        "SuccessGameEventId": "08a04_08a04_FlowerForTheDeparted_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
@@ -66,13 +110,13 @@
         "ItemRewardQty": null,
         "Repeatable": "",
         "CanBeAbandoned": "1",
-        "Title": "Tiger, Tiger",
-        "Description": "Defeat Tigers for Trophy Teeth and Defeat Makari at the Tiger Cave for Survivalist Hopkins in the Ebonscale Reach Settlement.",
-        "PlayerPrompt": "\"Tigers on Aeternum?\"",
-        "ObjectiveProposalResponse": "Damn straight, the Empress brought them from the old world, but they've evolved here and become even more dangerous. We have a bounty on them.\\n\\nThunder Cradle's where the Tigers den. Bring me their teeth, and you'll be rewarded.",
-        "InProgressResponse": "The Tigers were once pets from the Empress's royal menagerie, but they've learned to be free and wild here.\\n\\nYou'll not a hunt a more dangerous quarry.",
+        "Title": "Flowers for the Departed",
+        "Description": "Place the flowers at Skysong Crypt to check if Elder Danya's comrades have found peace.",
+        "PlayerPrompt": "\"The flowers will speak?\"",
+        "ObjectiveProposalResponse": "It's an ancient rite. Put a flower on a gravestone and if it blossoms there, the soul underneath lies peacefully.",
+        "InProgressResponse": "Have you placed the flowers at the crypt?",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "Looks like you really earned your stripes! In fact you could say you were absolutely purr-fect! Ha, don't give me that look, you know you love my puns.\\n\\nAnd here's your reward, master-hunter. You've earned it.",
+        "DestinationCompletionAvailableResponse": "You're back at last! Did you place the flowers safely? Did they bloom? How are my friends? Tell me everything!",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -80,11 +124,12 @@
         "ORMReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "EbonscaleReachArc1",
-        "HideAvailableMapIcon ": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
-        "ObjectiveID": "0802_0801_TheShowMustGoOn",
+        "ObjectiveID": "08a03_08a11_TigerTiger",
         "Type": "Journey",
         "Difficulty": "",
         "DifficultyLevel": null,
@@ -92,14 +137,186 @@
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "0802_0801_d_00_container_TheShowMustGoOn",
-        "NpcDestinationId": "0802_Magistrate",
+        "Task": "08a03_08a11_d_00_container_TigerTiger",
+        "NpcDestinationId": "0826_MaWeizhe_01",
         "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_01",
-        "RequiredAchievementId": "",
+        "AchievementId": "08a_Quest_11",
+        "RequiredAchievementId": "08_Quest_18 \u0026\u0026 99F_MSQ_06",
         "RequiredFaction": "",
-        "RequiredLevel": 49,
-        "SuccessGameEventId": "0802_0801_TheShowMustGoOn_success",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "08a03_08a11_TigerTiger_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": null,
+        "Repeatable": "",
+        "CanBeAbandoned": "1",
+        "Title": "The Corrupted Streak",
+        "Description": "Defeat the group of Corrupted tigers for Ma Xinyi and end the cycle.",
+        "PlayerPrompt": "\"Did she come back for her cubs?\"",
+        "ObjectiveProposalResponse": "Wishful thinking! The Corrupted forced her here to lure the cubs back to them. How do we break this cycle?",
+        "InProgressResponse": "Did you put the darlings to rest?",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Tigers will always have a special place with me…",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
+    },
+    {
+        "ObjectiveID": "0828_0801_Deadeye",
+        "Type": "Journey",
+        "Difficulty": "",
+        "DifficultyLevel": null,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "0828_0801_d_00_container_Deadeye",
+        "NpcDestinationId": "0828_YueLai",
+        "ExclusiveTerritory": null,
+        "AchievementId": "08_Quest_23",
+        "RequiredAchievementId": "99F_MSQ_04",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "0828_0801_Deadeye_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": null,
+        "Repeatable": "",
+        "CanBeAbandoned": "TRUE",
+        "Title": "The Mystery Within",
+        "Description": "Help Yue study the Corrupted nodule at Imperial Army Campsite.",
+        "PlayerPrompt": "\"Why don't you take a closer look?\"",
+        "ObjectiveProposalResponse": "I have no desire to get closer to Corrupted slime. But perhaps you could examine it? I have a few coins that I can offer.",
+        "InProgressResponse": "So, what do the Corrupted see in that that nodule?",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Ah, wonderful! Time to study this stone and understand how the Corrupted think…",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
+    },
+    {
+        "ObjectiveID": "0828_0802_Trinkets",
+        "Type": "Journey",
+        "Difficulty": "",
+        "DifficultyLevel": null,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "0828_0802_d_00_container_Trinkets",
+        "NpcDestinationId": "0828_YueLai_01",
+        "ExclusiveTerritory": null,
+        "AchievementId": "08_Quest_24",
+        "RequiredAchievementId": "08_Quest_23",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "0828_0802_Trinkets_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": null,
+        "Repeatable": "",
+        "CanBeAbandoned": "TRUE",
+        "Title": "Treasured Trinkets",
+        "Description": "Recover Chinese heirlooms from the Corrupted and give them to Yue so she can discover more about her past.",
+        "PlayerPrompt": "\"Didn't we do just that?\"",
+        "ObjectiveProposalResponse": "Not even close. The Corrupted take over our land, our people and now our memories. Why'd they need those artifacts, anyway?",
+        "InProgressResponse": "Any luck with the artifacts? Or are the Corrupted impossible to overcome?",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "I was an infant when I got here, and I know nothing of my old home — except from stories. This will help me learn of it!",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
+    },
+    {
+        "ObjectiveID": "0827_0801_Brothers",
+        "Type": "Journey",
+        "Difficulty": "",
+        "DifficultyLevel": null,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "0827_0801_d_00_container_Brothers",
+        "NpcDestinationId": "0827_Bardroy",
+        "ExclusiveTerritory": null,
+        "AchievementId": "08_Quest_15",
+        "RequiredAchievementId": "99F_MSQ_04",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "0827_0801_Brothers_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": null,
+        "Repeatable": "",
+        "CanBeAbandoned": "TRUE",
+        "Title": "Sins of the Brothers",
+        "Description": "Help Bardroy's sons, Bartolome and Bartholomew see sense and stop fighting each other.",
+        "PlayerPrompt": "\"Families stir powerful emotions.\"",
+        "ObjectiveProposalResponse": "I don't even remember what they're fighting over, and I doubt they do either. Killed each other repeatedly! I've had it. Go knock sense into 'em.",
+        "InProgressResponse": "I pray my boys are not too far gone. They may be addlepated idiots, but... they are mine.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "Those reckless loons. My plan didn't work! They're still at each other's throats. But I'll find a way to make them see reason… despite this being Lost business.",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
+    },
+    {
+        "ObjectiveID": "08a02_08a01_TheShowMustGoOn",
+        "Type": "Journey",
+        "Difficulty": "",
+        "DifficultyLevel": null,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "08a02_08a01_d_00_container_TheShowMustGoOn",
+        "NpcDestinationId": "08_Redridge",
+        "ExclusiveTerritory": null,
+        "AchievementId": "08a_Quest_01",
+        "RequiredAchievementId": "99E_MSQ_10",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "08a02_08a01_TheShowMustGoOn_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
@@ -109,12 +326,12 @@
         "Repeatable": "",
         "CanBeAbandoned": "1",
         "Title": "The Show Must Go On",
-        "Description": "Gather Black Pigment from Black Fungus around Ebonscale Reach for Magistrate Redridge.",
-        "PlayerPrompt": "\"Why is that?\"",
-        "ObjectiveProposalResponse": "We were betrayed by the Dynasty Empress, but we've adapted - we've learned that the secret is not forgetting what makes us human.\\n\\nThat's why practicing the arts remains one of our highest priorities.",
-        "InProgressResponse": "I do think the fungus will make for an excellent ink.\\n\\nThis is the only way we can pull off the production.",
+        "Description": "Get black ink from Void Pitchers so Magistrate Redridge may complete her play about the Empress.",
+        "PlayerPrompt": "\"Is anyone without weapons today?\"",
+        "ObjectiveProposalResponse": "No, no, no, that's not the answer. We give the wide-eyed masses an idea. A belief. We are more than a community. We are a symbol against darkness!",
+        "InProgressResponse": "Pray tell, did you get that fungus yet? The theatre eagerly awaits your contribution!",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "Ah, perfect! I'll start mixing the ink right away, and then I can recopy my script for 'The Empress's Journey'.\\n\\nI realize what a trifle this must seem in the face of the Corrupted, but we must follow through.",
+        "DestinationCompletionAvailableResponse": "Splendid! With this, I can complete 'The Empress's Journey' — my script! For the Empress. And her people!",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -122,11 +339,12 @@
         "ORMReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "EbonscaleReachArc3",
-        "HideAvailableMapIcon ": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
-        "ObjectiveID": "0805_0809_StudyInGreen",
+        "ObjectiveID": "08a05_08a09_StudyInGreen",
         "Type": "Journey",
         "Difficulty": "",
         "DifficultyLevel": null,
@@ -134,14 +352,14 @@
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "0805_0809_d_00_container_StudyInGreen",
-        "NpcDestinationId": "0805_Artificer",
+        "Task": "08a05_08a09_d_00_container_StudyInGreen",
+        "NpcDestinationId": "08_ArtificerLong",
         "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_09",
-        "RequiredAchievementId": "08_Quest_01",
+        "AchievementId": "08a_Quest_09",
+        "RequiredAchievementId": "99F_MSQ_07",
         "RequiredFaction": "",
         "RequiredLevel": null,
-        "SuccessGameEventId": "0805_0809_StudyInGreen_success",
+        "SuccessGameEventId": "08a05_08a09_StudyInGreen_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
@@ -151,12 +369,12 @@
         "Repeatable": "",
         "CanBeAbandoned": "1",
         "Title": "Study In Green",
-        "Description": "Collect Dryad Wood from the Ruins in Moss Mire for Artificer Long in the Ebonscale Reach Settlement.",
-        "PlayerPrompt": "\"Is there some way I can prove it?\"",
-        "ObjectiveProposalResponse": "Yes, support me in my work defending the settlement. I need materials for the armaments I would forge.\\n\\nI have the ores, but I need wood for the hafts and stocks. The Wood of the Dryads would be most effective.",
-        "InProgressResponse": "In her Corrupted madness, Empress Zhou believes she can build a fleet to sail back there, reclaim her throne and dominate with her Corruption across the whole world. Madness, pure madness.",
+        "Description": "Acquire Dryad Wood for Artificer Long to craft robust armor against the Corrupted.",
+        "PlayerPrompt": "\"She does exhude confidence.\"",
+        "ObjectiveProposalResponse": "Everyone says the same. Yet where would she be without the throne she sits on, the shrines she commands? I built them all.",
+        "InProgressResponse": "Well? Don't you have the Dryad Wood yet? I am waiting.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "Ah yes, this Dryad Wood will do nicely. The Angry Earth have a collective magic that is powerful against the Corrupted.\\n\\nThank you, this will help our settlement be better defended. This proves your heart is pure.",
+        "DestinationCompletionAvailableResponse": "Oh, I was right about you! Capable indeed - not many make it back alive. This wood will do nicely... The Empress thanks you!",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -164,11 +382,12 @@
         "ORMReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "EbonscaleReachArc2",
-        "HideAvailableMapIcon ": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
-        "ObjectiveID": "0811_0802_StatuetteStash",
+        "ObjectiveID": "08a11_08a02_StatuetteStash",
         "Type": "Journey",
         "Difficulty": "",
         "DifficultyLevel": null,
@@ -176,14 +395,14 @@
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "0811_0802_d_00_container_StatuetteStash",
-        "NpcDestinationId": "0811_Stranger",
+        "Task": "08a11_08a02_d_00_container_StatuetteStash",
+        "NpcDestinationId": "08_Zeng",
         "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_02",
-        "RequiredAchievementId": "",
+        "AchievementId": "08a_Quest_02",
+        "RequiredAchievementId": "99F_MSQ_06",
         "RequiredFaction": "",
-        "RequiredLevel": 49,
-        "SuccessGameEventId": "0811_0802_StatuetteStash_success",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "08a11_08a02_StatuetteStash_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
@@ -193,12 +412,12 @@
         "Repeatable": "",
         "CanBeAbandoned": "1",
         "Title": "Statuette Stash",
-        "Description": "Collect four Dragon Statuettes to deliver to Zeng Lingyun in Ebonscale so she can locate the dock leading to the Empress's fleet.",
-        "PlayerPrompt": "\"Do you know why she fell?\"",
-        "ObjectiveProposalResponse": "Yes. Her thirst for power overcame her sense of respect and decorum. It is a tragic tale.\\n\\nThe past is gone, however, and it is the present for which I am now concerned. The Empress is a threat to the entire world.",
-        "InProgressResponse": "The dragon statuettes are the only way to gain access to the Empress's docks.",
+        "Description": "Collect four Statuettes as told by handmaiden Zeng, to disrupt the Corrupted ritual.",
+        "PlayerPrompt": "\"Siphoning souls! But from where?\"",
+        "ObjectiveProposalResponse": "Master Qi has said every soul that enters a temple leaves an imprint upon the place.",
+        "InProgressResponse": "Hurry and gather the other statues before it is too late. We can't let the Corrupted get a hold of such power!",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "Ah, thank you. Empress Taiying fancies herself a dragon goddess, but she is only a human who has succumbed to Corruption.\\n\\nWith you as our champion, I believe we can bring her down for good.",
+        "DestinationCompletionAvailableResponse": "I'll store these statues carefully. We don't want them to break and unleash... whatever Corruption lies within.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -207,10 +426,11 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
-        "ObjectiveID": "0804_0812_CaptainsOrders",
+        "ObjectiveID": "08a04_08a12_CaptainsOrders",
         "Type": "Journey",
         "Difficulty": "",
         "DifficultyLevel": null,
@@ -218,14 +438,14 @@
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "0804_0812_d_00_container_CaptainsOrders",
-        "NpcDestinationId": "0804_Overseer",
+        "Task": "08a04_08a12_d_00_container_CaptainsOrders",
+        "NpcDestinationId": "0827_Bardroy_01",
         "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_12",
-        "RequiredAchievementId": "",
+        "AchievementId": "08a_Quest_12",
+        "RequiredAchievementId": "08_Quest_15 \u0026\u0026 99F_MSQ_08",
         "RequiredFaction": "",
-        "RequiredLevel": 49,
-        "SuccessGameEventId": "0804_0812_CaptainsOrders_success",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "08a04_08a12_CaptainsOrders_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
@@ -234,13 +454,13 @@
         "ItemRewardQty": null,
         "Repeatable": "",
         "CanBeAbandoned": "1",
-        "Title": "Captain's Orders",
-        "Description": "Defeat Undead Pirates and obtain the Captain's Puzzlebox for Elder Danya in the Ebonscale Reach Settlement.",
-        "PlayerPrompt": "\"I came from the southern territories.\"",
-        "ObjectiveProposalResponse": "Perfect, perfect. Then you are familiar with these Lost Pirates - they are plague down there, and here as well.\\n\\nThey also present us with an opportunity to acquire supplies we cannot get elsewhere.",
-        "InProgressResponse": "Find the Puzzlebox and recover the manifest within, and then you know what I value most in this world.",
+        "Title": "Family Puzzles",
+        "Description": "Return the puzzle box to Bardroy and discover the prize his sons were fighting to own.",
+        "PlayerPrompt": "\"What's in the box?\"",
+        "ObjectiveProposalResponse": "You helped me previously. I don't mind sharing what’s inside… if you retrieve it. Deal? Still in some cargo the pirates filched from me long time back.",
+        "InProgressResponse": "Did you find my puzzle box yet? You wouldn't be able to open it without me, mind. In case the greed got you too…",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "You have the manifest? Then you have found me out. \\n\\nThere is one thing I value in this world more than anything, and that is... Fine literature. Mmm.",
+        "DestinationCompletionAvailableResponse": "So, the contents of this box? Rum aged one-hundred years. A legend of the seas! Caramel. Smoky. As smooth as a lady's glove.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -249,10 +469,11 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
-        "ObjectiveID": "0805_0806_ShrineCleansing",
+        "ObjectiveID": "08a05_08a06_ShrineCleansing",
         "Type": "Journey",
         "Difficulty": "",
         "DifficultyLevel": null,
@@ -260,14 +481,14 @@
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "0805_0806_d_00_container_ShrineCleansing",
-        "NpcDestinationId": "0805_Artificer",
+        "Task": "08a05_08a06_d_00_container_ShrineCleansing",
+        "NpcDestinationId": "08_ArtificerLong_01",
         "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_06",
-        "RequiredAchievementId": "08_Quest_09",
+        "AchievementId": "08a_Quest_06",
+        "RequiredAchievementId": "99F_MSQ_08 \u0026\u0026 08a_Quest_09",
         "RequiredFaction": "",
         "RequiredLevel": null,
-        "SuccessGameEventId": "0805_0806_ShrineCleansing_success",
+        "SuccessGameEventId": "08a05_08a06_ShrineCleansing_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
@@ -276,13 +497,13 @@
         "ItemRewardQty": null,
         "Repeatable": "",
         "CanBeAbandoned": "1",
-        "Title": "Shrine Cleansing (Elite)",
-        "Description": "Cleanse the Dragon Shrine in the Dynasty Shrine for Artificer Long in the Ebonscale Reach Settlement.",
-        "PlayerPrompt": "\"Is there some way I can help?\"",
-        "ObjectiveProposalResponse": "Yes. The Dragon Shrine. The Empress and I shared a love for dragons, but she twisted my work into a nexus of evil.\\n\\nThe Corrupted now use the shrine to conduct foul rituals and concoct dark plans. It must be cleansed.",
-        "InProgressResponse": "The Dynasty Corrupted are a force to be reckoned with, and they are abetted by Corrupted from the Mainland.\\n\\nI would not be surprised if you encounter both at the Shrine.",
+        "Title": "Shrine Cleansing",
+        "Description": "Cleanse Skysong Shrine for Artificer Long.",
+        "PlayerPrompt": "\"No child should live like that.\"",
+        "ObjectiveProposalResponse": "Cure the abominable royal child while Corruption infects the land. My shrine needs cleansing and nobody offers to help!",
+        "InProgressResponse": "Sigh. I knew it. You really didn't intend to help me either, did you? My poor shrine wilts! From the inside out!",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "You saw it then? The Shrine I built for her, and what she did to it... overrun with all manner of Corrupted abominations. I was ashamed.\\n\\nThank for making it right again.",
+        "DestinationCompletionAvailableResponse": "You saw the shrine overrun with all manner of Corrupted horrors? I was afraid of that. Without cleansing, the Corrupted must have taken it over.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -290,11 +511,12 @@
         "ORMReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "EbonscaleReachArc2",
-        "HideAvailableMapIcon ": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
-        "ObjectiveID": "0805_0813_SkysongsEnd",
+        "ObjectiveID": "0828_0803_Legacy",
         "Type": "Journey",
         "Difficulty": "",
         "DifficultyLevel": null,
@@ -302,14 +524,100 @@
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "0805_0813_d_00_container_SkysongsEnd",
-        "NpcDestinationId": "0805_Artificer",
+        "Task": "0828_0803_d_00_container_Legacy",
+        "NpcDestinationId": "0828_YueLai_02",
         "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_13",
-        "RequiredAchievementId": "08_Quest_06",
+        "AchievementId": "08_Quest_25",
+        "RequiredAchievementId": "99F_MSQ_08 \u0026\u0026 08_Quest_24",
         "RequiredFaction": "",
         "RequiredLevel": null,
-        "SuccessGameEventId": "0805_0813_SkysongsEnd_success",
+        "SuccessGameEventId": "0828_0803_Legacy_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": null,
+        "Repeatable": "",
+        "CanBeAbandoned": "TRUE",
+        "Title": "Legacy Reclaimed",
+        "Description": "Collect Passenger Scrolls from the Corrupted for Yue to study.",
+        "PlayerPrompt": "\"You could learn about yourself.\"",
+        "ObjectiveProposalResponse": "Exactly! Apparently, the cabin would have had a list of passengers. I may find other people who traveled with me!",
+        "InProgressResponse": "Could the other passengers tell me about my life in China? Oh! Don't let them be Corrupted or Lost!",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "You did it! Please, let me see. Hm… According to this, a perfumer called Muthalaly was on the same journey.",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
+    },
+    {
+        "ObjectiveID": "0829_0801_LuckyRed",
+        "Type": "Journey",
+        "Difficulty": "",
+        "DifficultyLevel": null,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "0829_0801_d_00_container_LuckyRed",
+        "NpcDestinationId": "0829_Enlai",
+        "ExclusiveTerritory": null,
+        "AchievementId": "08_Quest_16",
+        "RequiredAchievementId": "99F_MSQ_08",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "0829_0801_LuckyRed_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "",
+        "ItemRewardQty": null,
+        "Repeatable": "",
+        "CanBeAbandoned": "TRUE",
+        "Title": "The Red Claw",
+        "Description": "Collect a Crimson Paw from Redclaw for a red dye for Xiang Enlai.",
+        "PlayerPrompt": "\"Why does she want red strings?\"",
+        "ObjectiveProposalResponse": "They're used in the Hair Combing ceremony. And that will protect us as a couple… if she'll have me.",
+        "InProgressResponse": "You will keep the details of this task between us, correct? I want Yue to think I fought the Red Claw myself.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "The Red Claw! Defeated? You're brave, like Yue. I hope she likes the red string and says 'yes'. Then we'll be married!",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
+    },
+    {
+        "ObjectiveID": "08a05_08a13_SkysongsEnd",
+        "Type": "Journey",
+        "Difficulty": "",
+        "DifficultyLevel": null,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "08a05_08a13_d_00_container_SkysongsEnd",
+        "NpcDestinationId": "08_ArtificerLong_02",
+        "ExclusiveTerritory": null,
+        "AchievementId": "08a_Quest_13",
+        "RequiredAchievementId": "99F_MSQ_08 \u0026\u0026 08a_Quest_06",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "08a05_08a13_SkysongsEnd_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
@@ -318,13 +626,13 @@
         "ItemRewardQty": null,
         "Repeatable": "",
         "CanBeAbandoned": "1",
-        "Title": "Skysong's End",
-        "Description": "Kill Corrupted forces at Skysong Lagoon to interrupt the Corrupted meeting. Then report back to Artificer Long  in the Ebonscale Reach Settlement.",
-        "PlayerPrompt": "\"We should break up this meeting.\"",
-        "ObjectiveProposalResponse": "That is a bold idea, and one which I would normally consider laughable, but you seem… quite capable.\\n\\nEven you must be careful however; the meeting is set to take place in the Skysong Lagoon Temple.",
-        "InProgressResponse": "These plans suggest the construction of the Empress's fleet is actually a joint effort now with the Tempest.\\n\\nDisrupting this meeting at the Temple may be the most important thing we can do.",
+        "Title": "Serenity In Chaos",
+        "Description": "Destroy Corrupted forces at Serenity Monastery. Then report back to Artificer Long.",
+        "PlayerPrompt": "\"What have you been doing?\"",
+        "ObjectiveProposalResponse": "Gathering intelligence for when the time is right to use it.",
+        "InProgressResponse": "Did you disrupt the meeting, or were you too busy thinking about what I should and shouldn't have done?",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "You did it, didn't you? Marched into the Temple and confronted both the Empress's and the Tempest's followers.\\n\\nThis is a victory that will go down in Aeternum history. I feel… quite happy about this, as well.",
+        "DestinationCompletionAvailableResponse": "The Empress's mind was clouded. I can see that yours is much clearer. I do value everything you've done for me.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -332,11 +640,12 @@
         "ORMReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "EbonscaleReachArc2",
-        "HideAvailableMapIcon ": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
-        "ObjectiveID": "0802_0808_CorruptedCritics",
+        "ObjectiveID": "0829_0802_StringsOfFate",
         "Type": "Journey",
         "Difficulty": "",
         "DifficultyLevel": null,
@@ -344,14 +653,57 @@
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "0802_0808_d_00_container_CorruptedCritics",
-        "NpcDestinationId": "0802_Magistrate",
+        "Task": "0829_0802_d_00_container_StringsOfFate",
+        "NpcDestinationId": "0829_Enlai_01",
         "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_08",
-        "RequiredAchievementId": "08_Quest_01",
+        "AchievementId": "08_Quest_17",
+        "RequiredAchievementId": "08_Quest_16 \u0026\u0026 99F_MSQ_08",
         "RequiredFaction": "",
         "RequiredLevel": null,
-        "SuccessGameEventId": "0802_0808_CorruptedCritics_success",
+        "SuccessGameEventId": "0829_0802_StringsOfFate_success",
+        "FailureGameEventId": "",
+        "ProgressionReward": "",
+        "ExperienceReward": "",
+        "ObjectiveReward": "",
+        "ItemRewardName": "GypsumOrb",
+        "ItemRewardQty": 1,
+        "Repeatable": "",
+        "CanBeAbandoned": "TRUE",
+        "Title": "Strings of Fate",
+        "Description": "Retrieve red strings from Dynasty Corrupted for Xiang Enlai and Yue.",
+        "PlayerPrompt": "\"Veins from a Corruption Swarmer?\"",
+        "ObjectiveProposalResponse": "Not quite. Yue wants the red strings the Imperial Guards use for their armor. It is tangible fabric. Could you help me once again?",
+        "InProgressResponse": "Once Yue and I are married, we'll spend our honeymoon in Everfall. I hear they have a never-ending banquet there.",
+        "DestinationCompletionAvailablePrompt": "Complete the Quest",
+        "DestinationCompletionAvailableResponse": "These are the perfect strings. I can't wait to show them to Yue. She'll say 'yes' to me now!",
+        "ObjectiveCompletionResponse": "",
+        "ObjectiveAcceptanceResponse": "",
+        "HideIncompleteTurninMarker": "",
+        "ORMReleaseEventTags": "",
+        "ORMReleaseActiveOverride": "",
+        "SkipReqAchievmentWhenInvalid": "",
+        "EntitlementId": "",
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
+    },
+    {
+        "ObjectiveID": "08a02_08a08a_CorruptedCritics",
+        "Type": "Journey",
+        "Difficulty": "",
+        "DifficultyLevel": null,
+        "MaxInfluenceLevel": "",
+        "FlagPvp": null,
+        "CanBeShared": null,
+        "CanFastTravel": null,
+        "Task": "08a02_08a08a_d_00_container_CorruptedCritics",
+        "NpcDestinationId": "08_Redridge_01",
+        "ExclusiveTerritory": null,
+        "AchievementId": "08a_Quest_08a",
+        "RequiredAchievementId": "99F_MSQ_09 \u0026\u0026 08a_Quest_01",
+        "RequiredFaction": "",
+        "RequiredLevel": null,
+        "SuccessGameEventId": "08a02_08a08a_CorruptedCritics_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
@@ -360,13 +712,13 @@
         "ItemRewardQty": null,
         "Repeatable": "",
         "CanBeAbandoned": "1",
-        "Title": "Corrupted Critics",
-        "Description": "Sabotage and pillage in the Serenity Monastery for Magistrate Redridge in the Ebonscale Reach Settlement.",
-        "PlayerPrompt": "\"How do we stop them?\"",
-        "ObjectiveProposalResponse": "Long ago, the Clifftop Monastery was a place where we could meditate and find solace, but these days, it rings with the din of the Corrupted.\\n\\nFrom up there, they spy on us and plot to sabotage our initiatives.",
-        "InProgressResponse": "Please, dearie, do make haste and visit the Clifftop Monastery.\\n\\nIf the Corrupted learn of our enterprise, they will try to take advantage of that.",
+        "Title": "Revenge of a Playwright",
+        "Description": "Sabotage the Corrupted operations as payback for spoiling Redridge's play.",
+        "PlayerPrompt": "\"We should sabotage them in turn.\"",
+        "ObjectiveProposalResponse": "Yes… Yes! We've been gentle with the Corrupted for too long. Think therefore on revenge and cease to weep!",
+        "InProgressResponse": "Let's teach the Corrupted it's NEVER a good idea to mess with the arts!",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "Finally, the Corrupted are paid back for spoiling the Monastery. This intelligence will prove useful too. \\n\\nMost importantly, however, we can now begin our rigorous rehearsal schedule.",
+        "DestinationCompletionAvailableResponse": "The Corrupted deserved everything you gave them and more. They will rue the day they hurt our Empress and my play!",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -374,26 +726,27 @@
         "ORMReleaseActiveOverride": "",
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
-        "QuestArcTag": "EbonscaleReachArc3",
-        "HideAvailableMapIcon ": ""
+        "QuestArcTag": "",
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
-        "ObjectiveID": "0811_0803_EndOfHerReign",
+        "ObjectiveID": "08a11_08a03_EndOfHerReign",
         "Type": "Journey",
         "Difficulty": "",
-        "DifficultyLevel": null,
+        "DifficultyLevel": 60,
         "MaxInfluenceLevel": "",
         "FlagPvp": null,
         "CanBeShared": null,
         "CanFastTravel": null,
-        "Task": "0811_0803_d_00_container_EndOfHerReign",
-        "NpcDestinationId": "0811_Stranger",
+        "Task": "08a11_08a03_d_00_container_EndOfHerReign",
+        "NpcDestinationId": "08_Zeng_01",
         "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_03",
-        "RequiredAchievementId": "08_Quest_02",
+        "AchievementId": "08a_Quest_03",
+        "RequiredAchievementId": "99F_MSQ_12 \u0026\u0026 08a_Quest_02",
         "RequiredFaction": "",
         "RequiredLevel": null,
-        "SuccessGameEventId": "0811_0803_EndOfHerReign_success",
+        "SuccessGameEventId": "08a11_08a03_EndOfHerReign_success",
         "FailureGameEventId": "",
         "ProgressionReward": "",
         "ExperienceReward": "",
@@ -403,12 +756,12 @@
         "Repeatable": "",
         "CanBeAbandoned": "0",
         "Title": "End of Her Reign (Expedition)",
-        "Description": "Enter the boat in the Dynasty Fortress, sail to the Dynasty Port, defeat Dynasty Captains and destroy her ships, and then defeat Empress Zhou Taiying herself. Then report back to Zeng Lingyun in the Ebonscale Settlement.",
-        "PlayerPrompt": "\"Where is she?\"",
-        "ObjectiveProposalResponse": "You will find her, and her entire fleet, within the Dynasty Shipyard. I do not know exactly where, so you will have to search inside. \\n\\nI hope you realize the importance of this - she cannot be permitted to launch that fleet.",
-        "InProgressResponse": "Whatever it takes, you must destroy Empress Taiying and her foul fleet.\\n\\nNot just for Aeternum, but for all the world.",
+        "Description": "Defeat Empress Zhou Taiying and her Captains. Then report back to Zeng Lingyun in the Ebonscale Settlement.",
+        "PlayerPrompt": "\"The Empress was loved.\"",
+        "ObjectiveProposalResponse": "I'd ask Liang for help, but his wounds are too fresh. Corrupted Empress Zhou besieges the docks with her 'loyal' handmaidens.",
+        "InProgressResponse": "I will wish you good fortune. Empress Zhou Taiying was always formidable. Perhaps even more so now in her Corruption…",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "Ah, I have heard the news - at last her dark reign has ended.\\n\\nThank you, Champion. You have put a deeply troubled soul to rest, and in doing so, you may have very well saved the world.",
+        "DestinationCompletionAvailableResponse": "News of your valor has reached us! It was a sad thing to ask of you… but I am grateful. The shipyards are safe. For now…",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -417,133 +770,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
-    },
-    {
-        "ObjectiveID": "0803_0805_EbonscaleAlligators",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": null,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "0803_0805_d_00_container_EbonscaleAlligators",
-        "NpcDestinationId": "0803_Survivalist",
-        "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_05",
-        "RequiredAchievementId": "",
-        "RequiredFaction": "",
-        "RequiredLevel": null,
-        "SuccessGameEventId": "0803_0805_EbonscaleAlligators_success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": null,
-        "Repeatable": "",
-        "CanBeAbandoned": "1",
-        "Title": "Ebonscale Alligators",
-        "Description": "Collect Ebony Scales from Ebonscale Alligators for Survivalist Hopkins in the Ebonscale Reach Settlement.",
-        "PlayerPrompt": "\"I'm always up for a challenge.\"",
-        "ObjectiveProposalResponse": "Excellent! Let's make it a competition, then! Who can skin the most Ebonscale Alligators?\\n\\nThere's a hollow in Moss Mire that teems with them. Gather their scales, and I'll make you a fine new gatorskin satchel.",
-        "InProgressResponse": "I have to admit that this challenge is not only for the bag and the bragging rights. \\n\\nThese alligators are a threat - have you ever been drowned and eaten by a gator? It's an experience that haunts you forever.",
-        "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "Impressive! As much as it pains me to say it, you are a better Insti-gator than I am! Heh? You like it? My pun game is as sharp as their teeth.\\n\\nAs promised, here is your new bag.",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "EbonscaleReachArc1",
-        "HideAvailableMapIcon ": ""
-    },
-    {
-        "ObjectiveID": "0810_0807_WhatMakesTheShallowsCrimson",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": null,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "0810_0807_d_00_container_WhatMakesTheShallowsCrimson",
-        "NpcDestinationId": "0810_Barkeep",
-        "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_07",
-        "RequiredAchievementId": "",
-        "RequiredFaction": "",
-        "RequiredLevel": null,
-        "SuccessGameEventId": "0810_0807_WhatMakesTheShallowsCrimson_success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": null,
-        "Repeatable": "",
-        "CanBeAbandoned": "1",
-        "Title": "What Makes the Shallows Crimson",
-        "Description": "Collect samples of life in the Crimson Shallows for Barkeep Bao in the Ebonscale Reach Settlement.",
-        "PlayerPrompt": "\"What makes it unique?\"",
-        "ObjectiveProposalResponse": "That's the question you can help answer! There are so many unanswered questions on Aeternum - it keeps me awake at night!\\n\\n If we could just answer this one, I would be happy. What makes the Crimson Shallows crimson?",
-        "InProgressResponse": "I'll need plants from the area as well as samples from the fauna that eat them. \\n\\nThank you for assisting me in this endeavor.",
-        "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "Wow, that is a lot of samples! I can certainly find the common element.\\n\\nI suspect it is an algae-like substance that, when exposed to heat, makes the Shallows red. We will soon find out!",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
-    },
-    {
-        "ObjectiveID": "0810_0814_Temple",
-        "Type": "Journey",
-        "Difficulty": "",
-        "DifficultyLevel": null,
-        "MaxInfluenceLevel": "",
-        "FlagPvp": null,
-        "CanBeShared": null,
-        "CanFastTravel": null,
-        "Task": "0810_0814_d_00_container_Temple",
-        "NpcDestinationId": "0810_Barkeep",
-        "ExclusiveTerritory": null,
-        "AchievementId": "08_Quest_14",
-        "RequiredAchievementId": "08_Quest_07",
-        "RequiredFaction": "",
-        "RequiredLevel": null,
-        "SuccessGameEventId": "0810_0814_Temple_success",
-        "FailureGameEventId": "",
-        "ProgressionReward": "",
-        "ExperienceReward": "",
-        "ObjectiveReward": "",
-        "ItemRewardName": "",
-        "ItemRewardQty": null,
-        "Repeatable": "",
-        "CanBeAbandoned": "1",
-        "Title": "Temple Troubles",
-        "Description": "Decimate the Corrupted Population of the Dynasty Mountain Temple and take out their leader Legarath. Then report back to Barkeep Bao in the Ebonscale Reach Settlement.",
-        "PlayerPrompt": "\"What sort of task did you have in mind?\"",
-        "ObjectiveProposalResponse": "There is a Dynasty Mountain Temple in Thunder Cradle overseen by a Corrupted warrior who goes by the name Legarath.\\n\\nIf you can bring down him and his Corrupted ilk it would help me greatly.",
-        "InProgressResponse": "Has Legarath bested you in battle? Please do not give up. I know his skills are nothing to be scoffed at but I sense power in you, too.\\n\\nPlease dish out justice in a way I cannot.",
-        "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "So Legarath and the soldiers who followed him into Corruption are defeated. It brings me some solace in the present, but my heart will take time to mend.",
-        "ObjectiveCompletionResponse": "",
-        "ObjectiveAcceptanceResponse": "",
-        "HideIncompleteTurninMarker": "",
-        "ORMReleaseEventTags": "",
-        "ORMReleaseActiveOverride": "",
-        "SkipReqAchievmentWhenInvalid": "",
-        "EntitlementId": "",
-        "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0899_0801_Liberation",
@@ -558,7 +786,7 @@
         "NpcDestinationId": "0899_Liberator",
         "ExclusiveTerritory": null,
         "AchievementId": "",
-        "RequiredAchievementId": "",
+        "RequiredAchievementId": "99F_MSQ_12",
         "RequiredFaction": "",
         "RequiredLevel": null,
         "SuccessGameEventId": "0899_0801_Liberation_success",
@@ -573,10 +801,10 @@
         "Title": "Justice For The Dynasty (Expedition)",
         "Description": "Obtain Dynasty Shackles from Dynasty Shipyard Lieutenants and return them to Liberator Guo outside the Dynasty Shipyards In Ebonscale.",
         "PlayerPrompt": "\"Where is the injustice?\"",
-        "ObjectiveProposalResponse": "You stand at the precipice of an operation that is centuries in the making. \\n\\nThe people of Zhou Taiying's Dynasty have been betrayed by her in her turn to Corruption.",
+        "ObjectiveProposalResponse": "You stand at the precipice of a critical operation for Ebonscale Reach. The people of Zhou Taiying's Dynasty have been betrayed by her turn to Corruption.",
         "InProgressResponse": "Taking these shackles away from the upper members of her court give adventurers and innocents a fighting chance in running from Taiying's terror.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "These devices are truly the tools of an oppressor.\\n\\nThank you for bringing them to me so I can melt down and repurpose them into something for the good of the people of the Dynasty.",
+        "DestinationCompletionAvailableResponse": "These devices are truly the tools of an oppressor. On behalf of the people of the Dynasty, I thank you. We will melt these down and make something good of them.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -585,7 +813,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0801_objective",
@@ -627,7 +856,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0802_objective",
@@ -669,7 +899,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0803_objective",
@@ -711,7 +942,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0804_objective",
@@ -753,7 +985,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0805_objective",
@@ -795,7 +1028,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0806_objective",
@@ -837,7 +1071,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0807_objective",
@@ -879,7 +1114,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0808_objective",
@@ -921,7 +1157,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0809_objective",
@@ -963,7 +1200,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0810_objective",
@@ -1005,7 +1243,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0801_objective",
@@ -1047,7 +1286,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0802_objective",
@@ -1089,7 +1329,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0803_objective",
@@ -1131,7 +1372,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0804_objective",
@@ -1173,7 +1415,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0805_objective",
@@ -1215,7 +1458,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0806_objective",
@@ -1257,7 +1501,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0807_objective",
@@ -1299,7 +1544,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0808_objective",
@@ -1341,7 +1587,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0809_objective",
@@ -1383,7 +1630,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0810_objective",
@@ -1425,7 +1673,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0801_objective",
@@ -1467,7 +1716,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0802_objective",
@@ -1509,7 +1759,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0803_objective",
@@ -1551,7 +1802,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0804_objective",
@@ -1593,7 +1845,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0805_objective",
@@ -1635,7 +1888,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0806_objective",
@@ -1677,7 +1931,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0807_objective",
@@ -1719,7 +1974,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0808_objective",
@@ -1761,7 +2017,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0809_objective",
@@ -1803,7 +2060,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0810_objective",
@@ -1845,7 +2103,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0861_objective",
@@ -1887,7 +2146,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0862_objective",
@@ -1929,7 +2189,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0863_objective",
@@ -1971,7 +2232,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0864_objective",
@@ -2013,7 +2275,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0865_objective",
@@ -2055,7 +2318,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0866_objective",
@@ -2097,7 +2361,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0867_objective",
@@ -2139,7 +2404,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0868_objective",
@@ -2181,7 +2447,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0869_objective",
@@ -2223,7 +2490,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0870_objective",
@@ -2265,7 +2533,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0861_objective",
@@ -2307,7 +2576,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0862_objective",
@@ -2349,7 +2619,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0863_objective",
@@ -2391,7 +2662,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0864_objective",
@@ -2433,7 +2705,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0865_objective",
@@ -2475,7 +2748,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0866_objective",
@@ -2517,7 +2791,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0867_objective",
@@ -2559,7 +2834,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0868_objective",
@@ -2601,7 +2877,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0869_objective",
@@ -2643,7 +2920,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0870_objective",
@@ -2685,7 +2963,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0861_objective",
@@ -2727,7 +3006,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0862_objective",
@@ -2769,7 +3049,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0863_objective",
@@ -2811,7 +3092,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0864_objective",
@@ -2853,7 +3135,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0865_objective",
@@ -2895,7 +3178,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0866_objective",
@@ -2937,7 +3221,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0867_objective",
@@ -2979,7 +3264,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0868_objective",
@@ -3021,7 +3307,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0869_objective",
@@ -3063,7 +3350,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0870_objective",
@@ -3105,7 +3393,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_08_PVP_Spy_Marauder_objective",
@@ -3147,7 +3436,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_08_PVP_Poach_Marauder_objective",
@@ -3189,7 +3479,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_08_PVP_Control_Marauder_objective",
@@ -3231,7 +3522,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_08_PVP_Spy_Syndicate_objective",
@@ -3273,7 +3565,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_08_PVP_Poach_Syndicate_objective",
@@ -3315,7 +3608,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_08_PVP_Control_Syndicate_objective",
@@ -3357,7 +3651,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_08_PVP_Spy_Covenant_objective",
@@ -3399,7 +3694,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_08_PVP_Poach_Covenant_objective",
@@ -3441,7 +3737,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_08_PVP_Control_Covenant_objective",
@@ -3483,7 +3780,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_08_H_01_objective",
@@ -3525,7 +3823,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_08_H_02_objective",
@@ -3567,7 +3866,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_08_H_03_objective",
@@ -3609,7 +3909,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_08_EXP_01_objective",
@@ -3651,7 +3952,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_08_EXP_02_objective",
@@ -3693,7 +3995,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_08_EXP_03_objective",
@@ -3735,6 +4038,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     }
 ]

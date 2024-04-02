@@ -5102,25 +5102,25 @@
     {
         "CategoryID": "TrinketBand",
         "ImagePath": "Icons/Items/Drawing/TrinketBand",
-        "DisplayText": "Trinket Bands",
+        "DisplayText": "",
         "Description": ""
     },
     {
         "CategoryID": "TrinketSetting",
         "ImagePath": "Icons/Items/Drawing/TrinketSetting",
-        "DisplayText": "Trinket Gem Settings",
+        "DisplayText": "",
         "Description": ""
     },
     {
         "CategoryID": "TrinketChain",
         "ImagePath": "Icons/Items/Drawing/TrinketChain",
-        "DisplayText": "Trinket Chains",
+        "DisplayText": "",
         "Description": ""
     },
     {
         "CategoryID": "TrinketHook",
         "ImagePath": "Icons/Items/Drawing/TrinketHook",
-        "DisplayText": "Trinket Hooks",
+        "DisplayText": "",
         "Description": ""
     },
     {
@@ -5199,6 +5199,30 @@
         "CategoryID": "TrinketHookT5",
         "ImagePath": "Icons/Items/Drawing/TrinketHook",
         "DisplayText": "Tier 5 Trinket Hooks",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketBandT52",
+        "ImagePath": "Icons/Items/Drawing/TrinketBand",
+        "DisplayText": "Trinket Bands",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketSettingT52",
+        "ImagePath": "Icons/Items/Drawing/TrinketSetting",
+        "DisplayText": "Trinket Gem Settings",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketChainT52",
+        "ImagePath": "Icons/Items/Drawing/TrinketChain",
+        "DisplayText": "Trinket Chains",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TrinketHookT52",
+        "ImagePath": "Icons/Items/Drawing/TrinketHook",
+        "DisplayText": "Trinket Hooks",
         "Description": ""
     },
     {
@@ -5589,6 +5613,12 @@
         "CategoryID": "Perch",
         "ImagePath": "",
         "DisplayText": "Perch",
+        "Description": ""
+    },
+    {
+        "CategoryID": "FishingTreasure",
+        "ImagePath": "",
+        "DisplayText": "Treasure Chest",
         "Description": ""
     },
     {

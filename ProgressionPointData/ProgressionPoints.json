@@ -336,8 +336,8 @@
         "UpgradeCardDescription": "Decrease \u0026lt;font color={color}\u0026gt;{stat}\u0026lt;/font\u0026gt; in {territory}.",
         "UpgradeCardSprite": "LyShineUI/Images/Territory/StandingRewards/TradingTax.dds",
         "UpgradeCardIcon": "LyShineUI/Images/Territory/StandingRewards/TradingTax_icon.dds",
-        "UpgradeCardCategory": "Trading Tax{info}",
-        "UpgradeCardStat": "Trading tax rate"
+        "UpgradeCardCategory": "Trading Fee{info}",
+        "UpgradeCardStat": "Trading Fee rate"
     },
     {
         "ProgressionPointId": "TB_TaxStations",

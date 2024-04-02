@@ -1855,8 +1855,8 @@ EliteWeapons:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    1hThrowingAxe_DarkWidowT5_V2                                                      1 FALSE      Level:57,ScorchMines 
-    1hRapier_ShallowGraveT5_V2                                                        1 FALSE      Level:57,ScorchMines 
+    1hThrowingAxe_DarkWidowT5_V2                                                      1 FALSE      Level:57,ScorchMinesUpper 
+    1hRapier_ShallowGraveT5_V2                                                        1 FALSE      Level:57,ScorchMinesUpper 
     2hGreataxe_BloodbaneReaverT5_V2                                                   1 FALSE      Level:57,MangledHeightsWest 
     1hLongsword_AThousandVoicesT5_V2                                                  1 FALSE      Level:57,MangledHeightsWest 
     1hKshield_EternalShadeT5_V2                                                       1 FALSE      Level:57,UpperSvikin 
@@ -2202,13 +2202,13 @@ EliteArmor:
     LightLegs_AngryEarthElite1T5                                                      1 FALSE      AngryEarth,MinContLevel:59 
     LightFeet_AngryEarthElite1T4                                                      1 FALSE      AngryEarth,MinContLevel:39-58 
     LightFeet_AngryEarthElite1T5                                                      1 FALSE      AngryEarth,MinContLevel:59 
-    Amulet_DiamondHeartT5                                                             1 FALSE      Level:57,ScorchMines 
-    LightChest_ElitePOI_HarbingerRobesT5_V2                                           1 FALSE      Level:57,ScorchMines 
-    MediumChest_ElitePOI_HarbingerRobesT5_V2                                          1 FALSE      Level:57,ScorchMines 
-    HeavyChest_ElitePOI_HarbingerRobesT5_V2                                           1 FALSE      Level:57,ScorchMines 
-    LightHands_ElitePOI_HarbingerRobesT5_V2                                           1 FALSE      Level:57,ScorchMines 
-    MediumHands_ElitePOI_HarbingerRobesT5_V2                                          1 FALSE      Level:57,ScorchMines 
-    HeavyHands_ElitePOI_HarbingerRobesT5_V2                                           1 FALSE      Level:57,ScorchMines 
+    Amulet_DiamondHeartT5                                                             1 FALSE      Level:57,ScorchMinesUpper 
+    LightChest_ElitePOI_HarbingerRobesT5_V2                                           1 FALSE      Level:57,ScorchMinesUpper 
+    MediumChest_ElitePOI_HarbingerRobesT5_V2                                          1 FALSE      Level:57,ScorchMinesUpper 
+    HeavyChest_ElitePOI_HarbingerRobesT5_V2                                           1 FALSE      Level:57,ScorchMinesUpper 
+    LightHands_ElitePOI_HarbingerRobesT5_V2                                           1 FALSE      Level:57,ScorchMinesUpper 
+    MediumHands_ElitePOI_HarbingerRobesT5_V2                                          1 FALSE      Level:57,ScorchMinesUpper 
+    HeavyHands_ElitePOI_HarbingerRobesT5_V2                                           1 FALSE      Level:57,ScorchMinesUpper 
     LightChest_ElitePOI_ArchmageT5_V2                                                 1 FALSE      Level:57,MangledHeightsWest 
     MediumChest_ElitePOI_HighwaymanT5_V2                                              1 FALSE      Level:57,MyrkgardNorth 
     HeavyChest_ElitePOI_AvengingBlacksmithT5_V2                                       1 FALSE      Level:57,MangledHeightsWest 
@@ -2724,8 +2724,6 @@ NamedWeaponsCreatures:
     RingT4_HoopoftheTwoKnights_V2                                                     1 FALSE      Level:42,Boneshatter 
     EarringT5_RudigersSailHook_V2                                                     1 FALSE      Level:51,Surgeon     
     AmuletT5_ProphecyFulfillmentCharm_V2                                              1 FALSE      Level:56,Light       
-    RingT5_HoopofTheCursedSon_V2                                                      1 FALSE      Level:56,NamedMage1  
-    AmuletT5_TheChainofZane_V2                                                        1 FALSE      Level:56,NamedMage2  
     EarringT4_TheMessengersToken_V2                                                   1 FALSE      Level:41,Bridge      
     1hKshield_CeremonialDefensesT3_V2                                                 1 FALSE      Level:18,Sentinel    
     2hSpear_CutthroatsJavelinT3_V2                                                    1 FALSE      Level:38,Spear       
@@ -3336,11 +3334,11 @@ DungeonBossGear:
     LightHead_Mask1_T3_V2                                                             1 FALSE      Level:29-59,Regent,ShatteredObelisk 
     1hRapier_RapierofForgottenQueensT4_V2                                             1 FALSE      Level:49-59-59,ShipyardMB,Ebonscale00 
     EarringT4_ShardofLithomancy_V2                                                    1 FALSE      Level:49-59-59,ShipyardMB,Ebonscale00 
-    1hLongsword_PromiseofPowerT4_V2                                                   1 FALSE      Level:49-59,IsabellaDynasty3,Ebonscale00 
-    2hSpear_FarseersSpearT4_V2                                                        1 FALSE      Level:49-59,IsabellaDynasty3,Ebonscale00 
-    RingT4_BandofOceansOath_V2                                                        1 FALSE      Level:49-59,IsabellaDynasty3,Ebonscale00 
-    EarringT4_BloodlinesCurseEarring_V2                                               1 FALSE      Level:49-59,IsabellaDynasty3,Ebonscale00 
-    1hThrowingAxe_DreadwakeT4_V2                                                      1 FALSE      Level:49-59,IsabellaDynasty3,Ebonscale00 
+    1hLongsword_PromiseofPowerT4_V2                                                   1 FALSE      Level:49-59,IsabellaDynasty,Ebonscale00 
+    2hSpear_FarseersSpearT4_V2                                                        1 FALSE      Level:49-59,IsabellaDynasty,Ebonscale00 
+    RingT4_BandofOceansOath_V2                                                        1 FALSE      Level:49-59,IsabellaDynasty,Ebonscale00 
+    EarringT4_BloodlinesCurseEarring_V2                                               1 FALSE      Level:49-59,IsabellaDynasty,Ebonscale00 
+    1hThrowingAxe_DreadwakeT4_V2                                                      1 FALSE      Level:49-59,IsabellaDynasty,Ebonscale00 
     2hStaffLife_GlowingLifecrystalStaffT4_V2                                          1 FALSE      Level:49-59,ZhouNaga,Ebonscale00 
     2hStaffFire_FlamewakeT4_V2                                                        1 FALSE      Level:49-59,ZhouNaga,Ebonscale00 
     2hBow_TempestsCallT4_V2                                                           1 FALSE      Level:49-59,ZhouNaga,Ebonscale00 
@@ -3464,11 +3462,11 @@ DungeonBossGear:
     2hMusket_TundraWardensRifleT4_V2                                                  1 FALSE      Level:0-59,MinContLevel:39-59,Despar,RestlessShores01 
     1hRapier_RapierofForgottenQueensT5_V2                                             1 FALSE      Level:59-59,ShipyardMB,Ebonscale00_Mut 
     EarringT5_ShardofLithomancy_V2                                                    1 FALSE      Level:59-59,ShipyardMB,Ebonscale00_Mut 
-    1hLongsword_PromiseofPowerT5_V2                                                   1 FALSE      Level:59-59,IsabellaDynasty3,Ebonscale00_Mut 
-    2hSpear_FarseersSpearT5_V2                                                        1 FALSE      Level:59-59,IsabellaDynasty3,Ebonscale00_Mut 
-    RingT5_BandofOceansOath_V2                                                        1 FALSE      Level:59-59,IsabellaDynasty3,Ebonscale00_Mut 
-    EarringT5_BloodlinesCurseEarring_V2                                               1 FALSE      Level:59-59,IsabellaDynasty3,Ebonscale00_Mut 
-    1hThrowingAxe_DreadwakeT5_V2                                                      1 FALSE      Level:59-59,IsabellaDynasty3,Ebonscale00_Mut 
+    1hLongsword_PromiseofPowerT5_V2                                                   1 FALSE      Level:59-59,IsabellaDynasty,Ebonscale00_Mut 
+    2hSpear_FarseersSpearT5_V2                                                        1 FALSE      Level:59-59,IsabellaDynasty,Ebonscale00_Mut 
+    RingT5_BandofOceansOath_V2                                                        1 FALSE      Level:59-59,IsabellaDynasty,Ebonscale00_Mut 
+    EarringT5_BloodlinesCurseEarring_V2                                               1 FALSE      Level:59-59,IsabellaDynasty,Ebonscale00_Mut 
+    1hThrowingAxe_DreadwakeT5_V2                                                      1 FALSE      Level:59-59,IsabellaDynasty,Ebonscale00_Mut 
     2hStaffLife_GlowingLifecrystalStaffT5_V2                                          1 FALSE      Level:59-59,ZhouNaga,Ebonscale00_Mut 
     2hStaffFire_FlamewakeT5_V2                                                        1 FALSE      Level:59-59,ZhouNaga,Ebonscale00_Mut 
     2hBow_TempestsCallT5_V2                                                           1 FALSE      Level:59-59,ZhouNaga,Ebonscale00_Mut 
@@ -3781,6 +3779,8 @@ DungeonBossGear:
     2hBow_Dungeon13_HailToTheKing                                                     1 FALSE      Level:64,GreatCleave00,CommanderLoth 
     2hGreatSword_Dungeon13_ColdHardTruth                                              1 FALSE      Level:64,GreatCleave00,CommanderLoth 
     1hFlail_Dungeon13_NorthStar                                                       1 FALSE      Level:64,GreatCleave00,CommanderLoth 
+    RingT5_HoopofTheCursedSon_V2                                                      1 FALSE      Level:56-59,NamedMage1 
+    AmuletT5_TheChainofZane_V2                                                        1 FALSE      Level:56-59,NamedMage2 
 RecoveryItems:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -3837,11 +3837,6 @@ CookingMeals:
     FoodHealthRecoveryT3                                                              1 FALSE      MinContLevel:19-38   
     FoodHealthRecoveryT4                                                              1 FALSE      MinContLevel:39-58   
     FoodHealthRecoveryT5                                                              1 FALSE      MinContLevel:59      
-    FoodManaT1                                                                        1 FALSE      MinContLevel:0-9     
-    FoodManaT2                                                                        1 FALSE      MinContLevel:10-19   
-    FoodManaT3                                                                        1 FALSE      MinContLevel:19-38   
-    FoodManaT4                                                                        1 FALSE      MinContLevel:39-58   
-    FoodManaT5                                                                        1 FALSE      MinContLevel:59      
 ArcanaRecoveryItems:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -5984,8 +5979,8 @@ DarknessWeaponBucket:
     2hGreatSwordDarknessBreachT3                                                      1 0          MinContLevel:19-38   
     2hGreatSwordDarknessBreachT4                                                      1 0          MinContLevel:39-58   
     2hGreatSwordDarknessBreachT5                                                      1 0          MinContLevel:59      
-    1hFlailDarknessBreachT3                                                           1 0          MinContLevel:59-64   
-    1hFlailDarknessBreachT4                                                           1 0          MinContLevel:59-64   
+    1hFlailDarknessBreachT3                                                           1 0          MinContLevel:19-38   
+    1hFlailDarknessBreachT4                                                           1 0          MinContLevel:39-58   
     1hFlailDarknessBreachT5                                                           1 0          MinContLevel:59-64   
 DarknessShieldsBucket:
   Contents: |
@@ -6965,6 +6960,7 @@ SchematicsT5:
     Schematic_RabbitHuntersBlunderbussT5                                              1 FALSE      MinContLevel:58-59   
     Schematic_CraftsmansPassionT5                                                     1 FALSE      MinContLevel:58-59   
     Schematic_HeavyKnightT5                                                           1 FALSE      MinContLevel:58-59   
+    WoodenCoin                                                                      1-2 0          MinContLevel:59      
 Artifacts:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -12973,110 +12969,35 @@ CookingRecipes:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    Recipe_FoodMinerT3                                                                1 FALSE      MinContLevel:16-38   
-    Recipe_FoodHarvesterT3                                                            1 FALSE      MinContLevel:16-38   
-    Recipe_FoodHunterT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodLumberjackT3                                                           1 FALSE      MinContLevel:16-38   
-    Recipe_FoodWeaponsmithT4                                                          1 FALSE      MinContLevel:36-58   
-    Recipe_FoodJewelcrafterT4                                                         1 FALSE      MinContLevel:36-58   
-    Recipe_FoodEngineerT4                                                             1 FALSE      MinContLevel:36-58   
-    Recipe_FoodArcanistT4                                                             1 FALSE      MinContLevel:36-58   
-    Recipe_FoodArmorerT4                                                              1 FALSE      MinContLevel:36-58   
-    Recipe_FoodMinerT4                                                                1 FALSE      MinContLevel:36-58   
-    Recipe_FoodHarvesterT4                                                            1 FALSE      MinContLevel:36-58   
-    Recipe_FoodHunterT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodLumberjackT4                                                           1 FALSE      MinContLevel:36-58   
-    Recipe_FoodWeaponsmithT5                                                          1 FALSE      MinContLevel:56      
-    Recipe_FoodJewelcrafterT5                                                         1 FALSE      MinContLevel:56      
-    Recipe_FoodEngineerT5                                                             1 FALSE      MinContLevel:56      
-    Recipe_FoodArcanistT5                                                             1 FALSE      MinContLevel:56      
-    Recipe_FoodArmorerT5                                                              1 FALSE      MinContLevel:56      
-    Recipe_FoodMinerT5                                                                1 FALSE      MinContLevel:56      
-    Recipe_FoodHarvesterT5                                                            1 FALSE      MinContLevel:56      
-    Recipe_FoodHunterT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodLumberjackT5                                                           1 FALSE      MinContLevel:56      
-    Recipe_FoodSTRT3                                                                  1 FALSE      MinContLevel:16-38   
-    Recipe_FoodSTRT4                                                                  1 FALSE      MinContLevel:36-58   
-    Recipe_FoodSTRT5                                                                  1 FALSE      MinContLevel:56      
-    Recipe_FoodSTRDEXT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodSTRDEXT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodSTRDEXT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodSTRINTT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodSTRINTT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodSTRINTT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodSTRCONT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodSTRCONT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodSTRCONT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodSTRFOCT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodSTRFOCT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodSTRFOCT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodDEXSTRT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodDEXSTRT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodDEXSTRT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodDEXT3                                                                  1 FALSE      MinContLevel:16-38   
-    Recipe_FoodDEXT4                                                                  1 FALSE      MinContLevel:36-58   
-    Recipe_FoodDEXT5                                                                  1 FALSE      MinContLevel:56      
-    Recipe_FoodDEXINTT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodDEXINTT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodDEXINTT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodDEXCONT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodDEXCONT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodDEXCONT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodDEXFOCT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodDEXFOCT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodDEXFOCT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodINTSTRT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodINTSTRT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodINTSTRT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodINTDEXT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodINTDEXT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodINTDEXT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodINTT3                                                                  1 FALSE      MinContLevel:16-38   
-    Recipe_FoodINTT4                                                                  1 FALSE      MinContLevel:36-58   
-    Recipe_FoodINTT5                                                                  1 FALSE      MinContLevel:56      
-    Recipe_FoodINTCONT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodINTCONT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodINTCONT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodINTFOCT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodINTFOCT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodINTFOCT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodCONSTRT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodCONSTRT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodCONSTRT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodCONDEXT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodCONDEXT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodCONDEXT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodCONINTT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodCONINTT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodCONINTT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodCONT3                                                                  1 FALSE      MinContLevel:16-38   
-    Recipe_FoodCONT4                                                                  1 FALSE      MinContLevel:36-58   
-    Recipe_FoodCONT5                                                                  1 FALSE      MinContLevel:56      
-    Recipe_FoodCONFOCT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodCONFOCT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodCONFOCT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodFOCSTRT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodFOCSTRT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodFOCSTRT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodFOCDEXT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodFOCDEXT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodFOCDEXT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodFOCINTT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodFOCINTT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodFOCINTT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodFOCCONT3                                                               1 FALSE      MinContLevel:16-38   
-    Recipe_FoodFOCCONT4                                                               1 FALSE      MinContLevel:36-58   
-    Recipe_FoodFOCCONT5                                                               1 FALSE      MinContLevel:56      
-    Recipe_FoodFOCT3                                                                  1 FALSE      MinContLevel:16-38   
-    Recipe_FoodFOCT4                                                                  1 FALSE      MinContLevel:36-58   
-    Recipe_FoodFOCT5                                                                  1 FALSE      MinContLevel:56      
+    Recipe_FoodWeaponsmithT5                                                          1 1          Windsward,Queensport,Reekwater 
+    Recipe_FoodJewelcrafterT5                                                         1 1          Everfall,Brimstone,Brightwood 
+    Recipe_FoodEngineerT5                                                             1 1          Monarchs,Shattered,Restless 
+    Recipe_FoodArcanistT5                                                             1 1          FirstLight,Edengrove,Mourning 
+    Recipe_FoodArmorerT5                                                              1 1          CutlassKeys,Mourning,Edengrove 
+    Recipe_FoodMinerT5                                                                1 1          Windsward,Queensport,Reekwater 
+    Recipe_FoodHarvesterT5                                                            1 1          Everfall,Brimstone,Brightwood 
+    Recipe_FoodHunterT5                                                               1 1          Monarchs,Shattered,Restless 
+    Recipe_FoodLumberjackT5                                                           1 1          FirstLight,Edengrove,Mourning 
+    Recipe_FoodSTRT3                                                                  1 1          Windsward,Monarchs,Everfall 
+    Recipe_FoodSTRT4                                                                  1 1          Weavers,Mourning,Restless 
+    Recipe_FoodSTRT5                                                                  1 1          GreatCleave,Shattered,Queensport,Brimstone,Firstlight 
+    Recipe_FoodDEXT3                                                                  1 1          Windsward,Monarchs,Everfall 
+    Recipe_FoodDEXT4                                                                  1 1          Weavers,Mourning,Restless 
+    Recipe_FoodDEXT5                                                                  1 1          GreatCleave,Shattered,Queensport,Brimstone,Firstlight 
+    Recipe_FoodINTT3                                                                  1 1          Windsward,Monarchs,Everfall 
+    Recipe_FoodINTT4                                                                  1 1          Weavers,Mourning,Restless 
+    Recipe_FoodINTT5                                                                  1 1          GreatCleave,Shattered,Queensport,Brimstone,Firstlight 
+    Recipe_FoodCONT3                                                                  1 1          Windsward,Monarchs,Everfall 
+    Recipe_FoodCONT4                                                                  1 1          Weavers,Mourning,Restless 
+    Recipe_FoodCONT5                                                                  1 1          GreatCleave,Shattered,Queensport,Brimstone,Firstlight 
+    Recipe_FoodFOCT3                                                                  1 1          Windsward,Monarchs,Everfall 
+    Recipe_FoodFOCT4                                                                  1 1          Weavers,Mourning,Restless 
+    Recipe_FoodFOCT5                                                                  1 1          GreatCleave,Shattered,Queensport,Brimstone,Firstlight 
     Recipe_FoodSTRT5b                                                                 1 FALSE      MinContLevel:59,Brimstone 
     Recipe_FoodDEXT5b                                                                 1 FALSE      MinContLevel:59,Brimstone 
     Recipe_FoodINTT5b                                                                 1 FALSE      MinContLevel:59,Brimstone 
     Recipe_FoodCONT5b                                                                 1 FALSE      MinContLevel:59,Brimstone 
     Recipe_FoodFOCT5b                                                                 1 FALSE      MinContLevel:59,Brimstone 
-    Recipe_FoodDOTT3                                                                  1 FALSE      MinContLevel:59,Brimstone 
-    Recipe_FoodDOTT4                                                                  1 FALSE      MinContLevel:59,Brimstone 
     Recipe_FoodDOTT5                                                                  1 FALSE      MinContLevel:59,Brimstone 
 ArenaKeyParts:
   Contents: |
@@ -13432,23 +13353,14 @@ PostCapResources:
     WoodT52                                                                       20-30 TRUE       PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
     RawhideT52                                                                    30-40 TRUE       PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
     FiberT52                                                                      30-40 TRUE       PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
+    OreT5                                                                         20-30 TRUE       PostCapMiningT1_B,PostCapMiningT2_B,PostCapMiningT3_B 
+    WoodT5                                                                        20-30 TRUE       PostCapLoggingT1_B,PostCapLoggingT2_B,PostCapLoggingT3_B 
+    RawhideT5                                                                     30-40 TRUE       PostCapSkinningT1_B,PostCapSkinningT2_B,PostCapSkinningT3_B 
+    FiberT5                                                                       30-40 TRUE       PostCapHarvestingT1_B,PostCapHarvestingT2_B,PostCapHarvestingT3_B 
 PostCapRecipes:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    Recipe_FoodMinerT3                                                                1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodHarvesterT3                                                            1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodHunterT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodLumberjackT3                                                           1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodWeaponsmithT4                                                          1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodJewelcrafterT4                                                         1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodEngineerT4                                                             1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodArcanistT4                                                             1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodArmorerT4                                                              1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodMinerT4                                                                1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodHarvesterT4                                                            1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodHunterT4                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodLumberjackT4                                                           1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
     Recipe_FoodWeaponsmithT5                                                          1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
     Recipe_FoodJewelcrafterT5                                                         1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
     Recipe_FoodEngineerT5                                                             1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
@@ -13461,75 +13373,15 @@ PostCapRecipes:
     Recipe_FoodSTRT3                                                                  1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
     Recipe_FoodSTRT4                                                                  1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
     Recipe_FoodSTRT5                                                                  1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodSTRDEXT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodSTRDEXT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodSTRDEXT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodSTRINTT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodSTRINTT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodSTRINTT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodSTRCONT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodSTRCONT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodSTRCONT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodSTRFOCT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodSTRFOCT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodSTRFOCT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodDEXSTRT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodDEXSTRT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodDEXSTRT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
     Recipe_FoodDEXT3                                                                  1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
     Recipe_FoodDEXT4                                                                  1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
     Recipe_FoodDEXT5                                                                  1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodDEXINTT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodDEXINTT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodDEXINTT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodDEXCONT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodDEXCONT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodDEXCONT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodDEXFOCT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodDEXFOCT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodDEXFOCT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodINTSTRT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodINTSTRT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodINTSTRT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodINTDEXT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodINTDEXT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodINTDEXT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
     Recipe_FoodINTT3                                                                  1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
     Recipe_FoodINTT4                                                                  1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
     Recipe_FoodINTT5                                                                  1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodINTCONT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodINTCONT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodINTCONT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodINTFOCT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodINTFOCT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodINTFOCT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodCONSTRT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodCONSTRT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodCONSTRT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodCONDEXT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodCONDEXT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodCONDEXT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodCONINTT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodCONINTT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodCONINTT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
     Recipe_FoodCONT3                                                                  1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
     Recipe_FoodCONT4                                                                  1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
     Recipe_FoodCONT5                                                                  1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodCONFOCT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodCONFOCT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodCONFOCT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodFOCSTRT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodFOCSTRT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodFOCSTRT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodFOCDEXT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodFOCDEXT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodFOCDEXT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodFOCINTT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodFOCINTT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodFOCINTT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
-    Recipe_FoodFOCCONT3                                                               1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodFOCCONT4                                                               1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
-    Recipe_FoodFOCCONT5                                                               1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
     Recipe_FoodFOCT3                                                                  1 TRUE       PostCapCookingT1,PostCapCookingT2,PostCapCookingT3,PostCapCookingT1_B,PostCapCookingT2_B,PostCapCookingT3_B 
     Recipe_FoodFOCT4                                                                  1 TRUE       PostCapCookingT2,PostCapCookingT3,PostCapCookingT2_B,PostCapCookingT3_B 
     Recipe_FoodFOCT5                                                                  1 TRUE       PostCapCookingT3,PostCapCookingT3_B 
@@ -14603,42 +14455,42 @@ BossShards:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
-    Shard_Heavy_Head                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Heavy_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Heavy_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Heavy_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Heavy_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Medium_Head                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Medium_Chest                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Medium_Hands                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Medium_Legs                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Medium_Feet                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Light_Head                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Light_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Light_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Light_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Light_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Sword                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_GreatAxe                                                                    1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_WarHammer                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Rapier                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Hatchet                                                                     1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Bow                                                                         1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Musket                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Blunderbuss                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_LifeStaff                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_FireStaff                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_IceGauntlet                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_VoidGauntlet                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Shield_Round                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Shield_Kite                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Shield_Tower                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Spear                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Ring                                                                        1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Amulet                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Earring                                                                     1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_GreatSword                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
-    Shard_Flail                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute 
+    Shard_Heavy_Head                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Heavy_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Heavy_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Heavy_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Heavy_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Medium_Head                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Medium_Chest                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Medium_Hands                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Medium_Legs                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Medium_Feet                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Light_Head                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Light_Chest                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Light_Hands                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Light_Legs                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Light_Feet                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Sword                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_GreatAxe                                                                    1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_WarHammer                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Rapier                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Hatchet                                                                     1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Bow                                                                         1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Musket                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Blunderbuss                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_LifeStaff                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_FireStaff                                                                   1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_IceGauntlet                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_VoidGauntlet                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Shield_Round                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Shield_Kite                                                                 1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Shield_Tower                                                                1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Spear                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Ring                                                                        1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Amulet                                                                      1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Earring                                                                     1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_GreatSword                                                                  1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
+    Shard_Flail                                                                       1 TRUE       Chardis,Greenskeeper,Isabella2,DryadSiren,DungeonThorpe,ZhouNaga,Regent,Simon,Marius,CommanderLoth,AnubianBrute,MammothDGBoss 
 WCPatterns:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -15308,6 +15160,11 @@ SE_Music_Common:
     Tavern_Mandolin_Part1_Page2                                                       1 FALSE                           
     Tavern_Drums_Part1_Page1                                                          1 FALSE                           
     Tavern_Drums_Part1_Page2                                                          1 FALSE                           
+    Gatherers_URBass_Part1_Page1                                                      1 FALSE                           
+    Honor_URBass_Part1_Page1                                                          1 FALSE                           
+    SapBrightwood_URBass_Part1_Page1                                                  1 FALSE                           
+    SecondComing_URBass_Part1_Page1                                                   1 FALSE                           
+    WindswardShack_URBass_Part1_Page1                                                 1 FALSE                           
 DevStreamEventGear0:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -21915,6 +21772,36 @@ JoelsHiddenTreasures:
     LightHands_ChitinT5                                                            None                                 
     LightLegs_ChitinT5                                                             None                                 
     LightFeet_ChitinT5                                                             None                                 
+    Artifact_SBArmorLightHead                                                      None                                 
+    Artifact_SBArmorLightChest                                                     None                                 
+    Artifact_SBArmorLightHands                                                     None                                 
+    Artifact_SBArmorLightLegs                                                      None                                 
+    Artifact_SBArmorLightFeet                                                      None                                 
+    Artifact_SBArmorMediumHead                                                     None                                 
+    Artifact_SBArmorMediumChest                                                    None                                 
+    Artifact_SBArmorMediumHands                                                    None                                 
+    Artifact_SBArmorMediumLegs                                                     None                                 
+    Artifact_SBArmorMediumFeet                                                     None                                 
+    Artifact_SBArmorHeavyHead                                                      None                                 
+    Artifact_SBArmorHeavyChest                                                     None                                 
+    Artifact_SBArmorHeavyHands                                                     None                                 
+    Artifact_SBArmorHeavyLegs                                                      None                                 
+    Artifact_SBArmorHeavyFeet                                                      None                                 
+    Artifact_SBArmor600LightHead                                                   None                                 
+    Artifact_SBArmor600LightChest                                                  None                                 
+    Artifact_SBArmor600LightHands                                                  None                                 
+    Artifact_SBArmor600LightLegs                                                   None                                 
+    Artifact_SBArmor600LightFeet                                                   None                                 
+    Artifact_SBArmor600MediumHead                                                  None                                 
+    Artifact_SBArmor600MediumChest                                                 None                                 
+    Artifact_SBArmor600MediumHands                                                 None                                 
+    Artifact_SBArmor600MediumLegs                                                  None                                 
+    Artifact_SBArmor600MediumFeet                                                  None                                 
+    Artifact_SBArmor600HeavyHead                                                   None                                 
+    Artifact_SBArmor600HeavyChest                                                  None                                 
+    Artifact_SBArmor600HeavyHands                                                  None                                 
+    Artifact_SBArmor600HeavyLegs                                                   None                                 
+    Artifact_SBArmor600HeavyFeet                                                   None                                 
 ProcWeapons_GuaranteeRare:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -22597,6 +22484,10 @@ ArtifactMaster:
     Artifact_Set1_1hGauntletIce                                                       1 False      Level:61,MinContLevel:61,IceGolemBoss,MutDiff1 
     Artifact_Set1_2hBow                                                               1 False      Level:61,MinContLevel:61,RainbowGorillaIce 
     Artifact_Set1_1hRoundShield                                                       1 False      Level:61,MinContLevel:61,IceMammoth 
+    Artifact_Set2_1hThrowingAxe                                                       1 False      Level:61,MinContLevel:61,ColossusMemnon 
+    Artifact_Set2_2hGreatAxe                                                          1 False      Trial_S5_BonusLoot   
+    Artifact_Set1_MediumFeet                                                          1 False      Level:61,MinContLevel:61,SunFlower 
+    Artifact_Set1_LightHands                                                          1 False      Level:61,MinContLevel:61,MoonFlower 
 ArtifactMasterPvP:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -23083,6 +22974,79 @@ ArtifactMasterOPR:
     ________________________________________________________________________________________________________________
     Artifact_Set1_Lightfeet                                                           1 False      Level:61-64          
     Artifact_Set1_LightLegs                                                           1 False      Level:61-64          
+ArtfiactMasterTrials:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    Artifact_Set2_MediumChest                                                         1 False      Level:61-64,AwardAngryEarthEvent 
+    Artifact_Set2_HeavyHands                                                          1 False      Level:61-64,AwardSwampBeastEvent 
+    Artifact_Set2_2hSpear                                                             1 False      Level:61-64,AwardLostEvent 
+Trial_S5_Armor:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    LightChest_Trial_S5_T5                                                            1 FALSE                           
+    LightHead_Trial_S5_T5                                                             1 FALSE                           
+    LightLegs_Trial_S5_T5                                                             1 FALSE                           
+    LightFeet_Trial_S5_T5                                                             1 FALSE                           
+    LightHands_Trial_S5_T5                                                            1 FALSE                           
+    MediumChest_Trial_S5_T5                                                           1 FALSE                           
+    MediumHead_Trial_S5_T5                                                            1 FALSE                           
+    MediumLegs_Trial_S5_T5                                                            1 FALSE                           
+    MediumFeet_Trial_S5_T5                                                            1 FALSE                           
+    MediumHands_Trial_S5_T5                                                           1 FALSE                           
+    HeavyChest_Trial_S5_T5                                                            1 FALSE                           
+    HeavyHead_Trial_S5_T5                                                             1 FALSE                           
+    HeavyLegs_Trial_S5_T5                                                             1 FALSE                           
+    HeavyFeet_Trial_S5_T5                                                             1 FALSE                           
+    HeavyHands_Trial_S5_T5                                                            1 FALSE                           
+Trial_S5_Weapons:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    2hBow_Trial_S5_T5                                                                 1 False                           
+    2hGreatAxe_Trial_S5_T5                                                            1 False                           
+    1hSword_Trial_S5_T5                                                               1 False                           
+    2hMusket_Trial_S5_T5                                                              1 False                           
+    1hRapier_Trial_S5_T5                                                              1 False                           
+    2hSpear_Trial_S5_T5                                                               1 False                           
+    1hHatchet_Trial_S5_T5                                                             1 False                           
+    2hWarhammer_Trial_S5_T5                                                           1 False                           
+    2hFireStaff_Trial_S5_T5                                                           1 False                           
+    2hLifeStaff_Trial_S5_T5                                                           1 False                           
+    1hGauntletIce_Trial_S5_T5                                                         1 False                           
+    1hGauntletVoid_Trial_S5_T5                                                        1 False                           
+    2hBlunderbuss_Trial_S5_T5                                                         1 False                           
+    2hGreatsword_Trial_S5_T5                                                          1 False                           
+    1hFlail_Trial_S5_T5                                                               1 False                           
+    1hRoundShield_Trial_S5_T5                                                         1 False                           
+    1hKiteShield_Trial_S5_T5                                                          1 False                           
+    1hTowerShield_Trial_S5_T5                                                         1 False                           
+Trial_S5_Named:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    LightChest_Trial_S5_NamedT5                                                       1 False                           
+    LightHead_Trial_S5_NamedT5                                                        1 False                           
+    LightLegs_Trial_S5_NamedT5                                                        1 False                           
+    LightFeet_Trial_S5_NamedT5                                                        1 False                           
+    LightHands_Trial_S5_NamedT5                                                       1 False                           
+    MediumChest_Trial_S5_NamedT5                                                      1 False                           
+    MediumHead_Trial_S5_NamedT5                                                       1 False                           
+    MediumLegs_Trial_S5_NamedT5                                                       1 False                           
+    MediumFeet_Trial_S5_NamedT5                                                       1 False                           
+    MediumHands_Trial_S5_NamedT5                                                      1 False                           
+    HeavyChest_Trial_S5_NamedT5                                                       1 False                           
+    HeavyHead_Trial_S5_NamedT5                                                        1 False                           
+    HeavyLegs_Trial_S5_NamedT5                                                        1 False                           
+    HeavyFeet_Trial_S5_NamedT5                                                        1 False                           
+    HeavyHands_Trial_S5_NamedT5                                                       1 False                           
+    2hWarhammer_Trial_S5_NamedT5                                                      1 False                           
+    2hSpear_Trial_S5_NamedT5                                                          1 False                           
+    2hMusket_Trial_S5_NamedT5                                                         1 False                           
+    1hFlail_Trial_S5_NamedT5                                                          1 False                           
+    2hStaffLife_Trial_S5_NamedT5                                                      1 False                           
+    2hStaffFire_Trial_S5_NamedT5                                                      1 False                           
 PvP_PrestigeGS600Equipment:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags

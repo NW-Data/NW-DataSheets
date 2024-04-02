@@ -23,8 +23,8 @@
         "ItemRewardName": "95_s01_01_Bag",
         "ItemRewardQty": 1,
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Silver Crows",
         "Description": "Grace O'Malley has developed a plan to found an enterprising new group of heroes who can work together to face the threats of Aeternum and possibly earn a little coin in the process.",
         "PlayerPrompt": "\"Give up on escaping Aeternum?\"",
@@ -40,7 +40,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "95_s01_03_CROW_BestOfAeternum",
@@ -66,8 +67,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": null,
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Best of Aeternum",
         "Description": "The Silver Crows need more members. Work with Grace to find additional heroes to join the group.",
         "PlayerPrompt": "\"I can help with recruiting too.\"",
@@ -83,7 +84,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "95_s01_04_CROW_ZanderTheRed",
@@ -109,8 +111,8 @@
         "ItemRewardName": "95_s01_05_2hWarhammer",
         "ItemRewardQty": 1,
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Zander the Undying",
         "Description": "Grace has a great candidate in mind. Locate Zander the Undying and convince him to join the Crows.",
         "PlayerPrompt": "\"Impressive. Where's Zander now?\"",
@@ -126,7 +128,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "95_s01_05_CROW_CanonAndCoin",
@@ -152,8 +155,8 @@
         "ItemRewardName": "DarkMatter",
         "ItemRewardQty": 40,
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Canon and Coin",
         "Description": "Help Zander find a way out of his organization.",
         "PlayerPrompt": "\"What happened to him?\"",
@@ -169,7 +172,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "95_s01_X1_EXPD_Empyrean",
@@ -195,8 +199,8 @@
         "ItemRewardName": "95_s01_e03_2hGreatAxe",
         "ItemRewardQty": 1,
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Empyrean Forge (Expedition)",
         "Description": "Shailyn wants to uncover what Loth and his Varangians are doing in the Forge. Help her find Loth.",
         "PlayerPrompt": "\"Why would you want that?\"",
@@ -212,7 +216,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "95_s01_X2_EXPD_EmpyreanRepeat",
@@ -238,8 +243,8 @@
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
         "ShouldResetOnFactionChange": "",
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "A Toymaker's Request (Expedition)",
         "Description": "Otmar is interested in collecting rare Apatite Gems to make runeglass to make his \"toys.\" Help him find the gems in the Empyrean Forge.",
         "PlayerPrompt": "\"I might.\"",
@@ -255,6 +260,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Daily"
     }
 ]

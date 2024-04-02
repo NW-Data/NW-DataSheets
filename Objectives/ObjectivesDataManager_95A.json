@@ -23,8 +23,8 @@
         "ItemRewardName": "s02_SatyrFlute",
         "ItemRewardQty": 1,
         "ShouldResetOnFactionChange": "",
-        "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+        "Repeatable": "",
         "Title": "Voices of the Desert",
         "Description": "Grace O'Malley is suggesting I approach a bard named Rima Bahar about joining the Silver Crows.",
         "PlayerPrompt": "\"A new recruit? Tell me more.\"",
@@ -40,7 +40,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "95A_T01_RiseoftheBeast",
@@ -66,8 +67,8 @@
         "ItemRewardName": "s02_Quest_2hBow",
         "ItemRewardQty": 1,
         "ShouldResetOnFactionChange": "",
-        "Repeatable": "",
         "CanBeAbandoned": "TRUE",
+        "Repeatable": "",
         "Title": "Rise of the Beast",
         "Description": "I met a historian by the name of Phaedra Kanelos, who fancies herself something of a poet. She is looking to write the next great epic like her hero Homer, and is hoping that by defeating the Devourer, I will become a hero not unlike those in her favorite stories.",
         "PlayerPrompt": "“Can I help you?\"",
@@ -83,7 +84,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "95A_T02_RiseoftheHero",
@@ -109,8 +111,8 @@
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
         "ShouldResetOnFactionChange": "",
-        "Repeatable": "TRUE",
         "CanBeAbandoned": "TRUE",
+        "Repeatable": "TRUE",
         "Title": "Rise of the Hero",
         "Description": "Phaedra is still writing her epic, and wants to collect more notes to really make her story stand out. She has asked that I once again confront a Devourer and bring her the tales of my fight with it.",
         "PlayerPrompt": "“Did you need something more?\"",
@@ -126,6 +128,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Daily"
     }
 ]

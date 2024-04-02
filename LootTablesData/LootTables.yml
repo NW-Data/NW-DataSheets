@@ -2079,7 +2079,7 @@ OrichalcumOreVeinFinishSmall:
   AND/OR: AND
   Item1:
     Name: OreT5
-    Qty: 15-21
+    Qty: 19-21
     Threshold: '0'
   Item2:
     Name: '[LTID]GemsT3_Precious'
@@ -2115,7 +2115,7 @@ OrichalcumOreVeinFinishMedium:
   AND/OR: AND
   Item1:
     Name: OreT5
-    Qty: 22-31
+    Qty: 28-31
     Threshold: '0'
   Item2:
     Name: '[LTID]GemsT3_Precious'
@@ -2151,7 +2151,7 @@ OrichalcumOreVeinFinishLarge:
   AND/OR: AND
   Item1:
     Name: OreT5
-    Qty: 32-45
+    Qty: 39-45
     Threshold: '0'
   Item2:
     Name: '[LTID]GemsT3_Precious'
@@ -2187,7 +2187,7 @@ OrichalcumSpire:
   AND/OR: AND
   Item1:
     Name: OreT5
-    Qty: 1-11
+    Qty: 6-11
     Threshold: '0'
   Item2:
     Name: '[LTID]GemsT3'
@@ -2483,7 +2483,7 @@ MythrilOreVeinFinishSmall:
   AND/OR: AND
   Item1:
     Name: OreT52
-    Qty: 15-21
+    Qty: 15-18
     Threshold: '0'
   Item2:
     Name: '[LTID]GemsT4_Precious'
@@ -2519,7 +2519,7 @@ MythrilOreVeinFinishMedium:
   AND/OR: AND
   Item1:
     Name: OreT52
-    Qty: 22-31
+    Qty: 22-25
     Threshold: '0'
   Item2:
     Name: '[LTID]GemsT4_Precious'
@@ -2555,7 +2555,7 @@ MythrilOreVeinFinishLarge:
   AND/OR: AND
   Item1:
     Name: OreT52
-    Qty: 32-45
+    Qty: 32-36
     Threshold: '0'
   Item2:
     Name: '[LTID]GemsT4_Precious'
@@ -10497,14 +10497,18 @@ ChestLootEliteItemBonusRoll:
   RollBonusSetting: ClampMax
   AND/OR: OR
   Item1:
+    Name: '[LTID]ChestLootElitePOIGearRoll'
+    Qty: '1'
+    Threshold: '65000'
+  Item2:
     Name: '[LTID]ChestLootEliteFurnitureRoll'
     Qty: '1'
     Threshold: '85000'
-  Item2:
+  Item3:
     Name: '[LBID]CraftingClothing'
     Qty: '1'
     Threshold: '95000'
-  Item3:
+  Item4:
     Name: '[LTID]MountRewardChance'
     Qty: '1'
     Threshold: '0'
@@ -10558,7 +10562,7 @@ ChestLootElitePOIGearRoll:
     Name: '[LBID]EliteArmor'
     Qty: '1'
     Threshold: '60000'
-  MaxRoll: 0
+  MaxRoll: 100000
 ChestLootEliteFurnitureRoll:
   RollBonusSetting: ClampMax
   AND/OR: OR
@@ -10839,6 +10843,36 @@ AzothSaltVialTwoSalvage:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100
+CreatureLootRaid:
+  RollBonusSetting: ClampMax
+  AND/OR: AND
+  Conditions: Raid
+  Item1:
+    Name: '[LBID]ProcRaid'
+    Qty: 3-5
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]Raid_BonusNamed'
+    Qty: 1-2
+    Threshold: '0'
+  Item3:
+    Name: '[LBID]RaidHousing'
+    Qty: 1-2
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]RaidNamed'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100000
+Raid_BonusNamed:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: RaidBoss_BonusNamed
+  Item1:
+    Name: '[LBID]RaidNamed'
+    Qty: '1'
+    Threshold: '85000'
+  MaxRoll: 100000
 CreatureLootMaster:
   RollBonusSetting: ClampMax
   AND/OR: AND
@@ -11030,7 +11064,7 @@ ArtifactsMaster:
   Item1:
     Name: '[LBID]ArtifactMaster'
     Qty: '1'
-    Threshold: '80000'
+    Threshold: '0'
   MaxRoll: 100000
 GypsumYellowTable:
   RollBonusSetting: AddToRoll
@@ -11477,7 +11511,7 @@ ContainerLootCookingSmall:
   Item3:
     Name: '[LBID]CookingRecipes'
     Qty: '1'
-    Threshold: '95000'
+    Threshold: '98000'
   MaxRoll: 100000
 ContainerCookingBucketsSmall:
   RollBonusSetting: AddToRoll
@@ -11506,7 +11540,7 @@ ContainerLootCookingLarge:
   Item3:
     Name: '[LBID]CookingRecipes'
     Qty: '1'
-    Threshold: '80000'
+    Threshold: '95000'
   MaxRoll: 100000
 ContainerCookingBucketsLarge:
   RollBonusSetting: AddToRoll
@@ -11610,11 +11644,11 @@ ContainerLootSmall:
   Item3:
     Name: '[LBID]AttributeItems'
     Qty: '1'
-    Threshold: '82500'
+    Threshold: '79500'
   Item4:
     Name: '[LBID]ContainerResourcesRare'
     Qty: '1'
-    Threshold: '92500'
+    Threshold: '87500'
   Item5:
     Name: '[LTID]RareContainerList'
     Qty: '1'
@@ -11622,7 +11656,7 @@ ContainerLootSmall:
   Item6:
     Name: '[LBID]FemPattern'
     Qty: '1'
-    Threshold: '92500'
+    Threshold: '87499'
   MaxRoll: 100000
 ContainerLootSmallAmmoRoll:
   RollBonusSetting: AddToRoll
@@ -11702,11 +11736,11 @@ ContainerAncientLootSmall:
   Item3:
     Name: '[LBID]AttributeItems'
     Qty: '1'
-    Threshold: '80000'
+    Threshold: '79500'
   Item4:
     Name: '[LBID]ContainerResourcesRare'
     Qty: '1'
-    Threshold: '92500'
+    Threshold: '87500'
   Item5:
     Name: '[LTID]RareContainerList'
     Qty: '1'
@@ -15961,10 +15995,6 @@ DarknessMajorT5:
     Name: '[LBID]EventDropDarkness'
     Qty: '1'
     Threshold: '0'
-  Item3:
-    Name: '[LBID]ArtifactMasterDarkness'
-    Qty: '1'
-    Threshold: '90000'
   MaxRoll: 100000
 DarknessMajorRollT3:
   RollBonusSetting: AddToRoll
@@ -17782,7 +17812,7 @@ DarknessMajor2EventLoot65:
   Item3:
     Name: '[LBID]ArtifactMasterDarkness'
     Qty: '1'
-    Threshold: '97000'
+    Threshold: '0'
   MaxRoll: 100000
 GypsumPurpleDarknessRoll:
   RollBonusSetting: AddToRoll
@@ -18475,6 +18505,10 @@ AwardLostEvent:
     Name: '[LTID]PvE_Umbrals'
     Qty: '1'
     Threshold: '0'
+  Item4:
+    Name: '[LBID]ArtfiactMasterTrials'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 AwardAngryEarthEvent:
   RollBonusSetting: AddToRoll
@@ -18491,6 +18525,10 @@ AwardAngryEarthEvent:
     Name: '[LTID]PvE_Umbrals'
     Qty: '1'
     Threshold: '0'
+  Item4:
+    Name: '[LBID]ArtfiactMasterTrials'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 AwardSwampBeastEvent:
   RollBonusSetting: AddToRoll
@@ -18505,6 +18543,10 @@ AwardSwampBeastEvent:
     Threshold: '0'
   Item3:
     Name: '[LTID]PvE_Umbrals'
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LBID]ArtfiactMasterTrials'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
@@ -19105,19 +19147,19 @@ FactionEnlistmentBoxMarauder:
     Qty: '5'
     Threshold: '0'
   Item3:
-    Name: FoodSTRCONT2
+    Name: FoodSTRT2
     Qty: '2'
     Threshold: '0'
   Item4:
-    Name: FoodDEXCONT2
+    Name: FoodDEXT2
     Qty: '2'
     Threshold: '0'
   Item5:
-    Name: FoodINTCONT2
+    Name: FoodINTT2
     Qty: '2'
     Threshold: '0'
   Item6:
-    Name: FoodFOCCONT2
+    Name: FoodFOCT2
     Qty: '2'
     Threshold: '0'
   MaxRoll: 100000
@@ -19133,19 +19175,19 @@ FactionEnlistmentBoxCovenant:
     Qty: '5'
     Threshold: '0'
   Item3:
-    Name: FoodSTRCONT2
+    Name: FoodSTRT2
     Qty: '2'
     Threshold: '0'
   Item4:
-    Name: FoodDEXCONT2
+    Name: FoodDEXT2
     Qty: '2'
     Threshold: '0'
   Item5:
-    Name: FoodINTCONT2
+    Name: FoodINTT2
     Qty: '2'
     Threshold: '0'
   Item6:
-    Name: FoodFOCCONT2
+    Name: FoodFOCT2
     Qty: '2'
     Threshold: '0'
   MaxRoll: 100000
@@ -19161,19 +19203,19 @@ FactionEnlistmentBoxSyndicate:
     Qty: '5'
     Threshold: '0'
   Item3:
-    Name: FoodSTRCONT2
+    Name: FoodSTRT2
     Qty: '2'
     Threshold: '0'
   Item4:
-    Name: FoodDEXCONT2
+    Name: FoodDEXT2
     Qty: '2'
     Threshold: '0'
   Item5:
-    Name: FoodINTCONT2
+    Name: FoodINTT2
     Qty: '2'
     Threshold: '0'
   Item6:
-    Name: FoodFOCCONT2
+    Name: FoodFOCT2
     Qty: '2'
     Threshold: '0'
   MaxRoll: 100000
@@ -19326,7 +19368,7 @@ QuestReward_MB_HealthPotion_Pouch:
   AND/OR: AND
   Item1:
     Name: PotionHealthT1
-    Qty: '3'
+    Qty: '5'
     Threshold: '0'
   Item2:
     Name: RedMeatT1
@@ -19338,15 +19380,15 @@ QuestReward_MB_Potion_Pouch:
   AND/OR: AND
   Item1:
     Name: PotionHealthT2
-    Qty: '3'
+    Qty: '5'
     Threshold: '0'
   Item2:
     Name: PotionManaT2
-    Qty: '2'
+    Qty: '5'
     Threshold: '0'
   Item3:
     Name: PotionRegenT1
-    Qty: '2'
+    Qty: '10'
     Threshold: '0'
   MaxRoll: 1
 QuestReward_MB_Potion_Pouch2:
@@ -19354,15 +19396,15 @@ QuestReward_MB_Potion_Pouch2:
   AND/OR: AND
   Item1:
     Name: PotionHealthT2
-    Qty: '5'
+    Qty: '8'
     Threshold: '0'
   Item2:
     Name: PotionManaT2
-    Qty: '3'
+    Qty: '8'
     Threshold: '0'
   Item3:
     Name: PotionRegenT1
-    Qty: '3'
+    Qty: '12'
     Threshold: '0'
   MaxRoll: 1
 QuestReward_MB_TackleBox:
@@ -19453,11 +19495,11 @@ QuestReward_MB_Treatbox:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Item1:
-    Name: FoodDEXFOCT2
+    Name: FoodDEXT2
     Qty: '1'
     Threshold: '0'
   Item2:
-    Name: FoodSTRFOCT3
+    Name: FoodSTRT3
     Qty: '1'
     Threshold: '0'
   Item3:
@@ -19469,15 +19511,15 @@ QuestReward_MB_Honeybox:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Item1:
-    Name: FoodDEXFOCT2
+    Name: FoodDEXT2
     Qty: '2'
     Threshold: '0'
   Item2:
-    Name: FoodSTRFOCT2
+    Name: FoodSTRT3
     Qty: '2'
     Threshold: '0'
   Item3:
-    Name: FoodCONDEXT2
+    Name: FoodCONT2
     Qty: '2'
     Threshold: '0'
   MaxRoll: 1
@@ -19941,11 +19983,11 @@ QuestReward_ZQ2EG_Container03:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Item1:
-    Name: foodarmorert4
+    Name: foodarmorert5
     Qty: '1'
     Threshold: '0'
   Item2:
-    Name: recipe_foodarmorert4
+    Name: recipe_foodarmorert5
     Qty: '1'
     Threshold: '0'
   MaxRoll: 1
@@ -21272,6 +21314,22 @@ Throwable_Item:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
+LightningFields_Core_Throwable_Item:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: LightningFields_Core_Throwable_Item
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100000
+MSQ_Empress_Cannon_Throwable:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: MSQ_Empress_Cannon
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100000
 ForemanReward:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -21299,7 +21357,7 @@ MushroomFoodBox:
   AND/OR: AND
   UseLevelGS: 'TRUE'
   Item1:
-    Name: FoodSTRCONT3
+    Name: FoodSTRT3
     Qty: '2'
     Threshold: '0'
   Item2:
@@ -22966,7 +23024,7 @@ WorldEvent_Crassus_BonusOverride:
     Threshold: '0'
   Item4:
     Name: DarkMatter
-    Qty: '100'
+    Qty: '15'
     Threshold: '0'
   Item5:
     Name: '[LTID]WorldEvent_Crassus_PerkCheck'

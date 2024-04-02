@@ -326,16 +326,31 @@
                 "value": 358666504
             }
         },
-        "equipped tag ignore classes": [
-            157
-        ],
-        "loot biasing item classes": [
-            121,
-            141
-        ],
-        "loot biasing exception item classes": [
-            157
-        ],
+        "equipped tag ignore classes": {
+            "__type": "734b2005-8cd7-5561-b79f-58ed4eb9c0c2",
+            "element": {
+                "__type": "32737b9c-7a9f-547a-868d-79e601645fc8",
+                "m_valuecrc": 1910557831
+            }
+        },
+        "loot biasing item classes": {
+            "__type": "734b2005-8cd7-5561-b79f-58ed4eb9c0c2",
+            "element": {
+                "__type": "32737b9c-7a9f-547a-868d-79e601645fc8",
+                "m_valuecrc": 3207069436
+            },
+            "element": {
+                "__type": "32737b9c-7a9f-547a-868d-79e601645fc8",
+                "m_valuecrc": 3207069436
+            }
+        },
+        "loot biasing exception item classes": {
+            "__type": "734b2005-8cd7-5561-b79f-58ed4eb9c0c2",
+            "element": {
+                "__type": "32737b9c-7a9f-547a-868d-79e601645fc8",
+                "m_valuecrc": 1910557831
+            }
+        },
         "attribute bias exclusive label": {
             "__type": "EditCrc",
             "m_valuestr": "Attribute",
@@ -1167,7 +1182,7 @@
             {
                 "__type": "AZStd::pair",
                 "value1": 25,
-                "value2": 5
+                "value2": 1
             },
             {
                 "__type": "AZStd::pair",
@@ -1323,6 +1338,14 @@
             "m_valuecrc": {
                 "__type": "Crc32",
                 "value": 478585345
+            }
+        },
+        "0xe59c0140": {
+            "__type": "EditCrc",
+            "m_valuestr": "CK_FFA_AREA_ENTERED",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 3136611030
             }
         },
         "first house flat discount": 500000
@@ -2647,6 +2670,14 @@
                 "landmark data": [
                     "SummerMedley_TrophyStation1"
                 ]
+            },
+            {
+                "__type": "TaskInteractEntryData",
+                "interact tag": "Specialty_Doubloon",
+                "landmark type": 11,
+                "landmark data": [
+                    "Specialty_DoubloonShop1"
+                ]
             }
         ],
         "destinationoverrideinteracttag": "ReturnToGiver"
@@ -2662,7 +2693,7 @@
             "99_MSQ_26 || 99B_MSQ_10",
             "99_MSQ_34 || 99C_MSQ_12",
             "99_MSQ_45 || 99E_MSQ_09",
-            "99_MSQ_56 || 99E_MSQ_11"
+            "99_MSQ_56 || 99E_MSQ_11 || 99G_MSQ_09"
         ],
         "azothstaffitemids": [
             {
@@ -2993,6 +3024,24 @@
                 "alwayscheckmilestone": true,
                 "milestoneversionadded": 2,
                 "teleportcontext": 25
+            },
+            {
+                "__type": "MilestoneCorrectionEntryData",
+                "milestoneachievement": "",
+                "milestoneplayerlevel": 0,
+                "invalidterritories": [
+                    9120
+                ],
+                "relocation territory ids": [
+                    30044,
+                    30051,
+                    30052,
+                    30053,
+                    30054
+                ],
+                "alwayscheckmilestone": true,
+                "milestoneversionadded": 3,
+                "teleportcontext": 26
             }
         ]
     }

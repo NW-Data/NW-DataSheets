@@ -1064,7 +1064,7 @@ OrichalcumOreVeinFinishSmall:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0      15-21 OreT5                                                       
+    Item1               0      19-21 OreT5                                                       
     Item2           95000          1 [LTID]GemsT3_Precious                                       
     Item3          101800          1 [LTID]MiningResourcesOrichalcum                             
     Item4          101800          1 [LTID]MiningResourcesOrichalcumT51                          
@@ -1079,7 +1079,7 @@ OrichalcumOreVeinFinishMedium:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0      22-31 OreT5                                                       
+    Item1               0      28-31 OreT5                                                       
     Item2           92500          1 [LTID]GemsT3_Precious                                       
     Item3          101800          1 [LTID]MiningResourcesOrichalcum                             
     Item4          101800          1 [LTID]MiningResourcesOrichalcumT51                          
@@ -1094,7 +1094,7 @@ OrichalcumOreVeinFinishLarge:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0      32-45 OreT5                                                       
+    Item1               0      39-45 OreT5                                                       
     Item2           90000        1-2 [LTID]GemsT3_Precious                                       
     Item3          101800          1 [LTID]MiningResourcesOrichalcum                             
     Item4          101800          1 [LTID]MiningResourcesOrichalcumT51                          
@@ -1109,7 +1109,7 @@ OrichalcumSpire:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0       1-11 OreT5                                                       
+    Item1               0       6-11 OreT5                                                       
     Item2           90000          1 [LTID]GemsT3                                                
     Item3          101000          1 [LTID]MiningResources                                       
     Item4          100100         99 OreT5                                                       
@@ -1249,7 +1249,7 @@ MythrilOreVeinFinishSmall:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0      15-21 OreT52                                                      
+    Item1               0      15-18 OreT52                                                      
     Item2           90000          1 [LTID]GemsT4_Precious                                       
     Item3          101800          1 [LTID]MiningResourcesOrichalcum                             
     Item4          101800          1 [LTID]MiningResourcesOrichalcumT51                          
@@ -1264,7 +1264,7 @@ MythrilOreVeinFinishMedium:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0      22-31 OreT52                                                      
+    Item1               0      22-25 OreT52                                                      
     Item2           87500          1 [LTID]GemsT4_Precious                                       
     Item3          101800          1 [LTID]MiningResourcesOrichalcum                             
     Item4          101800          1 [LTID]MiningResourcesOrichalcumT51                          
@@ -1279,7 +1279,7 @@ MythrilOreVeinFinishLarge:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0      32-45 OreT52                                                      
+    Item1               0      32-36 OreT52                                                      
     Item2           85000        1-2 [LTID]GemsT4_Precious                                       
     Item3          101800          1 [LTID]MiningResourcesOrichalcum                             
     Item4          101800          1 [LTID]MiningResourcesOrichalcumT51                          
@@ -5958,9 +5958,10 @@ ChestLootEliteItemBonusRoll:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1           85000          1 [LTID]ChestLootEliteFurnitureRoll                           
-    Item2           95000          1 [LBID]CraftingClothing                                      
-    Item3               0          1 [LTID]MountRewardChance                                     
+    Item1           65000          1 [LTID]ChestLootElitePOIGearRoll                             
+    Item2           85000          1 [LTID]ChestLootEliteFurnitureRoll                           
+    Item3           95000          1 [LBID]CraftingClothing                                      
+    Item4               0          1 [LTID]MountRewardChance                                     
 ChestLootEliteGearGuarantee:
   RollBonusSetting: AddToRoll
   AND/OR: OR
@@ -5990,7 +5991,7 @@ ChestLootElitePOIGearRoll:
   AND/OR: OR
   UseLevelGS: 'TRUE'
   HWMMult: 15
-  MaxRoll: 0
+  MaxRoll: 100000
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
@@ -6246,6 +6247,27 @@ AzothSaltVialTwoSalvage:
     __________________________________________________________________________________________
     Item1               0          1 AzothSaltVialT1                                             
     Item2               0          1 AzothSaltVialT1                                             
+CreatureLootRaid:
+  RollBonusSetting: ClampMax
+  AND/OR: AND
+  Conditions: Raid
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0        3-5 [LBID]ProcRaid                                              
+    Item2               0        1-2 [LTID]Raid_BonusNamed                                       
+    Item3               0        1-2 [LBID]RaidHousing                                           
+    Item4               0          1 [LBID]RaidNamed                                             
+Raid_BonusNamed:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: RaidBoss_BonusNamed
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1           85000          1 [LBID]RaidNamed                                             
 CreatureLootMaster:
   RollBonusSetting: ClampMax
   AND/OR: AND
@@ -6336,7 +6358,7 @@ ArtifactsMaster:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1           80000          1 [LBID]ArtifactMaster                                        
+    Item1               0          1 [LBID]ArtifactMaster                                        
 GypsumYellowTable:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -6645,7 +6667,7 @@ ContainerLootCookingSmall:
     __________________________________________________________________________________________
     Item1               0        1-2 [LTID]ContainerCookingBucketsSmall                          
     Item2           25000          1 [LBID]DayNightFishBait                                      
-    Item3           95000          1 [LBID]CookingRecipes                                        
+    Item3           98000          1 [LBID]CookingRecipes                                        
 ContainerCookingBucketsSmall:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -6665,7 +6687,7 @@ ContainerLootCookingLarge:
     __________________________________________________________________________________________
     Item1               0        3-4 [LTID]ContainerCookingBucketsLarge                          
     Item2           25000        2-3 [LBID]DayNightFishBait                                      
-    Item3           80000          1 [LBID]CookingRecipes                                        
+    Item3           95000          1 [LBID]CookingRecipes                                        
 ContainerCookingBucketsLarge:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -6730,10 +6752,10 @@ ContainerLootSmall:
     __________________________________________________________________________________________
     Item1               0          1 [LTID]ContainerLootSmallAmmoRoll                            
     Item2           32500          1 [LBID]ContainerResources                                    
-    Item3           82500          1 [LBID]AttributeItems                                        
-    Item4           92500          1 [LBID]ContainerResourcesRare                                
+    Item3           79500          1 [LBID]AttributeItems                                        
+    Item4           87500          1 [LBID]ContainerResourcesRare                                
     Item5           97500          1 [LTID]RareContainerList                                     
-    Item6           92500          1 [LBID]FemPattern                                            
+    Item6           87499          1 [LBID]FemPattern                                            
 ContainerLootSmallAmmoRoll:
   RollBonusSetting: AddToRoll
   AND/OR: OR
@@ -6786,8 +6808,8 @@ ContainerAncientLootSmall:
     __________________________________________________________________________________________
     Item1               0          1 [LBID]ArcanaReagents                                        
     Item2           45000          1 [LBID]Ammo                                                  
-    Item3           80000          1 [LBID]AttributeItems                                        
-    Item4           92500          1 [LBID]ContainerResourcesRare                                
+    Item3           79500          1 [LBID]AttributeItems                                        
+    Item4           87500          1 [LBID]ContainerResourcesRare                                
     Item5           97500          1 [LTID]RareContainerList                                     
 ContainerLootLarge:
   RollBonusSetting: ClampMax
@@ -9218,7 +9240,6 @@ DarknessMajorT5:
     __________________________________________________________________________________________
     Item1               0          2 [LTID]DarknessMajorRollT5                                   
     Item2               0          1 [LBID]EventDropDarkness                                     
-    Item3           90000          1 [LBID]ArtifactMasterDarkness                                
 DarknessMajorRollT3:
   RollBonusSetting: AddToRoll
   AND/OR: OR
@@ -10052,7 +10073,7 @@ DarknessMajor2EventLoot65:
     __________________________________________________________________________________________
     Item1               0          1 [LBID]DarknessMajor2Containers65                            
     Item2               0          1 [LTID]GypsumPurpleDarknessRoll                              
-    Item3           97000          1 [LBID]ArtifactMasterDarkness                                
+    Item3               0          1 [LBID]ArtifactMasterDarkness                                
 GypsumPurpleDarknessRoll:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10505,6 +10526,7 @@ AwardLostEvent:
     Item1               0          1 [LBID]LostContainers                                        
     Item2               0          1 [LTID]PvE_OrangeGypsum                                      
     Item3               0          1 [LTID]PvE_Umbrals                                           
+    Item4               0          1 [LBID]ArtfiactMasterTrials                                  
 AwardAngryEarthEvent:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10515,6 +10537,7 @@ AwardAngryEarthEvent:
     Item1               0          1 [LBID]AngryEarthContainers                                  
     Item2               0          1 [LTID]PvE_OrangeGypsum                                      
     Item3               0          1 [LTID]PvE_Umbrals                                           
+    Item4               0          1 [LBID]ArtfiactMasterTrials                                  
 AwardSwampBeastEvent:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10525,6 +10548,7 @@ AwardSwampBeastEvent:
     Item1               0          1 [LBID]SwampBeastContainers                                  
     Item2               0          1 [LTID]PvE_OrangeGypsum                                      
     Item3               0          1 [LTID]PvE_Umbrals                                           
+    Item4               0          1 [LBID]ArtfiactMasterTrials                                  
 Arena_PVP_Limit_ReachedEvent:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10915,10 +10939,10 @@ FactionEnlistmentBoxMarauder:
     __________________________________________________________________________________________
     Item1               0          5 HoningStoneT2                                               
     Item2               0          5 RepairKitT3                                                 
-    Item3               0          2 FoodSTRCONT2                                                
-    Item4               0          2 FoodDEXCONT2                                                
-    Item5               0          2 FoodINTCONT2                                                
-    Item6               0          2 FoodFOCCONT2                                                
+    Item3               0          2 FoodSTRT2                                                   
+    Item4               0          2 FoodDEXT2                                                   
+    Item5               0          2 FoodINTT2                                                   
+    Item6               0          2 FoodFOCT2                                                   
 FactionEnlistmentBoxCovenant:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10928,10 +10952,10 @@ FactionEnlistmentBoxCovenant:
     __________________________________________________________________________________________
     Item1               0          5 HoningStoneT2                                               
     Item2               0          5 RepairKitT3                                                 
-    Item3               0          2 FoodSTRCONT2                                                
-    Item4               0          2 FoodDEXCONT2                                                
-    Item5               0          2 FoodINTCONT2                                                
-    Item6               0          2 FoodFOCCONT2                                                
+    Item3               0          2 FoodSTRT2                                                   
+    Item4               0          2 FoodDEXT2                                                   
+    Item5               0          2 FoodINTT2                                                   
+    Item6               0          2 FoodFOCT2                                                   
 FactionEnlistmentBoxSyndicate:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10941,10 +10965,10 @@ FactionEnlistmentBoxSyndicate:
     __________________________________________________________________________________________
     Item1               0          5 HoningStoneT2                                               
     Item2               0          5 RepairKitT3                                                 
-    Item3               0          2 FoodSTRCONT2                                                
-    Item4               0          2 FoodDEXCONT2                                                
-    Item5               0          2 FoodINTCONT2                                                
-    Item6               0          2 FoodFOCCONT2                                                
+    Item3               0          2 FoodSTRT2                                                   
+    Item4               0          2 FoodDEXT2                                                   
+    Item5               0          2 FoodINTT2                                                   
+    Item6               0          2 FoodFOCT2                                                   
 RefinementQuestReward:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -11042,7 +11066,7 @@ QuestReward_MB_HealthPotion_Pouch:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0          3 PotionHealthT1                                              
+    Item1               0          5 PotionHealthT1                                              
     Item2               0         20 RedMeatT1                                                   
 QuestReward_MB_Potion_Pouch:
   RollBonusSetting: AddToRoll
@@ -11051,9 +11075,9 @@ QuestReward_MB_Potion_Pouch:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0          3 PotionHealthT2                                              
-    Item2               0          2 PotionManaT2                                                
-    Item3               0          2 PotionRegenT1                                               
+    Item1               0          5 PotionHealthT2                                              
+    Item2               0          5 PotionManaT2                                                
+    Item3               0         10 PotionRegenT1                                               
 QuestReward_MB_Potion_Pouch2:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -11061,9 +11085,9 @@ QuestReward_MB_Potion_Pouch2:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0          5 PotionHealthT2                                              
-    Item2               0          3 PotionManaT2                                                
-    Item3               0          3 PotionRegenT1                                               
+    Item1               0          8 PotionHealthT2                                              
+    Item2               0          8 PotionManaT2                                                
+    Item3               0         12 PotionRegenT1                                               
 QuestReward_MB_TackleBox:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -11116,8 +11140,8 @@ QuestReward_MB_Treatbox:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0          1 FoodDEXFOCT2                                                
-    Item2               0          1 FoodSTRFOCT3                                                
+    Item1               0          1 FoodDEXT2                                                   
+    Item2               0          1 FoodSTRT3                                                   
     Item3               0          1 FoodDefenseT3                                               
 QuestReward_MB_Honeybox:
   RollBonusSetting: AddToRoll
@@ -11126,9 +11150,9 @@ QuestReward_MB_Honeybox:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0          2 FoodDEXFOCT2                                                
-    Item2               0          2 FoodSTRFOCT2                                                
-    Item3               0          2 FoodCONDEXT2                                                
+    Item1               0          2 FoodDEXT2                                                   
+    Item2               0          2 FoodSTRT3                                                   
+    Item3               0          2 FoodCONT2                                                   
 QuestReward_MB_Craftersbox:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -11448,8 +11472,8 @@ QuestReward_ZQ2EG_Container03:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0          1 foodarmorert4                                               
-    Item2               0          1 recipe_foodarmorert4                                        
+    Item1               0          1 foodarmorert5                                               
+    Item2               0          1 recipe_foodarmorert5                                        
 SalvagePile1:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -12272,6 +12296,22 @@ Throwable_Item:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 ThrowableItemT1                                             
+LightningFields_Core_Throwable_Item:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 LightningFields_Core_Throwable_Item                         
+MSQ_Empress_Cannon_Throwable:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 MSQ_Empress_Cannon                                          
 ForemanReward:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -12299,7 +12339,7 @@ MushroomFoodBox:
   Items: |
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
-    Item1               0          2 FoodSTRCONT3                                                
+    Item1               0          2 FoodSTRT3                                                   
     Item2               0          5 MushroomT1                                                  
 HerbGift:
   RollBonusSetting: AddToRoll
@@ -13287,7 +13327,7 @@ WorldEvent_Crassus_BonusOverride:
     Item1               0          1 [LBID]WorldEvent_Crassus_NamedList                          
     Item2               0          1 [LTID]WorldEvent_Crassus_BossLootLevelFilter                
     Item3               0          1 GypsumBlack                                                 
-    Item4               0        100 DarkMatter                                                  
+    Item4               0         15 DarkMatter                                                  
     Item5               0          1 [LTID]WorldEvent_Crassus_PerkCheck                          
     Item6               0          1 2hPickCrassusT51                                            
     Item7               0          1 House_HousingItem_Season4_Statue_Cyclops_Statue_A           

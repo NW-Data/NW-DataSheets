@@ -23,8 +23,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Feast to Famine",
         "Description": "Speak with the Quartermaster Saatvik Agrawal to find out if you're welcome in Corinth.",
         "PlayerPrompt": "\"What happened?\"",
@@ -40,7 +40,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_02_VisitInn",
@@ -66,8 +67,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Rest Assured",
         "Description": "Visit the Inn and speak with Innkeep Verildis Jannsen to check in. Discover an old friend at the Inn.",
         "PlayerPrompt": "\"What did the Speaker do?\"",
@@ -83,7 +84,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_03_VisitMarket",
@@ -109,8 +111,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Money Talks",
         "Description": "Visit the Trading Post and one of the Storage Sheds in Corinth. Then speak with Grace at the Inn.",
         "PlayerPrompt": "\"What should I spend it on?\"",
@@ -126,7 +128,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_04_SeeSpeaker",
@@ -152,8 +155,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "A Word with the Speaker",
         "Description": "Speak with the Speaker of the Winds at the Town Hall in Corinth",
         "PlayerPrompt": "\"A message? What did he say?\"",
@@ -169,7 +172,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_05_FixWindmills",
@@ -195,8 +199,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Desperate Measures",
         "Description": "Visit Golden Fields to gather food to resupply Corinth.",
         "PlayerPrompt": "\"You don't think this is about the tribute?\"",
@@ -212,7 +216,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_06_RescueFarmers",
@@ -238,8 +243,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Eyewitness Accounts",
         "Description": "Rescue and talk to farmers who survived what happened at Golden Fields.",
         "PlayerPrompt": "\"I'll check the rest of the farm.\"",
@@ -255,7 +260,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_07_MeetIronRose",
@@ -281,8 +287,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Tracking the Tribute",
         "Description": "Visit the Iron Rose Garrison and find out what happened to the Sorceress Medea's Tribute.",
         "PlayerPrompt": "\"The Iron Rose Mercenaries?\"",
@@ -298,7 +304,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_07_MeetIronRose_alt",
@@ -324,8 +331,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Tracking the Tribute",
         "Description": "Visit the Iron Rose Garrison and find out what happened to the Sorceress Medea's Tribute.",
         "PlayerPrompt": "\"The Iron Rose Mercenaries?\"",
@@ -341,7 +348,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_08_RescueGideon",
@@ -367,8 +375,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Iron and Blood",
         "Description": "Rescue any surviving members of the Company of the Iron Rose and discover the fate of Sergeant Cotheran, then meet Leovix Silva at the Iron Keep.",
         "PlayerPrompt": "\"You returned with soul intact?\"",
@@ -384,7 +392,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_09_DefeatCommander",
@@ -410,8 +419,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Commander's Correspondence",
         "Description": "Search Iron Keep to find any information about the missing tribute to Medea. Bring anything you find back to Leovix at the tavern in Corinth.",
         "PlayerPrompt": "\"She didn't take the tribute?\"",
@@ -427,7 +436,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_10_TalkToSpeaker",
@@ -453,8 +463,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "The Missing Tribute",
         "Description": "Find out what really happened to the tribute to Medea by talking to the Speaker of the Winds and the Captain of the Guard.",
         "PlayerPrompt": "\"So you think it's her?\"",
@@ -470,7 +480,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_11_LootPirateCrates",
@@ -496,8 +507,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "The Pirate Problem",
         "Description": "Travel to the camp site by Buccaneer Creek. Talk to Grace. Then look for Pirate Treasures at Buccaneer Creek.",
         "PlayerPrompt": "\"So we don't need to recover the tribute?\"",
@@ -513,7 +524,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_12_DefeatPirateCaptain",
@@ -539,8 +551,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Web of Lies",
         "Description": "Find evidence that Marcel was here with the pirates. Recover the stolen Verdant Gemstone.",
         "PlayerPrompt": "\"Alright, we should check it out.\"",
@@ -556,7 +568,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_13_ReturnMiradorJewel",
@@ -582,8 +595,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Verdant Restoration",
         "Description": "Climb Mirador Shrine, complete the ancient puzzle, restore the gemstone, then speak with Nessa.",
         "PlayerPrompt": "\"So there's more than one?\"",
@@ -599,7 +612,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_14_SolveMapPuzzle",
@@ -625,8 +639,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Hidden Power",
         "Description": "Find out the location of the remaining Verdant Gemstones",
         "PlayerPrompt": "\"You could help us, you know.\"",
@@ -642,7 +656,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_15_RecoverSpeakerJewel",
@@ -668,8 +683,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Secrets Revealed",
         "Description": "Stop Leovix from committing murder!",
         "PlayerPrompt": "\"I can understand his anger.\"",
@@ -685,7 +700,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_16_ReturnEldergateJewel",
@@ -711,8 +727,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Verdant Connections",
         "Description": "Return the Verdant Gemstone to Eldergate by climbing to the top of the ruins.",
         "PlayerPrompt": "\"I'll go restore the second gemstone.\"",
@@ -728,7 +744,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_17_RecoverStolenJewel",
@@ -754,8 +771,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Jewel of the Sea",
         "Description": "Talk to Nessa near the Pirate Den known as Hecker's Haven. Then enter the Den and challenge Captain Korrapati to recover the third Verdant Gemstone.",
         "PlayerPrompt": "\"This town still needs us.\"",
@@ -771,7 +788,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_18_ReturnSiriusJewel",
@@ -797,8 +815,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "The Spirit Returns",
         "Description": "Return the third Verdant Gemstone to Sirius and solve the ancient puzzle.",
         "PlayerPrompt": "\"Just glad this is the last one.\"",
@@ -814,7 +832,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_19_TalkToNewSpeaker",
@@ -840,8 +859,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Under New Management",
         "Description": "Return to Corinth and speak with the the New Speaker of the Winds.",
         "PlayerPrompt": "\"We should head back there.\"",
@@ -857,7 +876,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_20_LostTribute",
@@ -883,8 +903,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Abominable Luck",
         "Description": "Track down the missing tribute for Speaker Saatvik.",
         "PlayerPrompt": "\"Was Leovix escorting it?\"",
@@ -900,7 +920,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_21_DefeatBoss",
@@ -926,8 +947,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "The Path of Thorns",
         "Description": "Infiltrate Thornhall, the most holy site of Windsward's druids, and find Medea. Convince her to give the region a second chance.",
         "PlayerPrompt": "\"So she's mad about tribute and the shrines?\"",
@@ -943,7 +964,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_22_TalkToSoulwarden",
@@ -969,8 +991,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "A Seed of Hope",
         "Description": "Travel north to Fisherman's Bend and talk with Yonas.",
         "PlayerPrompt": "\"Is that really necessary?\"",
@@ -986,7 +1008,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_MSQ_22_TalkToSoulwarden_alt",
@@ -1012,8 +1035,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "A Seed of Hope",
         "Description": "Travel north to Fisherman's Bend and talk with Yonas.",
         "PlayerPrompt": "\"Is that really necessary?\"",
@@ -1029,7 +1052,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_B_01_ReturnBrushes",
@@ -1055,8 +1079,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Brushed by Fate",
         "Description": "Return Fude Hinode's set of brushes to her from where she left them at Eldergate.",
         "PlayerPrompt": "\"Looks like there's a label on them.\"",
@@ -1072,7 +1096,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_IR_01_FindCreed",
@@ -1098,8 +1123,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Seeds of Steel",
         "Description": "Find and read the creed of the Iron Rose.",
         "PlayerPrompt": "\"Training for what?\"",
@@ -1115,7 +1140,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_IR_02_GetSword",
@@ -1141,8 +1167,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "A Garden of Iron",
         "Description": "Obtain an Iron Rose Sword for Roya.",
         "PlayerPrompt": "\"Words to live by.\"",
@@ -1158,7 +1184,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_IR_03_DeliverLetter",
@@ -1184,8 +1211,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "By Any Other Name",
         "Description": "Deliver Roya's application to the missing mercenary.",
         "PlayerPrompt": "\"What's gone wrong?\"",
@@ -1201,7 +1228,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_TS_01_GatherAndRefine",
@@ -1227,8 +1255,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Supply Run",
         "Description": "Craft tools, then gather and refine the materials requested by Taleas Serrano.",
         "PlayerPrompt": "\"This famine is bad, isn't it?\"",
@@ -1244,7 +1272,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_TS_02_ForgeSword",
@@ -1270,8 +1299,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Fire Up the Forges!",
         "Description": "Craft an Iron Longsword at the Forge and bring it to Mason Zhang Haoyu in Corinth when you have completed your task.",
         "PlayerPrompt": "\"About the tribute?\"",
@@ -1287,7 +1316,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_TS_03_LearnTownBoard",
@@ -1313,8 +1343,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "A Town in Need",
         "Description": "Check the Corinth Town Board to discover more ways to help Corinth prosper",
         "PlayerPrompt": "@06A_TS_03_LearnTownBoard_prompt",
@@ -1330,7 +1360,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_F_01_CollectJam",
@@ -1356,8 +1387,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Just Dessert",
         "Description": "Travel to Sweet Acre Farm to recover Kathrijn's Blueberry Compote and harvest Strawberries, Blueberries, Squash or Corn.",
         "PlayerPrompt": "\"Rest? Safety? A day at the beach?\"",
@@ -1373,7 +1404,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_F_02_RecoverSpices",
@@ -1399,8 +1431,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Pirates of Spice",
         "Description": "Travel to the area around Buccaneer Creek and Mother's Tears to locate the missing spices.",
         "PlayerPrompt": "\"Where will you find such a meal?\"",
@@ -1416,7 +1448,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_T_01_DefeatPumas",
@@ -1442,8 +1475,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Predator and Prey",
         "Description": "Complete Tsui Fen's task to collect meat and fur from the Puma population in Eldergate then return to Tsui Fen's camp.",
         "PlayerPrompt": "\"How many do you need?\"",
@@ -1459,7 +1492,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_T_02_DefeatBear",
@@ -1485,8 +1519,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "The Bear of Scratchrock",
         "Description": "Bring down the bear of Scratchrock Burrow. Report back to Tsui Fen when the task is complete.",
         "PlayerPrompt": "\"Who died?\"",
@@ -1502,7 +1536,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_G_01_DefeatPirates",
@@ -1528,8 +1563,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Shot Across the Bow",
         "Description": "Sabotage cannons and light striped powderkegs on fire at the pirate stronghold. Defeat Shamgar then return to Michael Lewis.",
         "PlayerPrompt": "\"What's your idea?\"",
@@ -1545,7 +1580,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_W_01_GetPatterns",
@@ -1571,8 +1607,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Warp and Weft",
         "Description": "Collect Loom Patterns and Fabric Samples from Sirius and Stoneview Seabreak.",
         "PlayerPrompt": "\"What about crafting more?\"",
@@ -1588,7 +1624,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_Z_01_GetBisonNotes",
@@ -1614,8 +1651,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Zoology 101",
         "Description": "Margot is researching strange things in Aeternum. She wants to know why there are Buffalo here. Investigate the area and gather samples and any notes you find regarding them.",
         "PlayerPrompt": "\"The buffalo?\"",
@@ -1631,7 +1668,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_Z_02_SpreadJoy",
@@ -1657,8 +1695,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "A Wyrd and Wonderful World",
         "Description": "Margot has discovered a plant that seems to have strange properties. Gather sprigs of it and present them to people around Windsward to see what their reactions are.",
         "PlayerPrompt": "\"You seem happy.\"",
@@ -1674,7 +1712,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_S_01_FindArcheologists",
@@ -1700,8 +1739,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "This Mortal Sphere",
         "Description": "A group of archeologists have gone missing near an ancient tomb. Follow their trail and discover what has happened then report back to Elric Chapman.",
         "PlayerPrompt": "\"What spheres?\"",
@@ -1717,7 +1756,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_S_02_PowerSpheres",
@@ -1743,8 +1783,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Creation Myths",
         "Description": "Elric has some interesting theories about the spheres. Follow his instructions and set them in place. Then report your findings back to him.",
         "PlayerPrompt": "\"What is it?\"",
@@ -1760,7 +1800,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_P_01_RecoverTools",
@@ -1786,8 +1827,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Towering Tools",
         "Description": "Collect any remaining tools of the Ancients from Fallswatch Overlook and Mirador, then return to Antiquarian Pajitnova in Windsward.",
         "PlayerPrompt": "\"What collection?\"",
@@ -1803,7 +1844,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_P_02_DefeatKisare",
@@ -1829,8 +1871,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Taken to Task",
         "Description": "Defeat Kisare the Taskmaster to acquire the Taskmaster's Heart. Then report back to Antiquarian Pajitnova in Windsward.",
         "PlayerPrompt": "\"What kind of labor?\"",
@@ -1846,7 +1888,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "06A_P_03_RecoverEyepiece",
@@ -1872,8 +1915,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Seeing Clearly (Expedition)",
         "Description": "Collect the Antiquarian's Eyepiece from Simon Grey in Amrine Excavation for Antiquarian Pajitnova in Windsward.",
         "PlayerPrompt": "\"Who are you talking about?\"",
@@ -1889,7 +1932,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0623_0101_FQ01",
@@ -1915,8 +1959,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Fishing With Shields",
         "Description": "Collect Woodlouse bait by gathering bushes for Master Fisher Shields. Talk to Master Fisher Shields in Windsward.",
         "PlayerPrompt": "\"Hello, I'm {playerName}.\"",
@@ -1932,7 +1976,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0623_0102_FQ02",
@@ -1958,8 +2003,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Fishing Basics",
         "Description": "Cast, hook, and reel in three fish for Master Fisher Shields and deliver them to Master Fisher Ruby in Everfall.",
         "PlayerPrompt": "\"What should I do next?\"",
@@ -1975,7 +2020,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0423_0101_FQ03",
@@ -2001,8 +2047,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Baited",
         "Description": "Catch one Snail in Fresh Water and one Clam in Salt Water to salvage them for bait for Master Fisher Ruby and deliver them to Master Fisher Clemenson in Monarch's Bluff.",
         "PlayerPrompt": "\"Yes. Master Fisher Shields sent me to you.\"",
@@ -2018,7 +2064,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0923_0101_FQ04",
@@ -2044,8 +2091,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Hotspot Hunt",
         "Description": "Catch fish from a Hotspot three times for Master Fisher Clemenson and deliver a note to Master Fisher Warwick in Monarch's Bluff.",
         "PlayerPrompt": "\"What can you teach me?\"",
@@ -2061,7 +2108,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1223_0101_FQ05",
@@ -2087,8 +2135,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Practice Makes Perfect",
         "Description": "Catch fifteen fish anywhere for Master Fisher Warwick and deliver to Master Fisher Perchal in Cutlass Keys.",
         "PlayerPrompt": "\"I have something for you.\"",
@@ -2104,7 +2152,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1023_0101_FQ06",
@@ -2130,8 +2179,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "The Giant Ones",
         "Description": "Catch eight fish greater than 20 inches in length for Master Fisher Perchal and deliver it to Master Fisher Park in Brightwood.",
         "PlayerPrompt": "\"How do fishing and alchemy mix?\"",
@@ -2147,7 +2196,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0223_0101_FQ07",
@@ -2173,8 +2223,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Fish Reagents",
         "Description": "Collect one Squid Ink and one Catfish Whisker after salvaging Squid and Catfish for Master Fisher Park and deliver them to Master Fisher Agarwal in Weaver's Fen.",
         "PlayerPrompt": "\"Can you teach me about fishing and alchemy?\"",
@@ -2190,7 +2240,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1323_0101_FQ08",
@@ -2216,8 +2267,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Reel Life",
         "Description": "Catch three Slimy Boots in Weaver's Fen to clean up the waters for Master Fisher Agarwal and deliver a new line to Master Fisher O'Connor in Restless Shore.",
         "PlayerPrompt": "\"What kind of fish are abundant in the Fen?\"",
@@ -2233,7 +2284,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1523_0101_FQ09",
@@ -2259,8 +2311,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Weapons of the Sea",
         "Description": "Catch a Fish Sword and a Fish Head Hammer for Master Fisher O'Connor and present them to Master Fisher Abebe in Mourningdale.",
         "PlayerPrompt": "\"Agarwal said you had something for me.\"",
@@ -2276,7 +2328,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1123_0101_FQ10",
@@ -2302,8 +2355,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Treasures of the Deep",
         "Description": "Catch a Treasure Chest for Master Fisher Abebe and present it to Master Fisher Klaus in Great Cleave.",
         "PlayerPrompt": "\"What can you teach me?\"",
@@ -2319,7 +2372,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1424_0101_FQ11",
@@ -2345,8 +2399,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Soulwarden Rations",
         "Description": "Catch five fish heavier than 30 pounds for Master Fisher Klaus and deliver them to Master Fisher Davies in Edengrove",
         "PlayerPrompt": "\"He's doing well.\"",
@@ -2362,7 +2416,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0324_0101_FQ12",
@@ -2388,8 +2443,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Azoth-Tinged Fish",
         "Description": "Catch an Azoth-Tinged Fish in Shattered Mountain and deliver it to Master Fisher Bernard.",
         "PlayerPrompt": "\"What else is in the water besides fish?\"",
@@ -2405,7 +2460,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0724_0101_FQ13",
@@ -2431,8 +2487,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Corruption-Tinged Fish",
         "Description": "Catch a Corruption-Tinged Fish in Shattered Mountain and bring it to Master Fisher Chang in Ebonscale.",
         "PlayerPrompt": "\"Hello, Bernard. Anything else you need?\"",
@@ -2448,7 +2504,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0823_0101_FQ14",
@@ -2474,8 +2531,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "Ecological Report",
         "Description": "Obtain various levels of fish fillet for Master Fisher Chang in Ebonscale to assess the health of the island's underwater denizens.",
         "PlayerPrompt": "\"How are the fish of this area?\"",
@@ -2491,7 +2548,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0523_0101_FQ15",
@@ -2517,8 +2575,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "0",
+        "Repeatable": "",
         "Title": "To Be a Grand Master",
         "Description": "Reach Fishing Level 100 and talk to Grand Master Machera in Reekwater.",
         "PlayerPrompt": "\"Hello, Grand Master.\"",
@@ -2534,7 +2592,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "FishingQuestsArc",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0699_0103_BarkimedesPup",
@@ -2560,8 +2619,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": null,
         "CanBeAbandoned": "1",
+        "Repeatable": "",
         "Title": "Bones For Barkimedes (Expedition)",
         "Description": "Simon Grey's dog Barkimedes is awaiting his master's return and is very hungry. From what you can tell he would appreciate having some Ravager bones to gnaw on.",
         "PlayerPrompt": "\"What's wrong, boy?\"",
@@ -2577,7 +2636,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0699_0101_Barkimedes",
@@ -2603,8 +2663,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": true,
         "CanBeAbandoned": "TRUE",
+        "Repeatable": "TRUE",
         "Title": "Bones For Barkimedes (Expedition)",
         "Description": "Simon Grey's dog Barkimedes is awaiting his master's return and is very hungry. From what you can tell he would appreciate having some Ravager bones to gnaw on.",
         "PlayerPrompt": "\"What's wrong, boy?\"",
@@ -2620,7 +2680,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Daily"
     },
     {
         "ObjectiveID": "0699_0102_Barkimedes2",
@@ -2646,8 +2707,8 @@
         "ItemRewardName": "",
         "ItemRewardQty": "",
         "ShouldResetOnFactionChange": "",
-        "Repeatable": true,
         "CanBeAbandoned": "TRUE",
+        "Repeatable": "TRUE",
         "Title": "More Bones for Barkimedes (Expedition)",
         "Description": "Simon Grey's dog Barkimedes wants an enhanced bone-chewing experience from the Enchanted Bones of the Shattered Obelisk expedition.",
         "PlayerPrompt": "\"Hey boy, want some special bones?\"",
@@ -2663,6 +2724,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Daily"
     }
 ]

@@ -22,8 +22,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Strider of the Sands",
         "Description": "Soulwarden Kovalenko has lost contact with an ally rendering aid to refugees.",
         "PlayerPrompt": "\"What can I do to help?\"",
@@ -39,7 +39,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1679_0101_striderofthesands_GC",
@@ -64,8 +65,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Strider of the Sands",
         "Description": "Soulwarden Kovalenko has lost contact with an ally rendering aid to refugees.",
         "PlayerPrompt": "\"What can I do to help?\"",
@@ -81,7 +82,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1679_0101_striderofthesands_ER",
@@ -106,8 +108,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Strider of the Sands",
         "Description": "Soulwarden Kovalenko has lost contact with an ally rendering aid to refugees.",
         "PlayerPrompt": "\"What can I do to help?\"",
@@ -123,7 +125,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1612_0101_praetorians",
@@ -148,8 +151,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 2,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Missing Praetorians",
         "Description": "Captain Andrea Clermont has asked you to find her fellow Praetorians. If they've become Lost, help them find peace and bring back proof of their defeat.",
         "PlayerPrompt": "\"Why were Praetorians out here?\"",
@@ -165,7 +168,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc3",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1612_0201_personaldemons",
@@ -190,8 +194,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "1612_0201_1hRoundShield_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Personal Demons",
         "Description": "Discover if Praetorian Malatesta still lives. If he has become Lost, defeat him and retrieve his insignia",
         "PlayerPrompt": "“What kind of demons?”",
@@ -207,7 +211,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc3",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1612_0301_dutiesmaintained",
@@ -232,8 +237,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Duties Maintained",
         "Description": "Take Captain Clermont’s reports back to Prefect Severan in New Corsica.",
         "PlayerPrompt": "“Do you plan to remain here?”",
@@ -249,7 +254,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc3",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1606_0101_lost_manticore",
@@ -274,8 +280,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Roar of the Manticore",
         "Description": "Inside the Acropolis, investigate the threats that plague the trade route.",
         "PlayerPrompt": "“What's going on?”",
@@ -291,7 +297,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1666_0101_audiencewithpontifex",
@@ -316,8 +323,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Audience with the Pontifex",
         "Description": "Prelate Razin has blocked you from speaking with Pontifex Charmion until you have gained an understanding of the True Gods, and the threat posed the Legion. Read the ‘Legacy of Rome’, then speak with the Prelate again.",
         "PlayerPrompt": "“Will that grant me some sort of vision?”",
@@ -333,7 +340,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc5",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1604_0101_powerofgods",
@@ -358,8 +366,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Power of the Gods",
         "Description": "Pontifex Charmion has requested that you seek out Pontiff Nuru in the Cradle of Nu and offer her aid.",
         "PlayerPrompt": "“Which demon is that exactly?”",
@@ -375,7 +383,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc5",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1605_0101_sleepingvessels",
@@ -400,8 +409,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "DarkMatter",
         "ItemRewardQty": 20,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Sleeping Vessels",
         "Description": "Search the wreckage for materials to craft Pontiff Nuru’s relic.",
         "PlayerPrompt": "“By ‘gods’ do you mean the Ancients?”",
@@ -417,7 +426,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc5",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1605_0201_immortalgems",
@@ -442,8 +452,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "Runeglass_Case_Empty_Arcane",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Gems of the Immortals",
         "Description": "Pontiff Nuru has asked you to defeat Anubian Automata and Constructs, and collect the gems they possess.",
         "PlayerPrompt": "“Doesn’t look like much.”",
@@ -459,7 +469,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc5",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1605_0301_awakenanubis",
@@ -484,8 +495,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "1605_0301_2hWarhammer_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Awakening Anubis",
         "Description": "Pontiff Nuru has asked you to use the holy relic at the sarcophagus to awaken the Hand of Anubis.",
         "PlayerPrompt": "“How does it work?”",
@@ -501,7 +512,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc5",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1605_0401_insufficientfaith",
@@ -526,8 +538,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Insufficient Faith",
         "Description": "Report Pontiff Nuru’s failure to awaken the Anubian vessels to Pontifex Charmion.",
         "PlayerPrompt": "“I don’t think you’re unworthy.”",
@@ -543,7 +555,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1601_0101_cursedcenturies",
@@ -568,8 +581,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Cursed Across Centuries",
         "Description": "Speak with Ariel Gideon about the plan to fight the 19th Legion, then find Tribune Kraus on the Scorched Battlefield.",
         "PlayerPrompt": "“Is that why the city is so barren?”",
@@ -585,7 +598,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc4",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1613_0101_assaultlegion",
@@ -610,8 +624,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "1613_0101_2hSpear_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Assault Against the Legion",
         "Description": "Tribune Kraus has asked you to defeat 19th Legion troops in their war camps.",
         "PlayerPrompt": "\"And the troops out there?\"",
@@ -627,7 +641,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc4",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1613_0201_hydrasbreath",
@@ -652,8 +667,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 3,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Hydra's Breath",
         "Description": "Tribune Kraus has asked you to steal Hydra’s Breath from the 19th Legion to help destroy the enemy's siege weapons.",
         "PlayerPrompt": "“Tell me about this 19th Legion.”",
@@ -669,7 +684,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc4",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1613_0301_blazeofglory",
@@ -694,8 +710,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "1613_0301_2hGreatAxe_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "A Blaze of Glory",
         "Description": "Tribune Kraus has asked you to destroy the 19th Legion's artillery and defeat Primus Vespasian.",
         "PlayerPrompt": "“I also found this strange vial and a scroll.”",
@@ -711,7 +727,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc4",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1613_0401_lastcenturion",
@@ -736,8 +753,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 3,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Last True Centurion",
         "Description": "Tribune Kraus has asked you to find and restore the New Corsican hero Evandrus.",
         "PlayerPrompt": "“Wait! Did you say Evandrus Crassus?”",
@@ -753,7 +770,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1613_0501_legendrestored",
@@ -778,8 +796,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "A Legend Restored",
         "Description": "Inform the newly awakened Evandrus of the current invasion then report back to Tribune Kraus.",
         "PlayerPrompt": "“You were turned to stone for a long time.”",
@@ -795,7 +813,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1604_0201_heronomore",
@@ -820,8 +839,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "A Hero No More",
         "Description": "Inform Evandrus that Charmion commands him to return to New Corsica.",
         "PlayerPrompt": "“What are you talking about?”",
@@ -837,7 +856,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1602_0101_ultimateintentions",
@@ -862,8 +882,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "Runeglass_Gem_Carnelian_Heal",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Ultimate Intentions",
         "Description": "Evandrus has asked that you infiltrate the Corrupted Legion camp and steal their communications.",
         "PlayerPrompt": "\"Did the Corruption free the Legion?”",
@@ -879,7 +899,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1602_0201_strengthandweakness",
@@ -904,8 +925,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "DarkMatter",
         "ItemRewardQty": 40,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Strength and Weakness",
         "Description": "Destroy the 19th Legion's supplies and slay Centurion Magnus.",
         "PlayerPrompt": "\"Sounds like Magnus needs to die.”",
@@ -921,7 +942,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1602_0301_tribunetime",
@@ -946,8 +968,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 3,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "One Tribune at a Time",
         "Description": "In order to weaken Drusilla, you must take out her tribunes, one by one.",
         "PlayerPrompt": "“Who put her in charge?”",
@@ -963,7 +985,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1602_0401_headofsnake",
@@ -988,8 +1011,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "1602_0401_2hBow_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Head of the Snake",
         "Description": "Destroy the Legion’s command tents and defeat Prefect Drusilla.",
         "PlayerPrompt": "\"She was reporting to General Crassus.”",
@@ -1005,7 +1028,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1602_0501_gloriamundi",
@@ -1030,8 +1054,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Sic Transit Gloria Mundi",
         "Description": "Return to Charmion with news of your success against Drusilla's forces.",
         "PlayerPrompt": "\"I’m sorry, Evandrus.”",
@@ -1047,7 +1071,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1602_0601_secretssands",
@@ -1072,8 +1097,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Secrets in the Sands",
         "Description": "Speak to Pontiff Nuru at the Valley of the Gods and help her uncover the secrets of the Ennead.",
         "PlayerPrompt": "\"She’s insane, Evandrus.”",
@@ -1089,7 +1114,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc1",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1605_0501_miraclesmadness",
@@ -1114,8 +1140,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Miracles and Madness",
         "Description": "Recover Charmion’s journal and the Great Ennead Codex to reveal the secrets of Akhet.",
         "PlayerPrompt": "“Yeah, she’s crazy all right.”",
@@ -1131,7 +1157,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc1",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1605_0601_hieratictruth",
@@ -1156,8 +1183,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "DarkMatter",
         "ItemRewardQty": 40,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Hieratic Truth",
         "Description": "You must gather pieces of the Prime Key.",
         "PlayerPrompt": "\"Anything important in there?”",
@@ -1173,7 +1200,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc1",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1605_0701_brokenkey",
@@ -1198,8 +1226,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "1605_0701_2hStaffFire_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Key that was Broken",
         "Description": "Destroy the Lore Keeper and reforge the Prime Key.",
         "PlayerPrompt": "\"Didn’t we try something like this before?”",
@@ -1215,7 +1243,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc1",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1605_0801_timecircles",
@@ -1240,8 +1269,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 3,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Circles in Time",
         "Description": "Report what you have discovered about Akhet and the reforged Prime Key to Evandrus.",
         "PlayerPrompt": "\"How do we use the Prime Key?”",
@@ -1257,7 +1286,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "BrimstoneSandsArc1",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1602_0701_mightymustfall",
@@ -1282,8 +1312,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Mighty Must Fall (Expedition)",
         "Description": "Evandrus has asked you to go to the Ennead and confront his father General Crassus.",
         "PlayerPrompt": "“There is only Corruption now, Evandrus.”",
@@ -1299,7 +1329,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1605_0901_finalseal",
@@ -1324,8 +1355,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Final Seal (Expedition)",
         "Description": "Enter the Pyramid of Akhet and seal the Ennead with the Prime Key to protect the people of Aeternum.",
         "PlayerPrompt": "“I always knew you were brilliant, Nuru.”",
@@ -1341,7 +1372,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1625_0100_brimstoneundersiege",
@@ -1366,8 +1398,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "BrimstoneFoodBasket",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Brimstone Under Siege",
         "Description": "A troubled woman at the Refugee Caravan has warned of an impending attack by the Corrupted Legion, and has asked for your help to defend the civilians.",
         "PlayerPrompt": "“Do you always start conversations this way?”",
@@ -1383,7 +1415,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1625_0101_thegreatarchitect",
@@ -1408,8 +1441,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "DarkMatter",
         "ItemRewardQty": 40,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "The Great Architect",
         "Description": "Ghazi Laghmani has asked for any possible assistance in finding her teacher, the Great Sage Imhotep, last seen near The Acropolis.",
         "PlayerPrompt": "“Imhotep the Wise?”",
@@ -1425,7 +1458,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1625_0102_preemptivestrike",
@@ -1450,8 +1484,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "1625_0102_1hLongsword_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Preemptive Strike",
         "Description": "Ghazi has received word that the Corrupted Legion is preparing an even larger assault on the Caravan. While she heads north to search for Imhotep, she has asked you to attack the Legion directly at their garrison of Crassus's Rise.",
         "PlayerPrompt": "“So this is an actual Roman Legion?”",
@@ -1467,7 +1501,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1625_0103_stirringinthesands",
@@ -1492,8 +1527,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 2,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Stirring in the Sands",
         "Description": "Imhotep continues to investigate a new threat, heading west toward Carthago. Once found, Ghazi anxiously awaits news of his return at Cavalier's Rest.",
         "PlayerPrompt": "“What exactly does that mean?”",
@@ -1509,7 +1544,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1625_0201_ablossomingthreat",
@@ -1534,8 +1570,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "1625_0201_2hStaffLife_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "A Blossoming Threat",
         "Description": "With the ambush by the Angry Earth, Ghazi is certain they are responsible for Imhotep's disappearance. She knows the Angry Earth have been seen around Jupiter's Grove, and asks again for your continued help in finding Imhotep.",
         "PlayerPrompt": "“The Angry Earth were there.”",
@@ -1551,7 +1587,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1625_0202_pastprologue",
@@ -1576,8 +1613,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Past Prologue",
         "Description": "While Imhotep recuperates from his recent tribulations, Ghazi has suggested you read Imhotep's 'Legacy of the Ancients' and learn of the impact the Ancients had on Brimstone Sands.",
         "PlayerPrompt": "“Who seized the books?”",
@@ -1593,7 +1630,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1624_0301_wateringtheseed",
@@ -1618,8 +1656,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "WritofAdventure",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Watering the Seed",
         "Description": "Recovered from his kidnapping, the Great Sage Imhotep has told you of the strange seed carried north by the Angry Earth, likely to the Oasis Spontanea. He and Ghazi will await you at the Great Shrine of Thoth.",
         "PlayerPrompt": "“Why did they capture you?”",
@@ -1635,7 +1673,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1624_0302_unravelingthemystery",
@@ -1660,8 +1699,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "1624_0302_2hSpear_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Unraveling the Mystery",
         "Description": "Unable to breach the magic of the Ancient focus, Imhotep knows of a powerful spell which may provide answers. Relics from Aqua Anuket, Arit-en-Geb, and Anhur's Pride should empower his magic enough to succeed.",
         "PlayerPrompt": "“I still can't believe you knew the Ancients.”",
@@ -1677,7 +1716,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1624_0303_accursedalchemy",
@@ -1702,8 +1742,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "TinctureAcidT5",
         "ItemRewardQty": 10,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Accursed Apophis",
         "Description": "Apophis's remarks have Imhotep worried about a grander machination involving Ancient technology. He suggests investigating an undisturbed Ancient vault in Hermopolis, where Apophis may have found materials for his plans, while he and Ghazi return to New Corsica.",
         "PlayerPrompt": "“That sounds ominous.”",
@@ -1719,7 +1759,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1624_0401_thedemonscauldron",
@@ -1744,8 +1785,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "The Demon's Cauldron",
         "Description": "Imhotep's translation speaks of a method to merge two beings together, a practice thought long lost. The sulfurous jar indicates a visit to the Pools of Orcus to the west, and he asks your help in searching for clues to Apophis's plans.",
         "PlayerPrompt": "“Someone’s making Primordials?”",
@@ -1761,7 +1802,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1624_0501_powerofthegods",
@@ -1786,8 +1828,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "1624_0501_1hGauntletVoid_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Power of the Ancients",
         "Description": "Imhotep is intimately familiar with the fragment of the Ancient power source, having designed the Pyramid of Akhet to house it. He suggests searching near Diospolis for an entry point to the pyramid's interior, the origin of the fragment.",
         "PlayerPrompt": "“What does it do?”",
@@ -1803,7 +1845,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1625_0502_scourgeaeonmadness",
@@ -1828,8 +1871,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GlyphStone_Chaos",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Scourge of Aeon Madness",
         "Description": "Adiana's revelation at the pyramid has caused Imhotep's Aeon Madness to assert itself, and Ghazi has asked for help in gathering local herbs needed to treat the Great Sage. She will attempt to calm Imhotep while you prepare the recipe.",
         "PlayerPrompt": "“What happened to his elixir?”",
@@ -1845,7 +1888,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1625_0601_eyeofhorus",
@@ -1870,8 +1914,8 @@
         "ObjectiveReward": "1625_0701_challengingpharaoh",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "The Eye of Horus",
         "Description": "Ghazi's concern at Imhotep's flight is evident, and she begs your assistance in chasing him down. He ran toward the Gates of Sutekh, ranting about the Eye of Horus and the return of the gods.",
         "PlayerPrompt": "“You did the right thing. Where did he go?”",
@@ -1887,7 +1931,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1625_0701_challengingpharaoh",
@@ -1912,8 +1957,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "1625_0701_ImhotepsStaff_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Challenging the Pharaoh",
         "Description": "The Eye of Horus has been taken, but droplets of quintessence form a path to follow. Imhotep, or perhaps something worse, must be at the end of the trail.",
         "PlayerPrompt": "",
@@ -1929,7 +1974,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1624_0801_agodawakens",
@@ -1954,8 +2000,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "DarkMatter",
         "ItemRewardQty": 200,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "A God Awakens",
         "Description": "With the Eye of Horus in hand, Imhotep has given you the location of the Necropolis of Sutekh, the resting place of an Ancient. Adiana and Apophis must not be allowed to rouse Sutekh from his slumber!",
         "PlayerPrompt": "“What happens if he wakes up?”",
@@ -1971,7 +2017,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1624_1001_thewildhuntress",
@@ -1996,8 +2043,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "The Wild Huntress",
         "Description": "With the immediate threat stymied and Imhotep stabilized, he has recalled long forgotten memories about a shrine to Artemis somewhere in the northern reaches of Everfall. Visiting it may provide a clue to Adiana's - Artemis's - next move.",
         "PlayerPrompt": "\"She's planning something more.\"",
@@ -2013,7 +2060,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1624_0901_secretindesert",
@@ -2038,8 +2086,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Secret in the Desert",
         "Description": "With Apophis no longer a threat, Imhotep has turned his attention to matters closer to home. He has asked assistance in recovering a precious and mysterious parcel, buried long ago.",
         "PlayerPrompt": "“I’ll help if I can.”",
@@ -2055,7 +2103,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1625_0902_queenrevealed",
@@ -2080,8 +2129,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "A Queen Revealed",
         "Description": "Ghazi's true identity has been revealed - Cleopatra VII Thea Philopater, Queen of Egypt! Her return would bring hope to the people of New Corsica, but Evandrus may have other ideas. Speak with him to determine his feelings.",
         "PlayerPrompt": "“As in Queen Cleopatra of Egypt?”",
@@ -2097,7 +2146,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1625_0903_thecoronation",
@@ -2122,8 +2172,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "The Coronation",
         "Description": "With Evandrus's support, Cleopatra has consented to retake her position of power. Inform all of New Corsica of her return, then attend her coronation at the Royal Pavilion.",
         "PlayerPrompt": "“This won’t be an easy job.”",
@@ -2139,7 +2189,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "1624_1101_tremorsinthesand",
@@ -2164,8 +2215,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "DarkMatter",
         "ItemRewardQty": 20,
-        "Repeatable": null,
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Tremors in the Sand",
         "Description": "One of Imhotep's allies, Lysandra, has sent warning of strange events in the sands. Imhotep has asked you to seek her out and assist her in determining their cause.",
         "PlayerPrompt": "\"Apophis?\"",
@@ -2181,7 +2232,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_01_Glyphs",
@@ -2206,8 +2258,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GlyphStone_Gift",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Ancient Glyphs",
         "Description": "William Heron seeks an intrepid adventurer to search for Ancient Glyphs. Collect the glyph at the ruins of Satet, discover its purpose, and return to Heron in New Corsica.",
         "PlayerPrompt": "\"Discovered anything interesting?\"",
@@ -2223,7 +2275,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_02_MineScarabs",
@@ -2248,8 +2301,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "CarnelianT4",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Scarab Secrets",
         "Description": "Eudoxia Dalassema needs someone willing to crack open Anubian Scarab Constructs and mine out the power sources within--preferably without alerting the authorities in New Corsica.",
         "PlayerPrompt": "\"An interesting choice of words.\"",
@@ -2265,7 +2318,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_03_HuntJackal",
@@ -2290,8 +2344,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "16_Side_03_1hRapier_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Lone Jackal",
         "Description": "Slay the jackals of Deadwater Den who attacked Senhyris, and find some medicine to treat her wounds.",
         "PlayerPrompt": "\"Are you all right?\"",
@@ -2307,7 +2361,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_05_HuntLion",
@@ -2332,8 +2387,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "FeatherT1",
         "ItemRewardQty": 20,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Ruffled Feathers",
         "Description": "Nesse van Baten wants revenge on \"Featherbane\" the lion, who has developed an unfortunate taste for domestic poultry. Go to Two-Stones Grotto, then meet back up with Nesse at the nearby Outpost.",
         "PlayerPrompt": "\"Calm down, I'm here to help.\"",
@@ -2349,7 +2404,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_06_KillDynasty",
@@ -2374,8 +2430,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "16_Side_06_2hMusket_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Aggressive Negotiations",
         "Description": "Huang Xiaoling is looking for a man who may have shipwrecked on the southern coast of Brimstone Sands. Search for any survivors at The Offering, then meet up with Xiaoling at Cavalier's Rest.",
         "PlayerPrompt": "\"You watched a shipwreck?\"",
@@ -2391,7 +2447,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_07_HelpHistorian",
@@ -2416,8 +2473,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "Schematic_House_HousingItem_Legion_Bookcase02_D",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Broken Pedestals",
         "Description": "Froderico Renaldi is beside himself after being murdered just outside Castrum Inferos. Recover the unfortunate historian's belongings from the Castrum, and return them to him.",
         "PlayerPrompt": "\"The Legion did this to you?\"",
@@ -2433,7 +2490,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_08_ClimbAqueduct",
@@ -2458,8 +2516,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GlyphStone_River",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "An Ancient Balancing Act",
         "Description": "Perrin Mercier discovered a tantalizing mystery in the collapsed Roman aqueduct, but can't climb it himself. Brave the treacherous ascent into the aqueduct, then return to Perrin with your findings.",
         "PlayerPrompt": "\"Are you hurt?\"",
@@ -2475,7 +2533,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_10_BookofDead",
@@ -2500,8 +2559,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "DarkMatter",
         "ItemRewardQty": 20,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Coming Forth by Day",
         "Description": "Acolyte Miresis seeks Egyptian funerary rites from his former mentor Psherenamun, who has become Lost. Seek out Psherenamun at Castrum Perdita, take the texts from him, and return to Saboteur's Hideaway.",
         "PlayerPrompt": "\"Try me. I'm listening.\"",
@@ -2517,7 +2576,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_11_FeedIfrit",
@@ -2542,8 +2602,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GlyphStone_Food",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Insatiable Flame",
         "Description": "Bring delicious fish to the Insatiable Flame before he decides to make a snack out of you. You can catch fresh fish from any fishing hotspot in Brimstone Sands.",
         "PlayerPrompt": "\"I'd rather not be eaten.\"",
@@ -2559,7 +2619,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_12_GatherEggs",
@@ -2584,8 +2645,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "FoodSTRT3",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Artistic License",
         "Description": "Enez de Barros is convinced that there are dragon eggs at the Palace of Nekhbet. Search the reptile nests for eggs of any sort, and bring them back for Enez's inspection.",
         "PlayerPrompt": "\"Can't say I have.\"",
@@ -2601,7 +2662,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_13_ScoutPyramid",
@@ -2626,8 +2688,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Path of the Devourer",
         "Description": "Lysandra is distressed by strange tremors that have recently rocked the Great Pyramid of Akhet. Survey the area around the pyramid's base, and find evidence of what is causing the tremors.",
         "PlayerPrompt": "\"Good enough, I think. Why?\"",
@@ -2643,7 +2705,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_16_UnlockTeleporter",
@@ -2668,8 +2731,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "DarkMatter",
         "ItemRewardQty": 20,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Antiquarian's Dream",
         "Description": "Emboldened by your success at the aqueduct, Perrin seeks your help to unlock the function of an Ancient stone gateway. Look for clues in the ruins of Hermopolis, then return to Perrin at the Great Shrine of Thoth.",
         "PlayerPrompt": "\"Maybe you're missing something.\"",
@@ -2685,7 +2748,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_17_HuntScorpion",
@@ -2710,8 +2774,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Queen's Brood (Elite)",
         "Description": "The naturalist Tamouthis is concerned by the sudden and unnatural proliferation of massive scorpions in the Bubasteum. Venture into the Beds of Ta-Bitjet and slay the scorpion queen who lives there.",
         "PlayerPrompt": "\"How large and how angry, exactly?\"",
@@ -2727,7 +2791,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_19_HelpWarden",
@@ -2752,10 +2817,10 @@
         "ObjectiveReward": "",
         "ItemRewardName": "RuneCannonBlastT1",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Secrets of the Heartgem",
-        "Description": "\u0026lt;font color=\"#eaeaea\"\u0026gt;HEARTRUNE UNLOCK QUEST\u0026lt;/font\u0026gt;\\n\\nThe Soulwardens sent Anna Rózsa to learn about an intriguing source of power in Brimstone Sands. Unlock your Heartgem's hidden potential at the Great Wall of Nebet-Het, then meet Scout Rózsa at the Palace of Nekhbet.",
+        "Description": "\u0026lt;font color=\"#b2aea1\"\u0026gt;HEARTRUNE UNLOCK QUEST\u0026lt;/font\u0026gt;\\n\\nThe Soulwardens sent Anna Rózsa to learn about an intriguing source of power in Brimstone Sands. Unlock your Heartgem's hidden potential at the Great Wall of Nebet-Het, then meet Scout Rózsa at the Palace of Nekhbet.",
         "PlayerPrompt": "\"I'm listening.\"",
         "ObjectiveProposalResponse": "You may have heard the rumors, but a Soulwarden's Heartgem can grant additional powers through the etching of specific runes. \\n\\nI'm looking for a way to unlock that power, and Brimstone Sands seemed like a good place to start.",
         "InProgressResponse": "Sorry I couldn't tell you more about the Wall. You'll know it when you see it. \\n\\nHuge granite blocks, high walkways, all bristling with guardians out for your blood.",
@@ -2769,7 +2834,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_20_HelpBastet",
@@ -2794,10 +2860,10 @@
         "ObjectiveReward": "",
         "ItemRewardName": "RawhideT4",
         "ItemRewardQty": 50,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Gods' Demand",
-        "Description": "\u0026lt;font color=\"#eaeaea\"\u0026gt;REQUIRES 150 SKINNING\u0026lt;/font\u0026gt;\\nThe priest Paubastis needs you to venture near the temple ruins of Henkhisesui, slay a lion, and bring back its heart. He promises good payment but refuses to explain why.",
+        "Description": "\u0026lt;font color=\"#b2aea1\"\u0026gt;REQUIRES 150 SKINNING\u0026lt;/font\u0026gt;\\nThe priest Paubastis needs you to venture near the temple ruins of Henkhisesui, slay a lion, and bring back its heart. He promises good payment but refuses to explain why.",
         "PlayerPrompt": "\"Depends on how hungry they are.\"",
         "ObjectiveProposalResponse": "A reasonable answer. You know that this land has faced harsh trials lately. \\n\\nI seek the gods' assistance in meeting those challenges. But to do that, I need someone with different skills from my own.",
         "InProgressResponse": "Surely someone like you is accustomed to slaying large wildlife? \\n\\nHunt down a lion, bring me the fresh heart. You needn't concern yourself over the rest.",
@@ -2811,7 +2877,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_25_CactusFlower",
@@ -2836,8 +2903,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "House_HousingItem_Legion_Decor_FloorPlanter01_C",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Flower of the Sands",
         "Description": "Collect Cactus Flowers in memory of Zahur's husband and bring them to him in the Camp.",
         "PlayerPrompt": "\"What is it you can't leave behind?\"",
@@ -2853,7 +2920,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_26_SandThing",
@@ -2878,8 +2946,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "Runeglass_Case_Empty_Nature",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Sand Walkers",
         "Description": "Defeat the Sand Walkers in The Acropolis for Tahirah.",
         "PlayerPrompt": "\"What changed?\"",
@@ -2895,7 +2963,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_27_Redeem19th",
@@ -2920,8 +2989,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "16_Side_27_2hGreatSword_T5",
         "ItemRewardQty": 1,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Honoring the 19th",
         "Description": "Confiscate Pickaxes from the Corrupted 19th, and recover their Legion Insignias for Acario Clemon.",
         "PlayerPrompt": "\"What happened?\"",
@@ -2937,7 +3006,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_28_LightsOut",
@@ -2962,8 +3032,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "DarkMatter",
         "ItemRewardQty": 40,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "On Duty, the Sun Never Sets",
         "Description": "Once Priestess of the Lamp of Osiris, Qabalah asks you to destroy the Ancient Guardians that contol the temple and retrieve the sacred Spark of Osiris from the Lamplighter. The Lamplighter ascends the ruins at day, but descends into a hidden chamber at night.",
         "PlayerPrompt": "\"If not yours, who controls it?\"",
@@ -2979,7 +3049,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "16_Side_29_BathSalts",
@@ -3004,8 +3075,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GlyphStone_Water",
         "ItemRewardQty": 5,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Secret of the Baths",
         "Description": "Thermae Alchemist Clarisse Vesta has asked you to collect Embalming Salts from the sarcophagi in Jupiter's Grove for the Roman baths in New Corsica. Deliver them to Host Habibah in the city.",
         "PlayerPrompt": "\"Is there anything I can help with?\"",
@@ -3021,7 +3092,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1601_objective",
@@ -3046,8 +3118,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3063,7 +3135,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1602_objective",
@@ -3088,8 +3161,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3105,7 +3178,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1603_objective",
@@ -3130,8 +3204,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3147,7 +3221,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1604_objective",
@@ -3172,8 +3247,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3189,7 +3264,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1605_objective",
@@ -3214,8 +3290,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3231,7 +3307,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1607_objective",
@@ -3256,8 +3333,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3273,7 +3350,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1608_objective",
@@ -3298,8 +3376,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3315,7 +3393,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1609_objective",
@@ -3340,8 +3419,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3357,7 +3436,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1610_objective",
@@ -3382,8 +3462,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3399,7 +3479,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1611_objective",
@@ -3424,8 +3505,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3441,7 +3522,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1612_objective",
@@ -3466,8 +3548,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3483,7 +3565,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1613_objective",
@@ -3508,8 +3591,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3525,7 +3608,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1614_objective",
@@ -3550,8 +3634,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3567,7 +3651,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1615_objective",
@@ -3592,8 +3677,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3609,7 +3694,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1616_objective",
@@ -3634,8 +3720,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3651,7 +3737,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1617_objective",
@@ -3676,8 +3763,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3693,7 +3780,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1618_objective",
@@ -3718,8 +3806,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3735,7 +3823,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1620_objective",
@@ -3760,8 +3849,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3777,7 +3866,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1621_objective",
@@ -3802,8 +3892,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3819,7 +3909,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1622_objective",
@@ -3844,8 +3935,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3861,7 +3952,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1623_objective",
@@ -3886,8 +3978,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3903,7 +3995,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1624_objective",
@@ -3928,8 +4021,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3945,7 +4038,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_1625_objective",
@@ -3970,8 +4064,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3987,7 +4081,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_01_objective",
@@ -4012,8 +4107,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4029,7 +4124,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_02_objective",
@@ -4054,8 +4150,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4071,7 +4167,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_03_objective",
@@ -4096,8 +4193,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4113,7 +4210,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_04_objective",
@@ -4138,8 +4236,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4155,7 +4253,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_05_objective",
@@ -4180,8 +4279,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4197,7 +4296,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_06_objective",
@@ -4222,8 +4322,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4239,7 +4339,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_07_objective",
@@ -4264,8 +4365,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4281,7 +4382,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_08_objective",
@@ -4306,8 +4408,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4323,7 +4425,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_09_objective",
@@ -4348,8 +4451,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4365,7 +4468,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_10_objective",
@@ -4390,8 +4494,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4407,7 +4511,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_11_objective",
@@ -4432,8 +4537,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4449,7 +4554,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_EXP_12_objective",
@@ -4474,8 +4580,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4491,7 +4597,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_01_objective",
@@ -4516,8 +4623,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4533,7 +4640,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_02_objective",
@@ -4558,8 +4666,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4575,7 +4683,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_03_objective",
@@ -4600,8 +4709,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4617,7 +4726,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_04_objective",
@@ -4642,8 +4752,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4659,7 +4769,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_05_objective",
@@ -4684,8 +4795,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4701,7 +4812,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_06_objective",
@@ -4726,8 +4838,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4743,7 +4855,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_07_objective",
@@ -4768,8 +4881,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4785,7 +4898,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_08_objective",
@@ -4810,8 +4924,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4827,7 +4941,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_09_objective",
@@ -4852,8 +4967,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4869,7 +4984,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_10_objective",
@@ -4894,8 +5010,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4911,7 +5027,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_11_objective",
@@ -4936,8 +5053,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4953,7 +5070,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_12_objective",
@@ -4978,8 +5096,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -4995,7 +5113,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_01_objective",
@@ -5020,8 +5139,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5037,7 +5156,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_02_objective",
@@ -5062,8 +5182,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5079,7 +5199,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_03_objective",
@@ -5104,8 +5225,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5121,7 +5242,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_04_objective",
@@ -5146,8 +5268,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5163,7 +5285,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_05_objective",
@@ -5188,8 +5311,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5205,7 +5328,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_06_objective",
@@ -5230,8 +5354,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5247,7 +5371,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_07_objective",
@@ -5272,8 +5397,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5289,7 +5414,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_08_objective",
@@ -5314,8 +5440,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5331,7 +5457,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_09_objective",
@@ -5356,8 +5483,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5373,7 +5500,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_10_objective",
@@ -5398,8 +5526,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5415,7 +5543,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_11_objective",
@@ -5440,8 +5569,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5457,7 +5586,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_12_objective",
@@ -5482,8 +5612,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5499,7 +5629,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_16_PVP_SpySpot_Marauder_objective",
@@ -5524,8 +5655,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5541,7 +5672,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_16_PVP_ControlSpot_Marauder_objective",
@@ -5566,8 +5698,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5583,7 +5715,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_16_PVP_ControlSpot_Syndicate_objective",
@@ -5608,8 +5741,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5625,7 +5758,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_16_PVP_SpySpot_Syndicate_objective",
@@ -5650,8 +5784,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5667,7 +5801,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_16_PVP_ControlSpot_Covenant_objective",
@@ -5692,8 +5827,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5709,7 +5844,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_16_PVP_SpySpot_Covenant_objective",
@@ -5734,8 +5870,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": 1,
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5751,7 +5887,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_16_EXP_14_objective",
@@ -5776,8 +5913,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5793,7 +5930,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_16_EXP_14_objective",
@@ -5818,8 +5956,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5835,7 +5973,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_16_EXP_14_objective",
@@ -5860,8 +5999,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": null,
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -5877,6 +6016,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     }
 ]

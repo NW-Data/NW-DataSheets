@@ -9,10 +9,10 @@
         "CanBeShared": null,
         "CanFastTravel": null,
         "Task": "0714_0101_d_00_container_fieldsoffire",
-        "NpcDestinationId": "0714_Watcher",
+        "NpcDestinationId": "0714_Watcher_03",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_03",
-        "RequiredAchievementId": "",
+        "RequiredAchievementId": "07_Quest_05 \u0026\u0026 (99G_MSQ_06 || 99_MSQ_59)",
         "RequiredFaction": "",
         "RequiredLevel": "",
         "SuccessGameEventId": "0714_0101_fieldsoffire_success",
@@ -22,15 +22,15 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Pushing Back",
-        "Description": "Eliminate the Infernal Corrupted in Vehemence and Iratus, detonate the Anti-Corruption Bombs, and recover any supplies left behind. Then report back to Warden Reese in Shattered Mountain.",
+        "Description": "Eliminate the Corrupted in Weeping-and-Gnashing and Corpus Angoris, and recover any supplies left behind. Then report back to Warden Reese in Shattered Mountain.",
         "PlayerPrompt": "\"Tell me about it.\"",
         "ObjectiveProposalResponse": "It feels like the Corrupted keep getting stronger - I'm not sure how much longer we can defend this spot.\\n\\nEvery day, they push us farther from the mountain, and any chance of striking at the source.",
-        "InProgressResponse": "Weaken the Corrupted's position in Vehemence and Iratus so we can get supplies through to Mountainrise. \\n\\nReclaim any supplies you find in those forts as well.",
+        "InProgressResponse": "Weaken the Corrupted's position in the forts so we can get supplies through to Clarion. \\n\\nReclaim any supplies you find in those forts as well.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "That was quite impressive, but somehow I'm not surprised. Now we can finally re-establish supply lines with Mountainrise.\\n\\nAnd Charity's been hoping to recover some of this Orichalcum and Starmetal.",
+        "DestinationCompletionAvailableResponse": "That was quite impressive, but somehow I'm not surprised. Now we can finally re-establish supply lines with Clarion.\\n\\nAnd Charity's been hoping to recover some of this Orichalcum and Starmetal.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -39,7 +39,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "ShateredMtnArc1",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0719_0101_reflectionsmountainheart",
@@ -51,10 +52,10 @@
         "CanBeShared": null,
         "CanFastTravel": null,
         "Task": "0719_0101_d_00_container_reflectionsmountainheart",
-        "NpcDestinationId": "0719_Ranger",
+        "NpcDestinationId": "0719_Ranger_02",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_10",
-        "RequiredAchievementId": "",
+        "RequiredAchievementId": "03_Quest_10 || 99G_MSQ_12",
         "RequiredFaction": "",
         "RequiredLevel": "",
         "SuccessGameEventId": "0719_0101_reflectionsmountainheart_success",
@@ -64,8 +65,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Our Own Worst Enemy",
         "Description": "Search for Soulwarden Heartgems across the five forts in Shattered Mountain, and search for any Corrupted writings. Then report back to Ranger Madaki in Shattered Mountain.",
         "PlayerPrompt": "\"What are they doing?\"",
@@ -81,7 +82,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "GreatCleaveArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0713_0101_explorerift",
@@ -93,10 +95,10 @@
         "CanBeShared": null,
         "CanFastTravel": null,
         "Task": "0713_0101_d_00_container_explorerift",
-        "NpcDestinationId": "0713_Watcher",
+        "NpcDestinationId": "0713_Watcher_03",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_02",
-        "RequiredAchievementId": "07_Quest_03",
+        "RequiredAchievementId": "07_Quest_06 \u0026\u0026 (99G_MSQ_07 || 99_MSQ_59)",
         "RequiredFaction": "",
         "RequiredLevel": "",
         "SuccessGameEventId": "0713_0101_explorerift_success",
@@ -106,15 +108,15 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Illurmin Rift",
         "Description": "Explore the deadly Illurmin Rift and deliver your discoveries to Warden Linch in Shattered Mountain.",
-        "PlayerPrompt": "\"Should I go to Mountainrise?\"",
-        "ObjectiveProposalResponse": "Yes, but I wouldn't take the road.\\n\\nThere's some vile Corrupted down in the Illurmin Rift, like something straight from hell, and I worry they're prepping to attack both here and in Mountainrise.",
+        "PlayerPrompt": "\"Should I warn the Soulwardens?\"",
+        "ObjectiveProposalResponse": "Yes, but I wouldn't take the road.\\n\\nThere's some vile Corrupted down in the Illurmin Rift, like something straight from hell, and I worry they're prepping to attack both here and the Soulwarden War Camp.",
         "InProgressResponse": "The things coming out of the Rift are scary enough to make you mess your smallclothes if you're not prepared.\\n\\nHave courage, and for azoth's sake, watch your back.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "I'll be a weathered knob on an Angry Spriggan's arse! Someone finally made it through!\\n\\nFirst one to come in from Mountainhome in quite some time, and through the Illurmin Rift, to boot!",
+        "DestinationCompletionAvailableResponse": "I'll be a weathered knob on an Angry Spriggan's arse! Someone finally made it through!\\n\\nFirst one to come in from Clarion in quite some time, and through the Illurmin Rift, to boot!",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -123,7 +125,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "ShateredMtnArc3",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0715_0102_luckonlylends",
@@ -135,10 +138,10 @@
         "CanBeShared": null,
         "CanFastTravel": null,
         "Task": "0715_0102_d_00_container_luckonlylends",
-        "NpcDestinationId": "0714_Watcher",
+        "NpcDestinationId": "0714_Watcher_02",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_05",
-        "RequiredAchievementId": "07_Quest_03",
+        "RequiredAchievementId": "99G_MSQ_05 || 99_MSQ_59",
         "RequiredFaction": "",
         "RequiredLevel": "",
         "SuccessGameEventId": "0715_0102_luckonlylends_success",
@@ -148,13 +151,13 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Guardians' Secrets",
-        "Description": "Defeat Guardian Tzi-Wang, recover Baetylus Luckstones, and defeat Rockruins Guardians in Spilaio Cavern. Then report back to Warden Reese in Shattered Mountain.",
+        "Description": "Defeat Guardian Tzi-Wang, recover Baetylus Luckstones, and defeat Rockruins Guardians in Limbus Cavatus. Then report back to Warden Reese in Shattered Mountain.",
         "PlayerPrompt": "\"What did you have in mind?\"",
-        "ObjectiveProposalResponse": "Well, I'm no nerdy researcher like William Heron, but you have to admit - those Ancients knew some things.\\n\\nThe Corrupted actually give some of the old ruins a wide berth.",
-        "InProgressResponse": "Spilaio Cavern is certainly a hike, I know... but it's worth a shot.",
+        "ObjectiveProposalResponse": "Well, I'm no bookish researcher like William Heron, but you have to admit - those Ancients knew some things.\\n\\nThe Corrupted actually give some of the old ruins a wide berth.",
+        "InProgressResponse": "Limbus Cavatus is certainly a hike, I know... but it's worth a shot.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
         "DestinationCompletionAvailableResponse": "Hey, you made it back! That bony wretch didn't give you too much trouble, I hope? \\n\\nAnd what are these? Baetylus Luckstones? I wonder if that's what repels the Corruption. William Heron, never around when you need him.",
         "ObjectiveCompletionResponse": "",
@@ -165,7 +168,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "ShateredMtnArc1",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0715_0101_varietiesofheat",
@@ -180,7 +184,7 @@
         "NpcDestinationId": "0715_Watcher",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_04",
-        "RequiredAchievementId": "07_Quest_03",
+        "RequiredAchievementId": "99G_MSQ_01 || 99_MSQ_59",
         "RequiredFaction": "",
         "RequiredLevel": "",
         "SuccessGameEventId": "0715_0101_varietiesofheat_success",
@@ -190,15 +194,15 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Alligator Steaks",
         "Description": "Hunt Shattered Alligators for Gator Steaks and seek out bundles of Mirespice Blend held by the Desolate Scroungers. Then report back to Warden Douglas in Shattered Mountain.",
         "PlayerPrompt": "\"I know exactly what you mean.\"",
-        "ObjectiveProposalResponse": "I've been trying to think of a way to cheer people up, but it's just not a cheery place.\\n\\nMaybe those weird steaks some of the Rangers eat? With the right spice, who knows?",
+        "ObjectiveProposalResponse": "I've been trying to think of a way to cheer people up, but it's just not a cheery place.\\n\\nBut doesn't a hearty meal always help? Maybe we could try those weird steaks the Rangers eat… Add a good spice…",
         "InProgressResponse": "Shattered Gator Meat and Mirespice Blend, and then we'll be cooking… or is it better to eat it raw?",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "I don't know if I'm excited or a little nervous to see you return.\\n\\nBut we've all been subsisting on dry rations around here, so I'll even eat alligator. Mmm. I'll prepare it, at least.",
+        "DestinationCompletionAvailableResponse": "I may have had… second thoughts… while you were away.\\n\\nBut we've all been subsisting on dry rations around here, so I'll… I'll… I'll prepare it, at least. Yes, I am very confident in this recipe! Ahem.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -207,7 +211,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "ShateredMtnArc1",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0716_0101_malevolentofferings",
@@ -219,10 +224,10 @@
         "CanBeShared": null,
         "CanFastTravel": null,
         "Task": "0716_0101_d_00_container_malevolentofferings",
-        "NpcDestinationId": "0713_Watcher",
+        "NpcDestinationId": "0713_Watcher_02",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_06",
-        "RequiredAchievementId": "07_Quest_02",
+        "RequiredAchievementId": "99G_MSQ_06 || 99_MSQ_59",
         "RequiredFaction": "",
         "RequiredLevel": "",
         "SuccessGameEventId": "0716_0101_malevolentofferings_success",
@@ -232,15 +237,15 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Malevolent Offerings",
-        "Description": "End the rituals in Lapsus and Pullus by eliminating the Corrupted Vicars, their guards, and their Corruption Barbs, then reclaim their Corrupted ritual implements. Then report back to Warden Linch in Shattered Mountain.",
+        "Description": "End the rituals in Hewn-from-Hell and Mantled-in-Nettles by eliminating the Corrupted Vicars, their guards, and their Corruption Barbs, then reclaim their Corrupted ritual implements. Then report back to Warden Linch in Shattered Mountain.",
         "PlayerPrompt": "\"We do what we must, right?\"",
-        "ObjectiveProposalResponse": "Aye, and now we fight for our very souls, and those of every living creature on the face of the Earth.\\n\\nThe Corrupted here are practicing dark magics that we can't comprehend... but we damn well better put a stop to.",
+        "ObjectiveProposalResponse": "Aye, and now we fight for our very souls, and those of every living creature on the face of the Earth.\\n\\nThe Corrupted here are practicing dark magics that we can't comprehend... but we had better put a stop to that immediately.",
         "InProgressResponse": "Whatever it takes, break up those rituals, destroy the Vicars, and take the implements of their evil. \\n\\nThat way they can't recreate their rituals even if they come back.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "Finally, an end to those infernal rituals! I can feel the difference already. We all can\\n\\nWhatever they were doing, it was driving us mad. You've saved this fort from certain doom, I tell you.",
+        "DestinationCompletionAvailableResponse": "Finally, an end to those infernal rituals! I can feel the difference already. We all can.\\n\\nWhatever they were doing, it was driving us mad. You've saved our forces from certain doom, I tell you.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -249,7 +254,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "ShateredMtnArc3",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0712_0101_layerspastandpresent",
@@ -261,10 +267,10 @@
         "CanBeShared": null,
         "CanFastTravel": null,
         "Task": "0712_0101_d_00_container_layerspastandpresent",
-        "NpcDestinationId": "0712_Watcher",
+        "NpcDestinationId": "0712_Watcher_02",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_01",
-        "RequiredAchievementId": "07_Quest_06",
+        "RequiredAchievementId": "99G_MSQ_05 || 99_MSQ_59",
         "RequiredFaction": "",
         "RequiredLevel": "",
         "SuccessGameEventId": "0712_0101_layerspastandpresent_success",
@@ -274,15 +280,15 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
-        "Title": "Mountainrise Offensive",
-        "Description": "Defeat Dau-Shin and recover Armor Scraps from the Rockrift Carvers in Spilaio Cavern. Then report back to Warden Fayed in Shattered Mountain.",
+        "Repeatable": null,
+        "Title": "Clarion Offensive",
+        "Description": "Defeat Dau-Shin and recover Armor Scraps from the Rockrift Carvers in Limbus Cavatus. Then report back to Warden Fayed in Shattered Mountain.",
         "PlayerPrompt": "\"That's a great idea.\"",
-        "ObjectiveProposalResponse": "I'm glad you agree. Before we make a drive, however, we have to make ourselves less vulnerable.\\n\\nThe weapons the Corrupted wield seem to slice through our armor like it's not even there.",
-        "InProgressResponse": "If we can get some of the armor from the Cavern, it will help us battle the Corrupted.\\n\\nDau-Shin must be defeated first.",
+        "ObjectiveProposalResponse": "I'm glad you agree. Before we can do so, however, we have to make ourselves less vulnerable.\\n\\nThe weapons the Corrupted wield seem to slice through our armor like it's not even there.",
+        "InProgressResponse": "If we can get some of the armor from Limbus Cavatus, it will help us withstand the Corrupted.\\n\\nDau-Shin must be defeated first.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "Aha, a successful mission, I presume? Yes, Dau-Shin defeated and these armor scraps will do nicely.\\n\\nI will see them broken down and used to reinforce the Warden's armors. Then, my friend... then we will strike.",
+        "DestinationCompletionAvailableResponse": "Aha, a successful mission, I presume? Yes, Dau-Shin defeated and these armor scraps will do nicely.\\n\\nI will see them broken down and used to reinforce the Warden's armors. Then, my friend... then we will be ready for anything.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -291,7 +297,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "ShateredMtnArc3",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0718_0102_humble",
@@ -303,10 +310,10 @@
         "CanBeShared": null,
         "CanFastTravel": null,
         "Task": "0718_0102_d_00_container_humble",
-        "NpcDestinationId": "0718_Ranger",
+        "NpcDestinationId": "0718_Ranger_02",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_09",
-        "RequiredAchievementId": "07_Quest_06",
+        "RequiredAchievementId": "99G_MSQ_03 || 99_MSQ_59",
         "RequiredFaction": "",
         "RequiredLevel": "",
         "SuccessGameEventId": "0718_0102_humble_success",
@@ -316,13 +323,13 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Knowledge is Power",
-        "Description": "Extract the essence of the Bitterblade Corrupted at Odium fort, and get a fresh sample from a Blight Nodule near Putridspores in the Blighted Wilds. Then report back to Ranger Herath in Shattered Mountain.",
+        "Description": "Get a fresh blight sample from a Blight Nodule in Wanhope Wold. Then report back to Ranger Herath in Shattered Mountain.",
         "PlayerPrompt": "\"What knowledge?\"",
         "ObjectiveProposalResponse": "We know some of the Corrupted in Edengrove have proven susceptible to the Blight.\\n\\nThe Corrupted near the Mountain are of a different class altogether, but perhaps they suffer from the same weakness.",
-        "InProgressResponse": "If you can get me Corrupted Essence and fresh Blight samples, I can do the rest.",
+        "InProgressResponse": "If you can get me fresh Blight samples, I can do the rest.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
         "DestinationCompletionAvailableResponse": "Aha, the procurer of the ingredients for my experiment!\\n\\nLet us see how these elements interact… yes, the Corruption certainly can't take hold, and in fact, it is weakened. This will work.",
         "ObjectiveCompletionResponse": "",
@@ -333,7 +340,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "ShateredMtnArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0718_0101_guardian",
@@ -345,7 +353,7 @@
         "CanBeShared": null,
         "CanFastTravel": null,
         "Task": "0718_0101_d_00_container_guardian",
-        "NpcDestinationId": "0718_Ranger",
+        "NpcDestinationId": "0718_Ranger_03",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_08",
         "RequiredAchievementId": "07_Quest_09",
@@ -358,10 +366,10 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Blight Resistance",
-        "Description": "Collect a Blight Sample from the Hidden Strain and defeat Fay, the Last Protector. Bring a piece of his remains to Ranger Herath in Shattered Mountain.",
+        "Description": "Collect a Blight Sample from the Baleful Lair and defeat Fay, the Last Protector. Bring a piece of his remains to Ranger Herath in Shattered Mountain.",
         "PlayerPrompt": "\"Does anything resist the Blight?\"",
         "ObjectiveProposalResponse": "Ah, now that you mention it, I did notice some Angry Earth in the region that seem impervious.\\n\\nThey are led by a particularly fierce Dryad simply known as Fay - I suspect he would be trouble, even for you.",
         "InProgressResponse": "Fay and his band of Dryads are a force unto themselves.\\n\\nProceed with caution - my hopes go with you.",
@@ -375,7 +383,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "ShateredMtnArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0717_0101_myrkgardarena",
@@ -400,8 +409,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "1",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Path to Myrkgard",
         "Description": "Travel to Myrkgard and destroy the Corrupted Monoliths and Portals, collecting the Orbs hidden at each. Combine the Orbs with Captain Thorpe's Corrupted Aura to form the Myrkgard Arena Key, unlocking the Arena behind the Myrkgard Cathedral.\\n\\n[This Quest can be shared and repeated.]",
         "PlayerPrompt": "\"I need to enter the Mountain.\"",
@@ -417,7 +426,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0719_0201_madakisstratagem",
@@ -429,10 +439,10 @@
         "CanBeShared": null,
         "CanFastTravel": null,
         "Task": "0719_0201_d_00_container_madakisstratagem",
-        "NpcDestinationId": "0719_Ranger",
+        "NpcDestinationId": "0719_Ranger_02",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_11",
-        "RequiredAchievementId": "",
+        "RequiredAchievementId": "99F_MSQ_12 || 99_MSQ_59",
         "RequiredFaction": "",
         "RequiredLevel": "",
         "SuccessGameEventId": "0719_0201_madakisstratagem_success",
@@ -442,13 +452,13 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Madaki's Stratagem",
-        "Description": "Search the forges of Caminus for any weapon molds or crucibles they might be using to forge weapons of great power. Then report back to Ranger Madaki in Shattered Mountain.",
+        "Description": "Search the forges of Infernal Host for any weapon molds or crucibles they might be using to forge weapons of great power. Then report back to Ranger Madaki in Shattered Mountain.",
         "PlayerPrompt": "\"Can we do the same?\"",
-        "ObjectiveProposalResponse": "Possibly, but there seem to be some unique molds involved in the process.\\n\\nIf the Corrupted are attempting to forge such things, it would be in the forges of Caminus. Someone will need to go there.",
-        "InProgressResponse": "If it is possible to use these Ancient forging techniques, we'll need whatever molds or crucibles they're using at the forges of Caminus.",
+        "ObjectiveProposalResponse": "Possibly. My study has indicated they need unique molds to properly complete each weapon.\\n\\nIf the Corrupted are attempting to forge such things, it would be deep within Infernal Host. Someone will need to go there.",
+        "InProgressResponse": "If it is possible to use these Ancient forging techniques, that is an advantage we need to deny the Corrupted…",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
         "DestinationCompletionAvailableResponse": "You've returned. I'm impressed and cautiously optimistic. You found the crucibles?\\n\\nAmazing. With these, we can forge a great variety of weapon types. I will share them amongst all the Rangers and Wardens.",
         "ObjectiveCompletionResponse": "",
@@ -459,7 +469,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "GreatCleaveArc2",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0714_0105_baetylusheadpiece",
@@ -471,10 +482,10 @@
         "CanBeShared": null,
         "CanFastTravel": null,
         "Task": "0714_0105_d_00_container_baetylusheadpiece",
-        "NpcDestinationId": "0714_Watcher",
+        "NpcDestinationId": "0714_Watcher_03",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_Lazarus_11",
-        "RequiredAchievementId": "07_Quest_05",
+        "RequiredAchievementId": "07_Quest_05 \u0026\u0026 07_Quest_03",
         "RequiredFaction": "",
         "RequiredLevel": "",
         "SuccessGameEventId": "0714_0105_baetylusheadpiece_success",
@@ -484,8 +495,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Baetylus Headpiece (Expedition)",
         "Description": "Defeat the Cilla in the Lazarus Instrumentality Expedition and Collect the Naga Headdress. Then report back to Warden Reese in Shattered Mountain.",
         "PlayerPrompt": "\"The Lazarus Instrumentality?\"",
@@ -501,7 +512,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0718_0103_ultimatedefense",
@@ -513,7 +525,7 @@
         "CanBeShared": null,
         "CanFastTravel": null,
         "Task": "0718_0103_d_00_container_ultimatedefense",
-        "NpcDestinationId": "0718_Ranger",
+        "NpcDestinationId": "0718_Ranger_03",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_Garden_12",
         "RequiredAchievementId": "07_Quest_08",
@@ -526,8 +538,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": false,
+        "Repeatable": null,
         "Title": "Ultimate Blight Defense (Expedition)",
         "Description": "Defeat the Alluvium Marl and Collect Alluvium Spores for Ranger Herath in Shattered Mountain.",
         "PlayerPrompt": "\"The Garden of Genesis?\"",
@@ -543,7 +555,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0726_0101_MightyTempest",
@@ -558,7 +571,7 @@
         "NpcDestinationId": "0726_MaraRosa",
         "ExclusiveTerritory": null,
         "AchievementId": "07_Quest_Isabella_01",
-        "RequiredAchievementId": "",
+        "RequiredAchievementId": "99_MSQ_59||99G_MSQ_12",
         "RequiredFaction": "",
         "RequiredLevel": "",
         "SuccessGameEventId": "0726_0101_MightyTempest_success",
@@ -568,15 +581,15 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Tempest's Soul (Expedition)",
-        "Description": "Enter Tempest's Heart and Defeat Isabella De Leon.",
+        "Description": "Enter Tempest's Heart and Defeat Isabella de Leon.",
         "PlayerPrompt": "\"You need someone to delve inside?\"",
         "ObjectiveProposalResponse": "Precisely. You have no doubt heard of the Tempest and have come seeking her ruin. But what do you know of Captain Isabella? What does anyone know? \\n\\nI intend to discover what madness drove her to this point.",
         "InProgressResponse": "I have found accounts scattered across this island by those who had contact with Isabella. The story they tell is grim. \\n\\nBut this place can reveal which accounts were true and which were false.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "So it is true… Isabella De Leon is no more. This is only the beginning. \\n\\nTo fully understand how a god-fearing, upstanding citizen of Spain could become such a monster will require delving deeper into Isabella's reality.",
+        "DestinationCompletionAvailableResponse": "So it is true… Isabella de Leon is no more. This is only the beginning. \\n\\nTo fully understand how a god-fearing, upstanding citizen of Spain could become such a monster will require delving deeper into Isabella's reality.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -585,7 +598,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0726_0102_IsabellaDeLeon",
@@ -610,11 +624,11 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Isabella De Leon (Expedition)",
-        "Description": "Find out about Isabella's past in Spain with her brothers. Then defeat Isabella De Leon again with this new knowledge in mind.",
-        "PlayerPrompt": "\"I'd never given any thought to her parents.\"",
+        "Description": "Find out about Isabella's past in Spain with her brothers. Then defeat Isabella de Leon again with this new knowledge in mind.",
+        "PlayerPrompt": "\"I'd never concerned her parents.\"",
         "ObjectiveProposalResponse": "We all have family. She also had brothers. Could they have stopped Isabella's descent into madness? \\n\\nI myself am an only child. I often wished for the love and comfort of a sibling, to help ease my woes. \\n\\nWere her brothers of any help?",
         "InProgressResponse": "I am curious to know whether our ill-fated Captain had help or hindrance from her brothers. \\n\\nI have wondered this for a long time…",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
@@ -627,7 +641,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0726_0103_IsabellasCorruption",
@@ -652,10 +667,10 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Isabella's Corruption (Expedition)",
-        "Description": "Find out about how Isabella was offered the mantle of Corruption. Then defeat Isabella De Leon with this new knowledge in mind.",
+        "Description": "Find out about how Isabella was offered the mantle of Corruption. Then defeat Isabella de Leon with this new knowledge in mind.",
         "PlayerPrompt": "\"I don't think she resisted long.\"",
         "ObjectiveProposalResponse": "But how can we know for sure? \\n\\nI used to be a sister of the cloth before my arrival on Aeternum. If there is even the slightesst hope for Isabella's soul, then I must know if she resisted the Heretic.",
         "InProgressResponse": "I left my convent to discover all I could about Isabella. The rumors of her fate frightened me. But they also piqued my interest. \\n\\nCould such a place as Aeternum truly exist?",
@@ -669,7 +684,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0726_0104_RiseOfIsabella",
@@ -694,10 +710,10 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Rise of Captain Isabella (Expedition)",
-        "Description": "Find out about Isabella's descent into cruelty with her crew by investigating the graves where they were buried alive. Then defeat Isabella De Leon with this new knowledge in mind.",
+        "Description": "Find out about Isabella's descent into cruelty with her crew by investigating the graves where they were buried alive. Then defeat Isabella de Leon with this new knowledge in mind.",
         "PlayerPrompt": "\"I would imagine not.\"",
         "ObjectiveProposalResponse": "Still, I must believe that some part of the noble woman remained. \\n\\nSurely there must have been a place in her heart for someone? A person dear to her?",
         "InProgressResponse": "Please discover more about Isabella's trek across the island. \\n\\nWas it true her crew mutinied? A captain would have to punish mutineers, wouldn't they?",
@@ -711,7 +727,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0726_0105_DeathOfHeretic",
@@ -736,11 +753,11 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "Death of the Heretic (Expedition)",
-        "Description": "Find out about the Heretic's true power and talk to the Heretic. Then defeat Isabella De Leon with this new knowledge in mind.",
-        "PlayerPrompt": "\"You seem determined to prove this wasn't her fault.\"",
+        "Description": "Find out about the Heretic's true power and talk to the Heretic. Then defeat Isabella de Leon with this new knowledge in mind.",
+        "PlayerPrompt": "\"You seem driven to exonerate her.\"",
         "ObjectiveProposalResponse": "She was misled! That much I know for sure. Is the Heretic the source of Corruption? That would explain it. \\n\\nThat is the only way to explain my aunt's transformation! The monster in these tales does not match the woman I knew.",
         "InProgressResponse": "Aunt Isabella was as beautiful as an angel. She was devout and prayed at Church often. \\n\\nIt was she who inspired me to pursue life at the convent. She was a saint to me.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
@@ -753,7 +770,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0726_0106_PossessionOfRusso",
@@ -778,10 +796,10 @@
         "ObjectiveReward": "",
         "ItemRewardName": "GypsumOrb",
         "ItemRewardQty": 1,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "The Possession of Russo (Expedition)",
-        "Description": "Find out the truth about Isabella and Father Russo, and what is to come, and talk to Father Russo. Then defeat Isabella De Leon with this new knowledge in mind.",
+        "Description": "Find out the truth about Isabella and Father Russo, and what is to come, and talk to Father Russo. Then defeat Isabella de Leon with this new knowledge in mind.",
         "PlayerPrompt": "\"Did Isabella return his love?\"",
         "ObjectiveProposalResponse": "I do not know. Perhaps it is as you said - Isabella had no one. \\n\\nWhat a tragic possibility. To feel utterly alone in the world...",
         "InProgressResponse": "In another life, perhaps Father Russo and Isabella could have been together. We will never know.",
@@ -795,7 +813,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "0726_0107_Repeatable",
@@ -820,15 +839,15 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "Isabella's Madness (Expedition)",
         "Description": "Recover a shard of Isabella's madness in the ashes of her defeat for Mara Rosa to study.",
-        "PlayerPrompt": "\"So her example will serve as a lesson?\"",
+        "PlayerPrompt": "\"Her example serves as a lesson.\"",
         "ObjectiveProposalResponse": "That seems just.\\n\\nMy Aunt Isabella deserves to have her story told and understood in its entirety. We must leave nothing out.",
         "InProgressResponse": "Have you collected another Shard of Madness? \\n\\nPerhaps these memories will help point a way toward her salvation someday. \\n\\nWe must always have hope.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
-        "DestinationCompletionAvailableResponse": "This Shard of Madness is full of pain. I shall store it with the others. \\n\\nPerhaps one day, Aeternum shall have a full portrait of the woman I knew. The captain, the legend, the terror: Isabella De Leon.",
+        "DestinationCompletionAvailableResponse": "This Shard of Madness is full of pain. I shall store it with the others. \\n\\nPerhaps one day, Aeternum shall have a full portrait of the woman I knew. The captain, the legend, the terror: Isabella de Leon.",
         "ObjectiveCompletionResponse": "",
         "ObjectiveAcceptanceResponse": "",
         "HideIncompleteTurninMarker": "",
@@ -837,7 +856,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Daily"
     },
     {
         "ObjectiveID": "FM_07_PVP_Spy_Marauder_objective",
@@ -862,8 +882,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "1",
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -879,7 +899,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_07_PVP_Poach_Marauder_objective",
@@ -904,8 +925,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "1",
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -921,7 +942,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_07_PVP_Control_Marauder_objective",
@@ -946,8 +968,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "1",
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -963,7 +985,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_07_PVP_Spy_Syndicate_objective",
@@ -988,8 +1011,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "1",
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1005,7 +1028,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_07_PVP_Poach_Syndicate_objective",
@@ -1030,8 +1054,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "1",
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1047,7 +1071,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_07_PVP_Control_Syndicate_objective",
@@ -1072,8 +1097,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "1",
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1089,7 +1114,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_07_PVP_Spy_Covenant_objective",
@@ -1114,8 +1140,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "1",
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1131,7 +1157,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_07_PVP_Poach_Covenant_objective",
@@ -1156,8 +1183,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "1",
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1173,7 +1200,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_07_PVP_Control_Covenant_objective",
@@ -1198,8 +1226,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "1",
         "CanBeAbandoned": true,
+        "Repeatable": true,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1215,7 +1243,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": "Hourly"
     },
     {
         "ObjectiveID": "FM_0701_objective",
@@ -1240,8 +1269,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1257,7 +1286,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0702_objective",
@@ -1282,8 +1312,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1299,7 +1329,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0703_objective",
@@ -1324,8 +1355,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1341,7 +1372,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0704_objective",
@@ -1366,8 +1398,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1383,7 +1415,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0705_objective",
@@ -1408,8 +1441,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1425,7 +1458,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0706_objective",
@@ -1450,8 +1484,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1467,7 +1501,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0707_objective",
@@ -1492,8 +1527,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1509,7 +1544,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0701_objective",
@@ -1534,8 +1570,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1551,7 +1587,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0702_objective",
@@ -1576,8 +1613,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1593,7 +1630,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0703_objective",
@@ -1618,8 +1656,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1635,7 +1673,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0704_objective",
@@ -1660,8 +1699,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1677,7 +1716,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0705_objective",
@@ -1702,8 +1742,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1719,7 +1759,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0706_objective",
@@ -1744,8 +1785,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1761,7 +1802,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0707_objective",
@@ -1786,8 +1828,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1803,7 +1845,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0701_objective",
@@ -1828,8 +1871,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1845,7 +1888,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0702_objective",
@@ -1870,8 +1914,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1887,7 +1931,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0703_objective",
@@ -1912,8 +1957,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1929,7 +1974,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0704_objective",
@@ -1954,8 +2000,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -1971,7 +2017,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0705_objective",
@@ -1996,8 +2043,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2013,7 +2060,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0706_objective",
@@ -2038,8 +2086,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2055,7 +2103,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0707_objective",
@@ -2080,8 +2129,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2097,7 +2146,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0761_objective",
@@ -2122,8 +2172,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2139,7 +2189,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0762_objective",
@@ -2164,8 +2215,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2181,7 +2232,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0763_objective",
@@ -2206,8 +2258,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2223,7 +2275,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0764_objective",
@@ -2248,8 +2301,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2265,7 +2318,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0765_objective",
@@ -2290,8 +2344,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2307,7 +2361,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_0766_objective",
@@ -2332,8 +2387,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2349,7 +2404,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0761_objective",
@@ -2374,8 +2430,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2391,7 +2447,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0762_objective",
@@ -2416,8 +2473,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2433,7 +2490,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0763_objective",
@@ -2458,8 +2516,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2475,7 +2533,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0764_objective",
@@ -2500,8 +2559,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2517,7 +2576,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0765_objective",
@@ -2542,8 +2602,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2559,7 +2619,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_S_0766_objective",
@@ -2584,8 +2645,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2601,7 +2662,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0761_objective",
@@ -2626,8 +2688,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2643,7 +2705,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0762_objective",
@@ -2668,8 +2731,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2685,7 +2748,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0763_objective",
@@ -2710,8 +2774,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2727,7 +2791,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0764_objective",
@@ -2752,8 +2817,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2769,7 +2834,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0765_objective",
@@ -2794,8 +2860,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2811,7 +2877,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_C_0766_objective",
@@ -2836,8 +2903,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2853,7 +2920,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_07_H_01_objective",
@@ -2878,8 +2946,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2895,7 +2963,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_07_H_02_objective",
@@ -2920,8 +2989,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2937,7 +3006,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_07_EXP_01_objective",
@@ -2962,8 +3032,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -2979,7 +3049,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_07_EXP_02_objective",
@@ -3004,8 +3075,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3021,7 +3092,8 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     },
     {
         "ObjectiveID": "FM_07_EXP_03_objective",
@@ -3046,8 +3118,8 @@
         "ObjectiveReward": "",
         "ItemRewardName": "",
         "ItemRewardQty": null,
-        "Repeatable": "",
         "CanBeAbandoned": true,
+        "Repeatable": null,
         "Title": "",
         "Description": "",
         "PlayerPrompt": "",
@@ -3063,6 +3135,7 @@
         "SkipReqAchievmentWhenInvalid": "",
         "EntitlementId": "",
         "QuestArcTag": "",
-        "HideAvailableMapIcon ": ""
+        "HideAvailableMapIcon ": "",
+        "ScheduleId": ""
     }
 ]
