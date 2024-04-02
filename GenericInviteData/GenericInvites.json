@@ -14,7 +14,7 @@
         "AllowInWarPrep": false,
         "AllowInWar": false,
         "AllowInArena": false,
-        "AllowInFFA": false,
+        "AllowInFFA": "",
         "DisallowInGameModes": "Dungeon,OutpostRush,Duel,Arena3v3,",
         "DisallowedWaterDepths": "Deep,"
     },
@@ -33,7 +33,7 @@
         "AllowInWarPrep": true,
         "AllowInWar": false,
         "AllowInArena": false,
-        "AllowInFFA": false,
+        "AllowInFFA": "",
         "DisallowInGameModes": "OutpostRush,Duel,Arena3v3,",
         "DisallowedWaterDepths": ""
     },
@@ -52,7 +52,7 @@
         "AllowInWarPrep": true,
         "AllowInWar": false,
         "AllowInArena": false,
-        "AllowInFFA": false,
+        "AllowInFFA": "",
         "DisallowInGameModes": "",
         "DisallowedWaterDepths": ""
     }
