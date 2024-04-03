@@ -5210,7 +5210,7 @@
     {
         "StatusID": "Blunderbuss_LastChance",
         "DisplayName": "Last Chance",
-        "Description": "You take {[Type_StatusEffectData.Blunderbuss_LastChance.PhysicalArmor * 100]}% less damage",
+        "Description": "You take {[0.300000 * 100]}% less damage",
         "EffectCategories": "Buff+BBLastChance+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_Blunderbuss_LastChance.png",
         "ShowInUITray": "1",
@@ -8186,7 +8186,7 @@
     {
         "StatusID": "Blunderbuss_AbilityRamp",
         "DisplayName": "On a Roll",
-        "Description": "Your armor is increased by {[Type_StatusEffectData.Blunderbuss_AbilityRamp.PhysicalArmor * 100]}%. Stacks up to {[Type_StatusEffectData.Blunderbuss_AbilityRamp.StackMax]} times.",
+        "Description": "Your armor is increased by {[0.030000 * 100]}%. Stacks up to {[5.000000]} times.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_Blunderbuss_OnARoll.png",
         "ShowInUITray": "1",
@@ -9426,7 +9426,7 @@
     {
         "StatusID": "Blunderbuss_FortifyCloseRange",
         "DisplayName": "Fortify",
-        "Description": "Your armor is increased by {[Type_StatusEffectData.Blunderbuss_FortifyCloseRange.PhysicalArmor * 100]}%.",
+        "Description": "Your armor is increased by {[0.100000 * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT1.png",
         "ShowInUITray": "1",

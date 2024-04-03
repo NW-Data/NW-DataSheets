@@ -1986,7 +1986,7 @@
     {
         "StatusID": "Status_Upgrade_Sword_WhirlingBlade_Rend",
         "DisplayName": "Rend",
-        "Description": "Your armor is reduced by {[Type_StatusEffectData.Status_Upgrade_Sword_WhirlingBlade_Rend.PhysicalArmor * 100]}%.",
+        "Description": "Your armor is reduced by {[-0.150000 * 100]}%.",
         "EffectCategories": "Debuff+ArmorRend+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_RendT1.png",
         "ShowInUITray": true,
@@ -2234,7 +2234,7 @@
     {
         "StatusID": "Status_Upgrade_Sword_LeapingStrike_Slow",
         "DisplayName": "Slow",
-        "Description": "Your movement speed reduced by {[Type_StatusEffectData.Status_Upgrade_Sword_LeapingStrike_Slow.SprintSpeedMod * 100]}%.",
+        "Description": "Your movement speed reduced by {[-0.300000 * 100]}%.",
         "EffectCategories": "Debuff+Slow+Slow\u0026Stun+CC",
         "PlaceholderIcon": "lyshineui/images/status/SE_SlowT5.png",
         "ShowInUITray": true,
@@ -2482,7 +2482,7 @@
     {
         "StatusID": "Status_Passive_Sword_Swordmaster_DmgOnHeavy",
         "DisplayName": "Empower",
-        "Description": "Your damage is increased by {[Type_StatusEffectData.Status_Passive_Sword_Swordmaster_DmgOnHeavy.DMGStandard * 100]}%.",
+        "Description": "Your damage is increased by {[0.300000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT5.png",
         "ShowInUITray": true,
@@ -2730,7 +2730,7 @@
     {
         "StatusID": "Status_Passive_Sword_Swordmaster_HasteWhileBlock",
         "DisplayName": "Haste",
-        "Description": "Your movement speed while blocking is increased by {[Type_StatusEffectData.Status_Passive_Sword_Swordmaster_HasteWhileBlock.MoveSpeedMod * 100]}%.",
+        "Description": "Your movement speed while blocking is increased by {[0.330000 * 100]}%.",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": true,
@@ -2978,7 +2978,7 @@
     {
         "StatusID": "Status_Passive_Sword_Swordmaster_HasteOnCrit",
         "DisplayName": "Haste",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.Status_Passive_Sword_Swordmaster_HasteOnCrit.MoveSpeedMod * 100]}%.",
+        "Description": "Your movement speed is increased by {[0.200000 * 100]}%.",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": true,
@@ -3226,7 +3226,7 @@
     {
         "StatusID": "Status_Passive_Sword_Defender_FortWhileBlock",
         "DisplayName": "Fortify",
-        "Description": "Your armor is increased by {[Type_StatusEffectData.Status_Passive_Sword_Defender_FortWhileBlock.PhysicalArmor * 100]}%.",
+        "Description": "Your armor is increased by {[0.200000 * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT3.png",
         "ShowInUITray": true,
@@ -3474,7 +3474,7 @@
     {
         "StatusID": "Status_Passive_Sword_Swordmaster_SlowOnFinal",
         "DisplayName": "Slow",
-        "Description": "Your movement speed reduced by {[Type_StatusEffectData.Status_Passive_Sword_Swordmaster_SlowOnFinal.SprintSpeedMod * 100]}%.",
+        "Description": "Your movement speed reduced by {[-0.200000 * 100]}%.",
         "EffectCategories": "Debuff+Slow+Slow\u0026Stun+CC",
         "PlaceholderIcon": "lyshineui/images/status/SE_SlowT5.png",
         "ShowInUITray": true,
@@ -3970,7 +3970,7 @@
     {
         "StatusID": "Status_Upgrade_Sword_Rush_Weak",
         "DisplayName": "Weaken",
-        "Description": "Your outgoing damage is reduced by {[Type_StatusEffectData.Status_Upgrade_Sword_Rush_Weak.DMGStandard * 100]}%.",
+        "Description": "Your outgoing damage is reduced by {[-0.200000 * 100]}%.",
         "EffectCategories": "Debuff+Weaken+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_WeakenT3.png",
         "ShowInUITray": true,
@@ -4218,7 +4218,7 @@
     {
         "StatusID": "Status_Upgrade_Sword_Rush_Slow",
         "DisplayName": "Slow",
-        "Description": "Your movement speed reduced by {[Type_StatusEffectData.Status_Upgrade_Sword_Rush_Slow.SprintSpeedMod * 100]}%.",
+        "Description": "Your movement speed reduced by {[-0.300000 * 100]}%.",
         "EffectCategories": "Debuff+Slow+Slow\u0026Stun+CC",
         "PlaceholderIcon": "lyshineui/images/status/SE_SlowT3.png",
         "ShowInUITray": true,
@@ -4466,7 +4466,7 @@
     {
         "StatusID": "Status_Ability_Sword_FinalStand",
         "DisplayName": "Defender's Resolve",
-        "Description": "Incoming damage is reduced by {[SwordAbilityTable.Ability_Sword_FinalStand.BaseDamageReduction * 100]}%.",
+        "Description": "Incoming damage is reduced by {[0.300000 * 100]}%.",
         "EffectCategories": "Buff+LastStand",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT5.png",
         "ShowInUITray": true,
@@ -4714,7 +4714,7 @@
     {
         "StatusID": "Status_Ability_Sword_FinalStand_Armor",
         "DisplayName": "Defender's Resolve",
-        "Description": "Incoming damage is reduced by {[SwordAbilityTable.Ability_Sword_FinalStand.BaseDamageReduction * 100]}%.",
+        "Description": "Incoming damage is reduced by {[0.300000 * 100]}%.",
         "EffectCategories": "Buff+LastStand",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT5.png",
         "ShowInUITray": true,
@@ -4962,7 +4962,7 @@
     {
         "StatusID": "Status_Ability_Sword_FinalStand_Heal",
         "DisplayName": "Defender's Resolve",
-        "Description": "Incoming damage is reduced by {[SwordAbilityTable.Ability_Sword_FinalStand.BaseDamageReduction * 100]}%. When this ends heal for {[Type_StatusEffectData.Status_Ability_Sword_FinalStand_Heal_Heal.HealthModifierPercent * 100]}% of max health.",
+        "Description": "Incoming damage is reduced by {[0.300000 * 100]}%. When this ends heal for {[0.150000 * 100]}% of max health.",
         "EffectCategories": "Buff+LastStand",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT5.png",
         "ShowInUITray": true,
@@ -5458,7 +5458,7 @@
     {
         "StatusID": "Status_Ultimate_Sword_Defender",
         "DisplayName": "Fortify",
-        "Description": "Incoming damage is reduced by {[Type_StatusEffectData.Status_Ultimate_Sword_Defender.ABSStandard * 100]}%",
+        "Description": "Incoming damage is reduced by {[0.300000 * 100]}%",
         "EffectCategories": "NonDispellableBuff+Fortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT3.png",
         "ShowInUITray": true,

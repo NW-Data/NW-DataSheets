@@ -2,7 +2,7 @@
     {
         "StatusID": "Spear_Skewer_Bleed",
         "DisplayName": "Bleed",
-        "Description": "{[Type_StatusEffectData.Spear_Skewer_Bleed.HealthModifierDamageBased * -100]}% Bleed every {[Type_StatusEffectData.Spear_Skewer_Bleed.TickRate]} second for {[Type_StatusEffectData.Spear_Skewer_Bleed.BaseDuration]} seconds.",
+        "Description": "{[-0.200000 * -100]}% Bleed every {[1.000000]} second for {[10.000000]} seconds.",
         "EffectCategories": "Debuff+Bleed+Spear+Dot",
         "PlaceholderIcon": "lyshineui/images/status/SE_BleedT2.png",
         "ShowInUITray": true,
@@ -250,7 +250,7 @@
     {
         "StatusID": "Spear_Skewer_Bleed_Upgrade",
         "DisplayName": "Bleed",
-        "Description": "{[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.HealthModifierDamageBased * -100]}% Bleed every {[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.TickRate]} second for {[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.BaseDuration]} seconds.",
+        "Description": "{[-0.200000 * -100]}% Bleed every {[1.000000]} second for {[15.000000]} seconds.",
         "EffectCategories": "Debuff+Bleed+Spear+Dot",
         "PlaceholderIcon": "lyshineui/images/status/SE_BleedT2.png",
         "ShowInUITray": true,
@@ -498,7 +498,7 @@
     {
         "StatusID": "Spear_Skewer_EmpowerOnCrit",
         "DisplayName": "Empower",
-        "Description": "Damage increased by {[Type_StatusEffectData.Spear_Skewer_EmpowerOnCrit.DMGStandard * 100]}%.",
+        "Description": "Damage increased by {[0.200000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,
@@ -746,7 +746,7 @@
     {
         "StatusID": "Spear_Perforate_Rend",
         "DisplayName": "Rend",
-        "Description": "Armor reduced by {[Type_StatusEffectData.Spear_Perforate_Rend.PhysicalArmor * -100]}% for {[Type_StatusEffectData.Spear_Perforate_Rend.BaseDuration]} seconds.",
+        "Description": "Armor reduced by {[-0.050000 * -100]}% for {[10.000000]} seconds.",
         "EffectCategories": "Debuff+ArmorRend+Spear+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_RendT1.png",
         "ShowInUITray": true,
@@ -994,7 +994,7 @@
     {
         "StatusID": "Spear_Perforate_Rend_Upgrade",
         "DisplayName": "Rend",
-        "Description": "Armor reduced by {[Type_StatusEffectData.Spear_Perforate_Rend_Upgrade.PhysicalArmor * -100]}% for {[Type_StatusEffectData.Spear_Perforate_Rend_Upgrade.BaseDuration]} seconds.",
+        "Description": "Armor reduced by {[-0.100000 * -100]}% for {[10.000000]} seconds.",
         "EffectCategories": "Debuff+ArmorRend+Spear+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_RendT1.png",
         "ShowInUITray": true,
@@ -1242,7 +1242,7 @@
     {
         "StatusID": "Spear_Cyclone_Slow",
         "DisplayName": "Slow",
-        "Description": "Move speed reduced by {[Type_StatusEffectData.Spear_Cyclone_Slow.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Spear_Cyclone_Slow.BaseDuration]} seconds.",
+        "Description": "Move speed reduced by {[-0.300000 * -100]}% for {[3.000000]} seconds.",
         "EffectCategories": "Debuff+Slow+Spear+CC",
         "PlaceholderIcon": "lyshineui/images/status/SE_SlowT5.png",
         "ShowInUITray": true,
@@ -1986,7 +1986,7 @@
     {
         "StatusID": "Spear_VaultKick_EmpowerVsLowHP",
         "DisplayName": "Empower",
-        "Description": "Damage increased by {[Type_StatusEffectData.Spear_VaultKick_EmpowerVsLowHP.DMGStandard * 100]}%.",
+        "Description": "Damage increased by {[0.200000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT2.png",
         "ShowInUITray": true,
@@ -2482,7 +2482,7 @@
     {
         "StatusID": "Spear_BonusDmgAfterDodge",
         "DisplayName": "Empower",
-        "Description": "Damage increased by {[Type_StatusEffectData.Spear_BonusDmgAfterDodge.DMGStandard * 100]}%.",
+        "Description": "Damage increased by {[0.100000 * 100]}%.",
         "EffectCategories": "Buff+Empower",
         "PlaceholderIcon": "lyshineui/images/status/SE_EmpowerT1.png",
         "ShowInUITray": true,
@@ -2978,7 +2978,7 @@
     {
         "StatusID": "Spear_FortifyOnHvyHit",
         "DisplayName": "Fortify",
-        "Description": "Armor increased by {[Type_StatusEffectData.Spear_FortifyOnHvyHit.PhysicalArmor * 100]}%.",
+        "Description": "Armor increased by {[0.150000 * 100]}%.",
         "EffectCategories": "Buff+ArmorFortify",
         "PlaceholderIcon": "lyshineui/images/status/SE_FortifyT2.png",
         "ShowInUITray": true,
@@ -3226,7 +3226,7 @@
     {
         "StatusID": "Spear_BonusStamRegenOnLowStam",
         "DisplayName": "Bonus Stamina Regeneration.",
-        "Description": "Stamina regeneration increased by {[Type_StatusEffectData.Spear_BonusStamRegenOnLowStam.StaminaRate * 100]}%.",
+        "Description": "Stamina regeneration increased by {[0.300000 * 100]}%.",
         "EffectCategories": "Buff+Energized",
         "PlaceholderIcon": "lyshineui/images/status/SE_StaminaRecoveryT3.png",
         "ShowInUITray": true,
@@ -3474,7 +3474,7 @@
     {
         "StatusID": "Spear_SlowOnLightVsLowHP",
         "DisplayName": "Slow",
-        "Description": "Move speed reduced by {[Type_StatusEffectData.Spear_SlowOnLightVsLowHP.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Spear_SlowOnLightVsLowHP.BaseDuration]} seconds.",
+        "Description": "Move speed reduced by {[-0.300000 * -100]}% for {[3.000000]} seconds.",
         "EffectCategories": "Debuff+Slow+Spear+CC",
         "PlaceholderIcon": "lyshineui/images/status/SE_SlowT3.png",
         "ShowInUITray": true,
@@ -3970,7 +3970,7 @@
     {
         "StatusID": "Spear_Perforate_WeakenStack",
         "DisplayName": "Weaken",
-        "Description": "Outgoing damage is reduced by {[Type_StatusEffectData.Spear_Perforate_WeakenStack.DMGStandard * -100]}% per stack.",
+        "Description": "Outgoing damage is reduced by {[-0.100000 * -100]}% per stack.",
         "EffectCategories": "Debuff+Weaken+Debilitate",
         "PlaceholderIcon": "lyshineui/images/status/SE_WeakenT3.png",
         "ShowInUITray": true,

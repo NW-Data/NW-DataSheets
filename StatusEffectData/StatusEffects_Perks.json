@@ -69146,7 +69146,7 @@
     {
         "StatusID": "Status_Perk_Earring_ThreatSubOnDodge",
         "DisplayName": "Evasive",
-        "Description": "Threat generation currently reduced by {[PerksAbilityTable.Global_Earring_ThreatSubOnDodge.ThreatDamage * -100 * {perkMultiplier}]}%.",
+        "Description": "Threat generation currently reduced by {[-0.500000 * -100 * {perkMultiplier}]}%.",
         "EffectCategories": "Buff+Threat",
         "PlaceholderIcon": "lyshineui/images/status/SE_StaminaRecoveryT3.png",
         "ShowInUITray": "1",
@@ -73532,7 +73532,7 @@
     {
         "StatusID": "Status_Perk_Weapon_BlockSpeed_Haste",
         "DisplayName": "",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk3.MoveSpeedMod * 100]}",
+        "Description": "Your movement speed is increased by {[0.350000 * 100]}",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "lyshineui/images/status/SE_Haste.png",
         "ShowInUITray": "0",
@@ -89270,7 +89270,7 @@
     {
         "StatusID": "Status_Perk_Artifact_Set1_Bow_StaticDischarge",
         "DisplayName": "Static Discharge",
-        "Description": "Deals {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Bow_StaticDischarge.HealthModifierDamageBased * -100]}% of attacker's weapon damage.",
+        "Description": "Deals {[-0.800000 * -100]}% of attacker's weapon damage.",
         "EffectCategories": "Debuff+DMG",
         "PlaceholderIcon": "lyshineui/images/status/SE_ShockT1.png",
         "ShowInUITray": "0",
@@ -91592,7 +91592,7 @@
     {
         "StatusID": "BlockSpeedPerk1",
         "DisplayName": "",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk1.MoveSpeedMod * 100]}",
+        "Description": "Your movement speed is increased by {[0.500000 * 100]}",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "",
         "ShowInUITray": "0",
@@ -91850,7 +91850,7 @@
     {
         "StatusID": "BlockSpeedPerk2",
         "DisplayName": "",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk2.MoveSpeedMod * 100]}",
+        "Description": "Your movement speed is increased by {[0.250000 * 100]}",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "",
         "ShowInUITray": "0",
@@ -92108,7 +92108,7 @@
     {
         "StatusID": "BlockSpeedPerk3",
         "DisplayName": "",
-        "Description": "Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk3.MoveSpeedMod * 100]}",
+        "Description": "Your movement speed is increased by {[0.350000 * 100]}",
         "EffectCategories": "Buff+Haste",
         "PlaceholderIcon": "",
         "ShowInUITray": "0",
@@ -97268,7 +97268,7 @@
     {
         "StatusID": "Status_PvP_Perk_OnKill_EmpowerTilDeath",
         "DisplayName": "Mortal Empowerment",
-        "Description": "Dmg is increased by {[Type_StatusEffectData.Status_PvP_Perk_OnKill_EmpowerTilDeath.DMGStandard * 100]}% per stack of Mortal Empowerment you have.",
+        "Description": "Dmg is increased by {[0.020000 * 100]}% per stack of Mortal Empowerment you have.",
         "EffectCategories": "Empower+NonDispellableBuff",
         "PlaceholderIcon": "lyshineui/images/status/SE_overcharged.png",
         "ShowInUITray": "1",
@@ -99590,7 +99590,7 @@
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_FireDMG",
         "DisplayName": "Burn",
-        "Description": "Deals {[Type_StatusEffectData.Status_Perk_Runeglass_Attunement_FireDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base Fire damage per second.",
+        "Description": "Deals {[-0.080000 * -100 * {perkMultiplier}]}% base Fire damage per second.",
         "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_BurnT1.png",
         "ShowInUITray": "1",
@@ -99848,7 +99848,7 @@
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_IceDMG",
         "DisplayName": "Frostburn",
-        "Description": "Deals {[Type_StatusEffectData.Status_Perk_Runeglass_Attunement_FireDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base Ice damage per second.",
+        "Description": "Deals {[-0.080000 * -100 * {perkMultiplier}]}% base Ice damage per second.",
         "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_IceMagicFreeze.png",
         "ShowInUITray": "1",
@@ -100106,7 +100106,7 @@
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_LightningDMG",
         "DisplayName": "Surge",
-        "Description": "Deals {[Type_StatusEffectData.Status_Perk_Runeglass_Attunement_FireDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base Lightning damage per second.",
+        "Description": "Deals {[-0.080000 * -100 * {perkMultiplier}]}% base Lightning damage per second.",
         "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_ShockT1.png",
         "ShowInUITray": "1",
@@ -100364,7 +100364,7 @@
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_NatureDMG",
         "DisplayName": "Poison",
-        "Description": "Deals {[Type_StatusEffectData.Status_Perk_Runeglass_Attunement_FireDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base Nature damage per second.",
+        "Description": "Deals {[-0.080000 * -100 * {perkMultiplier}]}% base Nature damage per second.",
         "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_AngryEarthDMGBonusT1.png",
         "ShowInUITray": "1",
@@ -100622,7 +100622,7 @@
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_VoidDMG",
         "DisplayName": "Corrosion",
-        "Description": "Deals {[Type_StatusEffectData.Status_Perk_Runeglass_Attunement_FireDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base Void damage per second.",
+        "Description": "Deals {[-0.080000 * -100 * {perkMultiplier}]}% base Void damage per second.",
         "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_CorruptedDMGBonusT1.png",
         "ShowInUITray": "1",
@@ -100880,7 +100880,7 @@
     {
         "StatusID": "Status_Perk_Runeglass_Attunement_ArcaneDMG",
         "DisplayName": "Hex",
-        "Description": "Deals {[Type_StatusEffectData.Status_Perk_Runeglass_Attunement_FireDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base Arcane damage per second.",
+        "Description": "Deals {[-0.080000 * -100 * {perkMultiplier}]}% base Arcane damage per second.",
         "EffectCategories": "Debuff+DMG+DoT",
         "PlaceholderIcon": "lyshineui/images/status/SE_ArcanistGearScoreT1.png",
         "ShowInUITray": "1",
