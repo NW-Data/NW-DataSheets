@@ -14536,6 +14536,16 @@ BonusUmbralCrafting:
     ItemId                                                                          Qty MatchOne   Tags
     ________________________________________________________________________________________________________________
     DarkMatter                                                                        4 FALSE      Level:59,HWMBlunderbussCrafting,HWMBlunderbuss:625 
+RabbitSeasonBucket1:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    RabbitSeasonTotem                                                                 1 FALSE      Level:19             
+RabbitSeasonBucket2:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    GypsumWhite                                                                       1 FALSE      Level:59             
 ORJewelry:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -14633,6 +14643,11 @@ TempestCache:
     LightLegs_TempestuousPants_FOCT5                                                  1 FALSE      MinContLevel:59      
     LightFeet_TempestuousShoes_FOCT5                                                  1 FALSE      MinContLevel:59      
     2hGreatSword_TempestuousGreatSwordT5                                              1 FALSE      MinContLevel:59      
+RabbitSeasonBucket3:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    House_HousingItem_Storage_T4_ChestRabbit                                          1 FALSE      Level:19             
 ArenaLostSirenArmor:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -19275,6 +19290,11 @@ SpringtideGS600Patterns2022:
     Artifact_SBArmor600HeavyHands                                                     1                                 
     Artifact_SBArmor600HeavyLegs                                                      1                                 
     Artifact_SBArmor600HeavyFeet                                                      1                                 
+RabbitSeasonBucket4:
+  Contents: |
+    ItemId                                                                          Qty MatchOne   Tags
+    ________________________________________________________________________________________________________________
+    Skin_Mask_RabbitSeason_Box                                                        1 FALSE      Level:19             
 SeasonsGemsInferno:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags
@@ -21802,6 +21822,36 @@ JoelsHiddenTreasures:
     Artifact_SBArmor600HeavyHands                                                  None                                 
     Artifact_SBArmor600HeavyLegs                                                   None                                 
     Artifact_SBArmor600HeavyFeet                                                   None                                 
+    Artifact_SMArmor600LightHead                                                   None                                 
+    Artifact_SMArmor600LightChest                                                  None                                 
+    Artifact_SMArmor600LightHands                                                  None                                 
+    Artifact_SMArmor600LightLegs                                                   None                                 
+    Artifact_SMArmor600LightFeet                                                   None                                 
+    Artifact_SMArmor600MediumHead                                                  None                                 
+    Artifact_SMArmor600MediumChest                                                 None                                 
+    Artifact_SMArmor600MediumHands                                                 None                                 
+    Artifact_SMArmor600MediumLegs                                                  None                                 
+    Artifact_SMArmor600MediumFeet                                                  None                                 
+    Artifact_SMArmor600HeavyHead                                                   None                                 
+    Artifact_SMArmor600HeavyChest                                                  None                                 
+    Artifact_SMArmor600HeavyHands                                                  None                                 
+    Artifact_SMArmor600HeavyLegs                                                   None                                 
+    Artifact_SMArmor600HeavyFeet                                                   None                                 
+    Artifact_SMArmorLightHead                                                      None                                 
+    Artifact_SMArmorLightChest                                                     None                                 
+    Artifact_SMArmorLightHands                                                     None                                 
+    Artifact_SMArmorLightLegs                                                      None                                 
+    Artifact_SMArmorLightFeet                                                      None                                 
+    Artifact_SMArmorMediumHead                                                     None                                 
+    Artifact_SMArmorMediumChest                                                    None                                 
+    Artifact_SMArmorMediumHands                                                    None                                 
+    Artifact_SMArmorMediumLegs                                                     None                                 
+    Artifact_SMArmorMediumFeet                                                     None                                 
+    Artifact_SMArmorHeavyHead                                                      None                                 
+    Artifact_SMArmorHeavyChest                                                     None                                 
+    Artifact_SMArmorHeavyHands                                                     None                                 
+    Artifact_SMArmorHeavyLegs                                                      None                                 
+    Artifact_SMArmorHeavyFeet                                                      None                                 
 ProcWeapons_GuaranteeRare:
   Contents: |
     ItemId                                                                          Qty MatchOne   Tags

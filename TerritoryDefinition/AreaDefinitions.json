@@ -20,7 +20,13 @@
         "AIVariantLevelOverride": 11,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9002,
@@ -43,7 +49,13 @@
         "AIVariantLevelOverride": 16,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9003,
@@ -66,7 +78,13 @@
         "AIVariantLevelOverride": 14,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9004,
@@ -89,7 +107,13 @@
         "AIVariantLevelOverride": 15,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9005,
@@ -112,7 +136,13 @@
         "AIVariantLevelOverride": 17,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9006,
@@ -135,7 +165,13 @@
         "AIVariantLevelOverride": 17,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9007,
@@ -158,7 +194,13 @@
         "AIVariantLevelOverride": 15,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9008,
@@ -181,7 +223,13 @@
         "AIVariantLevelOverride": 15,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9009,
@@ -204,7 +252,13 @@
         "AIVariantLevelOverride": 6,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "ENABLED",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "100 200 255 140",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": 75,
+        "PhasingPopulationMax": 125,
+        "PhasingSortPriority": 30
     },
     {
         "TerritoryID": 9010,
@@ -227,7 +281,13 @@
         "AIVariantLevelOverride": 8,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9011,
@@ -249,8 +309,14 @@
         "PoiDiscoveryXpModifier": 0,
         "AIVariantLevelOverride": 6,
         "AIVariantVitalsCategoryPostfixOverride": "",
-        "PhasingMode": "",
-        "IsFFA": null
+        "PhasingMode": "ENABLED",
+        "IsFFA": null,
+        "PhasingBoundsMargin": "250 130 80 180",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": 75,
+        "PhasingPopulationMax": 125,
+        "PhasingSortPriority": 30
     },
     {
         "TerritoryID": 9012,
@@ -273,7 +339,13 @@
         "AIVariantLevelOverride": 25,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9013,
@@ -296,7 +368,13 @@
         "AIVariantLevelOverride": 25,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9014,
@@ -319,7 +397,13 @@
         "AIVariantLevelOverride": 20,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9015,
@@ -342,7 +426,13 @@
         "AIVariantLevelOverride": 8,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9016,
@@ -365,7 +455,13 @@
         "AIVariantLevelOverride": 16,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9017,
@@ -388,7 +484,13 @@
         "AIVariantLevelOverride": 21,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9018,
@@ -411,7 +513,13 @@
         "AIVariantLevelOverride": 11,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9019,
@@ -434,7 +542,13 @@
         "AIVariantLevelOverride": 20,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9021,
@@ -456,8 +570,14 @@
         "PoiDiscoveryXpModifier": 0,
         "AIVariantLevelOverride": 6,
         "AIVariantVitalsCategoryPostfixOverride": "",
-        "PhasingMode": "ENABLED",
-        "IsFFA": null
+        "PhasingMode": "",
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9022,
@@ -480,7 +600,13 @@
         "AIVariantLevelOverride": 8,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9023,
@@ -503,7 +629,13 @@
         "AIVariantLevelOverride": 16,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9024,
@@ -526,7 +658,13 @@
         "AIVariantLevelOverride": 25,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9025,
@@ -549,7 +687,13 @@
         "AIVariantLevelOverride": 23,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9026,
@@ -572,7 +716,13 @@
         "AIVariantLevelOverride": 16,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9027,
@@ -595,7 +745,13 @@
         "AIVariantLevelOverride": 12,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9028,
@@ -618,7 +774,13 @@
         "AIVariantLevelOverride": 23,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9029,
@@ -641,7 +803,13 @@
         "AIVariantLevelOverride": 14,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9030,
@@ -664,7 +832,13 @@
         "AIVariantLevelOverride": 19,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9031,
@@ -687,7 +861,13 @@
         "AIVariantLevelOverride": 18,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9041,
@@ -710,7 +890,13 @@
         "AIVariantLevelOverride": 34,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9042,
@@ -733,7 +919,13 @@
         "AIVariantLevelOverride": 30,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9043,
@@ -756,7 +948,13 @@
         "AIVariantLevelOverride": 35,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9044,
@@ -779,7 +977,13 @@
         "AIVariantLevelOverride": 34,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9045,
@@ -802,7 +1006,13 @@
         "AIVariantLevelOverride": 35,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9046,
@@ -825,7 +1035,13 @@
         "AIVariantLevelOverride": 29,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9047,
@@ -848,7 +1064,13 @@
         "AIVariantLevelOverride": 30,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9048,
@@ -871,7 +1093,13 @@
         "AIVariantLevelOverride": 35,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9051,
@@ -894,7 +1122,13 @@
         "AIVariantLevelOverride": 48,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9052,
@@ -917,7 +1151,13 @@
         "AIVariantLevelOverride": 45,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9053,
@@ -940,7 +1180,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9054,
@@ -963,7 +1209,13 @@
         "AIVariantLevelOverride": 50,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9055,
@@ -986,7 +1238,13 @@
         "AIVariantLevelOverride": 45,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9056,
@@ -1009,7 +1267,13 @@
         "AIVariantLevelOverride": 42,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9057,
@@ -1032,7 +1296,13 @@
         "AIVariantLevelOverride": 43,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9058,
@@ -1055,7 +1325,13 @@
         "AIVariantLevelOverride": 50,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9059,
@@ -1078,7 +1354,13 @@
         "AIVariantLevelOverride": 50,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9060,
@@ -1101,7 +1383,13 @@
         "AIVariantLevelOverride": 45,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9061,
@@ -1124,7 +1412,13 @@
         "AIVariantLevelOverride": 44,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9071,
@@ -1147,7 +1441,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9072,
@@ -1170,7 +1470,13 @@
         "AIVariantLevelOverride": 66,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9073,
@@ -1193,7 +1499,13 @@
         "AIVariantLevelOverride": 62,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9074,
@@ -1216,7 +1528,13 @@
         "AIVariantLevelOverride": 62,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9075,
@@ -1239,7 +1557,13 @@
         "AIVariantLevelOverride": 62,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9076,
@@ -1262,7 +1586,13 @@
         "AIVariantLevelOverride": 66,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9077,
@@ -1285,7 +1615,13 @@
         "AIVariantLevelOverride": 62,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9078,
@@ -1308,7 +1644,13 @@
         "AIVariantLevelOverride": 64,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9079,
@@ -1331,7 +1673,13 @@
         "AIVariantLevelOverride": 62,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9080,
@@ -1354,7 +1702,13 @@
         "AIVariantLevelOverride": 68,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL01",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9081,
@@ -1377,7 +1731,13 @@
         "AIVariantLevelOverride": 65,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL02",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9082,
@@ -1400,7 +1760,13 @@
         "AIVariantLevelOverride": 65,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL03",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9083,
@@ -1423,7 +1789,13 @@
         "AIVariantLevelOverride": 64,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL04",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9084,
@@ -1446,7 +1818,13 @@
         "AIVariantLevelOverride": 64,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL05",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9085,
@@ -1469,7 +1847,13 @@
         "AIVariantLevelOverride": 66,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL06",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9086,
@@ -1492,7 +1876,13 @@
         "AIVariantLevelOverride": 65,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL07",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9087,
@@ -1515,7 +1905,13 @@
         "AIVariantLevelOverride": 68,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL08",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9088,
@@ -1538,7 +1934,13 @@
         "AIVariantLevelOverride": 67,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL09",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9089,
@@ -1561,7 +1963,13 @@
         "AIVariantLevelOverride": 68,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL10",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9090,
@@ -1584,7 +1992,13 @@
         "AIVariantLevelOverride": 67,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL11",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9091,
@@ -1607,7 +2021,13 @@
         "AIVariantLevelOverride": 59,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9092,
@@ -1630,7 +2050,13 @@
         "AIVariantLevelOverride": 58,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9093,
@@ -1653,7 +2079,13 @@
         "AIVariantLevelOverride": 58,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9094,
@@ -1676,7 +2108,13 @@
         "AIVariantLevelOverride": 56,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9095,
@@ -1699,7 +2137,13 @@
         "AIVariantLevelOverride": 59,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9096,
@@ -1722,7 +2166,13 @@
         "AIVariantLevelOverride": 59,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9097,
@@ -1745,7 +2195,13 @@
         "AIVariantLevelOverride": 57,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9098,
@@ -1768,7 +2224,13 @@
         "AIVariantLevelOverride": 55,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9099,
@@ -1791,7 +2253,13 @@
         "AIVariantLevelOverride": 57,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9100,
@@ -1814,7 +2282,13 @@
         "AIVariantLevelOverride": 66,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9101,
@@ -1837,7 +2311,13 @@
         "AIVariantLevelOverride": 55,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9102,
@@ -1860,7 +2340,13 @@
         "AIVariantLevelOverride": 52,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9103,
@@ -1883,7 +2369,13 @@
         "AIVariantLevelOverride": 54,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9104,
@@ -1906,7 +2398,13 @@
         "AIVariantLevelOverride": 55,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9105,
@@ -1929,7 +2427,13 @@
         "AIVariantLevelOverride": 55,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9106,
@@ -1952,7 +2456,13 @@
         "AIVariantLevelOverride": 55,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9107,
@@ -1975,7 +2485,13 @@
         "AIVariantLevelOverride": 55,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9111,
@@ -1998,7 +2514,13 @@
         "AIVariantLevelOverride": 26,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9112,
@@ -2021,7 +2543,13 @@
         "AIVariantLevelOverride": 30,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9113,
@@ -2044,7 +2572,13 @@
         "AIVariantLevelOverride": 30,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9114,
@@ -2067,7 +2601,13 @@
         "AIVariantLevelOverride": 32,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9115,
@@ -2090,7 +2630,13 @@
         "AIVariantLevelOverride": 31,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9116,
@@ -2113,7 +2659,13 @@
         "AIVariantLevelOverride": 35,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9117,
@@ -2136,7 +2688,13 @@
         "AIVariantLevelOverride": 34,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9118,
@@ -2159,7 +2717,13 @@
         "AIVariantLevelOverride": 35,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9119,
@@ -2182,7 +2746,13 @@
         "AIVariantLevelOverride": 40,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9121,
@@ -2205,7 +2775,13 @@
         "AIVariantLevelOverride": 42,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9122,
@@ -2228,7 +2804,13 @@
         "AIVariantLevelOverride": 43,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9123,
@@ -2251,7 +2833,13 @@
         "AIVariantLevelOverride": 45,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9124,
@@ -2274,7 +2862,13 @@
         "AIVariantLevelOverride": 45,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9125,
@@ -2297,7 +2891,13 @@
         "AIVariantLevelOverride": 46,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9131,
@@ -2320,7 +2920,13 @@
         "AIVariantLevelOverride": 46,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9132,
@@ -2343,7 +2949,13 @@
         "AIVariantLevelOverride": 46,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9133,
@@ -2366,7 +2978,13 @@
         "AIVariantLevelOverride": 46,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9134,
@@ -2389,7 +3007,13 @@
         "AIVariantLevelOverride": 47,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9135,
@@ -2412,7 +3036,13 @@
         "AIVariantLevelOverride": 47,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9136,
@@ -2435,7 +3065,13 @@
         "AIVariantLevelOverride": 48,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9137,
@@ -2458,7 +3094,13 @@
         "AIVariantLevelOverride": 50,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9138,
@@ -2481,7 +3123,13 @@
         "AIVariantLevelOverride": 49,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9139,
@@ -2504,7 +3152,13 @@
         "AIVariantLevelOverride": 49,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9140,
@@ -2527,7 +3181,13 @@
         "AIVariantLevelOverride": 50,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9141,
@@ -2550,7 +3210,13 @@
         "AIVariantLevelOverride": 50,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9142,
@@ -2573,7 +3239,13 @@
         "AIVariantLevelOverride": 50,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9151,
@@ -2596,7 +3268,13 @@
         "AIVariantLevelOverride": 33,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9152,
@@ -2619,7 +3297,13 @@
         "AIVariantLevelOverride": 36,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9153,
@@ -2642,7 +3326,13 @@
         "AIVariantLevelOverride": 40,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9154,
@@ -2665,7 +3355,13 @@
         "AIVariantLevelOverride": 30,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9155,
@@ -2688,7 +3384,13 @@
         "AIVariantLevelOverride": 39,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9156,
@@ -2711,7 +3413,13 @@
         "AIVariantLevelOverride": 35,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9157,
@@ -2734,7 +3442,13 @@
         "AIVariantLevelOverride": 31,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9158,
@@ -2757,7 +3471,13 @@
         "AIVariantLevelOverride": 40,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9159,
@@ -2780,7 +3500,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9160,
@@ -2803,7 +3529,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9161,
@@ -2826,7 +3558,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9162,
@@ -2849,7 +3587,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9163,
@@ -2872,7 +3616,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9164,
@@ -2895,7 +3645,13 @@
         "AIVariantLevelOverride": 61,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9165,
@@ -2918,7 +3674,13 @@
         "AIVariantLevelOverride": 62,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9166,
@@ -2941,7 +3703,13 @@
         "AIVariantLevelOverride": 62,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9167,
@@ -2964,7 +3732,13 @@
         "AIVariantLevelOverride": 64,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9168,
@@ -2987,7 +3761,13 @@
         "AIVariantLevelOverride": 66,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9169,
@@ -3010,7 +3790,13 @@
         "AIVariantLevelOverride": 66,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9170,
@@ -3033,7 +3819,13 @@
         "AIVariantLevelOverride": 28,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9171,
@@ -3056,7 +3848,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS01",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9172,
@@ -3079,7 +3877,13 @@
         "AIVariantLevelOverride": 61,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS02",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9173,
@@ -3102,7 +3906,13 @@
         "AIVariantLevelOverride": 61,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS03",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9174,
@@ -3125,7 +3935,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS04",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9175,
@@ -3148,7 +3964,13 @@
         "AIVariantLevelOverride": 62,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS05",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9176,
@@ -3171,7 +3993,13 @@
         "AIVariantLevelOverride": 62,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS06",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9177,
@@ -3194,7 +4022,13 @@
         "AIVariantLevelOverride": 63,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS07",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9178,
@@ -3217,7 +4051,13 @@
         "AIVariantLevelOverride": 64,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS08",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9179,
@@ -3240,7 +4080,13 @@
         "AIVariantLevelOverride": 65,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS09",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9180,
@@ -3263,7 +4109,13 @@
         "AIVariantLevelOverride": 66,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS10",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9181,
@@ -3286,7 +4138,13 @@
         "AIVariantLevelOverride": 52,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9182,
@@ -3309,7 +4167,13 @@
         "AIVariantLevelOverride": 54,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9183,
@@ -3332,7 +4196,13 @@
         "AIVariantLevelOverride": 56,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9184,
@@ -3355,7 +4225,13 @@
         "AIVariantLevelOverride": 57,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9185,
@@ -3378,7 +4254,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9186,
@@ -3401,7 +4283,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9187,
@@ -3424,7 +4312,13 @@
         "AIVariantLevelOverride": 60,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9188,
@@ -3447,7 +4341,13 @@
         "AIVariantLevelOverride": 66,
         "AIVariantVitalsCategoryPostfixOverride": "",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9189,
@@ -3470,7 +4370,13 @@
         "AIVariantLevelOverride": 64,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS11",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9190,
@@ -3493,7 +4399,13 @@
         "AIVariantLevelOverride": 63,
         "AIVariantVitalsCategoryPostfixOverride": "_16BS12",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     },
     {
         "TerritoryID": 9197,
@@ -3516,6 +4428,12 @@
         "AIVariantLevelOverride": 70,
         "AIVariantVitalsCategoryPostfixOverride": "_09FL12",
         "PhasingMode": "",
-        "IsFFA": null
+        "IsFFA": null,
+        "PhasingBoundsMargin": "",
+        "PhasingEnterMargin": "",
+        "PhasingExitMargin": "",
+        "PhasingPopulationTarget": null,
+        "PhasingPopulationMax": null,
+        "PhasingSortPriority": null
     }
 ]

@@ -407,7 +407,7 @@
     {
         "AbilityID": "Ability_Sword_WhirlingBlade",
         "DisplayName": "Whirling Blade",
-        "Description": "Quickly spin around while extending the sword out, dealing two hits of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.800000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to all foes within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2m\u0026lt;/font\u0026gt;.",
+        "Description": "Quickly spin around while extending the sword out, dealing two hits of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.800000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage to all foes within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;3m\u0026lt;/font\u0026gt;.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/sword_Ability02.png",
         "StatusEffectIcon": "",
@@ -3782,7 +3782,7 @@
     {
         "AbilityID": "Upgrade_Sword_FinalStand_Heal",
         "DisplayName": "Restoration",
-        "Description": "When Defender's Resolve ends, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;heal {[0.150000 * 100]}%\u0026lt;/font\u0026gt; of your max health.",
+        "Description": "When Defender's Resolve ends, heal for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.300000 * 100]}%\u0026lt;/font\u0026gt; of your base health.",
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/sword_Ability06_Mod02.png",
         "StatusEffectIcon": "",

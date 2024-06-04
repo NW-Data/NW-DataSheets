@@ -546,7 +546,7 @@
     {
         "AbilityID": "Ability_WarHammer_MightyGavel",
         "DisplayName": "Mighty Gavel",
-        "Description": "An overhead leaping attack that \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;crushes down\u0026lt;/font\u0026gt; on enemies, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.700000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your war hammer, hits with this ability inflict taunt for {[4.000000]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
+        "Description": "An overhead leaping attack that \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;crushes down\u0026lt;/font\u0026gt; on enemies, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[1.900000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage.\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;\\n\\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your war hammer, hits with this ability inflict taunt for {[4.000000]}s. (Taunt causes monsters to focus only on you.)\u0026lt;/font\u0026gt;",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability02.png",
         "StatusEffectIcon": "",
@@ -682,7 +682,7 @@
     {
         "AbilityID": "Upgrade_WarHammer_Gavel_DmgUnder30pctHP",
         "DisplayName": "Summary Judgment",
-        "Description": "Increases Mighty Gavel damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[30.000000]}%\u0026lt;/font\u0026gt; health.",
+        "Description": "Increases Mighty Gavel damage by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; to targets below \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[50.000000]}%\u0026lt;/font\u0026gt; health.",
         "UICategory": "Melee Damage",
         "Icon": "lyshineui/images/icons/abilities/warhammer_Ability02_Mod01.png",
         "StatusEffectIcon": "",
@@ -748,7 +748,7 @@
         "MyComparisonType": "",
         "MyStaminaPercent": "",
         "MyStaminaComparisonType": "",
-        "TargetHealthPercent": 30,
+        "TargetHealthPercent": 50,
         "TargetComparisonType": "LessThan",
         "DistFromDefender": "",
         "DistComparisonType": "",

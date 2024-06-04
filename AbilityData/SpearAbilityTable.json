@@ -1106,7 +1106,7 @@
     {
         "AbilityID": "Ability_Spear_Cyclone_BonusStaminaOnMultiHit",
         "DisplayName": "Invigorating Combo",
-        "Description": "Restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[25.000000]}\u0026lt;/font\u0026gt; stamina per target hit.",
+        "Description": "Restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[25.000000]}\u0026lt;/font\u0026gt; stamina per target hit. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[2.000000]} targets max.)\u0026lt;/font\u0026gt;",
         "UICategory": "Debuff",
         "Icon": "lyshineui/images/icons/abilities/spear_Ability03_Mod01.png",
         "StatusEffectIcon": "",
@@ -1796,7 +1796,7 @@
     {
         "AbilityID": "Ability_Spear_ReducedDodgeStamCost",
         "DisplayName": "Evasive Maneuvers",
-        "Description": "Dodging consumes \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;20%\u0026lt;/font\u0026gt; less stamina for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt; after a successful hit.",
+        "Description": "Your next dodge \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;20%\u0026lt;/font\u0026gt; less stamina for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt; after a successful hit.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive04.png",
         "StatusEffectIcon": "",
@@ -1934,7 +1934,7 @@
     {
         "AbilityID": "Ability_Spear_BonusStaminaOnCrit",
         "DisplayName": "Invigorating Crits",
-        "Description": "Restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[20.000000]}\u0026lt;/font\u0026gt; stamina on critical hits.",
+        "Description": "Stamina Regen Rate increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.300000 * 100]}%\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[3.000000]}s\u0026lt;/font\u0026gt; after a critical hit.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/spear_Passive05.png",
         "StatusEffectIcon": "",

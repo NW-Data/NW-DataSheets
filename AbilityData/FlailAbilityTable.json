@@ -5189,7 +5189,7 @@
     {
         "AbilityID": "Passive_Flail_Eldritch_Passive6",
         "DisplayName": "Leader of the Pack",
-        "Description": "When no allies are within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}m\u0026lt;/font\u0026gt;, all flail attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; more base damage.\r\n\t\\n\\nWhen 1 or more allies are within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}m\u0026lt;/font\u0026gt;, they gain empower, increasing their damage dealt by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.050000 * 100]}%\u0026lt;/font\u0026gt;.",
+        "Description": "When no allies are within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}m\u0026lt;/font\u0026gt;, all flail attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; more base damage.\r\n\t\\n\\nWhen 1 or more allies are within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[5.000000]}m\u0026lt;/font\u0026gt;, they gain empower, increasing their damage dealt by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/flail_passive06.png",
         "StatusEffectIcon": "",
@@ -5322,7 +5322,7 @@
         "LoadedAmmoCountComparisonType": "",
         "AttackerVitalsCategory": "",
         "TargetVitalsCategory": "",
-        "BaseDamage": 0.1,
+        "BaseDamage": 0.15,
         "SetHealthOnFatalDamageTaken": "",
         "BaseDamageReduction": null,
         "CritDamageReduction": "",

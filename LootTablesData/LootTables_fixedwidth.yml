@@ -9924,6 +9924,7 @@ DarknessMajor1EventLoot25:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LBID]DarknessMajor1Containers25                            
+    Item2               0          1 [LBID]EventDropDarkness                                     
 DarknessMajor2EventLoot25:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -9932,6 +9933,7 @@ DarknessMajor2EventLoot25:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LBID]DarknessMajor2Containers25                            
+    Item2               0          1 [LBID]EventDropDarkness                                     
 DarknessMinor1EventLoot35:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -9956,6 +9958,7 @@ DarknessMajor1EventLoot35:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LBID]DarknessMajor1Containers35                            
+    Item2               0          1 [LBID]EventDropDarkness                                     
 DarknessMajor2EventLoot35:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -9964,6 +9967,7 @@ DarknessMajor2EventLoot35:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LBID]DarknessMajor2Containers35                            
+    Item2               0          1 [LBID]EventDropDarkness                                     
 DarknessMinor1EventLoot45:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -9988,6 +9992,7 @@ DarknessMajor1EventLoot45:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LBID]DarknessMajor1Containers45                            
+    Item2               0          1 [LBID]EventDropDarkness                                     
 DarknessMajor2EventLoot45:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -9996,6 +10001,7 @@ DarknessMajor2EventLoot45:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LBID]DarknessMajor2Containers45                            
+    Item2               0          1 [LBID]EventDropDarkness                                     
 DarknessMinor1EventLoot55:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10020,6 +10026,7 @@ DarknessMajor1EventLoot55:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LBID]DarknessMajor1Containers55                            
+    Item2               0          1 [LBID]EventDropDarkness                                     
 DarknessMajor2EventLoot55:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10028,6 +10035,7 @@ DarknessMajor2EventLoot55:
     Entry        Threshold       Qty Name
     __________________________________________________________________________________________
     Item1               0          1 [LBID]DarknessMajor2Containers55                            
+    Item2               0          1 [LBID]EventDropDarkness                                     
 DarknessMinor1EventLoot60:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10055,6 +10063,7 @@ DarknessMajor1EventLoot60:
     __________________________________________________________________________________________
     Item1               0          1 [LBID]DarknessMajor1Containers60                            
     Item2               0          1 [LTID]GypsumPurpleDarknessRoll                              
+    Item3               0          1 [LBID]EventDropDarkness                                     
 DarknessMajor2EventLoot60:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10064,6 +10073,7 @@ DarknessMajor2EventLoot60:
     __________________________________________________________________________________________
     Item1               0          1 [LBID]DarknessMajor2Containers60                            
     Item2               0          1 [LTID]GypsumPurpleDarknessRoll                              
+    Item3               0          1 [LBID]EventDropDarkness                                     
 DarknessMajor2EventLoot65:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -10074,6 +10084,7 @@ DarknessMajor2EventLoot65:
     Item1               0          1 [LBID]DarknessMajor2Containers65                            
     Item2               0          1 [LTID]GypsumPurpleDarknessRoll                              
     Item3               0          1 [LBID]ArtifactMasterDarkness                                
+    Item4               0          1 [LBID]EventDropDarkness                                     
 GypsumPurpleDarknessRoll:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -12265,6 +12276,70 @@ GoblinLoot60_Portal:
     Item4               0          1 [LBID]DimensionalTetherPvE                                  
     Item5               0          1 [LBID]DimensionalTetherPvP                                  
     Item6               0          1 [LBID]RafflebonesFOTB_DungeonBossGear                       
+RabbitSeasonLoot:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  MaxRoll: 1
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1               0          1 [LTID]RabbitSeasonTotemLoot                                 
+    Item2               0          1 [LTID]RabbitSeasonGypsumLoot                                
+    Item3               0          1 [LTID]RabbitSeasonChestLoot                                 
+    Item4               0          1 [LTID]RabbitSeasonMaskLoot                                  
+    Item5               0          1 [LTID]RabbitSeasonGuaranteePrizes                           
+RabbitSeasonTotemLoot:
+  RollBonusSetting: ClampMax
+  AND/OR: OR
+  Conditions: GlobalMod
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1           20000          1 [LBID]RabbitSeasonBucket1                                   
+RabbitSeasonGypsumLoot:
+  RollBonusSetting: ClampMax
+  AND/OR: OR
+  Conditions: GlobalMod
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1           33000          1 [LBID]RabbitSeasonBucket2                                   
+RabbitSeasonChestLoot:
+  RollBonusSetting: ClampMax
+  AND/OR: OR
+  Conditions: GlobalMod
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1           99750          1 [LBID]RabbitSeasonBucket3                                   
+RabbitSeasonMaskLoot:
+  RollBonusSetting: ClampMax
+  AND/OR: OR
+  Conditions: GlobalMod
+  MaxRoll: 100000
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1           98500          1 [LBID]RabbitSeasonBucket4                                   
+    Item2           99000          1 1hFlail_RR_CorruptedFlail                                   
+    Item3           99500          1 RR_ChestSkin_Box                                            
+RabbitSeasonGuaranteePrizes:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: '[LIM]Tag_RabbitEvent_PityTicker'
+  ConditionOverridesRoll: '1'
+  TriggerLimitOnVisit: 'TRUE'
+  MaxRoll: 400
+  Items: |
+    Entry        Threshold       Qty Name
+    __________________________________________________________________________________________
+    Item1             199          1 [LBID]RabbitSeasonBucket4                                   
+    Item2             299          1 1hFlail_RR_CorruptedFlail                                   
+    Item3             349          1 RR_ChestSkin_Box                                            
+    Item4             399          1 [LBID]RabbitSeasonBucket3                                   
 CreatureLootMaster_MutatedContainer:
   RollBonusSetting: ClampMax
   AND/OR: AND
