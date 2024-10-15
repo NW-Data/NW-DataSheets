@@ -1,0 +1,2492 @@
+[
+    {
+        "VitalsID": "FL_Destructible_Wall_01",
+        "DisplayName": "Bramble Wall",
+        "Level": 60,
+        "BaseVitalsId": "FL_Destructible_Wall_01"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon",
+        "DisplayName": "Armored Drake",
+        "Level": 63,
+        "BaseVitalsId": "FL_Armored_Dragon"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon_Elite_Named_09FL01",
+        "DisplayName": "Sividus",
+        "Level": 70,
+        "BaseVitalsId": "FL_Armored_Dragon_Elite_Named_09FL01"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon_09FL11",
+        "DisplayName": "Hornhold Armored Drake",
+        "Level": 66,
+        "BaseVitalsId": "FL_Armored_Dragon_09FL11"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon_Named_09FL11",
+        "DisplayName": "Sividus",
+        "Level": 66,
+        "BaseVitalsId": "FL_Armored_Dragon_Named_09FL11"
+    },
+    {
+        "VitalsID": "FL_DH_Armored_Dragon_Named",
+        "DisplayName": "Kol Ciron",
+        "Level": 67,
+        "BaseVitalsId": "FL_DH_Armored_Dragon_Named"
+    },
+    {
+        "VitalsID": "FL_Chameleon",
+        "DisplayName": "Elysian Chameleon",
+        "Level": 64,
+        "BaseVitalsId": "FL_Chameleon"
+    },
+    {
+        "VitalsID": "FL_Chameleon_09FL04b",
+        "DisplayName": "Firefly's Chameleon",
+        "Level": 64,
+        "BaseVitalsId": "FL_Chameleon_09FL04b"
+    },
+    {
+        "VitalsID": "FL_Chameleon_09FL09",
+        "DisplayName": "Cave Chameleon",
+        "Level": 67,
+        "BaseVitalsId": "FL_Chameleon_09FL09"
+    },
+    {
+        "VitalsID": "FL_Chameleon_Elite_09FL01",
+        "DisplayName": "Tribunal Chameleon",
+        "Level": 70,
+        "BaseVitalsId": "FL_Chameleon_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Chameleon_Elite_Named_09FL01",
+        "DisplayName": "Highmound Harlequin",
+        "Level": 70,
+        "BaseVitalsId": "FL_Chameleon_Elite_Named_09FL01"
+    },
+    {
+        "VitalsID": "FL_Chameleon_09FL08",
+        "DisplayName": "Elafry Chameleon",
+        "Level": 68,
+        "BaseVitalsId": "FL_Chameleon_09FL08"
+    },
+    {
+        "VitalsID": "FL_Chameleon_09FL11",
+        "DisplayName": "Hornhold Chameleon",
+        "Level": 66,
+        "BaseVitalsId": "FL_Chameleon_09FL11"
+    },
+    {
+        "VitalsID": "FL_Chameleon_09FL13",
+        "DisplayName": "Cavebound Chameleon",
+        "Level": 67,
+        "BaseVitalsId": "FL_Chameleon_09FL13"
+    },
+    {
+        "VitalsID": "FL_AI_Adiana_Bow",
+        "DisplayName": "Artemis",
+        "Level": 65,
+        "BaseVitalsId": "FL_AI_Adiana_Bow"
+    },
+    {
+        "VitalsID": "FL_AI_Adiana_Shadow",
+        "DisplayName": "Wrathful Shadow",
+        "Level": 65,
+        "BaseVitalsId": "FL_AI_Adiana_Shadow"
+    },
+    {
+        "VitalsID": "FL_AI_Adiana_Lotus",
+        "DisplayName": "War Blossom",
+        "Level": 65,
+        "BaseVitalsId": "FL_AI_Adiana_Lotus"
+    },
+    {
+        "VitalsID": "FL_Mammoth",
+        "DisplayName": "Mammoth",
+        "Level": 67,
+        "BaseVitalsId": "FL_Mammoth"
+    },
+    {
+        "VitalsID": "FL_Mammoth_09FL01",
+        "DisplayName": "Tribunal Mammoth",
+        "Level": 68,
+        "BaseVitalsId": "FL_Mammoth_09FL01"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Elite_09FL01",
+        "DisplayName": "Tribunal Mammoth",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Mammoth_09FL09_Named",
+        "DisplayName": "Wooly Mammoth",
+        "Level": 67,
+        "BaseVitalsId": "FL_Mammoth_09FL09_Named"
+    },
+    {
+        "VitalsID": "FL_Medusa",
+        "DisplayName": "Medusa",
+        "Level": 65,
+        "BaseVitalsId": "FL_Medusa"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_minion",
+        "DisplayName": "Boar Minion",
+        "Level": 65,
+        "BaseVitalsId": "FL_Hercyne_Boar_minion"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_minion",
+        "DisplayName": "Corvid Minion",
+        "Level": 65,
+        "BaseVitalsId": "FL_Hercyne_Corvid_minion"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_minion",
+        "DisplayName": "Reindeer Minion",
+        "Level": 65,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_minion"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_DG_FirstLight_01",
+        "DisplayName": "Mahantaram",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_DG_FirstLight_01"
+    },
+    {
+        "VitalsID": "FL_Gorilla",
+        "DisplayName": "Gorilla",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ranged",
+        "DisplayName": "Rock Hurler",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Ranged"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ranged_09FL05",
+        "DisplayName": "Kurok's Rock Hurler",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Ranged_09FL05"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ranged_Elite_09FL01",
+        "DisplayName": "Tribunal Rock Hurler",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Ranged_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ranged_09FL07",
+        "DisplayName": "Korok Hurler",
+        "Level": 67,
+        "BaseVitalsId": "FL_Gorilla_Ranged_09FL07"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ranged_09FL09",
+        "DisplayName": "Cave Hurler",
+        "Level": 67,
+        "BaseVitalsId": "FL_Gorilla_Ranged_09FL09"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ranged_09FL11",
+        "DisplayName": "Hornhold Rock Hurler",
+        "Level": 66,
+        "BaseVitalsId": "FL_Gorilla_Ranged_09FL11"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Melee",
+        "DisplayName": "Silverback Smasher",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Melee"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Melee_09FL05",
+        "DisplayName": "Kurok's Smasher",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Melee_09FL05"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Melee_Elite_09FL01",
+        "DisplayName": "Tribunal Smasher",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Melee_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Melee_Named_09Fl05",
+        "DisplayName": "Silverback Smasher",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Melee_Named_09Fl05"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Melee_09FL07",
+        "DisplayName": "Korok Smasher",
+        "Level": 67,
+        "BaseVitalsId": "FL_Gorilla_Melee_09FL07"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Melee_09FL09",
+        "DisplayName": "Silverback Caver",
+        "Level": 67,
+        "BaseVitalsId": "FL_Gorilla_Melee_09FL09"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Melee_09FL11",
+        "DisplayName": "Hornhold Silverback Smasher",
+        "Level": 66,
+        "BaseVitalsId": "FL_Gorilla_Melee_09FL11"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Fire",
+        "DisplayName": "Flaming Fists",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Fire"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Fire_09FL05",
+        "DisplayName": "Kurok's Flaming Fists",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Fire_09FL05"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Fire_Named_09FL07",
+        "DisplayName": "Patriarch Furuga",
+        "Level": 67,
+        "BaseVitalsId": "FL_Gorilla_Fire_Named_09FL07"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Fire_Elite_09FL01",
+        "DisplayName": "Tribunal Flaming Fists",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Fire_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Fire_Elite_Named_09FL01",
+        "DisplayName": "Torug",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Fire_Elite_Named_09FL01"
+    },
+    {
+        "VitalsID": "FL_DH_Gorilla_Fire_Named",
+        "DisplayName": "Bulrok, The Burning",
+        "Level": 67,
+        "BaseVitalsId": "FL_DH_Gorilla_Fire_Named"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ice",
+        "DisplayName": "Ice Hurler",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Ice"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ice_09FL05",
+        "DisplayName": "Ice Hurler",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Ice_09FL05"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ice_Named_09FL05",
+        "DisplayName": "Kurok's Frozen Fist",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Ice_Named_09FL05"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ice_Named_09FL07",
+        "DisplayName": "Patriarch Subzuru",
+        "Level": 67,
+        "BaseVitalsId": "FL_Gorilla_Ice_Named_09FL07"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ice_Elite_09FL01",
+        "DisplayName": "Tribunal Ice Hurler",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Ice_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ice_Elite_Named_09FL01",
+        "DisplayName": "Kreeko",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Ice_Elite_Named_09FL01"
+    },
+    {
+        "VitalsID": "FL_DH_Gorilla_Ice_Named",
+        "DisplayName": "Kondak, The Frigid",
+        "Level": 67,
+        "BaseVitalsId": "FL_DH_Gorilla_Ice_Named"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Lightning",
+        "DisplayName": "Thunder Charger",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Lightning"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Lightning_09FL05",
+        "DisplayName": "Kurok's Thunder Charger",
+        "Level": 63,
+        "BaseVitalsId": "FL_Gorilla_Lightning_09FL05"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Lightning_named_09FL07",
+        "DisplayName": "Patriarch Keelua",
+        "Level": 67,
+        "BaseVitalsId": "FL_Gorilla_Lightning_named_09FL07"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Lightning_Elite_09FL01",
+        "DisplayName": "Tribunal Thunder Charger",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Lightning_Elite_09FL01"
+    },
+    {
+        "VitalsID": "Gorilla_Boss_DG_FirstLight_01",
+        "DisplayName": "Kurok",
+        "Level": 65,
+        "BaseVitalsId": "Gorilla_Boss_DG_FirstLight_01"
+    },
+    {
+        "VitalsID": "Gorilla_Boss_Elemental_DG_FirstLight_01",
+        "DisplayName": "Kurok Elemental",
+        "Level": 65,
+        "BaseVitalsId": "Gorilla_Boss_Elemental_DG_FirstLight_01"
+    },
+    {
+        "VitalsID": "Mammoth_Boss_MSQ_FirstLight",
+        "DisplayName": "Mahantaram",
+        "Level": 64,
+        "BaseVitalsId": "Mammoth_Boss_MSQ_FirstLight"
+    },
+    {
+        "VitalsID": "FL_Alligator",
+        "DisplayName": "Elysian Alligator",
+        "Level": 63,
+        "BaseVitalsId": "FL_Alligator"
+    },
+    {
+        "VitalsID": "FL_Alligator_Elite_09FL01",
+        "DisplayName": "Tribunal Alligator",
+        "Level": 70,
+        "BaseVitalsId": "FL_Alligator_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Alligator_Elite_Named_09FL01",
+        "DisplayName": "Khenti-kheti",
+        "Level": 70,
+        "BaseVitalsId": "FL_Alligator_Elite_Named_09FL01"
+    },
+    {
+        "VitalsID": "FL_Alligator_09FL11",
+        "DisplayName": "Hornhold Alligator",
+        "Level": 66,
+        "BaseVitalsId": "FL_Alligator_09FL11"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_Earth_Root_Arcane",
+        "DisplayName": "Arcane Conduit",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_Earth_Root_Arcane"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_Earth_Root_Fire",
+        "DisplayName": "Blazing Conduit",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_Earth_Root_Fire"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_Earth_Root_Ice",
+        "DisplayName": "Frigid Conduit",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_Earth_Root_Ice"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_Earth_Root_Lightning",
+        "DisplayName": "Charged Conduit",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_Earth_Root_Lightning"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_Earth_Root_Void",
+        "DisplayName": "Hollow Conduit",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_Earth_Root_Void"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_Earth_Root_Arcane_Plus",
+        "DisplayName": "Savage Arcane Conduit",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_Earth_Root_Arcane_Plus"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_Earth_Root_Fire_Plus",
+        "DisplayName": "Savage Blazing Conduit",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_Earth_Root_Fire_Plus"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_Earth_Root_Ice_Plus",
+        "DisplayName": "Savage Frigid Conduit",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_Earth_Root_Ice_Plus"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_Earth_Root_Lightning_Plus",
+        "DisplayName": "Savage Charged Conduit",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_Earth_Root_Lightning_Plus"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_Earth_Root_Void_Plus",
+        "DisplayName": "Savage Hollow Conduit",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_Earth_Root_Void_Plus"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_DG_FirstLight_01_Void_Ball",
+        "DisplayName": "Seething Void",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_DG_FirstLight_01_Void_Ball"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_DG_FirstLight_01_Void_Ball_Empowered",
+        "DisplayName": "Twinned Seething Void",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_DG_FirstLight_01_Void_Ball_Empowered"
+    },
+    {
+        "VitalsID": "FL_Boar",
+        "DisplayName": "FL_Boar",
+        "Level": 63,
+        "BaseVitalsId": "FL_Boar"
+    },
+    {
+        "VitalsID": "FL_Boar_09FL09",
+        "DisplayName": "Ocean Boar",
+        "Level": 67,
+        "BaseVitalsId": "FL_Boar_09FL09"
+    },
+    {
+        "VitalsID": "FL_Boar_09FL11",
+        "DisplayName": "Hornhold Boar",
+        "Level": 66,
+        "BaseVitalsId": "FL_Boar_09FL11"
+    },
+    {
+        "VitalsID": "FL_Rabbit",
+        "DisplayName": "Infested Rabbit",
+        "Level": 60,
+        "BaseVitalsId": "FL_Rabbit"
+    },
+    {
+        "VitalsID": "FL_Rabbit_09FL05",
+        "DisplayName": "Mosswater Rabbit",
+        "Level": 60,
+        "BaseVitalsId": "FL_Rabbit_09FL05"
+    },
+    {
+        "VitalsID": "FL_Peacock",
+        "DisplayName": "Elysian Peacock",
+        "Level": 60,
+        "BaseVitalsId": "FL_Peacock"
+    },
+    {
+        "VitalsID": "FL_Wolf",
+        "DisplayName": "FL_Wolf",
+        "Level": 60,
+        "BaseVitalsId": "FL_Wolf"
+    },
+    {
+        "VitalsID": "FL_Wolf_09FL09",
+        "DisplayName": "Seaweed Wolf",
+        "Level": 67,
+        "BaseVitalsId": "FL_Wolf_09FL09"
+    },
+    {
+        "VitalsID": "FL_Elk",
+        "DisplayName": "FL_Elk",
+        "Level": 60,
+        "BaseVitalsId": "FL_Elk"
+    },
+    {
+        "VitalsID": "FL_Elk_Elemental",
+        "DisplayName": "Elysian Elk",
+        "Level": 60,
+        "BaseVitalsId": "FL_Elk_Elemental"
+    },
+    {
+        "VitalsID": "FL_Elk_Elemental_09FL04b",
+        "DisplayName": "Firefly's Elk",
+        "Level": 62,
+        "BaseVitalsId": "FL_Elk_Elemental_09FL04b"
+    },
+    {
+        "VitalsID": "FL_Lynx",
+        "DisplayName": "FL_Lynx",
+        "Level": 60,
+        "BaseVitalsId": "FL_Lynx"
+    },
+    {
+        "VitalsID": "FL_Wolf_Elemental_Earth",
+        "DisplayName": "Elysian Wolf",
+        "Level": 62,
+        "BaseVitalsId": "FL_Wolf_Elemental_Earth"
+    },
+    {
+        "VitalsID": "FL_Wolf_Elemental_Earth_09FL03",
+        "DisplayName": "Dayspring Wolf",
+        "Level": 63,
+        "BaseVitalsId": "FL_Wolf_Elemental_Earth_09FL03"
+    },
+    {
+        "VitalsID": "FL_Wolf_Elemental_Earth_09FL04b",
+        "DisplayName": "Firefly's Wolf",
+        "Level": 62,
+        "BaseVitalsId": "FL_Wolf_Elemental_Earth_09FL04b"
+    },
+    {
+        "VitalsID": "FL_Wolf_Elemental_Earth_09FL08",
+        "DisplayName": "Elafry Wolf",
+        "Level": 68,
+        "BaseVitalsId": "FL_Wolf_Elemental_Earth_09FL08"
+    },
+    {
+        "VitalsID": "FL_Wolf_Elemental_Earth_09FL09",
+        "DisplayName": "Cave Wolf",
+        "Level": 67,
+        "BaseVitalsId": "FL_Wolf_Elemental_Earth_09FL09"
+    },
+    {
+        "VitalsID": "FL_BearElemental_Named_09FL08",
+        "DisplayName": "Rose",
+        "Level": 68,
+        "BaseVitalsId": "FL_BearElemental_Named_09FL08"
+    },
+    {
+        "VitalsID": "FL_Bobcat",
+        "DisplayName": "FL_Bobcat",
+        "Level": 60,
+        "BaseVitalsId": "FL_Bobcat"
+    },
+    {
+        "VitalsID": "FL_Primal_Lion",
+        "DisplayName": "Jungle Lion",
+        "Level": 67,
+        "BaseVitalsId": "FL_Primal_Lion"
+    },
+    {
+        "VitalsID": "FL_Primal_Lion_09Fl09",
+        "DisplayName": "Shirzad Primal Lion",
+        "Level": 67,
+        "BaseVitalsId": "FL_Primal_Lion_09Fl09"
+    },
+    {
+        "VitalsID": "FL_DH_Primal_Lion_Named",
+        "DisplayName": "Zirāsh",
+        "Level": 67,
+        "BaseVitalsId": "FL_DH_Primal_Lion_Named"
+    },
+    {
+        "VitalsID": "FL_Primal_Lion_Pounce_Elite_09FL01",
+        "DisplayName": "Tribunal Pouncer",
+        "Level": 70,
+        "BaseVitalsId": "FL_Primal_Lion_Pounce_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Barbary_Lion",
+        "DisplayName": "Lion Outcast",
+        "Level": 67,
+        "BaseVitalsId": "FL_Barbary_Lion"
+    },
+    {
+        "VitalsID": "FL_Barbary_Lion_09FL09",
+        "DisplayName": "Shirzad's Cave Lion",
+        "Level": 67,
+        "BaseVitalsId": "FL_Barbary_Lion_09FL09"
+    },
+    {
+        "VitalsID": "FL_Barbary_Lion_Elite_09FL01",
+        "DisplayName": "Tribunal Lion",
+        "Level": 70,
+        "BaseVitalsId": "FL_Barbary_Lion_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Barbary_Lion_Elite_Named_09FL01",
+        "DisplayName": "Vanash",
+        "Level": 70,
+        "BaseVitalsId": "FL_Barbary_Lion_Elite_Named_09FL01"
+    },
+    {
+        "VitalsID": "FL_Barbary_Lion_09FL11",
+        "DisplayName": "Hornhold Lion",
+        "Level": 66,
+        "BaseVitalsId": "FL_Barbary_Lion_09FL11"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus",
+        "DisplayName": "Elysian Razor Azalea",
+        "Level": 60,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_09FL03",
+        "DisplayName": "Dayspring Razor Bellflower",
+        "Level": 63,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_09FL03"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_09FL04",
+        "DisplayName": "Swampwater Razor Lotus",
+        "Level": 62,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_09FL04"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_09FL04b",
+        "DisplayName": "Firefly's Razor Dahlia",
+        "Level": 62,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_09FL04b"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_09FL08",
+        "DisplayName": "Elafry Razor Imperial",
+        "Level": 68,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_09FL08"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_09FL10",
+        "DisplayName": "Sporebound Razor Cereus",
+        "Level": 68,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_09FL10"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_Named_09FL02a",
+        "DisplayName": "TEMPORARY CHANGE ME",
+        "Level": 64,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_Named_09FL02a"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_Named_09FL02b",
+        "DisplayName": "The Pyrepetal Seed",
+        "Level": 64,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_Named_09FL02b"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_SolMinion",
+        "DisplayName": "TEMPORARY CHANGE ME",
+        "Level": 64,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_SolMinion"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_Named_09FL08",
+        "DisplayName": "Adiana's Chosen Lotus",
+        "Level": 68,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_Named_09FL08"
+    },
+    {
+        "VitalsID": "FL_DH_MegaFlora_RazorLotus",
+        "DisplayName": "Razor Lotus",
+        "Level": 70,
+        "BaseVitalsId": "FL_DH_MegaFlora_RazorLotus"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Physical",
+        "DisplayName": "Unstable Spinospitter",
+        "Level": 62,
+        "BaseVitalsId": "FL_Explosive_Sprout_Physical"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Physical_09FL08",
+        "DisplayName": "Elafry Spinospitter",
+        "Level": 68,
+        "BaseVitalsId": "FL_Explosive_Sprout_Physical_09FL08"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_Leaves",
+        "DisplayName": "Razor Lotus Leaves",
+        "Level": 70,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_Leaves"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Fire",
+        "DisplayName": "Unstable Vulconyte",
+        "Level": 62,
+        "BaseVitalsId": "FL_Explosive_Sprout_Fire"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Fire_09FL04b",
+        "DisplayName": "Firefly's Vulconyte",
+        "Level": 62,
+        "BaseVitalsId": "FL_Explosive_Sprout_Fire_09FL04b"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Fire_09FL08",
+        "DisplayName": "Elafry Vulconyte",
+        "Level": 68,
+        "BaseVitalsId": "FL_Explosive_Sprout_Fire_09FL08"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Poison",
+        "DisplayName": "Unstable Rotseed",
+        "Level": 62,
+        "BaseVitalsId": "FL_Explosive_Sprout_Poison"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Poison_09FL04b",
+        "DisplayName": "Firefly's Rotseed",
+        "Level": 62,
+        "BaseVitalsId": "FL_Explosive_Sprout_Poison_09FL04b"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Poison_09FL08",
+        "DisplayName": "Elafry Rotseed",
+        "Level": 68,
+        "BaseVitalsId": "FL_Explosive_Sprout_Poison_09FL08"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar",
+        "DisplayName": "Hercyne Boar",
+        "Level": 63,
+        "BaseVitalsId": "FL_Hercyne_Boar"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_09FL02",
+        "DisplayName": "Hercyne Boar",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Boar_09FL02"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_09FL02a",
+        "DisplayName": "Invading Boar",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Boar_09FL02a"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_09FL02b",
+        "DisplayName": "Hollow Boar",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Boar_09FL02b"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_09FL02_WaveEvent",
+        "DisplayName": "Hercyne Boar",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Boar_09FL02_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_09FL05",
+        "DisplayName": "Hercyne Boar",
+        "Level": 60,
+        "BaseVitalsId": "FL_Hercyne_Boar_09FL05"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_09FL08",
+        "DisplayName": "Elafry Pyrgo Boar",
+        "Level": 68,
+        "BaseVitalsId": "FL_Hercyne_Boar_09FL08"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_09FL13",
+        "DisplayName": "Gorgon Swine",
+        "Level": 67,
+        "BaseVitalsId": "FL_Hercyne_Boar_09FL13"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_09FL10",
+        "DisplayName": "Sporebound Boar",
+        "Level": 68,
+        "BaseVitalsId": "FL_Hercyne_Boar_09FL10"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_Alpha",
+        "DisplayName": "Hercyne Alpha Boar",
+        "Level": 63,
+        "BaseVitalsId": "FL_Hercyne_Boar_Alpha"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_Alpha_Named_09FL02",
+        "DisplayName": "Pimble",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Boar_Alpha_Named_09FL02"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Boar_Alpha_Named_09FL02b",
+        "DisplayName": "Warpig Firethorn",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Boar_Alpha_Named_09FL02b"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid",
+        "DisplayName": "Hercyne Corvid",
+        "Level": 63,
+        "BaseVitalsId": "FL_Hercyne_Corvid"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_09FL02",
+        "DisplayName": "Hercyne Corvid",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Corvid_09FL02"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_09FL02a",
+        "DisplayName": "Invading Corvid",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Corvid_09FL02a"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_09FL03",
+        "DisplayName": "Besieger Corvid",
+        "Level": 63,
+        "BaseVitalsId": "FL_Hercyne_Corvid_09FL03"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_09FL02b",
+        "DisplayName": "Hollow Corvid",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Corvid_09FL02b"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_09FL08",
+        "DisplayName": "Elafry Pyrgo Corvid",
+        "Level": 68,
+        "BaseVitalsId": "FL_Hercyne_Corvid_09FL08"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_09FL10",
+        "DisplayName": "Sporebound Corvid",
+        "Level": 68,
+        "BaseVitalsId": "FL_Hercyne_Corvid_09FL10"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_09FL13",
+        "DisplayName": "Gorgon Koraki",
+        "Level": 67,
+        "BaseVitalsId": "FL_Hercyne_Corvid_09FL13"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_Named_09FL10",
+        "DisplayName": "Ner' Mur",
+        "Level": 68,
+        "BaseVitalsId": "FL_Hercyne_Corvid_Named_09FL10"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_Alpha",
+        "DisplayName": "Hercyne Corvid Alpha",
+        "Level": 63,
+        "BaseVitalsId": "FL_Hercyne_Corvid_Alpha"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_Alpha_Named_09FL02",
+        "DisplayName": "Umbralvid",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Corvid_Alpha_Named_09FL02"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Corvid_Alpha_Named_09FL02b",
+        "DisplayName": "Warcrow Akwo'Ak Ak-Ak",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Corvid_Alpha_Named_09FL02b"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_Briar_Turret",
+        "DisplayName": "Briar Turret",
+        "Level": 63,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_Briar_Turret"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_Briar_Turret_Alpha",
+        "DisplayName": "Alpha Briar Turret",
+        "Level": 63,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_Briar_Turret_Alpha"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_Briar_Tangle",
+        "DisplayName": "Tangled Root",
+        "Level": 63,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_Briar_Tangle"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer",
+        "DisplayName": "Hercyne Reindeer",
+        "Level": 63,
+        "BaseVitalsId": "FL_Hercyne_Reindeer"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_Alpha_Named_09FL02b",
+        "DisplayName": "Arimanius Leschee",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_Alpha_Named_09FL02b"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_09FL04",
+        "DisplayName": "Forellac Reindeer",
+        "Level": 62,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_09FL04"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_09FL02",
+        "DisplayName": "Hollow Reindeer",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_09FL02"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_09FL02_WaveEvent",
+        "DisplayName": "Hercyne Reindeer",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_09FL02_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_09FL08",
+        "DisplayName": "Elafry Pyrgo Reindeer",
+        "Level": 68,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_09FL08"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_09FL10",
+        "DisplayName": "Sporebound Reindeer",
+        "Level": 68,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_09FL10"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_Named_09FL10",
+        "DisplayName": "Aska' roa",
+        "Level": 68,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_Named_09FL10"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_Named_09FL02",
+        "DisplayName": "Remnant of Simon Jeffrey",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_Named_09FL02"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_09FL13",
+        "DisplayName": "Gorgon Tarandos",
+        "Level": 67,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_09FL13"
+    },
+    {
+        "VitalsID": "FL_Bear_Black",
+        "DisplayName": "FL_Black_Bear",
+        "Level": 60,
+        "BaseVitalsId": "FL_Bear_Black"
+    },
+    {
+        "VitalsID": "FL_Bear_Black_Named_09FL08",
+        "DisplayName": "Chompy",
+        "Level": 68,
+        "BaseVitalsId": "FL_Bear_Black_Named_09FL08"
+    },
+    {
+        "VitalsID": "FL_Bear_Black_09FL11",
+        "DisplayName": "Hornhold Black Bear",
+        "Level": 66,
+        "BaseVitalsId": "FL_Bear_Black_09FL11"
+    },
+    {
+        "VitalsID": "FL_Bear_Black_Named_09FL11",
+        "DisplayName": "Juice",
+        "Level": 66,
+        "BaseVitalsId": "FL_Bear_Black_Named_09FL11"
+    },
+    {
+        "VitalsID": "FL_Rat_HercyneRat",
+        "DisplayName": "Hercyne Rat",
+        "Level": 60,
+        "BaseVitalsId": "FL_Rat_HercyneRat"
+    },
+    {
+        "VitalsID": "FL_Rat_HercyneRat_09FL02a",
+        "DisplayName": "Invading Rat",
+        "Level": 64,
+        "BaseVitalsId": "FL_Rat_HercyneRat_09FL02a"
+    },
+    {
+        "VitalsID": "FL_Rat_HercyneRat_09FL02b",
+        "DisplayName": "Hollow Rat",
+        "Level": 64,
+        "BaseVitalsId": "FL_Rat_HercyneRat_09FL02b"
+    },
+    {
+        "VitalsID": "FL_Rat_HercyneRat_09FL03",
+        "DisplayName": "Dayspring Rat",
+        "Level": 63,
+        "BaseVitalsId": "FL_Rat_HercyneRat_09FL03"
+    },
+    {
+        "VitalsID": "FL_Rat_HercyneRat_09FL04",
+        "DisplayName": "Swampwater Rat",
+        "Level": 62,
+        "BaseVitalsId": "FL_Rat_HercyneRat_09FL04"
+    },
+    {
+        "VitalsID": "FL_Rat_HercyneRat_09FL04b",
+        "DisplayName": "Firefly's Rat",
+        "Level": 62,
+        "BaseVitalsId": "FL_Rat_HercyneRat_09FL04b"
+    },
+    {
+        "VitalsID": "FL_Rat_HercyneRat_09FL05",
+        "DisplayName": "Mosswater Rat",
+        "Level": 60,
+        "BaseVitalsId": "FL_Rat_HercyneRat_09FL05"
+    },
+    {
+        "VitalsID": "FL_Rat_HercyneRat_09FL10",
+        "DisplayName": "Sporebound Rat",
+        "Level": 68,
+        "BaseVitalsId": "FL_Rat_HercyneRat_09FL10"
+    },
+    {
+        "VitalsID": "FL_Rat_HercyneRat_Named_09FL05",
+        "DisplayName": "The Moss Prince",
+        "Level": 60,
+        "BaseVitalsId": "FL_Rat_HercyneRat_Named_09FL05"
+    },
+    {
+        "VitalsID": "FL_Rat_HercyneRat_Named_09FL02",
+        "DisplayName": "Rotgut",
+        "Level": 64,
+        "BaseVitalsId": "FL_Rat_HercyneRat_Named_09FL02"
+    },
+    {
+        "VitalsID": "FL_Rat_HercyneRat_Named_09FL02b",
+        "DisplayName": "Arimanius's Familiar",
+        "Level": 64,
+        "BaseVitalsId": "FL_Rat_HercyneRat_Named_09FL02b"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Scarab",
+        "DisplayName": "Anubian Scarab Construct",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Scarab"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Scarab_09FL01",
+        "DisplayName": "Tideswallow Construct",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Scarab_09FL01"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Scarab_09FL06",
+        "DisplayName": "Saircor Scarab Construct",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Scarab_09FL06"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Brute",
+        "DisplayName": "Anubian Automaton",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Brute"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Brute_09FL01",
+        "DisplayName": "Tideswallow Automaton",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Brute_09FL01"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Brute_Named_09FL01",
+        "DisplayName": "Abn Awaa Kabir",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Brute_Named_09FL01"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Brute_Named_09A_M7_WaveEvent",
+        "DisplayName": "Head of Security",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Brute_Named_09A_M7_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Brute_09FL06",
+        "DisplayName": "Saircor Automaton",
+        "Level": 66,
+        "BaseVitalsId": "FL_AnubianGuardian_Brute_09FL06"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Brute_Named_09FL06",
+        "DisplayName": "Rage of Osiris",
+        "Level": 66,
+        "BaseVitalsId": "FL_AnubianGuardian_Brute_Named_09FL06"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Spearman",
+        "DisplayName": "Anubian Guardian Spearman",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Spearman"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Spearman_09FL01",
+        "DisplayName": "Tempestus Sentry",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Spearman_09FL01"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Spearman_09FL01a",
+        "DisplayName": "Tideswallow Spearman",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Spearman_09FL01a"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Spearman_Named_09FL01a",
+        "DisplayName": "Au'cahn",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Spearman_Named_09FL01a"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Spearman_Named_09FL01b",
+        "DisplayName": "Au'leqe",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Spearman_Named_09FL01b"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Spearman_09FL03",
+        "DisplayName": "Defender Spearman",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Spearman_09FL03"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Spearman_09FL06",
+        "DisplayName": "Saircor Guardian Spearman",
+        "Level": 66,
+        "BaseVitalsId": "FL_AnubianGuardian_Spearman_09FL06"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Archer",
+        "DisplayName": "Anubian Guardian Archer",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Archer"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Archer_09FL01",
+        "DisplayName": "Tempestus Archer",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Archer_09FL01"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Archer_09FL01a",
+        "DisplayName": "Tideswallow Archer",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Archer_09FL01a"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Archer_09FL03",
+        "DisplayName": "Defender Archer",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Archer_09FL03"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Archer_09FL06",
+        "DisplayName": "Saircor Guardian Archer",
+        "Level": 66,
+        "BaseVitalsId": "FL_AnubianGuardian_Archer_09FL06"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Horus",
+        "DisplayName": "Horus Automaton",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Horus"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Horus_09FL01",
+        "DisplayName": "Tempestus Mage",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Horus_09FL01"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Horus_09FL01a",
+        "DisplayName": "Tideswallow Automaton",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Horus_09FL01a"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Horus_Named_09FL01",
+        "DisplayName": "A'stor the Jailer",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Horus_Named_09FL01"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Horus_09FL03",
+        "DisplayName": "Defender Automaton",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Horus_09FL03"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Horus_Named_09FL03",
+        "DisplayName": "Horus Defender",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Horus_Named_09FL03"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Horus_09FL06",
+        "DisplayName": "Saircor Horus",
+        "Level": 66,
+        "BaseVitalsId": "FL_AnubianGuardian_Horus_09FL06"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Horus_Named_09FL06",
+        "DisplayName": "Fathomless Syllogist",
+        "Level": 66,
+        "BaseVitalsId": "FL_AnubianGuardian_Horus_Named_09FL06"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Reaver",
+        "DisplayName": "Anubian Guardian Reaver",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Reaver"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Reaver_09FL01",
+        "DisplayName": "Tempestus Reaver",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Reaver_09FL01"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Reaver_09FL01a",
+        "DisplayName": "Anubian Guardian Reaver",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Reaver_09FL01a"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Reaver_Named_09FL01",
+        "DisplayName": "A'gevere",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Reaver_Named_09FL01"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Reaver_09FL03",
+        "DisplayName": "Anubian Guardian Reaver",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Reaver_09FL03"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Reaver_09FL06",
+        "DisplayName": "Saircor Guardian Reaver",
+        "Level": 66,
+        "BaseVitalsId": "FL_AnubianGuardian_Reaver_09FL06"
+    },
+    {
+        "VitalsID": "FL_Dryad_Beast",
+        "DisplayName": "Dryad Beast",
+        "Level": 63,
+        "BaseVitalsId": "FL_Dryad_Beast"
+    },
+    {
+        "VitalsID": "FL_Dryad_Beast_09FL03",
+        "DisplayName": "Overgrown Guardian",
+        "Level": 63,
+        "BaseVitalsId": "FL_Dryad_Beast_09FL03"
+    },
+    {
+        "VitalsID": "FL_Dryad_Beast_Named_09FL03",
+        "DisplayName": "Overgrown Guardian",
+        "Level": 63,
+        "BaseVitalsId": "FL_Dryad_Beast_Named_09FL03"
+    },
+    {
+        "VitalsID": "FL_Dryad_Beast_Named_09FL02",
+        "DisplayName": "Dryad Beast",
+        "Level": 64,
+        "BaseVitalsId": "FL_Dryad_Beast_Named_09FL02"
+    },
+    {
+        "VitalsID": "FL_Dryad_Beast_Named_09FL08",
+        "DisplayName": "Adiana's Chosen Beast",
+        "Level": 68,
+        "BaseVitalsId": "FL_Dryad_Beast_Named_09FL08"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Archer",
+        "DisplayName": "Swamp Dryad Archer",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Archer"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Archer_09FL02",
+        "DisplayName": "Swamp Dryad Archer",
+        "Level": 64,
+        "BaseVitalsId": "FL_Swamp_Dryad_Archer_09FL02"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Archer_09FL02_WaveEvent",
+        "DisplayName": "Swamp Dryad Archer",
+        "Level": 64,
+        "BaseVitalsId": "FL_Swamp_Dryad_Archer_09FL02_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Archer_09FL03",
+        "DisplayName": "Dayspring Archer",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Archer_09FL03"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Archer_09FL03a",
+        "DisplayName": "Besieger Archer",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Archer_09FL03a"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Archer_09FL04",
+        "DisplayName": "Swamp Dryad Archer",
+        "Level": 62,
+        "BaseVitalsId": "FL_Swamp_Dryad_Archer_09FL04"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Archer_09FL08",
+        "DisplayName": "Elafry Pyrgo Archer",
+        "Level": 68,
+        "BaseVitalsId": "FL_Swamp_Dryad_Archer_09FL08"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Archer_09FL10",
+        "DisplayName": "Spore Addled Archer",
+        "Level": 68,
+        "BaseVitalsId": "FL_Swamp_Dryad_Archer_09FL10"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Prowler",
+        "DisplayName": "Swamp Dryad Prowler",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Prowler"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Prowler_09FL02",
+        "DisplayName": "Swamp Dryad Prowler",
+        "Level": 64,
+        "BaseVitalsId": "FL_Swamp_Dryad_Prowler_09FL02"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Prowler_09FL03",
+        "DisplayName": "Dayspring Prowler",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Prowler_09FL03"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Prowler_09FL03a",
+        "DisplayName": "Besieger Prowler",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Prowler_09FL03a"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Prowler_Named_09FL03a",
+        "DisplayName": "Besieger Captain",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Prowler_Named_09FL03a"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Prowler_09FL04",
+        "DisplayName": "Swamp Dryad Prowler",
+        "Level": 62,
+        "BaseVitalsId": "FL_Swamp_Dryad_Prowler_09FL04"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Prowler_09FL08",
+        "DisplayName": "Elafry Pyrgo Prowler",
+        "Level": 68,
+        "BaseVitalsId": "FL_Swamp_Dryad_Prowler_09FL08"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Prowler_09FL10",
+        "DisplayName": "Spore Addled Prowler",
+        "Level": 68,
+        "BaseVitalsId": "FL_Swamp_Dryad_Prowler_09FL10"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Shaman",
+        "DisplayName": "Swamp Dryad Shaman",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Shaman"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Shaman_09FL02",
+        "DisplayName": "Swamp Dryad Shaman",
+        "Level": 64,
+        "BaseVitalsId": "FL_Swamp_Dryad_Shaman_09FL02"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Shaman_09FL02_WaveEvent",
+        "DisplayName": "Swamp Dryad Shaman",
+        "Level": 64,
+        "BaseVitalsId": "FL_Swamp_Dryad_Shaman_09FL02_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Shaman_09FL03",
+        "DisplayName": "Dayspring Elder",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Shaman_09FL03"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Shaman_09FL03a",
+        "DisplayName": "Besieger Shaman",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Shaman_09FL03a"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Shaman_09FL04",
+        "DisplayName": "Swamp Dryad Shaman",
+        "Level": 62,
+        "BaseVitalsId": "FL_Swamp_Dryad_Shaman_09FL04"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Shaman_09FL08",
+        "DisplayName": "Elafry Pyrgo Shaman",
+        "Level": 68,
+        "BaseVitalsId": "FL_Swamp_Dryad_Shaman_09FL08"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Shaman_Named_09FL08",
+        "DisplayName": "Adiana's Chosen Shaman",
+        "Level": 68,
+        "BaseVitalsId": "FL_Swamp_Dryad_Shaman_Named_09FL08"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Shaman_09FL10",
+        "DisplayName": "Spore Addled Shaman",
+        "Level": 68,
+        "BaseVitalsId": "FL_Swamp_Dryad_Shaman_09FL10"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Shaman_Whisper",
+        "DisplayName": "Elysian Shaman",
+        "Level": 60,
+        "BaseVitalsId": "FL_Swamp_Dryad_Shaman_Whisper"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Soldier",
+        "DisplayName": "Swamp Sunderer",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Soldier"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Soldier_09FL02",
+        "DisplayName": "Swamp Sunderer",
+        "Level": 64,
+        "BaseVitalsId": "FL_Swamp_Dryad_Soldier_09FL02"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Soldier_09FL02_WaveEvent",
+        "DisplayName": "Swamp Sunderer",
+        "Level": 64,
+        "BaseVitalsId": "FL_Swamp_Dryad_Soldier_09FL02_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Soldier_09FL03",
+        "DisplayName": "Dayspring Sunderer",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Soldier_09FL03"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Soldier_09FL03a",
+        "DisplayName": "Besieger Soldier",
+        "Level": 63,
+        "BaseVitalsId": "FL_Swamp_Dryad_Soldier_09FL03a"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Soldier_09FL04",
+        "DisplayName": "Swamp Sunderer",
+        "Level": 62,
+        "BaseVitalsId": "FL_Swamp_Dryad_Soldier_09FL04"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Soldier_09FL08",
+        "DisplayName": "Elafry Pyrgo Soldier",
+        "Level": 68,
+        "BaseVitalsId": "FL_Swamp_Dryad_Soldier_09FL08"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Soldier_Named_09FL08",
+        "DisplayName": "Adiana's Chosen Soldier",
+        "Level": 68,
+        "BaseVitalsId": "FL_Swamp_Dryad_Soldier_Named_09FL08"
+    },
+    {
+        "VitalsID": "FL_Swamp_Dryad_Soldier_09FL10",
+        "DisplayName": "Spore Addled Soldier",
+        "Level": 68,
+        "BaseVitalsId": "FL_Swamp_Dryad_Soldier_09FL10"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Ice",
+        "DisplayName": "Ice Mammoth",
+        "Level": 67,
+        "BaseVitalsId": "FL_Mammoth_Ice"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Ice_Elite_09FL01",
+        "DisplayName": "Tribunal Ice Mammoth",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Ice_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Lava",
+        "DisplayName": "Lava Mammoth",
+        "Level": 67,
+        "BaseVitalsId": "FL_Mammoth_Lava"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Lava_Elite_09FL01",
+        "DisplayName": "Tribunal Lava Mammoth",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Lava_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Lightning",
+        "DisplayName": "Lightning Mammoth",
+        "Level": 67,
+        "BaseVitalsId": "FL_Mammoth_Lightning"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Lightning_Elite_09FL01",
+        "DisplayName": "Tribunal Lightning Mammoth",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Lightning_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Lightning_Elite_Named_09FL01",
+        "DisplayName": "Mithandana",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Lightning_Elite_Named_09FL01"
+    },
+    {
+        "VitalsID": "FL_DH_Mammoth_Lightning_Named",
+        "DisplayName": "Mawthor, The Thundering",
+        "Level": 67,
+        "BaseVitalsId": "FL_DH_Mammoth_Lightning_Named"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Nature",
+        "DisplayName": "Nature Mammoth",
+        "Level": 67,
+        "BaseVitalsId": "FL_Mammoth_Nature"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Nature_Elite_09FL01",
+        "DisplayName": "Tribunal Nature Mammoth",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Nature_Elite_09FL01"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Nature_Elite_Named_09FL01",
+        "DisplayName": "Hundantha",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Nature_Elite_Named_09FL01"
+    },
+    {
+        "VitalsID": "FL_DH_Mammoth_Nature_Named",
+        "DisplayName": "Mosantar, The Earth Eater",
+        "Level": 67,
+        "BaseVitalsId": "FL_DH_Mammoth_Nature_Named"
+    },
+    {
+        "VitalsID": "FL_DG_Firstlight_01_Mammoth_Ice",
+        "DisplayName": "Ice Mammoth",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_Firstlight_01_Mammoth_Ice"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Mammoth_Lava",
+        "DisplayName": "Lava Mammoth",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Mammoth_Lava"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Mammoth_Lightning",
+        "DisplayName": "Lightning Mammoth",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Mammoth_Lightning"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Mammoth_Nature",
+        "DisplayName": "Nature Mammoth",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Mammoth_Nature"
+    },
+    {
+        "VitalsID": "FL_DG_Firstlight_01_Gorilla_Ice",
+        "DisplayName": "Ice Hurler",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_Firstlight_01_Gorilla_Ice"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Gorilla_Lava",
+        "DisplayName": "Flaming Fists",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Gorilla_Lava"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Gorilla_Lightning",
+        "DisplayName": "Thunder Charger",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Gorilla_Lightning"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Gorilla_Nature",
+        "DisplayName": "Gorilla",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Gorilla_Nature"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Armored_Dragon",
+        "DisplayName": "Armored Drake",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Armored_Dragon"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Bear_Black",
+        "DisplayName": "FL_Black_Bear",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Bear_Black"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Gorilla_Melee",
+        "DisplayName": "Silverback Smasher",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Gorilla_Melee"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Gorilla_Ranged",
+        "DisplayName": "Rock Hurler",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Gorilla_Ranged"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Mammoth_Base",
+        "DisplayName": "Mammoth",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Mammoth_Base"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Chameleon",
+        "DisplayName": "Chameleon",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Chameleon"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Barbary_Lion",
+        "DisplayName": "Barbary Lion",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Barbary_Lion"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_MegaFlora_RazorLotus",
+        "DisplayName": "Razor Lotus",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_MegaFlora_RazorLotus"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Explosive_Sprout_Poison",
+        "DisplayName": "Unstable Rotseed",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Explosive_Sprout_Poison"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_MegaFlora_RazorLotus_Named",
+        "DisplayName": "Death Razor",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_MegaFlora_RazorLotus_Named"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Chameleon_Named",
+        "DisplayName": "Styx",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Chameleon_Named"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Gorilla_Lava_Named",
+        "DisplayName": "Hodari",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Gorilla_Lava_Named"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Armored_Dragon_Named",
+        "DisplayName": "Zyggot",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Armored_Dragon_Named"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Barbary_Lion_Named",
+        "DisplayName": "Lockjaw",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Barbary_Lion_Named"
+    },
+    {
+        "VitalsID": "FL_DG_Firstlight_01_Gorilla_Ice_Named",
+        "DisplayName": "Mbita",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_Firstlight_01_Gorilla_Ice_Named"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Gorilla_Ranged_Named",
+        "DisplayName": "Otesha",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Gorilla_Ranged_Named"
+    },
+    {
+        "VitalsID": "FL_DH_BearElemental_Named",
+        "DisplayName": "Edenclaw",
+        "Level": 65,
+        "BaseVitalsId": "FL_DH_BearElemental_Named"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Mammoth_Lava_Named_Miniboss",
+        "DisplayName": "Madhu",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Mammoth_Lava_Named_Miniboss"
+    },
+    {
+        "VitalsID": "FL_DG_FirstLight_01_Gorilla_Lightning_Named_Miniboss",
+        "DisplayName": "Truk",
+        "Level": 65,
+        "BaseVitalsId": "FL_DG_FirstLight_01_Gorilla_Lightning_Named_Miniboss"
+    },
+    {
+        "VitalsID": "FL_Risen_Regurgitator_01_WaveEventEasy",
+        "DisplayName": "Drained Settler",
+        "Level": 60,
+        "BaseVitalsId": "FL_Risen_Regurgitator_01_WaveEventEasy"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_WaveEvent",
+        "DisplayName": "Wounded Hercyne Reindeer",
+        "Level": 62,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_RainbowTiger_Named_Elite_09FL12",
+        "DisplayName": "Zurvān of Sun's Wing",
+        "Level": 70,
+        "BaseVitalsId": "FL_RainbowTiger_Named_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_WingTiger_Named_Elite_09FL12",
+        "DisplayName": "Zurvān of Moon's Shadow",
+        "Level": 70,
+        "BaseVitalsId": "FL_WingTiger_Named_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon_Elite_Named_09FL12",
+        "DisplayName": "Eggmonger Šahrewar",
+        "Level": 70,
+        "BaseVitalsId": "FL_Armored_Dragon_Elite_Named_09FL12"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Melee_Elite_Named_09FL12",
+        "DisplayName": "Pugnacious Purutu",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Melee_Elite_Named_09FL12"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Named_Elite_09FL12",
+        "DisplayName": "Montrapala the Unruled",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Named_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Chameleon_Elite_Named_09FL12",
+        "DisplayName": "Sneaky Zahāk",
+        "Level": 70,
+        "BaseVitalsId": "FL_Chameleon_Elite_Named_09FL12"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_Elite_Named_09FL12",
+        "DisplayName": "Greater Lotus Ameretat",
+        "Level": 70,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_Elite_Named_09FL12"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Ice_Elite_Named_09FL12",
+        "DisplayName": "Haurvatat the Immovable Glacier",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Ice_Elite_Named_09FL12"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Lightning_Elite_Named_09FL12",
+        "DisplayName": "Vohu-Manah the Wildstorm",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Lightning_Elite_Named_09FL12"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Nature_Elite_Named_09FL12",
+        "DisplayName": "Spentar the Mighty Terraquake",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Nature_Elite_Named_09FL12"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Fire_Elite_Named_09FL12",
+        "DisplayName": "Irritable Ignisasha",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Fire_Elite_Named_09FL12"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ice_Elite_Named_09FL12",
+        "DisplayName": "Annoyed Aguaasha",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Ice_Elite_Named_09FL12"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Lightning_Elite_Named_09FL12",
+        "DisplayName": "Agitated Aerisasha",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Lightning_Elite_Named_09FL12"
+    },
+    {
+        "VitalsID": "FL_Alligator_Elite_09FL12",
+        "DisplayName": "Crowned Alligator",
+        "Level": 70,
+        "BaseVitalsId": "FL_Alligator_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon_Elite_09FL12",
+        "DisplayName": "Crowned Drake",
+        "Level": 70,
+        "BaseVitalsId": "FL_Armored_Dragon_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Chameleon_Elite_09FL12",
+        "DisplayName": "Crowned Chameleon",
+        "Level": 70,
+        "BaseVitalsId": "FL_Chameleon_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Elite_09FL12",
+        "DisplayName": "Crowned Mammoth",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ranged_Elite_09FL12",
+        "DisplayName": "Crowned Rockthrower",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Ranged_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Melee_Elite_09FL12",
+        "DisplayName": "Crowned Gorilla",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Melee_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Primal_Lion_Elite_09FL12",
+        "DisplayName": "Crowned Lion",
+        "Level": 70,
+        "BaseVitalsId": "FL_Primal_Lion_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Barbary_Lion_Elite_09FL12",
+        "DisplayName": "Crowned Warlion",
+        "Level": 70,
+        "BaseVitalsId": "FL_Barbary_Lion_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Ice_Elite_09FL12",
+        "DisplayName": "Crowned Mammoth",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Ice_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Lightning_Elite_09FL12",
+        "DisplayName": "Crowned Mammoth",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Lightning_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Nature_Elite_09FL12",
+        "DisplayName": "Crowned Mammoth",
+        "Level": 70,
+        "BaseVitalsId": "FL_Mammoth_Nature_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Fire_Elite_09FL12",
+        "DisplayName": "Crowned Flaming Fists",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Fire_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Ice_Elite_09FL12",
+        "DisplayName": "Crowned Ice Hurler",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Ice_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Gorilla_Lightning_Elite_09FL12",
+        "DisplayName": "Crowned Thunder Charger",
+        "Level": 70,
+        "BaseVitalsId": "FL_Gorilla_Lightning_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_Elite_09FL12",
+        "DisplayName": "Crowned Lotus",
+        "Level": 70,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Physical_Elite_09FL12",
+        "DisplayName": "Crowned Spinospitter",
+        "Level": 70,
+        "BaseVitalsId": "FL_Explosive_Sprout_Physical_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Fire_Elite_09FL12",
+        "DisplayName": "Crowned Vulconyte",
+        "Level": 70,
+        "BaseVitalsId": "FL_Explosive_Sprout_Fire_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Poison_Elite_09FL12",
+        "DisplayName": "Crowned Rotseed",
+        "Level": 70,
+        "BaseVitalsId": "FL_Explosive_Sprout_Poison_Elite_09FL12"
+    },
+    {
+        "VitalsID": "FL_MIM_Wolf_Elemental_Earth",
+        "DisplayName": "Glamoured Wolf",
+        "Level": 65,
+        "BaseVitalsId": "FL_MIM_Wolf_Elemental_Earth"
+    },
+    {
+        "VitalsID": "FL_MIM_Statue_Wolf_Elemental_Earth",
+        "DisplayName": "Unpetrified Wolf",
+        "Level": 65,
+        "BaseVitalsId": "FL_MIM_Statue_Wolf_Elemental_Earth"
+    },
+    {
+        "VitalsID": "FL_MIM_Hercyne_Boar",
+        "DisplayName": "Glamoured Boar",
+        "Level": 65,
+        "BaseVitalsId": "FL_MIM_Hercyne_Boar"
+    },
+    {
+        "VitalsID": "FL_MIM_Hercyne_Corvid",
+        "DisplayName": "Glamoured Corvid",
+        "Level": 65,
+        "BaseVitalsId": "FL_MIM_Hercyne_Corvid"
+    },
+    {
+        "VitalsID": "FL_MIM_BearElemental",
+        "DisplayName": "Glamoured Bear",
+        "Level": 65,
+        "BaseVitalsId": "FL_MIM_BearElemental"
+    },
+    {
+        "VitalsID": "FL_MIM_Statue_BearElemental",
+        "DisplayName": "Unpetrified Bear",
+        "Level": 65,
+        "BaseVitalsId": "FL_MIM_Statue_BearElemental"
+    },
+    {
+        "VitalsID": "FL_MIM_Damned_Acolyte",
+        "DisplayName": "Glamoured Acolyte",
+        "Level": 65,
+        "BaseVitalsId": "FL_MIM_Damned_Acolyte"
+    },
+    {
+        "VitalsID": "FL_MIM_Statue_Damned_Acolyte",
+        "DisplayName": "Unpetrified Acolyte",
+        "Level": 65,
+        "BaseVitalsId": "FL_MIM_Statue_Damned_Acolyte"
+    },
+    {
+        "VitalsID": "FL_Wolf_Elemental_Earth_09A_S17_WaveEvent",
+        "DisplayName": "Dryad Wolf",
+        "Level": 64,
+        "BaseVitalsId": "FL_Wolf_Elemental_Earth_09A_S17_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Dryad_Soldier_09A_S4_WaveEvent",
+        "DisplayName": "Lured Dryad Fighter",
+        "Level": 64,
+        "BaseVitalsId": "FL_Dryad_Soldier_09A_S4_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Dryad_Soldier_09A_S17_WaveEvent",
+        "DisplayName": "Dryad Fighter",
+        "Level": 64,
+        "BaseVitalsId": "FL_Dryad_Soldier_09A_S17_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Dryad_Archer_09A_S17_WaveEvent",
+        "DisplayName": "Dryad Archer",
+        "Level": 64,
+        "BaseVitalsId": "FL_Dryad_Archer_09A_S17_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Dryad_Prowler_09A_M5_WaveEvent",
+        "DisplayName": "Dryad Prowler",
+        "Level": 64,
+        "BaseVitalsId": "FL_Dryad_Prowler_09A_M5_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Dryad_Prowler_09A_S17_WaveEvent",
+        "DisplayName": "Dryad Prowler",
+        "Level": 64,
+        "BaseVitalsId": "FL_Dryad_Prowler_09A_S17_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Hercyne_Reindeer_09A_S17_WaveEvent",
+        "DisplayName": "Hercyne Reindeer",
+        "Level": 64,
+        "BaseVitalsId": "FL_Hercyne_Reindeer_09A_S17_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Dryad_Archer_09FL02",
+        "DisplayName": "Dryad Archer",
+        "Level": 64,
+        "BaseVitalsId": "FL_Dryad_Archer_09FL02"
+    },
+    {
+        "VitalsID": "FL_Dryad_Soldier_09FL02",
+        "DisplayName": "Dryad Soldier",
+        "Level": 64,
+        "BaseVitalsId": "FL_Dryad_Soldier_09FL02"
+    },
+    {
+        "VitalsID": "FL_Dryad_Shaman_09FL02",
+        "DisplayName": "Dryad Shaman",
+        "Level": 64,
+        "BaseVitalsId": "FL_Dryad_Shaman_09FL02"
+    },
+    {
+        "VitalsID": "FL_Dryad_Prowler_09FL02",
+        "DisplayName": "Dryad Prowler",
+        "Level": 64,
+        "BaseVitalsId": "FL_Dryad_Prowler_09FL02"
+    },
+    {
+        "VitalsID": "FL_AncientGuardian_Mage_09FL06",
+        "DisplayName": "Saircor Sorceress",
+        "Level": 66,
+        "BaseVitalsId": "FL_AncientGuardian_Mage_09FL06"
+    },
+    {
+        "VitalsID": "FL_AncientGuardian_Mage_Minion_09FL06",
+        "DisplayName": "Saircor Minion",
+        "Level": 66,
+        "BaseVitalsId": "FL_AncientGuardian_Mage_Minion_09FL06"
+    },
+    {
+        "VitalsID": "FL_Ancient_Amalgam_09FL06",
+        "DisplayName": "Saircor Amalgam",
+        "Level": 66,
+        "BaseVitalsId": "FL_Ancient_Amalgam_09FL06"
+    },
+    {
+        "VitalsID": "FL_Ancient_Amalgam_Named_09FL06",
+        "DisplayName": "Guardian of Saircor's Light",
+        "Level": 66,
+        "BaseVitalsId": "FL_Ancient_Amalgam_Named_09FL06"
+    },
+    {
+        "VitalsID": "FL_Beetle",
+        "DisplayName": "Overgrown Lampyrid",
+        "Level": 70,
+        "BaseVitalsId": "FL_Beetle"
+    },
+    {
+        "VitalsID": "FL_Beetle_09FL02a",
+        "DisplayName": "Invading Lampyrid",
+        "Level": 64,
+        "BaseVitalsId": "FL_Beetle_09FL02a"
+    },
+    {
+        "VitalsID": "FL_Beetle_09FL04b",
+        "DisplayName": "Firefly's Lampyrid",
+        "Level": 62,
+        "BaseVitalsId": "FL_Beetle_09FL04b"
+    },
+    {
+        "VitalsID": "FL_Beetle_09FL09",
+        "DisplayName": "Cave Lampyrid",
+        "Level": 67,
+        "BaseVitalsId": "FL_Beetle_09FL09"
+    },
+    {
+        "VitalsID": "FL_Beetle_09FL11b",
+        "DisplayName": "Hornhold Lampyrid",
+        "Level": 66,
+        "BaseVitalsId": "FL_Beetle_09FL11b"
+    },
+    {
+        "VitalsID": "FL_Beetle_Named_09FL04b",
+        "DisplayName": "Luciferin",
+        "Level": 62,
+        "BaseVitalsId": "FL_Beetle_Named_09FL04b"
+    },
+    {
+        "VitalsID": "FL_Beetle_Baby",
+        "DisplayName": "Elysian Firefly",
+        "Level": 1,
+        "BaseVitalsId": "FL_Beetle_Baby"
+    },
+    {
+        "VitalsID": "FL_Beetle_Baby_09FL02a",
+        "DisplayName": "Invading Firefly",
+        "Level": 1,
+        "BaseVitalsId": "FL_Beetle_Baby_09FL02a"
+    },
+    {
+        "VitalsID": "FL_Beetle_Baby_09FL04b",
+        "DisplayName": "Firefly's Swampfly",
+        "Level": 1,
+        "BaseVitalsId": "FL_Beetle_Baby_09FL04b"
+    },
+    {
+        "VitalsID": "FL_Beetle_Huge",
+        "DisplayName": "Terribly Overgrown Beetle",
+        "Level": 70,
+        "BaseVitalsId": "FL_Beetle_Huge"
+    },
+    {
+        "VitalsID": "FL_Spriggan_Adolescent",
+        "DisplayName": "Undergrown Sprig",
+        "Level": 65,
+        "BaseVitalsId": "FL_Spriggan_Adolescent"
+    },
+    {
+        "VitalsID": "FL_Spriggan_Adolescent_Named_09FL03",
+        "DisplayName": "Maple, Devious Sprig",
+        "Level": 63,
+        "BaseVitalsId": "FL_Spriggan_Adolescent_Named_09FL03"
+    },
+    {
+        "VitalsID": "FL_Spriggan_Adolescent_09FL08",
+        "DisplayName": "Undergrown Elafry Sprig",
+        "Level": 68,
+        "BaseVitalsId": "FL_Spriggan_Adolescent_09FL08"
+    },
+    {
+        "VitalsID": "FL_Spriggan_Adolescent_Named_09FL08",
+        "DisplayName": "Adiana's Chosen Sprig",
+        "Level": 68,
+        "BaseVitalsId": "FL_Spriggan_Adolescent_Named_09FL08"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Panther_Small",
+        "DisplayName": "Panther Idol",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Panther_Small"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Panther_Small_09FL01",
+        "DisplayName": "Tempestus Idol",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Panther_Small_09FL01"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Panther_Small_minion",
+        "DisplayName": "Panther Idol",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Panther_Small_minion"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Panther_Small_09A_M7_WaveEvent",
+        "DisplayName": "Panther Idol",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Panther_Small_09A_M7_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_AncientGuardian_Mage_Named_ELITE_09FL06",
+        "DisplayName": "Toy Maker Phthah",
+        "Level": 70,
+        "BaseVitalsId": "FL_AncientGuardian_Mage_Named_ELITE_09FL06"
+    },
+    {
+        "VitalsID": "FL_Spriggan_Adolescent_ELITE",
+        "DisplayName": "Undergrown Sprig",
+        "Level": 70,
+        "BaseVitalsId": "FL_Spriggan_Adolescent_ELITE"
+    },
+    {
+        "VitalsID": "FL_BearElemental",
+        "DisplayName": "Dryad Bear",
+        "Level": 64,
+        "BaseVitalsId": "FL_BearElemental"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon_09A_M13_WaveEvent",
+        "DisplayName": "Territorial Armored Drake",
+        "Level": 65,
+        "BaseVitalsId": "FL_Armored_Dragon_09A_M13_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon_09A_S13_WaveEvent",
+        "DisplayName": "Gazsala Thiss",
+        "Level": 67,
+        "BaseVitalsId": "FL_Armored_Dragon_09A_S13_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon_Small_09A_S13_WaveEvent",
+        "DisplayName": "Brood of Gazsala",
+        "Level": 65,
+        "BaseVitalsId": "FL_Armored_Dragon_Small_09A_S13_WaveEvent"
+    },
+    {
+        "VitalsID": "FL_Poison_Polyp_00",
+        "DisplayName": "Noisome Polyp",
+        "Level": 1,
+        "BaseVitalsId": "FL_Poison_Polyp_00"
+    },
+    {
+        "VitalsID": "vc_FL_Mammoth_09A_S6_Encounter",
+        "DisplayName": "Migrating Mammoth",
+        "Level": 66,
+        "BaseVitalsId": "vc_FL_Mammoth_09A_S6_Encounter"
+    },
+    {
+        "VitalsID": "FL_Chameleon_Named_09FL09b",
+        "DisplayName": "Scumpond Jester",
+        "Level": 67,
+        "BaseVitalsId": "FL_Chameleon_Named_09FL09b"
+    },
+    {
+        "VitalsID": "FL_Chameleon_Minion_09FL09b",
+        "DisplayName": "Scumpond Minion",
+        "Level": 67,
+        "BaseVitalsId": "FL_Chameleon_Minion_09FL09b"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_Named_09FL04",
+        "DisplayName": "Queen Lotus of Forellac",
+        "Level": 62,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_Named_09FL04"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon_Named_09FL03c",
+        "DisplayName": "Inlet Drake Lord",
+        "Level": 65,
+        "BaseVitalsId": "FL_Armored_Dragon_Named_09FL03c"
+    },
+    {
+        "VitalsID": "FL_AnubianGuardian_Panther_Small_09FL06",
+        "DisplayName": "Saircor Idol",
+        "Level": 65,
+        "BaseVitalsId": "FL_AnubianGuardian_Panther_Small_09FL06"
+    },
+    {
+        "VitalsID": "FL_Wolf_Elemental_Earth_09FL04",
+        "DisplayName": "Swampwater Wolf",
+        "Level": 62,
+        "BaseVitalsId": "FL_Wolf_Elemental_Earth_09FL04"
+    },
+    {
+        "VitalsID": "FL_Chameleon_09FL09b",
+        "DisplayName": "Steppes Chameleon",
+        "Level": 67,
+        "BaseVitalsId": "FL_Chameleon_09FL09b"
+    },
+    {
+        "VitalsID": "FL_Mammoth_09FL09b",
+        "DisplayName": "Steppes Mammoth",
+        "Level": 67,
+        "BaseVitalsId": "FL_Mammoth_09FL09b"
+    },
+    {
+        "VitalsID": "FL_Rabbit_09FL09b",
+        "DisplayName": "Trampled Rabbit",
+        "Level": 67,
+        "BaseVitalsId": "FL_Rabbit_09FL09b"
+    },
+    {
+        "VitalsID": "FL_Wolf_09FL09b",
+        "DisplayName": "Steppes Wolf",
+        "Level": 67,
+        "BaseVitalsId": "FL_Wolf_09FL09b"
+    },
+    {
+        "VitalsID": "FL_Peacock_09FL09b",
+        "DisplayName": "Steppes Peacock",
+        "Level": 67,
+        "BaseVitalsId": "FL_Peacock_09FL09b"
+    },
+    {
+        "VitalsID": "FL_Beetle_09FL09b",
+        "DisplayName": "Steppes Beetle",
+        "Level": 67,
+        "BaseVitalsId": "FL_Beetle_09FL09b"
+    },
+    {
+        "VitalsID": "FL_Beetle_Baby_09FL09b",
+        "DisplayName": "Steppes Horsefly",
+        "Level": 67,
+        "BaseVitalsId": "FL_Beetle_Baby_09FL09b"
+    },
+    {
+        "VitalsID": "FL_Chameleon_09FL03c",
+        "DisplayName": "Concordian Chameleon",
+        "Level": 65,
+        "BaseVitalsId": "FL_Chameleon_09FL03c"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon_09FL03c",
+        "DisplayName": "Concordian Drake",
+        "Level": 65,
+        "BaseVitalsId": "FL_Armored_Dragon_09FL03c"
+    },
+    {
+        "VitalsID": "FL_Beetle_09FL03c",
+        "DisplayName": "Concordian Beetle",
+        "Level": 65,
+        "BaseVitalsId": "FL_Beetle_09FL03c"
+    },
+    {
+        "VitalsID": "FL_Beetle_Baby_09FL03c",
+        "DisplayName": "Elysian Seafly",
+        "Level": 65,
+        "BaseVitalsId": "FL_Beetle_Baby_09FL03c"
+    },
+    {
+        "VitalsID": "FL_Mammoth_Boss_DG_FirstLight_01_Focus",
+        "DisplayName": "Focus",
+        "Level": 65,
+        "BaseVitalsId": "FL_Mammoth_Boss_DG_FirstLight_01_Focus"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Physical_09FL04",
+        "DisplayName": "Swampwater Spitter",
+        "Level": 62,
+        "BaseVitalsId": "FL_Explosive_Sprout_Physical_09FL04"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Fire_09FL04",
+        "DisplayName": "Swampwater Vulconyte",
+        "Level": 62,
+        "BaseVitalsId": "FL_Explosive_Sprout_Fire_09FL04"
+    },
+    {
+        "VitalsID": "FL_Explosive_Sprout_Poison_09FL04",
+        "DisplayName": "Swampwater Rotseed",
+        "Level": 62,
+        "BaseVitalsId": "FL_Explosive_Sprout_Poison_09FL04"
+    },
+    {
+        "VitalsID": "FL_Beetle_Baby_09FL04",
+        "DisplayName": "Elysian Swampfly",
+        "Level": 62,
+        "BaseVitalsId": "FL_Beetle_Baby_09FL04"
+    },
+    {
+        "VitalsID": "FL_Beetle_09FL04",
+        "DisplayName": "Swampwater Lampyrid",
+        "Level": 62,
+        "BaseVitalsId": "FL_Beetle_09FL04"
+    },
+    {
+        "VitalsID": "FL_Elk_Elemental_09FL04",
+        "DisplayName": "Swampwater Elk",
+        "Level": 62,
+        "BaseVitalsId": "FL_Elk_Elemental_09FL04"
+    },
+    {
+        "VitalsID": "FL_Elk_Elemental_09FL05",
+        "DisplayName": "Mosswater Elk",
+        "Level": 60,
+        "BaseVitalsId": "FL_Elk_Elemental_09FL05"
+    },
+    {
+        "VitalsID": "FL_Alligator_09FL03c",
+        "DisplayName": "Concordian Crocodile",
+        "Level": 65,
+        "BaseVitalsId": "FL_Alligator_09FL03c"
+    },
+    {
+        "VitalsID": "FL_Alligator_Named_09FL03c",
+        "DisplayName": "Scaleknight Protector",
+        "Level": 65,
+        "BaseVitalsId": "FL_Alligator_Named_09FL03c"
+    },
+    {
+        "VitalsID": "FL_Chameleon_Named_09FL03c",
+        "DisplayName": "Rock Arch Wizard",
+        "Level": 65,
+        "BaseVitalsId": "FL_Chameleon_Named_09FL03c"
+    },
+    {
+        "VitalsID": "FL_Alligator_09FLa",
+        "DisplayName": "Saltwater Crocodile",
+        "Level": 67,
+        "BaseVitalsId": "FL_Alligator_09FLa"
+    },
+    {
+        "VitalsID": "FL_Armored_Dragon_09FLa",
+        "DisplayName": "Shoals Drake",
+        "Level": 66,
+        "BaseVitalsId": "FL_Armored_Dragon_09FLa"
+    },
+    {
+        "VitalsID": "FL_Chameleon_09FLa",
+        "DisplayName": "Amphibious Chameleon",
+        "Level": 67,
+        "BaseVitalsId": "FL_Chameleon_09FLa"
+    },
+    {
+        "VitalsID": "FL_Chameleon_09FLb",
+        "DisplayName": "Invasive Chameleon",
+        "Level": 66,
+        "BaseVitalsId": "FL_Chameleon_09FLb"
+    },
+    {
+        "VitalsID": "FL_Rabbit_Infested",
+        "DisplayName": "Infested Rabbit",
+        "Level": 60,
+        "BaseVitalsId": "FL_Rabbit_Infested"
+    },
+    {
+        "VitalsID": "FL_Rabbit_Infested_09FL02a",
+        "DisplayName": "Invading Infested Rabbit",
+        "Level": 60,
+        "BaseVitalsId": "FL_Rabbit_Infested_09FL02a"
+    },
+    {
+        "VitalsID": "FL_Rabbit_09FLa",
+        "DisplayName": "Tropical Hare",
+        "Level": 60,
+        "BaseVitalsId": "FL_Rabbit_09FLa"
+    },
+    {
+        "VitalsID": "FL_MegaFlora_RazorLotus_09FLa",
+        "DisplayName": "Cliffroad Razor Poppy",
+        "Level": 64,
+        "BaseVitalsId": "FL_MegaFlora_RazorLotus_09FLa"
+    },
+    {
+        "VitalsID": "FL_Spriggan_Adolescent_Named_09fl10",
+        "DisplayName": "Ash, Evil Sprig",
+        "Level": 68,
+        "BaseVitalsId": "FL_Spriggan_Adolescent_Named_09fl10"
+    },
+    {
+        "VitalsID": "FL_Spriggan_Adolescent_Named_09fl13",
+        "DisplayName": "Oak, Brawn Sprig",
+        "Level": 67,
+        "BaseVitalsId": "FL_Spriggan_Adolescent_Named_09fl13"
+    },
+    {
+        "VitalsID": "FL_Barbary_Lion_Named_09FL09",
+        "DisplayName": "Savanni, Pride Lioness",
+        "Level": 67,
+        "BaseVitalsId": "FL_Barbary_Lion_Named_09FL09"
+    },
+    {
+        "VitalsID": "FL_Spriggan_Adolescent_09FL03a",
+        "DisplayName": "Concordian Sprig",
+        "Level": 65,
+        "BaseVitalsId": "FL_Spriggan_Adolescent_09FL03a"
+    },
+    {
+        "VitalsID": "FL_Alligator_09FLb",
+        "DisplayName": "Elysian Alligator",
+        "Level": 67,
+        "BaseVitalsId": "FL_Alligator_09FLb"
+    },
+    {
+        "VitalsID": "FL_Alligator_09FLc",
+        "DisplayName": "Elysian Alligator",
+        "Level": 67,
+        "BaseVitalsId": "FL_Alligator_09FLc"
+    },
+    {
+        "VitalsID": "FL_Alligator_09FLd",
+        "DisplayName": "Saltwater Crocodile",
+        "Level": 67,
+        "BaseVitalsId": "FL_Alligator_09FLd"
+    }
+]

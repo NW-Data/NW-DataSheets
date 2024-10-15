@@ -1,0 +1,173 @@
+[
+    {
+        "ConversationTopicId": "12A_Don",
+        "PlayerPrompt": "“You want to be a knight?”",
+        "NPCResponse": "It's been my lifelong dream! Being a knight in a mystical land full of monsters and magic!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Shae",
+        "PlayerPrompt": "“Someone cheat you?”",
+        "NPCResponse": "A stranger promised me shelter in exchange for information about a knight.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Shazaan",
+        "PlayerPrompt": "“Why be a miner?”",
+        "NPCResponse": "I thought it would be adventurous. I didn’t want to sit by a lake all day.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Tomira",
+        "PlayerPrompt": "“I'm sure you feel vindicated.”",
+        "NPCResponse": "Well there's so much uncertainty when faced with the soulless. I don’t know how the Regent does it.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Chandu",
+        "PlayerPrompt": "“You like the Regent?”",
+        "NPCResponse": "Who doesn’t like her? She used to visit the mines weekly before people started turning into the Lost.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_06_ToMiclot_TalkLochnir",
+        "PlayerPrompt": "\"Isn't she still in charge?\"",
+        "NPCResponse": "\u0026lt;g id=\"guard_shrugbrief\" /\u0026gt;For now. But she would do well not to concern herself with matters our new king can better adjudicate. \u0026lt;g id=\"guard_headtilthmm\" /\u0026gt;Tell me, has she enlisted you in one of her endeavors?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_10_ConfrontLochnir_TalkMoira",
+        "PlayerPrompt": "\"Yes, I have them right here.\"",
+        "NPCResponse": "Hm. \u0026lt;g id=\"female_takeItem8s\" priority=\"high\" /\u0026gt;Very… interesting. Elias said they unearthed this tablet, but it has signs of extensive weathering. \u0026lt;g id=\"male_nodunderstand\" /\u0026gt;Yes, it has clearly been exposed to the elements.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_03_MSQ_10_Lochnir_Explains",
+        "PlayerPrompt": "\"It was, and they sent dispatches.\"",
+        "NPCResponse": "\u0026lt;g id=\"guard_headtilthmm\" /\u0026gt;She said that, did she? Well yes, \u0026lt;g id=\"guard_nod\" /\u0026gt;I do recall receiving at least one dispatch, \u0026lt;g id=\"guard_headshakeno\" /\u0026gt;but her demands were absolutely out of the question.",
+        "AchievementUnlock": "12A_LochnirTalk01",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_02_MSQ_12_SerPayneBennett",
+        "PlayerPrompt": "\"How can I help?\"",
+        "NPCResponse": "\u0026lt;g id=\"male_explain\" /\u0026gt;Before you do anything else, you must build yourself a campsite. \u0026lt;g id=\"male_nodunderstand\" /\u0026gt; It's the wise move when we're this far from Prydwen.",
+        "AchievementUnlock": "12A_PayneTalk02",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_12_MSQ_15_GraceOMalleyPre",
+        "PlayerPrompt": "\"You were spying on the pirates?\"",
+        "NPCResponse": "\u0026lt;g id=\"grace_shrugDontcare\" /\u0026gt;Not spying so much as taking a measure of the place. \u0026lt;g id=\"grace_sympathy\" /\u0026gt;Heard there were pirates up here, and thought they might be sitting on some valuable loot.",
+        "AchievementUnlock": "12A_Grace15A",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_11_MSQ_15_GraceOMalley",
+        "PlayerPrompt": "“Found it and destroyed it.”",
+        "NPCResponse": "\u0026lt;g id=\"grace_clenchfists1\" /\u0026gt;See there, we make a good team! \u0026lt;g id=\"grace_handheart\" /\u0026gt;I go in first, all sneaky like, and get the lay of the land. \u0026lt;g id=\"grace_smackfist\" /\u0026gt;Then you follow up with force, taking care of business.",
+        "AchievementUnlock": "12A_Grace15",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_17_LochnirsNotes_TalkMoira",
+        "PlayerPrompt": "\"There was an altar.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_think\" /\u0026gt;Well, it's hard to say for sure, but it's possible it comes from the same place - \u0026lt;g id=\"male_nodunderstand\" /\u0026gt;the Ancient Ruins of Khalladan in the eastern wood.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_17_LochnirsNotes_TalkLochnir",
+        "PlayerPrompt": "\"She asked me not to speak of it.\"",
+        "NPCResponse": "Hmm... \u0026lt;g id=\"guard_shrugbrief\" /\u0026gt;the Knight-Regent should not be conducting affairs she \u0026lt;g id=\"guard_headshakeno\" /\u0026gt;can't reveal to her people, wouldn't you agree?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_19_RegentJinJae",
+        "PlayerPrompt": "\"Lochnir was planning all this.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_shocked\" /\u0026gt;Is that what you discovered in the ruins? \u0026lt;g id=\"female_spreadarms\" /\u0026gt; Was Lochnir behind the strange tablet at the mine? The pirates, too?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_21_FindGrace_TalkRegent",
+        "PlayerPrompt": "\"We stop them. Whatever it takes.\"",
+        "NPCResponse": "Yes, \u0026lt;g id=\"female_nodding\" /\u0026gt;as Knight-Regent, it is my duty to defend the kingdom against all threats. \u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;Lochnir may believe the kingdom is the bloodline, \u0026lt;g id=\"male_willcoverit\" /\u0026gt;but I know it to be the people.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_01_MSQ_04_SerPayneBennett",
+        "PlayerPrompt": "\"Is this about 'the Lost'?\"",
+        "NPCResponse": "Oh? So you have heard the unfortunate news from outlying areas…",
+        "AchievementUnlock": "12A_PayneTalk01",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1225_Giacomo_HousingGeneral",
+        "PlayerPrompt": "\"What's so great about owning a house?\"",
+        "NPCResponse": "Mah! Now, what kind of question is that? What's not great about homeownership?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "S_downpayment",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1225_Giacomo_HousingStorage",
+        "PlayerPrompt": "\"What did you mean about storage for my home?\"",
+        "NPCResponse": "Storage? You know, places to store your things?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "12_Quest_Housing_3b",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1225_Giacomo_HousingTrophy",
+        "PlayerPrompt": "\"What is a 'trophy'?\"",
+        "NPCResponse": "I can't make them all that well, but with some effort on your part, you should be able to.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "12_Quest_Housing_6",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

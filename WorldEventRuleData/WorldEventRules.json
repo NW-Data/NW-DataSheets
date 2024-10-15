@@ -4,10 +4,10 @@
         "Category": "",
         "Hub": "*",
         "Zone": "",
-        "MaxEvents": 20,
+        "MaxEvents": 100,
         "MinDistance": 10,
-        "Disabled": "",
-        "Comments": "Prevents any event from overlapping and no more than 20 events per hub at a time"
+        "Disabled": true,
+        "Comments": "Prevents any event from overlapping and no more than 100 events per hub at a time"
     },
     {
         "RuleId": "TestRule-1",
@@ -16,7 +16,7 @@
         "Zone": "",
         "MaxEvents": 4,
         "MinDistance": null,
-        "Disabled": "",
+        "Disabled": null,
         "Comments": ""
     },
     {
@@ -26,7 +26,7 @@
         "Zone": "",
         "MaxEvents": 4,
         "MinDistance": null,
-        "Disabled": "",
+        "Disabled": null,
         "Comments": ""
     },
     {
@@ -36,7 +36,7 @@
         "Zone": "",
         "MaxEvents": null,
         "MinDistance": 10,
-        "Disabled": "",
+        "Disabled": null,
         "Comments": ""
     },
     {
@@ -44,19 +44,19 @@
         "Category": "WorldBoss",
         "Hub": "*",
         "Zone": "",
-        "MaxEvents": 4,
+        "MaxEvents": 10,
         "MinDistance": null,
-        "Disabled": "",
-        "Comments": "Prevents more than 4 WorldBoss events active on a hub at a time"
+        "Disabled": true,
+        "Comments": "Prevents more than 10 WorldBoss events active on a hub at a time"
     },
     {
         "RuleId": "Darkness-hub",
         "Category": "DarknessEvent",
         "Hub": "*",
         "Zone": "",
-        "MaxEvents": 10,
+        "MaxEvents": 50,
         "MinDistance": null,
-        "Disabled": "",
-        "Comments": "Prevents more than 10 Darkness events active on a hub at a time"
+        "Disabled": true,
+        "Comments": "Prevents more than 50 Darkness events active on a hub at a time"
     }
 ]

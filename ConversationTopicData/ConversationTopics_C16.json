@@ -1,0 +1,164 @@
+[
+    {
+        "ConversationTopicId": "Barnabas_Brimstone_Background",
+        "PlayerPrompt": "“What’s happened?”",
+        "NPCResponse": "An old enemy has returned and amasses his forces. The citizens have fled, fearing invasion is imminent.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0201_ImhotepTalkTo_A",
+        "PlayerPrompt": "“I've been looking for you, Imhotep.”",
+        "NPCResponse": "Then this is a fortuitous day for us\u0026lt;g id=\"g_male_handheart\" priority=\"high\" /\u0026gt; both for I am he!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0201_ImhotepTalkTo_B",
+        "PlayerPrompt": "“Yes, she's headed to New Corsica.”",
+        "NPCResponse": "\u0026lt;g id=\"g_male_nodunderstand\" /\u0026gt;Remarkable woman! A brilliant mind for one so young.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0103_AbanTalkTo",
+        "PlayerPrompt": "“Easy… Are you Aban?”",
+        "NPCResponse": "My master Imhotep… gone to New Rhacotis… I was to collect Ghazi… meet him there… I didn’t see them… didn’t hear them…",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0301_GhaziTalkTo",
+        "PlayerPrompt": "“How's his mind holding up?”",
+        "NPCResponse": "\u0026lt;g id=\"g_litearmor_shrugbrief\" /\u0026gt;It appears stable… for now.\u0026lt;g id=\"g_litearmor_converseleft\" /\u0026gt; But I will watch him closely.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0302_ImhotepTalkTo_A",
+        "PlayerPrompt": "“Is this Ancient magic?”",
+        "NPCResponse": "\u0026lt;g id=\"g_female_nodyes\" /\u0026gt;It is indeed. A sorcery taught to me by one of the Ancients themselves. My mentor.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0302_GhaziPreRitual",
+        "PlayerPrompt": "“I'm not easily rattled.”",
+        "NPCResponse": "\u0026lt;g id=\"g_litearmor_complimentplayer\" /\u0026gt;Yes, I noticed. You're as solid as the firmament. And I thank Isis for that.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0302_GhaziPostRitual",
+        "PlayerPrompt": "“What’s going on, Ghazi?”",
+        "NPCResponse": "\u0026lt;g id=\"g_female_handsonhipsshakeheads\" /\u0026gt;Imhotep's mind has shifted. The gentle soul of the Great Sage is gone.\u0026lt;g id=\"g_female_gesturebothhands\" /\u0026gt; Another has arisen in his place…",
+        "AchievementUnlock": "16_Topic_RitualComplete",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0303_GhaziPostRitual2",
+        "PlayerPrompt": "“I won't let him down.”",
+        "NPCResponse": "\u0026lt;g id=\"g_litearmor_converseright\" /\u0026gt;I know the vault the Great Pharaoh speaks of, but I've\u0026lt;g id=\"g_litearmor_shrugbrief\" /\u0026gt; never ventured there myself.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "16_Topic_RitualComplete",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0401_GhaziTalkTo",
+        "PlayerPrompt": "“How’s Imhotep holding up?”",
+        "NPCResponse": "\u0026lt;g id=\"g_female_shakeheadno\" /\u0026gt;Honestly, I’m worried. I’ve made more elixir, which helps to control his affliction.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_9902_0501_AdianaAkhetTalkTo",
+        "PlayerPrompt": "\"I did what was necessary.\"",
+        "NPCResponse": "\u0026lt;g id=\"g_male_willcoverit\" /\u0026gt;I foolishly came to the aid of humanity, and once again,\u0026lt;g id=\"g_male_hopeless\" /\u0026gt; this is how we were repaid.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0701_ImhotepTalkTo",
+        "PlayerPrompt": "“Here, drink this!”",
+        "NPCResponse": "\u0026lt;g id=\"g_male_chuckle\" /\u0026gt;*cough* Ah, thank the Powers it’s you.\u0026lt;g id=\"g_female_headshakesmall\" /\u0026gt; Please forgive me. I was not myself.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0801_ImhotepTalkTo",
+        "PlayerPrompt": "“You doubted your Sword?”",
+        "NPCResponse": "\u0026lt;g id=\"g_male_shrugbrief\" /\u0026gt;I was cautiously optimistic. And\u0026lt;g id=\"g_male_compliment\" /\u0026gt; you are not my sword, you are the Sword of Brimstone Sands!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_0801_GhaziTalkTo",
+        "PlayerPrompt": "“You’ll make me blush.”",
+        "NPCResponse": "\u0026lt;g id=\"g_female_flirtsmall\" /\u0026gt;The flush of color would suit you. I knew you would do it.\u0026lt;g id=\"g_female_spreadarms\" /\u0026gt; My instincts are never wrong, remember?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0901_ImhotepTalkTo",
+        "PlayerPrompt": "“Fancy clothes?”",
+        "NPCResponse": "Robes of state. This is the raiment of a noble ruler from a great land. There is so much history in these threads and these jewels.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_0902_EvandrusTalkTo",
+        "PlayerPrompt": "“Maybe I can help with that.”",
+        "NPCResponse": "I would welcome any help, my friend!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1625_Coro_GhaziTalkTo",
+        "PlayerPrompt": "“They’re all behind you, my Queen.”",
+        "NPCResponse": "Very well, then. I will accept this great honor from the people.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_1624_Coro_ImhotepTalkTo",
+        "PlayerPrompt": "\"What will you do now?\"",
+        "NPCResponse": "I shall return to the library. There are still matters that require investigation.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

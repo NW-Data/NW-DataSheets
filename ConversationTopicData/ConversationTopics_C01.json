@@ -1,0 +1,92 @@
+[
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_WW",
+        "PlayerPrompt": "\"Where will you go?\"",
+        "NPCResponse": "\u0026lt;g id=\"g_grace_pointl\" bout=\"1.5\" priority=\"high\" /\u0026gt;Your local friends say there's a town a bit up the road. I'll head there and sell this loot.",
+        "AchievementUnlock": "01_Grace_Goodbye_WW",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_MB",
+        "PlayerPrompt": "\"Where will you go?\"",
+        "NPCResponse": "\u0026lt;g id=\"g_grace_pointl\" bout=\"1.5\" priority=\"high\" /\u0026gt;Your local friends say there's a town a bit up the road. I'll head there and sell this loot.",
+        "AchievementUnlock": "01_Grace_Goodbye_MB",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_WW_Final",
+        "PlayerPrompt": "\"I'll meet you in town, at least.\"",
+        "NPCResponse": "\u0026lt;g id=\"g_grace_sympathy\" /\u0026gt;I may not be going with you, but it doesn't mean I don't wish you luck.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "01_Grace_Goodbye_WW",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_MB_Final",
+        "PlayerPrompt": "\"I'll meet you in town, at least.\"",
+        "NPCResponse": "\u0026lt;g id=\"g_grace_sympathy\" /\u0026gt;I may not be going with you, but it doesn't mean I don't wish you luck.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "01_Grace_Goodbye_MB",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_boarfeast_topicTime",
+        "PlayerPrompt": "\"How long have you been here?\"",
+        "NPCResponse": "Many\u0026lt;g id=\"g_male_spreadarmscalm\" /\u0026gt; centuries now, but I am just a newborn child compared to\u0026lt;g id=\"g_male_nodproud\" /\u0026gt; Urda! She has been here as long as the hills.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_boarfeast_topicTime_MB",
+        "PlayerPrompt": "\"How long have you been here?\"",
+        "NPCResponse": "Many\u0026lt;g id=\"g_male_spreadarmscalm\" /\u0026gt; centuries now, but I am just a newborn child compared to\u0026lt;g id=\"g_male_nodproud\" /\u0026gt; Urda! She has been here as long as the hills.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_boarfeast_topicOrigin",
+        "PlayerPrompt": "\"You were a king?\"",
+        "NPCResponse": "Yes,\u0026lt;g id=\"g_female_nodyes\" /\u0026gt; and I conquered\u0026lt;g id=\"g_female_notsure\" /\u0026gt; many lands to expand my kingdom. That's what brought me to Aeternum.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_boarfeast_topicOrigin_MB",
+        "PlayerPrompt": "\"You were a king?\"",
+        "NPCResponse": "Yes,\u0026lt;g id=\"g_female_nodyes\" /\u0026gt; and I conquered many lands to expand my kingdom. That's what brought me to Aeternum.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_crewmates_topicCorrupted",
+        "PlayerPrompt": "\"Won't they just come back?\"",
+        "NPCResponse": "\u0026lt;g id=\"g_female_gesturebothhands\" /\u0026gt;If we are lucky they will turn into the Lost…\u0026lt;g id=\"g_male_explain\" /\u0026gt; no soul, no Corruption, less threatening.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_crewmates_topicCorrupted_MB",
+        "PlayerPrompt": "\"Won't they just come back?\"",
+        "NPCResponse": "\u0026lt;g id=\"g_female_gesturebothhands\" /\u0026gt;If we are lucky they will turn into the Lost…\u0026lt;g id=\"g_male_explain\" /\u0026gt; no soul, no Corruption, less threatening.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

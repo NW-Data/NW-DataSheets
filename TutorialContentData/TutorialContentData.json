@@ -1,0 +1,2018 @@
+[
+    {
+        "ContentId": "WeaponLifeStaff1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Life Staff\u0026lt;/font\u0026gt;, a support weapon, in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponLifeStaff1Dialogue_01",
+        "SubtitleText": "Life Staff: Basics",
+        "BodyText": "The \u0026lt;font color=\"#edc63e\"\u0026gt;Life Staff\u0026lt;/font\u0026gt; is magic support weapon that consumes \u0026lt;font color=\"#edc63e\"\u0026gt;mana\u0026lt;/font\u0026gt; and channels the restorative power of Nature spells to keep yourself and allies alive. \\n\\nWhile the Life Staff can damage enemies, it is strongest when its used to heal and buff your allies.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;LIFE STAFF ATTRIBUTES\u0026lt;/font\u0026gt;\\nThe Life Staff's power scales exclusively off the \u0026lt;font color=\"#edc63e\"\u0026gt;focus attribute\u0026lt;/font\u0026gt;. Healing is more effective the more focus you have, so maximize it to provide the strongest heals for your allies.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponLifeStaff2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about Life Staff's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponLifeStaff2Dialogue_01",
+        "SubtitleText": "Life Staff: Mastery",
+        "BodyText": "The Life Staff has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Healing\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Protector\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;HEALING TREE\u0026lt;/font\u0026gt;\\nWhile both trees offer a mix of both healing and protection, the Healing tree has a stronger focus on healing as its name suggests.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;PROTECTOR TREE\u0026lt;/font\u0026gt;\\nThe Protector tree has sustained heals but provides additional protection for allies using fortify when healing may not be needed.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponLifeStaff3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn how to use \u0026lt;font color=\"#edc63e\"\u0026gt;Targeted Healing\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponLifeStaff3Dialogue_01",
+        "SubtitleText": "Life Staff: Targeted Healing",
+        "BodyText": "Targeted Healing can be adjusted in the settings menu. Targeted Healing allows some healing spells to \u0026lt;font color=\"#edc63e\"\u0026gt;automatically target allies when aimed\u0026lt;/font\u0026gt;. It will force targeted spells to lock into nearby allies if they are within 25 meters of you.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;GROUP HEALING MODE\u0026lt;/font\u0026gt;\\nYou can adjust your targeted healing to enable \u0026lt;font color=\"#edc63e\"\u0026gt;group mode\u0026lt;/font\u0026gt;, which will allow the player to scroll through only the allies in your group. With group mode disabled, it will scroll through the allies within range in front of the player.\\n\\nThese settings have additional customization for raid groups and with additional hotkeys in the bindings menus.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponLifeStaff4Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about Life Staff's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponLifeStaff4Dialogue_01",
+        "SubtitleText": "Life Staff: Ultimates",
+        "BodyText": "The ultimate ability for the Healing tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Divine Blessing\u0026lt;/font\u0026gt;, increases the amount healed when healing an ally that has low health. \\n\\nThe ultimate ability for the Protector tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Magnify\u0026lt;/font\u0026gt;, extends the duration of life staff buffs on targets healed by Light’s Embrace.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponFireStaff1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Fire Staff\u0026lt;/font\u0026gt;, a magic weapon, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponFireStaff1Dialogue_01",
+        "SubtitleText": "Fire Staff: Basics",
+        "BodyText": "The Fire Staff is a magical weapon that consumes \u0026lt;font color=\"#edc63e\"\u0026gt;Mana\u0026lt;/font\u0026gt; to harness the power of flames to burn enemies. \\n\\nThe Fire Staff is strongest when using its \u0026lt;font color=\"#edc63e\"\u0026gt;damage-over-time\u0026lt;/font\u0026gt; abilities to constantly inflict fire damage on enemies.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponFireStaff2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about Fire Staff's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponFireStaff2Dialogue_01",
+        "SubtitleText": "Fire Staff: Mastery",
+        "BodyText": "The Fire Staff has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Fire Mage\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Pyromancer\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;FIRE MAGE TREE\u0026lt;/font\u0026gt;\\nThe Fire Mage tree focuses on ranged combat. Cast powerful fire spells from a distance that can hit multiple enemies at once.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;PYROMANCER TREE\u0026lt;/font\u0026gt;\\nThe Pyromancer tree focuses on close combat. Keep pressure on enemies and maintain multiple stacks of the burning status effect, Smolder, on them.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponFireStaff3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about Fire Staff's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponFireStaff3Dialogue_01",
+        "SubtitleText": "Fire Staff: Ultimates",
+        "BodyText": "The ultimate ability for the Fire Mage tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Runes of Helios\u0026lt;/font\u0026gt;, creates a rune on the ground that buffs your damage while inside. Use abilities and attacks that allow you to stay in the radius of the rune to maximize your damage. \\n\\nThe ultimate ability for the Pyromancer tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Backdraft\u0026lt;/font\u0026gt;, will allow a Heavy attack to consume all stacks of Smolder on a target and deal a burst of damage in an area of effect around the target. Focus your abilities on applying as many stacks of Smolder as possible to take advantage of Backdraft and finish off targets.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponIceGauntlet1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Ice Gauntlet\u0026lt;/font\u0026gt;, a magic weapon, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponIceGauntlet1Dialogue_01",
+        "SubtitleText": "Ice Gauntlet: Basics",
+        "BodyText": "The Ice Gauntlet is magical weapon that consumes \u0026lt;font color=\"#edc63e\"\u0026gt;Mana\u0026lt;/font\u0026gt; to harness the power of frost to damage and hinder enemies.\\n\\nThe Ice Gauntlet is strongest when used to keep your target at a distance by limiting their movement and unleashing a frosty torment upon them.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponIceGauntlet2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about Ice Gauntlet's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponIceGauntlet2Dialogue_01",
+        "SubtitleText": "Ice Gauntlet: Mastery",
+        "BodyText": "The Ice Gauntlet has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the  \u0026lt;font color=\"#edc63e\"\u0026gt;Ice Tempest\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Builder\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;ICE TEMPEST TREE\u0026lt;/font\u0026gt;\\nThe Ice Tempest tree focuses on hindering your enemies' movement. Deal as much damage as you can while your enemies are slowed.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;BUILDER TREE\u0026lt;/font\u0026gt;\\nThe Builder tree focuses on spawning icy deterrents to draw attention away from yourself and provide protection to stay alive.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponIceGauntlet3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about Ice Gauntlet's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponIceGauntlet3Dialogue_01",
+        "SubtitleText": "Ice Gauntlet Ultimates",
+        "BodyText": "The ultimate ability for the Ice Tempest tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Ultimate Chill\u0026lt;/font\u0026gt;, will allow your Ice Gauntlet abilities to Chill targets and increase the amount of damage you deal against them. Focus your abilities around sustained damage to help keep this damage bonus active. \\n\\nThe ultimate ability for the Builder tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Ultimate Frost\u0026lt;/font\u0026gt;, is an extension of the Ice Pylon ability. It increases your Pylon's health and the area effect around it. Focus your abilities on ones that allow you to stay in the frosted area and use it to your advantage.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponVoidGauntlet1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Void Gauntlet\u0026lt;/font\u0026gt;, a magic and support weapon, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponVoidGauntlet1Dialogue_01",
+        "SubtitleText": "Void Gauntlet: Basics",
+        "BodyText": "The Void Gauntlet is a magical weapon that consumes \u0026lt;font color=\"#edc63e\"\u0026gt;Mana\u0026lt;/font\u0026gt; to harness the power of the abyss and deal void damage to enemies and heal allies. \\n\\nThe Void Gauntlet is strongest when used to support allies that are near targets.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;VOIDE GAUNTLET ATTRIBUTES\u0026lt;/font\u0026gt;\\nThe Void Gauntlet's power scales off both the \u0026lt;font color=\"#edc63e\"\u0026gt;intelligence\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;focus\u0026lt;/font\u0026gt; attributes. \\n\\nIntelligence provides higher weapon damage. Focus exclusively controls the power of healing, but still provides some scaling to damage.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponVoidGauntlet2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about Void Gauntlet's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in Tutorials.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponVoidGauntlet2Dialogue_01",
+        "SubtitleText": "Void Gauntlet: Mastery",
+        "BodyText": "The Void Gauntlet has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Annihilation\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Decay\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;ANNIHILATION TREE\u0026lt;/font\u0026gt;\\nThe Annihilation tree focuses on keeping targets up close to debuff them while buffing yourself and allies. Reel your enemies in, then unleash Void Blade on them while they struggle to escape your wrath.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;DECAY TREE\u0026lt;/font\u0026gt;\\nThe Decay tree is ranged focused and specializes in damaging and debuffing enemies from a distance while also providing creative ways to heal yourself and allies.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponVoidGauntlet3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about Void Gauntlet's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponVoidGauntlet3Dialogue_01",
+        "SubtitleText": "Void Gauntlet: Ultimates",
+        "BodyText": "The ultimate ability for the Annihilation tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Voidcaller\u0026lt;/font\u0026gt;, triggers a healing aura around you when you stack ability hits on your targets. Focus your build on repetitive damage to your targets to maximize this ultimate.\\n\\nThe ultimate ability for the Decay tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Glimpse of the Void\u0026lt;/font\u0026gt;, resets all of your Void Gauntlet's cooldowns when you hit a target with a ranged heavy attack and have enough stacks of the Void Essence status effect. Focus your build on maximizing those stacks to become a relentless foe.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponSwordShield1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Sword and Shield\u0026lt;/font\u0026gt;, a duo of melee weapons, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponSwordShield1Dialogue_01",
+        "SubtitleText": "Sword and Shield: Basics",
+        "BodyText": "The Sword and Shield are a pair of melee-focused weapons that offer solid offensive and defensive capabilities when used together. Use a combination of arcing swings and lunges in your attacks and a shield to maximize your and your allies' defense.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponSwordShield2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about Sword and Shield's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponSwordShield2Dialogue_01",
+        "SubtitleText": "Sword and Shield: Mastery",
+        "BodyText": "The Sword and Shield have two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Swordmaster\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Defender\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;SWORDMASTER TREE\u0026lt;/font\u0026gt;\\nThe Swordmaster tree focuses on a strong offense. Apply pressure to enemies to deal powerful damage with the abilities in this tree.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;DEFENDER TREE\u0026lt;/font\u0026gt;\\nThe Defender tree focuses on a strong defense and tanking. The abilities focus on interrupting and staggering targets and provides you improved survivability and buffs.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponSwordShield3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about Sword and Shield's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponSwordShield3Dialogue_01",
+        "SubtitleText": "Sword and Shield: Ultimates",
+        "BodyText": "The ultimate ability for the Swordmaster tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Leadership\u0026lt;/font\u0026gt;, provides a persistent damage bonus to all members in your group, including yourself. \\n\\nThe ultimate ability for the Defender tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Defensive Formation\u0026lt;/font\u0026gt;, will summon a defensive area whenever you are blocking and reduces the damage taken by all nearby allies. Positioning is key for this ultimate, as it can aid in keeping nearby allies alive while they deal damage to targets focused on you. Pair this ultimate with taunts to maximize its power against non-player enemies.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;TANKING WITH THE SWORD AND SHIELD\u0026lt;/font\u0026gt;\\nYou can tank using the Sword and Shield by using a \u0026lt;font color=\"#edc63e\"\u0026gt;Carnelian gem\u0026lt;/font\u0026gt; in your Sword to activate certain taunt abilities. Taunting non-player enemies will cause them to focus on you, allowing your allies to capitalize on the enemy's distraction. Keep an eye out the \"Taunt Gem Compatible\" text in ability tooltips to learn what abilities can trigger taunts.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponRapier1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Rapier\u0026lt;/font\u0026gt;, a dexterous melee weapon, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponRapier1Dialogue_01",
+        "SubtitleText": "Rapier: Basics",
+        "BodyText": "The Rapier is a \u0026lt;font color=\"#edc63e\"\u0026gt;speed-oriented\u0026lt;/font\u0026gt; melee weapon with a variety of quick lunge attacks. It excels at precise timing and outmaneuvering opponents while applying bleeds that gradually drain the target's health.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponRapier2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Rapier's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponRapier2Dialogue_01",
+        "SubtitleText": "Rapier: Mastery",
+        "BodyText": "The Rapier has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Blood\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Grace\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;BLOOD TREE\u0026lt;/font\u0026gt;\\nThe Blood tree focuses on heavy damage and applying the Bleed effect to your enemies. The Bleed status effect results in small but continuous damage to your enemies. Capitalize on it with perks and other abilities to severely punish those that oppose you.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;GRACE TREE\u0026lt;/font\u0026gt;\\nThe Grace tree is a versatile tree that focuses on positioning, maneuverability, and timing. Mastering this tree will turn you into a force to be reckoned with.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponRapier3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Rapier's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponRapier3Dialogue_01",
+        "SubtitleText": "Rapier: Ultimates",
+        "BodyText": "The ultimate ability for the Blood tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Bloody End\u0026lt;/font\u0026gt;, is an extension of the Flourish and Finish ability that increases the damage applied when Finish consumes the bleeds on your target. Stack as many bleeds as you can before using Flourish and Finish to deal devastating damage to those unlucky enough to reach their Bloody End.\\n\\nThe ultimate ability for the Grace tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Momentum\u0026lt;/font\u0026gt;, increases the damage of your next basic attack after performing an ability. Use timing and positioning to alternate abilities and basic attacks to maximize Momentum.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponHatchet1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Hatchet\u0026lt;/font\u0026gt;, a relentless melee weapon, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponHatchet1Dialogue_01",
+        "SubtitleText": "Hatchet: Basics",
+        "BodyText": "The Hatchet is a versatile weapon that allows for \u0026lt;font color=\"#edc63e\"\u0026gt;ranged throwing attacks\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;rapid close quarters attacks\u0026lt;/font\u0026gt;. Ideal for aggressive, fully committed close quarters melee combat or tactical medium range combat.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponHatchet2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Hatchet's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponHatchet2Dialogue_01",
+        "SubtitleText": "Hatchet: Mastery",
+        "BodyText": "Hatchet has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Berserker\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Throwing\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;BERSERKER TREE\u0026lt;/font\u0026gt;\\nThe Berserker tree focuses on being up close and personal with your enemies in a relentlessly aggressive manner. It allows you to get into a fight and stay in until only one is left standing.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;THROWING TREE\u0026lt;/font\u0026gt;\\nThe Throwing tree forgoes the melee focused aggression with ranged precision. Instead of slicing into an enemy with your Hatchet, throw it at them.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponHatchet3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Hatchet's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponHatchet3Dialogue_01",
+        "SubtitleText": "Hatchet: Ultimates",
+        "BodyText": "The ultimate ability for the Berserker tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Defy Death\u0026lt;/font\u0026gt;, will give you a second wind, restoring some health after you drop to zero as a means to escape death. Use this brief window to finish off targets or recover from injuries.\\n\\nThe ultimate ability for the Throwing tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Persistent Hindrance\u0026lt;/font\u0026gt;, extends hatchet debuffs on targets and increases damage against targets with debuffs. Try building your ability tree around stacking as many debuffs as possible on a target and keeping them active.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponFlail1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Flail and Shield\u0026lt;/font\u0026gt;, a dynamic weapon duo, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponFlail1Dialogue_01",
+        "SubtitleText": "Flail and Shield: Basics",
+        "BodyText": "The Flail is a dynamic weapon with a chain to extend the reach of its attacks.\\n\\nThe Flail is strongest when used to support allies while fighting alongside them and can be used with a Shield for extra defense. \\n\\nThe Flail uses a variety of strike and arcane magic attacks. Despite dealing less damage compared to other weapons, the Flail's oppressive, supportive, and defensive nature will allow the wielder to stand out as a force to be reckoned with while in a fight.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;FLAIL AND SHIELD ATTRIBUTES\u0026lt;/font\u0026gt;\\nThe Flail's power scales off both the \u0026lt;font color=\"#edc63e\"\u0026gt;strength\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;focus\u0026lt;/font\u0026gt; attributes. \\n\\nThe strength attribute provides the most damage scaling. \\nFocus exclusively controls the power of healing and support buffs, but still provides some scaling to damage.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponFlail2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Flail and Shield's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponFlail2Dialogue_01",
+        "SubtitleText": "Flail and Shield: Mastery",
+        "BodyText": "The Flail has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Cleric\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Bastion\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;CLERIC TREE\u0026lt;/font\u0026gt;\\nThe Cleric tree primarily focuses on offensive attacks and support abilities. Each ability's final upgrade is support focused and scales using the focus attribute.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;BASTION TREE\u0026lt;/font\u0026gt;\\nThe Bastion tree provides defense and support for your allies through your own survivability. This tree shines when you want to be able to take on a formidable force thrown at you or your group.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponFlail3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Flail and Shield's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponFlail3Dialogue_01",
+        "SubtitleText": "Flail and Shield: Ultimates",
+        "BodyText": "The ultimate ability for the Cleric tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Better Together\u0026lt;/font\u0026gt;, grants you and all nearby allies passive healing when you are nearby. Be sure to group up when this ultimate is active. \\n\\nThe ultimate ability for the Bastion tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Human Shield\u0026lt;/font\u0026gt;, actually turns you into a human shield when you hit a target by absorbing some of the damage a nearby ally would otherwise take. Stick close to your allies and be ready to attack with an ability when they start to take damage to ensure this ultimate is used appropriately.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;TANKING WITH THE FLAIL AND SHIELD\u0026lt;/font\u0026gt;\\nYou can tank using Flail and Shield by using a \u0026lt;font color=\"#edc63e\"\u0026gt;Carnelian gem\u0026lt;/font\u0026gt; in your Flail to activate certain taunt abilities. Taunting non-player enemies will cause them to focus on you, allowing your allies to capitalize on the enemy's focus. Keep an eye out the \"Taunt Gem Compatible\" text in ability tooltips to learn what abilities can trigger taunts.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponSpear1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Spear\u0026lt;/font\u0026gt;, a zoning melee weapon, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponSpear1Dialogue_01",
+        "SubtitleText": "Spear: Basics",
+        "BodyText": "The Spear is a \u0026lt;font color=\"#edc63e\"\u0026gt;melee weapon\u0026lt;/font\u0026gt; that utilizes its long reach for aggressive, thrusting attacks. Perfect for strategic positioning, applying persistent pressure, and keeping targets at a distance.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponSpear2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Spear's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponSpear2Dialogue_01",
+        "SubtitleText": "Spear: Mastery",
+        "BodyText": "Spear has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Zoner\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Impaler\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;ZONER TREE\u0026lt;/font\u0026gt;\\nThe Zoner tree focuses keeping your target at a distance. The abilities use crowd control to limit an enemy's movement, while allowing you to unleash your quick and aggressive attacks on them.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;IMPALER TREE\u0026lt;/font\u0026gt;\\nThe Impaler Tree is focused on dealing damage and debuffing your target. This tree benefits aggressive precision. Master the flow of diverse actions and turn into a powerhouse on the battlefield; even your dodges can be offensive!",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponSpear3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Spear's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponSpear3Dialogue_01",
+        "SubtitleText": "Spear: Ultimates",
+        "BodyText": "The ultimate ability for the Zoner tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Reserved Strength\u0026lt;/font\u0026gt;, gives you a persistent damage bonus when you have maximum stamina. Focus on stamina regeneration and avoid stamina depleting moves like blocking or dodging.\\n\\nThe ultimate ability for the Impaler tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Exploited Weakness\u0026lt;/font\u0026gt;, gives you a damage bonus per debuff on your target. Stack debuffs on your target and keep them active to maximize your damage.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponGreatAxe1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Great Axe\u0026lt;/font\u0026gt;, a sweeping melee weapon, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponGreatAxe1Dialogue_01",
+        "SubtitleText": "Great Axe: Basics",
+        "BodyText": "The Great Axe is a \u0026lt;font color=\"#edc63e\"\u0026gt;large melee weapon\u0026lt;/font\u0026gt; with wide, arcing swings and powerful, chopping attacks. Ideal for engaging multiple enemies with sweeping damage or executing single targets with a few swings.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponGreatAxe2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Great Axe's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponGreatAxe2Dialogue_01",
+        "SubtitleText": "Great Axe: Mastery",
+        "BodyText": "Great Axe has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Reaper\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Mauler\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;REAPER TREE\u0026lt;/font\u0026gt;\\nThe Reaper tree focuses on dealing as much damage as possible to targets. Use powerful attacks, inflict critical hits, and capitalize on the vulnerability of low health targets. This tree is incredibly punishing to all those that face you.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;MAULER TREE\u0026lt;/font\u0026gt;\\nThe Mauler tree focuses on dealing repeated attacks to multiple targets. While others are disadvantaged when outnumbered, you will shine. Trap your enemies trying to escape your ferocious attacks with Gravity Well or Maelstrom.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponGreatAxe3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Great Axe's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponGreatAxe3Dialogue_01",
+        "SubtitleText": "Great Axe: Ultimates",
+        "BodyText": "The ultimate ability for the Reaper tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Blood Lust\u0026lt;/font\u0026gt;, is a multi-purpose ultimate that provides speed and strength. Use the power granted by Blood Lust to chase down and punish enemies. Be relentless with your actions when building a loadout with this ultimate. \\n\\nThe ultimate ability for the Mauler tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Mauler's Fury\u0026lt;/font\u0026gt;, grants a stacking damage bonus when hitting targets. Maximize the number of hits either through increasing the number of targets you are attacking or using multi-hit abilities to turn into a force to be reckoned with.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponWarHammer1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;War Hammer\u0026lt;/font\u0026gt;, a crushing melee weapon, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponWarHammer1Dialogue_01",
+        "SubtitleText": "War Hammer: Basics",
+        "BodyText": "The War Hammer is a \u0026lt;font color=\"#edc63e\"\u0026gt;mighty combat hammer\u0026lt;/font\u0026gt; that can cause the earth to quake with its crushing strikes. Ideal for impeding enemies with ground tremors or dealing crippling blows directly to a target.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponWarHammer2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the War Hammer's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponWarHammer2Dialogue_01",
+        "SubtitleText": "War Hammer: Mastery",
+        "BodyText": "War Hammer has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Juggernaut\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Crowd Crusher\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;JUGGERNAUT TREE\u0026lt;/font\u0026gt;\\nThe Juggernaut tree is built around shrugging off hits you take and turning them into incredibly powerful attacks against your enemies.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;CROWD CRUSHER TREE\u0026lt;/font\u0026gt;\\nThe Crusher tree focuses on dismantling groups of enemies and dealing additional damage to the crowd-controlled foes.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponWarHammer3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the War Hammer's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponWarHammer3Dialogue_01",
+        "SubtitleText": "War Hammer: Ultimates",
+        "BodyText": "The ultimate ability for the Juggernaut tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Justice For All\u0026lt;/font\u0026gt;, is an extension of Mighty Gavel that grants you grit, reduces ability cooldowns, and increases the chance for a critical hit. Use this Mighty Gavel at the appropriate time to shrug off a stagger or reduce cooldowns so you can relentlessly bonk your targets. \\n\\nThe ultimate ability for the Crowd Crusher tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Aftershock\u0026lt;/font\u0026gt;, will slow your target every time you hit them with an ability. Use that time and space to keep pressure on your target and inflict efficient mayhem!",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponGreatsword1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Greatsword\u0026lt;/font\u0026gt;, a versatile melee weapon, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponGreatsword1Dialogue_01",
+        "SubtitleText": "Greatsword: Basics",
+        "BodyText": "The Greatsword is a versatile \u0026lt;font color=\"#edc63e\"\u0026gt;melee weapon\u0026lt;/font\u0026gt; that uses stances to adapt to different combat situations. It embodies relentless offense paired with aggressive defense to cut through any challenge.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;GREATSWORD STANCES\u0026lt;/font\u0026gt;\\nThe Greatsword has two different stances, \u0026lt;font color=\"#edc63e\"\u0026gt;Onslaught Stance\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;Defiant Stance\u0026lt;/font\u0026gt;. Each is activated after using an ability in the respective trees that they are in. \\n\\nThe Onslaught Stance provides offensive bonuses at the cost of defense, and Defiant Stance offers defensive bonuses at the cost of offense. These stances can also change the functionality of ability upgrades depending on what stance the player is in when activating the ability. Being conscious about what stance you are in is vital to mastering the colossal Greatsword.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponGreatsword2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Greatsword's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponGreatsword2Dialogue_01",
+        "SubtitleText": "Greatsword: Mastery",
+        "BodyText": "Greatsword has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Onslaught\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Defiance\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;ONSLAUGHT TREE\u0026lt;/font\u0026gt;\\nThe Onslaught tree is focused on offense. You will obtain offensive bonuses when using any ability in this tree but receive defensive debuffs in return. The bonuses are described in the top left node of the tree. You will be a formidable foe when using this tree but take care as it will weaken your defences.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;DEFIANCE TREE\u0026lt;/font\u0026gt;\\nThe Defiance tree is focused on defence. You will obtain defensive bonuses when using any ability in this tree but receive offensive debuffs in return. The bonuses are described in the top right node of the tree. You will be a stalwart foe that can outlast your targets using this tree.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponGreatsword3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Greatsword's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponGreatsword3Dialogue_01",
+        "SubtitleText": "Greatsword: Ultimates",
+        "BodyText": "The ultimate ability for the Onslaught tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Unrelenting Onslaught\u0026lt;/font\u0026gt;, triggers reduced ability cooldowns when striking enemies with basic light and heavy attacks. Include those basic attacks into your flow of combat to maximize your damage output and reduce ability cooldowns. \\n\\nThe ultimate ability for the Defiance tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Undying Defiance\u0026lt;/font\u0026gt;, will give you lifesteal from your attacks, allowing you to heal yourself based on a percent of your damage dealt. The lifesteal gained from this ultimate can be boosted for a brief duration if you hit a target shortly after blocking an attack. Interweaving blocks and attacks into your combat flow will allow you to more easily maintain a consistent flow of healing from your lifesteal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponBow1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Bow\u0026lt;/font\u0026gt;, a piercing ranged weapon, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponBow1Dialogue_01",
+        "SubtitleText": "Bow: Basics",
+        "BodyText": "The Bow is a versatile \u0026lt;font color=\"#edc63e\"\u0026gt;ranged weapon\u0026lt;/font\u0026gt; that can rapidly fire arrows or be fully drawn to maximize damage. Great for maintaining distance while using a variety of attacks to hinder and damage enemies.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponBow2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Bow's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponBow2Dialogue_01",
+        "SubtitleText": "Bow: Mastery",
+        "BodyText": "Bow has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Skirmisher\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Hunter\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;SKIRMISHER TREE\u0026lt;/font\u0026gt;\\nThe Skirmisher tree focuses on control of the field by strategically positioning yourself or your enemies. With a combination of agile and oppressive abilities that can hit multiple targets, use your arrows to blot out the sun... or your opponent's lives.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;HUNTER TREE\u0026lt;/font\u0026gt;\\nThe Hunter tree focuses on precision. Master your Bow's projectile speed and arc to pierce your enemies when they least expect it.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponBow3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Bow's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponBow3Dialogue_01",
+        "SubtitleText": "Bow: Ultimates",
+        "BodyText": "The ultimate ability for the Skirmisher tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Evasive Tactics\u0026lt;/font\u0026gt;, gives you a brief damage bonus after dodging. Properly time your dodge to maximize your damage output and survivability.\\n\\nThe ultimate ability for the Hunter tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Concussion\u0026lt;/font\u0026gt;, rewards your precision by dealing additional damage with headshots. Practice consistent headshots to maximize your damage output. Precision is key!",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponMusket1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Musket\u0026lt;/font\u0026gt;, a precision ranged weapon, in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponMusket1Dialogue_01",
+        "SubtitleText": "Musket: Basics",
+        "BodyText": "The Musket is a \u0026lt;font color=\"#edc63e\"\u0026gt;ranged weapon\u0026lt;/font\u0026gt; that fires high-damage cartridges that can penetrate multiple targets. Ideal for keeping targets at a distance with a high payoff for precision.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponMusket2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Musket's \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponMusket2Dialogue_01",
+        "SubtitleText": "Musket: Mastery",
+        "BodyText": "Musket has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Sharpshooter\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Trapper\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;SHARPSHOOTER TREE\u0026lt;/font\u0026gt;\\nThe Sharpshooter tree focuses on precision and damage. Stay at a safe distance where you can land precision shots to maximize the abilities on this tree.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;TRAPPER TREE\u0026lt;/font\u0026gt;\\nThe Trapper tree focuses on catching enemies too close for comfort. Distance your targets using trapping abilities while dealing massive damage.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponMusket3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Musket's \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponMusket3Dialogue_01",
+        "SubtitleText": "Musket: Ultimates",
+        "BodyText": "The ultimate ability for the Sharpshooter tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Deadeye\u0026lt;/font\u0026gt;, rewards you for landing headshots or lining up shots that hit multiple targets. Maximize distance and focus on headshots into crowds to maximize this ultimate.\\n\\nThe ultimate ability for the Hunter tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Lethal Combo\u0026lt;/font\u0026gt;, gives you a damage bonus against targets affected by Trapper tree debuffs. Time your shots and maximize the uptime of your debuffs to keep your damage flowing.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponBlunderbuss1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn the basics of the \u0026lt;font color=\"#edc63e\"\u0026gt;Blunderbuss\u0026lt;/font\u0026gt;, a close-quarters ranged weapon, in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponBlunderbuss1Dialogue_01",
+        "SubtitleText": "Blunderbuss: Basics",
+        "BodyText": "The Blunderbuss is a close-quarters \u0026lt;font color=\"#edc63e\"\u0026gt;ranged weapon\u0026lt;/font\u0026gt; that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponBlunderbuss2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Blunderbuss' \u0026lt;font color=\"#edc63e\"\u0026gt;weapon mastery trees\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponBlunderbuss2Dialogue_01",
+        "SubtitleText": "Blunderbuss: Mastery",
+        "BodyText": "Blunderbuss has two ability trees to allocate points into. Choose between a variety of abilities, upgrades, and passives from the \u0026lt;font color=\"#edc63e\"\u0026gt;Containment\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Chaos\u0026lt;/font\u0026gt; trees.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;CONTAINMENT TREE\u0026lt;/font\u0026gt;\\nThe Containment tree focuses on maneuverability and keeping pressure on your targets. Close the gap or create space between you and your target all while dealing bursts of intense damage.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;CHAOS TREE\u0026lt;/font\u0026gt;\\nThe Chaos tree focuses on creating as much chaos as possible with clusters of explosions and massive blasts that devastate your opponents.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "WeaponBlunderbuss3Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about the Blunderbuss' \u0026lt;font color=\"#edc63e\"\u0026gt;ultimate abilities\u0026lt;/font\u0026gt; in the Journal. ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WeaponBlunderbuss3Dialogue_01",
+        "SubtitleText": "Blunderbuss: Ultimates",
+        "BodyText": "The ultimate ability for the Containment tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Unload\u0026lt;/font\u0026gt;, briefly increases the number of pellets fired after using an ability. Alternate between basic attacks and abilities to maximize your damage. \\n\\nThe ultimate ability for the Chaos tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Double Down\u0026lt;/font\u0026gt;, reduces the cooldown of the next ability used every 30 seconds. Watch the Double Down timer and use it to reduce a specific ability's cooldown at the right time to whittle away at your targets.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "HealthPotion1Prompt_01",
+        "SubtitleText": "Equip Health Potions",
+        "BodyText": "Open {$ui.toggleInventoryWindow$} inventory and {$ui_inventory_actions.inventoryUse$} \u0026lt;font color=\"#edc63e\"\u0026gt;equip health potions\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "Open {$ui.toggleInventoryWindow$} inventory and \u0026lt;font color=\"#edc63e\"\u0026gt;equip health potions\u0026lt;/font\u0026gt;.",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "HealthPotion1Dialogue_01",
+        "SubtitleText": "Equip Health Potions",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Health potions\u0026lt;/font\u0026gt; and other \u0026lt;font color=\"#edc63e\"\u0026gt;consumables\u0026lt;/font\u0026gt; are critical to your survival in Aeternum. Equip them from your {$ui.toggleInventoryWindow$} inventory.\\n\\nPotions can be found around Aeternum, bought at the Trading Post, or crafted in town or at your camp. Health Potions, in addition to regeneration potions and food, help maintain your health while adventuring. Unlock higher tier health potions as you level.\\n\\nConsumables, including Health Potions, have a \u0026lt;font color=\"#edc63e\"\u0026gt;cooldown\u0026lt;/font\u0026gt; once you use them.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/HealthPotion.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "SwapWeaponsPrompt_01",
+        "SubtitleText": "Swap Weapons",
+        "BodyText": "{$player.quickslot-weaponSwap$} \u0026lt;font color=\"#edc63e\"\u0026gt;Swap\u0026lt;/font\u0026gt; Weapons",
+        "KeyboardButtonDisplayOverride": "Press {$player.quickslot-weapon1$} or {$player.quickslot-weapon2$} to \u0026lt;font color=\"#edc63e\"\u0026gt;Swap\u0026lt;/font\u0026gt; Weapons",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "AimingPrompt_01",
+        "SubtitleText": "Aiming",
+        "BodyText": "{$player.block_depressed$} Hold to \u0026lt;font color=\"#edc63e\"\u0026gt;Aim Down Sights\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "CampCreatePrompt_01",
+        "SubtitleText": "Create a Camp",
+        "BodyText": "{$ui.makeCampOn$} \u0026lt;font color=\"#edc63e\"\u0026gt;Build\u0026lt;/font\u0026gt; a camp.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "CampUsePrompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Respawn and craft at \u0026lt;font color=\"#edc63e\"\u0026gt;camps\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "CampUseDialogue_01",
+        "SubtitleText": "Camping",
+        "BodyText": "Dying is a part of life in Aeternum, but fortunately you can \u0026lt;font color=\"#edc63e\"\u0026gt;respawn at your camp\u0026lt;/font\u0026gt;. Place your camp in strategic areas, such as before hard boss fights or in open world PvP, so you don't have to run too far when you inevitably die.\\n\\nYou can also \u0026lt;font color=\"#edc63e\"\u0026gt;craft\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;change your camp's skin\u0026lt;/font\u0026gt; by interacting with it. You can craft basic consumables and gear at camps that you may need out in the wild, such as potions. More advanced crafting is available at workstations in Settlements.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/ArcaneCampCrafting.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_exploration.png"
+    },
+    {
+        "ContentId": "EquipLoadPrompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Your armor's \u0026lt;font color=\"#edc63e\"\u0026gt;weight\u0026lt;/font\u0026gt; can change your \u0026lt;font color=\"#edc63e\"\u0026gt;dodge distance\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;speed\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "EquipLoadDialogue_01",
+        "SubtitleText": "Equip Load",
+        "BodyText": "Your Equip Load is an important part of your combat style. For example, \u0026lt;font color=\"#edc63e\"\u0026gt;Light Equip Load\u0026lt;/font\u0026gt; allows you to roll around enemies as you dodge, while a \u0026lt;font color=\"#edc63e\"\u0026gt;Heavy Equip Load's\u0026lt;/font\u0026gt; dodge is a shorter and less agile step but much more sturdy. The three equip loads are Light, Medium, and Heavy.\\n\\nYour Equip Load is determined by the \u0026lt;font color=\"#edc63e\"\u0026gt;total weight\u0026lt;/font\u0026gt; of all of your armor, so you can combine a variety of different gear weights. Learn more about each load by opening your inventory and hovering over your equip weight found next to your character.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/EquipLoad.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "SocialMenuPrompt_01",
+        "SubtitleText": "Social Menu",
+        "BodyText": "{$player.social_align$} \u0026lt;font color=\"#edc63e\"\u0026gt;Open Social Actions\u0026lt;/font\u0026gt; while hovering over a player.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "GroupFinderPrompt_01",
+        "SubtitleText": "Use Activity Finder",
+        "BodyText": "Find players to run \u0026lt;font color=\"#edc63e\"\u0026gt;Expeditions\u0026lt;/font\u0026gt; within the \u0026lt;font color=\"#edc63e\"\u0026gt;Activities\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "GroupFinderDialogue_01",
+        "SubtitleText": "Use Activity Finder",
+        "BodyText": "Use the \u0026lt;font color=\"#edc63e\"\u0026gt;Activity Finder\u0026lt;/font\u0026gt; to join and queue for Expeditions, Outpost Rush, and more.\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Earn daily bonuses\u0026lt;/font\u0026gt; for joining random, normal and mutated Expeditions through the Activity Finder.\\n\\nAccess the Activity Finder within \u0026lt;font color=\"#edc63e\"\u0026gt;Activities\u0026lt;/font\u0026gt; tab.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "CompassPrompt_01",
+        "SubtitleText": "Use Your Compass",
+        "BodyText": "Use the \u0026lt;font color=\"#edc63e\"\u0026gt;compass\u0026lt;/font\u0026gt; at the top of your screen to navigate to \u0026lt;font color=\"#edc63e\"\u0026gt;Quest markers\u0026lt;/font\u0026gt; and more.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "CompassDialogue_01",
+        "SubtitleText": "Use Your Compass",
+        "BodyText": "Use the \u0026lt;font color=\"#edc63e\"\u0026gt;compass\u0026lt;/font\u0026gt; at the top of your screen to view quest markers, group members, nearby resources, and more without opening your map.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;QUEST MARKERS\u0026lt;/font\u0026gt;\\nYour Compass will only show pinned quests.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;RESOURCES\u0026lt;/font\u0026gt;\\nLevel up your gathering skills to view more resources on your compass.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_exploration.png"
+    },
+    {
+        "ContentId": "SkinsPrompt_01",
+        "SubtitleText": "Customize Appearance",
+        "BodyText": "You received an item that unlocked a \u0026lt;font color=\"#edc63e\"\u0026gt;new appearance\u0026lt;/font\u0026gt;! Use a \u0026lt;font color=\"#edc63e\"\u0026gt;Transmog Token\u0026lt;/font\u0026gt; at any \u0026lt;font color=\"#edc63e\"\u0026gt;Stylemancer\u0026lt;/font\u0026gt; to unlock it.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "SkinsDialogue_01",
+        "SubtitleText": "Customize Appearance",
+        "BodyText": "Change the appearance of your gear. Open your inventory, select the slot you wish to change, and select \u0026lt;font color=\"#edc63e\"\u0026gt;Change Skin\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Dye\u0026lt;/font\u0026gt;.\\n\\nYou can unlock more Skins and Dyes by purchasing them in the store, through Transmog, and unlocking them through in and out of game events including the Seasonal Reward Track.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "Housing1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Buy and decorate a \u0026lt;font color=\"#edc63e\"\u0026gt;house\u0026lt;/font\u0026gt; for increased storage, fast travel, and trophy bonuses.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Housing1Dialogue_01",
+        "SubtitleText": "Purchase a House",
+        "BodyText": "Become a home owner in Aeternum today!\r\n\t\\n\\n • Decorate with \u0026lt;font color=\"#edc63e\"\u0026gt;furniture\u0026lt;/font\u0026gt;\r\n\t\\n • Place \u0026lt;font color=\"#edc63e\"\u0026gt;Trophies\u0026lt;/font\u0026gt;\r\n\t\\n • Take advantage of \u0026lt;font color=\"#edc63e\"\u0026gt;Lifestyle Buffs\u0026lt;/font\u0026gt;\r\n\t\\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Teleport\u0026lt;/font\u0026gt; from anywhere\r\n\t\\n • Increase \u0026lt;font color=\"#edc63e\"\u0026gt;storage\u0026lt;/font\u0026gt;\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;OWNING A HOME\u0026lt;/font\u0026gt;\r\n\t\\nYou are eligible to \u0026lt;font color=\"#edc63e\"\u0026gt;purchase a house\u0026lt;/font\u0026gt; in each Territory’s settlement once you reach \u0026lt;font color=\"#edc63e\"\u0026gt;Territory Standing 1\u0026lt;/font\u0026gt; and meet level and coin requirements. Purchase a home by approaching a home in the settlement and selecting the \u0026lt;font color=\"#edc63e\"\u0026gt;purchase\u0026lt;/font\u0026gt; option. You can own up to 3 homes in different settlements. You are required to pay a periodic \u0026lt;font color=\"#edc63e\"\u0026gt;housing upkeep cost\u0026lt;/font\u0026gt; to keep your housing benefits.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;DECORATE\u0026lt;/font\u0026gt;\r\n\t\\nEarn, purchase, or craft \u0026lt;font color=\"#edc63e\"\u0026gt;furniture\u0026lt;/font\u0026gt; to decorate your home with. Furniture can be crafted at a \u0026lt;font color=\"#edc63e\"\u0026gt;Workshop\u0026lt;/font\u0026gt; and is available as rewards through reward tracks and around the island.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;TROPHIES\u0026lt;/font\u0026gt;\r\n\t\\nPlace \u0026lt;font color=\"#edc63e\"\u0026gt;Trophies\u0026lt;/font\u0026gt; in your home that \u0026lt;font color=\"#edc63e\"\u0026gt;grant passive bonuses\u0026lt;/font\u0026gt; for tradeskills and combat. Trophies can be purchased or crafted.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;LIFESTYLE BUFFS\u0026lt;/font\u0026gt;\r\n\t\\nTake advantage of \u0026lt;font color=\"#edc63e\"\u0026gt;Lifestyle Buffs\u0026lt;/font\u0026gt; that territory owners activate by owning a home in the territory’s settlement. See which Lifestyle Buffs are active for the settlements you own homes in on the Bio tab of your Character screen.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;TELEPORT FROM ANYWHERE\u0026lt;/font\u0026gt;\r\n\t\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Teleport\u0026lt;/font\u0026gt; from nearly anywhere in Aeternum to one of your houses by selecting the house’s settlement on the map. You can teleport again to your home after a cooldown, or pay \u0026lt;font color=\"#edc63e\"\u0026gt;Azoth\u0026lt;/font\u0026gt; to reset the cooldown.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;INCREASE STORAGE\u0026lt;/font\u0026gt;\r\n\t\\nPurchase or find \u0026lt;font color=\"#edc63e\"\u0026gt;storage containers\u0026lt;/font\u0026gt; to place in your home to access your storage and \u0026lt;font color=\"#edc63e\"\u0026gt;increase your total capacity\u0026lt;/font\u0026gt; for that territory.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "GearUpgradePrompt_01",
+        "SubtitleText": "Equip Better Gear",
+        "BodyText": "Open {$ui.toggleInventoryWindow$} inventory and {$ui_inventory_actions.inventoryUse$} \u0026lt;font color=\"#edc63e\"\u0026gt;equip your new gear\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "Open {$ui.toggleInventoryWindow$} inventory and \u0026lt;font color=\"#edc63e\"\u0026gt;equip your new gear\u0026lt;/font\u0026gt;.",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "EncumbrancePrompt_01",
+        "SubtitleText": "Encumbrance",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;You are carrying too much.\u0026lt;/font\u0026gt;\\n\\nStore, sell, or drop items to reduce your \u0026lt;font color=\"#edc63e\"\u0026gt;encumbrance\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "BagPrompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Equip \u0026lt;font color=\"#edc63e\"\u0026gt;bags\u0026lt;/font\u0026gt; to increase your carrying capacity.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "BagDialogue_01",
+        "SubtitleText": "Equip a Bag",
+        "BodyText": "Different tier bags can hold a different amount of weight by default. Bags can also have \u0026lt;font color=\"#edc63e\"\u0026gt;perks\u0026lt;/font\u0026gt; that can increase your capacity further, reduce the weight of certain items, and more.\\n\\nTo create bags that can carry additional weight, try adding \u0026lt;font color=\"#edc63e\"\u0026gt;crafting mods\u0026lt;/font\u0026gt; and higher grade materials to increase their overall gear score which increases their total yield.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "SalvagingPrompt_01",
+        "SubtitleText": "Salvage Items",
+        "BodyText": "You're encumbered! Try \u0026lt;font color=\"#edc63e\"\u0026gt;salvaging\u0026lt;/font\u0026gt; items to reduce your carry weight.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "SalvagingDialogue_01",
+        "SubtitleText": "Salvage Items",
+        "BodyText": "Many items in your inventory can be \u0026lt;font color=\"#edc63e\"\u0026gt;salvaged\u0026lt;/font\u0026gt;. You can do this to get coin, new items, or simply reduce your current carry weight. Most equipment will salvage into some of their base components, such as planks or ingots, while unique items from Expeditions will salvage into Dungeon Materia. Other exceptions include fish, which can be salvaged into cooking ingredients, alchemy reagents, and other crafting resources.\\n\\nTo salvage an item, select it in your inventory and follow the directions shown in the flyout.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "ArtifactsPrompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Artifacts\u0026lt;/font\u0026gt; are powerful gear with unique, unlockable perks.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "ArtifactsDialogue_01",
+        "SubtitleText": "Equip Your Artifact",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Artifacts\u0026lt;/font\u0026gt; are powerful, rare items of gear found throughout in Aeternum with unique perks that can redefine your playstyle.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;FIND ARTIFACTS\u0026lt;/font\u0026gt;\r\n\t\\nArtifacts are rare drops or rewards from difficult open world enemies, reward tracks, expeditions, and more. New Artifacts are released regularly!\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;UNLOCK PERKS\u0026lt;/font\u0026gt;\r\n\t\\nArtifacts have unique perks that can redefine your playstyle. To unlock each perk, you must complete its \u0026lt;font color=\"#edc63e\"\u0026gt;Artifact Quest\u0026lt;/font\u0026gt;. Be mindful of how many Quests you have progress toward as there is a limit.\r\n\t\\n\\nAfter you have unlocked each perk, \u0026lt;font color=\"#edc63e\"\u0026gt;upgrade\u0026lt;/font\u0026gt; your Artifact by adding a sixth perk at a \u0026lt;font color=\"#edc63e\"\u0026gt;Gypsum Kiln\u0026lt;/font\u0026gt; using a craft mod of your choice. This sixth perk can be changed again later.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "EmotesPrompt_01",
+        "SubtitleText": "Emotes",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Hold\u0026lt;/font\u0026gt; {$player.fishing_activate$} to find \u0026lt;font color=\"#edc63e\"\u0026gt;Emotes\u0026lt;/font\u0026gt; and quickly communicate to others.",
+        "KeyboardButtonDisplayOverride": "{$ui.toggleEmoteWindow$} Access your \u0026lt;font color=\"#edc63e\"\u0026gt;emotes\u0026lt;/font\u0026gt;.",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "EmotesDialogue_01",
+        "SubtitleText": "Emotes",
+        "BodyText": "The \u0026lt;font color=\"#edc63e\"\u0026gt;emotes\u0026lt;/font\u0026gt; window allows you to quickly bind your favorite emotes and learn more about each one. \u0026lt;font color=\"#edc63e\"\u0026gt;Earn emotes\u0026lt;/font\u0026gt; on reward tracks, during seasonal events, or purchase them in the store.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "GypsumAndKilnPrompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Upgrade and craft gear at \u0026lt;font color=\"#edc63e\"\u0026gt;Gypsum Kilns\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "GypsumAndKilnDialogue_01",
+        "SubtitleText": "Upgrade Gear at a Gypsum Kiln",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Gypsum Kilns\u0026lt;/font\u0026gt; are powerful end-game crafting stations that do not require a Tradeskill and can be found at Settlements and Outposts in higher level territories.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;UPGRADING GEAR AND ARTIFACTS\u0026lt;/font\u0026gt;\r\n\t\\nUpgrade \u0026lt;font color=\"#edc63e\"\u0026gt;Artifacts\u0026lt;/font\u0026gt; and certain \u0026lt;font color=\"#edc63e\"\u0026gt;Named gear\u0026lt;/font\u0026gt; at the Gypsum Kiln. Use a combination of Dark Matter, Gypsum Orbs, a Matrix, and a Chromatic Seal.\r\n\t\\n\\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Dark Matter\u0026lt;/font\u0026gt; can be earned by defeating difficult enemies, through the PvP track, and more.\r\n\t\\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Gypsum Orbs\u0026lt;/font\u0026gt; can be crafted at the Kiln with various Gypsum you earn in your adventures.\r\n\t\\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Matrices\u0026lt;/font\u0026gt; can be crafted or bought at the Trading Post.\r\n\t\\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Chromatic Seals\u0026lt;/font\u0026gt; can be purchased at your Faction Vendor.\r\n\t\\n\\nNote: You need to have the Gear unequipped and unassigned to a Gear Set to upgrade it at the Kiln.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;EXPEDITION REPLICAS\u0026lt;/font\u0026gt;\r\n\t\\nMissed out on the exact piece of gear you wanted from an expedition? Use \u0026lt;font color=\"#edc63e\"\u0026gt;Expedition Materia\u0026lt;/font\u0026gt; to craft it at the Gypsum Kiln. Materia can be earned through completing expeditions and Season Pass Rewards.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/GypsumKiln.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "CompaniesPrompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Join a \u0026lt;font color=\"#edc63e\"\u0026gt;Company\u0026lt;/font\u0026gt; in your Faction with other players.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "CompaniesDialogue_01",
+        "SubtitleText": "Join a Company",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Companies\u0026lt;/font\u0026gt; are groups of other players you can join to fight for territory, socialize, and organize company-led activities. You must be unfactioned or in the same faction as a Company to join. Use the \u0026lt;font color=\"#edc63e\"\u0026gt;Recruitment or Faction chat\u0026lt;/font\u0026gt; to find a company to join!",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "PvPFlaggingPrompt_01",
+        "SubtitleText": "Turn on PvP",
+        "BodyText": "{$player.fishing_activate$} \u0026lt;font color=\"#edc63e\"\u0026gt;Hold\u0026lt;/font\u0026gt; and press {$player.block$} \u0026lt;font color=\"#edc63e\"\u0026gt;to Flag for PvP\u0026lt;/font\u0026gt; in a sanctuary.",
+        "KeyboardButtonDisplayOverride": "{$ui.togglePvpFlag$} \u0026lt;font color=\"#edc63e\"\u0026gt;to Flag for PvP\u0026lt;/font\u0026gt; in a sanctuary",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "PvPFlaggingDialogue_01",
+        "SubtitleText": "Turn on PvP",
+        "BodyText": "Flagging for PvP (Player versus Player) allows you to \u0026lt;font color=\"#edc63e\"\u0026gt;fight players\u0026lt;/font\u0026gt; in other Factions in the open world. You can also fight for \u0026lt;font color=\"#edc63e\"\u0026gt;territory\u0026lt;/font\u0026gt; by participating in \u0026lt;font color=\"#edc63e\"\u0026gt;Influence Races\u0026lt;/font\u0026gt;: an open world PvP activity scheduled daily.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "TemporaryPrompt",
+        "SubtitleText": "Temp Subtitle",
+        "BodyText": "Temp Prompt",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "TemporaryDialogue",
+        "SubtitleText": "Temp Subtitle",
+        "BodyText": "Temp Dialogue",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "FTUELoot_01",
+        "SubtitleText": "Loot",
+        "BodyText": "Loot",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "FTUESwim_01",
+        "SubtitleText": "Swim",
+        "BodyText": "Swim",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "ExpeditionsPrompt_01",
+        "SubtitleText": "Join an Expedition",
+        "BodyText": "Use the \u0026lt;font color=\"#edc63e\"\u0026gt;Activity Finder\u0026lt;/font\u0026gt; to find a group for a 5 player Expedition.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "ExpeditionsDialogue_01",
+        "SubtitleText": "Join an Expedition",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Expeditions\u0026lt;/font\u0026gt; are \u0026lt;font color=\"#edc63e\"\u0026gt;cooperative adventures\u0026lt;/font\u0026gt; for 5 players which feature combat, puzzles, and challenging boss fights. Players work together as a group to overcome the challenges within Expeditions.\\n\\nExpeditions range from level 25 to 65, but players of a higher level can always join lower level Expeditions.\\n\\nExpeditions can be joined through the \u0026lt;font color=\"#edc63e\"\u0026gt;Activities Tab\u0026lt;/font\u0026gt;, the \u0026lt;font color=\"#edc63e\"\u0026gt;entrance portal\u0026lt;/font\u0026gt; in the world, or by \u0026lt;font color=\"#edc63e\"\u0026gt;selecting the Expedition from the map\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/Expeditions.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_exploration.png"
+    },
+    {
+        "ContentId": "ExpeditionsRolesPrompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": " \u0026lt;font color=\"#edc63e\"\u0026gt;Heal\u0026lt;/font\u0026gt;, \u0026lt;font color=\"#edc63e\"\u0026gt;tank\u0026lt;/font\u0026gt;, or \u0026lt;font color=\"#edc63e\"\u0026gt;deal damage\u0026lt;/font\u0026gt; in group acrivities.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "ExpeditionsRolesDialogue_01",
+        "SubtitleText": "Selecting Roles",
+        "BodyText": "Many Activities, such as Expeditions, rely on effective \u0026lt;font color=\"#edc63e\"\u0026gt;group coordination\u0026lt;/font\u0026gt;. Entering Expeditions requires paying attention to player Roles.\\n\\nThe optimal group features a variety of roles including a \u0026lt;font color=\"#edc63e\"\u0026gt;Healer\u0026lt;/font\u0026gt;, a \u0026lt;font color=\"#edc63e\"\u0026gt;Tank\u0026lt;/font\u0026gt;, and 3 \u0026lt;font color=\"#edc63e\"\u0026gt;damage-dealing players\u0026lt;/font\u0026gt; (often referred to as DPS - or damage per second). This composition maximizes group play.\\n\\nThe matchmaking tool found in the \u0026lt;font color=\"#edc63e\"\u0026gt;Activity Finder\u0026lt;/font\u0026gt; allows you to choose your role and automatically find a group with the right composition.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/GroupFinderRoles.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_exploration.png"
+    },
+    {
+        "ContentId": "ExpeditionsMutatorsPrompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Progress through \u0026lt;font color=\"#edc63e\"\u0026gt;Mutated Expeditions\u0026lt;/font\u0026gt; and earn powerful rewards.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "ExpeditionsMutatorsDialogue_01",
+        "SubtitleText": "Mutated Expeditions",
+        "BodyText": "Certain Expeditions become \u0026lt;font color=\"#edc63e\"\u0026gt;Mutated\u0026lt;/font\u0026gt; each week.\\n\\nA Mutated Expedition has \u0026lt;font color=\"#edc63e\"\u0026gt;Mutations\u0026lt;/font\u0026gt; that make enemies more dangerous and require you and your group to adjust your gear and playstyle to conquer the Expedition in return for more powerful rewards.\\n\\nFor example, if an Expedition has a \u0026lt;font color=\"#edc63e\"\u0026gt;Hellfire Mutation\u0026lt;/font\u0026gt;, the enemies will deal more Fire damage. However, you will likely receive gear with perks that defend against or deal more Fire damage in return.\\n\\nEach Mutated Expedition has \u0026lt;font color=\"#edc63e\"\u0026gt;difficulty levels\u0026lt;/font\u0026gt; with progressively harder challenges and better rewards. Unlock each level by completing the one prior.\\n\\nFind the weekly Mutated Expeditions in the \u0026lt;font color=\"#edc63e\"\u0026gt;Activity Finder\u0026lt;/font\u0026gt; or by opening the \u0026lt;font color=\"#edc63e\"\u0026gt;map\u0026lt;/font\u0026gt; and finding the indicated Mutation entrances. \u0026lt;font color=\"#edc63e\"\u0026gt;Select the Mutated Expedition to see the active Mutations\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/ExpeditionsMutated.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_exploration.png"
+    },
+    {
+        "ContentId": "TargetLock1Prompt_01",
+        "SubtitleText": "Target Lock",
+        "BodyText": "{$combat.camera_lock_toggle$} Aim and press to \u0026lt;font color=\"#edc63e\"\u0026gt;lock on\u0026lt;/font\u0026gt; to an enemy.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "TargetLock1Dialogue_01",
+        "SubtitleText": "Target Lock",
+        "BodyText": "{$combat.camera_lock_toggle$} Use to \u0026lt;font color=\"#edc63e\"\u0026gt;Target Lock\u0026lt;/font\u0026gt; the closest enemy to your reticle. Your camera will be focused on the indicated target.\\n\\nCycle through nearby targets using {$combat.camera_lock_next_target_ccw$}. Your Target Lock will break if you lose sight of the target, get out of range, or your target dies.\\n\\nRelease Target Lock by pressing {$combat.camera_lock_toggle$} again.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "FortBonuses1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Capture \u0026lt;font color=\"#edc63e\"\u0026gt;Forts\u0026lt;/font\u0026gt; while flagged for PvP and earn Faction Buffs.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "FortBonuses1Dialogue_01",
+        "SubtitleText": "Capture Forts for Buffs",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Forts\u0026lt;/font\u0026gt; are strategic \u0026lt;font color=\"#edc63e\"\u0026gt;PvP control points\u0026lt;/font\u0026gt; in each territory that reward the owning faction with a \u0026lt;font color=\"#edc63e\"\u0026gt;bonus\u0026lt;/font\u0026gt;. You can find out what bonus each Fort provides by hovering over its map icon.\\n\\nOutside of Influence Races, Forts are \u0026lt;font color=\"#edc63e\"\u0026gt;locked for one hour\u0026lt;/font\u0026gt; once they are captured. During an Influence Race, they do not lock once captured.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "RaidGroups1Prompt_01",
+        "SubtitleText": "Raid Groups",
+        "BodyText": "Convert a group into a \u0026lt;font color=\"#edc63e\"\u0026gt;Raid\u0026lt;/font\u0026gt; by opening the Social menu, navigating to Group, and selecting Convert to Raid.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "RaidGroups1Dialogue_01",
+        "SubtitleText": "Raid Groups",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Raid groups\u0026lt;/font\u0026gt; are comprised of four groups of five players each, up to \u0026lt;font color=\"#edc63e\"\u0026gt;twenty players\u0026lt;/font\u0026gt; total. Join or create Raid Groups to stick together during Open World activities such as Elite Chest Runs and Influence Races, or to join trials such as the Sandwurm.\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Create a raid\u0026lt;/font\u0026gt; by first creating a group then navigating to the Group tab in the social menu. Select \"Convert to Raid\" at the bottom of the window.\\n\\nRaid Leaders have access to \u0026lt;font color=\"#edc63e\"\u0026gt;Shout Pings\u0026lt;/font\u0026gt; that notify the entire raid.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "Groups1Prompt_01",
+        "SubtitleText": "Group with Other Players",
+        "BodyText": "Group up with other players through their \u0026lt;font color=\"#edc63e\"\u0026gt;social flyout\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Groups1Dialogue_01",
+        "SubtitleText": "Group with Other Players",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Group\u0026lt;/font\u0026gt; with other players to explore Aeternum together. Grouping allows you to ping locations to your group mates and find each other on the map. Group up by opening a player's \u0026lt;font color=\"#edc63e\"\u0026gt;social flyout\u0026lt;/font\u0026gt; by hovering over them or finding them in the social search and selecting \u0026lt;font color=\"#edc63e\"\u0026gt;Invite to Group\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "Pinging1Prompt_01",
+        "SubtitleText": "Pinging",
+        "BodyText": "{$ui.target_tag$} \u0026lt;font color=\"#edc63e\"\u0026gt;Ping\u0026lt;/font\u0026gt; a location.\\n\\nHold {$ui.target_tag_selection$} to select a ping type.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Pinging1Dialogue_01",
+        "SubtitleText": "Pinging",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Pinging\u0026lt;/font\u0026gt; allows you to mark locations and enemies in the world to \u0026lt;font color=\"#edc63e\"\u0026gt;notify your group members\u0026lt;/font\u0026gt; or for your own navigation.\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Tap\u0026lt;/font\u0026gt; {$ui.target_tag$} to place a marker under your reticle. \u0026lt;font color=\"#edc63e\"\u0026gt;Hold\u0026lt;/font\u0026gt; {$ui.target_tag_selection$} to choose a different marker.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "ManageRaids1Prompt_01",
+        "SubtitleText": "Manage Raids",
+        "BodyText": "Leaders can manage their raid using {$ui.toggleRaidWindow$}.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "ManageRaids1Dialogue_01",
+        "SubtitleText": "Manage Raids",
+        "BodyText": "Leaders can \u0026lt;font color=\"#edc63e\"\u0026gt;manage their raid\u0026lt;/font\u0026gt; using {$ui.toggleRaidWindow$}. Change group composition and promote other players to a leadership role.\\n\\nRaid leaders can also \u0026lt;font color=\"#edc63e\"\u0026gt;Shout Ping\u0026lt;/font\u0026gt;. Shout Pings will be visible to the entire raid. Bring up the Ping menu and follow instructions.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "MountDashButton1Prompt_01",
+        "SubtitleText": "Mount Dash",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Hold\u0026lt;/font\u0026gt; {$player.mount_dash$} to \u0026lt;font color=\"#edc63e\"\u0026gt;dash\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "MountDashButton1Dialogue_01",
+        "SubtitleText": "Mount Dash",
+        "BodyText": "When \u0026lt;font color=\"#edc63e\"\u0026gt;dashing\u0026lt;/font\u0026gt; (by holding {$player.mount_dash$}), a stamina bar will appear and your mount will respond with a burst of increased speed. Once the stamina bar is fully depleted or when not actively dashing, this bar will recharge.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "MountCustomization1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Customize\u0026lt;/font\u0026gt; your \u0026lt;font color=\"#edc63e\"\u0026gt;Mount\u0026lt;/font\u0026gt; in the \u0026lt;font color=\"#edc63e\"\u0026gt;Mount Inventory\u0026lt;/font\u0026gt;.\\n\\nSome items provide \u0026lt;font color=\"#edc63e\"\u0026gt;bonuses\u0026lt;/font\u0026gt; to your mount.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "MountCustomization1Dialogue_01",
+        "SubtitleText": "Customize",
+        "BodyText": "In the \u0026lt;font color=\"#edc63e\"\u0026gt;Mount Inventory\u0026lt;/font\u0026gt;, you can equip \u0026lt;font color=\"#edc63e\"\u0026gt;Mount Buff Items\u0026lt;/font\u0026gt; in the Shoe and Strap Add-On Slots. These provide a variety of buffs to your mount. There are also two attachment slots where you can equip \u0026lt;font color=\"#edc63e\"\u0026gt;Mount Attachment Items\u0026lt;/font\u0026gt;. These are decorative items that show up on the back left and right of your mount.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "Dueling1Prompt_01",
+        "SubtitleText": "Dueling",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Duel\u0026lt;/font\u0026gt; a nearby player by opening their social menu and selecting \u0026lt;font color=\"#edc63e\"\u0026gt;Invite to Duel\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Dueling1Dialogue_01",
+        "SubtitleText": "Dueling",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Duels\u0026lt;/font\u0026gt; are open world fights between individual players or groups. To Duel, open a nearby player's \u0026lt;font color=\"#edc63e\"\u0026gt;social menu\u0026lt;/font\u0026gt; and select \u0026lt;font color=\"#edc63e\"\u0026gt;Invite to Duel\u0026lt;/font\u0026gt;. Duels are an excellent way to practice fighting against different playstyles.\\n\\nOnce a Duel starts, a countdown will begin, and a winner will be determined once a player is downed. Players will automatically regain health once a duel is over, so you can duel over and over again!",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "TerritoryOwnership1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "War for \u0026lt;font color=\"#edc63e\"\u0026gt;territory ownership\u0026lt;/font\u0026gt; with your Company.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "TerritoryOwnership1Dialogue_01",
+        "SubtitleText": "Own Territory",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Companies\u0026lt;/font\u0026gt; can own and manage territories in Aeternum. When a Company owns a territory, they \u0026lt;font color=\"#edc63e\"\u0026gt;earn a percentage of the fees\u0026lt;/font\u0026gt; paid by other players in Aeternum in return for managing their territory. Companies fight for territories by participating in an \u0026lt;font color=\"#edc63e\"\u0026gt;Influence Race\u0026lt;/font\u0026gt; and going to \u0026lt;font color=\"#edc63e\"\u0026gt;War\u0026lt;/font\u0026gt;.\\n\\nEarn enough Influence during an \u0026lt;font color=\"#edc63e\"\u0026gt;Influence Race\u0026lt;/font\u0026gt; by completing PvP Missions for an opportunity to declare War if your faction wins. You can declare war from the map. Influence Races are scheduled in various territories daily. Once a \u0026lt;font color=\"#edc63e\"\u0026gt;War\u0026lt;/font\u0026gt; is declared, it will be scheduled the next day according to the defending company's Siege window.\\n\\nWhen your Company wins a War, you will own the territory. Manage the territory by starting \u0026lt;font color=\"#edc63e\"\u0026gt;Town Projects\u0026lt;/font\u0026gt; in the territory's Town Hall that give Lifestyle Buffs and upgrade the Settlement and Fort.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "WarsAndInvasions1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Sign up for \u0026lt;font color=\"#edc63e\"\u0026gt;Wars\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;Invasions\u0026lt;/font\u0026gt;, large scale battles over Territories.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "WarsAndInvasions1Dialogue_01",
+        "SubtitleText": "Territory Conflicts",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Wars\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;Invasions\u0026lt;/font\u0026gt; are territory events you can sign up for at each territory's war board in town or on the map. Find the schedule in the Conflicts tab while in the Map. \\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Invasions\u0026lt;/font\u0026gt; are large scale battles against the Corrupted.\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Wars\u0026lt;/font\u0026gt; are large scale PvP events where an attacking company fights for territory control against the defending company.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/WarBoard.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "PvPRewardsTrack1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Prevail in PvP to earn rewards on the \u0026lt;font color=\"#edc63e\"\u0026gt;PvP Rewards Track\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "PvPRewardsTrack1Dialogue_01",
+        "SubtitleText": "Earn PvP Rewards",
+        "BodyText": "Earn \u0026lt;font color=\"#edc63e\"\u0026gt;PvP XP\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;Azoth Salt\u0026lt;/font\u0026gt; during PvP activities such as Outpost Rush, War, and Influence Races. As you earn PvP XP, you will rank up in the PvP Rewards Track and unlock rewards you can purchase with Azoth Salt. Learn more about the PvP Rewards Track by opening your \u0026lt;font color=\"#edc63e\"\u0026gt;Character menu\u0026lt;/font\u0026gt; and navigating to PvP.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "ItemPerks1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Item perks\u0026lt;/font\u0026gt; modify your gear's power.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "ItemPerks1Dialogue_01",
+        "SubtitleText": "Perks",
+        "BodyText": "Items can have \u0026lt;font color=\"#edc63e\"\u0026gt;perks\u0026lt;/font\u0026gt; that \u0026lt;font color=\"#edc63e\"\u0026gt;modify their power\u0026lt;/font\u0026gt;. Perks can include:\r\n\t\\n\\n • Additional attributes\r\n\t\\n • Gem slot\r\n\t\\n • Attack modifiers\r\n\t\\n • Power modifiers\r\n\t\\n • Tradeskill modifiers\r\n\t\\n • And more!\r\n\t\\n\\nPerks are listed in the tooltips of items.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;ITEM RARITY\u0026lt;/font\u0026gt;\r\n\t\\nThe rarity of an item shows how many perks an item has. For uncommon and above combat gear, 1 perk will always increase attributes while the remainder can be a mix perk types.\r\n    \\n\\n • \u0026lt;font color=\"#b9b9b9\"\u0026gt;Common\u0026lt;/font\u0026gt; no perks\r\n    \\n • \u0026lt;font color=\"#07bf2e\"\u0026gt;Uncommon\u0026lt;/font\u0026gt; 1-2 perks\r\n    \\n • \u0026lt;font color=\"#278dda\"\u0026gt;Rare\u0026lt;/font\u0026gt; 3 perks\r\n\t\\n • \u0026lt;font color=\"#ff16f7\"\u0026gt;Epic\u0026lt;/font\u0026gt; 4 perks\r\n    \\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Legendary\u0026lt;/font\u0026gt; 5 perks",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "ItemPerks1Dialogue_02",
+        "SubtitleText": "Item Rarity and Perks",
+        "BodyText": "The rarity of an item is a quick way to tell how many perks the item has:\r\n    \\n\\n• \u0026lt;font color=\"#b9b9b9\"\u0026gt;Common\u0026lt;/font\u0026gt; items don't have any perks.\r\n    \\n • \u0026lt;font color=\"#07bf2e\"\u0026gt;Uncommon\u0026lt;/font\u0026gt; items can have 1-2 perks: 1 that increases attributes and potentially a second that will either be a gem slot or a power or functionality modifying perk.\r\n    \\n • \u0026lt;font color=\"#278dda\"\u0026gt;Rare\u0026lt;/font\u0026gt; items have 3 perks: 1 increasing attributes, and 2 that will either be a gem slot or a power or functionality modifying perk. \r\n    \\n • \u0026lt;font color=\"#ff16f7\"\u0026gt;Epic\u0026lt;/font\u0026gt; items have 4 perks: 1 increasing attributes, and 3 that will either be a gem slot or a power or functionality modifying perk. \r\n    \\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Legendary\u0026lt;/font\u0026gt; items have 5 perks: 1 increasing attributes, a gem slot, and 3 power or functionality modifying perks.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "GemPerks1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Slot cut gems\u0026lt;/font\u0026gt; in your gear to modify their power.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "GemPerks1Dialogue_01",
+        "SubtitleText": "Slot Gems in Gear",
+        "BodyText": "Any equipment, armor or weapon, with a \u0026lt;font color=\"#edc63e\"\u0026gt;Gem Slot\u0026lt;/font\u0026gt; perk can be affixed with a cut gem of either \u0026lt;font color=\"#edc63e\"\u0026gt;Flawed\u0026lt;/font\u0026gt;, \u0026lt;font color=\"#edc63e\"\u0026gt;Standard\u0026lt;/font\u0026gt;, \u0026lt;font color=\"#edc63e\"\u0026gt;Brilliant\u0026lt;/font\u0026gt;, or \u0026lt;font color=\"#edc63e\"\u0026gt;Pristine\u0026lt;/font\u0026gt; quality. Raw gemstones can be \u0026lt;font color=\"#edc63e\"\u0026gt;fused\u0026lt;/font\u0026gt; into higher tier gemstones and any uncut gems can be refined at an \u0026lt;font color=\"#edc63e\"\u0026gt;Outfitting Station\u0026lt;/font\u0026gt;.\r\n\t\\n\\nTo slot a gem, select the equipment you want to socket to and choose the \"\u0026lt;font color=\"#edc63e\"\u0026gt;Attach Gem\u0026lt;/font\u0026gt;\" option. You can \u0026lt;font color=\"#edc63e\"\u0026gt;replace the gem\u0026lt;/font\u0026gt; of a filled Gem Slot by affixing a new gem to the item; however, the old gem will be \u0026lt;font color=\"#edc63e\"\u0026gt;destroyed\u0026lt;/font\u0026gt;. Some equipment, such as many trinkets, can't have their gem replaced.\r\n\t\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Gems have two conditional perks\u0026lt;/font\u0026gt;: One applies when slotted into a weapon, the other when slotted into armor and trinkets. You can check a cut gem's item description for details on its perk options.\r\n\t\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Note\u0026lt;/font\u0026gt; - Gems that grant the same bonus as an existing perk cannot be socketed into that item. For example, a Fire Staff cannot use a Ruby which grants fire damage.\r\n\t\\n\\n\u0026lt;img src=\"LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png\" scale=\"3.5\" yOffset=\"15\"\u0026gt;\u0026lt;/img\u0026gt; Armor gem perks are always active while Weapon gem perks are only active while unsheathed.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/GemSlot.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "GemPerks1Dialogue_02",
+        "SubtitleText": "Perk Summaries",
+        "BodyText": "\\n\u0026lt;img src=\"LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png\" scale=\"3.5\" yOffset=\"15\"\u0026gt;\u0026lt;/img\u0026gt; You can't slot a gem of an elemental type into a weapon of the same type. For example, Fire Staffs can't be socketed with a Ruby.\r\n\t\\n\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/AmberCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Amber: Bonus Nature Damage (Weapon) or Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/AmethystCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Amethyst: Bonus Void Damage (Weapon) or Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/AquamarineCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Aquamarine: Bonus Ice Damage (Weapon) or Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/RubyCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Ruby: Bonus Fire Damage (Weapon) or Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/SapphireCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Sapphire: Bonus Arcane Damage (Weapon) or Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/TopazCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Topaz: Bonus Lightning Damage (Weapon) or Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/CarnelianCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Carnelian: Generate more threat (Weapon) or Generate less threat (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/JasperCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt;Jasper: Bonus damage after blocking or taking a hit (Weapon) or Strike Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/OpalCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Opal: Bonus damage while your Stamina is not full (Weapon) or Elemental Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/OnyxCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Onyx: Bonus damage to healthly targets (Weapon) or Physical Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/DiamondCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Diamond: Bonus damage and healing at full Health (Weapon) or Physical/Elemental Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/EmeraldCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Emerald: Bonus damage and healing to weakened targets (Weapon) or Thrust Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/MalachiteCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Malachite: Bonus damage against Crowd Controled targets (Weapon) or Physical/Elemental Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/MoonstoneCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Moonstone: Bonus damage while abilities are on cooldown (Weapon) or Slash Damage Absorption (Armor).\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/PearlCutT4.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt; Pearl: Bonus chance at rare items from chests and monsters (Both Armor and Weapon).\r\n\t",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "GemPerks2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Runeglass Gems\u0026lt;/font\u0026gt; make cut gems even more powerful.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "GemPerks2Dialogue_01",
+        "SubtitleText": "Upgrade Gems with Runeglass Gems",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Runeglass Gems\u0026lt;/font\u0026gt; are augmented, cut gemstones that have an \u0026lt;font color=\"#edc63e\"\u0026gt;additional perk\u0026lt;/font\u0026gt; such as bonus Ranged damage or Health recovery. They can be slotted into Gem slots on gear. Runeglass Gems can be purchased on the trading post or crafted.\r\n\t\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Runeglass Cases\u0026lt;/font\u0026gt; are combined with regular cut gemstones to create a \u0026lt;font color=\"#edc63e\"\u0026gt;Runeglass Gem\u0026lt;/font\u0026gt;. Craft Runeglass Cases with resources found in Brimstone Sands at the \u0026lt;font color=\"#edc63e\"\u0026gt;Runeglass Station\u0026lt;/font\u0026gt; in New Corsica, then combine a Runeglass Case with a cut gem at a stonecutting table.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "StatusEffects1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Administer - or obtain - \u0026lt;font color=\"#edc63e\"\u0026gt;buffs\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;debuffs\u0026lt;/font\u0026gt; in combat.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "StatusEffects1Dialogue_01",
+        "SubtitleText": "Status Effects",
+        "BodyText": "Status Effects are \u0026lt;font color=\"#edc63e\"\u0026gt;buffs\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;debuffs\u0026lt;/font\u0026gt; you can apply to yourself or opponents. \\n\\nActive status effects are visible above your own health bar and on enemy nameplates. \u0026lt;font color=\"#edc63e\"\u0026gt;Buffs\u0026lt;/font\u0026gt;, positive status effects, have a black background while \u0026lt;font color=\"#edc63e\"\u0026gt;debuffs\u0026lt;/font\u0026gt;, or negative status effects, have a red background.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;STATUS EFFECT CATEGORIES\u0026lt;/font\u0026gt;\\nStatus effects have a category or type assocated with them that you can find in item perks and weapon mastery tooltips.\\n\\nThe main two status effect categories are buffs (positive effects) and debuffs (negative effects), with debuffs being broken up into 3 separate sub-categories:\r\n\t\\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Damage over Time (DoT)\u0026lt;/font\u0026gt;: Effects that deal periodic ticks of damage for the duration of the effect.\r\n\t\\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Debilitate\u0026lt;/font\u0026gt;: Effects that modify the power of the target.\r\n\t\\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Crowd Control (CC)\u0026lt;/font\u0026gt;: Effects that modify the movement, speed, and positioning of the target.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "StatusEffects1Dialogue_02",
+        "SubtitleText": "Status Effect Types",
+        "BodyText": "\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;BUFFS\u0026lt;/font\u0026gt;\\nBuffs are positive effects that increase a character's power. Buffs are represented with a black background.\r\n    \\n\\nCommon Buff Status Effect Categories:\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_EmpowerT1.png\" scale=\"2.5\" yOffset=\"4.5\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt; Empower\u0026lt;/font\u0026gt;: Increases the player's outgoing base damage by a percent.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_FortifyT1.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt; Fortify\u0026lt;/font\u0026gt;: Increases the player's armor by a percent.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_Haste.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt; Haste\u0026lt;/font\u0026gt;: Increases the player's movement speed.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_HealthRecConT1.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt; Anointed\u0026lt;/font\u0026gt;: Increases how much health the player gets from incoming healing.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_berserk.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt; Uninterruptible\u0026lt;/font\u0026gt;: Prevents the player from being affected by staggers and knockdowns.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;DEBUFFS\u0026lt;/font\u0026gt;\\nDebuffs are negative effects that hinder or decrease a character's power. Debuffs are represented with a red background.\r\n    \\n\\nCommon Debuff Status Effect Categories:\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_WeakenT1.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt; Weaken\u0026lt;/font\u0026gt;: Debilitate effect that reduces the outgoing base damage by a percent.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_RendT1.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt; Rend\u0026lt;/font\u0026gt;: Debilitate effect that reduces armor by a percent.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_DiseaseT1.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt; Disease\u0026lt;/font\u0026gt;: Debilitate effect that reduces how much health the player gets from incoming healing.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_SlowT1.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt; Slow\u0026lt;/font\u0026gt;: Crowd Control effect that reduces the movement speed.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_Root.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt; Root\u0026lt;/font\u0026gt;: Crowd Control effect that immediately halts movement. \r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_Stun.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt; Stun\u0026lt;/font\u0026gt;: Crowd Control effect that immediately halts movement and prevents the target from performing actions for the duration of the effect, or until a hit is taken.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "StatusEffects1Dialogue_03",
+        "SubtitleText": "Status Effect Categories",
+        "BodyText": "Status effects have a category or type assocated with them that you can find in item perks and weapon mastery tooltips.\\n\\nThe main two status effect categories are buffs (positive effects) and debuffs (negative effects), with debuffs being broken up into a 3 separate sub-categories:\r\n    \\n • Damage over Time (DoT): Effects that deal periodic ticks of damage for the duration of the effect.\r\n    \\n • Debilitate: Effects that modify the power of the target.\r\n    \\n • Crowd Control (CC): Effects that modify the movement, speed, and positioning of the target.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "StatusEffects1Dialogue_04",
+        "SubtitleText": "Status Effect Debuffs",
+        "BodyText": "Debuffs are negative effects that hinder or decrease a character's power. Debuffs are represented with a red background.\r\n    \\n\\nCommon Debuff Status Effect Categories:\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_WeakenT1.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; Weaken: Debilitate effect that reduces the outgoing base damage by a percent.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_RendT1.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; Rend: Debilitate effect that reduces armor by a percent.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_DiseaseT1.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; Disease: Debilitate effect that reduces how much health the player gets from incoming healing.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_SlowT1.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; Slow: Crowd Control effect that reduces the movement speed.\r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_Root.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; Root: Crowd Control effect that immediately halts movement. \r\n    \\n • \u0026lt;img src=\"lyshineui/images/status/SE_Stun.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; Stun: Crowd Control effect that immediately halts movement and prevents the target from performing actions for the duration of the effect, or until a hit is taken.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "GRIT1Prompt_01",
+        "SubtitleText": "Grit",
+        "BodyText": "Possessing \u0026lt;font color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt; prevents interruptions during combat.\\n\\nWhen an opponent \u0026lt;font color=\"#edc63e\"\u0026gt;glows white\u0026lt;/font\u0026gt;, they posess grit.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/Grit.png",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "GRIT1Dialogue_01",
+        "SubtitleText": "Grit",
+        "BodyText": "If you or an enemy \u0026lt;font color=\"#edc63e\"\u0026gt;glow white\u0026lt;/font\u0026gt; during an attack, the attack has \u0026lt;font color=\"#edc63e\"\u0026gt;Grit\u0026lt;/font\u0026gt; and cannot be interrupted. Grit allows the attack to finish even if hit by an attack that would normally stagger or knock down the target. \\n\\nThe only exception is if the attacker is stunned. \u0026lt;font color=\"#edc63e\"\u0026gt;Stun\u0026lt;/font\u0026gt; instantly stops all character's actions when applied even if Grit is active.\\n\\nIf you are going up against a target with Grit attacks, equip a weapon with a stun. Inversely, if you plan on capitalizing on your own Grit, keep an eye out for attacks that inflict stun.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/Grit.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "GearScore1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Use \u0026lt;font color=\"#edc63e\"\u0026gt;gear score\u0026lt;/font\u0026gt; to help measure whether one item is better than another, similar item.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "GearScore1Dialogue_01",
+        "SubtitleText": "Increase Your Gear Score",
+        "BodyText": "Gear Score is what determines the power of your weapons and armor: The higher the Gear Score, the stronger the gear. It directly effects \u0026lt;font color=\"#edc63e\"\u0026gt;Armor Rating\u0026lt;/font\u0026gt;, \u0026lt;font color=\"#edc63e\"\u0026gt;Type Damage\u0026lt;/font\u0026gt;, number of \u0026lt;font color=\"#edc63e\"\u0026gt;Perks\u0026lt;/font\u0026gt;, and \u0026lt;font color=\"#edc63e\"\u0026gt;Perk effects\u0026lt;/font\u0026gt;.\r\n\t\\n\\nAs you gain levels, you can utilize higher Gear Score equipment, increasing your overall Gear Score (which is displayed at the top-right of your equipment screen). Some game modes, like \u0026lt;font color=\"#edc63e\"\u0026gt;Expeditions\u0026lt;/font\u0026gt;, are gated by minimum Gear Score requirements so keep raising your overall Gear Score to take on mightier challenges!\r\n\t\\n\\n\u0026lt;img src=\"LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png\" scale=\"3.5\" yOffset=\"15\"\u0026gt;\u0026lt;/img\u0026gt;Gear Score may be restricted by expansions, increasing the maximum Gear Score but only for participating players.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "Crafting1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Use \u0026lt;font color=\"#edc63e\"\u0026gt;refined resources\u0026lt;/font\u0026gt; in crafting.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Crafting1Dialogue_01",
+        "SubtitleText": "Refine Resources",
+        "BodyText": "Crafting in Aeternum is a means of survival. Gather resources around the island using Tools, refine the resources, then use the resources to create gear and more at Crafting Stations. Progress in Gathering, Refining, and Crafting Tradeskills to unlock more gatherables and recipes.\\n\\nOnce you've gathered resources on the island, refine them at the various \u0026lt;font color=\"#edc63e\"\u0026gt;Refining Stations\u0026lt;/font\u0026gt; found in Settlements:\r\n\t\\n\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Stations/woodshop.png\" scale=\"2\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;  \u0026lt;font color=\"#edc63e\"\u0026gt;Woodshops \u0026lt;/font\u0026gt; refine wood to lumber.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Stations/smelter.png\" scale=\"2\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;   \u0026lt;font color=\"#edc63e\"\u0026gt;Smelters \u0026lt;/font\u0026gt; refine ore to ingots.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Stations/loom.png\" scale=\"2\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;  \u0026lt;font color=\"#edc63e\"\u0026gt;Looms \u0026lt;/font\u0026gt; refine fibers to cloth.\r\n    \\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Stations/tanning.png\" scale=\"2\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;  \u0026lt;font color=\"#edc63e\"\u0026gt;Tanneries \u0026lt;/font\u0026gt; refine hide to leathers.\r\n    \\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Stations/mason.png\" scale=\"2\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;  \u0026lt;font color=\"#edc63e\"\u0026gt;Stonecutting Tables \u0026lt;/font\u0026gt; refine stone to blocks.\r\n\t\\n\\nRefining higher tier resources will require refining materials in addition to the raw resource. Rarer resources sometimes have a limit on how many can be refined a day.\\n\\nMany resources don't need to be refined to be crafted with, such as cooking ingredients and alchemy reagents.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tradeskill.png"
+    },
+    {
+        "ContentId": "Crafting2Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Craft\u0026lt;/font\u0026gt; gear and more at \u0026lt;font color=\"#edc63e\"\u0026gt;Crafting Stations\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Crafting2Dialogue_01",
+        "SubtitleText": "Basic Crafting",
+        "BodyText": "Use Crafting Stations around settlements to create gear, consumables, and more. Recipes require the correct ingredients and Tradeskill level.\\n\\nSome items that can be crafted include:\r\n\t\\n\r\n\t\\n • Craft light to medium armor, bags, and trinkets at the \u0026lt;img src=\"LyShineUI/Images/Icons/Stations/tailor.png\" scale=\"1.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;  \u0026lt;font color=\"#edc63e\"\u0026gt;Outfitting Station\u0026lt;/font\u0026gt;.\r\n    \\n • Craft heavy armor and melee weapons at the \u0026lt;img src=\"LyShineUI/Images/Icons/Stations/forge.png\" scale=\"2\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;  \u0026lt;font color=\"#edc63e\"\u0026gt;Forge\u0026lt;/font\u0026gt;.\r\n    \\n • Craft ranged weapons, furniture, and instruments at the \u0026lt;img src=\"LyShineUI/Images/Icons/Stations/workshop.png\" scale=\"2\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt;  \u0026lt;font color=\"#edc63e\"\u0026gt;Workshop\u0026lt;/font\u0026gt;.\r\n    \\n • Craft magic weapons, potions, tinctures and more at the \u0026lt;img src=\"LyShineUI/Images/Icons/Stations/arcanist.png\" scale=\"2\"\u0026gt;\u0026lt;/img\u0026gt;  \u0026lt;font color=\"#edc63e\"\u0026gt;Arcane Repository\u0026lt;/font\u0026gt;.\r\n    \\n • Craft food and dyes at the \u0026lt;img src=\"LyShineUI/Images/Icons/Stations/kitchen.png\" scale=\"2\"\u0026gt;\u0026lt;/img\u0026gt;  \u0026lt;font color=\"#edc63e\"\u0026gt;Kitchen\u0026lt;/font\u0026gt;. \r\n\t\\n\\nExplore each station to discover what recipes can be crafted at each!\\n\\nTip: You may find one-time-use \u0026lt;font color=\"#edc63e\"\u0026gt;Patterns\u0026lt;/font\u0026gt; around Aeternum, in Seasonal Events, and as rewards that allow you to craft specialty gear. You can also discover \u0026lt;font color=\"#edc63e\"\u0026gt;Food Recipes\u0026lt;/font\u0026gt; to unlock more options at the Kitchen.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tradeskill.png"
+    },
+    {
+        "ContentId": "Crafting_EndGame1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Maximize\u0026lt;/font\u0026gt; the quality of your \u0026lt;font color=\"#edc63e\"\u0026gt;crafted gear\u0026lt;/font\u0026gt; with Trophies and more.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Crafting_EndGame1Dialogue_01",
+        "SubtitleText": "Advanced Gear Crafting",
+        "BodyText": "\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;MAXIMUM GEARSCORE CRAFTS\u0026lt;/font\u0026gt;\r\n\t\\nWhen crafting gear such as armor or weapons, the \u0026lt;font color=\"#edc63e\"\u0026gt;gearscore\u0026lt;/font\u0026gt; that your output will be is shown on the crafting screen. The gearscore is determined by the resources you use and more. To \u0026lt;font color=\"#edc63e\"\u0026gt;achieve maximum gearscore crafts\u0026lt;/font\u0026gt;, you will need:\r\n\t\\n\r\n\t\\n • Top tier resources\r\n\t\\n • Maximum tradeskill level\r\n\t\\n • Tradeskill armor\r\n\t\\n • Tradeskill earring\r\n\t\\n • Three major tradeskill trophies\r\n\t\\n • Tradeskill food\r\n\t\\n • Tradeskill Lifestyle Buff OR Faction Ownership of the Mourningdale Fort\r\n\t\\n\r\n\t\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Lifestyle Buffs\u0026lt;/font\u0026gt; are territory-based buffs that increase the crafting effectiveness of any crafter who owns a home in that territory. Each Lifestyle Buff affects a particular Tradeskill. They are activated in eacch territory by the company that owns it and are active for a limited time. You can see what Lifestyle Buffs you have by navigating to your Character Screen and selecting the Territories you own homes in.\r\n\t\\n\r\n\t\\nForts can be captured by Factions. Once they are captured, they provide buffs to that faction as long as they own it. The \u0026lt;font color=\"#edc63e\"\u0026gt;Mourningdale Fort\u0026lt;/font\u0026gt; provides a buff that can take the place of Lifestyle Buffs when crafting maximum gearscore armor and weapons.\r\n\t\\n\r\n\t\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;SCARAB CRAFTING\u0026lt;/font\u0026gt;\r\n\t\\nScarabs are a powerful resource found in Brimstone Sands that allow you to craft powerful, customized gear.\r\n\t\\n\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/GoldenScarab.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; \u0026lt;font color=\"#edc63e\"\u0026gt;Golden Scarabs\u0026lt;/font\u0026gt; allow you to specify 2 attributes on the crafted gear.\r\n\t\\n •\u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/PrismaticScarab.png\" scale=\"3\" yOffset=\"9.0\"\u0026gt;\u0026lt;/img\u0026gt; \u0026lt;font color=\"#edc63e\"\u0026gt;Prismatic Scarabs\u0026lt;/font\u0026gt; allow you to specify all attributes on the crafted gear. They can be crafted from Golden Scarabs.\r\n\t\\n\r\n\t\\nTo craft a specific gear type, such as a chestpiece, you must have collected enough \u0026lt;font color=\"#edc63e\"\u0026gt;Timeless Shards\u0026lt;/font\u0026gt; of the same type.\r\n\t\\n\r\n\t\\nTo craft Prismatic Scarab gear, you must also have an \u0026lt;font color=\"#edc63e\"\u0026gt;Azoth Inductor\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tradeskill.png"
+    },
+    {
+        "ContentId": "TownBoards1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Complete \u0026lt;font color=\"#edc63e\"\u0026gt;Town Projects\u0026lt;/font\u0026gt; to improve settlements and gain rewards.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "TownBoards1Dialogue_01",
+        "SubtitleText": "Town Project Boards",
+        "BodyText": "\u0026lt;img src=\"LyShineUI/Images/Icons/WorldMap/worldmap_townProjectBoard.png\" scale=\"2.5\"\u0026gt;\u0026lt;/img\u0026gt;Town Project Boards are always located outside of the settlement's \u0026lt;font color=\"#edc63e\"\u0026gt;Town Hall\u0026lt;/font\u0026gt; and display missions that contribute towards an active \u0026lt;font color=\"#edc63e\"\u0026gt;Town Project\u0026lt;/font\u0026gt;. When enough contribution has been made, the project succeeds and buffs the territory.\r\n\t\\n\\nProjects can result in:\r\n\t\\n • Upgrading the settlement's Crafting and Refining stations\r\n\t\\n • Upgrading the local Fort's defenses\r\n\t\\n • Temporary Combat, Crafting, or Gathering buffs\r\n\t\\n\\n\u0026lt;img src=\"LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png\" scale=\"3.5\" yOffset=\"15\"\u0026gt;\u0026lt;/img\u0026gt; Lifestyle Buffs are chosen by the territory's \u0026lt;font color=\"#edc63e\"\u0026gt;governing Company\u0026lt;/font\u0026gt;. Take advantage of active buffs by owning a house there.\r\n\t\\n\\nThe project quests can vary from combat to exploration to crafting. They refresh every 30 minutes, so there's plenty of opportunities for you to participate. For your reward, you'll receive experience, coin, and increase your Territory Standing.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/TownBoard.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "GearSets_Storage1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Storage sheds\u0026lt;/font\u0026gt; provide access to items you've stored at \u0026lt;font color=\"#edc63e\"\u0026gt;any\u0026lt;/font\u0026gt; settlement.\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Use the drop down\u0026lt;/font\u0026gt; to change which settlement you wish to store or take items from.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "GearSets_Storage1Dialogue_01",
+        "SubtitleText": "Using Gear Set Storage",
+        "BodyText": "You may have multiple sets of gear piling up in your storage, whether for various types of combat, fashion, or crafting and refining. Use Gear Set Storage to organize and swap between your gear!\\n\\nTo access your \u0026lt;font color=\"#edc63e\"\u0026gt;Gear Set Storage\u0026lt;/font\u0026gt;, press the Gear Set button \u0026lt;img src=\"LyShineUI/Images/Icons/ProgressionMilestones/gearSet.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; below your health bar.\\n\\nYou can purchase additional Gear Set Slots from the Store.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "GearSets_Using1Prompt_01",
+        "SubtitleText": "Easily Swap Gear Sets",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Hold\u0026lt;/font\u0026gt; {$player.fishing_activate$} and press {$player.ability2$} to access your \u0026lt;font color=\"#edc63e\"\u0026gt;gear sets\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "{$ui.toggleEquipmentSetWindow$} \u0026lt;font color=\"#edc63e\"\u0026gt;View\u0026lt;/font\u0026gt; your Gear sets.",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "GearSets_Using1Dialogue_01",
+        "SubtitleText": "Easily Swap Gear Sets",
+        "BodyText": "Access stored gear sets outside of your inventory by using the \u0026lt;font color=\"#edc63e\"\u0026gt;Activity Wheel\u0026lt;/font\u0026gt; (controller), or the \u0026lt;font color=\"#edc63e\"\u0026gt;Gear Sets Window\u0026lt;/font\u0026gt; (Mouse and Keyboard), to select a desired set.\\n\\nEach set has its own key binding, so to view or change the bindings, visit your \u0026lt;font color=\"#edc63e\"\u0026gt;input settings\u0026lt;/font\u0026gt; and look for the 'Gear Set' section.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "Augments1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Use \u0026lt;font color=\"#edc63e\"\u0026gt;augments\u0026lt;/font\u0026gt; for temporary bonuses.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Augments1Dialogue_01",
+        "SubtitleText": "Use Augments for Temporary Bonuses",
+        "BodyText": "There are two types of \u0026lt;font color=\"#edc63e\"\u0026gt;Augments\u0026lt;/font\u0026gt;: Booster Tokens and Emote Permits.\r\n\t\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Boost Tokens\u0026lt;/font\u0026gt; are temporary bonuses while leveling up certain trade skills or proficiencies. They do not affect stats or provide any advantage in combat.\\n\\nThe available Booster Tokens include:\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/ConsumableToken_Proficiency.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; Proficiency Booster: Bonus Harvesting yield.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/ConsumableToken_Weapon.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; Weapon XP Booster: Bonus Weapon Mastery experience earned.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/ConsumableToken_Standing.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; Territory Standing Booster: Bonus Territory Standing earned.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/ConsumableToken_Season.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; Season XP Booster: Bonus Season experience earned.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/ConsumableToken_Gather.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; Gathering XP Booster: Bonus Harvesting experience earned.\r\n\t\\n\\nTokens are available to earn in-game through the Free and Premium Track of the Season Pass or purchased directly in the Store.\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Emote Permits\u0026lt;/font\u0026gt; are time-limited interactions that can be performed like any other emote but with extra special effects.\\n\\nAccess \u0026lt;font color=\"#edc63e\"\u0026gt;Augments\u0026lt;/font\u0026gt; from your Inventory via the \u0026lt;font color=\"#edc63e\"\u0026gt;Augments Menu \u0026lt;/font\u0026gt;\u0026lt;img src=\"LyShineUI/Images/Inventory/consumableTokenIcon.png\" scale=\"2\"\u0026gt;\u0026lt;/img\u0026gt; or by pressing {$ui.toggleTokenWindow$}.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "GypsumOrbs1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Use \u0026lt;font color=\"#edc63e\"\u0026gt;Gypsum Orbs\u0026lt;/font\u0026gt; in advanced crafting.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "GypsumOrbs1Dialogue_01",
+        "SubtitleText": "Using Gypsum Orbs",
+        "BodyText": "Gypsum are resources collected from many different activities around Aeternum. Gypsum of the same type can be combined at a Gypsum Kiln into a Gypsum Orb, which has many uses in advanced crafting.\r\n\t\\n\\nAll Gypsum have a limited quantity than can be collected within an 18 hour period. The types of Gypsum are:\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/GypsumBlack.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; \u0026lt;font color=\"#edc63e\"\u0026gt;Obsidian Gypsum\u0026lt;/font\u0026gt; drops from level 60+ Named enemies. Limit: 3.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/GypsumBlue.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; \u0026lt;font color=\"#edc63e\"\u0026gt;Sapphire Gypsum\u0026lt;/font\u0026gt; drops from level 60+ bosses in Expeditions. Limit: 2.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/GypsumOrange.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; \u0026lt;font color=\"#edc63e\"\u0026gt;Citrine Gypsum\u0026lt;/font\u0026gt; are earned by completing any Trial. Limit: 2.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/GypsumPurple.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; \u0026lt;font color=\"#edc63e\"\u0026gt;Amethyst Gypsum\u0026lt;/font\u0026gt; are earned by completing any Corruption Breaches. Limit: 10.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/GypsumGreen.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; \u0026lt;font color=\"#edc63e\"\u0026gt;Emerald Gypsum\u0026lt;/font\u0026gt; can be found in Aptitude reward containers. Limit: 2.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/GypsumRed.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; \u0026lt;font color=\"#edc63e\"\u0026gt;Garnet Gypsum\u0026lt;/font\u0026gt; are earned by competing in 3v3 Arenas. Limit: 2.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/GypsumRed.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; \u0026lt;font color=\"#edc63e\"\u0026gt;Ruby Gypsum\u0026lt;/font\u0026gt; are earned by competing in Outpost Rush. Limit: 3.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/GypsumYellow.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; \u0026lt;font color=\"#edc63e\"\u0026gt;Topaz Gypsum\u0026lt;/font\u0026gt; can drop from some enemies after using a Topaz Gypsum Attunement Potion. Limit: 15.\r\n\t\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Items/Resource/GypsumWhite.png\" scale=\"2.5\" yOffset=\"3.5\"\u0026gt;\u0026lt;/img\u0026gt; \u0026lt;font color=\"#edc63e\"\u0026gt;Diamond Gypsum\u0026lt;/font\u0026gt; can be found in a Bag of Juniper Berries or given during Holiday Events. Limit: 6.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "Transmog1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Customize your appearance with \u0026lt;font color=\"#edc63e\"\u0026gt;Transmog\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Transmog1Dialogue_01",
+        "SubtitleText": "Transmog",
+        "BodyText": "Transmog lets you capture the appearance of any item you've looted and use it to change the appearance of the items you wear. To unlock captured appearances, spend \u0026lt;font color=\"#edc63e\"\u0026gt;Transmog tokens\u0026lt;/font\u0026gt; at a \u0026lt;font color=\"#edc63e\"\u0026gt;Stylemancer\u0026lt;/font\u0026gt; in any settlement. Stylemancers will all have the Transmog icon conveniently located above their head! \\n\\nYou can purchase Transmog Tokens in the store, receive them on the Season Reward Track, and earn them from Elite Chests.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/Transmog.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "TerritoryStanding1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Use \u0026lt;font color=\"#edc63e\"\u0026gt;Territory Standing\u0026lt;/font\u0026gt; to unlock bonuses.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "TerritoryStanding1Dialogue_01",
+        "SubtitleText": "Earn Territory Standing for Bonuses",
+        "BodyText": "While active in a territory, your reputation within that zone will spread, tracked as your \u0026lt;font color=\"#edc63e\"\u0026gt;Territory Standing\u0026lt;/font\u0026gt;. Your standing in each territory is separate.\r\n\t\\n\\nWays to increase your Territory Standing include:\r\n\t\\n • Crafting\t\\n • Completing Town Projects\t\\n • Destroying Corrupted Monoliths (requires an Azoth Staff)\r\n\t\\n\\nWhen you level up your Standing, you can select a card to \u0026lt;font color=\"#edc63e\"\u0026gt;upgrade specific bonuses within that territory\u0026lt;/font\u0026gt;. These bonuses include:\r\n\t\\n • Increasing experience gain\t\\n • Lowering taxes and fees\t\\n • Increasing storage capacity\r\n\t\\n\\nWhen reaching Territory Standing 1, you can unlock \u0026lt;font color=\"#edc63e\"\u0026gt;House Ownership\u0026lt;/font\u0026gt; which will allow you to purchase houses located in that territory's settlements. Houses have multiple uses but you can only own three houses across all territories.\r\n\t\\n\\nThere are many advantages to increasing your Territory Standing all across Aeternum so be sure to build up your reputation in the territories you frequent most!",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "Gathering_Fishing1Prompt_01",
+        "SubtitleText": "Fishing Basics",
+        "BodyText": "{$player.fishing_activate$} to use your \u0026lt;font color=\"#edc63e\"\u0026gt;Fishing Pole\u0026lt;/font\u0026gt;.\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Equip Bait\u0026lt;/font\u0026gt; for better fish.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Gathering_Fishing1Dialogue_01",
+        "SubtitleText": "Fishing Basics",
+        "BodyText": "Fishing allows you to gather unique resources from Aeternum's saltwater coasts, freshwater streams, and everything in between. Each territory has its own subaqueous ecosystem, though species are rarely exclusive to a single territory. While most fish are restricted to one water type, some can thrive in both.\r\n\t\\n\\nBut fish aren't the only catch. \u0026lt;font color=\"#edc63e\"\u0026gt;Flotsam\u0026lt;/font\u0026gt; can be frequently scavenged and although most is trash only fit for salvage, if you're lucky, you'll hoist up a \u0026lt;font color=\"#edc63e\"\u0026gt;Treasure Chest\u0026lt;/font\u0026gt; filled with rare loot. \r\n\t\\n\\nWhat you catch is purely luck but you can narrow your odds of rarer finds by casting in waters that increase \u0026lt;font color=\"#edc63e\"\u0026gt;Fishing Luck\u0026lt;/font\u0026gt;. Shallow water adds a low bonus, deep water adds more, but by far the biggest bonus comes from active \u0026lt;font color=\"#edc63e\"\u0026gt;Fishing Hotspots\u0026lt;/font\u0026gt;. \r\n\t\\n\\nActive Broad, Rare, and Secret Hotspots are easily spotted by their leaping fish. Once a Hotspot is depleted, it'll take time before becoming active again.\r\n\t\\n\\n\u0026lt;img src=\"LyShineUI/Images/Map/Icon/POIs/fish_hotspot1.png\" scale=\"4\" yOffset=\"20\" \u0026gt;\u0026lt;/img\u0026gt;Fishing Hotspots you've discovered are marked on your map.\r\n\t\\n\\nYou can raise your \u0026lt;font color=\"#edc63e\"\u0026gt;Fishing Luck\u0026lt;/font\u0026gt; even higher by using higher tier fishing poles, equipping better bait, placing fishing trophies in your house, or by having perks like Lucky Waters on your gear. With high enough fishing luck, you may even chance a glimpse of a Legendary Fish.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tradeskill.png"
+    },
+    {
+        "ContentId": "Gathering_Fishing1Dialogue_02",
+        "SubtitleText": "How to Fish",
+        "BodyText": "\n\t\tWhile near any body of water, equip your fishing pole using {$player.fishing_activate$}.\r\n\t\\n\\nBefore casting, you may add any \u0026lt;font color=\"#edc63e\"\u0026gt;bait\u0026lt;/font\u0026gt; in your inventory by opening the bait menu with {$ui.toggleFishingBaitWindow$}. Some bait is only effective in either \u0026lt;font color=\"#edc63e\"\u0026gt;Fresh\u0026lt;/font\u0026gt; or \u0026lt;font color=\"#edc63e\"\u0026gt;Salt\u0026lt;/font\u0026gt; water. \r\n\t\\n\\nCast the line with {$player.fishing_primary$} and hold to increase the distance, then release to cast. Careful distancing is useful for aiming at deeper water or Hotspots.\r\n\t\n\t\t\r\n\t\\n\\nWhen you have a bite, hook your catch with {$player.fishing_primary$}, then hold to reel in or release to give slack. Be mindful of your line tension: If it becomes too taut, the line will snap and you'll lose the catch (and your bait). If it's too loose, it'll drift away. \r\n\t\\n\\nFish can have different temperaments which effects how hard they fight and when they get tired. Balance your tension with the ferocity of the fish and wait for the right moment to reel. With enough patience, you can catch anything.\r\n\t\\n\\n\u0026lt;img src=\"LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png\" scale=\"3.5\" yOffset=\"15\"\u0026gt;\u0026lt;/img\u0026gt; Have you met \u0026lt;font color=\"#edc63e\"\u0026gt;Perronelle le Noir\u0026lt;/font\u0026gt;? Rumor is she trains master fishermen in Monarch's Bluff or Windsward.\n\t",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tradeskill.png"
+    },
+    {
+        "ContentId": "LootBiasing1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Your equipped gear helps \u0026lt;font color=\"#edc63e\"\u0026gt;bias the loot\u0026lt;/font\u0026gt; you earn.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "LootBiasing1Dialogue_01",
+        "SubtitleText": "Loot Biasing",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Loot biasing\u0026lt;/font\u0026gt; increases the chances of getting loot that reflects your equipped gear, including attributes, armor weight, and weapon type. For example if you’re wearing heavy armor with a constitution perk, you’re more likely to receive more heavy armor with a constitution perk. \r\n\t\\n\\nLoot biasing only takes into account your \u0026lt;font color=\"#edc63e\"\u0026gt;currently equipped gear\u0026lt;/font\u0026gt; and is stronger at higher levels. It’s intended to help you find gear that’s more effective for your preferred build.\r\n\t\\n\\nThere is always a chance for loot biasing to impact your rewards when loot is dropped, and the chance is increased or even guaranteed for some activities such as Mutators and Outpost Rush.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "Attributes1Dialogue_01",
+        "SubtitleText": "Apply Attributes",
+        "BodyText": "There are five \u0026lt;font color=\"#edc63e\"\u0026gt;attributes\u0026lt;/font\u0026gt; you can assign points to in the \u0026lt;font color=\"#edc63e\"\u0026gt;Character\u0026lt;/font\u0026gt; screen that can improve your weapons or increase your health. Each weapon has a \u0026lt;font color=\"#edc63e\"\u0026gt;primary attribute\u0026lt;/font\u0026gt;, and some weapons have a \u0026lt;font color=\"#edc63e\"\u0026gt;secondary attribute\u0026lt;/font\u0026gt;. Assign points to their primary and secondary attributes to increase their damage or healing effectiveness. Earn additional bonuses at various thresholds of each attribute.\\n\\n\u0026lt;img src=\"LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png\" scale=\"3.5\" yOffset=\"15\"\u0026gt;\u0026lt;/img\u0026gt;\u0026lt;font color=\"#edc63e\"\u0026gt;Hover over \u0026lt;img src=\"lyshineui/images/icons/misc/icon_question_orange.png\" scale=\"1.5\" yOffset=\"6\"\u0026gt;\u0026lt;/img\u0026gt; next to each attribute in the character screen to learn more.\u0026lt;/font\u0026gt;\\n\\nYou can respec attributes for free until level 60.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;PRIMARY ATTRIBUTES\u0026lt;/font\u0026gt;\\nEvery weapon has a primary attribute. A primary attribute will have the most impact on the weapon’s damage scaling.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;SECONDARY ATTRIBUTES\u0026lt;/font\u0026gt;\\nMany weapons have a \u0026lt;font color=\"#edc63e\"\u0026gt;secondary attribute\u0026lt;/font\u0026gt; that increases weapon damage at a reduced scale compared to its primary attribute. For example, the \u0026lt;font color=\"#edc63e\"\u0026gt;primary attribute\u0026lt;/font\u0026gt; for the Spear is Dexterity which scales its damage by 90%. The \u0026lt;font color=\"#edc63e\"\u0026gt;secondary attribute\u0026lt;/font\u0026gt; for the Spear is Strength which scales its damage by 65%.\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Discover primary and secondary attributes by hovering over the information icon next to each Attribute in the Character Screen.\u0026lt;/font\u0026gt;\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;FOCUS AND HEALING\u0026lt;/font\u0026gt;\\nHealing is exclusively scaled by \u0026lt;font color=\"#edc63e\"\u0026gt;Focus\u0026lt;/font\u0026gt;. For example, if you use a \u0026lt;font color=\"#edc63e\"\u0026gt;Void Gauntlet\u0026lt;/font\u0026gt; and only apply attributes in its primary attribute, Intelligence, you will miss out increased Healing effects you could receive from applying attributes in Focus.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;ATTRIBUTE THRESHOLD BONUSES\u0026lt;/font\u0026gt;\\nEach attribute has \u0026lt;font color=\"#edc63e\"\u0026gt;bonuses\u0026lt;/font\u0026gt; that are activated by raising the attribute to a \u0026lt;font color=\"#edc63e\"\u0026gt;threshold\u0026lt;/font\u0026gt;. Hover over the circles in each attribute’s progress bar to learn more.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/AttributesBenefits.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "DamageAndEnemyTypes1Prompt_01",
+        "SubtitleText": "Damage And Enemy Types",
+        "BodyText": "Take advantage of \u0026lt;font color=\"#edc63e\"\u0026gt;enemy weaknesses\u0026lt;/font\u0026gt; \u0026lt;img src=\"LyShineUI/Images/LoadingScreen/Icons/strongAttack.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; to \u0026lt;font color=\"#edc63e\"\u0026gt;types of damage\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/DamageTypes.png",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "DamageAndEnemyTypes1Dialogue_01",
+        "SubtitleText": "Damage And Enemy Types",
+        "BodyText": "\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;DAMAGE TYPES\u0026lt;/font\u0026gt;\\n\\nEach weapon has a default \u0026lt;font color=\"#edc63e\"\u0026gt;damage type\u0026lt;/font\u0026gt;. Some attacks and abilities will use a different type than the weapon's default. Certain gems can be used to convert a portion of the damage to a different type.\r\n    \\n\\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Perks/SlashDMG1.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; Slash\r\n    \\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Perks/Thrust1.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; Thrust\r\n    \\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Perks/StrikeDMG1.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; Strike\r\n    \\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Perks/FireDMG1.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; Fire: Conversion gem: Ruby\r\n    \\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Perks/IceDMG1.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; Ice: Conversion gem: Aquamarine\r\n    \\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Perks/LightningDMG1.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; Lightning: Conversion gem: Topaz\r\n    \\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Perks/NatureDMG1.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; Nature: Conversion gem: Amber\r\n    \\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Perks/VoidDMG1.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; Void: Conversion gem: Amethyst\r\n    \\n • \u0026lt;img src=\"LyShineUI/Images/Icons/Perks/ArcaneDMG1.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; Arcane: Conversion gem: Sapphire\r\n    \\n\\nWhen you hit something with an attack or ability, a number will fly out showing the amount of damage with the damage type icon next to it. When targets are weak \u0026lt;img src=\"LyShineUI/Images/LoadingScreen/Icons/strongAttack.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; or resistant \u0026lt;img src=\"LyShineUI/Images/LoadingScreen/Icons/weakAttack.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; to a damage type, you will do more or less damage in these cases and the number will be a different color.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;ENEMIES\u0026lt;/font\u0026gt;\r\n\t\\nEach type of enemy has one or more weaknesses to different damage types and are grouped into one of these categories.\r\n    \\n\\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Corrupted\u0026lt;/font\u0026gt;: Corrupted creatures and structures are dark and glowing red. Weakness - Thrust, Arcane, and Nature damage.\r\n    \\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Lost\u0026lt;/font\u0026gt;: The Lost are soulless phantoms and shambling corpses. Weakness - Strike, Ice, and Nature damage.\r\n    \\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Beast\u0026lt;/font\u0026gt;: Animals large and small. Weakness - Thrust.\r\n    \\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Ancient\u0026lt;/font\u0026gt;: Living skeletons from an ancient civilization. Weakness - Strike, Lightning, and Void damage.\r\n    \\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Angry Earth\u0026lt;/font\u0026gt;: Nature that has taken humanoid, animal, and monstrous forms. Weakness - Slash and Fire damage.\r\n    \\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Human\u0026lt;/font\u0026gt;:Weakness - Slash damage.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "Heartgems1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Equip \u0026lt;font color=\"#edc63e\"\u0026gt;Heartrunes\u0026lt;/font\u0026gt; to gain new abilities.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Heartgems1Dialogue_01",
+        "SubtitleText": "Equip your Heartrune",
+        "BodyText": "Heartrunes grant special abilities that can be used separately from weapon abilities. \r\n    \\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;EQUIPPING HEARTRUNES\u0026lt;/font\u0026gt;\r\n    \\nThe Heartrune equipment slot can be unlocked by completing the quest \u0026lt;font color=\"#edc63e\"\u0026gt;“Secrets of the Heartgem”\u0026lt;/font\u0026gt; in Brimstone Sands.\r\n    \\n\\nAfter the slot is unlocked, Heartrunes can be equipped and swapped out similar to other equipment. Only one Heartrune can be equipped at a time.\r\n    \\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;USING HEARTRUNES\u0026lt;/font\u0026gt;\r\n    \\nOnce a Heartrune is equipped, the Heartrune meter with the same icon as your equipped Heartrune, will be present near your other abilities on the HUD.\r\n    \\n\\nEngaging in combat will fill the \u0026lt;font color=\"#edc63e\"\u0026gt;meter\u0026lt;/font\u0026gt;, and once it is full, you will be able to activate the equipped Heartrune ability by pressing {$player.rune_ability$}. The meter will need to be filled again after it's used.\r\n    \\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;FINDING AND UPGRADING HEARTRUNES\u0026lt;/font\u0026gt;\r\n    \\nHeartrunes can be crafted in a \u0026lt;font color=\"#edc63e\"\u0026gt;Gypsum Kiln\u0026lt;/font\u0026gt; using materia and can drop from specific enemies in expeditions and raids.\r\n    \\n\\nWhen a Heartrune is first obtained, it will be a minor version of the Heartrune. Heartrunes can be upgraded at the Gypsum Kiln.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "EliteChests1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Loot \u0026lt;font color=\"#edc63e\"\u0026gt;Elite Chests\u0026lt;/font\u0026gt; once a day for valuable rewards.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "EliteChests1Dialogue_01",
+        "SubtitleText": "Loot Elite Chests Daily",
+        "BodyText": "Elite Chests contain powerful rewards but can only be looted once a day. Elite Chests can be found in \u0026lt;font color=\"#edc63e\"\u0026gt;Elite Areas\u0026lt;/font\u0026gt; that are intended for 5+ players, such as Myrkgard in Shattered Mountain, and other various corners of Aeternum. Some Elite Chests, such as those in Brimstone Sands and Elysian Wilds, require special glyphs or signets to open.\\n\\nCheck the Recruitment channel for player-organized \u0026lt;font color=\"#edc63e\"\u0026gt;Elite Chest Runs\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "BrimstoneGlyphs1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Collect \u0026lt;font color=\"#edc63e\"\u0026gt;Ancient Glyphs\u0026lt;/font\u0026gt; to unlock Elite Chests and more in Brimstone Sands.\\n\\nLearn about Ancient Glyphs in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "BrimstoneGlyphs1Dialogue_01",
+        "SubtitleText": "Unlock Ancient Glyphs",
+        "BodyText": "Unlock Ancient Glyphs throughout \u0026lt;font color=\"#edc63e\"\u0026gt;Brimstone Sands\u0026lt;/font\u0026gt;. Once you have unlocked an Ancient Glyph, you can unlock Elite Chests, passageways to difficult enemies, and other secret parts of Aeternum that feature the same Glyph. See your unlocked Ancient Glyphs in the \u0026lt;font color=\"#edc63e\"\u0026gt;Documents\u0026lt;/font\u0026gt; tab of the \u0026lt;font color=\"#edc63e\"\u0026gt;Journal\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "ElysianWildsBeastMarks1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Collect \u0026lt;font color=\"#edc63e\"\u0026gt;Beast Signets\u0026lt;/font\u0026gt; to unlock Elite Chests and more in Elysian Wilds.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "ElysianWildsBeastMarks1Dialogue_01",
+        "SubtitleText": "Unlock Beast Signets",
+        "BodyText": "Unlock \u0026lt;font color=\"#edc63e\"\u0026gt;Beast Signets\u0026lt;/font\u0026gt; throughout \u0026lt;font color=\"#edc63e\"\u0026gt;Elysian Wilds\u0026lt;/font\u0026gt;. Once you have unlocked a Beast Signet, you can unlock Elite Chests, pathways to new areas, and other secret parts of Aeternum that feature the same signet. See your unlocked Beast Signets in the \u0026lt;font color=\"#edc63e\"\u0026gt;Documents\u0026lt;/font\u0026gt; tab of the \u0026lt;font color=\"#edc63e\"\u0026gt;Journal\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "EndGameGuidance1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "You've accomplished much, but your adventure is far from over.\\n\\nLearn about \u0026lt;font color=\"#edc63e\"\u0026gt;End Game Activities\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/EndGame.png",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "EndGameGuidance1Dialogue_01",
+        "SubtitleText": "End Game Guidance",
+        "BodyText": "Now that you've reached maximum level, continue your path as a \u0026lt;font color=\"#edc63e\"\u0026gt;Soulwarden\u0026lt;/font\u0026gt;.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;POWER\u0026lt;/font\u0026gt;\\nSeek Power in \u0026lt;font color=\"#edc63e\"\u0026gt;Mutated Expeditions\u0026lt;/font\u0026gt;, \u0026lt;font color=\"#edc63e\"\u0026gt;Elite Chest Runs\u0026lt;/font\u0026gt;, and \u0026lt;font color=\"#edc63e\"\u0026gt;Elite Trials\u0026lt;/font\u0026gt; where you work with others to defeat strong foes and gain powerful gear in return.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;RICHES\u0026lt;/font\u0026gt;\\nEarn \u0026lt;font color=\"#edc63e\"\u0026gt;Coin\u0026lt;/font\u0026gt; through advanced crafting, refining, and resource gathering.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;FAME\u0026lt;/font\u0026gt;\\nFind Fame in Aeternum by taking over \u0026lt;font color=\"#edc63e\"\u0026gt;territories\u0026lt;/font\u0026gt; with your company or ranking among the elite in \u0026lt;font color=\"#edc63e\"\u0026gt;Leaderboards\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/EndGame.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "FreeForAllEntranceDialogue",
+        "SubtitleText": "Free-For-All PVP Area",
+        "BodyText": "Here lies The Cursed Mists, beyond these Lucid Fringes. In this accursed place, a foul greed has taken hold of everyone and everything. The frenzy for treasure continues, as friends become foes along this storm-swept coast. Collect any \u0026lt;font color=\"#edc63e\"\u0026gt;\"Cursed Doubloons\"\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;\"Cursed Resources\"\u0026lt;/font\u0026gt; that you plunder or uncover. Adventurers beware, the coward's escape of teleportation will be punished! You must escape on foot or hoof with your life, if you wish to keep your spoils intact.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/FreeForAll.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_FFA.png"
+    },
+    {
+        "ContentId": "FreeForAllEntrancePrompt",
+        "SubtitleText": "Free-For-All PVP Area",
+        "BodyText": "Entering \u0026lt;font color=\"#edc63e\"\u0026gt;The Cursed Mists\u0026lt;/font\u0026gt; will flag you for \u0026lt;font color=\"#edc63e\"\u0026gt;Free-For-All PvP\u0026lt;/font\u0026gt;.\\n\\nLeaving will unflag you, and \u0026lt;font color=\"#edc63e\"\u0026gt;cleanse\u0026lt;/font\u0026gt; valuable cursed items you acquire within.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/FreeForAll.png",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "FastTravel1Prompt_01",
+        "SubtitleText": "Fast Travel",
+        "BodyText": "Use a \u0026lt;font color=\"#edc63e\"\u0026gt;Fast Travel Shrine\u0026lt;/font\u0026gt; to teleport to settlements and other shrines.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "FastTravel1Dialogue_01",
+        "SubtitleText": "Fast Travel",
+        "BodyText": "Fast Travel Shrines allow you to \u0026lt;font color=\"#edc63e\"\u0026gt;teleport\u0026lt;/font\u0026gt; to settlements and other shrines. They are also considered \u0026lt;font color=\"#edc63e\"\u0026gt;Sanctuaries\u0026lt;/font\u0026gt; where you can flag for PvP (Player Versus Player) once you've joined a faction.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/FastTravelShrine.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_exploration.png"
+    },
+    {
+        "ContentId": "PronePrompt_01",
+        "SubtitleText": "Prone",
+        "BodyText": "{$movement.prone_toggle_pad$} \u0026lt;font color=\"#edc63e\"\u0026gt;Prone\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;move forward\u0026lt;/font\u0026gt; to crawl.",
+        "KeyboardButtonDisplayOverride": "{$movement.prone_toggle$} \u0026lt;font color=\"#edc63e\"\u0026gt;Prone\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;move forward\u0026lt;/font\u0026gt; to crawl.",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "ProneDialogue_01",
+        "SubtitleText": "Prone",
+        "BodyText": "Use \u0026lt;font color=\"#edc63e\"\u0026gt;Prone\u0026lt;/font\u0026gt; and move forward to crawl through tight spaces or hide from enemies. Being prone also has the additional advantage of causing your \u0026lt;font color=\"#edc63e\"\u0026gt;Nameplate to disappear\u0026lt;/font\u0026gt; from the view of other Players. While it takes a moment to stand up, you can use tactic to ambush PvP opponents in areas with lots of bushes or debris.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "TradingPost_About_Dialogue",
+        "SubtitleText": "About",
+        "BodyText": "Aeternum's dynamic economy revolves around the \u0026lt;font color=\"#edc63e\"\u0026gt;Trading Post\u0026lt;/font\u0026gt;. This is your hub for buying and selling items, resources, and other goods in order to make coin.\r\n    ",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/TradingPost/TradingPost_About.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "TradingPost_Buy_Dialogue_01",
+        "SubtitleText": "Buy",
+        "BodyText": "\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;SEARCH AND FILTER \u0026lt;/font\u0026gt;\r\n\t\\n • Use the search bar to find specific items\r\n\t\\n • Apply filter and sorting preferences\r\n\t\\n • Select for usability and/or affordability\r\n\t\\n • Hover over any item to see more details\r\n\t\\n  \r\n\t\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;PLACE BUY ORDER \u0026lt;/font\u0026gt;\r\n\t\\n • Declare that you will purchase a specific item for a set price\r\n\t\\n • Define quantity, listing duration, gear score, and more\r\n\t\\n\r\n\t\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;CONFIRM PURCHASE \u0026lt;/font\u0026gt;\r\n\t\\n • Purchased items can be found in your storage",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/TradingPost/TradingPost_Buy_01_1.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "TradingPost_Buy_Dialogue_02",
+        "SubtitleText": "Advanced Buying",
+        "BodyText": "\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;DISCOUNTS \u0026lt;/font\u0026gt;\r\n\t\\n • All Buy and Sell Orders on the trading post have a listing fee\r\n\t\\n • This fee can be discounted with Territory Standing bonuses earned for that trading post's territory\r\n\t\\n • Further discounts await if your company governs the territory!\r\n\t\\n\r\n\t\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;MARKET RESEARCH \u0026lt;/font\u0026gt;\r\n\t\\n • The Trading Post can be a fount of wealth if used correctly\r\n\t\\n • Keep an eye on the cost and desirability of items in the current market\r\n\t\\n • Setting competitive prices increases your chances of a successful transaction",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "TradingPost_Sell_Dialogue_01",
+        "SubtitleText": "Sell",
+        "BodyText": "\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;LIST ITEMS FOR SALE \u0026lt;/font\u0026gt;\r\n\t\\n • Select the item to sell in the sell tab, only tradeable items will be shown\r\n\t\\n • Choose whether to place a sell order or fulfill a buy order listed underneath\r\n\t\\n • Set a price, quantity, and listing duration\r\n\t\\n\r\n\t\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;MANAGE AND MONITOR \u0026lt;/font\u0026gt;\r\n\t\\n • Check the order's status under 'My Orders'\r\n\t\\n • You'll receive a notification when the order's status changes",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/TradingPost/TradingPost_Sell_01_1.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "TradingPost_Sell_Dialogue_02",
+        "SubtitleText": "Advanced Selling",
+        "BodyText": "\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;FULFILL BUY ORDERS \u0026lt;/font\u0026gt;\r\n\t\\n • The 'All Items' tab displays all buy orders from other players\r\n\t\\n • You can filter Buy Orders by perks, attributes, and gear score to find your specific item\r\n\t\\n • You can also use the Trade chat channel to call out items that you are willing to buy or sell\r\n\t\\n\r\n\t\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;SET COMPETITIVE PRICES \u0026lt;/font\u0026gt;\r\n\t\\n • Adjust your price based on market trends of the same or similar items\r\n\t\\n • Reference the current market prices of the item by selecting the item to see current buy orders or searching for it in the 'All Items' tab",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "TradingPost_MyOrders_Dialogue_01",
+        "SubtitleText": "My Orders",
+        "BodyText": "\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;ACTIVE ORDERS \u0026lt;/font\u0026gt;\r\n\t\\n • Monitor currently active Buy and Sell Orders\r\n\t\\n • Cancel unwanted items or orders by selecting the listing\r\n\t\\n • Check the details of your open orders here\r\n\t\\n  \r\n\t\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;COMPLETED AND EXPIRED ORDERS \u0026lt;/font\u0026gt;\r\n\t\\n • Review past transactions both completed and expired\r\n\t\\n • Items from expired or cancelled orders are returned to your storage",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/TradingPost/TradingPost_MyOrders_01_1.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "TradingPost_Buy_Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn how to \u0026lt;font color=\"#edc63e\"\u0026gt;buy and sell items\u0026lt;/font\u0026gt;, and \u0026lt;font color=\"#edc63e\"\u0026gt;place buy orders\u0026lt;/font\u0026gt;, in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "TradingPost_Sell_Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn how to \u0026lt;font color=\"#edc63e\"\u0026gt;sell items\u0026lt;/font\u0026gt; on the \u0026lt;font color=\"#edc63e\"\u0026gt;Trading Post\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "TradingPost_MyOrders_Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn about \u0026lt;font color=\"#edc63e\"\u0026gt;Trading Post Orders\u0026lt;/font\u0026gt; in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "InventoryManagementPrompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "Learn how to manage your Inventory and '\u0026lt;font color=\"#edc63e\"\u0026gt;Search\u0026lt;/font\u0026gt;, \u0026lt;font color=\"#edc63e\"\u0026gt;Filter\u0026lt;/font\u0026gt;, \u0026lt;font color=\"#edc63e\"\u0026gt;Sort\u0026lt;/font\u0026gt;' items you've picked up in the world in the Journal.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "InventoryManagementDialogue_01",
+        "SubtitleText": "Managing Your Inventory",
+        "BodyText": "Inventory lets you view your \u0026lt;font color=\"#edc63e\"\u0026gt;Character\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;Items\u0026lt;/font\u0026gt; you've picked up in the world. \u0026lt;font color=\"#edc63e\"\u0026gt;Search\u0026lt;/font\u0026gt;, \u0026lt;font color=\"#edc63e\"\u0026gt;Filter\u0026lt;/font\u0026gt;, and \u0026lt;font color=\"#edc63e\"\u0026gt;Sort\u0026lt;/font\u0026gt; items using the options at the top of the Inventory menu.\r\n    \\n \r\n    \\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Search:\u0026lt;/font\u0026gt; Item Name, Perks, Gems, Gear Score, Tier\r\n    \\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Filter:\u0026lt;/font\u0026gt; Equipment, Materials\r\n    \\n • \u0026lt;font color=\"#edc63e\"\u0026gt;Sort:\u0026lt;/font\u0026gt; Weight, Gear Score, Tier, Time\r\n\t",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI\\Images\\PlayerTutorials\\Inventory\\Inventory_Management.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "InventoryManagementDialogue_02",
+        "SubtitleText": "Inventory Customization",
+        "BodyText": "Customize your character's Weapons and Armors by accessing Changing Skins and Dying Items through the \u0026lt;img src=\"LyShineUI\\Images\\Icons\\Misc\\icon_more.png\" scale=\"1.5\"\u0026gt;\u0026lt;/img\u0026gt; Options button.\r\n\t\\n\r\n\t\\nYou can also access \u0026lt;img src=\"LyShineUI\\Images\\RadialWheel\\iconAugments.png\" scale=\"2.0\"\u0026gt;\u0026lt;/img\u0026gt; Augments to use XP Boosters and Permits.\r\n\t",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI\\Images\\PlayerTutorials\\Inventory\\Inventory_Customization.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "EnemyBlockPrompt_01",
+        "SubtitleText": "Enemy Blocks",
+        "BodyText": "When your attack is \u0026lt;font color=\"#edc63e\"\u0026gt;blocked\u0026lt;/font\u0026gt; by an enemy, use \u0026lt;font color=\"#edc63e\"\u0026gt;heavy attacks\u0026lt;/font\u0026gt; to reduce their stamina.\\n\\nHold {$player.attack_primary_hold$} to Heavy Attack.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "EnemyBlockDialogue_01",
+        "SubtitleText": "Enemy Blocks",
+        "BodyText": "Enemies can \u0026lt;font color=\"#edc63e\"\u0026gt;block\u0026lt;/font\u0026gt; your attacks as long as they have stamina. While all attacks reduce stamina, \u0026lt;font color=\"#edc63e\"\u0026gt;heavy attacks\u0026lt;/font\u0026gt; will reduce an enemy's stamina faster and break their blocks.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
+    },
+    {
+        "ContentId": "Factions1Prompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Join one of 3 Factions\u0026lt;/font\u0026gt; in Everfall to \u0026lt;font color=\"#edc63e\"\u0026gt;PvP\u0026lt;/font\u0026gt;, join a \u0026lt;font color=\"#edc63e\"\u0026gt;Company\u0026lt;/font\u0026gt;, and more.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "Factions1Dialogue_01",
+        "SubtitleText": "Joining a Faction",
+        "BodyText": "Join a faction by completing a Faction questline. Choose between \u0026lt;font color=\"#edc63e\"\u0026gt;Marauders\u0026lt;/font\u0026gt;, \u0026lt;font color=\"#edc63e\"\u0026gt;Covenant\u0026lt;/font\u0026gt;, and \u0026lt;font color=\"#edc63e\"\u0026gt;Syndicate\u0026lt;/font\u0026gt;. Once you join a faction, you can join a company within that faction, visit the faction's vendor to receive missions and make purchases, or flag for PvP (Player-versus-Player) and fight other factions.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "EnemyQuestMarkerPrompt_01",
+        "SubtitleText": "Quest Markers",
+        "BodyText": "Enemies or items required for your quests will show a \u0026lt;font color=\"#edc63e\"\u0026gt;marker\u0026lt;/font\u0026gt; above them.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "EnemyQuestMarkerDialogue_01",
+        "SubtitleText": "Quest Markers",
+        "BodyText": "When enemies or objects are associated with a quest, they will show a \u0026lt;font color=\"#edc63e\"\u0026gt;marker\u0026lt;/font\u0026gt; above them so you can distinguish what is essential from the rest of the world.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/QuestMarkersOnEnemies.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "FTUEAutorunPrompt_01",
+        "SubtitleText": "Auto-run",
+        "BodyText": "{$movement.autorun$} \u0026lt;font color=\"#edc63e\"\u0026gt;Auto-Run\u0026lt;/font\u0026gt;",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "StorageShedPrompt_01",
+        "SubtitleText": "Tutorial Available",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Storage Sheds\u0026lt;/font\u0026gt; provide access to items you've stored at \u0026lt;font color=\"#edc63e\"\u0026gt;any\u0026lt;/font\u0026gt; settlement.\\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Use the drop down\u0026lt;/font\u0026gt; to change which settlement to store/take items from.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "StorageShedDialogue_01",
+        "SubtitleText": "Store Your Extra Items",
+        "BodyText": "Aeternum has a \u0026lt;font color=\"#edc63e\"\u0026gt;Storage Shed\u0026lt;/font\u0026gt; in each settlement and outpost.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;ACCESS\u0026lt;/font\u0026gt;\r\n\t\\nAccess your Storage Sheds in other territories using the drop-down menu.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;SORTING\u0026lt;/font\u0026gt;\r\n\t\\nSort items in storage by Weight, Gear Score, Tier, and Time.\r\n    \\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;WEIGHT LIMITS\u0026lt;/font\u0026gt;\r\n\t\\nIncrease the weight limit of each storage shed by choosing the Storage Bonus when you raise Territory Standing or by placing storage furniture in your house.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI\\Images\\PlayerTutorials\\Inventory\\Inventory_StorageShed.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png"
+    },
+    {
+        "ContentId": "Zoom1Prompt_01",
+        "SubtitleText": "Zoom",
+        "BodyText": "{$camera.cam_zoom_in$} \u0026lt;font color=\"#edc63e\"\u0026gt;Zoom\u0026lt;/font\u0026gt; In\\n\\n{$camera.cam_zoom_out$} \u0026lt;font color=\"#edc63e\"\u0026gt;Zoom\u0026lt;/font\u0026gt; Out",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "TargetLockSwitch1Prompt_01",
+        "SubtitleText": "Switch Locked Enemies",
+        "BodyText": "{$combat.camera_lock_toggle$} \u0026lt;font color=\"#edc63e\"\u0026gt;Target Lock\u0026lt;/font\u0026gt; your enemy.\\n\\n{$combat.camera_lock_next_target_cw$} \u0026lt;font color=\"#edc63e\"\u0026gt;Switch\u0026lt;/font\u0026gt; between nearby enemies.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "FTUEEquipPrompt_01",
+        "SubtitleText": "Equip Your Weapon",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Hover\u0026lt;/font\u0026gt; over each \u0026lt;font color=\"#edc63e\"\u0026gt;weapon\u0026lt;/font\u0026gt; and use {$ui_inventory_actions.inventoryUse$} to \u0026lt;font color=\"#edc63e\"\u0026gt;equip\u0026lt;/font\u0026gt; them.",
+        "KeyboardButtonDisplayOverride": "\u0026lt;font color=\"#edc63e\"\u0026gt;Hover\u0026lt;/font\u0026gt; over each \u0026lt;font color=\"#edc63e\"\u0026gt;weapon\u0026lt;/font\u0026gt; and \u0026lt;font color=\"#edc63e\"\u0026gt;double click LMB\u0026lt;/font\u0026gt; to \u0026lt;font color=\"#edc63e\"\u0026gt;equip\u0026lt;/font\u0026gt; them.",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "VoidGauntletHarvest1Prompt_01",
+        "SubtitleText": "Harvest Essence",
+        "BodyText": "Hold {$player.block_depressed$} to \u0026lt;font color=\"#edc63e\"\u0026gt;convert\u0026lt;/font\u0026gt; your \u0026lt;font color=\"#edc63e\"\u0026gt;Health into Mana\u0026lt;/font\u0026gt; when using a \u0026lt;font color=\"#edc63e\"\u0026gt;Void Gauntlet\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "SoulTrialPrompt_01",
+        "SubtitleText": "Soul Trials",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Soul Trials\u0026lt;/font\u0026gt; are instanced solo challenges.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "SoulTrialDialogue_01",
+        "SubtitleText": "Soul Trials",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Soul Trial\u0026lt;/font\u0026gt; entrances are found throughout \u0026lt;font color=\"#edc63e\"\u0026gt;Aeternum\u0026lt;/font\u0026gt;, denoted by blue spinning triangles at their entrances. Soul Trials are solo boss challenges with unique rewards.\\n\\nSome Trials are repeatable. Navigate to the Soul Trials section of the \u0026lt;font color=\"#edc63e\"\u0026gt;Activity Finder\u0026lt;/font\u0026gt; to learn about repeating unlocked Trials.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "LyShineUI/Images/PlayerTutorials/SoulTrials.png",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_exploration.png"
+    },
+    {
+        "ContentId": "EquipFood1Prompt_01",
+        "SubtitleText": "Equip Food",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Equip food\u0026lt;/font\u0026gt; from your inventory.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "ConsumeFood1Prompt_01",
+        "SubtitleText": "Consume Food",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Consume equipped food\u0026lt;/font\u0026gt; to heal over time by using its assigned quickslot.\r\n\t\\n\\n{$player.quickslot-consumable-1$} \u0026lt;font color=\"#edc63e\"\u0026gt;Slot 1\u0026lt;/font\u0026gt;\r\n    \\n{$player.quickslot-consumable-2$} \u0026lt;font color=\"#edc63e\"\u0026gt;Slot 2\u0026lt;/font\u0026gt;",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "OpeningLootContainersPrompt_01",
+        "SubtitleText": "Open Your Rewards",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Open\u0026lt;/font\u0026gt; reward \u0026lt;font color=\"#edc63e\"\u0026gt;containers\u0026lt;/font\u0026gt; from your {$ui.toggleInventoryWindow$} inventory.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "PronePvPPrompt_01",
+        "SubtitleText": "Prone to Hide",
+        "BodyText": "{$movement.prone_toggle_pad$} \u0026lt;font color=\"#edc63e\"\u0026gt;Prone during PvP\u0026lt;/font\u0026gt; to hide your nameplate from rivals.",
+        "KeyboardButtonDisplayOverride": "{$movement.prone_toggle$} \u0026lt;font color=\"#edc63e\"\u0026gt;Prone during PvP\u0026lt;/font\u0026gt; to hide your nameplate from rivals.",
+        "ImagePath": "",
+        "IconPath": ""
+    }
+]

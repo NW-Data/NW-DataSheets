@@ -2,11 +2,25 @@
     {
         "DisplayName": "Default",
         "Path": "libs/config/defaultprofile.xml",
-        "DisplayString": "Default"
+        "DisplayString": "Default",
+        "Rebindable": false
     },
     {
         "DisplayName": "Advanced",
         "Path": "libs/config/advancedprofile.xml",
-        "DisplayString": "Melee"
+        "DisplayString": "Melee",
+        "Rebindable": false
+    },
+    {
+        "DisplayName": "Custom 1",
+        "Path": "libs/config/defaultprofile.xml",
+        "DisplayString": "Custom 1",
+        "Rebindable": true
+    },
+    {
+        "DisplayName": "Custom 2",
+        "Path": "libs/config/advancedprofile.xml",
+        "DisplayString": "Custom 2",
+        "Rebindable": true
     }
 ]

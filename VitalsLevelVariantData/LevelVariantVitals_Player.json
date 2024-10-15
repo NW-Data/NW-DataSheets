@@ -1,0 +1,200 @@
+[
+    {
+        "VitalsID": "FireMine",
+        "DisplayName": "Fire Mine",
+        "Level": null,
+        "BaseVitalsId": "FireMine"
+    },
+    {
+        "VitalsID": "IceMagicEntomb",
+        "DisplayName": "Ice Tomb",
+        "Level": 60,
+        "BaseVitalsId": "IceMagicEntomb"
+    },
+    {
+        "VitalsID": "IceMagicPylon",
+        "DisplayName": "Ice Pylon",
+        "Level": 20,
+        "BaseVitalsId": "IceMagicPylon"
+    },
+    {
+        "VitalsID": "IceMagicPylonUltimate",
+        "DisplayName": "Ice Pylon",
+        "Level": 20,
+        "BaseVitalsId": "IceMagicPylonUltimate"
+    },
+    {
+        "VitalsID": "LifeMagicShield",
+        "DisplayName": "Shield of Protection",
+        "Level": 60,
+        "BaseVitalsId": "LifeMagicShield"
+    },
+    {
+        "VitalsID": "Player",
+        "DisplayName": "Player",
+        "Level": null,
+        "BaseVitalsId": "Player"
+    },
+    {
+        "VitalsID": "OR_SiegeWeaponLarge",
+        "DisplayName": "Large Siege Weapon",
+        "Level": null,
+        "BaseVitalsId": "OR_SiegeWeaponLarge"
+    },
+    {
+        "VitalsID": "OR_SiegeWeaponSmall",
+        "DisplayName": "Small Siege Weapon",
+        "Level": null,
+        "BaseVitalsId": "OR_SiegeWeaponSmall"
+    },
+    {
+        "VitalsID": "SiegeWeaponLarge",
+        "DisplayName": "Large Siege Weapon",
+        "Level": null,
+        "BaseVitalsId": "SiegeWeaponLarge"
+    },
+    {
+        "VitalsID": "SiegeWeaponSmall",
+        "DisplayName": "Small Siege Weapon",
+        "Level": null,
+        "BaseVitalsId": "SiegeWeaponSmall"
+    },
+    {
+        "VitalsID": "SiegeWeaponLargeResistsRangedDmg",
+        "DisplayName": "Small Siege Weapon",
+        "Level": null,
+        "BaseVitalsId": "SiegeWeaponLargeResistsRangedDmg"
+    },
+    {
+        "VitalsID": "SiegeWeaponSmallResistsRangedDmg",
+        "DisplayName": "Large Siege Weapon",
+        "Level": null,
+        "BaseVitalsId": "SiegeWeaponSmallResistsRangedDmg"
+    },
+    {
+        "VitalsID": "Target_Dummy",
+        "DisplayName": "Target Dummy",
+        "Level": 60,
+        "BaseVitalsId": "Target_Dummy"
+    },
+    {
+        "VitalsID": "Target_Dummy_Armored",
+        "DisplayName": "Armored Target Dummy",
+        "Level": 60,
+        "BaseVitalsId": "Target_Dummy_Armored"
+    },
+    {
+        "VitalsID": "Target_Dummy_Boss",
+        "DisplayName": "Boss Hurley",
+        "Level": 65,
+        "BaseVitalsId": "Target_Dummy_Boss"
+    },
+    {
+        "VitalsID": "Target_Dummy_Boss10",
+        "DisplayName": "Boss Hall",
+        "Level": 10,
+        "BaseVitalsId": "Target_Dummy_Boss10"
+    },
+    {
+        "VitalsID": "Target_Dummy_Boss25",
+        "DisplayName": "Boss Gee",
+        "Level": 25,
+        "BaseVitalsId": "Target_Dummy_Boss25"
+    },
+    {
+        "VitalsID": "Target_Dummy_Boss35",
+        "DisplayName": "Boss Punchkicker",
+        "Level": 35,
+        "BaseVitalsId": "Target_Dummy_Boss35"
+    },
+    {
+        "VitalsID": "Target_Dummy_Boss45",
+        "DisplayName": "Boss Kickpuncher",
+        "Level": 45,
+        "BaseVitalsId": "Target_Dummy_Boss45"
+    },
+    {
+        "VitalsID": "Target_Dummy_Boss5",
+        "DisplayName": "Boss Smol",
+        "Level": 5,
+        "BaseVitalsId": "Target_Dummy_Boss5"
+    },
+    {
+        "VitalsID": "Target_Dummy_Boss55",
+        "DisplayName": "Boss Chrisp Quarry",
+        "Level": 55,
+        "BaseVitalsId": "Target_Dummy_Boss55"
+    },
+    {
+        "VitalsID": "Target_Dummy_CC",
+        "DisplayName": "Crowd Control Target Dummy",
+        "Level": 60,
+        "BaseVitalsId": "Target_Dummy_CC"
+    },
+    {
+        "VitalsID": "Target_Dummy_GRIT",
+        "DisplayName": "GRIT Target Dummy",
+        "Level": 60,
+        "BaseVitalsId": "Target_Dummy_GRIT"
+    },
+    {
+        "VitalsID": "Target_Dummy_Heavy_Attack",
+        "DisplayName": "Heavy Attack Target Dummy",
+        "Level": 60,
+        "BaseVitalsId": "Target_Dummy_Heavy_Attack"
+    },
+    {
+        "VitalsID": "Target_Dummy_Light_Attack",
+        "DisplayName": "Light Attack Target Dummy",
+        "Level": 60,
+        "BaseVitalsId": "Target_Dummy_Light_Attack"
+    },
+    {
+        "VitalsID": "Target_Dummy_OneMillion",
+        "DisplayName": "Target Dummy 1 Million HP",
+        "Level": 60,
+        "BaseVitalsId": "Target_Dummy_OneMillion"
+    },
+    {
+        "VitalsID": "Target_Dummy_Patrol",
+        "DisplayName": "Patrolling Target Dummy",
+        "Level": 60,
+        "BaseVitalsId": "Target_Dummy_Patrol"
+    },
+    {
+        "VitalsID": "Target_Dummy_Ranged",
+        "DisplayName": "Ranged Target Dummy",
+        "Level": 60,
+        "BaseVitalsId": "Target_Dummy_Ranged"
+    },
+    {
+        "VitalsID": "Training_Dummy",
+        "DisplayName": "Training Dummy",
+        "Level": 60,
+        "BaseVitalsId": "Training_Dummy"
+    },
+    {
+        "VitalsID": "Trap",
+        "DisplayName": "Trap",
+        "Level": 1,
+        "BaseVitalsId": "Trap"
+    },
+    {
+        "VitalsID": "Trap_Bear",
+        "DisplayName": "Bear Trap",
+        "Level": 1,
+        "BaseVitalsId": "Trap_Bear"
+    },
+    {
+        "VitalsID": "DefendAlly_AzothSapling",
+        "DisplayName": "Azoth Sapling",
+        "Level": 60,
+        "BaseVitalsId": "SiegeWeaponLarge_Ally"
+    },
+    {
+        "VitalsID": "DefendAlly_PowderKeg",
+        "DisplayName": "Powder Keg",
+        "Level": 55,
+        "BaseVitalsId": "SiegeWeaponLarge_Ally"
+    }
+]

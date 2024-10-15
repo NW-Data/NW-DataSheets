@@ -37,7 +37,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "FirePlant",
@@ -77,7 +79,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "AirPlant",
@@ -117,7 +121,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "WaterPlant",
@@ -157,7 +163,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "LifePlant",
@@ -197,7 +205,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "DeathPlant",
@@ -237,7 +247,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "SoulPlant",
@@ -277,7 +289,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "EarthStone",
@@ -317,7 +331,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "FireStone",
@@ -357,7 +373,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "AirStone",
@@ -397,7 +415,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "WaterStone",
@@ -437,7 +457,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "LifeStone",
@@ -477,7 +499,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "DeathStone",
@@ -517,7 +541,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "SoulStone",
@@ -557,7 +583,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "EarthBoid",
@@ -597,7 +625,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 0.7236,
         "InteractionMarker_Offset_Y": 0.0554,
-        "InteractionMarker_Offset_Z": 0.2
+        "InteractionMarker_Offset_Z": 0.2,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "FireBoid",
@@ -637,7 +667,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 0.5254,
         "InteractionMarker_Offset_Y": 0.0612,
-        "InteractionMarker_Offset_Z": 0.2
+        "InteractionMarker_Offset_Z": 0.2,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "AirBoid",
@@ -677,7 +709,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 0.8867,
         "InteractionMarker_Offset_Y": 0.0762,
-        "InteractionMarker_Offset_Z": 0.1
+        "InteractionMarker_Offset_Z": 0.1,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "WaterBoid",
@@ -717,7 +751,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 1.0654,
         "InteractionMarker_Offset_Y": -0.0549,
-        "InteractionMarker_Offset_Z": 0.35
+        "InteractionMarker_Offset_Z": 0.35,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "LifeBoid",
@@ -757,7 +793,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 0.9551,
         "InteractionMarker_Offset_Y": 0.0762,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "DeathBoid",
@@ -797,7 +835,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 0.6807,
         "InteractionMarker_Offset_Y": 0.1241,
-        "InteractionMarker_Offset_Z": 0.1
+        "InteractionMarker_Offset_Z": 0.1,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "SoulBoid",
@@ -837,7 +877,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 1.126,
         "InteractionMarker_Offset_Y": -0.1297,
-        "InteractionMarker_Offset_Z": 0.35
+        "InteractionMarker_Offset_Z": 0.35,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "Hyssop_A",
@@ -850,7 +892,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Bush.Ambience.Hyssop_A",
@@ -877,7 +919,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hyssop_B",
@@ -890,7 +934,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Bush.Ambience.Hyssop_B",
@@ -917,7 +961,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hyssop_C",
@@ -930,7 +976,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Bush.Ambience.Hyssop_C",
@@ -957,7 +1003,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Ocotillo_Herb_A",
@@ -970,7 +1018,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Bush.Ambience.Hyssop_A",
@@ -997,7 +1045,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Ocotillo_Herb_B",
@@ -1010,7 +1060,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Bush.Ambience.Hyssop_B",
@@ -1037,7 +1087,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Ocotillo_Herb_C",
@@ -1050,7 +1102,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Bush.Ambience.Hyssop_C",
@@ -1077,7 +1129,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Ocotillo_Herb_D",
@@ -1090,7 +1144,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Bush.Ambience.Hyssop_C",
@@ -1117,7 +1171,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Ocotillo_Herb_E",
@@ -1130,7 +1186,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Bush.Ambience.Hyssop_C",
@@ -1157,7 +1213,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Corpuspore_Herb_A",
@@ -1170,7 +1228,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Bush.Ambience.Hyssop_A",
@@ -1197,7 +1255,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Corpuspore_Herb_B",
@@ -1210,7 +1270,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Bush.Ambience.Hyssop_B",
@@ -1237,7 +1297,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Corpuspore_Herb_C",
@@ -1250,7 +1312,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Bush.Ambience.Hyssop_C",
@@ -1277,7 +1339,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "HoneyTree_A",
@@ -1317,7 +1381,9 @@
         "EnableBurstParticle3": null,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "",
+        "SFX_Gathering": ""
     },
     {
         "VariantID": "HoneyTree_B",
@@ -1357,7 +1423,9 @@
         "EnableBurstParticle3": null,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "",
+        "SFX_Gathering": ""
     },
     {
         "VariantID": "CorruptedPlant",
@@ -1397,7 +1465,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlackFungus_A",
@@ -1410,8 +1480,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Black_A",
         "SFX_Burst_1": "",
@@ -1437,7 +1507,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlackFungus_B",
@@ -1450,8 +1522,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Black_B",
         "SFX_Burst_1": "",
@@ -1477,7 +1549,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlackFungus_C",
@@ -1490,8 +1564,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Black_C",
         "SFX_Burst_1": "",
@@ -1517,7 +1591,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BrightGreenFungus_A",
@@ -1530,8 +1606,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_BrightGreen_A",
         "SFX_Burst_1": "",
@@ -1557,7 +1633,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BrightGreenFungus_B",
@@ -1570,8 +1648,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_BrightGreen_B",
         "SFX_Burst_1": "",
@@ -1597,7 +1675,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BrightGreenFungus_C",
@@ -1610,8 +1690,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_BrightGreen_C",
         "SFX_Burst_1": "",
@@ -1637,7 +1717,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BrownFungus_A",
@@ -1650,8 +1732,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Brown_A",
         "SFX_Burst_1": "",
@@ -1677,7 +1759,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BrownFungus_B",
@@ -1690,8 +1774,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Brown_B",
         "SFX_Burst_1": "",
@@ -1717,7 +1801,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BrownFungus_C",
@@ -1730,8 +1816,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Brown_C",
         "SFX_Burst_1": "",
@@ -1757,7 +1843,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CyanFungus_A",
@@ -1770,8 +1858,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Cyan_A",
         "SFX_Burst_1": "",
@@ -1797,7 +1885,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CyanFungus_B",
@@ -1810,8 +1900,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Cyan_B",
         "SFX_Burst_1": "",
@@ -1837,7 +1927,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CyanFungus_C",
@@ -1850,8 +1942,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Cyan_C",
         "SFX_Burst_1": "",
@@ -1877,7 +1969,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "DarkblueFungus_A",
@@ -1890,8 +1984,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_DarkBlue_A",
         "SFX_Burst_1": "",
@@ -1917,7 +2011,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "DarkblueFungus_B",
@@ -1930,8 +2026,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_DarkBlue_B",
         "SFX_Burst_1": "",
@@ -1957,7 +2053,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "DarkblueFungus_C",
@@ -1970,8 +2068,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_DarkBlue_C",
         "SFX_Burst_1": "",
@@ -1997,7 +2095,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "GreenFungus_A",
@@ -2010,8 +2110,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Green_A",
         "SFX_Burst_1": "",
@@ -2037,7 +2137,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "GreenFungus_B",
@@ -2050,8 +2152,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Green_B",
         "SFX_Burst_1": "",
@@ -2077,7 +2179,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "GreenFungus_C",
@@ -2090,8 +2194,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Green_C",
         "SFX_Burst_1": "",
@@ -2117,7 +2221,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "LavenderFungus_A",
@@ -2130,8 +2236,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Lavender_A",
         "SFX_Burst_1": "",
@@ -2157,7 +2263,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "LavenderFungus_B",
@@ -2170,8 +2278,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Lavender_B",
         "SFX_Burst_1": "",
@@ -2197,7 +2305,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "LavenderFungus_C",
@@ -2210,8 +2320,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Lavender_C",
         "SFX_Burst_1": "",
@@ -2237,7 +2347,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "LightblueFungus_A",
@@ -2250,8 +2362,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_LightBlue_A",
         "SFX_Burst_1": "",
@@ -2277,7 +2389,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "LightblueFungus_B",
@@ -2290,8 +2404,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_LightBlue_B",
         "SFX_Burst_1": "",
@@ -2317,7 +2431,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "LightblueFungus_C",
@@ -2330,8 +2446,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_LightBlue_C",
         "SFX_Burst_1": "",
@@ -2357,7 +2473,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Orange_Fungus_A",
@@ -2370,8 +2488,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Orange_A",
         "SFX_Burst_1": "",
@@ -2397,7 +2515,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Orange_Fungus_B",
@@ -2410,8 +2530,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Orange_B",
         "SFX_Burst_1": "",
@@ -2437,7 +2557,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Orange_Fungus_C",
@@ -2450,8 +2572,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Orange_C",
         "SFX_Burst_1": "",
@@ -2477,7 +2599,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "PinkFungus_A",
@@ -2490,8 +2614,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Pink_A",
         "SFX_Burst_1": "",
@@ -2517,7 +2641,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "PinkFungus_B",
@@ -2530,8 +2656,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Pink_B",
         "SFX_Burst_1": "",
@@ -2557,7 +2683,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "PinkFungus_C",
@@ -2570,8 +2698,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Pink_C",
         "SFX_Burst_1": "",
@@ -2597,7 +2725,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "PurpleFungus_A",
@@ -2610,8 +2740,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Purple_A",
         "SFX_Burst_1": "",
@@ -2637,7 +2767,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "PurpleFungus_B",
@@ -2650,8 +2782,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Purple_B",
         "SFX_Burst_1": "",
@@ -2677,7 +2809,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "PurpleFungus_C",
@@ -2690,8 +2824,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Purple_C",
         "SFX_Burst_1": "",
@@ -2717,7 +2851,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "RedFungus_A",
@@ -2730,7 +2866,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "gathering",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Mushroom",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Red_A",
@@ -2757,7 +2893,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "RedFungus_B",
@@ -2770,7 +2908,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "gathering",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Mushroom",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Red_B",
@@ -2797,7 +2935,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "RedFungus_C",
@@ -2810,7 +2950,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "gathering",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Mushroom",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Red_C",
@@ -2837,7 +2977,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "TanFungus_A",
@@ -2850,8 +2992,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Tan_A",
         "SFX_Burst_1": "",
@@ -2877,7 +3019,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "TanFungus_B",
@@ -2890,8 +3034,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Tan_B",
         "SFX_Burst_1": "",
@@ -2917,7 +3061,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "TanFungus_C",
@@ -2930,8 +3076,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Tan_C",
         "SFX_Burst_1": "",
@@ -2957,7 +3103,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "WhiteFungus_A",
@@ -2970,8 +3118,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_White_A",
         "SFX_Burst_1": "",
@@ -2997,7 +3145,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "WhiteFungus_B",
@@ -3010,8 +3160,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_White_B",
         "SFX_Burst_1": "",
@@ -3037,7 +3187,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "WhiteFungus_C",
@@ -3050,8 +3202,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_White_C",
         "SFX_Burst_1": "",
@@ -3077,7 +3229,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "YellowFungus_A",
@@ -3090,7 +3244,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "gathering",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Mushroom",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Yellow_A",
@@ -3117,7 +3271,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "YellowFungus_B",
@@ -3130,7 +3286,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "gathering",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Mushroom",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Yellow_B",
@@ -3157,7 +3313,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "YellowFungus_C",
@@ -3170,7 +3328,7 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "gathering",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
         "SFX_depleted": "Play_Gather_Mushroom",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Yellow_C",
@@ -3197,7 +3355,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "MagentaFungus_A",
@@ -3210,8 +3370,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Magenta_A",
         "SFX_Burst_1": "",
@@ -3237,7 +3397,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "MagentaFungus_B",
@@ -3250,8 +3412,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Magenta_B",
         "SFX_Burst_1": "",
@@ -3277,7 +3439,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "MagentaFungus_C",
@@ -3290,8 +3454,8 @@
         "AudioPreload_Burst_1": "",
         "AudioPreload_Burst_2": "",
         "AudioPreload_Burst_3": "",
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "SFX_Idle": "",
         "VFX_Idle": "Gatherable_Alchemy_Fungus.Ambience.Fungus_Magenta_C",
         "SFX_Burst_1": "",
@@ -3317,7 +3481,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "AzothWater_A",
@@ -3357,7 +3523,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "",
+        "SFX_Gathering": ""
     },
     {
         "VariantID": "WaterPlant_Dungeon",
@@ -3397,7 +3565,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "SoulStone_Dungeon",
@@ -3437,7 +3607,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "EarthPlant_Dungeon",
@@ -3477,7 +3649,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "FirePlant_Dungeon",
@@ -3517,7 +3691,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "AirPlant_Dungeon",
@@ -3557,7 +3733,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "LifePlant_Dungeon",
@@ -3597,7 +3775,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "DeathPlant_Dungeon",
@@ -3637,7 +3817,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "SoulPlant_Dungeon",
@@ -3677,7 +3859,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "EarthStone_Dungeon",
@@ -3717,7 +3901,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "FireStone_Dungeon",
@@ -3757,7 +3943,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "AirStone_Dungeon",
@@ -3797,7 +3985,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "WaterStone_Dungeon",
@@ -3837,7 +4027,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "LifeStone_Dungeon",
@@ -3877,7 +4069,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "DeathStone_Dungeon",
@@ -3917,7 +4111,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "EarthBoid_Dungeon",
@@ -3957,7 +4153,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 0.7236,
         "InteractionMarker_Offset_Y": 0.0554,
-        "InteractionMarker_Offset_Z": 0.2
+        "InteractionMarker_Offset_Z": 0.2,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "FireBoid_Dungeon",
@@ -3997,7 +4195,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 0.5254,
         "InteractionMarker_Offset_Y": 0.0612,
-        "InteractionMarker_Offset_Z": 0.2
+        "InteractionMarker_Offset_Z": 0.2,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "AirBoid_Dungeon",
@@ -4037,7 +4237,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 0.8867,
         "InteractionMarker_Offset_Y": 0.0762,
-        "InteractionMarker_Offset_Z": 0.1
+        "InteractionMarker_Offset_Z": 0.1,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "WaterBoid_Dungeon",
@@ -4077,7 +4279,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 1.0654,
         "InteractionMarker_Offset_Y": -0.0549,
-        "InteractionMarker_Offset_Z": 0.35
+        "InteractionMarker_Offset_Z": 0.35,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "LifeBoid_Dungeon",
@@ -4117,7 +4321,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 0.9551,
         "InteractionMarker_Offset_Y": 0.0762,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "DeathBoid_Dungeon",
@@ -4157,7 +4363,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 0.6807,
         "InteractionMarker_Offset_Y": 0.1241,
-        "InteractionMarker_Offset_Z": 0.1
+        "InteractionMarker_Offset_Z": 0.1,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "SoulBoid_Dungeon",
@@ -4197,7 +4405,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": 1.126,
         "InteractionMarker_Offset_Y": -0.1297,
-        "InteractionMarker_Offset_Z": 0.35
+        "InteractionMarker_Offset_Z": 0.35,
+        "AudioPreload_gathering": "gather_interact_alchemyplant",
+        "SFX_Gathering": "Play_Gather_Interact_AlchemyPlant"
     },
     {
         "VariantID": "CorpseFlower_A",
@@ -4237,7 +4447,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": -0.4,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": 0.2
+        "InteractionMarker_Offset_Z": 0.2,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CorpseFlower_B",
@@ -4277,7 +4489,9 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": null,
-        "InteractionMarker_Offset_Z": -0.2
+        "InteractionMarker_Offset_Z": -0.2,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CorpseFlower_C",
@@ -4317,6 +4531,8 @@
         "EnableBurstParticle3": false,
         "InteractionMarker_Offset_X": null,
         "InteractionMarker_Offset_Y": -0.2,
-        "InteractionMarker_Offset_Z": null
+        "InteractionMarker_Offset_Z": null,
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     }
 ]

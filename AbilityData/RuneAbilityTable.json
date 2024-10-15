@@ -172,6 +172,7 @@
         "ManaCostMult": "",
         "Stamina": "",
         "DamageTableRowOverride": "",
+        "StatusEffectDamageTableIdForRowOverride": "",
         "StatusEffectDamageTableRowOverride": "",
         "ForceStatusEffectDamageTableRow": "",
         "RangedAttackNameOverride": "",
@@ -234,7 +235,8 @@
         "RepairDustYieldMod": "",
         "ToolDurabilityLossMod": "",
         "FastTravelInnCooldownMod": "",
-        "FastTravelAzothCostMod": ""
+        "FastTravelAzothCostMod": "",
+        "SupportsSmartcast": null
     },
     {
         "AbilityID": "Ability_Rune_Detonate",
@@ -409,6 +411,7 @@
         "ManaCostMult": "",
         "Stamina": "",
         "DamageTableRowOverride": "",
+        "StatusEffectDamageTableIdForRowOverride": "",
         "StatusEffectDamageTableRowOverride": "",
         "ForceStatusEffectDamageTableRow": "",
         "RangedAttackNameOverride": "",
@@ -471,7 +474,8 @@
         "RepairDustYieldMod": "",
         "ToolDurabilityLossMod": "",
         "FastTravelInnCooldownMod": "",
-        "FastTravelAzothCostMod": ""
+        "FastTravelAzothCostMod": "",
+        "SupportsSmartcast": null
     },
     {
         "AbilityID": "Ability_Rune_GraspingVines",
@@ -646,6 +650,7 @@
         "ManaCostMult": "",
         "Stamina": "",
         "DamageTableRowOverride": "",
+        "StatusEffectDamageTableIdForRowOverride": "",
         "StatusEffectDamageTableRowOverride": "",
         "ForceStatusEffectDamageTableRow": "",
         "RangedAttackNameOverride": "",
@@ -708,7 +713,8 @@
         "RepairDustYieldMod": "",
         "ToolDurabilityLossMod": "",
         "FastTravelInnCooldownMod": "",
-        "FastTravelAzothCostMod": ""
+        "FastTravelAzothCostMod": "",
+        "SupportsSmartcast": null
     },
     {
         "AbilityID": "Ability_Rune_CannonBlast",
@@ -883,6 +889,7 @@
         "ManaCostMult": "",
         "Stamina": "",
         "DamageTableRowOverride": "",
+        "StatusEffectDamageTableIdForRowOverride": "",
         "StatusEffectDamageTableRowOverride": "",
         "ForceStatusEffectDamageTableRow": "",
         "RangedAttackNameOverride": "",
@@ -945,7 +952,8 @@
         "RepairDustYieldMod": "",
         "ToolDurabilityLossMod": "",
         "FastTravelInnCooldownMod": "",
-        "FastTravelAzothCostMod": ""
+        "FastTravelAzothCostMod": "",
+        "SupportsSmartcast": null
     },
     {
         "AbilityID": "Ability_Rune_HereticsFall",
@@ -1120,6 +1128,7 @@
         "ManaCostMult": "",
         "Stamina": "",
         "DamageTableRowOverride": "",
+        "StatusEffectDamageTableIdForRowOverride": "",
         "StatusEffectDamageTableRowOverride": "",
         "ForceStatusEffectDamageTableRow": "",
         "RangedAttackNameOverride": "",
@@ -1182,7 +1191,8 @@
         "RepairDustYieldMod": "",
         "ToolDurabilityLossMod": "",
         "FastTravelInnCooldownMod": "",
-        "FastTravelAzothCostMod": ""
+        "FastTravelAzothCostMod": "",
+        "SupportsSmartcast": null
     },
     {
         "AbilityID": "Ability_Rune_BileBomb",
@@ -1357,6 +1367,7 @@
         "ManaCostMult": "",
         "Stamina": "",
         "DamageTableRowOverride": "",
+        "StatusEffectDamageTableIdForRowOverride": "",
         "StatusEffectDamageTableRowOverride": "",
         "ForceStatusEffectDamageTableRow": "",
         "RangedAttackNameOverride": "",
@@ -1419,7 +1430,8 @@
         "RepairDustYieldMod": "",
         "ToolDurabilityLossMod": "",
         "FastTravelInnCooldownMod": "",
-        "FastTravelAzothCostMod": ""
+        "FastTravelAzothCostMod": "",
+        "SupportsSmartcast": null
     },
     {
         "AbilityID": "Ability_Rune_FireStorm",
@@ -1594,6 +1606,7 @@
         "ManaCostMult": "",
         "Stamina": "",
         "DamageTableRowOverride": "",
+        "StatusEffectDamageTableIdForRowOverride": "",
         "StatusEffectDamageTableRowOverride": "",
         "ForceStatusEffectDamageTableRow": "",
         "RangedAttackNameOverride": "",
@@ -1656,7 +1669,8 @@
         "RepairDustYieldMod": "",
         "ToolDurabilityLossMod": "",
         "FastTravelInnCooldownMod": "",
-        "FastTravelAzothCostMod": ""
+        "FastTravelAzothCostMod": "",
+        "SupportsSmartcast": null
     },
     {
         "AbilityID": "Ability_Rune_Sandworm",
@@ -1831,6 +1845,7 @@
         "ManaCostMult": "",
         "Stamina": "",
         "DamageTableRowOverride": "",
+        "StatusEffectDamageTableIdForRowOverride": "",
         "StatusEffectDamageTableRowOverride": "",
         "ForceStatusEffectDamageTableRow": "",
         "RangedAttackNameOverride": "",
@@ -1893,7 +1908,8 @@
         "RepairDustYieldMod": "",
         "ToolDurabilityLossMod": "",
         "FastTravelInnCooldownMod": "",
-        "FastTravelAzothCostMod": ""
+        "FastTravelAzothCostMod": "",
+        "SupportsSmartcast": true
     },
     {
         "AbilityID": "Ability_Rune_BeastMode",
@@ -2068,6 +2084,7 @@
         "ManaCostMult": "",
         "Stamina": "",
         "DamageTableRowOverride": "",
+        "StatusEffectDamageTableIdForRowOverride": "",
         "StatusEffectDamageTableRowOverride": "",
         "ForceStatusEffectDamageTableRow": "",
         "RangedAttackNameOverride": "",
@@ -2130,6 +2147,7 @@
         "RepairDustYieldMod": "",
         "ToolDurabilityLossMod": "",
         "FastTravelInnCooldownMod": "",
-        "FastTravelAzothCostMod": ""
+        "FastTravelAzothCostMod": "",
+        "SupportsSmartcast": null
     }
 ]

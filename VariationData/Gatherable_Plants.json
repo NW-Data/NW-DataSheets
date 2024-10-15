@@ -22,7 +22,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Grain_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BarleyPlant_b",
@@ -47,7 +49,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Grain_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BarleyPlant_c",
@@ -72,7 +76,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Grain_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_a",
@@ -97,7 +103,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_b",
@@ -122,7 +130,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_c",
@@ -147,7 +157,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlueberryBush_a",
@@ -172,7 +184,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlueberryBush_b",
@@ -197,7 +211,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlueberryBush_c",
@@ -222,7 +238,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CarrotPlant_a",
@@ -247,7 +265,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Vegetable_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CarrotPlant_b",
@@ -272,7 +292,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Vegetable_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CarrotPlant_c",
@@ -297,7 +319,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Vegetable_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CornPlant_a",
@@ -322,7 +346,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Vegetable_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CornPlant_b",
@@ -347,7 +373,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Vegetable_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CornPlant_c",
@@ -372,7 +400,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Vegetable_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CranberryBush_a",
@@ -397,7 +427,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CranberryBush_b",
@@ -422,7 +454,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CranberryBush_c",
@@ -447,7 +481,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CranberryBush_b_spri01",
@@ -472,7 +508,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CranberryBush_b_fall01",
@@ -497,7 +535,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CranberryBush_b_fall02",
@@ -522,7 +562,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CranberryBush_b_wint01",
@@ -547,7 +589,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CranberryBush_c_spri01",
@@ -572,7 +616,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CranberryBush_c_fall01",
@@ -597,7 +643,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CranberryBush_c_fall02",
@@ -622,7 +670,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CranberryBush_c_wint01",
@@ -647,7 +697,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_a",
@@ -672,7 +724,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_b",
@@ -697,7 +751,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_c",
@@ -722,7 +778,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_a",
@@ -747,7 +805,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_b",
@@ -772,7 +832,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_c",
@@ -797,7 +859,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Melons",
@@ -822,7 +886,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.8,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "PumpkinPlant_a",
@@ -847,7 +913,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "PumpkinPlant_b",
@@ -872,7 +940,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "PumpkinPlant_c",
@@ -897,7 +967,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Rice",
@@ -922,7 +994,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Grain_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquashPlant_a",
@@ -947,7 +1021,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquashPlant_b",
@@ -972,7 +1048,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.5,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquashPlant_c",
@@ -997,7 +1075,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_a",
@@ -1022,7 +1102,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_b",
@@ -1047,7 +1129,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_c",
@@ -1072,7 +1156,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "StrawberryPlant_a",
@@ -1097,7 +1183,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "StrawberryPlant_b",
@@ -1122,7 +1210,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "StrawberryPlant_c",
@@ -1147,7 +1237,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "WheatPlant_a",
@@ -1172,7 +1264,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Pinecone_a",
@@ -1197,7 +1291,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Pinecone_b",
@@ -1222,7 +1318,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_a_fall01",
@@ -1247,7 +1345,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_b_fall01",
@@ -1272,7 +1372,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_c_fall01",
@@ -1297,7 +1399,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_a_fall01",
@@ -1322,7 +1426,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_b_fall01",
@@ -1347,7 +1453,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_c_fall01",
@@ -1372,7 +1480,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_a_fall01",
@@ -1397,7 +1507,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_b_fall01",
@@ -1422,7 +1534,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_c_fall01",
@@ -1447,7 +1561,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_a_fall01",
@@ -1472,7 +1588,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_b_fall01",
@@ -1497,7 +1615,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_c_fall01",
@@ -1522,7 +1642,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_a_fall02",
@@ -1547,7 +1669,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_b_fall02",
@@ -1572,7 +1696,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_c_fall02",
@@ -1597,7 +1723,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_a_fall02",
@@ -1622,7 +1750,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_b_fall02",
@@ -1647,7 +1777,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_c_fall02",
@@ -1672,7 +1804,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_a_fall02",
@@ -1697,7 +1831,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_b_fall02",
@@ -1722,7 +1858,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_c_fall02",
@@ -1747,7 +1885,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_a_fall02",
@@ -1772,7 +1912,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_b_fall02",
@@ -1797,7 +1939,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_c_fall02",
@@ -1822,7 +1966,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_a_wint01",
@@ -1847,7 +1993,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_b_wint01",
@@ -1872,7 +2020,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_c_wint01",
@@ -1897,7 +2047,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_a_wint01",
@@ -1922,7 +2074,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_b_wint01",
@@ -1947,7 +2101,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_c_wint01",
@@ -1972,7 +2128,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_a_wint01",
@@ -1997,7 +2155,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_b_wint01",
@@ -2022,7 +2182,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_c_wint01",
@@ -2047,7 +2209,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_a_wint01",
@@ -2072,7 +2236,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_b_wint01",
@@ -2097,7 +2263,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_c_wint01",
@@ -2122,7 +2290,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_a_spri01",
@@ -2147,7 +2317,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_b_spri01",
@@ -2172,7 +2344,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Berrybush_c_spri01",
@@ -2197,7 +2371,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_a_spri01",
@@ -2222,7 +2398,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_b_spri01",
@@ -2247,7 +2425,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Grass_Cattail_c_spri01",
@@ -2272,7 +2452,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_a_spri01",
@@ -2297,7 +2479,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_b_spri01",
@@ -2322,7 +2506,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_c_spri01",
@@ -2347,7 +2533,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Hemp_Compass.png",
         "TradeskillIconUnlockType": "Hemp",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_a_spri01",
@@ -2372,7 +2560,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_b_spri01",
@@ -2397,7 +2587,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "SquirtberryBush_c_spri01",
@@ -2422,7 +2614,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "HoneyTree_a",
@@ -2447,7 +2641,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 5.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "HoneyTree_b",
@@ -2472,7 +2668,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 4.2,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Broccoli_a",
@@ -2497,7 +2695,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Potato_a",
@@ -2522,7 +2722,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CabbageCluster_A",
@@ -2547,7 +2749,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 4,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Melon_a",
@@ -2572,7 +2776,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Fruit_Compass.png",
         "TradeskillIconUnlockType": "FarmPlants",
         "MarkerRadius": 3.7,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_a_t4",
@@ -2597,7 +2803,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Silkweed_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT4",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_b_t4",
@@ -2622,7 +2830,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Silkweed_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT4",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_c_t4",
@@ -2647,7 +2857,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Silkweed_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT4",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_a_t5",
@@ -2672,7 +2884,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT5",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_b_t5",
@@ -2697,7 +2911,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT5",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_c_t5",
@@ -2722,7 +2938,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT5",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_a_t52",
@@ -2747,7 +2965,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT5",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_b_t52",
@@ -2772,7 +2992,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT5",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "Hemp_c_t52",
@@ -2797,7 +3019,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT5",
         "MarkerRadius": 3,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "OrangeDyePlant_A",
@@ -2807,8 +3031,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -2822,7 +3046,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "OrangeDyePlant_B",
@@ -2832,8 +3058,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -2847,7 +3073,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "OrangeDyePlant_C",
@@ -2857,8 +3085,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -2872,7 +3100,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "RedDyePlant_A",
@@ -2882,8 +3112,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -2897,7 +3127,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "RedDyePlant_B",
@@ -2907,8 +3139,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -2922,7 +3154,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "RedDyePlant_C",
@@ -2932,8 +3166,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -2947,7 +3181,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "YellowDyePlant_A",
@@ -2957,8 +3193,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -2972,7 +3208,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "YellowDyePlant_B",
@@ -2982,8 +3220,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -2997,7 +3235,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "YellowDyePlant_C",
@@ -3007,8 +3247,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3022,7 +3262,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "GreenDyePlant_A",
@@ -3032,8 +3274,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3047,7 +3289,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "GreenDyePlant_B",
@@ -3057,8 +3301,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3072,7 +3316,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "GreenDyePlant_C",
@@ -3082,8 +3328,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3097,7 +3343,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "TurquoiseDyePlant_A",
@@ -3107,8 +3355,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3122,7 +3370,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "TurquoiseDyePlant_B",
@@ -3132,8 +3382,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3147,7 +3397,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "TurquoiseDyePlant_C",
@@ -3157,8 +3409,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3172,7 +3424,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlueDyePlant_A",
@@ -3182,8 +3436,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3197,7 +3451,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlueDyePlant_B",
@@ -3207,8 +3463,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3222,7 +3478,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlueDyePlant_C",
@@ -3232,8 +3490,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3247,7 +3505,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CyanDyePlant_A",
@@ -3257,8 +3517,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3272,7 +3532,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CyanDyePlant_B",
@@ -3282,8 +3544,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3297,7 +3559,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "CyanDyePlant_C",
@@ -3307,8 +3571,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3322,7 +3586,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "VioletDyePlant_A",
@@ -3332,8 +3598,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3347,7 +3613,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "VioletDyePlant_B",
@@ -3357,8 +3625,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3372,7 +3640,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "VioletDyePlant_C",
@@ -3382,8 +3652,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3397,7 +3667,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "WhiteDyePlant_A",
@@ -3407,8 +3679,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3422,7 +3694,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "WhiteDyePlant_B",
@@ -3432,8 +3706,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3447,7 +3721,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "WhiteDyePlant_C",
@@ -3457,8 +3733,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3472,7 +3748,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BrownDyePlant_A",
@@ -3482,8 +3760,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3497,7 +3775,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BrownDyePlant_B",
@@ -3507,8 +3787,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3522,7 +3802,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BrownDyePlant_C",
@@ -3532,8 +3814,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3547,7 +3829,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlackDyePlant_A",
@@ -3557,8 +3841,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3572,7 +3856,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlackDyePlant_B",
@@ -3582,8 +3868,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3597,7 +3883,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "BlackDyePlant_C",
@@ -3607,8 +3895,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3622,7 +3910,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "MagentaDyePlant_A",
@@ -3632,8 +3922,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3647,7 +3937,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "MagentaDyePlant_B",
@@ -3657,8 +3949,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3672,7 +3964,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "MagentaDyePlant_C",
@@ -3682,8 +3976,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3697,7 +3991,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "DesertRoseDyePlant_A",
@@ -3707,8 +4003,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3722,7 +4018,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "DesertRoseDyePlant_B",
@@ -3732,8 +4030,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3747,7 +4045,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "DesertRoseDyePlant_C",
@@ -3757,8 +4057,8 @@
         "GatheringRadius": 0.5,
         "InteractionRadius": 1.75,
         "DetectableRadius": 2.5,
-        "AudioPreload_Depletion": "",
-        "DepletedSFX": "",
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
         "Collision_Play_SFX": "",
         "Collision_Stop_SFX": "",
         "CollisionFX": "",
@@ -3772,7 +4072,9 @@
         "CompassIcon": "",
         "TradeskillIconUnlockType": "",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "FL_Angry_Earth",
@@ -3797,7 +4099,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Sporeplant_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT4",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "FL_Angry_Earth_Elite",
@@ -3822,7 +4126,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Sporeplant_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT4",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "FL_Ancients",
@@ -3847,7 +4153,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Sporeplant_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT4",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "FL_Beasts",
@@ -3872,7 +4180,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Sporeplant_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT4",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "FL_Beasts_Elite",
@@ -3897,7 +4207,9 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Sporeplant_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT4",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     },
     {
         "VariantID": "FL_Beasts_Elite_Dungeon",
@@ -3922,6 +4234,251 @@
         "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Sporeplant_Compass.png",
         "TradeskillIconUnlockType": "harvestingplantT4",
         "MarkerRadius": 3.25,
-        "AllowGatheringInGameModes": ""
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
+    },
+    {
+        "VariantID": "Cursed10ws_Hemp_a_t4",
+        "StartMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_a.cgf",
+        "StartMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t4_em_mat.mtl",
+        "GatherableEntryID": "Cursed10ws_HempLargeT4",
+        "GatheringRadius": 0,
+        "InteractionRadius": 1.5,
+        "DetectableRadius": 0.75,
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
+        "Collision_Play_SFX": "Play_Foliage_Green_Med",
+        "Collision_Stop_SFX": "Stop_Foliage_Green_Med",
+        "CollisionFX": "Gatherable.Edible_Flora.Loop_Burstberry_Summer_A",
+        "DepletedVFX": "Gatherable.Bush.Demolish.Hemp_Summer_A",
+        "DepletedMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_pick_a.cgf",
+        "DepletedMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t4_em_mat.mtl",
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "AmbientType": "Bush",
+        "ShowOnCompass": 1,
+        "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Silkweed_Compass.png",
+        "TradeskillIconUnlockType": "harvestingplantT4",
+        "MarkerRadius": 3,
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
+    },
+    {
+        "VariantID": "Cursed10ws_Hemp_b_t4",
+        "StartMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_b.cgf",
+        "StartMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t4_em_mat.mtl",
+        "GatherableEntryID": "Cursed10ws_HempMediumT4",
+        "GatheringRadius": 0,
+        "InteractionRadius": 1.5,
+        "DetectableRadius": 0.75,
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
+        "Collision_Play_SFX": "Play_Foliage_Green_Med",
+        "Collision_Stop_SFX": "Stop_Foliage_Green_Med",
+        "CollisionFX": "Gatherable.Edible_Flora.Loop_Burstberry_Summer_A",
+        "DepletedVFX": "Gatherable.Bush.Demolish.Hemp_Summer_B",
+        "DepletedMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_pick_b.cgf",
+        "DepletedMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t4_em_mat.mtl",
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "AmbientType": "Bush",
+        "ShowOnCompass": 1,
+        "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Silkweed_Compass.png",
+        "TradeskillIconUnlockType": "harvestingplantT4",
+        "MarkerRadius": 3,
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
+    },
+    {
+        "VariantID": "Cursed10ws_Hemp_c_t4",
+        "StartMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_c.cgf",
+        "StartMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t4_em_mat.mtl",
+        "GatherableEntryID": "Cursed10ws_HempSmallT4",
+        "GatheringRadius": 0,
+        "InteractionRadius": 1.5,
+        "DetectableRadius": 0.75,
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
+        "Collision_Play_SFX": "Play_Foliage_Green_Med",
+        "Collision_Stop_SFX": "Stop_Foliage_Green_Med",
+        "CollisionFX": "Gatherable.Edible_Flora.Loop_Burstberry_Summer_A",
+        "DepletedVFX": "Gatherable.Bush.Demolish.Hemp_Summer_C",
+        "DepletedMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_pick_c.cgf",
+        "DepletedMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t4_em_mat.mtl",
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "AmbientType": "Bush",
+        "ShowOnCompass": 1,
+        "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Silkweed_Compass.png",
+        "TradeskillIconUnlockType": "harvestingplantT4",
+        "MarkerRadius": 3,
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
+    },
+    {
+        "VariantID": "Cursed10ws_Hemp_a_t5",
+        "StartMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_a.cgf",
+        "StartMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t5_em_mat.mtl",
+        "GatherableEntryID": "Cursed10ws_HempLargeT5",
+        "GatheringRadius": 0,
+        "InteractionRadius": 1.5,
+        "DetectableRadius": 0.75,
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
+        "Collision_Play_SFX": "Play_Foliage_Green_Med",
+        "Collision_Stop_SFX": "Stop_Foliage_Green_Med",
+        "CollisionFX": "Gatherable.Edible_Flora.Loop_Burstberry_Summer_A",
+        "DepletedVFX": "Gatherable.Bush.Demolish.Hemp_Summer_A",
+        "DepletedMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_pick_a.cgf",
+        "DepletedMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t5_em_mat.mtl",
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "AmbientType": "Bush",
+        "ShowOnCompass": 1,
+        "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
+        "TradeskillIconUnlockType": "harvestingplantT5",
+        "MarkerRadius": 3,
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
+    },
+    {
+        "VariantID": "Cursed10ws_Hemp_b_t5",
+        "StartMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_b.cgf",
+        "StartMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t5_em_mat.mtl",
+        "GatherableEntryID": "Cursed10ws_HempMediumT5",
+        "GatheringRadius": 0,
+        "InteractionRadius": 1.5,
+        "DetectableRadius": 0.75,
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
+        "Collision_Play_SFX": "Play_Foliage_Green_Med",
+        "Collision_Stop_SFX": "Stop_Foliage_Green_Med",
+        "CollisionFX": "Gatherable.Edible_Flora.Loop_Burstberry_Summer_A",
+        "DepletedVFX": "Gatherable.Bush.Demolish.Hemp_Summer_B",
+        "DepletedMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_pick_b.cgf",
+        "DepletedMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t5_em_mat.mtl",
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "AmbientType": "Bush",
+        "ShowOnCompass": 1,
+        "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
+        "TradeskillIconUnlockType": "harvestingplantT5",
+        "MarkerRadius": 3,
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
+    },
+    {
+        "VariantID": "Cursed10ws_Hemp_c_t5",
+        "StartMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_c.cgf",
+        "StartMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t5_em_mat.mtl",
+        "GatherableEntryID": "Cursed10ws_HempSmallT5",
+        "GatheringRadius": 0,
+        "InteractionRadius": 1.5,
+        "DetectableRadius": 0.75,
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
+        "Collision_Play_SFX": "Play_Foliage_Green_Med",
+        "Collision_Stop_SFX": "Stop_Foliage_Green_Med",
+        "CollisionFX": "Gatherable.Edible_Flora.Loop_Burstberry_Summer_A",
+        "DepletedVFX": "Gatherable.Bush.Demolish.Hemp_Summer_C",
+        "DepletedMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_pick_c.cgf",
+        "DepletedMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t5_em_mat.mtl",
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "AmbientType": "Bush",
+        "ShowOnCompass": 1,
+        "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
+        "TradeskillIconUnlockType": "harvestingplantT5",
+        "MarkerRadius": 3,
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
+    },
+    {
+        "VariantID": "Cursed10ws_Hemp_a_t52",
+        "StartMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_a.cgf",
+        "StartMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t52_mat.mtl",
+        "GatherableEntryID": "Cursed10ws_HempLargeT52",
+        "GatheringRadius": 0,
+        "InteractionRadius": 1.5,
+        "DetectableRadius": 0.75,
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
+        "Collision_Play_SFX": "Play_Foliage_Green_Med",
+        "Collision_Stop_SFX": "Stop_Foliage_Green_Med",
+        "CollisionFX": "Gatherable.Edible_Flora.Loop_Burstberry_Summer_A",
+        "DepletedVFX": "Gatherable.Bush.Demolish.Hemp_Summer_A",
+        "DepletedMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_pick_a.cgf",
+        "DepletedMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t52_mat.mtl",
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "AmbientType": "Bush",
+        "ShowOnCompass": 1,
+        "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
+        "TradeskillIconUnlockType": "harvestingplantT5",
+        "MarkerRadius": 3,
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
+    },
+    {
+        "VariantID": "Cursed10ws_Hemp_b_t52",
+        "StartMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_b.cgf",
+        "StartMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t52_mat.mtl",
+        "GatherableEntryID": "Cursed10ws_HempMediumT52",
+        "GatheringRadius": 0,
+        "InteractionRadius": 1.5,
+        "DetectableRadius": 0.75,
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
+        "Collision_Play_SFX": "Play_Foliage_Green_Med",
+        "Collision_Stop_SFX": "Stop_Foliage_Green_Med",
+        "CollisionFX": "Gatherable.Edible_Flora.Loop_Burstberry_Summer_A",
+        "DepletedVFX": "Gatherable.Bush.Demolish.Hemp_Summer_B",
+        "DepletedMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_pick_b.cgf",
+        "DepletedMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t52_mat.mtl",
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "AmbientType": "Bush",
+        "ShowOnCompass": 1,
+        "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
+        "TradeskillIconUnlockType": "harvestingplantT5",
+        "MarkerRadius": 3,
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
+    },
+    {
+        "VariantID": "Cursed10ws_Hemp_c_t52",
+        "StartMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_c.cgf",
+        "StartMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t52_mat.mtl",
+        "GatherableEntryID": "Cursed10ws_HempSmallT52",
+        "GatheringRadius": 0,
+        "InteractionRadius": 1.5,
+        "DetectableRadius": 0.75,
+        "AudioPreload_Depletion": "gath_bush_leaves_small",
+        "DepletedSFX": "Play_Gather_Bush_Sml",
+        "Collision_Play_SFX": "Play_Foliage_Green_Med",
+        "Collision_Stop_SFX": "Stop_Foliage_Green_Med",
+        "CollisionFX": "Gatherable.Edible_Flora.Loop_Burstberry_Summer_A",
+        "DepletedVFX": "Gatherable.Bush.Demolish.Hemp_Summer_C",
+        "DepletedMesh": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\jav_rsrc_hemp_pick_c.cgf",
+        "DepletedMat": "Objects\\Nature\\Veg_Bushes\\Bushes_Resources\\Hemp\\JAV_Rsrc_Hemp_a_t52_mat.mtl",
+        "StartMeshLOD": 100,
+        "EndMeshLOD": 100,
+        "AmbientType": "Bush",
+        "ShowOnCompass": 1,
+        "CompassIcon": "LyShineUI\\Images\\Map\\Icon\\Gatherables\\Wirefiber_Compass.png",
+        "TradeskillIconUnlockType": "harvestingplantT5",
+        "MarkerRadius": 3,
+        "AllowGatheringInGameModes": "",
+        "AudioPreload_gathering": "gather_interact_resources",
+        "SFX_Gathering": "Play_Gather_Interact_Plant"
     }
 ]

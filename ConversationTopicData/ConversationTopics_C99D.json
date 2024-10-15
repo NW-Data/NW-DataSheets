@@ -1,0 +1,146 @@
+[
+    {
+        "ConversationTopicId": "99D_MSQ_01_Galahad_Resupply",
+        "PlayerPrompt": "\"I didn't see any sign of them.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_shrugDontcare\" /\u0026gt;Hm, neither did I. I suspect the Corrupted marched the captives off to one\u0026lt;g id=\"male_pointLeft\" /\u0026gt; of their work camps to the north.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_01_Yash_RescueWarden",
+        "PlayerPrompt": "\"I'll handle the hounds.\"",
+        "NPCResponse": "The way is clear? Amazing. I suppose this is why Yonas holds you in such high esteem. Well deserved, it seems.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_01_Judithe_RescueWarden",
+        "PlayerPrompt": "\"Yes, and you should go join him.\"",
+        "NPCResponse": "Those are welcome tidings. I had feared our time as Soulwardens was going to be short-lived. Perhaps we have a chance against the Corrupted, after all.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_01_Pedro_RescueWarden",
+        "PlayerPrompt": "\"Head to the outpost.\"",
+        "NPCResponse": "I guess that's straightforward enough. I tried to run twice before, and they weren't too gentle bringing me back. Here's hoping third time brings me luck!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_03_Yonas_ThorpeNews",
+        "PlayerPrompt": "\"Thorpe? I came here on his ship.\"",
+        "NPCResponse": "\u0026lt;g id=\"yonas_shrug\" /\u0026gt;Ah, a story begins\u0026lt;g id=\"yonas_thinking\" /\u0026gt; to unfold… the fact he is a new leader among the Corrupted… it makes sense.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_03_Yonas_Tempest",
+        "PlayerPrompt": "\"Thorpe mentioned an 'Isabella'?\"",
+        "NPCResponse": "\u0026lt;g id=\"yonas_headtilthmm\" /\u0026gt;Isabella… that name\u0026lt;g id=\"yonas_thinking\" /\u0026gt; has not been spoken in a long time.\u0026lt;g id=\"yonas_lefthand\" /\u0026gt; Perhaps this is the Tempest? How curious that Thorpe knows her given name.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_05_Galahad_westoutpost",
+        "PlayerPrompt": "\"It was a risk, but worth trying.\"",
+        "NPCResponse": "And I have no\u0026lt;g id=\"female_leanpointConvince\" /\u0026gt; intention of backing down on the plan. I obviously did not intend for Yash to be cut off,\u0026lt;g id=\"female_smackfist\" /\u0026gt; but I stand ready to make amends.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_05_Yash_ExchangeInfo",
+        "PlayerPrompt": "\"Good work. Is it well-defended?\"",
+        "NPCResponse": "\u0026lt;g id=\"male_headShakeNo\" /\u0026gt;Not the outpost; but they patrol it from\u0026lt;g id=\"male_pointLeft\" /\u0026gt; the nearby forts. We'll need to put those forts on the defensive.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_07_Ofusa_RescuePortal",
+        "PlayerPrompt": "\"Stay strong. We can do this.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_nodMild\" /\u0026gt;With you here, my hopes are renewed,\u0026lt;g id=\"female_explainS\" /\u0026gt; we can't allow them to take any more captive.\u0026lt;g id=\"female_gesturebothhands\" /\u0026gt; Our strength lies in the trust we have with our team.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_07_Jacquet_RescuePortal",
+        "PlayerPrompt": "\"I get it, but we must fight on.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_shrugDontcare\" /\u0026gt;Yes… yes. You're right, I must stand firm against the fallen,\u0026lt;g id=\"female_gestureRightM\" /\u0026gt; even if they were dear friends.\u0026lt;g id=\"male_nodMild\" /\u0026gt; We must defeat them to protect those of us who remain.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_07_Yash_Portal",
+        "PlayerPrompt": "\"There must be a way to close it.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_gestureRightM\" /\u0026gt;Perhaps… on the other side, but… I mean, I consider myself brave, but that\u0026lt;g id=\"male_dontknow\" /\u0026gt; would seem to be venturing into the literal gates of hell.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_09_Grace_Supplies",
+        "PlayerPrompt": "\"We need to get Yonas healed.\"",
+        "NPCResponse": "Indeed, lucky\u0026lt;g id=\"grace_laughcocky\" /\u0026gt; you had a smuggler like your friend Grace running supplies. Those supply lines were about as safe as a den of vipers!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_09_Yonas_Medicine",
+        "PlayerPrompt": "\"You did, and you delivered.\"",
+        "NPCResponse": "\u0026lt;g id=\"g_male_headtilthmm\" /\u0026gt;We did, didn't we…? Alright then,\u0026lt;g id=\"g_female_shrugnothingicando\" /\u0026gt; you all can stop hovering over me with bandages and potions. I don't need them.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_09_Yash_Medicine",
+        "PlayerPrompt": "\"He won't take it.\"",
+        "NPCResponse": "Bah, give\u0026lt;g id=\"female_takeitem\" /\u0026gt; it to me!\u0026lt;g id=\"male_headShakeNo\" /\u0026gt; I'll get the old man to listen to reason,\u0026lt;g id=\"male_convince02\" /\u0026gt; and if not, I'll pour it down his throat when he's sleeping.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_10_Galahad_DefendCaerDun",
+        "PlayerPrompt": "\"I heard Morgaine was here.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_nodMild\" /\u0026gt;She was. The\u0026lt;g id=\"male_sighAcceptnews\" /\u0026gt; sorceress wasted not a moment before arguing with Sun about the Angry Earth.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99D_MSQ_10_Yonas_CaerDun",
+        "PlayerPrompt": "\"Why are you here?\"",
+        "NPCResponse": "Because you're\u0026lt;g id=\"yonas_gestureForward\" /\u0026gt; needed back at Eastmarch. Herbalist Sun Fuchun awaits you there, and she's distraught.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

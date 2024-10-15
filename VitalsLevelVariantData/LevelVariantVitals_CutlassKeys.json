@@ -1,0 +1,2858 @@
+[
+    {
+        "VitalsID": "CK_Alligator_Black",
+        "DisplayName": "Streaked Alligator",
+        "Level": 65,
+        "BaseVitalsId": "CK_Alligator_Black"
+    },
+    {
+        "VitalsID": "CK_Alligator_Young",
+        "DisplayName": "Streaked Hatchling",
+        "Level": 65,
+        "BaseVitalsId": "CK_Alligator_Young"
+    },
+    {
+        "VitalsID": "CK_Alligator_Strange",
+        "DisplayName": "Streaked Alligator",
+        "Level": 65,
+        "BaseVitalsId": "CK_Alligator_Strange"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Javelineer",
+        "DisplayName": "Ancient Javelineer",
+        "Level": 65,
+        "BaseVitalsId": "CK_AncientGuardian_Javelineer"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Mage",
+        "DisplayName": "Ancient Mage",
+        "Level": 65,
+        "BaseVitalsId": "CK_AncientGuardian_Mage"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Mage_ELITE",
+        "DisplayName": "Ancient Mage",
+        "Level": 67,
+        "BaseVitalsId": "CK_AncientGuardian_Mage_ELITE"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Mage_Minion",
+        "DisplayName": "Ancient Minion",
+        "Level": 65,
+        "BaseVitalsId": "CK_AncientGuardian_Mage_Minion"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Mage_Minion_67_ELITE",
+        "DisplayName": "Ancient Minion",
+        "Level": 67,
+        "BaseVitalsId": "CK_AncientGuardian_Mage_Minion_67_ELITE"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Reaver",
+        "DisplayName": "Ancient Reaver",
+        "Level": 65,
+        "BaseVitalsId": "CK_AncientGuardian_Reaver"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Spearman",
+        "DisplayName": "Ancient Spearman",
+        "Level": 65,
+        "BaseVitalsId": "CK_AncientGuardian_Spearman"
+    },
+    {
+        "VitalsID": "CK_Bear_Black",
+        "DisplayName": "Black Bear",
+        "Level": 65,
+        "BaseVitalsId": "CK_Bear_Black"
+    },
+    {
+        "VitalsID": "CK_Bear_Grizzly",
+        "DisplayName": "Grizzly Bear",
+        "Level": 65,
+        "BaseVitalsId": "CK_Bear_Grizzly"
+    },
+    {
+        "VitalsID": "CK_Boar",
+        "DisplayName": "Striped Boar",
+        "Level": 65,
+        "BaseVitalsId": "CK_Boar"
+    },
+    {
+        "VitalsID": "CK_Bobcat",
+        "DisplayName": "Island Bobcat",
+        "Level": 65,
+        "BaseVitalsId": "CK_Bobcat"
+    },
+    {
+        "VitalsID": "CK_Bobcat_10ws02",
+        "DisplayName": "Island Bobcat",
+        "Level": 67,
+        "BaseVitalsId": "CK_Bobcat_10ws02"
+    },
+    {
+        "VitalsID": "CK_Bobcat_10ws07",
+        "DisplayName": "Island Bobcat",
+        "Level": 65,
+        "BaseVitalsId": "CK_Bobcat_10ws07"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Club",
+        "DisplayName": "Drowned Mariner",
+        "Level": 65,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Club"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword",
+        "DisplayName": "Drowned Sailor",
+        "Level": 65,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword_Shield",
+        "DisplayName": "Drowned Quartermaster",
+        "Level": 65,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword_Shield"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_2H_Axe",
+        "DisplayName": "Drowned Chopper",
+        "Level": 65,
+        "BaseVitalsId": "CK_Drowned_Sailor_2H_Axe"
+    },
+    {
+        "VitalsID": "CK_Ghost_Charred",
+        "DisplayName": "Charred Ghost",
+        "Level": 65,
+        "BaseVitalsId": "CK_Ghost_Charred"
+    },
+    {
+        "VitalsID": "CK_Ghost_Frozen",
+        "DisplayName": "Frozen Ghost",
+        "Level": 65,
+        "BaseVitalsId": "CK_Ghost_Frozen"
+    },
+    {
+        "VitalsID": "CK_Ghost_Plagued",
+        "DisplayName": "Plagued Ghost",
+        "Level": 65,
+        "BaseVitalsId": "CK_Ghost_Plagued"
+    },
+    {
+        "VitalsID": "CK_Ghost_Plagued_Q4_WaveEvent",
+        "DisplayName": "Treasure Wraith",
+        "Level": 65,
+        "BaseVitalsId": "CK_Ghost_Plagued_Q4_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Ghost_Shackled",
+        "DisplayName": "Shackled Ghost",
+        "Level": 65,
+        "BaseVitalsId": "CK_Ghost_Shackled"
+    },
+    {
+        "VitalsID": "CK_Ghost_Shackled_Q4_WaveEvent",
+        "DisplayName": "Treasure Wraith",
+        "Level": 65,
+        "BaseVitalsId": "CK_Ghost_Shackled_Q4_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Ghost_Shipwrecked",
+        "DisplayName": "Shipwrecked Ghost",
+        "Level": 65,
+        "BaseVitalsId": "CK_Ghost_Shipwrecked"
+    },
+    {
+        "VitalsID": "CK_Ghost_Shipwrecked_Q4_WaveEvent",
+        "DisplayName": "Treasure Wraith",
+        "Level": 65,
+        "BaseVitalsId": "CK_Ghost_Shipwrecked_Q4_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Ghost_Starved",
+        "DisplayName": "Starved Ghost",
+        "Level": 65,
+        "BaseVitalsId": "CK_Ghost_Starved"
+    },
+    {
+        "VitalsID": "CK_Ghost_Starved_Q4_WaveEvent",
+        "DisplayName": "Treasure Wraith",
+        "Level": 65,
+        "BaseVitalsId": "CK_Ghost_Starved_Q4_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Mountain_Lion",
+        "DisplayName": "Island Puma",
+        "Level": 65,
+        "BaseVitalsId": "CK_Mountain_Lion"
+    },
+    {
+        "VitalsID": "CK_Pig",
+        "DisplayName": "Jungle Pig",
+        "Level": 65,
+        "BaseVitalsId": "CK_Pig"
+    },
+    {
+        "VitalsID": "CK_Turkey",
+        "DisplayName": "Island Turkey",
+        "Level": 65,
+        "BaseVitalsId": "CK_Turkey"
+    },
+    {
+        "VitalsID": "CK_Boar_Strange",
+        "DisplayName": "Spotted Boar",
+        "Level": 65,
+        "BaseVitalsId": "CK_Boar_Strange"
+    },
+    {
+        "VitalsID": "CK_Skeleton_1H_Sword",
+        "DisplayName": "Skeleton Swordsman",
+        "Level": 65,
+        "BaseVitalsId": "CK_Skeleton_1H_Sword"
+    },
+    {
+        "VitalsID": "CK_Skeleton_Archer",
+        "DisplayName": "Skeleton Archer",
+        "Level": 65,
+        "BaseVitalsId": "CK_Skeleton_Archer"
+    },
+    {
+        "VitalsID": "CK_Skeleton_Club",
+        "DisplayName": "Skeleton Clubber",
+        "Level": 65,
+        "BaseVitalsId": "CK_Skeleton_Club"
+    },
+    {
+        "VitalsID": "CK_Skeleton_Crawler",
+        "DisplayName": "Skeleton Crawler",
+        "Level": 65,
+        "BaseVitalsId": "CK_Skeleton_Crawler"
+    },
+    {
+        "VitalsID": "CK_Skeleton_Spear",
+        "DisplayName": "Skeleton Spearman",
+        "Level": 65,
+        "BaseVitalsId": "CK_Skeleton_Spear"
+    },
+    {
+        "VitalsID": "CK_Undead_Berserker",
+        "DisplayName": "Undead Berserker",
+        "Level": 65,
+        "BaseVitalsId": "CK_Undead_Berserker"
+    },
+    {
+        "VitalsID": "CK_Undead_Berserker_Q1_WaveEvent",
+        "DisplayName": "Undead Berserker",
+        "Level": 65,
+        "BaseVitalsId": "CK_Undead_Berserker_Q1_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier",
+        "DisplayName": "Undead Grenadier",
+        "Level": 65,
+        "BaseVitalsId": "CK_Undead_Grenadier"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_Molotov",
+        "DisplayName": "Undead Molotov",
+        "Level": 65,
+        "BaseVitalsId": "CK_Undead_Grenadier_Molotov"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_Q1_WaveEvent",
+        "DisplayName": "Undead Grenadier",
+        "Level": 65,
+        "BaseVitalsId": "CK_Undead_Grenadier_Q1_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Undead_Javelineer",
+        "DisplayName": "Undead Javelineer",
+        "Level": 65,
+        "BaseVitalsId": "CK_Undead_Javelineer"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator",
+        "DisplayName": "Undead Navigator",
+        "Level": 65,
+        "BaseVitalsId": "CK_Undead_Navigator"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute",
+        "DisplayName": "Pirate Brute",
+        "Level": 65,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer",
+        "DisplayName": "Undead Officer",
+        "Level": 65,
+        "BaseVitalsId": "CK_Undead_Officer"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer",
+        "DisplayName": "Undead Pistoleer",
+        "Level": 62,
+        "BaseVitalsId": "CK_Undead_Pistoleer"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_Q1_WaveEvent",
+        "DisplayName": "Undead Pistoleer",
+        "Level": 65,
+        "BaseVitalsId": "CK_Undead_Pistoleer_Q1_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe",
+        "DisplayName": "Sable Beheader",
+        "Level": 65,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss",
+        "DisplayName": "Sable Blunderbuss",
+        "Level": 65,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS03f",
+        "DisplayName": "Diamond Blunderbuss",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS03f"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS03c",
+        "DisplayName": "Sable Blunderbuss",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword",
+        "DisplayName": "Sable Corsair",
+        "Level": 65,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear",
+        "DisplayName": "Sable Spearman",
+        "Level": 65,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_Fire",
+        "DisplayName": "Spectral Flame",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_Fire"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_Fire_Q4_WaveEvent",
+        "DisplayName": "Spectral Flame",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_Fire_Q4_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_Ice",
+        "DisplayName": "Spectral Frost",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_Ice"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_Ice_Q4_WaveEvent",
+        "DisplayName": "Spectral Frost",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_Ice_Q4_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_Q4_WaveEvent",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_Q4_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe",
+        "DisplayName": "Spectral Executioner",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_Q4_WaveEvent",
+        "DisplayName": "Spectral Executioner",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_Q4_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss",
+        "DisplayName": "Spectral Scattershot",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_Q4_WaveEvent",
+        "DisplayName": "Spectral Scattershot",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_Q4_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear",
+        "DisplayName": "Spectral Harpooner",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_Q4_WaveEvent",
+        "DisplayName": "Spectral Harpooner",
+        "Level": 65,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_Q4_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_1hSword",
+        "DisplayName": "Goldcursed Cutlass",
+        "Level": 65,
+        "BaseVitalsId": "CK_Goldcursed_1hSword"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer",
+        "DisplayName": "Goldcursed Crusher",
+        "Level": 65,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear",
+        "DisplayName": "Goldcursed Polearm",
+        "Level": 65,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hBlunderbuss",
+        "DisplayName": "Goldcursed Cannoneer",
+        "Level": 65,
+        "BaseVitalsId": "CK_Goldcursed_2hBlunderbuss"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS03a",
+        "DisplayName": "Goldcursed Polearm",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS03a"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_10WS03a",
+        "DisplayName": "Goldcursed Crusher",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_10WS03a"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_1hSword_10WS03a",
+        "DisplayName": "Goldcursed Cutlass",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_1hSword_10WS03a"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hBlunderbuss_10WS03a",
+        "DisplayName": "Goldcursed Cannoneer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_2hBlunderbuss_10WS03a"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS03a_Named",
+        "DisplayName": "Dyed Hugh",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS03a_Named"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS03a",
+        "DisplayName": "Sable Beheader",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS03a"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS03f_Named",
+        "DisplayName": "Shameful Phil",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS03f_Named"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS03a",
+        "DisplayName": "Sable Corsair",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS03a"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_10WS03a_Named",
+        "DisplayName": "Adam Avarice",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_10WS03a_Named"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS03a_Named",
+        "DisplayName": "Admiral Envy",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS03a_Named"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_10WS03a_Named",
+        "DisplayName": "Isaac's Ire",
+        "Level": 67,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_10WS03a_Named"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_10WS03a",
+        "DisplayName": "Spectral Executioner",
+        "Level": 66,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_10WS03a"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_10WS03a",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_10WS03a"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS03a",
+        "DisplayName": "Nightraider Navigator",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS03a"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS03a_Named",
+        "DisplayName": "TBD Navigator",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS03a_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS03a1_Named",
+        "DisplayName": "Seadog Sally",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS03a1_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS03a2_Named",
+        "DisplayName": "Sharp Peg-Leg Peggy",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS03a2_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS03a",
+        "DisplayName": "Nightraider Pistoleer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS03a"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS03a",
+        "DisplayName": "Nightraider Officer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Officer_10WS03a"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS03",
+        "DisplayName": "Pirate Brute",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS03"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS03_Named",
+        "DisplayName": "Nogul",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS03_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS03c1_Named",
+        "DisplayName": "Ogul",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS03c1_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS03c2_Named",
+        "DisplayName": "Dugul",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS03c2_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS03c3_Named",
+        "DisplayName": "Trigul",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS03c3_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Bloated_Corpse_10WS03",
+        "DisplayName": "Undead Anarchist",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Bloated_Corpse_10WS03"
+    },
+    {
+        "VitalsID": "CK_Alligator_Young_10WS03",
+        "DisplayName": "Streaked Hatchling",
+        "Level": 66,
+        "BaseVitalsId": "CK_Alligator_Young_10WS03"
+    },
+    {
+        "VitalsID": "CK_Undead_Bloated_Corpse_10WS03b",
+        "DisplayName": "Nightraider Anarchist",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Bloated_Corpse_10WS03b"
+    },
+    {
+        "VitalsID": "CK_Undead_Bloated_Corpse_10WS03c",
+        "DisplayName": "Nightraider Anarchist",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Bloated_Corpse_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Undead_Bloated_Corpse_10WS03d",
+        "DisplayName": "Rothoard Anarchist",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Bloated_Corpse_10WS03d"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS03b",
+        "DisplayName": "Goldcursed Polearm",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS03b"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS03b1_Named",
+        "DisplayName": "Sarita Shore",
+        "Level": 67,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS03b1_Named"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS03b2_Named",
+        "DisplayName": "Lady Gloria",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS03b2_Named"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_10WS03b",
+        "DisplayName": "Goldcursed Crusher",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_10WS03b"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_1hSword_10WS03b",
+        "DisplayName": "Goldcursed Cutlass",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_1hSword_10WS03b"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hBlunderbuss_10WS03b",
+        "DisplayName": "Goldcursed Cannoneer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_2hBlunderbuss_10WS03b"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS03b",
+        "DisplayName": "Sable Beheader",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS03b"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS03c",
+        "DisplayName": "Sable Beheader",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS03c1_Named",
+        "DisplayName": "Murky Mel",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS03c1_Named"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS03c2_Named",
+        "DisplayName": "Obscure Obi",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS03c2_Named"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS03b",
+        "DisplayName": "Sable Corsair",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS03b"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS03c",
+        "DisplayName": "Sable Corsair",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS03f",
+        "DisplayName": "Diamond Corsair",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS03f"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS03b",
+        "DisplayName": "Sable Spearman",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS03b"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS03b",
+        "DisplayName": "Nightraider Officer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Officer_10WS03b"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS03b_Named",
+        "DisplayName": "Schwinn Creek",
+        "Level": 67,
+        "BaseVitalsId": "CK_Undead_Officer_10WS03b_Named"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_10WS03b_Named",
+        "DisplayName": "TBD Crusher",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_10WS03b_Named"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS03b_Named",
+        "DisplayName": "TBD Beheader",
+        "Level": 66,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS03b_Named"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS03b_Named",
+        "DisplayName": "Kura Azur",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS03b_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS03b_Named",
+        "DisplayName": "Jill McStabby",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS03b_Named"
+    },
+    {
+        "VitalsID": "CK_Drowned_Miner_10WS03b_Named",
+        "DisplayName": "Wendy Wedge",
+        "Level": 67,
+        "BaseVitalsId": "CK_Drowned_Miner_10WS03b_Named"
+    },
+    {
+        "VitalsID": "CK_Drowned_Miner_10WS03f",
+        "DisplayName": "Diamond Grenadier",
+        "Level": 66,
+        "BaseVitalsId": "CK_Drowned_Miner_10WS03f"
+    },
+    {
+        "VitalsID": "CK_Drowned_Miner_10WS03",
+        "DisplayName": "Drowned Grenadier",
+        "Level": 66,
+        "BaseVitalsId": "CK_Drowned_Miner_10WS03"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS03b",
+        "DisplayName": "Nightraider Pistoleer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS03b"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS03c",
+        "DisplayName": "Nightraider Pistoleer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS03f",
+        "DisplayName": "Diamond Pistoleer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS03f"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword_10WS03",
+        "DisplayName": "Roaming Sailor",
+        "Level": 65,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword_10WS03"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword_10WS03b",
+        "DisplayName": "Nightraider Sailor",
+        "Level": 66,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword_10WS03b"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS03c",
+        "DisplayName": "Goldcursed Polearm",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS03c_Named",
+        "DisplayName": "Commander Midas",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS03c_Named"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_10WS03c",
+        "DisplayName": "Goldcursed Crusher",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_1hSword_10WS03c",
+        "DisplayName": "Goldcursed Cutlass",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_1hSword_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hBlunderbuss_10WS03c",
+        "DisplayName": "Goldcursed Cannoneer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Goldcursed_2hBlunderbuss_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS03c",
+        "DisplayName": "Nightraider Brute",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS03c",
+        "DisplayName": "Nightraider Navigator",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS03f",
+        "DisplayName": "Diamond Navigator",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS03f"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS03c",
+        "DisplayName": "Nightraider Officer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Officer_10WS03c"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS03f",
+        "DisplayName": "Diamond Officer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Officer_10WS03f"
+    },
+    {
+        "VitalsID": "CK_Drowned_Miner_10WS03d",
+        "DisplayName": "Rothoard Miner",
+        "Level": 66,
+        "BaseVitalsId": "CK_Drowned_Miner_10WS03d"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS03c_Named",
+        "DisplayName": "Crag Spirena",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS03c_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS03d1_Named",
+        "DisplayName": "Gina Geode",
+        "Level": 67,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS03d1_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS03d2_Named",
+        "DisplayName": "The Excavator",
+        "Level": 67,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS03d2_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS03d",
+        "DisplayName": "Rothoard Officer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Undead_Officer_10WS03d"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS03c_Named",
+        "DisplayName": "Clarence Cloggins",
+        "Level": 67,
+        "BaseVitalsId": "CK_Undead_Officer_10WS03c_Named"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS03d_Named",
+        "DisplayName": "Cole Cruncher",
+        "Level": 67,
+        "BaseVitalsId": "CK_Undead_Officer_10WS03d_Named"
+    },
+    {
+        "VitalsID": "CK_Alligator_Young_10WS03d",
+        "DisplayName": "Little Assistant",
+        "Level": 66,
+        "BaseVitalsId": "CK_Alligator_Young_10WS03d"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_10WS03e",
+        "DisplayName": "Spectral Executioner",
+        "Level": 66,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_10WS03e"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_10WS03e",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 66,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_10WS03e"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_10WS03e1_Named",
+        "DisplayName": "Davey's Delusion",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_10WS03e1_Named"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_10WS03e2_Named",
+        "DisplayName": "Randy's Revenge",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_10WS03e2_Named"
+    },
+    {
+        "VitalsID": "CK_Drowned_Miner_10WS03e",
+        "DisplayName": "Castaway Grenadier",
+        "Level": 66,
+        "BaseVitalsId": "CK_Drowned_Miner_10WS03e"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS06",
+        "DisplayName": "Barnacle Brute",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS06"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS06",
+        "DisplayName": "Barnacle Navigator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS06"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS06",
+        "DisplayName": "Barnacle Officer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Officer_10WS06"
+    },
+    {
+        "VitalsID": "CK_Drowned_Miner_10WS06",
+        "DisplayName": "Barnacle Grenadier",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Miner_10WS06"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS06b",
+        "DisplayName": "Black Flag Brute",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS06b"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS06b",
+        "DisplayName": "Black Flag Navigator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS06b"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS06b",
+        "DisplayName": "Black Flag Officer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Officer_10WS06b"
+    },
+    {
+        "VitalsID": "CK_Drowned_Miner_10WS06b",
+        "DisplayName": "Black Flag Grenadier",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Miner_10WS06b"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_10WS06",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_10WS06"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_10WS06",
+        "DisplayName": "Spectral Executioner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_10WS06"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_10WS06",
+        "DisplayName": "Spectral Scattershot",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_10WS06"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_10WS06",
+        "DisplayName": "Spectral Harpooner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_10WS06"
+    },
+    {
+        "VitalsID": "CK_Undead_Bloated_Corpse_10WS06",
+        "DisplayName": "Barnacle Anarchist",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Bloated_Corpse_10WS06"
+    },
+    {
+        "VitalsID": "CK_Alligator_Black_10WS04",
+        "DisplayName": "Rubble Crocodile",
+        "Level": 68,
+        "BaseVitalsId": "CK_Alligator_Black_10WS04"
+    },
+    {
+        "VitalsID": "CK_Alligator_Young_10WS04",
+        "DisplayName": "Nest Crocodile",
+        "Level": 68,
+        "BaseVitalsId": "CK_Alligator_Young_10WS04"
+    },
+    {
+        "VitalsID": "CK_Alligator_Young_10WS08",
+        "DisplayName": "Pet Alligator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Alligator_Young_10WS08"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword_10WS04_Sable",
+        "DisplayName": "Sable Sailor",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword_Shield_10WS04_Sable",
+        "DisplayName": "Sable Quartermaster",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword_Shield_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_2H_Axe_10WS04_Sable",
+        "DisplayName": "Sable Deckhand",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_2H_Axe_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Undead_Berserker_10WS04_Sable",
+        "DisplayName": "Sable Berserker",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Berserker_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_10WS04_Sable",
+        "DisplayName": "Sable Grenadier",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Grenadier_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS04_Sable",
+        "DisplayName": "Sable Navigator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS04_Sable",
+        "DisplayName": "Sable Brute",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS04_Sable",
+        "DisplayName": "Sable Pistoleer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS04_Sable",
+        "DisplayName": "Sable Beheader",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS04_Sable",
+        "DisplayName": "Sable Blunderbuss",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS04_Sable",
+        "DisplayName": "Sable Corsair",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS04_Sable",
+        "DisplayName": "Sable Spearman",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Skeleton_1H_Sword_10WS04_Gold",
+        "DisplayName": "Goldcursed Sailor",
+        "Level": 68,
+        "BaseVitalsId": "CK_Skeleton_1H_Sword_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Skeleton_Archer_10WS04_Gold",
+        "DisplayName": "Goldcursed Lookout",
+        "Level": 68,
+        "BaseVitalsId": "CK_Skeleton_Archer_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Skeleton_Spear_10WS04_Gold",
+        "DisplayName": "Goldcursed Midshipman",
+        "Level": 68,
+        "BaseVitalsId": "CK_Skeleton_Spear_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_1hSword_10WS04_Gold",
+        "DisplayName": "Goldcursed Cutlass",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_1hSword_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_10WS04_Gold",
+        "DisplayName": "Goldcursed Adjudicator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_Named_10WS04_Gold",
+        "DisplayName": "Crown Adjudicator Woods",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_Named_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS04_Gold",
+        "DisplayName": "Goldcursed Commandant",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_Named_10WS04_Gold",
+        "DisplayName": "Great Commandant Pierre",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_Named_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hBlunderbuss_10WS04_Gold",
+        "DisplayName": "Goldcursed Legislator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hBlunderbuss_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hBlunderbuss_NamedA_10WS04_Gold",
+        "DisplayName": "High Legislator Concorde",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hBlunderbuss_NamedA_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hBlunderbuss_NamedB_10WS04_Gold",
+        "DisplayName": "Artillery Master Teach",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hBlunderbuss_NamedB_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Mage_Named_10WS04_Gold",
+        "DisplayName": "Gold Comptroller Sam",
+        "Level": 68,
+        "BaseVitalsId": "CK_AncientGuardian_Mage_Named_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_Undead_Pirate_Brute_10WS04_Gold",
+        "DisplayName": "Goldcursed Brute",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_Undead_Pirate_Brute_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_Undead_Pirate_Brute_Named_10WS04_Gold",
+        "DisplayName": "Wharfie Willie",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_Undead_Pirate_Brute_Named_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_Named_10WS04_Sable",
+        "DisplayName": "Stede's Revenge",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_Named_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_Named_10WS04_Sable",
+        "DisplayName": "Admiral Martel",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_Named_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_Named_10WS04_Sable",
+        "DisplayName": "Capitaine Jean",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_Named_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_Named_10WS04_Sable",
+        "DisplayName": "Jambe de Bois",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_Named_10WS04_Sable"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS02_Pirates_Stand",
+        "DisplayName": "Stand Beheader",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS02_Pirates_Stand"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS02_Pirates_Stand",
+        "DisplayName": "Stand Blunderbuss",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS02_Pirates_Stand"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS02_Pirates_Stand",
+        "DisplayName": "Stand Corsair",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS02_Pirates_Stand"
+    },
+    {
+        "VitalsID": "CK_Skeleton_2H_Sword_10WS04_Gold",
+        "DisplayName": "Goldcursed Officer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Skeleton_2H_Sword_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Javelineer_10WS04_Steps",
+        "DisplayName": "Displaced Javlineer",
+        "Level": 66,
+        "BaseVitalsId": "CK_AncientGuardian_Javelineer_10WS04_Steps"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Mage_10WS04_Steps",
+        "DisplayName": "Displaced Sorceress",
+        "Level": 66,
+        "BaseVitalsId": "CK_AncientGuardian_Mage_10WS04_Steps"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Mage_Minion_10WS04_Steps",
+        "DisplayName": "Displaced Minion",
+        "Level": 66,
+        "BaseVitalsId": "CK_AncientGuardian_Mage_Minion_10WS04_Steps"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Reaver_10WS04_Steps",
+        "DisplayName": "Displaced Reaver",
+        "Level": 66,
+        "BaseVitalsId": "CK_AncientGuardian_Reaver_10WS04_Steps"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Spearman_10WS04_Steps",
+        "DisplayName": "Displaced Taskmaster",
+        "Level": 66,
+        "BaseVitalsId": "CK_AncientGuardian_Spearman_10WS04_Steps"
+    },
+    {
+        "VitalsID": "CK_Ancient_Amalgam_10WS04_Steps",
+        "DisplayName": "Displaced Amalgam",
+        "Level": 66,
+        "BaseVitalsId": "CK_Ancient_Amalgam_10WS04_Steps"
+    },
+    {
+        "VitalsID": "CK_Ancient_Amalgam_Named_10WS04_Steps",
+        "DisplayName": "Displaced Champion",
+        "Level": 66,
+        "BaseVitalsId": "CK_Ancient_Amalgam_Named_10WS04_Steps"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Mage_Named_10WS04_Steps",
+        "DisplayName": "Zattu",
+        "Level": 66,
+        "BaseVitalsId": "CK_AncientGuardian_Mage_Named_10WS04_Steps"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Spearman_Named_10WS04_Steps",
+        "DisplayName": "Sulking Lurker",
+        "Level": 66,
+        "BaseVitalsId": "CK_AncientGuardian_Spearman_Named_10WS04_Steps"
+    },
+    {
+        "VitalsID": "CK_Skeleton_1H_Sword_10WS02_Sable_Prison",
+        "DisplayName": "Ancient Swordsman",
+        "Level": 67,
+        "BaseVitalsId": "CK_Skeleton_1H_Sword_10WS02_Sable_Prison"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS02_Sable_Prison",
+        "DisplayName": "Prison Beheader",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS02_Sable_Prison"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS02_Sable_Prison",
+        "DisplayName": "Prison Blunderbuss",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS02_Sable_Prison"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS02_Sable_Prison",
+        "DisplayName": "Prison Corsair",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS02_Sable_Prison"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS02_Sable_Prison",
+        "DisplayName": "Prison Spearman",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS02_Sable_Prison"
+    },
+    {
+        "VitalsID": "CK_Lost_2H_PickAxe_10WS02_Highpass",
+        "DisplayName": "Highpass Miner",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_2H_PickAxe_10WS02_Highpass"
+    },
+    {
+        "VitalsID": "CK_Lost_Corpse_10WS02_Highpass",
+        "DisplayName": "Highpass Corpse",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_Corpse_10WS02_Highpass"
+    },
+    {
+        "VitalsID": "CK_Lost_1H_Sword_10WS02_Highpass",
+        "DisplayName": "Highpass Sailor",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_1H_Sword_10WS02_Highpass"
+    },
+    {
+        "VitalsID": "CK_Lost_1H_Grenadier_10WS02_Highpass",
+        "DisplayName": "Highpass Grenadier",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_1H_Grenadier_10WS02_Highpass"
+    },
+    {
+        "VitalsID": "CK_Lost_2H_Pistols_10WS02_Highpass",
+        "DisplayName": "Highpass Pistoleer",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_2H_Pistols_10WS02_Highpass"
+    },
+    {
+        "VitalsID": "CK_Lost_Berserker_10WS02_Highpass",
+        "DisplayName": "Highpass Berserker",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_Berserker_10WS02_Highpass"
+    },
+    {
+        "VitalsID": "CK_Lost_Berserker_10WS02_Highpass_Named",
+        "DisplayName": "Captain Le Clerc",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_Berserker_10WS02_Highpass_Named"
+    },
+    {
+        "VitalsID": "CK_Lost_2H_PickAxe_10WS06",
+        "DisplayName": "Barnacle Axeman",
+        "Level": 68,
+        "BaseVitalsId": "CK_Lost_2H_PickAxe_10WS06"
+    },
+    {
+        "VitalsID": "CK_Lost_Corpse_10WS06",
+        "DisplayName": "Barnacle Corpse",
+        "Level": 68,
+        "BaseVitalsId": "CK_Lost_Corpse_10WS06"
+    },
+    {
+        "VitalsID": "CK_Lost_1H_Sword_10WS06",
+        "DisplayName": "Barnacle Sailor",
+        "Level": 68,
+        "BaseVitalsId": "CK_Lost_1H_Sword_10WS06"
+    },
+    {
+        "VitalsID": "CK_Lost_1H_Grenadier_10WS06",
+        "DisplayName": "Barnacle Grenadier",
+        "Level": 68,
+        "BaseVitalsId": "CK_Lost_1H_Grenadier_10WS06"
+    },
+    {
+        "VitalsID": "CK_Lost_2H_Pistols_10WS06",
+        "DisplayName": "Barnacle Pistoleer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Lost_2H_Pistols_10WS06"
+    },
+    {
+        "VitalsID": "CK_Lost_Berserker_10WS06",
+        "DisplayName": "Barnacle Berserker",
+        "Level": 68,
+        "BaseVitalsId": "CK_Lost_Berserker_10WS06"
+    },
+    {
+        "VitalsID": "CK_Lost_Berserker_Named_10WS06",
+        "DisplayName": "Captain Obsidian Zorn",
+        "Level": 68,
+        "BaseVitalsId": "CK_Lost_Berserker_Named_10WS06"
+    },
+    {
+        "VitalsID": "CK_Alligator_Black_10WS07",
+        "DisplayName": "Coast Alligator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Alligator_Black_10WS07"
+    },
+    {
+        "VitalsID": "CK_Alligator_Black_10WS08",
+        "DisplayName": "Wild Crocodile",
+        "Level": 68,
+        "BaseVitalsId": "CK_Alligator_Black_10WS08"
+    },
+    {
+        "VitalsID": "CK_Alligator_Black_Named_10WS08_Fort",
+        "DisplayName": "First Mate Scales",
+        "Level": 68,
+        "BaseVitalsId": "CK_Alligator_Black_Named_10WS08_Fort"
+    },
+    {
+        "VitalsID": "CK_Alligator_Black_10WS09_ELITE",
+        "DisplayName": "Streaked Alligator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Alligator_Black_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Boar_10WS07",
+        "DisplayName": "Island Boar",
+        "Level": 68,
+        "BaseVitalsId": "CK_Boar_10WS07"
+    },
+    {
+        "VitalsID": "CK_Boar_10WS08",
+        "DisplayName": "Wild Boar",
+        "Level": 68,
+        "BaseVitalsId": "CK_Boar_10WS08"
+    },
+    {
+        "VitalsID": "CK_Boar_Named_10WS08_Isle",
+        "DisplayName": "Quartermaster Pigsworth",
+        "Level": 68,
+        "BaseVitalsId": "CK_Boar_Named_10WS08_Isle"
+    },
+    {
+        "VitalsID": "CK_Boar_10WS09",
+        "DisplayName": "de la Muerte Boar",
+        "Level": 68,
+        "BaseVitalsId": "CK_Boar_10WS09"
+    },
+    {
+        "VitalsID": "CK_Drowned_Miner_10WS08_Black",
+        "DisplayName": "Scum Grenadier",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Miner_10WS08_Black"
+    },
+    {
+        "VitalsID": "CK_Drowned_Miner_10WS08_Gold",
+        "DisplayName": "Fishbone Grenadier",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Miner_10WS08_Gold"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Club_10WS08_Black",
+        "DisplayName": "Scum Mariner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Club_10WS08_Black"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Club_10WS08_Gold",
+        "DisplayName": "Fishbone Mariner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Club_10WS08_Gold"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword_10WS08_Black",
+        "DisplayName": "Scum Sailor",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword_10WS08_Black"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword_10WS08_Gold",
+        "DisplayName": "Fishbone Sailor",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword_10WS08_Gold"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword_Shield_10WS08_Black",
+        "DisplayName": "Scum Quartermaster",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword_Shield_10WS08_Black"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword_Shield_10WS08_Gold",
+        "DisplayName": "Fishbone Quartermaster",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword_Shield_10WS08_Gold"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_2H_Axe_10WS08_Black",
+        "DisplayName": "Scum Deckhand",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_2H_Axe_10WS08_Black"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_2H_Axe_10WS08_Gold",
+        "DisplayName": "Fishbone Deckhand",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_2H_Axe_10WS08_Gold"
+    },
+    {
+        "VitalsID": "CK_Ghost_Plagued_10WS09_Elite",
+        "DisplayName": "Fortune Plagued",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Plagued_10WS09_Elite"
+    },
+    {
+        "VitalsID": "CK_Ghost_Shackled_10WS07",
+        "DisplayName": "Shackled Ghost",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Shackled_10WS07"
+    },
+    {
+        "VitalsID": "CK_Ghost_Shackled_Named_10WS07",
+        "DisplayName": "Bound Billy",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Shackled_Named_10WS07"
+    },
+    {
+        "VitalsID": "CK_Ghost_Shackled_10WS09_ELITE",
+        "DisplayName": "Fortune Shackled",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Shackled_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Ghost_Shipwrecked_10WS08",
+        "DisplayName": "Thunderous Phantom",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Shipwrecked_10WS08"
+    },
+    {
+        "VitalsID": "CK_Ghost_Shipwrecked_Named_10WS08_Isle",
+        "DisplayName": "Spectral Storm Summoner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Shipwrecked_Named_10WS08_Isle"
+    },
+    {
+        "VitalsID": "CK_Ghost_Shipwrecked_Named_10WS09",
+        "DisplayName": "Salty Sait",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Shipwrecked_Named_10WS09"
+    },
+    {
+        "VitalsID": "CK_Ghost_Starved_10WS07",
+        "DisplayName": "Starved Ghost",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Starved_10WS07"
+    },
+    {
+        "VitalsID": "CK_Ghost_Starved_Named_10WS07",
+        "DisplayName": "Stringy Jack",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Starved_Named_10WS07"
+    },
+    {
+        "VitalsID": "CK_Ghost_Starved_10WS09_ELITE",
+        "DisplayName": "Fortune Starved",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Starved_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Mountain_Lion_10WS08",
+        "DisplayName": "Island Puma",
+        "Level": 68,
+        "BaseVitalsId": "CK_Mountain_Lion_10WS08"
+    },
+    {
+        "VitalsID": "CK_Mountain_Lion_10WS09_ELITE",
+        "DisplayName": "de la Muerte Puma",
+        "Level": 68,
+        "BaseVitalsId": "CK_Mountain_Lion_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Mountain_Lion_Named_10WS09_ELITE",
+        "DisplayName": "Chesma",
+        "Level": 68,
+        "BaseVitalsId": "CK_Mountain_Lion_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Berserker_10WS08_Black",
+        "DisplayName": "Scum Berserker",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Berserker_10WS08_Black"
+    },
+    {
+        "VitalsID": "CK_Undead_Berserker_10WS08_Gold",
+        "DisplayName": "Fishbone Berserker",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Berserker_10WS08_Gold"
+    },
+    {
+        "VitalsID": "CK_Undead_Berserker_10WS09_ELITE",
+        "DisplayName": "Undead Berserker",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Berserker_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Berserker_Named_10WS09_ELITE",
+        "DisplayName": "Clive Cleaver",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Berserker_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Berserker_Named_10WS08_Village",
+        "DisplayName": "Enforcer Scyleman",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Berserker_Named_10WS08_Village"
+    },
+    {
+        "VitalsID": "CK_Undead_Berserker_Named_10WS08_Fort",
+        "DisplayName": "Misanthrope Broadbin",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Berserker_Named_10WS08_Fort"
+    },
+    {
+        "VitalsID": "CK_Undead_Bloated_Corpse_10WS09",
+        "DisplayName": "Undead Anarchist",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Bloated_Corpse_10WS09"
+    },
+    {
+        "VitalsID": "CK_Undead_Bloated_Corpse_10WS09_ELITE",
+        "DisplayName": "de la Muerte Anarchist",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Bloated_Corpse_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_10WS08_Black",
+        "DisplayName": "Scum Grenadier",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Grenadier_10WS08_Black"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_10WS08_Gold",
+        "DisplayName": "Fishbone Grenadier",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Grenadier_10WS08_Gold"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_10WS09_ELITE",
+        "DisplayName": "de la Muerte Grenadier",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Grenadier_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_Named_10WS09_ELITE",
+        "DisplayName": "Annie Cannon",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Grenadier_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_Molotov_10WS09_ELITE",
+        "DisplayName": "de la Muerte Molotov",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Grenadier_Molotov_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS08_Black",
+        "DisplayName": "Scum Navigator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS08_Black"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS08_Gold",
+        "DisplayName": "Fishbone Navigator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS08_Gold"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS09_ELITE",
+        "DisplayName": "de la Muerte Navigator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS08_Black",
+        "DisplayName": "Scum Brute",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS08_Black"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_Named_10WS08_Village",
+        "DisplayName": "Cabin Boy Rippletide",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_Named_10WS08_Village"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_Named_10WS08_FortIn",
+        "DisplayName": "Knoxx",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_Named_10WS08_FortIn"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_Named_10WS08_FortOut",
+        "DisplayName": "Miscreant Mountain",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_Named_10WS08_FortOut"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS09_ELITE",
+        "DisplayName": "Pirate Brute",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_Named_10WS09_ELITE_a",
+        "DisplayName": "The Tax-Collector",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_Named_10WS09_ELITE_a"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_Named_10WS09_ELITE_b",
+        "DisplayName": "The Security",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_Named_10WS09_ELITE_b"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS08_Black",
+        "DisplayName": "Scum Pistoleer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS08_Black"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS08_Gold",
+        "DisplayName": "Fishbone Pistoleer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS08_Gold"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_Named_10WS08_Fort",
+        "DisplayName": "Gunner Sammie",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pistoleer_Named_10WS08_Fort"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS09_ELITE",
+        "DisplayName": "de la Muerte Pistoleer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_Named_10WS09_ELITE",
+        "DisplayName": "Shantyman Dobbin",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pistoleer_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS07",
+        "DisplayName": "Flotsam Beheader",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS07"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS09_ELITE",
+        "DisplayName": "Stone Skull Beheader",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_Named_10WS09_ELITE",
+        "DisplayName": "Tamraz Abanoz",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS09_ELITE",
+        "DisplayName": "Stone Skull Blunderbuss",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS07",
+        "DisplayName": "Flotsam Corsair",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS07"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS09_ELITE",
+        "DisplayName": "Stone Skull Azeb",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_Named_10WS09_ELITE",
+        "DisplayName": "Aslan Abanoz",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS07",
+        "DisplayName": "Flotsam Spearman",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS07"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS09_ELITE",
+        "DisplayName": "Stone Skull Akinji",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_Named_10WS09_ELITE",
+        "DisplayName": "Tolga Abanoz",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_Fire_10WS07",
+        "DisplayName": "Spectral Flame",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_Fire_10WS07"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_Fire_Named_10WS07",
+        "DisplayName": "Spectral Flame",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_Fire_Named_10WS07"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_Fire_10WS09_ELITE",
+        "DisplayName": "Spectral Flame",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_Fire_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_Ice_10WS07",
+        "DisplayName": "Spectral Frost",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_Ice_10WS07"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_10WS07",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_10WS07"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_10WS08",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_10WS08"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_Named_10WS08_Isle",
+        "DisplayName": "Stormhand Peteran",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_Named_10WS08_Isle"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_10WS09_ELITE",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_Named_10WS09_ELITE",
+        "DisplayName": "Hayalet Pala",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_10WS07",
+        "DisplayName": "Spectral Executioner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_10WS07"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_10WS08",
+        "DisplayName": "Spectral Executioner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_10WS08"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_Named_10WS07",
+        "DisplayName": "Rollo the Beheader",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_Named_10WS07"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_Named_10WS08_Fort",
+        "DisplayName": "Turner the Hatchet",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_Named_10WS08_Fort"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_10WS09_ELITE",
+        "DisplayName": "Spectral Executioner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_Named_10WS09_ELITE",
+        "DisplayName": "Hayalet Balta",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_10WS03e",
+        "DisplayName": "Spectral Scattershot",
+        "Level": 66,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_10WS03e"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_10WS07",
+        "DisplayName": "Spectral Scattershot",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_10WS07"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_10WS08",
+        "DisplayName": "Spectral Scattershot",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_10WS08"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS07",
+        "DisplayName": "Pistol Peete",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS07"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS08_Isle",
+        "DisplayName": "Jack Thunderwave",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS08_Isle"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS08_Village",
+        "DisplayName": "Chief Inspector",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS08_Village"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS08_Fort",
+        "DisplayName": "Caspern Cannoneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS08_Fort"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_10WS09_ELITE",
+        "DisplayName": "Spectral Scattershot",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS09_ELITE",
+        "DisplayName": "Hayalet Sacmalik",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_10WS07",
+        "DisplayName": "Spectral Harpooner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_10WS07"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_10WS08",
+        "DisplayName": "Spectral Harpooner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_10WS08"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_Named_10WS08_Isle",
+        "DisplayName": "Lightningspike",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_Named_10WS08_Isle"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_10WS09_ELITE",
+        "DisplayName": "Spectral Polearm",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_Named_10WS09_ELITE",
+        "DisplayName": "Hayalet Mizrak",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_1hSword_10WS07",
+        "DisplayName": "Goldcursed Sailor",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_1hSword_10WS07"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_1hSword_10WS09_ELITE",
+        "DisplayName": "Goldcursed Cutlass",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_1hSword_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_Named_10WS07",
+        "DisplayName": "Ronan the Hammer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_Named_10WS07"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_10WS09_ELITE",
+        "DisplayName": "Goldcursed Arbiter",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_Named_10WS09_ELITE",
+        "DisplayName": "Burak, the Auditor",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS07",
+        "DisplayName": "Goldcursed Midshipman",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS07"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS09_ELITE",
+        "DisplayName": "Goldcursed Polearm",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_Named_10WS09_ELITE",
+        "DisplayName": "Zehab, the Accountant",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_Named_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hBlunderbuss_Named_10WS07",
+        "DisplayName": "Bombardier Barbarossa",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hBlunderbuss_Named_10WS07"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hBlunderbuss_10WS09_ELITE",
+        "DisplayName": "Goldcursed Cannoneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hBlunderbuss_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Alligator_Black_10WS06",
+        "DisplayName": "Shallows Alligator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Alligator_Black_10WS06"
+    },
+    {
+        "VitalsID": "CK_Boar_10WS06",
+        "DisplayName": "Forest Boar",
+        "Level": 68,
+        "BaseVitalsId": "CK_Boar_10WS06"
+    },
+    {
+        "VitalsID": "CK_Mountain_Lion_10WS06",
+        "DisplayName": "Island Puma",
+        "Level": 68,
+        "BaseVitalsId": "CK_Mountain_Lion_10WS06"
+    },
+    {
+        "VitalsID": "CK_Pig_10WS06",
+        "DisplayName": "Jungle Pig",
+        "Level": 68,
+        "BaseVitalsId": "CK_Pig_10WS06"
+    },
+    {
+        "VitalsID": "CK_Drowned_Miner_10WS06_Tide",
+        "DisplayName": "Cutthroat Grenadier",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Miner_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Club_10WS06_Tide",
+        "DisplayName": "Cutthroat Mariner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Club_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword_10WS06_Tide",
+        "DisplayName": "Scum Sailor",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Sword_Shield_10WS06_Tide",
+        "DisplayName": "Scum Quartermaster",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Sword_Shield_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_2H_Axe_10WS06_Tide",
+        "DisplayName": "Scum Deckhand",
+        "Level": 68,
+        "BaseVitalsId": "CK_Drowned_Sailor_2H_Axe_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Ghost_Charred_10WS04_Named",
+        "DisplayName": "The Sable Admiral",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Charred_10WS04_Named"
+    },
+    {
+        "VitalsID": "CK_Ghost_Charred_10WS06",
+        "DisplayName": "Burning Phantom",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Charred_10WS06"
+    },
+    {
+        "VitalsID": "CK_Ghost_Frozen_10WS06",
+        "DisplayName": "Frozen Phantom",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Frozen_10WS06"
+    },
+    {
+        "VitalsID": "CK_Ghost_Shipwrecked_10WS06",
+        "DisplayName": "Thunderous Phantom",
+        "Level": 68,
+        "BaseVitalsId": "CK_Ghost_Shipwrecked_10WS06"
+    },
+    {
+        "VitalsID": "CK_Undead_Berserker_10WS06_Tide",
+        "DisplayName": "Cutthroat Berserker",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Berserker_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_10WS06_Tide",
+        "DisplayName": "Cutthroat Grenadier",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Grenadier_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS06_Tide",
+        "DisplayName": "Cutthroat Navigator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS06_Tide",
+        "DisplayName": "Cutthroat Brute",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_Named_10WS06_Tide",
+        "DisplayName": "Tidal Ruin",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_Named_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS06_Tide",
+        "DisplayName": "Cutthroat Officer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Officer_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS06_Tide",
+        "DisplayName": "Cutthroat Pistoleer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS06_Tide"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS10",
+        "DisplayName": "Sable Beheader",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS10"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_Named_10WS10",
+        "DisplayName": "Sable Beheader",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_Named_10WS10"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS10",
+        "DisplayName": "Sable Corsair",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS10"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS10",
+        "DisplayName": "Sable Blunderbuss",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS10"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS10",
+        "DisplayName": "Sable Spearman",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS10"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_1hSword_10WS10",
+        "DisplayName": "Goldcursed Cutlass",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_1hSword_10WS10"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_10WS10",
+        "DisplayName": "Goldcursed Crusher",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_10WS10"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_Named_10WS10",
+        "DisplayName": "Boatswain Thrasher",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_Named_10WS10"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS10",
+        "DisplayName": "Goldcursed Polearm",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS10"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hBlunderbuss_10WS10",
+        "DisplayName": "Goldcursed Cannoneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hBlunderbuss_10WS10"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_10WS10",
+        "DisplayName": "Black Flag Brute",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_10WS10"
+    },
+    {
+        "VitalsID": "CK_Undead_Navigator_10WS10",
+        "DisplayName": "Black Flag Navigator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Navigator_10WS10"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS10",
+        "DisplayName": "Black Flag Officer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Officer_10WS10"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_Fire_10WS10",
+        "DisplayName": "Spectral Flame",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_Fire_10WS10"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_Ice_10WS10",
+        "DisplayName": "Spectral Frost",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_Ice_10WS10"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_10WS10",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_10WS10"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_10WS10",
+        "DisplayName": "Spectral Executioner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_10WS10"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hAxe_Named_10WS10",
+        "DisplayName": "Samuel, Spectral Guillotine",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hAxe_Named_10WS10"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_10WS10",
+        "DisplayName": "Spectral Scattershot",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_10WS10"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS10",
+        "DisplayName": "Flintlock Gunner Wraith",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_Named_10WS10"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_10WS10",
+        "DisplayName": "Spectral Harpooner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_10WS10"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_1hSword_10WS10b",
+        "DisplayName": "Goldcursed Cutlass",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_1hSword_10WS10b"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hWarhammer_10WS10b",
+        "DisplayName": "Goldcursed Crusher",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hWarhammer_10WS10b"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hSpear_10WS10b",
+        "DisplayName": "Goldcursed Polearm",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hSpear_10WS10b"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_2hBlunderbuss_10WS10b",
+        "DisplayName": "Goldcursed Cannoneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Goldcursed_2hBlunderbuss_10WS10b"
+    },
+    {
+        "VitalsID": "CK_Alligator_Black_10WS10",
+        "DisplayName": "Streaked Alligator",
+        "Level": 68,
+        "BaseVitalsId": "CK_Alligator_Black_10WS10"
+    },
+    {
+        "VitalsID": "CK_Alligator_Black_Named_10WS10",
+        "DisplayName": "Pernicious Percy",
+        "Level": 68,
+        "BaseVitalsId": "CK_Alligator_Black_Named_10WS10"
+    },
+    {
+        "VitalsID": "CK_Alligator_Young_10WS10",
+        "DisplayName": "Streaked Hatchling",
+        "Level": 68,
+        "BaseVitalsId": "CK_Alligator_Young_10WS10"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Javelineer_10WS10",
+        "DisplayName": "Ancient Javelineer",
+        "Level": 68,
+        "BaseVitalsId": "CK_AncientGuardian_Javelineer_10WS10"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Mage_10WS10",
+        "DisplayName": "Ancient Mage",
+        "Level": 68,
+        "BaseVitalsId": "CK_AncientGuardian_Mage_10WS10"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Mage_Named_10WS10",
+        "DisplayName": "The Jagged Custodian",
+        "Level": 68,
+        "BaseVitalsId": "CK_AncientGuardian_Mage_Named_10WS10"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Reaver_10WS10",
+        "DisplayName": "Ancient Reaver",
+        "Level": 68,
+        "BaseVitalsId": "CK_AncientGuardian_Reaver_10WS10"
+    },
+    {
+        "VitalsID": "CK_Bear_Black_10WS10",
+        "DisplayName": "Black Bear",
+        "Level": 68,
+        "BaseVitalsId": "CK_Bear_Black_10WS10"
+    },
+    {
+        "VitalsID": "CK_Boar_10WS10",
+        "DisplayName": "Striped Boar",
+        "Level": 68,
+        "BaseVitalsId": "CK_Boar_10WS10"
+    },
+    {
+        "VitalsID": "CK_Mountain_Lion_10WS10",
+        "DisplayName": "Island Puma",
+        "Level": 68,
+        "BaseVitalsId": "CK_Mountain_Lion_10WS10"
+    },
+    {
+        "VitalsID": "CK_Mountain_Lion_Named_10WS10",
+        "DisplayName": "Pumthera",
+        "Level": 68,
+        "BaseVitalsId": "CK_Mountain_Lion_Named_10WS10"
+    },
+    {
+        "VitalsID": "CK_Waterfowl",
+        "DisplayName": "Island Waterfowl",
+        "Level": 64,
+        "BaseVitalsId": "CK_Waterfowl"
+    },
+    {
+        "VitalsID": "CK_Waterfowl_10ws07",
+        "DisplayName": "Island Waterfowl",
+        "Level": 64,
+        "BaseVitalsId": "CK_Waterfowl_10ws07"
+    },
+    {
+        "VitalsID": "CK_Peacock",
+        "DisplayName": "Island Peacock",
+        "Level": 64,
+        "BaseVitalsId": "CK_Peacock"
+    },
+    {
+        "VitalsID": "CK_Peacock_10ws02",
+        "DisplayName": "Island Peacock",
+        "Level": 67,
+        "BaseVitalsId": "CK_Peacock_10ws02"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS02_Highpass_Named",
+        "DisplayName": "Louis Florin",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS02_Highpass_Named"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS02_Highpass_Named",
+        "DisplayName": "Tian Bouchard",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS02_Highpass_Named"
+    },
+    {
+        "VitalsID": "CK_Lost_2H_PickAxe_10WS02_Sable_Prison",
+        "DisplayName": "Prison Miner",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_2H_PickAxe_10WS02_Sable_Prison"
+    },
+    {
+        "VitalsID": "CK_Lost_Corpse_10WS02_Sable_Prison",
+        "DisplayName": "Prison Corpse",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_Corpse_10WS02_Sable_Prison"
+    },
+    {
+        "VitalsID": "CK_Lost_1H_Sword_10WS02_Sable_Prison",
+        "DisplayName": "Prison Sailor",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_1H_Sword_10WS02_Sable_Prison"
+    },
+    {
+        "VitalsID": "CK_Lost_1H_Grenadier_10WS02_Sable_Prison",
+        "DisplayName": "Prison Grenadier",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_1H_Grenadier_10WS02_Sable_Prison"
+    },
+    {
+        "VitalsID": "CK_Lost_2H_Pistols_10WS02_Sable_Prison",
+        "DisplayName": "Prison Pistoleer",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_2H_Pistols_10WS02_Sable_Prison"
+    },
+    {
+        "VitalsID": "CK_Lost_Berserker_10WS02_Sable_Prison",
+        "DisplayName": "Prison Berserker",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_Berserker_10WS02_Sable_Prison"
+    },
+    {
+        "VitalsID": "CK_Lost_2H_PickAxe_10WS02_Pirates_Stand",
+        "DisplayName": "Stand Miner",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_2H_PickAxe_10WS02_Pirates_Stand"
+    },
+    {
+        "VitalsID": "CK_Lost_Corpse_10WS02_Pirates_Stand",
+        "DisplayName": "Stand Corpse",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_Corpse_10WS02_Pirates_Stand"
+    },
+    {
+        "VitalsID": "CK_Lost_1H_Sword_10WS02_Pirates_Stand",
+        "DisplayName": "Stand Sailor",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_1H_Sword_10WS02_Pirates_Stand"
+    },
+    {
+        "VitalsID": "CK_Lost_1H_Grenadier_10WS02_Pirates_Stand",
+        "DisplayName": "Stand Grenadier",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_1H_Grenadier_10WS02_Pirates_Stand"
+    },
+    {
+        "VitalsID": "CK_Lost_2H_Pistols_10WS02_Pirates_Stand",
+        "DisplayName": "Stand Pistoleer",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_2H_Pistols_10WS02_Pirates_Stand"
+    },
+    {
+        "VitalsID": "CK_Lost_Berserker_10WS02_Pirates_Stand",
+        "DisplayName": "Stand Berserker",
+        "Level": 67,
+        "BaseVitalsId": "CK_Lost_Berserker_10WS02_Pirates_Stand"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS02_Pirates_Stand_Named",
+        "DisplayName": "Sacha Francois",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS02_Pirates_Stand_Named"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS02_Sable_Prison_Named",
+        "DisplayName": "Jacques Vasseur",
+        "Level": 67,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS02_Sable_Prison_Named"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hSpear_Q5_WaveEvent",
+        "DisplayName": "Spectral Harpooner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hSpear_Q5_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_2hBlunderbuss_Q5_WaveEvent",
+        "DisplayName": "Spectral Scattershot",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_2hBlunderbuss_Q5_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_Q5_WaveEvent",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_Q5_WaveEvent"
+    },
+    {
+        "VitalsID": "CK_Withered_Grunt_Named_10WS03",
+        "DisplayName": "Marshjaw",
+        "Level": 65,
+        "BaseVitalsId": "CK_Withered_Grunt_Named_10WS03"
+    },
+    {
+        "VitalsID": "CK_Bear_Black_10WS04",
+        "DisplayName": "Rubble Bear",
+        "Level": 66,
+        "BaseVitalsId": "CK_Bear_Black_10WS04"
+    },
+    {
+        "VitalsID": "CK_Boar_10WS04",
+        "DisplayName": "Rubble Boar",
+        "Level": 66,
+        "BaseVitalsId": "CK_Boar_10WS04"
+    },
+    {
+        "VitalsID": "CK_Spectral_1hSword_Named_10WS06",
+        "DisplayName": "Spiritcaller Zephyr",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_1hSword_Named_10WS06"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_Named_10WS06",
+        "DisplayName": "Tithe Officer Hamilton",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Officer_Named_10WS06"
+    },
+    {
+        "VitalsID": "CK_Goldcursed_Undead_Pirate_Brute_Boss_10WS04_Gold",
+        "DisplayName": "Treasure",
+        "Level": 70,
+        "BaseVitalsId": "CK_Goldcursed_Undead_Pirate_Brute_Boss_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Bear_Grizzly_10WS08",
+        "DisplayName": "Coastal Grizzly",
+        "Level": 68,
+        "BaseVitalsId": "CK_Bear_Grizzly_10WS08"
+    },
+    {
+        "VitalsID": "CK_Peacock_10WS08",
+        "DisplayName": "Cursed Peacock",
+        "Level": 68,
+        "BaseVitalsId": "CK_Peacock_10WS08"
+    },
+    {
+        "VitalsID": "CK_Pig_10WS08",
+        "DisplayName": "Cursed Pig",
+        "Level": 68,
+        "BaseVitalsId": "CK_Pig_10WS08"
+    },
+    {
+        "VitalsID": "CK_Mountain_Lion_Spectral_10WS06",
+        "DisplayName": "Spectral Puma",
+        "Level": 68,
+        "BaseVitalsId": "CK_Mountain_Lion_Spectral_10WS06"
+    },
+    {
+        "VitalsID": "CK_Mountain_Lion_Spectral_10WS08",
+        "DisplayName": "Spectral Puma",
+        "Level": 68,
+        "BaseVitalsId": "CK_Mountain_Lion_Spectral_10WS08"
+    },
+    {
+        "VitalsID": "CK_Mountain_Lion_Spectral_10WS09_ELITE",
+        "DisplayName": "Spectral Puma",
+        "Level": 68,
+        "BaseVitalsId": "CK_Mountain_Lion_Spectral_10WS09_ELITE"
+    },
+    {
+        "VitalsID": "CK_Boar_Spectral_10WS02",
+        "DisplayName": "Spectral Boar",
+        "Level": 68,
+        "BaseVitalsId": "CK_Boar_Spectral_10WS02"
+    },
+    {
+        "VitalsID": "CK_Boar_Spectral_10WS08",
+        "DisplayName": "Spectral Boar",
+        "Level": 68,
+        "BaseVitalsId": "CK_Boar_Spectral_10WS08"
+    },
+    {
+        "VitalsID": "CK_Boar_Spectral_10WS09_Elite",
+        "DisplayName": "Spectral Boar",
+        "Level": 68,
+        "BaseVitalsId": "CK_Boar_Spectral_10WS09_Elite"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hClever_Boss_10WS02",
+        "DisplayName": "Cookie Razorback",
+        "Level": 70,
+        "BaseVitalsId": "CK_Spectral_Lost_1hClever_Boss_10WS02"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_Boss_10WS03",
+        "DisplayName": "Admiral Bansheen",
+        "Level": 70,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_Boss_10WS03"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_Boss_10WS03",
+        "DisplayName": "Commandant Kingfisher",
+        "Level": 70,
+        "BaseVitalsId": "CK_Undead_Officer_Boss_10WS03"
+    },
+    {
+        "VitalsID": "CK_Undead_Pirate_Brute_Named_10WS06b",
+        "DisplayName": "Unending Tantrum",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pirate_Brute_Named_10WS06b"
+    },
+    {
+        "VitalsID": "CK_Spectral_Lost_1hSword_10WS02",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Spectral_Lost_1hSword_10WS02"
+    },
+    {
+        "VitalsID": "CK_Drowned_Sailor_1H_Club_10WS02",
+        "DisplayName": "Stand Mariner",
+        "Level": 67,
+        "BaseVitalsId": "CK_Drowned_Sailor_1H_Club_10WS02"
+    },
+    {
+        "VitalsID": "CK_AncientGuardian_Reaver_10WS04_Gold",
+        "DisplayName": "Goldcursed Quartermaster",
+        "Level": 68,
+        "BaseVitalsId": "CK_AncientGuardian_Reaver_10WS04_Gold"
+    },
+    {
+        "VitalsID": "CK_Corruption_Heavy_MSQ_68",
+        "DisplayName": "Vilefodder Duel Master",
+        "Level": 68,
+        "BaseVitalsId": "CK_Corruption_Heavy_MSQ_68"
+    },
+    {
+        "VitalsID": "CK_Damned_Acolyte_Named_10WS06",
+        "DisplayName": "Infernal Summoner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Damned_Acolyte_Named_10WS06"
+    },
+    {
+        "VitalsID": "CK_Damned_Cultist_10WS06",
+        "DisplayName": "Corrupted Cultist",
+        "Level": 68,
+        "BaseVitalsId": "CK_Damned_Cultist_10WS06"
+    },
+    {
+        "VitalsID": "CK_Peacock_10WS06",
+        "DisplayName": "Island Peacock",
+        "Level": 68,
+        "BaseVitalsId": "CK_Peacock_10WS06"
+    },
+    {
+        "VitalsID": "CK_Waterfowl_10WS06",
+        "DisplayName": "Island Waterfowl",
+        "Level": 68,
+        "BaseVitalsId": "CK_Waterfowl_10WS06"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS09b_ELITE",
+        "DisplayName": "The Tax-Collector",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS09b_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS09b_ELITE",
+        "DisplayName": "The Security",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS09b_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS09b_ELITE",
+        "DisplayName": "de la Muerte Pistoleer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS09b_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS09b_ELITE",
+        "DisplayName": "Shantyman Dobbin",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS09b_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Bloated_Corpse_10WS09b_ELITE",
+        "DisplayName": "Stone Skull Beheader",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Bloated_Corpse_10WS09b_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_10WS09b_ELITE",
+        "DisplayName": "Tamraz Abanoz",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Grenadier_10WS09b_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS09c_ELITE",
+        "DisplayName": "Stone Skull Blunderbuss",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS09c_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS09c_ELITE",
+        "DisplayName": "Stone Skull Azeb",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS09c_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS09c_ELITE",
+        "DisplayName": "Aslan Abanoz",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS09c_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS09c_ELITE",
+        "DisplayName": "Stone Skull Akinji",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS09c_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Bloated_Corpse_10WS09a_ELITE",
+        "DisplayName": "Tolga Abanoz",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Bloated_Corpse_10WS09a_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_10WS09a_ELITE",
+        "DisplayName": "Spectral Flame",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Grenadier_10WS09a_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS09d_ELITE",
+        "DisplayName": "Spectral Buccaneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS09d_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS09d_ELITE",
+        "DisplayName": "Hayalet Pala",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS09d_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS09d_ELITE",
+        "DisplayName": "Spectral Executioner",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS09d_ELITE"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS09d_ELITE",
+        "DisplayName": "Hayalet Balta",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS09d_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Bloated_Corpse_10WS09d_ELITE",
+        "DisplayName": "Spectral Scattershot",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Bloated_Corpse_10WS09d_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_10WS09d_ELITE",
+        "DisplayName": "Hayalet Sacmalik",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Grenadier_10WS09d_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Bloated_Corpse_10WS09e_ELITE",
+        "DisplayName": "Spectral Polearm",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Bloated_Corpse_10WS09e_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Grenadier_10WS09e_ELITE",
+        "DisplayName": "Hayalet Mizrak",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Grenadier_10WS09e_ELITE"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS03ad",
+        "DisplayName": "Goldcursed Cutlass",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Officer_10WS03ad"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS03ad",
+        "DisplayName": "Goldcursed Arbiter",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS03ad"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS03bd",
+        "DisplayName": "Burak, the Auditor",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Officer_10WS03bd"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS03bd",
+        "DisplayName": "Goldcursed Polearm",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS03bd"
+    },
+    {
+        "VitalsID": "CK_Undead_Officer_10WS03cd",
+        "DisplayName": "Zehab, the Accountant",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Officer_10WS03cd"
+    },
+    {
+        "VitalsID": "CK_Undead_Pistoleer_10WS03cd",
+        "DisplayName": "Goldcursed Cannoneer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Undead_Pistoleer_10WS03cd"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS03g",
+        "DisplayName": "Spectral Puma",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS03g"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS03g",
+        "DisplayName": "Spectral Boar",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS03g"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_1hSword_10WS04_Ad",
+        "DisplayName": "The Tax-Collector",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_1hSword_10WS04_Ad"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hAxe_10WS04_Ad",
+        "DisplayName": "The Security",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hAxe_10WS04_Ad"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hBlunderbuss_10WS04_Ad",
+        "DisplayName": "de la Muerte Pistoleer",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hBlunderbuss_10WS04_Ad"
+    },
+    {
+        "VitalsID": "CK_Blackbone_Lost_2hSpear_10WS04_Ad",
+        "DisplayName": "Shantyman Dobbin",
+        "Level": 68,
+        "BaseVitalsId": "CK_Blackbone_Lost_2hSpear_10WS04_Ad"
+    }
+]

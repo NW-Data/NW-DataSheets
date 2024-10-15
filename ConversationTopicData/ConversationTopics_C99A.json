@@ -1,0 +1,92 @@
+[
+    {
+        "ConversationTopicId": "GuardCaptain_TaskTopic_DeliverPotions",
+        "PlayerPrompt": "\"No pitches, just a sample.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_why\" /\u0026gt;Sample? What is old Hughes playing at? Suppose it couldn't hurt to take a sip.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "GuardCaptain_TaskTopic_PlayForTown",
+        "PlayerPrompt": "\"I learned from Marsyas.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_complimentplayer\" /\u0026gt;They must be prolific indeed, if their work can stand out so in a city like ours.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Captain_TaskTopic_AskAboutAdiana",
+        "PlayerPrompt": "\"A wild woman, in the forest?\"",
+        "NPCResponse": "\u0026lt;g id=\"male_chuckle\" priority=\"high\" /\u0026gt;Hah. There's legends and then there's truth - \u0026lt;g id=\"male_wavehandPshaw\" /\u0026gt;people talk nonsense, say the Huntress is \u0026lt;g id=\"female_headshakeSmall\" /\u0026gt;part animal or some kind of spirit.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Grace_TaskTopic_AskAboutAdiana",
+        "PlayerPrompt": "\"Looking for a 'Huntress'.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_thinking\" /\u0026gt;Well now, that's a bit strange. I was just hearing tavern talk the other day about some wild woman in the wood. \u0026lt;g id=\"female_explains\" /\u0026gt;Like a ghost, disappears when you look at her.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Grace_TaskTopic_ReturnStaff",
+        "PlayerPrompt": "\"I need allies to fight Corruption.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_righthandNodeal\" priority=\"high\" /\u0026gt;I fought enough red-eyed rotters on the beach. If you get in a jam,\u0026lt;g id=\"male_nodunderstand\" /\u0026gt; I've got your back, but I'm \u0026lt;g id=\"female_headshakeSmall\" /\u0026gt;not enlisting in that crusade.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Grace_TaskTopic_UseStaff",
+        "PlayerPrompt": "\"I don't seek applause.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_waveoffDisdain\" /\u0026gt;Nah, you'd be a fool if you did! Flying your flag everywhere is just an invitation for trouble. \u0026lt;g id=\"male_complimentplayer\" /\u0026gt;You and the old codger are more my sort of people.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Yonas_TaskTopic_BearCave",
+        "PlayerPrompt": "\"What is a Soulwarden?\"",
+        "NPCResponse": "\u0026lt;g id=\"litearmor_lookdownguilty\" /\u0026gt;What were they? My mind itches, yes, at the word. Perhaps this is where my ghost lives. \u0026lt;g id=\"litearmor_gesturebackthere\" /\u0026gt;That cave. Yes…inside it, something that needs retrieving.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Yonas_TaskTopic_ToAlioth",
+        "PlayerPrompt": "\"What was this armor doing in a bear cave?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;What does anything do in a bear cave? \u0026lt;g id=\"litearmor_takeitem5s\" priority= \"high\" /\u0026gt;Perhaps it was napping. Yet there is pain in the rent cloth. Shame, too. How odd.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Yonas_TaskTopic_AmrineSkip",
+        "PlayerPrompt": "\"I'd still like to hear about it.\" [Solo Option]",
+        "NPCResponse": "As you wish. The essence of a Heartgem is derived from the same elements that power the Ancient Guardians.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99A_MSQ_13_HaplessHowe_Talks",
+        "PlayerPrompt": "\"You need your things back?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_waveoffDisdain\" bout=\"1.5\"/\u0026gt;Naw, the wolves were vicious and slobbery, but they didn't get any of the good stuff. \u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;I just need someone to help right my cart!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

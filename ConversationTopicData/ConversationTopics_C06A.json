@@ -1,0 +1,552 @@
+[
+    {
+        "ConversationTopicId": "06_MSQ_01_TalkFrancis",
+        "PlayerPrompt": "\"I have news of the Corrupted.\"",
+        "NPCResponse": "\u0026lt;g id=\"sit_headshakeno\" /\u0026gt;See now, why \u0026lt;g id=\"sit_shrugbrief\" /\u0026gt;spoil our pleasant conversation with such dark business? \u0026lt;g id=\"sit_laughmed\" /\u0026gt;You're new to Corinth! You should check in at the inn! \u0026lt;g id=\"sit_nod\" /\u0026gt;Yes, put your feet up!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "0612_TalkBard",
+        "PlayerPrompt": "\"If so, no one told me.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_chuckle\" /\u0026gt;Ha! Then I won't ask you to buy me a tankard,\u0026lt;g id=\"female_thinking\" /\u0026gt; but since you seem a playful one, \"o muse,\" what do you think would inspire a song in me?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": "0612_TalkBard_passion,0612_TalkBard_intellect,0612_TalkBard_joker"
+    },
+    {
+        "ConversationTopicId": "0612_TalkBard_passion",
+        "PlayerPrompt": "\"Sleeping under the stars with me.\"",
+        "NPCResponse": "Now who's fishing lines? You’ve got me cherry to the collar. Let's talk anon, my love, and I'll share my sheets. Of music, and maybe more, if you're lucky.",
+        "AchievementUnlock": "narrativeprofile_passion_stillwater",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "0612_TalkBard_intellect",
+        "PlayerPrompt": "\"Life as a bard on Aeternum?\"",
+        "NPCResponse": "There’s a song best sung after some ale. I've as many memories trodding boards soaked in wine, as I do of ale-sodden bores trodding on me. But I'll try.",
+        "AchievementUnlock": "narrativeprofile_intellect_stillwater",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "0612_TalkBard_joker",
+        "PlayerPrompt": "\"A blackbird pie?\"",
+        "NPCResponse": "Ha! A muse and a joker, are you? Better to fool than be fooled, is it? Comedy's not my suit, but you've caught me grinning, so I'll try. Come back and see!",
+        "AchievementUnlock": "narrativeprofile_joker_stillwater",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_FrancisTurner_Lost",
+        "PlayerPrompt": "\"What does it mean to be 'Lost'?\"",
+        "NPCResponse": "\u0026lt;g id=\"litearmor_shakehead\" /\u0026gt;It’s a wretched semblance of life, a body without a soul.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_SaatvikAgrawal_Windmills",
+        "PlayerPrompt": "\"Can the crops be salvaged?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;I hope so, because we need it. \u0026lt;g id=\"litearmor_gestureright\" /\u0026gt;We must get the Windmills going again, and then recover any sacks of grain that remain untainted.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_LijsbetDeVries_Trapped",
+        "PlayerPrompt": "\"It's safe, you can go.\"",
+        "NPCResponse": "Oh, bless you, my friend! I felt my hope fading away! I almost became Withered!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_MichaelLewis_Trapped",
+        "PlayerPrompt": "\"The way is clear now.\"",
+        "NPCResponse": "Thank you. My family, my farm, all Lost… I'm the only one left.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_Trapped",
+        "PlayerPrompt": "\"The path is clear now.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_shocked\" /\u0026gt;It is? Oh, well, I would've figured it out soon enough, \u0026lt;g id=\"male_willcoverit\" /\u0026gt;but thank you nonetheless. Meet me at the edge of the farm. We should talk.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_MichaelLewis_Farm",
+        "PlayerPrompt": "\"How did it start?\"",
+        "NPCResponse": "\u0026lt;g id=\"male_gestureLeft\" priority=\"high\" /\u0026gt;I was by the mill, watching as the Druids spread their verdant blessings. \u0026lt;g id=\"female_whattheheck\" /\u0026gt;Then suddenly, the blessings turned putrid and began emitting green smoke!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_LijsbetDeVries_Farm",
+        "PlayerPrompt": "\"Did you see how it began?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;No, I was napping in my old chair, when I was startled awake by a Withered bursting through the door!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06A_MSQ_06_RescueFarmers_TalkNessa",
+        "PlayerPrompt": "\"Why weren't you affected?\"",
+        "NPCResponse": "\u0026lt;g id=\"male_willcoverit\" /\u0026gt;I've only just returned from completing my druidic studies at another warren in the north. \u0026lt;g id=\"male_guiltyLookdown\" /\u0026gt;Whatever happened here, I missed it.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_Druids",
+        "PlayerPrompt": "\"You're the last druid?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_notsure\" /\u0026gt;I'm not certain of anything at this point. \u0026lt;g id=\"male_gestureLeft\" priority=\"high\" /\u0026gt;The main warren, where I started my studies, lies to the west.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_LeovixSilva_Fallen",
+        "PlayerPrompt": "\"You're with the Iron Rose?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_nodshrugokay\" /\u0026gt;I'm praying I'm not the only one left! \u0026lt;g id=\"male_gestureHereweare\" priority=\"high\" /\u0026gt;We were supposed to fall back to this location if we were overrun.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_GideonStormsbane_Rescue",
+        "PlayerPrompt": "\"You can go. The way is clear.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_wavehandsNoBig\" priority=\"high\" /\u0026gt;Out there? No way... no way! They're everywhere. I've seen those soldiers fight, they'll tear me apart. \u0026lt;g id=\"female_shrugnothingicando\"/\u0026gt;I need to… I need… is there really a way out?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_FrancisTurner_Tribute",
+        "PlayerPrompt": "\"Then tell me about the tribute.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_wavehandPshaw\" /\u0026gt;Bah! As I've said countless times now, we've sent the damn tribute! \u0026lt;g id=\"female_shrugNothingicando\" /\u0026gt;We can't always guarantee the caravan's safety!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_MarcelDupont_Tribute",
+        "PlayerPrompt": "\"Just tell me where they are.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_spreadarmsCalm\" /\u0026gt;There's a few pirate dens scattered in Windsward, \u0026lt;g id=\"male_pointsoutthere\" /\u0026gt;but it was the Buccaneer Creek bastards that \u0026lt;g id=\"female_nodyes\" /\u0026gt;attacked me on the road and took the tribute.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_GraceOMalley_Pirates",
+        "PlayerPrompt": "\"They stole Medea's tribute.\"",
+        "NPCResponse": "\u0026lt;g id=\"grace_understand\" /\u0026gt;Ah, now it makes sense! I scouted the place and they've got heaps of… well, just about everything. \u0026lt;g id=\"grace_headnodyes\" /\u0026gt;I bet that's your tribute, alright!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06A_MSQ_13_ReturnMiradorJewel_TalkGrace",
+        "PlayerPrompt": "\"So you'd have Windsward suffer?\"",
+        "NPCResponse": "\u0026lt;g id=\"grace_frustrated\" priority=\"high\"/\u0026gt;Well, when you put it that way, no... It's just, well, \u0026lt;g id=\"grace_shrugDontcare\" /\u0026gt;I guess this means we've gotta find our fortune somewhere else. \u0026lt;g id=\"grace_headshakeno\" /\u0026gt;I'm not giving up.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_Success",
+        "PlayerPrompt": "\"I agree. Did you talk to Moira?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_nodyes\" /\u0026gt;I did, and she understands the urgency of the situation. \u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;The problem is that we don't even know the location of the other shrines.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_LeovixSilva_Betrayal",
+        "PlayerPrompt": "“We need information first.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;I'm not arguing with that, but with my blade freshly sharpened, \u0026lt;g id=\"female_leanpointconvince\" /\u0026gt;I could do a little surgery to help guarantee we get the truth this time.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_MarcelDupont_Jewel",
+        "PlayerPrompt": "\"What were the orders?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_explains\" /\u0026gt;Well, see here, ole Francis told me this tribute business with Medea was just a lie, \u0026lt;g id=\"male_leanforwardInspect\" /\u0026gt;made up so someone could steal from the good people of Corinth, \u0026lt;g id=\"female_liftHandsXs\" /\u0026gt;so that's why he cooked up this plan.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_FrancisTurner_Jewel",
+        "PlayerPrompt": "\"I found the Gemstone.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_disagreeCrossarms\" /\u0026gt;I've never seen that in all my days. Someone planted it there! \u0026lt;g id=\"male_dismissRegal\" priority=\"high\" /\u0026gt;It's shameful, this conspiracy against me. \u0026lt;g id=\"male_willcoverit\" /\u0026gt;I'm the best Speaker this town's ever had.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_Medea_Eldergate",
+        "PlayerPrompt": "\"So did you unleash this curse?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;I could have, had I wanted to. But no, \u0026lt;g id=\"female_shakeheadNo\" /\u0026gt;some fool's meddling with the shrines accomplished that. \u0026lt;g id=\"male_righthandAngry\" /\u0026gt;I am vexed, however, quite vexed.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_SaatvikAgrawal_NewSpeaker",
+        "PlayerPrompt": "\"Yes. How are things here?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;Well enough. \u0026lt;g id=\"litearmor_nodunderstand\" /\u0026gt;Grace managed to keep Leovix distracted in the tavern long enough to get \u0026lt;g id=\"litearmor_gestureright\" /\u0026gt;Francis and Captain Dupont out of town.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_Korrapati",
+        "PlayerPrompt": "\"Then we do it the hard way.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_nodshrugokay\" /\u0026gt;Well, just know this… Captain Korrapati was particularly nasty before. \u0026lt;g id=\"female_leanpointconvince\" /\u0026gt;She's likely worse now. She also has a pet alligator.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_LeovixSilva_Closure",
+        "PlayerPrompt": "\"I know, but it turned out fine.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_complimentplayer\" /\u0026gt;You have saved our town thrice-over now. \u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;I've fought alongside many great soldiers, but I've \u0026lt;g id=\"female_shakeheadNo\" /\u0026gt;never seen one such as you.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_OtherJewel",
+        "PlayerPrompt": "\"What about the other Gemstones?\"",
+        "NPCResponse": "My thoughts exactly. I'll visit the library in Corinth to try and find the location of the other shrines.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_GraceOMalley_ToTown",
+        "PlayerPrompt": "\"Alright, let's go to town.\"",
+        "NPCResponse": "There's one of those Spirit Shrines over that way, if that's your fancy.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_GraceOMalley_Revolution",
+        "PlayerPrompt": "\"Yes, he can be trusted.\"",
+        "NPCResponse": "Good. If we can get him on our side, and maybe a couple more, we'll have a little revolution started.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_SaatvikAgrawal_Pirates",
+        "PlayerPrompt": "\"He made a deal with the pirates. I have proof.\"",
+        "NPCResponse": "Oh, I simply must see this… Hah! The dirty liar's been caught red-handed!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_NessaHarrower_Jewel",
+        "PlayerPrompt": "\"Can we take a rubbing of it?\"",
+        "NPCResponse": "Ha ha! Great minds think alike! I've already procured you some charcoal and parchment.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_LeovixSilva_Caravan",
+        "PlayerPrompt": "\"Of course, just tell me where to go.\"",
+        "NPCResponse": "The caravan came under attack at the Bulrush Wash river crossing. I'm told it's a full onslaught of Lost.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_Medea_Tribute",
+        "PlayerPrompt": "\"But this is your tribute!\"",
+        "NPCResponse": "Think you a wagon full of goods can appease me? When you have also defiled the shrines I crafted here?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_AhuraFarid_SpreadJoy",
+        "PlayerPrompt": "\"There is splendor in the flora.\"",
+        "NPCResponse": "What is this… it's… remarkable. The light in the branches, see how they shimmer. Has the sky always been so gorgeous?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_PriyaThakur_SpreadJoy",
+        "PlayerPrompt": "\"I find zeal in wyrdwoods.\"",
+        "NPCResponse": "The light in the stem, it looks like it's dancing. Oh, is it responding to my voice? That's cheeky.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_UtkarshSingh_SpreadJoy",
+        "PlayerPrompt": "\"Let nature be your answer.\"",
+        "NPCResponse": "Ew. What odd flora. It appears to be calling out to me. I… I've forgotten to be present for nature's beauty.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "0623_Fisher_ExplainHotspots",
+        "PlayerPrompt": "\"Can you explain fishing hotspots?\"",
+        "NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n\u0026lt;img src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"\u0026gt;\u0026lt;/img\u0026gt;\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n\u0026lt;img src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"\u0026gt;\u0026lt;/img\u0026gt;\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "0923_Fisher_ExplainHotspots",
+        "PlayerPrompt": "\"Can you explain fishing hotspots?\"",
+        "NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n\u0026lt;img src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"\u0026gt;\u0026lt;/img\u0026gt;\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n\u0026lt;img src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"\u0026gt;\u0026lt;/img\u0026gt;\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_Gunter_FirstLight",
+        "PlayerPrompt": "\"What happened in First Light?\"",
+        "NPCResponse": "Nature's fury - that's what happened! The Angry Earth's done claimed the territory!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "02_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "The ghosts whisper to the cloth through me. We make the fabric do our bidding.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "04_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "I've added wefts in the cloth, an art I learnt in Africa. Can you see the pattern or is it too fine? I outdo myself sometimes.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "05_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "Ha! I craft my own indigo with Azoth and a plant I shall not name.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "06_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "Well, I couldn't depend on hemp, so I began making thread out of Azoth.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "07_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "I soak the hemp in Azoth before stitching it into the fabric. There are a few more steps, but no wise person gives all their secrets away.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "08_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "I prefer keeping my techniques to myself.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "11_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "How do I do it? How does anyone do it?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "12_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "A true diva never reveals their secrets, honey. Especially to strangers, no matter how cute the strangers are.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "13_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "I don't do it. My pet weaverbirds do. Poor things dipped their beaks in Azoth a while ago. But it gave them magical powers.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "15_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "The Goddess of the Sea showed me how to do this.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "16_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "My mother taught me the ancient art of Al Sadu. We make simple weaves with natural materials back home.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "10_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "Greek weavers know the beauty of a cloth is in its material.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "03_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "I will tell you. But after the war. Right now, focus on how to strike our enemy.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    },
+    {
+        "ConversationTopicId": "14_00_Outfitter_Transmog",
+        "PlayerPrompt": "\"How would you do that?\"",
+        "NPCResponse": "Mon cherie, breathe in the nature around you. How could one not be inspired to do more?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": "",
+        "ProvidedTopics": ""
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "ConversationTopicId": "Topic_99B_Yonas_p1_01",
+        "PlayerPrompt": "\"What darkness? Corruption?\"",
+        "NPCResponse": "\u0026lt;g id=\"litearmor_shakehead\" /\u0026gt;No, it was the cold curse of the soulless Lost \u0026lt;g id=\"female_liftHandsXs\" /\u0026gt;that brought misery to Brightwood.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Galahad_p1_01",
+        "PlayerPrompt": "\"I'm looking for Brother Umberto.\"",
+        "NPCResponse": "\u0026lt;g id=\"yonas_nod\" /\u0026gt;Ah, then there \u0026lt;g id=\"yonas_spreadarms002\" /\u0026gt;may yet be hope! Brother Umberto is a brave soul - \u0026lt;g id=\"yonas_explain01\" /\u0026gt;he and I joined forces to defend these fair lands.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Galahad_p1_02",
+        "PlayerPrompt": "\"We could search for Umberto together.\"",
+        "NPCResponse": "\u0026lt;g id=\"yonas_nod\" /\u0026gt;Indeed. I would like nothing more than to find company \u0026lt;g id=\"yonas_gestureLeftM\" /\u0026gt;in this lamentable endeavor.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Yonas_p3_01",
+        "PlayerPrompt": "\"What about Brother Umberto?\"",
+        "NPCResponse": "\u0026lt;g id=\"male_gesturebackthere\" /\u0026gt;Ser Galahad continues the search in a town just north - \u0026lt;g id=\"female_nodyes\" /\u0026gt;the bright knight refuses to believe the Corrupted have again become a greater threat.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Yonas_p5_01",
+        "PlayerPrompt": "\"What does that mean for us?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_leanpointconvince\" bout+\"1.5\"/\u0026gt;It means the Corrupted have already conquered all the territory from here \u0026lt;g id=\"male_pointLeft\" /\u0026gt;to the Shattered Mountain. \u0026lt;g id=\"male_hopeless\" /\u0026gt;It means we're too late.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Grace_p1_01",
+        "PlayerPrompt": "\"So you think the fort is cursed?\"",
+        "NPCResponse": "\u0026lt;g id=\"grace_laughcocky\" priority=\"high\"/\u0026gt;You joking? I already got quite an earful about the curse before I left Calvary.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Grace_p1_02",
+        "PlayerPrompt": "\"What became of the Bright Vigil?\"",
+        "NPCResponse": "\u0026lt;g id=\"grace_secret\" /\u0026gt;Well, the dark truth is those righteous bastards turned on each other, and then of course, \u0026lt;g id=\"grace_shrugDontcare\" /\u0026gt;they all fell Lost.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Pennyfather_01",
+        "PlayerPrompt": "\"Because you're hiding something?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_waveoffDisdain\" /\u0026gt;Preposterous! I've nothing to hide… \u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;I just don't recall all the gory details. \u0026lt;g id=\"male_willcoverit\" /\u0026gt;I was busy building this town when the Bright Vigil fell.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Pennyfather_03",
+        "PlayerPrompt": "\"But you knew… and did nothing.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_nodshrugokay\" /\u0026gt;Yes, I-I knew what they planned… \u0026lt;g id=\"male_hanghead\" priority=\"high\" /\u0026gt;but if I spoke out, Umberto said he'd bury me too!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Sun_p1_01",
+        "PlayerPrompt": "\"You're studying the curse?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_shocked\" /\u0026gt;He told you? Well then, a secret no more! \u0026lt;g id=\"female_nodyes\" /\u0026gt;So yes, I'm trying to restore the \"bright\" to Brightwood.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Galahad_p5_01",
+        "PlayerPrompt": "\"I'm meeting Sun to the south.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_agree1\" /\u0026gt;Of course. With so many leads to follow, it's good we can split up.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Sun_p2_02",
+        "PlayerPrompt": "\"What else do we need?\"",
+        "NPCResponse": "\u0026lt;g id=\"male_clasphandsGrateful\" /\u0026gt;All that remains is some token to prove the Grand Vigilant has also answered for his crimes. \u0026lt;g id=\"male_pointleft\" priority=\"high\" /\u0026gt;I believe your friend Galahad knows where to find him.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Sun_p3_01",
+        "PlayerPrompt": "\"Yes, just tell me what to do.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_explainS\" /\u0026gt;Keep in mind, this isn't an exact science, but \u0026lt;g id=\"female_nodyes\" /\u0026gt;whatever bad deeds the Vigil performed here, \u0026lt;g id=\"male_pointsoutthere\" /\u0026gt;the worst of them were in the Undercroft.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Yonas_p7_01",
+        "PlayerPrompt": "\"He tried to forge a Heartgem.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_think\" /\u0026gt;Hm. It seems his soul was tormented and perhaps that drove him to make poor decisions. \u0026lt;g id=\"litearmor_shakehead\" /\u0026gt;This island eventually makes fools of us all.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Sun_p4_01",
+        "PlayerPrompt": "\"Indeed. You should stay.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_chuckle\" /\u0026gt;Funny, Yonas said the same, and Galahad's on board. \u0026lt;g id=\"female_nodshrugokay\" /\u0026gt;So I think I might allow myself to go along with the flow.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Galahad_p7_02",
+        "PlayerPrompt": "\"You know of the sorceress?\"",
+        "NPCResponse": "\u0026lt;g id=\"male_agree1\" /\u0026gt;Yes, though I know her by another name, the Corpse Crone of Weaver's Fen. I have doubts about her existence.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Pennyfather_05",
+        "PlayerPrompt": "\"Who is the Corpse Crone?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_shocked\" /\u0026gt;The Corpse Crone!? Don't say that name so loudly lest she be summoned! She is the true cause of ALL this darkness in Brightwood.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_Pennyfather_06",
+        "PlayerPrompt": "\"I plan to seek her out, at least.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_crossarmsUpset\" priority=\"high\" /\u0026gt;Be wary then, nosy traveler! Weaver's Fen is a foul territory, ridden with sickness and despair, all the crone's doing, no doubt!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_beauty_correct",
+        "PlayerPrompt": "Offer the mirror",
+        "NPCResponse": "[You place an offering on the plate.]",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Beauty",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_beauty_incorrect",
+        "PlayerPrompt": "Offer the mirror",
+        "NPCResponse": "[You place an offering on the plate, but it tumbles back into your hands.]",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Beauty",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_family_correct",
+        "PlayerPrompt": "Offer the doll",
+        "NPCResponse": "[You place an offering on the plate.]",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Family",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_family_incorrect",
+        "PlayerPrompt": "Offer the doll",
+        "NPCResponse": "[You place an offering on the plate, but it tumbles back into your hands.]",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Family",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_hunter_correct",
+        "PlayerPrompt": "Offer the lucky charm",
+        "NPCResponse": "[You place an offering on the plate.]",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Hunter",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Topic_99B_MorgenGrave_hunter_incorrect",
+        "PlayerPrompt": "Offer the lucky charm",
+        "NPCResponse": "[You place an offering on the plate, but it tumbles back into your hands.]",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "!99B_MSQ_06_GravePuzzle_Hunter",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

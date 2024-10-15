@@ -54,6 +54,12 @@
         "Description": ""
     },
     {
+        "CategoryID": "Prismatic",
+        "ImagePath": "",
+        "DisplayText": "Prismatic Scarab",
+        "Description": ""
+    },
+    {
         "CategoryID": "PrismaticMeleeWeapons",
         "ImagePath": "Icons/Items/Drawing/placeholder",
         "DisplayText": "Melee Weapons - Prismatic Scarab",
@@ -699,7 +705,7 @@
         "CategoryID": "HatchetA",
         "ImagePath": "Icons/Items/Drawing/1hHatchet",
         "DisplayText": "Hatchet",
-        "Description": "A diverse weapon that allows for ranged throwing attacks or rapid close quarters attacks. Ideal for aggressive, fully committed close quarters melee combat or tactical medium range combat.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Light Ender: Deals {[1.050000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.200000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Charged Heavy: Deals {[1.600000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage."
+        "Description": "A diverse weapon that allows for ranged throwing attacks or rapid close quarters attacks. Ideal for aggressive, fully committed close quarters melee combat or tactical medium range combat.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Light Ender: Deals {[1.050000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.200000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Charged Heavy: Deals {[1.600000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n\\nTaunt Gem Compatible: Heavy attacks with a hatchet attached with a Carnelian gem taunt for {[0.500000]}s. (Taunt causes monsters to focus only on you.)"
     },
     {
         "CategoryID": "Knife",
@@ -735,13 +741,13 @@
         "CategoryID": "SwordA",
         "ImagePath": "Icons/Items/Drawing/1hSword",
         "DisplayText": "Straight Sword",
-        "Description": "A pairing of melee-focused weapons that, when combined, offer solid offensive and defensive capabilities. Utilizes a combination of arcing swings and lunges for the offensive attacks and a shield to maximize defenses.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Light Ender: Deals {[1.050000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.200000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Charged Heavy: Deals {[1.600000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage."
+        "Description": "A pairing of melee-focused weapons that, when combined, offer solid offensive and defensive capabilities. Utilizes a combination of arcing swings and lunges for the offensive attacks and a shield to maximize defenses.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Light Ender: Deals {[1.050000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.200000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Charged Heavy: Deals {[1.600000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n\\nTaunt Gem Compatible: Heavy attacks with a sword attached with a Carnelian gem taunt for {[0.500000]}s. (Taunt causes monsters to focus only on you.)"
     },
     {
         "CategoryID": "SwordB",
         "ImagePath": "Icons/Items/Drawing/1hRapier",
         "DisplayText": "Rapier",
-        "Description": "A speed oriented melee weapon with a variety of quick lunge attacks. Excels at precise timing and outmaneuvering opponents while applying bleeds that gradually drain the target’s health.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Light Middle Swipes: Deals {[0.660000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.330000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage."
+        "Description": "A speed oriented melee weapon with a variety of quick lunge attacks. Excels at precise timing and outmaneuvering opponents while applying bleeds that gradually drain the target’s health.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Light Middle Swipes: Deals {[0.660000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.330000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n\\nTaunt Gem Compatible: Heavy attacks with a rapier attached with a Carnelian gem taunt for {[0.500000]}s. (Taunt causes monsters to focus only on you.)"
     },
     {
         "CategoryID": "SwordC",
@@ -759,13 +765,13 @@
         "CategoryID": "GreatAxe",
         "ImagePath": "Icons/Items/Drawing/2hGreatAxe",
         "DisplayText": "Great Axe",
-        "Description": "A large melee weapon with wide arcing swings and powerful chopping attacks. Ideal for engaging multiple enemies with AoE damage or dealing extreme damage to single targets.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.200000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Charged Heavy: Deals {[1.600000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage."
+        "Description": "A large melee weapon with wide arcing swings and powerful chopping attacks. Ideal for engaging multiple enemies with AoE damage or dealing extreme damage to single targets.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.200000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Charged Heavy: Deals {[1.600000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n\\nTaunt Gem Compatible: Heavy attacks with a great axe attached with a Carnelian gem taunt for {[0.500000]}s. (Taunt causes monsters to focus only on you.)"
     },
     {
         "CategoryID": "SpearA",
         "ImagePath": "Icons/Items/Drawing/bowA",
         "DisplayText": "Spear",
-        "Description": "A melee weapon that utilizes its long reach for aggressive thrusting attacks. Perfect for keeping targets at a distance, strategic positioning, and applying persistent pressure to targets.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.300000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Charged Heavy: Deals {[1.650000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage."
+        "Description": "A melee weapon that utilizes its long reach for aggressive thrusting attacks. Perfect for keeping targets at a distance, strategic positioning, and applying persistent pressure to targets.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.300000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Charged Heavy: Deals {[1.650000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n\\nTaunt Gem Compatible: Heavy attacks with a spear attached with a Carnelian gem taunt for {[0.500000]}s. (Taunt causes monsters to focus only on you.)"
     },
     {
         "CategoryID": "SpearB",
@@ -777,7 +783,7 @@
         "CategoryID": "BowA",
         "ImagePath": "Icons/Items/Drawing/bowA",
         "DisplayText": "Bows",
-        "Description": "A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\\n\\n•Hip-Fire: Deals {[0.600000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Short Draw: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Long Draw: Deals {[1.500000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage."
+        "Description": "A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\\n\\n•Hip-Fire: Deals {[0.600000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Short Draw: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Long Draw: Deals {[1.500000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage. \\n\\nThe Bow, along with all other ranged weapons, has a persistent {[0.200000 * 100]}% increase to base damage."
     },
     {
         "CategoryID": "BowB",
@@ -789,7 +795,7 @@
         "CategoryID": "MusketA",
         "ImagePath": "Icons/Items/Drawing/2hMusketA",
         "DisplayText": "Musket",
-        "Description": "A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance with a high payoff for precision.\\n\\n•Standard Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage."
+        "Description": "A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance with a high payoff for precision.\\n\\n•Standard Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage. \\n\\nThe Musket, along with all other ranged weapons, has a persistent {[0.200000 * 100]}% increase to base damage."
     },
     {
         "CategoryID": "PistolA",
@@ -861,7 +867,7 @@
         "CategoryID": "Warhammer",
         "ImagePath": "Icons/Items/Drawing/2hDemoHammer",
         "DisplayText": "War Hammers",
-        "Description": "A mighty combat hammer that can cause the earth to quake with its crushing strikes. Ideal for impeding enemies with ground tremors or dealing crippling blows directly to a target.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.300000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Charged Heavy: Deals {[1.700000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage."
+        "Description": "A mighty combat hammer that can cause the earth to quake with its crushing strikes. Ideal for impeding enemies with ground tremors or dealing crippling blows directly to a target.\\n\\n•Light Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.300000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Charged Heavy: Deals {[1.700000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n\\nTaunt Gem Compatible: Heavy attacks with a war hammer attached with a Carnelian gem taunt for {[0.500000]}s. (Taunt causes monsters to focus only on you.)"
     },
     {
         "CategoryID": "Imbue",
@@ -1827,7 +1833,7 @@
         "CategoryID": "StaffLife",
         "ImagePath": "Icons/Items/Drawing/StaffLife",
         "DisplayText": "Life Staves",
-        "Description": "A magical staff that consumes Mana to apply the restorative power of Nature spells. Ideal for supporting allies in combat with powerful healing and buffing abilities.\\n\\n•Light Attack: Deals {[1.070000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.510000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage."
+        "Description": "A magical staff that consumes Mana to apply the restorative power of Nature spells. Ideal for supporting allies in combat with powerful healing and buffing abilities.\\n\\n•Light Attack: Deals {[1.070000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Heavy Attack: Deals {[1.510000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage and pushes back targets hit {[2.000000]}m. If the target is a hostile AI and are within {[5.000000]}m, pushback distance is increased by {[1.000000 *100]}%. \\n\\nAll Life Staff damage is increased by {[0.350000 * 100]}% against hostile AI targets."
     },
     {
         "CategoryID": "StaffFire",
@@ -1858,6 +1864,12 @@
         "ImagePath": "Icons/Items/Drawing/StaffFire",
         "DisplayText": "Flail - Golden Scarab",
         "Description": "Flail - Golden Scarab"
+    },
+    {
+        "CategoryID": "ScarabJewelry",
+        "ImagePath": "",
+        "DisplayText": "Jewelry - Golden Scarab",
+        "Description": ""
     },
     {
         "CategoryID": "WeaponCoatings",
@@ -2868,12 +2880,6 @@
         "Description": ""
     },
     {
-        "CategoryID": "Ammo",
-        "ImagePath": "",
-        "DisplayText": "Ammunition",
-        "Description": ""
-    },
-    {
         "CategoryID": "ArmorHeavy",
         "ImagePath": "",
         "DisplayText": "Heavy Armor",
@@ -3002,7 +3008,7 @@
     {
         "CategoryID": "Charcoal",
         "ImagePath": "Icons/Items/Drawing/charcoal",
-        "DisplayText": "Charcoal",
+        "DisplayText": "Miscellaneous Refining",
         "Description": "Crafting Material."
     },
     {
@@ -3255,12 +3261,6 @@
         "CategoryID": "FishingPoles",
         "ImagePath": "",
         "DisplayText": "Fishing Poles",
-        "Description": ""
-    },
-    {
-        "CategoryID": "Arrows",
-        "ImagePath": "",
-        "DisplayText": "Arrows",
         "Description": ""
     },
     {
@@ -5102,25 +5102,25 @@
     {
         "CategoryID": "TrinketBand",
         "ImagePath": "Icons/Items/Drawing/TrinketBand",
-        "DisplayText": "",
+        "DisplayText": "Trinket Bands",
         "Description": ""
     },
     {
         "CategoryID": "TrinketSetting",
         "ImagePath": "Icons/Items/Drawing/TrinketSetting",
-        "DisplayText": "",
+        "DisplayText": "Trinket Gem Settings",
         "Description": ""
     },
     {
         "CategoryID": "TrinketChain",
         "ImagePath": "Icons/Items/Drawing/TrinketChain",
-        "DisplayText": "",
+        "DisplayText": "Trinket Chains",
         "Description": ""
     },
     {
         "CategoryID": "TrinketHook",
         "ImagePath": "Icons/Items/Drawing/TrinketHook",
-        "DisplayText": "",
+        "DisplayText": "Trinket Hooks",
         "Description": ""
     },
     {
@@ -5832,6 +5832,18 @@
         "Description": ""
     },
     {
+        "CategoryID": "AttributeCore",
+        "ImagePath": "crafting/itemBgCircleNone",
+        "DisplayText": "Core Material",
+        "Description": ""
+    },
+    {
+        "CategoryID": "TimelessShards",
+        "ImagePath": "",
+        "DisplayText": "Timeless Shards",
+        "Description": ""
+    },
+    {
         "CategoryID": "TimelessShardsStr",
         "ImagePath": "",
         "DisplayText": "Timeless Shards - Strength",
@@ -6375,6 +6387,90 @@
         "CategoryID": "arcanarecipes",
         "ImagePath": "",
         "DisplayText": "Arcana Patterns",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonPriority",
+        "ImagePath": "",
+        "DisplayText": "Noteworthy Items",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonApexCrafting",
+        "ImagePath": "",
+        "DisplayText": "Apex Doubloon Exchange Gear",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonCrafting",
+        "ImagePath": "",
+        "DisplayText": "Doubloon Exchange Gear",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonCraftingMisc",
+        "ImagePath": "",
+        "DisplayText": "Doubloon Exchange Miscellaneous",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonCraftingKey",
+        "ImagePath": "",
+        "DisplayText": "Treasure Keys",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonCraftingArmor",
+        "ImagePath": "",
+        "DisplayText": "Armor",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonCraftingWeapons",
+        "ImagePath": "",
+        "DisplayText": "Weaponry",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonCraftingNamed",
+        "ImagePath": "",
+        "DisplayText": "Named Items",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonCraftingApexNamed",
+        "ImagePath": "",
+        "DisplayText": "Apex Named Items",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonCraftingTrinkets",
+        "ImagePath": "",
+        "DisplayText": "Trinkets",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonCraftingAntiques",
+        "ImagePath": "",
+        "DisplayText": "Antiques and Oddities",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonCraftingGrabBags",
+        "ImagePath": "",
+        "DisplayText": "Sealed Casques",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonCraftingConsumables",
+        "ImagePath": "",
+        "DisplayText": "Consumables Exchange",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DoubloonFoodExchange",
+        "ImagePath": "",
+        "DisplayText": "Foods Exchange",
         "Description": ""
     },
     {
@@ -8349,6 +8445,42 @@
         "CategoryID": "HeavyLegs_SyndicateRank6_2_Sealed",
         "ImagePath": "",
         "DisplayText": "Sealed Faction Armor",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RaidEquipment",
+        "ImagePath": "",
+        "DisplayText": "Raid Equipment",
+        "Description": ""
+    },
+    {
+        "CategoryID": "HercyneRaid",
+        "ImagePath": "",
+        "DisplayText": "Gorgon's Hive",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RaidMateria",
+        "ImagePath": "",
+        "DisplayText": "Raid Named Replicas",
+        "Description": ""
+    },
+    {
+        "CategoryID": "HercyneMateria",
+        "ImagePath": "",
+        "DisplayText": "Gorgon's Hive Named Replicas",
+        "Description": ""
+    },
+    {
+        "CategoryID": "RaidCrafting",
+        "ImagePath": "",
+        "DisplayText": "Raid Crafting",
+        "Description": ""
+    },
+    {
+        "CategoryID": "725EndgameUpgradeResource",
+        "ImagePath": "",
+        "DisplayText": "Apex Crafting",
         "Description": ""
     }
 ]
