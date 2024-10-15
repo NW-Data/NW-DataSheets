@@ -86,7 +86,7 @@
         "PhasingPopulationMax": 300,
         "PhasingSortPriority": 70,
         "PhasingAILeashOverride": 25,
-        "PhasingProjectedACU": 0.2,
+        "PhasingProjectedACU": 0.1,
         "PhasingProjectedMemoryMb": 4096
     },
     {
@@ -3412,12 +3412,12 @@
         "PhasingBoundsMargin": "120 80 80 260",
         "PhasingEnterMargin": "",
         "PhasingExitMargin": "",
-        "PhasingPopulationTarget": null,
-        "PhasingPopulationMax": null,
+        "PhasingPopulationTarget": 300,
+        "PhasingPopulationMax": 500,
         "PhasingSortPriority": 60,
         "PhasingAILeashOverride": 25,
-        "PhasingProjectedACU": null,
-        "PhasingProjectedMemoryMb": null
+        "PhasingProjectedACU": 0.2,
+        "PhasingProjectedMemoryMb": 8192
     },
     {
         "TerritoryID": 40187,
