@@ -131,5 +131,12 @@
         "GameEventTypes": "",
         "CreatureTypes": "",
         "GameEventIDs": "Arena3v3_Win_3_Round"
+    },
+    {
+        "TrackedStatID": "QuestGameEvent",
+        "StatType": "GameEvent",
+        "GameEventTypes": "",
+        "CreatureTypes": "Quest,Quest+,Quest-,MSQ-,MSQ,MSQ+",
+        "GameEventIDs": ""
     }
 ]

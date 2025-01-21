@@ -1,0 +1,92 @@
+[
+    {
+        "ConversationTopicId": "9401_Hint",
+        "PlayerPrompt": "\"Can you explain riding?\"",
+        "NPCResponse": "You can summon your mount with (xxx) Sprinting costs mount stamina. Falling from great heights and being hit by enemies reduces its stamina. You can replenish stamina by feeding your mount. If its stamina gets too low you will be dismounted.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9402_Hint",
+        "PlayerPrompt": "\"Why did you build this stable?\"",
+        "NPCResponse": "My former paramour and I used our knowledge of the Ancient light bridges to move goods for very private clientele.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9403_Hint",
+        "PlayerPrompt": "\"What's it like to train wolves? \"",
+        "NPCResponse": "Wolves are easier than humans. They do not feel greed or pride or envy. Simply show courage, show yourself to be the natural leader of the pack, and they follow.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9404_Hint",
+        "PlayerPrompt": "\"Do you know the best route?\"",
+        "NPCResponse": "Oh, I can't take sides, hero. That wouldn't be sporting. But you seem capable enough. But the fastest riders have knowledge of hidden glyphs and the Ancient bridges.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9405_Hint",
+        "PlayerPrompt": "\"Do you trust humans?\"",
+        "NPCResponse": "Your kind are not like us. Mother Earth has not given you a natural instinct to follow. Some, like yourself, are as constant as the tides. Others are capricious, like a leaf on the wind. I trust who I can and am wary of others.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9401_HorseTalk",
+        "PlayerPrompt": "(Feed oats)",
+        "NPCResponse": "The horse takes the oats and whinnies gratefully. It nudges your hand sniffing you. You feel a bond forming with it.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9405_LionTalk",
+        "PlayerPrompt": "\"What was Aeternum like before?\"",
+        "NPCResponse": "Before your kind arrived in this land, we lions were known as the king of beasts. All creatures, great and small, bowed to our majesty.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9401_GoTo_Jochi_Topic",
+        "PlayerPrompt": "\"I bested your times!\"",
+        "NPCResponse": "\u0026lt;g id=\"male_applaud\" /\u0026gt;Your skills are impressive.\u0026lt;g id=\"male_willcoverit\" /\u0026gt; I have nothing more to teach.\u0026lt;g id=\"male_nodproud\" /\u0026gt; Now experience will be your tutor.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9402_GoTo_Francois_Topic",
+        "PlayerPrompt": "\"Those races were easy.\"",
+        "NPCResponse": "\u0026lt;g id=\"litearmor_concerns\" /\u0026gt;Back again, friend? I already admit defeat.\u0026lt;g id=\"litearmor_youknow\" /\u0026gt; A good smuggler always knows when the jig is up!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "9403_GoTo_Valencia_Topic",
+        "PlayerPrompt": "\"We cleared your challenges.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_salutefistchest\" /\u0026gt;You and your wolf are now of one spirit.\u0026lt;g id=\"female_nodding\" /\u0026gt; But further challenges will strengthen your bond.\u0026lt;g id=\"female_leanforwardlisten\" /\u0026gt; I have heard of a woman who seeks out the island's greatest champions.\u0026lt;g id=\"female_nodshrugokay\" /\u0026gt; Perhaps it is time your legend grows.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

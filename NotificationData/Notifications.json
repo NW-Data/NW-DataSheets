@@ -77,7 +77,7 @@
     {
         "NotificationId": "See_Animal",
         "DisplayTitle": "Creatures",
-        "DisplayText": "There's an animal nearby.  Kill it for food and hides!",
+        "DisplayText": "There's an animal nearby. Kill it for food and hides!",
         "SecondaryText": "",
         "IconPath": "",
         "MaxDisplayCount": 1,
@@ -345,6 +345,21 @@
         "NumberFields": ""
     },
     {
+        "NotificationId": "Trade_Failure_Not_In_FFA_State",
+        "DisplayTitle": "Trade Failed",
+        "DisplayText": "Item cannot be transferred because the player is not in the Free-for-all state.",
+        "SecondaryText": "",
+        "IconPath": "",
+        "MaxDisplayCount": -1,
+        "NotificationType": "Minor",
+        "TrackDisplayCount": null,
+        "DurationOverride": null,
+        "CooldownSeconds": null,
+        "Keybind": "",
+        "KeybindActionmap": "",
+        "NumberFields": ""
+    },
+    {
         "NotificationId": "Trade_Failure_Global_Storage_Not_Enough_Currency",
         "DisplayTitle": "Trade Failed",
         "DisplayText": "You do not have enough funds to cover the withdrawal fee for remotely stored items.",
@@ -481,8 +496,8 @@
     },
     {
         "NotificationId": "Toggle_PvP",
-        "DisplayTitle": "Flagging for PvP.",
-        "DisplayText": "While flagged for PvP, you can attack and be attacked by other PvP flagged players. \u0026lt;font face=\"lyshineui/fonts/Nimbus_semibold.font\" color=\"#DDDDDD\"\u0026gt;Successful kills can get you Azoth Salt and PvP XP.\u0026lt;/font\u0026gt; \\nYou also receive the following bonuses: \u0026lt;font face=\"lyshineui/fonts/Nimbus_semibold.font\" color=\"#DDDDDD\"\u0026gt;+10% XP, +3% Gathering Luck, +1% Global Luck\u0026lt;/font\u0026gt; for large/elite chests. \\n\\nWhen you leave the Sanctuary, you will have a \u0026lt;font face=\"lyshineui/fonts/Nimbus_semibold.font\" color=\"#DDDDDD\"\u0026gt;30 second protection\u0026lt;/font\u0026gt; timer.",
+        "DisplayTitle": "Flagging for PvP",
+        "DisplayText": "While flagged for PvP, you can attack and be attacked by other PvP flagged players. \u0026lt;font face=\"lyshineui/fonts/Nimbus_semibold.font\" color=\"#DDDDDD\"\u0026gt;Successful kills can get you Azoth Salt and PvP XP.\u0026lt;/font\u0026gt; \\nYou also receive the following bonuses: \u0026lt;font face=\"lyshineui/fonts/Nimbus_semibold.font\" color=\"#DDDDDD\"\u0026gt;+10% XP, +3% Gathering Luck, +1% Global Luck\u0026lt;/font\u0026gt; for large/elite chests. \\n\\nWhen you leave the Sanctuary, you will have \u0026lt;font face=\"lyshineui/fonts/Nimbus_semibold.font\" color=\"#DDDDDD\"\u0026gt;{duration} of protection.\u0026lt;/font\u0026gt;",
         "SecondaryText": "",
         "IconPath": "",
         "MaxDisplayCount": 1,
@@ -563,7 +578,7 @@
         "MaxDisplayCount": null,
         "NotificationType": "Minor",
         "TrackDisplayCount": null,
-        "DurationOverride": 10,
+        "DurationOverride": null,
         "CooldownSeconds": null,
         "Keybind": "",
         "KeybindActionmap": "",

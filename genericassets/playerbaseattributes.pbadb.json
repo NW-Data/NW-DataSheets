@@ -148,7 +148,7 @@
             }
         ],
         "camping unlock by level": [
-            5,
+            10,
             15,
             25,
             40,
@@ -1055,7 +1055,7 @@
                                 {
                                     "__type": "AZStd::pair",
                                     "value1": 675,
-                                    "value2": 700
+                                    "value2": 1000
                                 }
                             ]
                         }
@@ -1133,7 +1133,7 @@
                                 {
                                     "__type": "AZStd::pair",
                                     "value1": 675,
-                                    "value2": 700
+                                    "value2": 1000
                                 }
                             ]
                         }
@@ -1331,7 +1331,7 @@
                 "value": 1177114354
             }
         },
-        "blocking threat mulitplier": 1,
+        "blocking threat mulitplier": 2,
         "final starting beach achievement": {
             "__type": "EditCrc",
             "m_valuestr": "S_introtosettlement",
@@ -1348,7 +1348,7 @@
                 "value": 3136611030
             }
         },
-        "first house flat discount": 500000
+        "first house flat discount": 900000
     },
     "structure placement data": {
         "__type": "StructurePlacementData",
@@ -1472,7 +1472,7 @@
         "sanctuary enter notification id": "Enter_Sanctuary",
         "sanctuary exit notification id": "Exit_Sanctuary",
         "toggle pvp notification id": "Toggle_PvP",
-        "faction change cooldown seconds": 5184000,
+        "faction change cooldown seconds": 2592000,
         "faction change cost level": 20,
         "faction change cost min": 0,
         "faction change cost max": 0,
@@ -2277,32 +2277,32 @@
         "item type fee multipliers": [
             {
                 "__type": "RemoteStorageItemTypeMultiplierData",
-                "item tier base fees": 3,
+                "item tier base fees": 0,
                 "item type fee multipliers": 0.01
             },
             {
                 "__type": "RemoteStorageItemTypeMultiplierData",
-                "item tier base fees": 6,
+                "item tier base fees": 0,
                 "item type fee multipliers": 0.01
             },
             {
                 "__type": "RemoteStorageItemTypeMultiplierData",
-                "item tier base fees": 8,
+                "item tier base fees": 0,
                 "item type fee multipliers": 0.01
             },
             {
                 "__type": "RemoteStorageItemTypeMultiplierData",
-                "item tier base fees": 1,
+                "item tier base fees": 0,
                 "item type fee multipliers": 2
             },
             {
                 "__type": "RemoteStorageItemTypeMultiplierData",
-                "item tier base fees": 9,
+                "item tier base fees": 0,
                 "item type fee multipliers": 2
             },
             {
                 "__type": "RemoteStorageItemTypeMultiplierData",
-                "item tier base fees": 4,
+                "item tier base fees": 0,
                 "item type fee multipliers": 0.01
             },
             {
@@ -2952,11 +2952,37 @@
             "15_Quest_04",
             "14_Quest_06",
             "9404_R1_Brimstone"
+        ],
+        "0xf242194b": {
+            "__type": "EditCrc",
+            "m_valuestr": "SoleSurvivor02_Check",
+            "m_valuecrc": {
+                "__type": "Crc32",
+                "value": 153174149
+            }
+        },
+        "0x695d4968": [
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "01_SoleSurvivor",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 2823548694
+                }
+            },
+            {
+                "__type": "EditCrc",
+                "m_valuestr": "01_SoleSurvivor2",
+                "m_valuecrc": {
+                    "__type": "Crc32",
+                    "value": 4004069555
+                }
+            }
         ]
     },
     "milestone correction data": {
         "__type": "MilestoneCorrectionData",
-        "currentmilestoneversion": 2,
+        "currentmilestoneversion": 3,
         "milestonecorrections": [
             {
                 "__type": "MilestoneCorrectionEntryData",
@@ -3030,7 +3056,8 @@
                 "milestoneachievement": "",
                 "milestoneplayerlevel": 0,
                 "invalidterritories": [
-                    9120
+                    9120,
+                    9198
                 ],
                 "relocation territory ids": [
                     30044,
@@ -3042,7 +3069,34 @@
                 "alwayscheckmilestone": true,
                 "milestoneversionadded": 3,
                 "teleportcontext": 26
+            },
+            {
+                "__type": "MilestoneCorrectionEntryData",
+                "milestoneachievement": "",
+                "milestoneplayerlevel": 0,
+                "invalidterritories": [
+                    40196,
+                    30162,
+                    40197
+                ],
+                "relocation territory ids": [
+                    4,
+                    6,
+                    10,
+                    12
+                ],
+                "alwayscheckmilestone": true,
+                "milestoneversionadded": 3,
+                "teleportcontext": 25
             }
         ]
+    },
+    "0xb527db5c": {
+        "__type": "dac8f491-915c-4282-acb3-e14a793b35f3",
+        "0xd0a3941f": 0.6,
+        "0x5f4c815a": 30,
+        "0xd9870527": 0.4,
+        "0xb18fa57e": 0.05,
+        "0x1ca72258": 0.01
     }
 }

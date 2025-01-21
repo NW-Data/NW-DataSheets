@@ -6,6 +6,7 @@
         "ReqAchievementId": "SwapActive_MSQ_MaraBook",
         "OnWatchedAchievementId": "Cinematic_TempestReckoning",
         "DurationInSec": 108,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "And so it came to pass...",
         "Comment": ""
@@ -17,6 +18,7 @@
         "ReqAchievementId": "S_headstatue_cutscene",
         "OnWatchedAchievementId": "Cinematic_TempestRising",
         "DurationInSec": 106,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "This island has always guarded the promise of paradise. Humanity cast out, deemed unworthy of such blessings.",
         "Comment": ""
@@ -28,6 +30,7 @@
         "ReqAchievementId": "S_headstatue_cutscene_mb",
         "OnWatchedAchievementId": "Cinematic_TempestRising",
         "DurationInSec": 106,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "This island has always guarded the promise of paradise.",
         "Comment": ""
@@ -39,6 +42,7 @@
         "ReqAchievementId": "16_ImhotepCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_LegacyOfAncients",
         "DurationInSec": 106,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "The gods summoned us from the Old World.",
         "Comment": ""
@@ -50,6 +54,7 @@
         "ReqAchievementId": "16_CharmionCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_LegacyOfRome",
         "DurationInSec": 123,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "We set out to find the Field of Reeds, the blessed home of the gods.",
         "Comment": ""
@@ -61,6 +66,7 @@
         "ReqAchievementId": "16_HuntressCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_TheHuntress",
         "DurationInSec": 115,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "Apophis is returned to the sands and Sutekh remains at rest. But the hunt has only just begun.",
         "Comment": ""
@@ -72,6 +78,7 @@
         "ReqAchievementId": "95_s01_Skye_Cinematic_Letter_Unlock",
         "OnWatchedAchievementId": "Cinematic_95_s01_Skye_Watched",
         "DurationInSec": 79,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "My father called me weak.",
         "Comment": ""
@@ -83,6 +90,7 @@
         "ReqAchievementId": "99C_MorgaineCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_MorgainesTruth",
         "DurationInSec": 86,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "Aeternum's secrets called to us in dreams. Promising vast, ancient knowledge.",
         "Comment": ""
@@ -94,6 +102,7 @@
         "ReqAchievementId": "99B_GalahadCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_GalahadsRegret",
         "DurationInSec": 86,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "It was the dream of Avalon that led King Artorius to these shores.",
         "Comment": ""
@@ -105,6 +114,7 @@
         "ReqAchievementId": "99B_AzothTreeCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_AzothTree",
         "DurationInSec": 111,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "",
         "Comment": ""
@@ -116,6 +126,7 @@
         "ReqAchievementId": "99B_PennyfatherCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_CorpseCrone",
         "DurationInSec": 82,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "Long ago, a witch crept into the eastern fens. This was the Corpse Crone, and she cast a wicked spell.",
         "Comment": ""
@@ -127,6 +138,7 @@
         "ReqAchievementId": "Unlock_95A_S02_DevourerCinematic",
         "OnWatchedAchievementId": "Watched_95A_S02_DevourerCinematic",
         "DurationInSec": 107,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "The Babylonians called them, \"Akilu.\"",
         "Comment": ""
@@ -138,6 +150,7 @@
         "ReqAchievementId": "99E_BonesEarthCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_BonesEarth",
         "DurationInSec": 93,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "The glyphs tell a tale of a civil war between the Ancient Immortals.",
         "Comment": ""
@@ -149,8 +162,21 @@
         "ReqAchievementId": "99E_CaerDunCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_CaerDun",
         "DurationInSec": 82,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "I've never seen anyone fight so bravely as Yonas did in Great Cleave.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "EW_ElysianIntro",
+        "VideoPath": "LyShineUI/Videos/NW23_3DRothAE_PlaceHolder.bk2",
+        "Name": "@cinmatic_video_ew_elysianintro",
+        "ReqAchievementId": "Start_Ely_IntroCinematic",
+        "OnWatchedAchievementId": "Watched_Ely_IntroCinematic",
+        "DurationInSec": 113,
+        "CanSkip": "",
+        "Description": "",
+        "Subtitle": "Time has no claim on the Eternal Isle.",
         "Comment": ""
     },
     {
@@ -160,6 +186,7 @@
         "ReqAchievementId": "09A_BeastLordsCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_BeastLords",
         "DurationInSec": 94,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "At the dawn of time, the Beast Lords were among the Titans who roamed the Earth.",
         "Comment": ""
@@ -171,6 +198,7 @@
         "ReqAchievementId": "09A_NewEdenCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_NewEden",
         "DurationInSec": 91,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "It began when the Ennead awakened, its power moving through the earth.",
         "Comment": ""
@@ -182,6 +210,7 @@
         "ReqAchievementId": "09A_ShadowAwakensCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_ShadowAwakens",
         "DurationInSec": 89,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "Since the beginning, I have sacrificed to protect the Earth.",
         "Comment": ""
@@ -193,6 +222,7 @@
         "ReqAchievementId": "99D_Unlock_ThorpeCinematic",
         "OnWatchedAchievementId": "Cinematic_DarkCommand",
         "DurationInSec": 98,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "Neither duty nor divine purpose called me from the Old World...",
         "Comment": ""
@@ -204,6 +234,7 @@
         "ReqAchievementId": "99F_WiseManCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_WiseMan",
         "DurationInSec": 103,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "Your battle against the physical forces of evil has honor.",
         "Comment": ""
@@ -215,6 +246,7 @@
         "ReqAchievementId": "99F_MothersHopeCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_MothersHope",
         "DurationInSec": 95,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "My throne stolen, I sailed from my homeland an exile, dreaming of a new home for my people, and...",
         "Comment": ""
@@ -226,8 +258,9 @@
         "ReqAchievementId": "99G_FallenAngelCinematic_Unlock",
         "OnWatchedAchievementId": "Cinematic_FallenAngel",
         "DurationInSec": 111,
+        "CanSkip": "",
         "Description": "",
-        "Subtitle": "I still recall the day I discovered an Angel visiting my church....",
+        "Subtitle": "I still recall the day I discovered an Angel visiting my church...",
         "Comment": ""
     },
     {
@@ -237,8 +270,141 @@
         "ReqAchievementId": "Unlock_95_s04_Cinematic",
         "OnWatchedAchievementId": "Watched_95_s04_Cinematic",
         "DurationInSec": 96,
+        "CanSkip": "",
         "Description": "",
         "Subtitle": "I can never forget the glory of that day.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "MB_EmptyThrone",
+        "VideoPath": "LyShineUI/Videos/S6_TET_Final_00.bk2",
+        "Name": "@cinmatic_video_mb_emptythrone",
+        "ReqAchievementId": "12_EmptyThroneCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_EmptyThrone",
+        "DurationInSec": 116,
+        "CanSkip": "",
+        "Description": "",
+        "Subtitle": "King Artorius arrived on Aeternum 700 years ago to discover a people scattered and divided.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "MSQ_AncientAeternum",
+        "VideoPath": "LyShineUI/Videos/S6_AA_Final_00.bk2",
+        "Name": "@cinmatic_video_msq_ancientaeternum",
+        "ReqAchievementId": "MSQ_AncientAeternumCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_AncientAeternum",
+        "DurationInSec": 101,
+        "CanSkip": "",
+        "Description": "",
+        "Subtitle": "Aeternum's ruins tell the tale of a magnificent civilization that once dominated the island.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "MSQ_FallSoulwardens",
+        "VideoPath": "LyShineUI/Videos/S6_FOTSW_Final_00.bk2",
+        "Name": "@cinmatic_video_msq_fallsoulwardens",
+        "ReqAchievementId": "MSQ_FallSoulwardensCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_FallSoulwardens",
+        "DurationInSec": 118,
+        "CanSkip": "",
+        "Description": "",
+        "Subtitle": "We were not the first to stand against the Corrupted.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "WW_MedeasTribute",
+        "VideoPath": "LyShineUI/Videos/S6_MT_Final_00.bk2",
+        "Name": "@cinmatic_video_ww_medeastribute",
+        "ReqAchievementId": "06_MedeasTributeCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_MedeasTribute",
+        "DurationInSec": 129,
+        "CanSkip": "",
+        "Description": "",
+        "Subtitle": "Two-thousand years ago, cataclysmic wars between Aeternum's earliest civilizations ravaged these southern plains.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "MSQ_TroubleOxboro",
+        "VideoPath": "LyShineUI/Videos/S6_TWO_FINAL.bk2",
+        "Name": "@cinmatic_video_msq_troubleoxboro",
+        "ReqAchievementId": "MSQ_TroubleOxboroCinematic_Unlock",
+        "OnWatchedAchievementId": "Cinematic_TroubleOxboro",
+        "DurationInSec": 97,
+        "CanSkip": "",
+        "Description": "",
+        "Subtitle": "This town is much older than it looks.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "MSQ_LaEsperanza",
+        "VideoPath": "LyShineUI/Videos/S6_LAE_FINAL.bk2",
+        "Name": "@cinmatic_video_msq_laesperanza",
+        "ReqAchievementId": "MSQ_LaEsperanza_Unlock",
+        "OnWatchedAchievementId": "Cinematic_LaEsperanza",
+        "DurationInSec": 120,
+        "CanSkip": "",
+        "Description": "",
+        "Subtitle": "Fortune favors the bold.",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "FTUE_Intro1",
+        "VideoPath": "LyShineUI/Videos/FF_I1.bk2",
+        "Name": "@cinmatic_video_FTUE_Intro1",
+        "ReqAchievementId": "FTUE_Intro1_Cinematic_Unlock",
+        "OnWatchedAchievementId": "FTUE_Intro1_Cinematic_Watched",
+        "DurationInSec": 88,
+        "CanSkip": "",
+        "Description": "",
+        "Subtitle": "I don’t like it. Sailin' to an uncharted island with strange folk aboard--",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "FTUE_Intro2",
+        "VideoPath": "LyShineUI/Videos/FF_I2.bk2",
+        "Name": "@cinmatic_video_FTUE_Intro2",
+        "ReqAchievementId": "FTUE_Intro2_Cinematic_Unlock",
+        "OnWatchedAchievementId": "FTUE_Intro2_Cinematic_Watched",
+        "DurationInSec": 171,
+        "CanSkip": "",
+        "Description": "",
+        "Subtitle": "You lied to me, priest!",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "FTUE_Intro3",
+        "VideoPath": "LyShineUI/Videos/FF_I3.bk2",
+        "Name": "@cinmatic_video_FTUE_Intro3",
+        "ReqAchievementId": "FTUE_Intro3_Cinematic_Unlock",
+        "OnWatchedAchievementId": "FTUE_Intro3_Cinematic_Watched",
+        "DurationInSec": 44,
+        "CanSkip": "false",
+        "Description": "",
+        "Subtitle": "",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "FTUE_Rez",
+        "VideoPath": "LyShineUI/Videos/FF_RES.bk2",
+        "Name": "@cinmatic_video_FTUE_Rez",
+        "ReqAchievementId": "FTUE_Rez_Cinematic_Unlock",
+        "OnWatchedAchievementId": "FTUE_Rez_Cinematic_Watched",
+        "DurationInSec": 64,
+        "CanSkip": "",
+        "Description": "",
+        "Subtitle": "You have stolen what is mine...",
+        "Comment": ""
+    },
+    {
+        "CinematicVideoId": "FTUE_Rit",
+        "VideoPath": "LyShineUI/Videos/FF_RITUAL_v2.bk2",
+        "Name": "@cinmatic_video_FTUE_Rit",
+        "ReqAchievementId": "FTUE_Rit_Cinematic_Unlock",
+        "OnWatchedAchievementId": "FTUE_Rit_Cinematic_Watched",
+        "DurationInSec": 40,
+        "CanSkip": "false",
+        "Description": "",
+        "Subtitle": "Be still.",
         "Comment": ""
     }
 ]

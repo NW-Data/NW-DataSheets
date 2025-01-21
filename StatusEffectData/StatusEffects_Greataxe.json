@@ -13,7 +13,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": 3,
@@ -92,6 +92,7 @@
         "RemoveOnGameModeExit": 1,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": null,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -242,12 +243,13 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "GreatAxe_Vortex_Root",
         "DisplayName": "Root",
-        "Description": "Status_Root_Description",
+        "Description": "Your movement is currently disabled.",
         "EffectCategories": "Debuff+Root",
         "PlaceholderIcon": "lyshineui/images/status/SE_Root.png",
         "ShowInUITray": true,
@@ -258,7 +260,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": 1,
@@ -337,6 +339,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": null,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -487,7 +490,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Ultimate_Greataxe_Mauler",
@@ -503,7 +507,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": 3,
@@ -582,6 +586,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": null,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -732,7 +737,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Ultimate_Greataxe_Reaper",
@@ -748,7 +754,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": -1,
@@ -827,6 +833,7 @@
         "RemoveOnGameModeExit": 1,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": true,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -977,7 +984,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Greataxe_Reaper_DmgOnLight",
@@ -993,7 +1001,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": 5,
@@ -1072,6 +1080,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": null,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -1222,7 +1231,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Greataxe_Reaper_HasteOnLight",
@@ -1238,7 +1248,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": 3,
@@ -1317,6 +1327,7 @@
         "RemoveOnGameModeExit": 1,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": null,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -1439,12 +1450,12 @@
         "AFABlight": "",
         "StackDuration": 0,
         "DurationMax": 6,
-        "InheritDuration": "1",
-        "InheritTotalDuration": false,
-        "RefreshDuration": "0",
+        "InheritDuration": "0",
+        "InheritTotalDuration": true,
+        "RefreshDuration": "1",
         "StackMax": 1,
         "InitialStackSize": "",
-        "RemoveUnappliedStacks": true,
+        "RemoveUnappliedStacks": false,
         "PotencyMax": 1,
         "DontReplaceStack": "",
         "MoveSpeedMod": 0.2,
@@ -1467,7 +1478,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Greataxe_Reaper_DmgWhenBlocked",
@@ -1483,7 +1495,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": 10,
@@ -1562,6 +1574,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": null,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -1712,7 +1725,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Greataxe_Mauler_StamVsLowHp",
@@ -1728,7 +1742,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": true,
         "PotencyPerLevel": "",
         "BaseDuration": 0.1,
@@ -1807,6 +1821,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": true,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -1957,7 +1972,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Greataxe_Mauler_DmgOnBlock",
@@ -1973,7 +1989,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": 5,
@@ -2052,6 +2068,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": null,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -2202,7 +2219,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Upgrade_Greataxe_GravityWell_ArmorInWell",
@@ -2218,7 +2236,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": -1,
@@ -2297,6 +2315,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": null,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -2447,7 +2466,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Greataxe_Mauler_StamVsLowHp_Timer",
@@ -2463,7 +2483,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": true,
         "PotencyPerLevel": "",
         "BaseDuration": 20,
@@ -2542,6 +2562,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": true,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -2692,7 +2713,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Upgrade_Greataxe_Reap_DmgAtRng",
@@ -2708,7 +2730,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": 1,
@@ -2787,6 +2809,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": null,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -2937,7 +2960,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Greataxe_Mauler_DmgWhenFoesNear",
@@ -2953,7 +2977,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": -1,
@@ -3032,6 +3056,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": true,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -3182,7 +3207,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_Greataxe_Mauler_ArmorWhenFoesNear",
@@ -3198,7 +3224,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
         "BaseDuration": -1,
@@ -3277,6 +3303,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": true,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -3427,7 +3454,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_WhenFoesNearCleanup_Tracker",
@@ -3443,7 +3471,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": 1,
+        "IsClientPredicted": "1",
         "UseLightweightReplication": true,
         "PotencyPerLevel": "",
         "BaseDuration": 60,
@@ -3522,6 +3550,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": true,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -3643,7 +3672,7 @@
         "AFACurse": "",
         "AFABlight": "",
         "StackDuration": null,
-        "DurationMax": 1,
+        "DurationMax": 60,
         "InheritDuration": "",
         "InheritTotalDuration": null,
         "RefreshDuration": "",
@@ -3672,7 +3701,8 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_WhenFoesNearCleanup",
@@ -3688,7 +3718,7 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": 1,
+        "IsClientPredicted": "1",
         "UseLightweightReplication": true,
         "PotencyPerLevel": "",
         "BaseDuration": 0.1,
@@ -3767,6 +3797,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": true,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -3917,14 +3948,15 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     },
     {
         "StatusID": "Status_Passive_GreatAxe_Gravity_Root",
-        "DisplayName": "Root",
-        "Description": "Status_Root_Description",
-        "EffectCategories": "Debuff+Root",
-        "PlaceholderIcon": "lyshineui/images/status/SE_Root.png",
+        "DisplayName": "",
+        "Description": "",
+        "EffectCategories": "Tracking",
+        "PlaceholderIcon": "",
         "ShowInUITray": false,
         "ShowTextInDamageNumbers": false,
         "FxScriptOn": "",
@@ -3933,8 +3965,8 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
-        "UseLightweightReplication": null,
+        "IsClientPredicted": "0",
+        "UseLightweightReplication": false,
         "PotencyPerLevel": "",
         "BaseDuration": 0.33,
         "TickRate": 1,
@@ -4012,6 +4044,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": null,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -4162,12 +4195,13 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": 1
     },
     {
         "StatusID": "Status_Passive_GreatAxe_Gravity_Root_Hold",
         "DisplayName": "Root",
-        "Description": "Status_Root_Description",
+        "Description": "Your movement is currently disabled.",
         "EffectCategories": "Debuff+Root",
         "PlaceholderIcon": "lyshineui/images/status/SE_Root.png",
         "ShowInUITray": true,
@@ -4178,10 +4212,10 @@
         "WeaponEffectType": "",
         "Notification": "",
         "DisableTelemetry": "",
-        "IsClientPredicted": null,
+        "IsClientPredicted": "",
         "UseLightweightReplication": null,
         "PotencyPerLevel": "",
-        "BaseDuration": 0.25,
+        "BaseDuration": 0.4,
         "TickRate": 1,
         "DelayInitialTick": "",
         "TickCondition": "",
@@ -4257,6 +4291,7 @@
         "RemoveOnGameModeExit": null,
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
+        "AlwaysReplicate": null,
         "Afflictions": "",
         "OnHitAffixes": "",
         "EquipAbility": "",
@@ -4407,6 +4442,7 @@
         "BlockMultipleEffectsFromSameSource": "",
         "AllowSelfOnlyAsSourceForAbilities": "",
         "IgnoreInvulnerable": "",
-        "NotCombatAction": ""
+        "NotCombatAction": "",
+        "ApplicationCooldown": null
     }
 ]

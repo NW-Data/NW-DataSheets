@@ -1,0 +1,47 @@
+[
+    {
+        "ConversationTopicId": "Covenant_DeclineRecruitment",
+        "PlayerPrompt": "\"Thank you. I will think on it.\"",
+        "NPCResponse": "I understand.\u0026lt;g id=\"female_headnodding\" /\u0026gt; It is an important decision. \u0026lt;g id=\"male_explain\" /\u0026gt;Should you wish to join our ranks another time, simply speak with me again.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Marauders_DeclineRecruitment",
+        "PlayerPrompt": "\"Thank you. I will think on it.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_headNodYes\" /\u0026gt;I understand it is an important decision. \u0026lt;g id=\"male_saluteFistToChest\" /\u0026gt;Should you wish to join our ranks another time, return and speak with me.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "Syndicate_DeclineRecruitment",
+        "PlayerPrompt": "\"Thank you. I will think on it.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_headnodding\" /\u0026gt;I understand. It is an important decision. \u0026lt;g id=\"male_explain\" /\u0026gt;Should you wish to join our ranks another time, return to my office and I can process your paperwork.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "FactionIntro_Covenant_01_Topic_Feldan",
+        "PlayerPrompt": "\"Initiate Florina sent me.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_itsokay\" /\u0026gt;Young Florina? This whole venture was her idea. Save your breath, stranger. \u0026lt;g id=\"female_smackfist\" /\u0026gt;I'm not leaving with nothing to show for it.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "FactionIntro_Covenant_01_Topic_Feldan3",
+        "PlayerPrompt": "\"You're welcome.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_convince01\" /\u0026gt;Covenant Initiate Florina returned to Oxboro…\u0026lt;g id=\"male_headShakeNo\" /\u0026gt; discouraged. Perhaps you should speak with her.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

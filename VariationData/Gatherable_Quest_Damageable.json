@@ -1,5 +1,50 @@
 [
     {
+        "VariantID": "LostPresent01",
+        "Visual_Healthy": "slices\\Holiday\\WinterConvergence\\Activities\\LostPresent\\WinterConv_Activity_LostPresent_VisualHealthy.dynamicslice",
+        "Visual_Depleted": "",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "LostPresent01",
+        "InteractPromptRadius": 1,
+        "DetectableRadius": 1,
+        "MarkerRadius": 1,
+        "AudioPreload_depleted": "RarePresent",
+        "SFX_depleted": "Play_SFX_RarePresent_Depleted",
+        "AudioPreload_idle": "RarePresent",
+        "SFX_Idle": "Play_SFX_RarePresent_Lp",
+        "VFX_Idle": "Event_Winter_Convergence.Present.Idle_Rare",
+        "IdleVFX_Offset_Z": 10,
+        "DepletedVFX": "Event_Winter_Convergence.Present.End_Rare",
+        "depletedVFX_Offset_Z": 10,
+        "DepletedVFX_Quest": "",
+        "DepletedVFX_Quest_Offset_Z": null,
+        "GatheringFX": "",
+        "gatheringVFX_Offzet_Z": 10,
+        "interactionMarker_Offset_Z": 10,
+        "InteractionEvent": "",
+        "InteractTag": "",
+        "InteractOnlyOnQuest": false,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\basesphere.cgf",
+        "ShouldHaveStaticCollision": null,
+        "Collision_Offset_Z": 10,
+        "VisualHealthy_Offset_Z": 10,
+        "IsStateControlledBySlayerScript": null,
+        "Collision_Scale_X": null,
+        "Collision_Scale_Y": null,
+        "Collision_Scale_Z": null,
+        "Force_Display_Health_Bar": null,
+        "Marker_Creature_Type_Override": "",
+        "Marker_Vertical_Offset": null,
+        "ScriptDiscoveryTag": "",
+        "ScriptSpawnerId": "",
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
+    },
+    {
         "VariantID": "0404_CorruptedNoduleA",
         "Visual_Healthy": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Healthy.dynamicslice",
         "Visual_Depleted": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Depleted.dynamicslice",
@@ -40,7 +85,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0404_CorruptedNoduleB",
@@ -83,7 +130,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0404_CorruptedNoduleC",
@@ -126,7 +175,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0404_CorruptedNoduleD",
@@ -169,7 +220,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0511_PowderkegA",
@@ -212,7 +265,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_bark",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "0604_CorruptedNoduleA",
@@ -255,7 +310,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0604_CorruptedNoduleB",
@@ -298,7 +355,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0604_CorruptedNoduleC",
@@ -341,7 +400,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0604_CorruptedNoduleD",
@@ -384,7 +445,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0804_CorruptedNodule",
@@ -416,7 +479,7 @@
         "AchievementServerState": "",
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": null,
-        "Collision_Offset_Z": null,
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
         "IsStateControlledBySlayerScript": null,
         "Collision_Scale_X": null,
@@ -427,7 +490,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0901_Barley",
@@ -470,7 +535,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_dirt",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0904_CorruptedNoduleA",
@@ -513,7 +580,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0904_CorruptedNoduleB",
@@ -556,7 +625,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0904_CorruptedNoduleC",
@@ -599,7 +670,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "0904_CorruptedNoduleD",
@@ -642,7 +715,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "1204_CorruptedNoduleA",
@@ -685,7 +760,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "1204_CorruptedNoduleB",
@@ -728,7 +805,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "1204_CorruptedNoduleC",
@@ -771,7 +850,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "1204_CorruptedNoduleD",
@@ -814,7 +895,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "1426_0102_WeakenWall_01",
@@ -857,7 +940,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_rock",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "1426_0102_WeakenWall_02",
@@ -900,7 +985,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_rock",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "1426_0102_WeakenWall_03",
@@ -943,7 +1030,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_rock",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "1426_0102_WeakenWall_04",
@@ -986,7 +1075,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_rock",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "1426_0102_CollapseRubble",
@@ -1029,7 +1120,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "1434_0104_DestructibleBlossom",
@@ -1072,7 +1165,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "1127_MalignNodeA",
@@ -1104,18 +1199,20 @@
         "AchievementServerState": "",
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": null,
-        "Collision_Offset_Z": null,
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
         "IsStateControlledBySlayerScript": null,
-        "Collision_Scale_X": null,
-        "Collision_Scale_Y": null,
-        "Collision_Scale_Z": null,
+        "Collision_Scale_X": 1.5,
+        "Collision_Scale_Y": 1.5,
+        "Collision_Scale_Z": 1.5,
         "Force_Display_Health_Bar": null,
         "Marker_Creature_Type_Override": "",
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "1127_MalignNodeB",
@@ -1147,7 +1244,7 @@
         "AchievementServerState": "",
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": null,
-        "Collision_Offset_Z": null,
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
         "IsStateControlledBySlayerScript": null,
         "Collision_Scale_X": null,
@@ -1158,7 +1255,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "1127_MalignNodeC",
@@ -1190,7 +1289,7 @@
         "AchievementServerState": "",
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": null,
-        "Collision_Offset_Z": null,
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": null,
         "IsStateControlledBySlayerScript": null,
         "Collision_Scale_X": null,
@@ -1201,7 +1300,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_A",
@@ -1231,7 +1332,7 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\nature\\veg_bushes\\Bushes_Forest\\Cranberry\\jav_fst_cranberrybush_b.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": null,
         "Collision_Offset_Z": -0.5,
         "VisualHealthy_Offset_Z": null,
@@ -1244,7 +1345,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_dirt",
+        "TargetLock_Offset_Z": -0.5
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_B",
@@ -1274,7 +1377,7 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Ancient_Crater_bridge_broken\\jav_struc_ruins_Crater_mileMarker_b_btm_Brk_02.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": null,
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
@@ -1287,7 +1390,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_dirt",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_C",
@@ -1317,7 +1422,7 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\nature\\veg_bushes\\Bushes_Forest\\Cranberry\\jav_fst_cranberrybush_b.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": null,
         "Collision_Offset_Z": -0.5,
         "VisualHealthy_Offset_Z": null,
@@ -1330,7 +1435,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_dirt",
+        "TargetLock_Offset_Z": -0.5
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_D",
@@ -1360,7 +1467,7 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Ancient_Crater_bridge_broken\\jav_struc_ruins_Crater_mileMarker_b_btm_Brk_02.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": null,
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
@@ -1373,7 +1480,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_dirt",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_E",
@@ -1403,7 +1512,7 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\nature\\veg_bushes\\Bushes_Forest\\Cranberry\\jav_fst_cranberrybush_b.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": null,
         "Collision_Offset_Z": -0.5,
         "VisualHealthy_Offset_Z": null,
@@ -1416,7 +1525,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_dirt",
+        "TargetLock_Offset_Z": -0.5
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_F",
@@ -1446,7 +1557,7 @@
         "InteractOnlyOnQuest": true,
         "AchievementID": "",
         "AchievementServerState": "",
-        "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Ancient_Crater_bridge_broken\\jav_struc_ruins_Crater_mileMarker_b_btm_Brk_02.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "ShouldHaveStaticCollision": null,
         "Collision_Offset_Z": null,
         "VisualHealthy_Offset_Z": null,
@@ -1459,7 +1570,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_dirt",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "1625_0201_ImhotepCageNoduleB1",
@@ -1502,7 +1615,9 @@
         "Marker_Vertical_Offset": -80,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "1625_0201_ImhotepCageNoduleB2",
@@ -1545,7 +1660,9 @@
         "Marker_Vertical_Offset": -80,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "1625_0201_ImhotepCageNoduleB3",
@@ -1588,7 +1705,9 @@
         "Marker_Vertical_Offset": -80,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "1624_0301_AEAncientChargerA",
@@ -1631,7 +1750,9 @@
         "Marker_Vertical_Offset": -100,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "1624_0301_AEAncientChargerB",
@@ -1674,7 +1795,9 @@
         "Marker_Vertical_Offset": -100,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "1624_0301_AEAncientChargerC",
@@ -1717,7 +1840,9 @@
         "Marker_Vertical_Offset": -100,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "1624_0302_SealedClayVessel",
@@ -1760,7 +1885,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "1624_0401_DiskAtumDamageA",
@@ -1803,7 +1930,9 @@
         "Marker_Vertical_Offset": -80,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "1624_1001_VineWall",
@@ -1846,7 +1975,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": -0.5
     },
     {
         "VariantID": "Dynasty_Gong",
@@ -1889,7 +2020,9 @@
         "Marker_Vertical_Offset": -100,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 3
     },
     {
         "VariantID": "CyclicExample_Purple_Prisma",
@@ -1932,7 +2065,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "CyclicExample_Blue_Prisma",
@@ -1975,7 +2110,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "CyclicExample_Turquoise_Prisma",
@@ -2018,7 +2155,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "CyclicExample_Yellow_Prisma",
@@ -2061,7 +2200,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "DamageableExample_Purple_Prisma",
@@ -2104,7 +2245,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "MSQ_Grace_Trapped",
@@ -2147,12 +2290,14 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "MSQ_Grace_CorruptedNodule",
-        "Visual_Healthy": "slices\\WorldEvents\\StarterBeach\\Shipwreck\\WorldEvent_Object_MSQ_CorruptedNodule.slice",
-        "Visual_Depleted": "slices\\WorldEvents\\StarterBeach\\Shipwreck\\WorldEvent_Object_MSQ_CorruptedNodule_Depleted.slice",
+        "Visual_Healthy": "slices\\WorldEvents\\StarterBeach\\Shipwreck\\WorldEvent_Object_MSQ_CorruptedNodule.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\StarterBeach\\Shipwreck\\WorldEvent_Object_MSQ_CorruptedNodule_Depleted.dynamicslice",
         "Visual_NotOnRequiredQuest": "",
         "Visual_Basemesh": "",
         "GatherableEntryID": "MSQ_Grace_Trapped",
@@ -2190,7 +2335,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "99A_MSQ_01_01_Vine_Actual",
@@ -2233,7 +2380,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "99A_MSQ_01_01_Vines_Fake",
@@ -2276,7 +2425,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "99A_MSQ_01_02_Vine_Actual",
@@ -2319,7 +2470,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "99A_MSQ_01_02_Vines_Fake",
@@ -2362,7 +2515,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "99A_MSQ_01_03_Vine_Actual",
@@ -2405,7 +2560,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "99A_MSQ_01_03_Vines_Fake",
@@ -2448,7 +2605,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "99A_MSQ_01_04_Vine_Actual",
@@ -2491,7 +2650,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "99A_MSQ_01_04_Vines_Fake",
@@ -2534,7 +2695,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "06A_MSQ_11_pirateCrates",
@@ -2577,7 +2740,9 @@
         "Marker_Vertical_Offset": -70,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "MB_MSQ2_Anchor",
@@ -2620,7 +2785,9 @@
         "Marker_Vertical_Offset": -55,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "MB_MSQ2_DestroyRune_Tablet",
@@ -2663,7 +2830,9 @@
         "Marker_Vertical_Offset": -55,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "MB_MSQ2_BreakCurse_Device",
@@ -2706,7 +2875,9 @@
         "Marker_Vertical_Offset": -55,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "MSQ_Grace_CorruptedNodule_1",
@@ -2749,7 +2920,9 @@
         "Marker_Vertical_Offset": -70,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "MSQ_Grace_CorruptedNodule_2",
@@ -2792,7 +2965,9 @@
         "Marker_Vertical_Offset": -70,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "MSQ_Grace_CorruptedNodule_3",
@@ -2835,7 +3010,9 @@
         "Marker_Vertical_Offset": -70,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1.5
     },
     {
         "VariantID": "99C_MSQ2_WitchyGlyph",
@@ -2878,7 +3055,9 @@
         "Marker_Vertical_Offset": -55,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99C_MSQ2_RitualObject",
@@ -2921,7 +3100,9 @@
         "Marker_Vertical_Offset": -55,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99C_MSQ2_RitualObject2",
@@ -2964,7 +3145,9 @@
         "Marker_Vertical_Offset": -55,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99C_MSQ2_RitualObject3",
@@ -3007,7 +3190,9 @@
         "Marker_Vertical_Offset": -55,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99B_MSQ_04_AzothDetectorA",
@@ -3050,7 +3235,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_metal",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99B_MSQ_04_AzothDetectorB",
@@ -3093,7 +3280,9 @@
         "Marker_Vertical_Offset": -100,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_metal",
+        "TargetLock_Offset_Z": 0.1
     },
     {
         "VariantID": "99B_MSQ_04_AzothDetectorC",
@@ -3136,7 +3325,9 @@
         "Marker_Vertical_Offset": -100,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_metal",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99B_MSQ_04_AzothDetectorD",
@@ -3179,7 +3370,9 @@
         "Marker_Vertical_Offset": -100,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_metal",
+        "TargetLock_Offset_Z": -2
     },
     {
         "VariantID": "99B_MSQ_04_AzothDetectorE",
@@ -3222,7 +3415,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_metal",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99B_MSQ_04_AzothDetectorF",
@@ -3265,7 +3460,9 @@
         "Marker_Vertical_Offset": -100,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_metal",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "13A_SQ_02_AnimalJar",
@@ -3308,7 +3505,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99D_MSQ_04_MineCarts",
@@ -3344,14 +3543,16 @@
         "VisualHealthy_Offset_Z": null,
         "IsStateControlledBySlayerScript": null,
         "Collision_Scale_X": null,
-        "Collision_Scale_Y": null,
+        "Collision_Scale_Y": 1.5,
         "Collision_Scale_Z": 2,
         "Force_Display_Health_Bar": true,
         "Marker_Creature_Type_Override": "DamageableGatherable",
         "Marker_Vertical_Offset": -70,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_bark",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99D_MSQ_04_MineCarts2",
@@ -3387,14 +3588,16 @@
         "VisualHealthy_Offset_Z": null,
         "IsStateControlledBySlayerScript": null,
         "Collision_Scale_X": null,
-        "Collision_Scale_Y": null,
+        "Collision_Scale_Y": 1.5,
         "Collision_Scale_Z": 2,
         "Force_Display_Health_Bar": true,
         "Marker_Creature_Type_Override": "DamageableGatherable",
         "Marker_Vertical_Offset": -70,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_bark",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99D_MSQ_04_MineCarts3",
@@ -3430,14 +3633,16 @@
         "VisualHealthy_Offset_Z": null,
         "IsStateControlledBySlayerScript": null,
         "Collision_Scale_X": null,
-        "Collision_Scale_Y": null,
+        "Collision_Scale_Y": 1.5,
         "Collision_Scale_Z": 2,
         "Force_Display_Health_Bar": true,
         "Marker_Creature_Type_Override": "DamageableGatherable",
         "Marker_Vertical_Offset": -70,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_bark",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99D_MSQ_04_MineCarts4",
@@ -3473,14 +3678,16 @@
         "VisualHealthy_Offset_Z": null,
         "IsStateControlledBySlayerScript": null,
         "Collision_Scale_X": null,
-        "Collision_Scale_Y": null,
+        "Collision_Scale_Y": 1.5,
         "Collision_Scale_Z": 2,
         "Force_Display_Health_Bar": true,
         "Marker_Creature_Type_Override": "DamageableGatherable",
         "Marker_Vertical_Offset": -70,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_bark",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99D_MSQ_BarricadesDamage1",
@@ -3523,7 +3730,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_bark",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99D_MSQ_BarricadesDamage2",
@@ -3566,7 +3775,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_bark",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99D_MSQ_BarricadesDamage3",
@@ -3609,7 +3820,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_bark",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99D_MSQ_BallistaExplode",
@@ -3621,9 +3834,9 @@
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
         "MarkerRadius": 10,
-        "AudioPreload_depleted": "Missions_ThorpeBackStory",
-        "SFX_depleted": "Play_SFX_Cannon_Destroy",
-        "AudioPreload_idle": "missions_brightwood",
+        "AudioPreload_depleted": "",
+        "SFX_depleted": "",
+        "AudioPreload_idle": "",
         "SFX_Idle": "",
         "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
         "IdleVFX_Offset_Z": null,
@@ -3652,7 +3865,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_bark",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "99E_MSQ_MuralVinesA",
@@ -3695,7 +3910,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "99E_MSQ_MuralVinesB",
@@ -3738,7 +3955,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "99E_World_2SideVines",
@@ -3781,7 +4000,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "09A_S1_FloraTrap",
@@ -3793,8 +4014,8 @@
         "InteractPromptRadius": 5,
         "DetectableRadius": 8,
         "MarkerRadius": 30,
-        "AudioPreload_depleted": "",
-        "SFX_depleted": "",
+        "AudioPreload_depleted": "gath_bush_leaves_small",
+        "SFX_depleted": "Play_Gather_Bush_Sml",
         "AudioPreload_idle": "",
         "SFX_Idle": "",
         "VFX_Idle": "cFX_Loot.Loot_Quest_Medium",
@@ -3824,7 +4045,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_grass",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "09A_M6_BreakBarsDestructible",
@@ -3867,7 +4090,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "9401_Vines",
@@ -3910,7 +4135,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_dirt",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "14_SQ_02_BadStatue_01",
@@ -3953,7 +4180,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "14_SQ_02_BadStatue_02",
@@ -3996,7 +4225,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "14_SQ_02_BadStatue_03",
@@ -4039,7 +4270,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "14_SQ_02_BadStatue_04",
@@ -4082,7 +4315,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "14_SQ_02_BadStatue_05",
@@ -4125,7 +4360,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": null
     },
     {
         "VariantID": "95_s04_04_DestroyWall",
@@ -4168,7 +4405,9 @@
         "Marker_Vertical_Offset": null,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "99F_World_CorruptionWall",
@@ -4211,7 +4450,9 @@
         "Marker_Vertical_Offset": -65,
         "ScriptDiscoveryTag": "",
         "ScriptSpawnerId": "",
-        "RequiredAchievement": ""
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 1
     },
     {
         "VariantID": "99F_Gong_A",
@@ -4254,7 +4495,9 @@
         "Marker_Vertical_Offset": -100,
         "ScriptDiscoveryTag": "99F_MSQ_02_Puzzle",
         "ScriptSpawnerId": "StrikeGongA",
-        "RequiredAchievement": "99F_MSQ_02_Puzzle1"
+        "RequiredAchievement": "99F_MSQ_02_Puzzle1",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 3
     },
     {
         "VariantID": "99F_Gong_B",
@@ -4297,7 +4540,9 @@
         "Marker_Vertical_Offset": -100,
         "ScriptDiscoveryTag": "99F_MSQ_02_Puzzle",
         "ScriptSpawnerId": "StrikeGongB",
-        "RequiredAchievement": "99F_MSQ_02_Puzzle2"
+        "RequiredAchievement": "99F_MSQ_02_Puzzle2",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 3
     },
     {
         "VariantID": "99F_Gong_C",
@@ -4340,6 +4585,53 @@
         "Marker_Vertical_Offset": -100,
         "ScriptDiscoveryTag": "99F_MSQ_02_Puzzle",
         "ScriptSpawnerId": "StrikeGongC",
-        "RequiredAchievement": "99F_MSQ_02_Puzzle3"
+        "RequiredAchievement": "99F_MSQ_02_Puzzle3",
+        "AudioImpactMaterial": "",
+        "TargetLock_Offset_Z": 3
+    },
+    {
+        "VariantID": "MSQ_Beach_Damned_Monolith",
+        "Visual_Healthy": "slices\\Encounters\\MSQ\\Damned_Cultist_Chaplain_Altar_Healthy.dynamicslice",
+        "Visual_Depleted": "slices\\Encounters\\MSQ\\Damned_Cultist_Chaplain_Altar_Depleted.dynamicslice",
+        "Visual_NotOnRequiredQuest": "",
+        "Visual_Basemesh": "",
+        "GatherableEntryID": "MSQ_Beach_Damned_Monolith",
+        "InteractPromptRadius": 5,
+        "DetectableRadius": 8,
+        "MarkerRadius": 12,
+        "AudioPreload_depleted": "Missions_Windsward",
+        "SFX_depleted": "Play_MIssions_DamnedMonolith",
+        "AudioPreload_idle": "Corruption_Beam_A",
+        "SFX_Idle": "Play_Corruption_Beam_A",
+        "VFX_Idle": "",
+        "IdleVFX_Offset_Z": 1.5,
+        "DepletedVFX": "env_darkness.Core.Core_death01",
+        "depletedVFX_Offset_Z": null,
+        "DepletedVFX_Quest": "cFX_Loot.Loot_Quest_Small_Depleted",
+        "DepletedVFX_Quest_Offset_Z": null,
+        "GatheringFX": "env_darkness.Core.Core_minor_monolith_gather01",
+        "gatheringVFX_Offzet_Z": 1.5,
+        "interactionMarker_Offset_Z": null,
+        "InteractionEvent": "",
+        "InteractTag": "IO_MSQ_Beach_Damned_Monolith",
+        "InteractOnlyOnQuest": true,
+        "AchievementID": "",
+        "AchievementServerState": "",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "ShouldHaveStaticCollision": null,
+        "Collision_Offset_Z": null,
+        "VisualHealthy_Offset_Z": null,
+        "IsStateControlledBySlayerScript": null,
+        "Collision_Scale_X": 2,
+        "Collision_Scale_Y": 2,
+        "Collision_Scale_Z": 2,
+        "Force_Display_Health_Bar": true,
+        "Marker_Creature_Type_Override": "DamageableGatherable",
+        "Marker_Vertical_Offset": -70,
+        "ScriptDiscoveryTag": "",
+        "ScriptSpawnerId": "",
+        "RequiredAchievement": "",
+        "AudioImpactMaterial": "mat_corruption_core",
+        "TargetLock_Offset_Z": null
     }
 ]

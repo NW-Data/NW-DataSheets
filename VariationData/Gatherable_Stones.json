@@ -16,7 +16,8 @@
         "AOIRadius": 25,
         "MarkerRadius": 8,
         "InteractTag": "",
-        "InteractOnlyOnQuest": ""
+        "InteractOnlyOnQuest": "",
+        "DepletedSFX": "Play_Gather_Stones"
     },
     {
         "VariantID": "SingleStone_b",
@@ -35,7 +36,8 @@
         "AOIRadius": 25,
         "MarkerRadius": 8,
         "InteractTag": "",
-        "InteractOnlyOnQuest": ""
+        "InteractOnlyOnQuest": "",
+        "DepletedSFX": "Play_Gather_Stones"
     },
     {
         "VariantID": "SingleStone_c",
@@ -54,7 +56,8 @@
         "AOIRadius": 25,
         "MarkerRadius": 8,
         "InteractTag": "",
-        "InteractOnlyOnQuest": ""
+        "InteractOnlyOnQuest": "",
+        "DepletedSFX": "Play_Gather_Stones"
     },
     {
         "VariantID": "SingleStone_a_col",
@@ -73,7 +76,8 @@
         "AOIRadius": 25,
         "MarkerRadius": 8,
         "InteractTag": "",
-        "InteractOnlyOnQuest": ""
+        "InteractOnlyOnQuest": "",
+        "DepletedSFX": "Play_Gather_Stones"
     },
     {
         "VariantID": "SingleStone_b_col",
@@ -92,7 +96,8 @@
         "AOIRadius": 25,
         "MarkerRadius": 8,
         "InteractTag": "",
-        "InteractOnlyOnQuest": ""
+        "InteractOnlyOnQuest": "",
+        "DepletedSFX": "Play_Gather_Stones"
     },
     {
         "VariantID": "SingleStone_c_col",
@@ -111,7 +116,8 @@
         "AOIRadius": 25,
         "MarkerRadius": 8,
         "InteractTag": "",
-        "InteractOnlyOnQuest": ""
+        "InteractOnlyOnQuest": "",
+        "DepletedSFX": "Play_Gather_Stones"
     },
     {
         "VariantID": "SingleStone_Jagged_a",
@@ -130,7 +136,8 @@
         "AOIRadius": 25,
         "MarkerRadius": 8,
         "InteractTag": "",
-        "InteractOnlyOnQuest": ""
+        "InteractOnlyOnQuest": "",
+        "DepletedSFX": "Play_Gather_Stones"
     },
     {
         "VariantID": "PotionHealthT1",
@@ -149,6 +156,7 @@
         "AOIRadius": 25,
         "MarkerRadius": 8,
         "InteractTag": "",
-        "InteractOnlyOnQuest": ""
+        "InteractOnlyOnQuest": "",
+        "DepletedSFX": ""
     }
 ]

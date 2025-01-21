@@ -7,7 +7,7 @@
         "RewardBelowMaxLvl_GameEvent": "PUGFinder_Expedition_DailyRandomCache_BelowMaxLvl",
         "RewardAtMaxLvl_GameEvent": "PUGFinder_Expedition_DailyRandomCache_AtMaxLvl",
         "DailyLimit": 3,
-        "IsDisabled": null
+        "IsDisabled": ""
     },
     {
         "IncentiveID": "Expedition_TankIncentive",
@@ -17,7 +17,7 @@
         "RewardBelowMaxLvl_GameEvent": "PUGFinder_Expedition_RoleInDemand_Cache_AtMaxLvl",
         "RewardAtMaxLvl_GameEvent": "PUGFinder_Expedition_RoleInDemand_Cache_AtMaxLvl",
         "DailyLimit": 0,
-        "IsDisabled": null
+        "IsDisabled": ""
     },
     {
         "IncentiveID": "Expedition_HealerIncentive",
@@ -27,17 +27,7 @@
         "RewardBelowMaxLvl_GameEvent": "PUGFinder_Expedition_RoleInDemand_Cache_AtMaxLvl",
         "RewardAtMaxLvl_GameEvent": "PUGFinder_Expedition_RoleInDemand_Cache_AtMaxLvl",
         "DailyLimit": 0,
-        "IsDisabled": null
-    },
-    {
-        "IncentiveID": "Expedition_DebugIncentive",
-        "ActivityTypes": "Dungeon",
-        "IncentiveType": "Role",
-        "Role": "DPS",
-        "RewardBelowMaxLvl_GameEvent": "PUGFinder_Expedition_RoleInDemand_Cache_AtMaxLvl",
-        "RewardAtMaxLvl_GameEvent": "PUGFinder_Expedition_RoleInDemand_Cache_AtMaxLvl",
-        "DailyLimit": 99,
-        "IsDisabled": true
+        "IsDisabled": ""
     },
     {
         "IncentiveID": "Expedition_CarryReward",
@@ -47,7 +37,7 @@
         "RewardBelowMaxLvl_GameEvent": "PUGFinder_Expedition_Carry_Cache",
         "RewardAtMaxLvl_GameEvent": "PUGFinder_Expedition_Carry_Cache",
         "DailyLimit": 0,
-        "IsDisabled": null
+        "IsDisabled": ""
     },
     {
         "IncentiveID": "Mutated_RandomExpedition",
@@ -57,7 +47,7 @@
         "RewardBelowMaxLvl_GameEvent": "PUGFinder_MutatedExpedition_DailyRandomCache",
         "RewardAtMaxLvl_GameEvent": "PUGFinder_MutatedExpedition_DailyRandomCache",
         "DailyLimit": 3,
-        "IsDisabled": null
+        "IsDisabled": ""
     },
     {
         "IncentiveID": "Mutated_TankIncentive",
@@ -67,7 +57,7 @@
         "RewardBelowMaxLvl_GameEvent": "PUGFinder_MutatedExpedition_RoleInDemand_Cache",
         "RewardAtMaxLvl_GameEvent": "PUGFinder_MutatedExpedition_RoleInDemand_Cache",
         "DailyLimit": 0,
-        "IsDisabled": null
+        "IsDisabled": ""
     },
     {
         "IncentiveID": "Mutated_HealerIncentive",
@@ -77,17 +67,7 @@
         "RewardBelowMaxLvl_GameEvent": "PUGFinder_MutatedExpedition_RoleInDemand_Cache",
         "RewardAtMaxLvl_GameEvent": "PUGFinder_MutatedExpedition_RoleInDemand_Cache",
         "DailyLimit": 0,
-        "IsDisabled": null
-    },
-    {
-        "IncentiveID": "Mutated_DebugIncentive",
-        "ActivityTypes": "Mutation",
-        "IncentiveType": "Role",
-        "Role": "DPS",
-        "RewardBelowMaxLvl_GameEvent": "PUGFinder_MutatedExpedition_RoleInDemand_Cache",
-        "RewardAtMaxLvl_GameEvent": "PUGFinder_MutatedExpedition_RoleInDemand_Cache",
-        "DailyLimit": 99,
-        "IsDisabled": true
+        "IsDisabled": ""
     },
     {
         "IncentiveID": "Mutated_CarryReward",
@@ -97,6 +77,6 @@
         "RewardBelowMaxLvl_GameEvent": "PUGFinder_MutatedExpedition_Carry_Cache",
         "RewardAtMaxLvl_GameEvent": "PUGFinder_MutatedExpedition_Carry_Cache",
         "DailyLimit": 0,
-        "IsDisabled": null
+        "IsDisabled": ""
     }
 ]

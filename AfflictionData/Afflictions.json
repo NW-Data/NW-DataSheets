@@ -258,5 +258,25 @@
         "LocalizedTextAfflicted": "stunned",
         "AfflictionTooltipText": "If you get concussed enough, you get stunned and can't move.",
         "AfflictedTooltipText": "You are stunned and can't move."
+    },
+    {
+        "AfflictionID": "AfflictionFatigue",
+        "IntID": 14,
+        "StatusEffects": "Drowning",
+        "DrainRate": 0.075,
+        "AfflictedDrainTime": 4,
+        "DrainDelay": 1.1,
+        "Max": 20,
+        "IgnoreWhenAfflicted": false,
+        "IsGlobalAffliction": null,
+        "IsTimerAffliction": null,
+        "ColorHex": "80ffcf1c",
+        "Icon": "drowning",
+        "BGImage": "",
+        "FillingColorHex": "80ffa91c",
+        "LocalizedText": "fatigue",
+        "LocalizedTextAfflicted": "drowning",
+        "AfflictionTooltipText": "Swimming in deep water drains your energy. If you run out of energy, you will drown.",
+        "AfflictedTooltipText": "You have drowned to death."
     }
 ]

@@ -3451,7 +3451,7 @@
     },
     {
         "SongId": "Freestyle_BEasy",
-        "MusicTitle": "Pirate Flyting",
+        "MusicTitle": "Pirate Flying",
         "Performance": "Easy",
         "FilterType": "DefaultPerformance",
         "NotePattern": "Novice",
@@ -3474,7 +3474,7 @@
     },
     {
         "SongId": "Freestyle_BMedium",
-        "MusicTitle": "Pirate Flyting",
+        "MusicTitle": "Pirate Flying",
         "Performance": "Medium",
         "FilterType": "DefaultPerformance",
         "NotePattern": "Skilled",
@@ -3497,7 +3497,7 @@
     },
     {
         "SongId": "Freestyle_BHard",
-        "MusicTitle": "Pirate Flyting",
+        "MusicTitle": "Pirate Flying",
         "Performance": "Hard",
         "FilterType": "DefaultPerformance",
         "NotePattern": "Expert",
@@ -3537,7 +3537,7 @@
         "HitZone": 0.222222,
         "PerfectZone": 0.083333,
         "DanceTimeline": "Performance_Dance",
-        "CompletionGameEvent": "SongCompletedEasy",
+        "CompletionGameEvent": "MusicReward_Amazing_Shredly",
         "TippingDurationMs": null,
         "HighestRankAchievementId": "MP_Perfect_YAAAHHHHEasy"
     },
@@ -3560,7 +3560,7 @@
         "HitZone": 0.222222,
         "PerfectZone": 0.055556,
         "DanceTimeline": "Performance_Dance",
-        "CompletionGameEvent": "SongCompletedMedium",
+        "CompletionGameEvent": "MusicReward_Amazing_Shredly",
         "TippingDurationMs": null,
         "HighestRankAchievementId": "MP_Perfect_YAAAHHHHMedium"
     },
@@ -3583,7 +3583,7 @@
         "HitZone": 0.222222,
         "PerfectZone": 0.041667,
         "DanceTimeline": "Performance_Dance",
-        "CompletionGameEvent": "SongCompletedHard",
+        "CompletionGameEvent": "MusicReward_Amazing_Shredly",
         "TippingDurationMs": null,
         "HighestRankAchievementId": "MP_Perfect_YAAAHHHHHard"
     }

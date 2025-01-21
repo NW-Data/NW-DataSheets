@@ -1,0 +1,218 @@
+[
+    {
+        "ConversationTopicId": "0402a_Magistrate_TaskTopic_ChooseInstrument",
+        "PlayerPrompt": "\"Do you have an instrument?\"",
+        "NPCResponse": "\u0026lt;g id=\"male_compliment\" /\u0026gt;Well now, that is a MOST curious request. Are you a lover of music? An artisan, perhaps?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0402a_Magistrate_TaskTopic_PlayForTown",
+        "PlayerPrompt": "\"A composer named Marsyas.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_taptemple\" /\u0026gt;I will remember that name. Do convey my appreciation for this work, should you meet again.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0403a_Huntsman_TaskTopic_DeliverPotions",
+        "PlayerPrompt": "\"Better. A miracle elixir.\"",
+        "NPCResponse": "Let me guess,\u0026lt;g id=\"male_smile\" /\u0026gt; one of Anwir's? Don't look surprised, I've lived in Everfall at least as long as that old rascal.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0404a_Constable_TaskTopic_ChooseInstrument",
+        "PlayerPrompt": "\"Can I borrow that upright bass?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_headnodding\" /\u0026gt;It is quite heavy. I would hate for you to hurt yourself... But I suppose the moon and planets are aligned in a way that suggests better luck.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0404a_Constable_TaskTopic_PlayForTown",
+        "PlayerPrompt": "\"Marsyas is the composer, not me.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_applause\" /\u0026gt;Ah! A bard, then! How kind of you to bring this melody to us! I shall ensure that Marsyas receives proper recognition. Do be sure to inform them of my generosity!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0440a_00_AtticusDelphi_TaskTopic_DeliverPotions",
+        "PlayerPrompt": "\"You're welcome to try it.\"",
+        "NPCResponse": "The label says it cures all aches, ailments, and heartaches? How could a potion cure heartache?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0410_Barkeep_TaskTopic_PlayForTown",
+        "PlayerPrompt": "\"I'll let composer Marsyas know.\"",
+        "NPCResponse": "Is that their name? I'll be sure to ask other bards if they know any of Marsyas's songs.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0410a_Barkeep_TaskTopic_SaveBar",
+        "PlayerPrompt": "\"Jacob sent it.\"",
+        "NPCResponse": "Jacob? Jacob Evans? Good gracious, that poor kind man.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0441a_SairaYangandul_TaskTopic_EarnAudience",
+        "PlayerPrompt": "\"Can I meet with your employer?\"",
+        "NPCResponse": "Lord Shen\u0026lt;g id=\"female_explains\" /\u0026gt; is particular about his company. You might be a bit too… dusty… to garner the right kind of attention.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0441a_SairaYangandul_TaskTopic_EarnAudience_02",
+        "PlayerPrompt": "\"I've taken care of your errands.\"",
+        "NPCResponse": "And I\u0026lt;g id=\"female_headnodding\" /\u0026gt; trust the parcel was delivered to the correct address. Good.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0442a_ConcettaSacco_TaskTopic_EarnPatron",
+        "PlayerPrompt": "\"Lord Shen wishes to negotiate.\"",
+        "NPCResponse": "He would. He knows what it would mean for him to woo my manservant. How it would stain the family name!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0442a_ConcettaSacco_TaskTopic_EarnPatron_02",
+        "PlayerPrompt": "\"Lord Shen sent me with this.\"",
+        "NPCResponse": "Let me see it. Oh… oh, my. How grand. How generous. Perhaps he is not the fiend I thought.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0432a_OuShen_TaskTopic_EarnPatron",
+        "PlayerPrompt": "\"And what might that be?\"",
+        "NPCResponse": "I cannot employ one who is already sworn to another. I must come to an acceptable arrangement with Lady Sacco.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0432a_OuShen_TaskTopic_EarnPatron_02",
+        "PlayerPrompt": "\"She refused to part with him.\"",
+        "NPCResponse": "How amusing. She thinks herself above temptation. Well, I can see that corrected.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0450a_TownGuard_TaskTopic_RumorsMSQ",
+        "PlayerPrompt": "\"I'm looking for someone.\"",
+        "NPCResponse": "\u0026lt;g id=\"guard_shrugbrief\" /\u0026gt;Whatever services you seek, \u0026lt;g id=\"guard_nod\" /\u0026gt;you will find in Oxboro. I guarantee you that! All types for hire. \u0026lt;g id=\"guard_gestureleftM\" /\u0026gt;What manner of person do you seek?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0404a_Constable_TaskTopic_RumorsMSQ",
+        "PlayerPrompt": "\"The fisherman, Yonas?\"",
+        "NPCResponse": "\u0026lt;g id=\"male_shocked\" /\u0026gt;You're looking for Yonas… really? That is a rather outlandish notion! \u0026lt;g id=\"female_thinking\" /\u0026gt;Are you a long-lost relative? Caretaker? He's quite far gone, I'm sorry to say.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0440a_Atticus_TaskTopic_RumorsMSQ",
+        "PlayerPrompt": "\"An old man named Yonas.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_handheart\" /\u0026gt;Oh, you're a friend of Yonas! How marvelously charming! I always worry after him. \u0026lt;g id=\"male_nodunderstand\" /\u0026gt;Quite lonely, the old man. \u0026lt;g id=\"male_shrugBrief\" /\u0026gt;But he likes it that way.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0403a_Huntsman_TaskTopic_AskAboutAdiana",
+        "PlayerPrompt": "\"I'm looking for a Huntress.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_chuckle\" /\u0026gt;The women here are not exactly the rugged sort, \u0026lt;g id=\"male_secretiveshort\" /\u0026gt;if you take my meaning.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0405a_Artificer_TaskTopic_AskAboutAdiana",
+        "PlayerPrompt": "\"He said you know of the Huntress.\"",
+        "NPCResponse": "\u0026lt;g id=\"female_thinking\" /\u0026gt;He did, did he? I've heard rumors about a strange woman who lives alone in the woods, \u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;but it smacks of gossip and folklore to me.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0402a_Magistrate_TaskTopic_ReturnStaff",
+        "PlayerPrompt": "\"I've come to fight the Corrupted.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_shocked\" /\u0026gt;Is THAT what all this hustle and bustle was about? \u0026lt;g id=\"male_waghand03\" /\u0026gt;My friend, we are perfectly capable of mounting a defense. Our guards are the finest in Aeternum.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0404a_Constable_TaskTopic_ReturnStaff",
+        "PlayerPrompt": "\"I'm sorry. Your husband is Corrupted.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_wavehandPshaw\" /\u0026gt;Corrupted? That's preposterous! \u0026lt;g id=\"male_nodunderstand\" /\u0026gt;He's battled the demon hordes more times across the centuries than I can count. \u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;Besides, I would've seen the signs.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0404a_Constable_Comment_UseStaff",
+        "PlayerPrompt": "\"What about the Corruption?\"",
+        "NPCResponse": "\u0026lt;g id=\"female_waveoffDisdain\" /\u0026gt;I feel confident this will sort itself out. Howe's return is such an auspicious occasion. \u0026lt;g id=\"female_sighrelief\" /\u0026gt;I must believe that Centurion Maecia will return very soon now.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99A_MSQ_07_TalkToAnthuras",
+        "PlayerPrompt": "\"Adiana sent me.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_shakehead\" /\u0026gt;This one feared for a moment it had been forgotten. Corruption clouds even the clearest of vision.\u0026lt;g id=\"male_nodunderstand\" /\u0026gt; We are relieved to be back at the Daughterwell.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "0441a_Saira_TaskTopic_RumorsMSQ",
+        "PlayerPrompt": "\"The guard said Oxboro is safe.\"",
+        "NPCResponse": "\u0026lt;g id=\"male_chuckle\" priority=\"high\" /\u0026gt;Did he? I'll have to give him a talking to. \u0026lt;g id=\"female_youknow\" /\u0026gt;Gossip is more valuable than gold in this town.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

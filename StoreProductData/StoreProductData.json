@@ -982,12 +982,12 @@
         "UniqueTagID": "Server_Transfer",
         "IsEnabled": 1,
         "DisplayName": "Character Transfer",
-        "Description": "Allows you to transfer this character to another world or region of your choice.",
+        "Description": "Allows you to transfer this character to another world of your choice.",
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "Emote_ChestPound",
@@ -1025,7 +1025,7 @@
     {
         "UniqueTagID": "Apparel_WarSpecial",
         "IsEnabled": 1,
-        "DisplayName": "Warrior Macabre ",
+        "DisplayName": "Warrior Macabre",
         "Description": "\"The resplendent uniform of Death itself, said to stalk every battlefield in Aeternum cursing the island's resurrections.\"",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_WarAssassin.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_WarAssassin.png",
@@ -1058,7 +1058,7 @@
     {
         "UniqueTagID": "Apparel_ClassicRPGRogue",
         "IsEnabled": 1,
-        "DisplayName": "Cloaked Charlatan ",
+        "DisplayName": "Cloaked Charlatan",
         "Description": "\"When your wit is as sharp as your blades, you can take whatever you please in Aeternum.\"",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_ClassicRPGRogue.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_ClassicRPGRogue.png",
@@ -1080,7 +1080,7 @@
     {
         "UniqueTagID": "Apparel_RoyalCourt_Tiara",
         "IsEnabled": 1,
-        "DisplayName": "Tiara of Ascendance ",
+        "DisplayName": "Tiara of Ascendance",
         "Description": "\"Not even the rugged wilderness of Aeternum can keep a royal from looking their best.\"",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Portrait_RoyalCourtTiara.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Rectangle_RoyalCourtTiara.png",
@@ -1389,7 +1389,7 @@
         "UniqueTagID": "Bundle_Tool_Winter21",
         "IsEnabled": 1,
         "DisplayName": "Hibernal Harvesters",
-        "Description": " \"Gathering resources in the dead of winter can be a grim and gloomy enterprise. Why not warm the heart with glitter and gilt?\"",
+        "Description": "\"Gathering resources in the dead of winter can be a grim and gloomy enterprise. Why not warm the heart with glitter and gilt?\"",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_WinterConvergence2021.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_WinterConvergence2021.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_WinterConvergence2021.png",
@@ -1455,12 +1455,12 @@
         "UniqueTagID": "Server_Transfer_Pay",
         "IsEnabled": 1,
         "DisplayName": "Character Transfer",
-        "Description": "Allows you to transfer this character to another world or region of your choice.",
+        "Description": "Allows you to transfer this character to another world of your choice.",
         "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "Emote_Shiver",
@@ -5717,7 +5717,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X1_Season_1",
@@ -5728,7 +5728,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X10_Season_1",
@@ -5739,7 +5739,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_HeadStart_Season_1",
@@ -5750,7 +5750,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X5_Season_1",
@@ -5761,7 +5761,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "Emote_Teabag",
@@ -5832,7 +5832,7 @@
     {
         "UniqueTagID": "Dye_Gold_X10",
         "IsEnabled": 1,
-        "DisplayName": "Lustrious Gold",
+        "DisplayName": "Lustrious Gold 10-Pack",
         "Description": "Consumable Dye Pack",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye6_Portrait_LustrousGold.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye6_Rectangle_LustrousGold.png",
@@ -5843,7 +5843,7 @@
     {
         "UniqueTagID": "Dye_Silver_X10",
         "IsEnabled": 1,
-        "DisplayName": "Sharp Silver",
+        "DisplayName": "Sharp Silver 10-Pack",
         "Description": "Consumable Dye Pack",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye58_Portrait_Silver.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye58_Rectangle_Silver.png",
@@ -5854,7 +5854,7 @@
     {
         "UniqueTagID": "Dye_Blood_X10",
         "IsEnabled": 1,
-        "DisplayName": "Blood",
+        "DisplayName": "Blood 10-Pack",
         "Description": "Consumable Dye Pack",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye50_Portrait_Blood.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye50_Rectangle_Blood.png",
@@ -5865,7 +5865,7 @@
     {
         "UniqueTagID": "Dye_SmolderingScarlet_X10",
         "IsEnabled": 1,
-        "DisplayName": "Smoldering Scarlet",
+        "DisplayName": "Smoldering Scarlet 10-Pack",
         "Description": "Consumable Dye Pack",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye49_Portrait_SmolderingScarlet.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye49_Rectangle_SmolderingScarlet.png",
@@ -5876,7 +5876,7 @@
     {
         "UniqueTagID": "Dye_SoftCoal_X10",
         "IsEnabled": 1,
-        "DisplayName": "Soft Coal",
+        "DisplayName": "Soft Coal 10-Pack",
         "Description": "Consumable Dye Pack",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye29_Portrait_SoftCoal.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye29_Rectangle_SoftCoal.png",
@@ -5887,7 +5887,7 @@
     {
         "UniqueTagID": "Dye_AgelessBronze_X10",
         "IsEnabled": 1,
-        "DisplayName": "Ageless Bronze",
+        "DisplayName": "Ageless Bronze 10-Pack",
         "Description": "Consumable Dye Pack",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye62_Portrait_AgelessBronze.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye62_Rectangle_AgelessBronze.png",
@@ -5898,7 +5898,7 @@
     {
         "UniqueTagID": "Dye_DeepVelvet_X10",
         "IsEnabled": 1,
-        "DisplayName": "Deep Velvet",
+        "DisplayName": "Deep Velvet 10-Pack",
         "Description": "Consumable Dye Pack",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye123_Portrait_DeepVelvet.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye123_Rectangle_DeepVelvet.png",
@@ -5909,7 +5909,7 @@
     {
         "UniqueTagID": "Dye_SupremeSapphire_X10",
         "IsEnabled": 1,
-        "DisplayName": "Supreme Saphire",
+        "DisplayName": "Supreme Saphire 10-Pack",
         "Description": "Consumable Dye Pack",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye112_Portrait_SupremeSaphire.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye112_Rectangle_SupremeSaphire.png",
@@ -5920,7 +5920,7 @@
     {
         "UniqueTagID": "Dye_ForestGreen_X10",
         "IsEnabled": 1,
-        "DisplayName": "Forest Green",
+        "DisplayName": "Forest Green 10-Pack",
         "Description": "Consumable Dye Pack",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye89_Portrait_ForestGreen.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye89_Rectangle_ForestGreen.png",
@@ -5931,7 +5931,7 @@
     {
         "UniqueTagID": "Dye_Blond_X10",
         "IsEnabled": 1,
-        "DisplayName": "Blond",
+        "DisplayName": "Blond 10-Pack",
         "Description": "Consumable Dye Pack",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dye79_Portrait_Blond.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dye79_Rectangle_Blond.png",
@@ -6547,7 +6547,7 @@
     {
         "UniqueTagID": "Weapon_FrontierWasteland_Warhammer",
         "IsEnabled": 1,
-        "DisplayName": "Warhammer of the Briar Rose",
+        "DisplayName": "War Hammer of the Briar Rose",
         "Description": "Stubborn as the Briar, Striking as the Rose.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Portrait_FrontierWastelander_Warhammer.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/weapon_Rectangle_FrontierWastelander_Warhammer.png",
@@ -6614,7 +6614,7 @@
         "UniqueTagID": "CampSkin_FrontierWasteland_1",
         "IsEnabled": 1,
         "DisplayName": "Rugged Respite",
-        "Description": "CampSkin_FrontierWaste01_A_Description",
+        "Description": "Take shelter from the storms of dust and blood alike.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Portrait_FrontierWastelander01.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Rectangle_FrontierWastelander01.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/campSkin_Square_FrontierWastelander01.png",
@@ -6652,7 +6652,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X1_Season_2",
@@ -6663,7 +6663,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X10_Season_2",
@@ -6674,7 +6674,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_HeadStart_Season_2",
@@ -6685,7 +6685,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X5_Season_2",
@@ -6696,7 +6696,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "Bundle_PR_FrontierWasteland_Apparel",
@@ -6927,7 +6927,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_TraditionalEuropean_Horse.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_TraditionalEuropean_Horse.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_TraditionalEuropean_Horse.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Horse Mount"
     },
     {
         "UniqueTagID": "Mount_Horse_2",
@@ -6938,7 +6938,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_SilentDeath_Horse.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_SilentDeath_Horse.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_SilentDeath_Horse.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Horse Mount"
     },
     {
         "UniqueTagID": "Mount_Horse_3",
@@ -6949,7 +6949,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_Wanderer_Horse.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_Wanderer_Horse.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_Wanderer_Horse.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Horse Mount"
     },
     {
         "UniqueTagID": "Mount_Horse_Basic_4",
@@ -6960,7 +6960,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_MTX_4_Horse_Basic.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_MTX_4_Horse_Basic.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_MTX_4_Horse_Basic.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Horse Mount"
     },
     {
         "UniqueTagID": "Mount_Horse_Basic_5",
@@ -6971,7 +6971,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_MTX_5_Horse_Basic.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_MTX_5_Horse_Basic.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_MTX_5_Horse_Basic.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Horse Mount"
     },
     {
         "UniqueTagID": "Mount_Horse_Basic_6",
@@ -6982,7 +6982,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_MTX_6_Horse_Basic.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_MTX_6_Horse_Basic.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_MTX_6_Horse_Basic.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Horse Mount"
     },
     {
         "UniqueTagID": "Mount_Wolf_1",
@@ -6993,7 +6993,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_TraditionalEuropean_Wolf.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_TraditionalEuropean_Wolf.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_TraditionalEuropean_Wolf.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Wolf Mount"
     },
     {
         "UniqueTagID": "Mount_Wolf_2",
@@ -7004,7 +7004,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_SilentDeath_Wolf.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_SilentDeath_Wolf.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_SilentDeath_Wolf.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Wolf Mount"
     },
     {
         "UniqueTagID": "Mount_Wolf_3",
@@ -7015,7 +7015,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_Wanderer_Wolf.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_Wanderer_Wolf.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_Wanderer_Wolf.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Wolf Mount"
     },
     {
         "UniqueTagID": "Mount_Wolf_Basic_4",
@@ -7026,7 +7026,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_MTX_4_Wolf_Basic.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_MTX_4_Wolf_Basic.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_MTX_4_Wolf_Basic.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Wolf Mount"
     },
     {
         "UniqueTagID": "Mount_Wolf_Basic_5",
@@ -7037,7 +7037,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_MTX_5_Wolf_Basic.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_MTX_5_Wolf_Basic.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_MTX_5_Wolf_Basic.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Wolf Mount"
     },
     {
         "UniqueTagID": "Mount_Wolf_Basic_6",
@@ -7048,7 +7048,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_MTX_6_Wolf_Basic.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_MTX_6_Wolf_Basic.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_MTX_6_Wolf_Basic.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Wolf Mount"
     },
     {
         "UniqueTagID": "Mount_Lion_1",
@@ -7059,7 +7059,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_TraditionalEuropean_Lion.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_TraditionalEuropean_Lion.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_TraditionalEuropean_Lion.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Lion Mount"
     },
     {
         "UniqueTagID": "Mount_Lion_2",
@@ -7070,7 +7070,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_SilentDeath_Lion.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_SilentDeath_Lion.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_SilentDeath_Lion.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Lion Mount"
     },
     {
         "UniqueTagID": "Mount_Lion_3",
@@ -7081,7 +7081,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_Wanderer_Lion.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_Wanderer_Lion.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_Wanderer_Lion.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Lion Mount"
     },
     {
         "UniqueTagID": "Mount_Lion_Basic_4",
@@ -7092,7 +7092,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_MTX_4_Lion_Basic.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_MTX_4_Lion_Basic.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_MTX_4_Lion_Basic.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Lion Mount"
     },
     {
         "UniqueTagID": "Mount_Lion_Basic_5",
@@ -7103,7 +7103,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_MTX_5_Lion_Basic.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_MTX_5_Lion_Basic.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_MTX_5_Lion_Basic.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Lion Mount"
     },
     {
         "UniqueTagID": "Mount_Lion_Basic_6",
@@ -7114,7 +7114,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_MTX_6_Lion_Basic.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_MTX_6_Lion_Basic.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_MTX_6_Lion_Basic.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Lion Mount"
     },
     {
         "UniqueTagID": "WeaponSkin_DeepSeaGothic_VoidGauntlet",
@@ -7719,7 +7719,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X1_Season_3",
@@ -7730,7 +7730,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X10_Season_3",
@@ -7741,7 +7741,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_HeadStart_Season_3",
@@ -7752,7 +7752,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X5_Season_3",
@@ -7763,7 +7763,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "Bundle_PR_Elven_Apparel",
@@ -7934,7 +7934,7 @@
         "UniqueTagID": "Apparel_Seance_TheProphet",
         "IsEnabled": 1,
         "DisplayName": "The Prophet",
-        "Description": "EntitlementSkin_Oct2023_SeanceDeluxe",
+        "Description": "I am All and I am Nothing. I am Everywhere and yet Nowhere. I am the One and now I am You.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Seance_Deluxe.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Seance_Deluxe.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Seance_Deluxe.png",
@@ -8452,10 +8452,10 @@
         "IsEnabled": 1,
         "DisplayName": "Wraith Black",
         "Description": "Consumable Dye Pack",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA024_Portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA024_Rectangle.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA024_Square.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA024_Thumbnail.png",
         "TypeDescription": "Dye Pack"
     },
     {
@@ -8463,10 +8463,10 @@
         "IsEnabled": 1,
         "DisplayName": "Heartrune Red",
         "Description": "Consumable Dye Pack",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA026_Portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA026_Rectangle.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA026_Square.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA026_Thumbnail.png",
         "TypeDescription": "Dye Pack"
     },
     {
@@ -8474,10 +8474,10 @@
         "IsEnabled": 1,
         "DisplayName": "Virtuous White",
         "Description": "Consumable Dye Pack",
-        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
-        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
-        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
-        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Placeholder.png",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA025_Portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA025_Rectangle.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA025_Square.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/dyeA025_Thumbnail.png",
         "TypeDescription": "Dye Pack"
     },
     {
@@ -8764,7 +8764,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X1_Season_4",
@@ -8775,7 +8775,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X10_Season_4",
@@ -8786,7 +8786,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_HeadStart_Season_4",
@@ -8797,7 +8797,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X5_Season_4",
@@ -8808,7 +8808,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "Mount_Horse_Ronin",
@@ -8819,7 +8819,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_Ronin_Horse.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_Ronin_Horse.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_Ronin_Horse.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Horse Mount"
     },
     {
         "UniqueTagID": "Mount_Lion_Ronin",
@@ -8830,7 +8830,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_Ronin_Lion.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_Ronin_Lion.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_Ronin_Lion.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Lion Mount"
     },
     {
         "UniqueTagID": "Mount_Wolf_Ronin",
@@ -8841,7 +8841,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_Ronin_Wolf.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_Ronin_Wolf.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_Ronin_Wolf.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Wolf Mount"
     },
     {
         "UniqueTagID": "StoreItem_Apparel_Reaper_Deluxe",
@@ -9006,7 +9006,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X1_Season_5",
@@ -9017,7 +9017,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X10_Season_5",
@@ -9028,7 +9028,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_HeadStart_Season_5",
@@ -9039,7 +9039,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "SeasonPass_TierSkip_X5_Season_5",
@@ -9050,7 +9050,7 @@
         "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
         "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
         "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
-        "TypeDescription": "World or Region Transfer (Single-Use)"
+        "TypeDescription": "World Transfer (Single-Use)"
     },
     {
         "UniqueTagID": "Mount_Horse_Reaper",
@@ -9061,7 +9061,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_GrimReaper_Horse.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_GrimReaper_Horse.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_GrimReaper_Horse.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Horse Mount"
     },
     {
         "UniqueTagID": "Mount_Lion_Reaper",
@@ -9072,7 +9072,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_GrimReaper_Lion.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_GrimReaper_Lion.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_GrimReaper_Lion.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Lion Mount"
     },
     {
         "UniqueTagID": "Mount_Wolf_Reaper",
@@ -9083,7 +9083,7 @@
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_GrimReaper_Wolf.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_GrimReaper_Wolf.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_GrimReaper_Wolf.png",
-        "TypeDescription": "Mount"
+        "TypeDescription": "Wolf Mount"
     },
     {
         "UniqueTagID": "MountAttachmentItem_Reaper_SkullLantern",
@@ -9133,7 +9133,7 @@
         "UniqueTagID": "StoreItem_Emote_Walk_Torch",
         "IsEnabled": 1,
         "DisplayName": "Torchlit Walk",
-        "Description": "Need to loom menacingly around town? We've got just the thing. ",
+        "Description": "Need to loom menacingly around town? We've got just the thing.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_GrimReaper_TorchWalk.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_GrimReaper_TorchWalk.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_GrimReaper_TorchWalk.png",
@@ -9144,7 +9144,7 @@
         "UniqueTagID": "StoreItem_Emote_GauntletThrow",
         "IsEnabled": 1,
         "DisplayName": "Throw the Gauntlet",
-        "Description": "Issue your challenge in style, with a well-aimed gauntlet toss. ",
+        "Description": "Issue your challenge in style, with a well-aimed gauntlet toss.",
         "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Portrait_GauntletThrow.png",
         "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Rectangle_GauntletThrow.png",
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/emote_Square_GauntletThrow.png",
@@ -9194,5 +9194,258 @@
         "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Battlemage.png",
         "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Battlemage.png",
         "TypeDescription": "Bundle"
+    },
+    {
+        "UniqueTagID": "SeasonPass_Premium_Season_6",
+        "IsEnabled": 1,
+        "DisplayName": "Premium Pass - Season 6",
+        "Description": "Provides access to great rewards! All previous tier rewards will be unlocked.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
+        "TypeDescription": "World Transfer (Single-Use)"
+    },
+    {
+        "UniqueTagID": "SeasonPass_TierSkip_X1_Season_6",
+        "IsEnabled": 1,
+        "DisplayName": "Season Pass Tier Skip",
+        "Description": "Advance to the next tier of the Season Pass instantly.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
+        "TypeDescription": "World Transfer (Single-Use)"
+    },
+    {
+        "UniqueTagID": "SeasonPass_TierSkip_X10_Season_6",
+        "IsEnabled": 1,
+        "DisplayName": "Season Pass 10 Level Tier Skip",
+        "Description": "Advance ten tiers in the Season Pass instantly.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
+        "TypeDescription": "World Transfer (Single-Use)"
+    },
+    {
+        "UniqueTagID": "SeasonPass_HeadStart_Season_6",
+        "IsEnabled": 1,
+        "DisplayName": "Premium Pass Head Start - Season 6",
+        "Description": "Provides access to premium pass and 20 tier skips.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
+        "TypeDescription": "World Transfer (Single-Use)"
+    },
+    {
+        "UniqueTagID": "SeasonPass_TierSkip_X5_Season_6",
+        "IsEnabled": 1,
+        "DisplayName": "Season Pass 5 Level Tier Skip",
+        "Description": "Advance five tiers in the Season Pass instantly.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/services_Portrait_ServerTransfer.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/services_Rectangle_ServerTransfer.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/services_Square_ServerTransfer.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/services_Thumbnail_ServerTransfer.png",
+        "TypeDescription": "World Transfer (Single-Use)"
+    },
+    {
+        "UniqueTagID": "Mount_Bear_Deluxe",
+        "IsEnabled": 1,
+        "DisplayName": "Corrupted Mauler",
+        "Description": "Corrupted Mauler is an all-round menace. Big, fast and hard as nails. A true force of nature.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/Mount_Portrait_MTX_1_Bear_Preorder.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/Mount_Rectangle_MTX_1_Bear_Preorder.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/Mount_Square_MTX_1_Bear_Preorder.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/Mount_Thumbnail_MTX_1_Bear_Preorder.png",
+        "TypeDescription": "Bear Mount"
+    },
+    {
+        "UniqueTagID": "Mount_Bear_MTX2_SilentDeath",
+        "IsEnabled": 1,
+        "DisplayName": "Titan",
+        "Description": "Titan's size betrays the element of surprise. They will hear him coming and, when they do, they run.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/Mount_Portrait_SilentDeath_Bear.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/Mount_Rectangle_SilentDeath_Bear.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/Mount_Square_SilentDeath_Bear.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/Mount_Thumbnail_SilentDeath_Bear.png",
+        "TypeDescription": "Bear Mount"
+    },
+    {
+        "UniqueTagID": "Mount_Bear_MTX5_Black",
+        "IsEnabled": 1,
+        "DisplayName": "Humphrey",
+        "Description": "Humphrey's coat helps disguise him at night. Beware, he may be the last thing you see.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/Mount_Portrait_MTX_5_Bear_Basic.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/Mount_Rectangle_MTX_5_Bear_Basic.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/Mount_Square_MTX_5_Bear_Basic.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/Mount_Thumbnail_MTX_5_Bear_Basic.png",
+        "TypeDescription": "Bear Mount"
+    },
+    {
+        "UniqueTagID": "Mount_Bear_MTX6_Exotic",
+        "IsEnabled": 1,
+        "DisplayName": "Renboga",
+        "Description": "Renboga may look like a circus bear but, trust me, there's nothing funny about his temper.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/Mount_Portrait_MTX_6_Bear_Basic.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/Mount_Rectangle_MTX_6_Bear_Basic.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/Mount_Square_MTX_6_Bear_Basic.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/Mount_Thumbnail_MTX_6_Bear_Basic.png",
+        "TypeDescription": "Bear Mount"
+    },
+    {
+        "UniqueTagID": "Mount_Bear_MTX7_Brown",
+        "IsEnabled": 1,
+        "DisplayName": "Behemoth",
+        "Description": "Contrary to his name, Behemoth is mostly a gentle and placid soul. Mostly.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/Mount_Portrait_MTX_7_Bear_Basic.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/Mount_Rectangle_MTX_7_Bear_Basic.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/Mount_Square_MTX_7_Bear_Basic.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/Mount_Thumbnail_MTX_7_Bear_Basic.png",
+        "TypeDescription": "Bear Mount"
+    },
+    {
+        "UniqueTagID": "Mount_Bear_MTX7_Ronin",
+        "IsEnabled": 1,
+        "DisplayName": "Goliath",
+        "Description": "Goliath is as loyal to his friends as he is to his appetite. His good nature ensures he takes care of both.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/Mount_Portrait_Ronin_Bear.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/Mount_Rectangle_Ronin_Bear.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/Mount_Square_Ronin_Bear.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/Mount_Thumbnail_Ronin_Bear.png",
+        "TypeDescription": "Bear Mount"
+    },
+    {
+        "UniqueTagID": "Mount_Bear_MTX8_Reaper",
+        "IsEnabled": 1,
+        "DisplayName": "Morti",
+        "Description": "Apparently there's a trick to making Morti relent, however anyone that's tried is no longer around to tell the tale.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/Mount_Portrait_Reaper_Bear.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/Mount_Rectangle_Reaper_Bear.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/Mount_Square_Reaper_Bear.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/Mount_Thumbnail_Reaper_Bear.png",
+        "TypeDescription": "Bear Mount"
+    },
+    {
+        "UniqueTagID": "Mount_Wolf_Preorder",
+        "IsEnabled": 1,
+        "DisplayName": "Azoth Stalker",
+        "Description": "Azoth Stalker is a cunning pack leader. Fearless, savvy and iron-willed by nature, these qualities has overseen their rise to the top.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/Mount_Portrait_MTX_10_Wolf_Preorder.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/Mount_Rectangle_MTX_10_Wolf_Preorder.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/Mount_Square_MTX_10_Wolf_Preorder.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/Mount_Thumbnail_MTX_10_Wolf_Preorder.png",
+        "TypeDescription": "Wolf Mount"
+    },
+    {
+        "UniqueTagID": "StoreItem_Apparel_Reaper_Vengeful",
+        "IsEnabled": 1,
+        "DisplayName": "Vengeful Undertaker",
+        "Description": "“If it was a peaceful end you were seeking, I am afraid I have bad news.\"",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_GrimReaper_Twitch.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_GrimReaper_Twitch.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_GrimReaper_Twitch.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_GrimReaper_Twitch.png",
+        "TypeDescription": "Apparel Skin"
+    },
+    {
+        "UniqueTagID": "StoreItem_Apparel_Console_CorruptedSoul",
+        "IsEnabled": 1,
+        "DisplayName": "Corrupted Soul",
+        "Description": "Where Corruption blooms, Malice follows.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_PreOrder_Deluxe.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_PreOrder_Deluxe.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_PreOrder_Deluxe.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_PreOrder_Deluxe.png",
+        "TypeDescription": "Apparel Skin"
+    },
+    {
+        "UniqueTagID": "Mount_Bear_MTX10_Hippo",
+        "IsEnabled": 1,
+        "DisplayName": "Hippo Burley",
+        "Description": "Wow, a real hippo! I can bearly believe we found one in just under 1,000 days.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Portrait_Hippo_Bear.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_Hippo_Bear.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_Hippo_Bear.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_Hippo_Bear.png",
+        "TypeDescription": "Bear Mount"
+    },
+    {
+        "UniqueTagID": "Mount_Horse_Winter_Rudolph",
+        "IsEnabled": 1,
+        "DisplayName": "Rudy",
+        "Description": "That glowing nose is caused by Holiday Cheer and, thankfully, not Corruption.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Portrait_Winter2024_Horse.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_Winter2024_Horse.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_Winter2024_Horse.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_Winter2024_Horse.png",
+        "TypeDescription": "Horse Mount"
+    },
+    {
+        "UniqueTagID": "Mount_Bear_Winter_Nisse",
+        "IsEnabled": 1,
+        "DisplayName": "Nisse",
+        "Description": "Has worn her hat and scarf ever since she was a cub.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Portrait_Winter_Bear.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Rectangle_Winter_Bear.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Square_Winter_Bear.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/Mount_Thumbnail_Winter_Bear.png",
+        "TypeDescription": "Bear Mount"
+    },
+    {
+        "UniqueTagID": "StoreItem_Apparel_Winter_Nutcracker",
+        "IsEnabled": 1,
+        "DisplayName": "Winter Prince",
+        "Description": "The hand-carved regalia of the Nutcracker Prince, animated every year with merry magics.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Portrait_Winter2024_Nutcracker.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Rectangle_Winter2024_Nutcracker.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Square_Winter2024_Nutcracker.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armorSet_Thumbnail_Winter2024_Nutcracker.png",
+        "TypeDescription": "Apparel Skin Set"
+    },
+    {
+        "UniqueTagID": "StoreItem_Apparel_Winter_StockingHat",
+        "IsEnabled": 1,
+        "DisplayName": "Holiday Hat",
+        "Description": "This hat gives a warm, fuzzy feeling both on your head and in your heart.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Portrait_Winter2024_Santa.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Rectangle_Winter2024_Santa.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Square_Winter2024_Santa.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Thumbnail_Winter2024_Santa.png",
+        "TypeDescription": "Apparel Skin"
+    },
+    {
+        "UniqueTagID": "StoreItem_Apparel_Winter_HelperHat",
+        "IsEnabled": 1,
+        "DisplayName": "Holiday Helper Hat",
+        "Description": "Donning this cap fills you with confidence in crafting without actually improving your ability.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Portrait_Winter2024_Elf.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Rectangle_Winter2024_Elf.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Square_Winter2024_Elf.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/armor_Thumbnail_Winter2024_Elf.png",
+        "TypeDescription": "Apparel Skin"
+    },
+    {
+        "UniqueTagID": "StoreItem_Toolset_Winter_Candycane",
+        "IsEnabled": 1,
+        "DisplayName": "Winter Village Toolset",
+        "Description": "Highly sought after for those who wish to get into the holiday spirit.",
+        "PortraitImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Portrait_Tools_CandyCane.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Rectangle_Tools_CandyCane.png",
+        "SquareImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Square_Tools_CandyCane.png",
+        "ThumbnailImage": "LyShineUI/Images/mtx/mtx_product_images/bundle_Thumbnail_Tools_CandyCane.png",
+        "TypeDescription": "Tool Skin Set"
+    },
+    {
+        "UniqueTagID": "StoreItem_Mount_Turkey_1",
+        "IsEnabled": 1,
+        "DisplayName": "Drumstick",
+        "Description": "A turkey for riding, not eating.\\n\\nNOTE: This mount cannot be dyed, and it does not display attachments.",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/Mount_Portrait_Turkey.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/Mount_Rectangle_Turkey.png",
+        "SquareImage": "lyshineui/images/mtx/mtx_product_images/Mount_Square_Turkey.png",
+        "ThumbnailImage": "lyshineui/images/mtx/mtx_product_images/Mount_Thumbnail_Turkey.png",
+        "TypeDescription": "Turkey Mount"
     }
 ]
