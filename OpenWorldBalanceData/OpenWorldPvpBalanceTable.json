@@ -1,86 +1,128 @@
 [
     {
-        "BalanceTarget": "Blunderbuss",
-        "BalanceCategory": "ItemClass",
+        "BalanceTarget": "HealingAdjustments",
+        "BalanceTargetUIString": "",
+        "BalanceCategory": "Healing",
         "AbilityBaseDamageAdjustment": "",
-        "WeaponBaseDamageAdjustment": -0.2,
+        "WeaponBaseDamageAdjustment": null,
         "AffixStatAdjustment": "",
         "IncomingHealAdjustment": "",
-        "SelfHealAdjustment": "",
+        "SelfHealAdjustment": -0.3,
         "ConsumableHealAdjustment": "",
         "PotencyAdjustment": "",
-        "DurationAdjustment": ""
+        "DurationAdjustment": "",
+        "CooldownAdjustment": null
+    },
+    {
+        "BalanceTarget": "Blunderbuss",
+        "BalanceTargetUIString": "Blunderbuss",
+        "BalanceCategory": "ItemClass",
+        "AbilityBaseDamageAdjustment": "",
+        "WeaponBaseDamageAdjustment": -0.1562,
+        "AffixStatAdjustment": "",
+        "IncomingHealAdjustment": "",
+        "SelfHealAdjustment": null,
+        "ConsumableHealAdjustment": "",
+        "PotencyAdjustment": "",
+        "DurationAdjustment": "",
+        "CooldownAdjustment": null
     },
     {
         "BalanceTarget": "Bow",
+        "BalanceTargetUIString": "Bow",
         "BalanceCategory": "ItemClass",
         "AbilityBaseDamageAdjustment": "",
         "WeaponBaseDamageAdjustment": -0.1632,
         "AffixStatAdjustment": "",
         "IncomingHealAdjustment": "",
-        "SelfHealAdjustment": "",
+        "SelfHealAdjustment": null,
         "ConsumableHealAdjustment": "",
         "PotencyAdjustment": "",
-        "DurationAdjustment": ""
+        "DurationAdjustment": "",
+        "CooldownAdjustment": null
     },
     {
-        "BalanceTarget": "FIreStaff",
+        "BalanceTarget": "FireStaff",
+        "BalanceTargetUIString": "Fire Staff",
         "BalanceCategory": "ItemClass",
         "AbilityBaseDamageAdjustment": "",
         "WeaponBaseDamageAdjustment": -0.05,
         "AffixStatAdjustment": "",
         "IncomingHealAdjustment": "",
-        "SelfHealAdjustment": "",
+        "SelfHealAdjustment": null,
         "ConsumableHealAdjustment": "",
         "PotencyAdjustment": "",
-        "DurationAdjustment": ""
+        "DurationAdjustment": "",
+        "CooldownAdjustment": null
     },
     {
         "BalanceTarget": "IceMagic",
+        "BalanceTargetUIString": "Ice Gauntlet",
         "BalanceCategory": "ItemClass",
         "AbilityBaseDamageAdjustment": "",
         "WeaponBaseDamageAdjustment": -0.05,
         "AffixStatAdjustment": "",
         "IncomingHealAdjustment": "",
-        "SelfHealAdjustment": "",
+        "SelfHealAdjustment": null,
         "ConsumableHealAdjustment": "",
         "PotencyAdjustment": "",
-        "DurationAdjustment": ""
+        "DurationAdjustment": "",
+        "CooldownAdjustment": null
     },
     {
         "BalanceTarget": "LifeStaff",
+        "BalanceTargetUIString": "Life Staff",
         "BalanceCategory": "ItemClass",
         "AbilityBaseDamageAdjustment": "",
         "WeaponBaseDamageAdjustment": -0.05,
         "AffixStatAdjustment": "",
         "IncomingHealAdjustment": "",
-        "SelfHealAdjustment": "",
+        "SelfHealAdjustment": null,
         "ConsumableHealAdjustment": "",
         "PotencyAdjustment": "",
-        "DurationAdjustment": ""
+        "DurationAdjustment": "",
+        "CooldownAdjustment": null
     },
     {
         "BalanceTarget": "Musket",
+        "BalanceTargetUIString": "Musket",
         "BalanceCategory": "ItemClass",
         "AbilityBaseDamageAdjustment": "",
         "WeaponBaseDamageAdjustment": -0.1604,
         "AffixStatAdjustment": "",
         "IncomingHealAdjustment": "",
-        "SelfHealAdjustment": "",
+        "SelfHealAdjustment": null,
         "ConsumableHealAdjustment": "",
         "PotencyAdjustment": "",
-        "DurationAdjustment": ""
+        "DurationAdjustment": "",
+        "CooldownAdjustment": null
     },
     {
         "BalanceTarget": "VoidGauntlet",
+        "BalanceTargetUIString": "Void Gauntlet",
         "BalanceCategory": "ItemClass",
         "AbilityBaseDamageAdjustment": "",
         "WeaponBaseDamageAdjustment": -0.05,
         "AffixStatAdjustment": "",
         "IncomingHealAdjustment": "",
-        "SelfHealAdjustment": "",
+        "SelfHealAdjustment": null,
         "ConsumableHealAdjustment": "",
         "PotencyAdjustment": "",
-        "DurationAdjustment": ""
+        "DurationAdjustment": "",
+        "CooldownAdjustment": null
+    },
+    {
+        "BalanceTarget": "SurvivalPotion",
+        "BalanceTargetUIString": "Survival Potion",
+        "BalanceCategory": "CooldownAdjustment",
+        "AbilityBaseDamageAdjustment": "",
+        "WeaponBaseDamageAdjustment": null,
+        "AffixStatAdjustment": "",
+        "IncomingHealAdjustment": "",
+        "SelfHealAdjustment": null,
+        "ConsumableHealAdjustment": "",
+        "PotencyAdjustment": "",
+        "DurationAdjustment": "",
+        "CooldownAdjustment": null
     }
 ]

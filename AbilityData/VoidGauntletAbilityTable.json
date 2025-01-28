@@ -2121,7 +2121,7 @@
     {
         "AbilityID": "Passive_VoidGauntlet_CDROnCrit",
         "DisplayName": "Refreshing Precision",
-        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;+{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; cooldown reduction on all abilities on critical hit. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[5.000000]} hits per attack.)\u0026lt;/font\u0026gt;",
+        "Description": "\u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;+{[-0.050000 * -100]}%\u0026lt;/font\u0026gt; cooldown reduction on all abilities on critical hit. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Can only be triggered once every {[0.500000]}s.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/voidmagic_Passive04.png",
@@ -2279,7 +2279,7 @@
         "MaxHitCountMultiplier": "",
         "SetMannequinTag": "",
         "SetMannequinTagStatus": "",
-        "ActivationCooldown": null
+        "ActivationCooldown": 0.5
     },
     {
         "AbilityID": "Passive_VoidGauntlet_EmpowerCloseRange",
@@ -4849,9 +4849,9 @@
         "DamageTableRowOverride": "",
         "RangedAttackNameOverride": "",
         "DamageTableStatusEffectOverride": "",
-        "StatusEffectDamageTableIdForRowOverride": "DamageTable",
-        "StatusEffectDamageTableRowOverride": "Common_DamageOverTime_Override_VoidGauntlet",
-        "ForceStatusEffectDamageTableRow": true,
+        "StatusEffectDamageTableIdForRowOverride": "",
+        "StatusEffectDamageTableRowOverride": "",
+        "ForceStatusEffectDamageTableRow": null,
         "PowerLevelOverride": "",
         "EnableCrit": "",
         "PerStatusEffectOnTarget": "",
@@ -6033,7 +6033,7 @@
     {
         "AbilityID": "Ultimate_VoidGauntlet_CDROnStackConsume",
         "DisplayName": "Glimpse of the Void",
-        "Description": "Gain a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Void Essence\u0026lt;/font\u0026gt; per successful ability hit. At \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}\u0026lt;/font\u0026gt; or more stacks, your next successful ranged heavy attack will instantly reset all Void Gauntlet \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;cooldowns\u0026lt;/font\u0026gt; and remove all stacks. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[15.000000]}s cooldown.)\u0026lt;/font\u0026gt;",
+        "Description": "Gain a stack of \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Void Essence\u0026lt;/font\u0026gt; per successful ability hit. At \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[4.000000]}\u0026lt;/font\u0026gt; or more stacks, your next successful ranged heavy attack resets all Void Gauntlet \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;cooldowns\u0026lt;/font\u0026gt; and removes all stacks. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[15.000000]}s cooldown.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/voidmagic_Ult02.png",

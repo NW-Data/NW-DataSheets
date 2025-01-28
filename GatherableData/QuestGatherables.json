@@ -19272,9 +19272,9 @@
     {
         "GatherableID": "10A_Q2_AncientCage",
         "DisplayName": "Unleash Encaged Ancient",
-        "GatheringAction": "None",
-        "GatheringType": "None",
-        "GatheringFragment": "Emote_FistShake",
+        "GatheringAction": "Handcrafting",
+        "GatheringType": "Handcrafting",
+        "GatheringFragment": "",
         "FinalLootTable": "Empty",
         "LootTableDefaultMaterial": "",
         "MinRespawnRate": 84600,

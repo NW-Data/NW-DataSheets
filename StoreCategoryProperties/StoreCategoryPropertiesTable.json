@@ -1,0 +1,242 @@
+[
+    {
+        "StoreCategory": "FeaturedDeals",
+        "CategoryOrder": 1,
+        "CategoryText": "Featured",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "TimedEvent",
+        "CategoryOrder": 2,
+        "CategoryText": "Timed Event",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Special1",
+        "CategoryOrder": 3,
+        "CategoryText": "New!",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/bundle_Portrait_ValkyrieFeathered.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/bundle_Rectangle_ValkyrieFeathered.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Special2",
+        "CategoryOrder": 4,
+        "CategoryText": "Holiday",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "",
+        "PortraitImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Portrait_Valentine2022_02.png",
+        "LandscapeImage": "lyshineui/images/mtx/mtx_product_images/armorSet_Rectangle_Valentine2022_02.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Bundles",
+        "CategoryOrder": 5,
+        "CategoryText": "Bundles",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "Bundle",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "SkinsAndEffects",
+        "CategoryOrder": 6,
+        "CategoryText": "Skins \u0026amp; Effects",
+        "ChildCategoryList": "Effects,ArmorSkins,WeaponSkins,ToolSkins,CampSkins",
+        "StoreProductTypeList": "",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "ArmorSkins",
+        "CategoryOrder": null,
+        "CategoryText": "Apparel Skins",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "ApparelSkin,ApparelSkinSet",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "WeaponSkins",
+        "CategoryOrder": null,
+        "CategoryText": "Weapon Skins",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "WeaponSkinBlunderbass,WeaponSkinBow,WeaponSkinFireStaff,WeaponSkinFlail,WeaponSkinGreatAxe,WeaponSkinGreatsword,WeaponSkinHatchet,WeaponSkinIceGauntlet,WeaponSkinKiteshield,WeaponSkinLifeStaff,WeaponSkinMusket,WeaponSkinRapier,WeaponSkinShield,WeaponSkinSpear,WeaponSkinSword,WeaponSkinVoidGauntlet,WeaponSkinWarhammer",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "ToolSkins",
+        "CategoryOrder": null,
+        "CategoryText": "Tool \u0026amp; Instrument Skins",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "ToolSkin,ToolSkinSet,InstrumentSkinDrum,InstrumentSkinFlute,InstrumentSkinGuitar,InstrumentSkinMandolin,InstrumentSkinUprightBass",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "CampSkins",
+        "CategoryOrder": null,
+        "CategoryText": "Camp Skins",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "Campskin",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Effects",
+        "CategoryOrder": null,
+        "CategoryText": "Effects",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Mounts",
+        "CategoryOrder": 7,
+        "CategoryText": "Mounts",
+        "ChildCategoryList": "Mounts,MountAttachments",
+        "StoreProductTypeList": "Mount,MountBear,MountHorse,MountLion,MountTurkey,MountWolf",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "MountAttachments",
+        "CategoryOrder": null,
+        "CategoryText": "Mount Attachments",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "MountAttachment",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Emotes",
+        "CategoryOrder": 8,
+        "CategoryText": "Emotes",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "Emote",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Consumables",
+        "CategoryOrder": 9,
+        "CategoryText": "Consumables",
+        "ChildCategoryList": "Consumables,Tokens,Augments,Dyes,MountDyes",
+        "StoreProductTypeList": "",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Tokens",
+        "CategoryOrder": null,
+        "CategoryText": "Tokens",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "TokenSingle,TokenPack",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Augments",
+        "CategoryOrder": null,
+        "CategoryText": "Augments",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "Token,EmotePermit",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Dyes",
+        "CategoryOrder": null,
+        "CategoryText": "Dyes",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "ItemDyePack",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "MountDyes",
+        "CategoryOrder": null,
+        "CategoryText": "Mount Dyes",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "MountDye",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "HousingItems",
+        "CategoryOrder": 10,
+        "CategoryText": "Housing",
+        "ChildCategoryList": "HousingItems,Furniture,HousePets",
+        "StoreProductTypeList": "",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Furniture",
+        "CategoryOrder": null,
+        "CategoryText": "Furniture",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "HousingItem,HousingSet",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "HousePets",
+        "CategoryOrder": null,
+        "CategoryText": "House Pets",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "HousePet",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "GuildCrestsAndColors",
+        "CategoryOrder": 11,
+        "CategoryText": "Company Crests",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "GuildCrestPack",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    },
+    {
+        "StoreCategory": "Services",
+        "CategoryOrder": 12,
+        "CategoryText": "Services",
+        "ChildCategoryList": "",
+        "StoreProductTypeList": "Service,Loadout",
+        "PortraitImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_portrait.png",
+        "LandscapeImage": "LyShineUI/Images/mtx/placeholder_mtx_images/placeholder_category_landscape.png",
+        "SquareImage": ""
+    }
+]

@@ -1313,7 +1313,7 @@
         "SeasonsTrackedStatID": "CatchPoundageOfFish",
         "TaskMaxValue": 100000,
         "Name": "Half-Ton Hauler",
-        "Description": "Catch {maxCount/100} pounds of Fish"
+        "Description": "Catch 500 pounds of Fish"
     },
     {
         "SeasonsTaskID": "S2_KillNamedBrimstone",
@@ -3795,45 +3795,45 @@
     },
     {
         "SeasonsTaskID": "S7_Ch1_Task2",
-        "SeasonsTrackedStatID": "KillAncient",
-        "TaskMaxValue": 150,
-        "Name": "@ui_seasons_task_name_KillAncient",
-        "Description": "@ui_seasons_task_description_KillAncient"
+        "SeasonsTrackedStatID": "WinDuel",
+        "TaskMaxValue": 10,
+        "Name": "Master Duelist",
+        "Description": "Win {maxCount} Duels"
     },
     {
         "SeasonsTaskID": "S7_Ch1_Task3",
-        "SeasonsTrackedStatID": "CompleteExpedition",
-        "TaskMaxValue": 3,
-        "Name": "Expedition Exploration I",
-        "Description": "Complete {maxCount} Expeditions"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch1_Task4",
         "SeasonsTrackedStatID": "CompleteFactionMission",
         "TaskMaxValue": 8,
         "Name": "Faction Fanatic I",
         "Description": "Complete {maxCount} Faction Missions"
     },
     {
-        "SeasonsTaskID": "S7_Ch1_Task5",
+        "SeasonsTaskID": "S7_Ch1_Task4",
         "SeasonsTrackedStatID": "CraftFoodT3",
         "TaskMaxValue": 150,
-        "Name": "@ui_seasons_task_name_CraftFoodT3",
-        "Description": "@ui_seasons_task_description_CraftFoodT3"
+        "Name": "Champion Chef",
+        "Description": "Craft {maxCount} T3+ Foods"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch1_Task5",
+        "SeasonsTrackedStatID": "KillAncient",
+        "TaskMaxValue": 150,
+        "Name": "Bane of Ancient",
+        "Description": "Kill {maxCount} Ancient Enemies"
     },
     {
         "SeasonsTaskID": "S7_Ch1_Task6",
+        "SeasonsTrackedStatID": "CompleteExpedition",
+        "TaskMaxValue": 1,
+        "Name": "Expedition Exploration I",
+        "Description": "Complete any Expedition"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch1_Task7",
         "SeasonsTrackedStatID": "KillElite",
         "TaskMaxValue": 50,
         "Name": "Elite Exorciser I",
         "Description": "Kill {maxCount} Elite Enemies"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch1_Task7",
-        "SeasonsTrackedStatID": "CategoricalProgressionTerritoryStanding",
-        "TaskMaxValue": 10000,
-        "Name": "@ui_seasons_task_name_TerritoryStanding_1",
-        "Description": "@ui_seasons_task_description_TerritoryStanding"
     },
     {
         "SeasonsTaskID": "S7_Ch1_Task8",
@@ -3858,241 +3858,241 @@
     },
     {
         "SeasonsTaskID": "S7_Ch2_Task1",
-        "SeasonsTrackedStatID": "CompleteActivityCard",
-        "TaskMaxValue": 10,
-        "Name": "Seasoned Adventurer II",
-        "Description": "Complete {maxCount} Activity Cards"
+        "SeasonsTrackedStatID": "CompleteExpedition",
+        "TaskMaxValue": 5,
+        "Name": "Expedition Exploration II",
+        "Description": "Complete {maxCount} Expeditions"
     },
     {
         "SeasonsTaskID": "S7_Ch2_Task2",
-        "SeasonsTrackedStatID": "WinInfluenceRace",
-        "TaskMaxValue": 2,
-        "Name": "Influential I",
-        "Description": "Win {maxCount} Influence Races"
+        "SeasonsTrackedStatID": "CatchPoundageOfFish",
+        "TaskMaxValue": 50000,
+        "Name": "Half-Ton Hauler",
+        "Description": "Catch 500 pounds of Fish"
     },
     {
         "SeasonsTaskID": "S7_Ch2_Task3",
-        "SeasonsTrackedStatID": "CompleteTownProject",
-        "TaskMaxValue": 10,
-        "Name": "Project Progenitor I",
-        "Description": "Complete {maxCount} Town Projects"
+        "SeasonsTrackedStatID": "CraftTrophy",
+        "TaskMaxValue": 3,
+        "Name": "Know Your Enemy",
+        "Description": "Craft {maxCount} Trophies"
     },
     {
         "SeasonsTaskID": "S7_Ch2_Task4",
-        "SeasonsTrackedStatID": "KillNamed",
-        "TaskMaxValue": 40,
-        "Name": "Named Nemesis I",
-        "Description": "Kill {maxCount} Named Enemies"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch2_Task5",
         "SeasonsTrackedStatID": "WinArena3x3",
         "TaskMaxValue": 5,
         "Name": "Gladiator I",
         "Description": "Win {maxCount} PvP Arena matches"
     },
     {
+        "SeasonsTaskID": "S7_Ch2_Task5",
+        "SeasonsTrackedStatID": "KillNamed",
+        "TaskMaxValue": 40,
+        "Name": "Named Nemesis I",
+        "Description": "Kill {maxCount} Named Enemies"
+    },
+    {
         "SeasonsTaskID": "S7_Ch2_Task6",
-        "SeasonsTrackedStatID": "CraftGearT4",
-        "TaskMaxValue": 50,
-        "Name": "@ui_seasons_task_name_CraftGearT4",
-        "Description": "@ui_seasons_task_description_CraftGearT4"
+        "SeasonsTrackedStatID": "CompleteFactionMission",
+        "TaskMaxValue": 15,
+        "Name": "Faction Fanatic II",
+        "Description": "Complete {maxCount} Faction Missions"
     },
     {
         "SeasonsTaskID": "S7_Ch2_Task7",
-        "SeasonsTrackedStatID": "KillEliteBrimstone",
-        "TaskMaxValue": 50,
-        "Name": "@ui_seasons_task_name_KillEliteBrimstone",
-        "Description": "@ui_seasons_task_description_KillEliteBrimstone"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch2_Task8",
-        "SeasonsTrackedStatID": "LootEliteChest",
-        "TaskMaxValue": 15,
-        "Name": "Elite Spoils I",
-        "Description": "Loot {maxCount} Elite Chests"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch2_Task9",
-        "SeasonsTrackedStatID": "KillPlayer",
-        "TaskMaxValue": 15,
-        "Name": "PK Professional I",
-        "Description": "Kill {maxCount} Players"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch2_Task10",
-        "SeasonsTrackedStatID": "CompleteExpedition",
-        "TaskMaxValue": 8,
-        "Name": "Expedition Exploration II",
-        "Description": "Complete {maxCount} Expeditions"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch2_Task11",
-        "SeasonsTrackedStatID": "GameEvent_Breach",
-        "TaskMaxValue": 20,
-        "Name": "Breach Bustin' II",
-        "Description": "Close {maxCount} Corrupted Breaches"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch3_Task1",
-        "SeasonsTrackedStatID": "CompleteActivityCard",
-        "TaskMaxValue": 20,
-        "Name": "Seasoned Adventurer III",
-        "Description": "Complete {maxCount} Activity Cards"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch3_Task2",
-        "SeasonsTrackedStatID": "LootEliteChest",
-        "TaskMaxValue": 30,
-        "Name": "Elite Spoils II",
-        "Description": "Loot {maxCount} Elite Chests"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch3_Task3",
-        "SeasonsTrackedStatID": "CategoricalProgressionAnyPostCap",
-        "TaskMaxValue": 5,
-        "Name": "Aptitude Addict I",
-        "Description": "Gain {maxCount} Trade Skill Aptitude Levels"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch3_Task4",
-        "SeasonsTrackedStatID": "KillTrialBoss",
-        "TaskMaxValue": 5,
-        "Name": "Trials and Tribulations I",
-        "Description": "Complete any Trial {maxCount} times"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch3_Task5",
-        "SeasonsTrackedStatID": "CategoricalProgressionPvPRewardTrack",
-        "TaskMaxValue": 4,
-        "Name": "Reaping the Rewards I",
-        "Description": "Complete {maxCount} PvP Reward Tracks"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch3_Task6",
-        "SeasonsTrackedStatID": "CompleteMutatedExpedition",
-        "TaskMaxValue": 3,
-        "Name": "Mutation Maniac I",
-        "Description": "Complete {maxCount} Mutated Expeditions"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch3_Task7",
-        "SeasonsTrackedStatID": "CompleteAnyChallenge",
-        "TaskMaxValue": 1,
-        "Name": "Conquered the Challenge I",
-        "Description": "Complete {maxCount} Seasonal Challenge(s)"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch3_Task8",
-        "SeasonsTrackedStatID": "CraftWeaponT5",
-        "TaskMaxValue": 50,
-        "Name": "@ui_seasons_task_name_CraftWeaponT5",
-        "Description": "@ui_seasons_task_description_CraftWeaponT5"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch3_Task9",
-        "SeasonsTrackedStatID": "KillNamed60",
-        "TaskMaxValue": 100,
-        "Name": "Named Nemesis II",
-        "Description": "Kill {maxCount} L60+ Named Enemies"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch3_Task10",
-        "SeasonsTrackedStatID": "PlayOutpostRush",
-        "TaskMaxValue": 5,
-        "Name": "Rush Rumble I",
-        "Description": "Participate in {maxCount} Outpost Rush matches"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch3_Task11",
         "SeasonsTrackedStatID": "CaptureFCP",
         "TaskMaxValue": 10,
         "Name": "Control Point Conquest II",
         "Description": "Capture {maxCount} Faction Control Points"
     },
     {
-        "SeasonsTaskID": "S7_Ch3_Task12",
+        "SeasonsTaskID": "S7_Ch2_Task8",
+        "SeasonsTrackedStatID": "GameEvent_Breach",
+        "TaskMaxValue": 20,
+        "Name": "Breach Bustin' II",
+        "Description": "Close {maxCount} Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch2_Task9",
+        "SeasonsTrackedStatID": "CraftGearT4",
+        "TaskMaxValue": 50,
+        "Name": "Gallant Gearsmith",
+        "Description": "Craft {maxCount} T4+ Gear"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch2_Task10",
+        "SeasonsTrackedStatID": "KillPlayer",
+        "TaskMaxValue": 15,
+        "Name": "PK Professional",
+        "Description": "Kill {maxCount} Players"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch2_Task11",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 10,
+        "Name": "Seasoned Adventurer II",
+        "Description": "Complete {maxCount} Activity Cards"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch3_Task1",
+        "SeasonsTrackedStatID": "CategoricalProgressionFactionTokens",
+        "TaskMaxValue": 50000,
+        "Name": "Faction Financier I",
+        "Description": "Earn {maxCount} Faction Tokens"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch3_Task2",
+        "SeasonsTrackedStatID": "CategoricalProgressionPvPRewardTrack",
+        "TaskMaxValue": 8,
+        "Name": "Reaping the Rewards I",
+        "Description": "Complete {maxCount} PvP Reward Tracks"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch3_Task3",
+        "SeasonsTrackedStatID": "CompleteRepeatableExpeditionQuest",
+        "TaskMaxValue": 7,
+        "Name": "Repeat Offender I",
+        "Description": "Complete {maxCount} Repeatable Expedition Quests"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch3_Task4",
+        "SeasonsTrackedStatID": "KillPlayerInOpenWorld",
+        "TaskMaxValue": 10,
+        "Name": "Open World Menace",
+        "Description": "Kill {maxCount} Players for Azoth Salt in the Open World"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch3_Task5",
+        "SeasonsTrackedStatID": "PlayOutpostRush",
+        "TaskMaxValue": 3,
+        "Name": "Rush Rumble I",
+        "Description": "Participate in {maxCount} Outpost Rush matches"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch3_Task6",
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 15,
+        "Name": "Elite Spoils I",
+        "Description": "Loot {maxCount} Elite Chests"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch3_Task7",
+        "SeasonsTrackedStatID": "ParticipateInInvasion",
+        "TaskMaxValue": 5,
+        "Name": "You Shall Not Pass",
+        "Description": "Complete {maxCount} Invasion"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch3_Task8",
+        "SeasonsTrackedStatID": "CraftWeaponT5",
+        "TaskMaxValue": 50,
+        "Name": "Wealthy Weaponsmith",
+        "Description": "Craft {maxCount} T5+ Weapons"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch3_Task9",
+        "SeasonsTrackedStatID": "CompleteActivityCard",
+        "TaskMaxValue": 20,
+        "Name": "Seasoned Adventurer III",
+        "Description": "Complete {maxCount} Activity Cards"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch3_Task10",
+        "SeasonsTrackedStatID": "WinInfluenceRace",
+        "TaskMaxValue": 2,
+        "Name": "Venii, Vidii, Vicii 1",
+        "Description": "Win {maxCount} Influence Races"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch3_Task11",
         "SeasonsTrackedStatID": "OpenCastGoldNMatter",
         "TaskMaxValue": 5,
         "Name": "Money Matters I",
         "Description": "Craft and open {maxCount} Caches of Gold-n-Matter"
     },
     {
+        "SeasonsTaskID": "S7_Ch3_Task12",
+        "SeasonsTrackedStatID": "KillEliteFirstLight",
+        "TaskMaxValue": 50,
+        "Name": "Top of the Food Chain",
+        "Description": "Kill {maxCount} Elite Enemies in Elysian Wilds"
+    },
+    {
         "SeasonsTaskID": "S7_Ch4_Task1",
-        "SeasonsTrackedStatID": "CategoricalProgressionTerritoryStanding",
-        "TaskMaxValue": 100000,
-        "Name": "@ui_seasons_task_name_TerritoryStanding_2",
-        "Description": "@ui_seasons_task_description_TerritoryStanding"
+        "SeasonsTrackedStatID": "KillNamed60",
+        "TaskMaxValue": 100,
+        "Name": "Named Nemesis II",
+        "Description": "Kill {maxCount} L60+ Named Enemies"
     },
     {
         "SeasonsTaskID": "S7_Ch4_Task2",
-        "SeasonsTrackedStatID": "CompleteMutatedExpedition",
+        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
+        "TaskMaxValue": 10,
+        "Name": "Breach Bustin' III",
+        "Description": "Close {maxCount} Major Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch4_Task3",
+        "SeasonsTrackedStatID": "CompleteAnyTrial",
+        "TaskMaxValue": 3,
+        "Name": "Trio of Trials",
+        "Description": "Complete {maxCount} Trials"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch4_Task4",
+        "SeasonsTrackedStatID": "WinInfluenceRace",
         "TaskMaxValue": 8,
+        "Name": "Venii, Vidii, Vicii 2",
+        "Description": "Win {maxCount} Influence Races"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch4_Task5",
+        "SeasonsTrackedStatID": "CompleteAnyArtifact",
+        "TaskMaxValue": 1,
+        "Name": "Magnum Opus",
+        "Description": "Complete {maxCount} Artifact Quest(s)"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch4_Task6",
+        "SeasonsTrackedStatID": "CompleteTownProject",
+        "TaskMaxValue": 25,
+        "Name": "Keeper of the City",
+        "Description": "Complete {maxCount} Town Projects"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch4_Task7",
+        "SeasonsTrackedStatID": "CompleteMutatedExpedition",
+        "TaskMaxValue": 5,
         "Name": "Mutation Maniac II",
         "Description": "Complete {maxCount} Mutated Expeditions"
     },
     {
-        "SeasonsTaskID": "S7_Ch4_Task3",
+        "SeasonsTaskID": "S7_Ch4_Task8",
         "SeasonsTrackedStatID": "WinOutpostRush",
         "TaskMaxValue": 5,
         "Name": "Rush Rumble II",
         "Description": "Win {maxCount} Outpost Rush matches"
     },
     {
-        "SeasonsTaskID": "S7_Ch4_Task4",
-        "SeasonsTrackedStatID": "CompleteFactionMission",
-        "TaskMaxValue": 20,
-        "Name": "Faction Fanatic II",
-        "Description": "Complete {maxCount} Faction Missions"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch4_Task5",
-        "SeasonsTrackedStatID": "CompleteAnyChallenge",
-        "TaskMaxValue": 2,
-        "Name": "Conquered the Challenge II",
-        "Description": "Complete {maxCount} Seasonal Challenge(s)"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch4_Task6",
-        "SeasonsTrackedStatID": "CategoricalProgressionPvPRewardTrack",
-        "TaskMaxValue": 8,
-        "Name": "Reaping the Rewards II",
-        "Description": "Complete {maxCount} PvP Reward Tracks"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch4_Task7",
+        "SeasonsTaskID": "S7_Ch4_Task9",
         "SeasonsTrackedStatID": "CompleteRepeatableExpeditionQuest",
         "TaskMaxValue": 15,
-        "Name": "Repeat Offender",
+        "Name": "Repeat Offender II",
         "Description": "Complete {maxCount} Repeatable Expedition Quests"
     },
     {
-        "SeasonsTaskID": "S7_Ch4_Task8",
-        "SeasonsTrackedStatID": "CraftGS700",
-        "TaskMaxValue": 10,
-        "Name": "Crafter of Greatness I",
-        "Description": "Craft {maxCount} GS 700 items"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch4_Task9",
-        "SeasonsTrackedStatID": "CategoricalProgressionFactionTokens",
-        "TaskMaxValue": 100000,
-        "Name": "Faction Financier",
-        "Description": "Earn {maxCount} Faction Tokens"
-    },
-    {
         "SeasonsTaskID": "S7_Ch4_Task10",
-        "SeasonsTrackedStatID": "KillPlayerInOpenWorld",
-        "TaskMaxValue": 15,
-        "Name": "Open World Menace",
-        "Description": "Kill {maxCount} Players for Azoth Salt in the Open World"
+        "SeasonsTrackedStatID": "LootEliteChest",
+        "TaskMaxValue": 25,
+        "Name": "Elite Spoils II",
+        "Description": "Loot {maxCount} Elite Chests"
     },
     {
         "SeasonsTaskID": "S7_Ch4_Task11",
-        "SeasonsTrackedStatID": "GameEvent_MajorBreach",
-        "TaskMaxValue": 10,
-        "Name": "Breach Bustin' III",
-        "Description": "Close {maxCount} Major Corrupted Breaches"
+        "SeasonsTrackedStatID": "CategoricalProgressionFactionTokens",
+        "TaskMaxValue": 100000,
+        "Name": "Faction Financier II",
+        "Description": "Earn {maxCount} Faction Tokens"
     },
     {
         "SeasonsTaskID": "S7_Ch4_Task12",
@@ -4110,171 +4110,360 @@
     },
     {
         "SeasonsTaskID": "S7_Ch5_Task1",
+        "SeasonsTrackedStatID": "WinOutpostRush",
+        "TaskMaxValue": 20,
+        "Name": "Rush Rumble III",
+        "Description": "Win {maxCount} Outpost Rush matches"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch5_Task2",
+        "SeasonsTrackedStatID": "KillRaidBoss",
+        "TaskMaxValue": 9,
+        "Name": "Weed Whacker",
+        "Description": "Kill {maxCount} Bosses in the Hive of Gorgons Raid"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch5_Task3",
+        "SeasonsTrackedStatID": "KillEliteSeasonalBoss",
+        "TaskMaxValue": 5,
+        "Name": "Titan Slayer",
+        "Description": "Kill {maxCount} Elite or Seasonal Trial Bosses"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch5_Task4",
+        "SeasonsTrackedStatID": "CompleteAnyChallenge",
+        "TaskMaxValue": 2,
+        "Name": "Deeds Worthy of Legend",
+        "Description": "Complete {maxCount} Seasonal Challenge(s)"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch5_Task5",
+        "SeasonsTrackedStatID": "CraftGS725",
+        "TaskMaxValue": 1,
+        "Name": "Top Gear",
+        "Description": "Craft {maxCount} GS 725 item(s)."
+    },
+    {
+        "SeasonsTaskID": "S7_Ch5_Task6",
+        "SeasonsTrackedStatID": "CraftPrismaticResources",
+        "TaskMaxValue": 50,
+        "Name": "All That Glitters",
+        "Description": "Craft {maxCount} Prismatic resources"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch5_Task7",
+        "SeasonsTrackedStatID": "CraftWithApex",
+        "TaskMaxValue": 2,
+        "Name": "Master Crafted",
+        "Description": "Craft {maxCount} item(s) using Apex Crafting resources"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch5_Task8",
+        "SeasonsTrackedStatID": "GatherCKPvPBuriedTreasure",
+        "TaskMaxValue": 30,
+        "Name": "X Marks the Spot",
+        "Description": "Loot Doubloons from {maxCount} Buried Elite Doubloon Caches in the Cutlass Keys FFA Zone"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch5_Task9",
+        "SeasonsTrackedStatID": "KillPlayerCutlassKeys",
+        "TaskMaxValue": 50,
+        "Name": "Keep What You Kill",
+        "Description": "Kill {maxCount} players in the Cutlass Keys FFA zone"
+    },
+    {
+        "SeasonsTaskID": "S7_Ch5_Task10",
         "SeasonsTrackedStatID": "CompleteM3Expedition",
         "TaskMaxValue": 3,
         "Name": "Maximum Mutation",
         "Description": "Complete {maxCount} M3 Expeditions"
     },
     {
-        "SeasonsTaskID": "S7_Ch5_Task2",
-        "SeasonsTrackedStatID": "WinOutpostRush",
-        "TaskMaxValue": 10,
-        "Name": "Rush Rumble III",
-        "Description": "Win {maxCount} Outpost Rush matches"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch5_Task3",
-        "SeasonsTrackedStatID": "KillPlayer",
-        "TaskMaxValue": 50,
-        "Name": "PK Professional II",
-        "Description": "Kill {maxCount} Players"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch5_Task4",
-        "SeasonsTrackedStatID": "Kill65",
-        "TaskMaxValue": 100,
-        "Name": "High Level Hunter",
-        "Description": "Kill {maxCount} L65+ Enemies"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch5_Task5",
-        "SeasonsTrackedStatID": "OpenCastGoldNMatter",
-        "TaskMaxValue": 10,
-        "Name": "Money Matters II",
-        "Description": "Craft and open {maxCount} Caches of Gold-n-Matter"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch5_Task6",
+        "SeasonsTaskID": "S7_Ch5_Task11",
         "SeasonsTrackedStatID": "KillNamed65",
-        "TaskMaxValue": 25,
+        "TaskMaxValue": 50,
         "Name": "Named Nemesis III",
         "Description": "Kill {maxCount} L65+ Named Enemies"
     },
     {
-        "SeasonsTaskID": "S7_Ch5_Task7",
-        "SeasonsTrackedStatID": "WinInfluenceRace",
-        "TaskMaxValue": 8,
-        "Name": "Influential II",
-        "Description": "Win {maxCount} Influence Races"
+        "SeasonsTaskID": "S7_Ch5_Task12",
+        "SeasonsTrackedStatID": "KillBroodmother",
+        "TaskMaxValue": 1,
+        "Name": "Hero of the Hive",
+        "Description": "Complete the Hive of Gorgons Raid {maxCount} time(s)"
     },
     {
-        "SeasonsTaskID": "S7_Ch5_Task8",
-        "SeasonsTrackedStatID": "CraftGS700",
-        "TaskMaxValue": 25,
-        "Name": "Crafter of Greatness II",
-        "Description": "Craft {maxCount} GS 700 items"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch5_Task9",
+        "SeasonsTaskID": "S7_Ch5_Task13",
         "SeasonsTrackedStatID": "WinArena3x3",
-        "TaskMaxValue": 15,
+        "TaskMaxValue": 20,
         "Name": "Gladiator III",
         "Description": "Win {maxCount} PvP Arena matches"
     },
     {
-        "SeasonsTaskID": "S7_Ch5_Task10",
-        "SeasonsTrackedStatID": "KillTrialBoss",
-        "TaskMaxValue": 20,
-        "Name": "Trials and Tribulations II",
-        "Description": "Complete any Trial {maxCount} times"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch5_Task11",
+        "SeasonsTaskID": "S7_Ch5_Task14",
         "SeasonsTrackedStatID": "GameEvent_MajorBreach",
-        "TaskMaxValue": 25,
+        "TaskMaxValue": 20,
         "Name": "Breach Bustin' IV",
         "Description": "Close {maxCount} Major Corrupted Breaches"
     },
     {
-        "SeasonsTaskID": "S7_Ch5_Task12",
-        "SeasonsTrackedStatID": "LootEliteChest",
-        "TaskMaxValue": 50,
-        "Name": "Elite Spoils III",
-        "Description": "Loot {maxCount} Elite Chests"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch5_Task13",
-        "SeasonsTrackedStatID": "CaptureFCP",
-        "TaskMaxValue": 30,
-        "Name": "Control Point Conquest III",
-        "Description": "Capture {maxCount} Faction Control Points"
-    },
-    {
-        "SeasonsTaskID": "S7_Ch5_Task14",
-        "SeasonsTrackedStatID": "CategoricalProgressionAnyPostCap",
-        "TaskMaxValue": 20,
-        "Name": "Aptitude Addict II",
-        "Description": "Gain {maxCount} Trade Skill Aptitude Levels"
-    },
-    {
         "SeasonsTaskID": "S7_Challenge1",
-        "SeasonsTrackedStatID": "CompleteM3ExpeditionFlawlessly",
-        "TaskMaxValue": 10,
-        "Name": "@ui_seasons_task_name_Challenge_FlawlessM3",
-        "Description": "@ui_seasons_task_description_Challenge_FlawlessM3"
+        "SeasonsTrackedStatID": "DamageOrHealRaid",
+        "TaskMaxValue": 1000000,
+        "Name": "Broodmother's Bane",
+        "Description": "Deal or Heal {maxCount} damage in the Hive of Gorgons Raid"
     },
     {
         "SeasonsTaskID": "S7_Challenge2",
         "SeasonsTrackedStatID": "KillNamed65",
         "TaskMaxValue": 100,
-        "Name": "@ui_seasons_task_name_Challenge_KillNamed65",
-        "Description": "@ui_seasons_task_description_Challenge_KillNamed65"
+        "Name": "Named Butcher",
+        "Description": "Kill {maxCount} Named L65+ Enemies"
     },
     {
         "SeasonsTaskID": "S7_Challenge3",
         "SeasonsTrackedStatID": "CompleteTaskAnyChapter",
-        "TaskMaxValue": 60,
-        "Name": "@ui_seasons_task_name_Challenge_S6Completionist",
-        "Description": "@ui_seasons_task_description_Challenge_S6Completionist"
+        "TaskMaxValue": 55,
+        "Name": "Strife Completionist",
+        "Description": "Complete all of this Season's Journey Tasks"
     },
     {
         "SeasonsTaskID": "S7_Challenge4",
         "SeasonsTrackedStatID": "CategoricalProgressionGatheringPostCap",
-        "TaskMaxValue": 20,
-        "Name": "@ui_seasons_task_name_Challenge_GatheringPostCap",
-        "Description": "@ui_seasons_task_description_Challenge_GatheringPostCap"
+        "TaskMaxValue": 35,
+        "Name": "Grand Gatherer",
+        "Description": "Gain {maxCount} Aptitude levels in Gathering Trade Skills"
     },
     {
         "SeasonsTaskID": "S7_Challenge5",
         "SeasonsTrackedStatID": "CraftNamedUpgrade",
         "TaskMaxValue": 5,
-        "Name": "@ui_seasons_task_name_Challenge_NamedUpgrade",
-        "Description": "@ui_seasons_task_description_Challenge_NamedUpgrade"
+        "Name": "Ultimate Upgrader",
+        "Description": "Upgrade {maxCount} Named items at a Gypsum Kiln"
     },
     {
         "SeasonsTaskID": "S7_Challenge6",
         "SeasonsTrackedStatID": "DamageOrHealInArena3v3",
         "TaskMaxValue": 1000000,
-        "Name": "@ui_seasons_task_name_Challenge_ArenaDamageHeal",
-        "Description": "@ui_seasons_task_description_Challenge_ArenaDamageHeal"
+        "Name": "Arena All-Star",
+        "Description": "Deal or heal {maxCount} in the Arena"
     },
     {
         "SeasonsTaskID": "S7_Challenge7",
         "SeasonsTrackedStatID": "FlawlessArenaVictory",
         "TaskMaxValue": 20,
-        "Name": "@ui_seasons_task_name_Challenge_ArenaFlawless",
-        "Description": "@ui_seasons_task_description_Challenge_ArenaFlawless"
+        "Name": "Flawless Fighter",
+        "Description": "Get {maxCount} Flawless Victories in the Arena"
     },
     {
         "SeasonsTaskID": "S7_Challenge8",
         "SeasonsTrackedStatID": "CaptureFCP",
         "TaskMaxValue": 75,
-        "Name": "@ui_seasons_task_name_Challenge_CaptureFCP",
-        "Description": "@ui_seasons_task_description_Challenge_CaptureFCP"
+        "Name": "Control Freak",
+        "Description": "Capture {maxCount} Faction Control Points"
     },
     {
         "SeasonsTaskID": "S7_Challenge9",
         "SeasonsTrackedStatID": "CompleteActivityCard",
         "TaskMaxValue": 100,
-        "Name": "@ui_seasons_task_name_Challenge_ActivityCards",
-        "Description": "@ui_seasons_task_description_Challenge_ActivityCards"
+        "Name": "Highly Active",
+        "Description": "Complete {maxCount} Activity Cards"
     },
     {
         "SeasonsTaskID": "S7_Challenge10",
         "SeasonsTrackedStatID": "GameEvent_MajorBreach",
         "TaskMaxValue": 50,
-        "Name": "@ui_seasons_task_name_Challenge_MajorBreaches",
-        "Description": "@ui_seasons_task_description_Challenge_MajorBreaches"
+        "Name": "Corruption Clearer",
+        "Description": "Close {maxCount} Major Corrupted Breaches"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh1_Task1",
+        "SeasonsTrackedStatID": "ObtainLevel25SS",
+        "TaskMaxValue": 1,
+        "Name": "Beginning Anew I",
+        "Description": "Reach level 25 on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh1_Task2",
+        "SeasonsTrackedStatID": "KillPlayerInOpenWorldSS",
+        "TaskMaxValue": 10,
+        "Name": "Open World Warrior I",
+        "Description": "Kill {maxCount} Players for Azoth Salt in the Open World on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh1_Task3",
+        "SeasonsTrackedStatID": "CaptureFCPSS",
+        "TaskMaxValue": 1,
+        "Name": "Neighborhood Nemesis I",
+        "Description": "Capture a Faction Control Point on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh1_Task4",
+        "SeasonsTrackedStatID": "CraftEtherealSS",
+        "TaskMaxValue": 10,
+        "Name": "Ethereal Expert I",
+        "Description": "Craft {maxCount} Ethereal recipes on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh2_Task1",
+        "SeasonsTrackedStatID": "ObtainLevel35SS",
+        "TaskMaxValue": 1,
+        "Name": "Beginning Anew II",
+        "Description": "Reach level 35 on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh2_Task2",
+        "SeasonsTrackedStatID": "KillPlayerInOpenWorldSS",
+        "TaskMaxValue": 25,
+        "Name": "Open World Warrior II",
+        "Description": "Kill {maxCount} Players for Azoth Salt in the Open World on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh2_Task3",
+        "SeasonsTrackedStatID": "CaptureFCPSS",
+        "TaskMaxValue": 5,
+        "Name": "Neighborhood Nemesis II",
+        "Description": "Capture {maxCount} Faction Control Points on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh2_Task4",
+        "SeasonsTrackedStatID": "CraftEtherealSS",
+        "TaskMaxValue": 25,
+        "Name": "Ethereal Expert II",
+        "Description": "Craft {maxCount} Ethereal recipes on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh3_Task1",
+        "SeasonsTrackedStatID": "ObtainLevel45SS",
+        "TaskMaxValue": 1,
+        "Name": "Beginning Anew III",
+        "Description": "Reach level 45 on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh3_Task2",
+        "SeasonsTrackedStatID": "KillPlayerInOpenWorldSS",
+        "TaskMaxValue": 75,
+        "Name": "Open World Warrior III",
+        "Description": "Kill {maxCount} Players for Azoth Salt in the Open World on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh3_Task3",
+        "SeasonsTrackedStatID": "CaptureFCPSS",
+        "TaskMaxValue": 10,
+        "Name": "Neighborhood Nemesis III",
+        "Description": "Capture {maxCount} Faction Control Points on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh3_Task4",
+        "SeasonsTrackedStatID": "CraftEtherealSS",
+        "TaskMaxValue": 50,
+        "Name": "Ethereal Expert III",
+        "Description": "Craft {maxCount} Ethereal recipes on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh3_Task5",
+        "SeasonsTrackedStatID": "ParticipateInfluenceRaceSS",
+        "TaskMaxValue": 3,
+        "Name": "Seasonal Soldier I",
+        "Description": "Participate in {maxCount} Influence Races on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh4_Task1",
+        "SeasonsTrackedStatID": "ObtainLevel55SS",
+        "TaskMaxValue": 1,
+        "Name": "Beginning Anew IV",
+        "Description": "Reach level 55 on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh4_Task2",
+        "SeasonsTrackedStatID": "KillPlayerInOpenWorldSS",
+        "TaskMaxValue": 175,
+        "Name": "Open World Warrior IV",
+        "Description": "Kill {maxCount} Players for Azoth Salt in the Open World on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh4_Task3",
+        "SeasonsTrackedStatID": "CaptureFCPSS",
+        "TaskMaxValue": 15,
+        "Name": "Neighborhood Nemesis IV",
+        "Description": "Capture {maxCount} Faction Control Points on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh4_Task4",
+        "SeasonsTrackedStatID": "CraftEtherealSS",
+        "TaskMaxValue": 100,
+        "Name": "Ethereal Expert IV",
+        "Description": "Craft {maxCount} Ethereal recipes on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh4_Task5",
+        "SeasonsTrackedStatID": "ParticipateInfluenceRaceSS",
+        "TaskMaxValue": 10,
+        "Name": "Seasonal Soldier II",
+        "Description": "Participate in {maxCount} Influence Races on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh5_Task1",
+        "SeasonsTrackedStatID": "ObtainLevel65SS",
+        "TaskMaxValue": 1,
+        "Name": "Beginning Anew V",
+        "Description": "Reach level 65 on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh5_Task2",
+        "SeasonsTrackedStatID": "KillPlayerInOpenWorldSS",
+        "TaskMaxValue": 400,
+        "Name": "Open World Warrior V",
+        "Description": "Kill {maxCount} Players for Azoth Salt in the Open World on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh5_Task3",
+        "SeasonsTrackedStatID": "CaptureFCPSS",
+        "TaskMaxValue": 25,
+        "Name": "Neighborhood Nemesis V",
+        "Description": "Capture {maxCount} Faction Control Points on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh5_Task4",
+        "SeasonsTrackedStatID": "CraftEtherealSS",
+        "TaskMaxValue": 250,
+        "Name": "Ethereal Expert V",
+        "Description": "Craft {maxCount} Ethereal recipes on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSCh5_Task5",
+        "SeasonsTrackedStatID": "ParticipateInfluenceRaceSS",
+        "TaskMaxValue": 25,
+        "Name": "Seasonal Soldier III",
+        "Description": "Participate in {maxCount} Influence Races on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSChallenge1",
+        "SeasonsTrackedStatID": "CatchNonFishSS",
+        "TaskMaxValue": 10,
+        "Name": "How'd That Get There?",
+        "Description": "Catch {maxCount} non-Fish on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSChallenge2",
+        "SeasonsTrackedStatID": "KillStubblesMeleeSS",
+        "TaskMaxValue": 1,
+        "Name": "Hail to the King",
+        "Description": "Kill Stubbles the Goat-King on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSChallenge3",
+        "SeasonsTrackedStatID": "KillGoatSS",
+        "TaskMaxValue": 66,
+        "Name": "Cult of the Kid",
+        "Description": "Kill {maxCount} Goats on a Seasonal Server"
+    },
+    {
+        "SeasonsTaskID": "S7_SSChallenge4",
+        "SeasonsTrackedStatID": "KillNamedBeastSpearSS",
+        "TaskMaxValue": 25,
+        "Name": "Man vs Wild",
+        "Description": "Kill {maxCount} Named Beasts with a Spear on a Seasonal Server"
     },
     {
         "SeasonsTaskID": "KillPlayerMelee",

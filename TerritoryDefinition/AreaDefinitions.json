@@ -311,7 +311,7 @@
         "PhasingSectorSharedTag": "",
         "PhasingAILeashOverride": 25,
         "CampPreventionMessageOverride": "",
-        "PhasingProjectedACU": 0.1,
+        "PhasingProjectedACU": 0.14,
         "PhasingProjectedMemoryMb": 4096
     },
     {
@@ -381,7 +381,7 @@
         "PhasingSectorSharedTag": "",
         "PhasingAILeashOverride": 25,
         "CampPreventionMessageOverride": "",
-        "PhasingProjectedACU": 0.1,
+        "PhasingProjectedACU": 0.14,
         "PhasingProjectedMemoryMb": 4096
     },
     {
@@ -5111,7 +5111,7 @@
     },
     {
         "TerritoryID": 9180,
-        "NameLocalizationKey": "Valley of the Gods",
+        "NameLocalizationKey": "The Ancients' Rise",
         "IsPOI": true,
         "IsDiscoverable": "",
         "IsChartable": true,

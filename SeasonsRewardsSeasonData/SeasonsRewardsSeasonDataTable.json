@@ -58,5 +58,15 @@
         "PremiumEntitlementId": "Entitlement_SeasonPassPurchase_Season6",
         "PurchasedLevelsEntitlementId": "Entitlement_SeasonPassLevels_Season6",
         "FreshStartWorldGen": 3
+    },
+    {
+        "SeasonId": "Season7",
+        "SeasonIndex": 7,
+        "Name": "Season 7: Season of Conquerors",
+        "DisplayName": "Season 7",
+        "Description": "REPLACEME",
+        "PremiumEntitlementId": "Entitlement_SeasonPassPurchase_Season7",
+        "PurchasedLevelsEntitlementId": "Entitlement_SeasonPassLevels_Season7",
+        "FreshStartWorldGen": 3
     }
 ]

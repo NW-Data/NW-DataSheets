@@ -86,7 +86,7 @@
         "PhasingPopulationMax": 300,
         "PhasingSortPriority": 70,
         "PhasingAILeashOverride": 25,
-        "PhasingProjectedACU": 0.1,
+        "PhasingProjectedACU": 0.14,
         "PhasingProjectedMemoryMb": 4096
     },
     {
@@ -3416,7 +3416,7 @@
         "PhasingPopulationMax": 500,
         "PhasingSortPriority": 60,
         "PhasingAILeashOverride": 25,
-        "PhasingProjectedACU": 0.2,
+        "PhasingProjectedACU": 0.25,
         "PhasingProjectedMemoryMb": 8192
     },
     {

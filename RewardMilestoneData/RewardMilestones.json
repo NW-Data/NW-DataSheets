@@ -186,7 +186,7 @@
         "Name": "Azoth Staff",
         "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/azothStaff1.dds",
         "Image": "",
-        "Tooltip": "Unlocks \"Reignition\" quest, which grants an Azoth Staff Tier 1 (upon completion). An Azoth staff is used to close Level 25 Corruption Breaches.\\n\\nNote: You must complete the preceding Main Story quests before undertaking this quest.",
+        "Tooltip": "Unlocks \"An Order Reborn\" quest, which grants an Azoth Staff Tier 1 (upon completion). An Azoth staff is used to close Level 25 Corruption Breaches.\\n\\nNote: You must complete the preceding Main Story quests before undertaking this quest.",
         "QuestName": "@9901_0019_forgethestaff_objective_title",
         "ExpansionIdUnlock": "",
         "Notes": ""
@@ -266,7 +266,7 @@
     {
         "RewardID": "CampingT3",
         "MilestoneType": "",
-        "MilestoneLevel": 30,
+        "MilestoneLevel": 25,
         "Name": "Camping Upgrade",
         "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade3.dds",
         "Image": "",
@@ -402,7 +402,7 @@
         "Name": "Season Reward Track",
         "Icon": "LyShineUI/Images/SeasonsRewards/Icon_Unlock_SeasonRewardTrack_bg.dds",
         "Image": "",
-        "Tooltip": "Unlocks access to the Seasons Rewards Track",
+        "Tooltip": "Unlocks the reward track in the season pass.",
         "QuestName": "",
         "ExpansionIdUnlock": "",
         "Notes": ""
@@ -410,11 +410,11 @@
     {
         "RewardID": "SeasonsJourney",
         "MilestoneType": "minor",
-        "MilestoneLevel": 60,
+        "MilestoneLevel": 25,
         "Name": "Season Journey",
         "Icon": "LyShineUI/Images/SeasonsRewards/Icon_Unlock_SeasonJourney_bg.dds",
         "Image": "",
-        "Tooltip": "",
+        "Tooltip": "Unlocks the journey in the season pass.",
         "QuestName": "",
         "ExpansionIdUnlock": "",
         "Notes": ""

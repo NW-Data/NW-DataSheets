@@ -2,6 +2,13 @@
     {
         "TrackedStatID": "CaptureFCP",
         "StatType": "CaptureFCP",
-        "POITags": ""
+        "POITags": "",
+        "RequiredWorldTag": ""
+    },
+    {
+        "TrackedStatID": "CaptureFCPSS",
+        "StatType": "CaptureFCP",
+        "POITags": "",
+        "RequiredWorldTag": "SeasonalServer"
     }
 ]

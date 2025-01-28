@@ -783,7 +783,7 @@
         "CategoryID": "BowA",
         "ImagePath": "Icons/Items/Drawing/bowA",
         "DisplayText": "Bows",
-        "Description": "A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\\n\\n•Hip-Fire: Deals {[0.600000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Short Draw: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Long Draw: Deals {[1.500000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage. \\n\\nThe Bow, along with all other ranged weapons, has a persistent {[0.200000 * 100]}% increase to base damage."
+        "Description": "A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\\n\\n•Hip-Fire: Deals {[0.600000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Short Draw: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage.\\n•Long Draw: Deals {[1.500000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage. \\n\\nThe Bow, along with all other ranged weapons, has a persistent 20% damage multiplier."
     },
     {
         "CategoryID": "BowB",
@@ -795,7 +795,7 @@
         "CategoryID": "MusketA",
         "ImagePath": "Icons/Items/Drawing/2hMusketA",
         "DisplayText": "Musket",
-        "Description": "A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance with a high payoff for precision.\\n\\n•Standard Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage. \\n\\nThe Musket, along with all other ranged weapons, has a persistent {[0.200000 * 100]}% increase to base damage."
+        "Description": "A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance with a high payoff for precision.\\n\\n•Standard Attack: Deals {[1.000000 * 100]}% \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque\" xPadding=\"0\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt; damage. \\n\\nThe Musket, along with all other ranged weapons, has a persistent 20% damage multiplier."
     },
     {
         "CategoryID": "PistolA",
@@ -5246,7 +5246,7 @@
     {
         "CategoryID": "DungeonReps2",
         "ImagePath": "",
-        "DisplayText": "Shattered Obelisk Replicas",
+        "DisplayText": "Starstone Barrows Replicas",
         "Description": ""
     },
     {
@@ -5342,7 +5342,7 @@
     {
         "CategoryID": "UniqueDungeonReps2",
         "ImagePath": "",
-        "DisplayText": "Unique Shattered Obelisk Replicas",
+        "DisplayText": "Unique Starstone Barrows Replicas",
         "Description": ""
     },
     {
@@ -8481,6 +8481,72 @@
         "CategoryID": "725EndgameUpgradeResource",
         "ImagePath": "",
         "DisplayText": "Apex Crafting",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonMaterialMinor",
+        "ImagePath": "",
+        "DisplayText": "Common Expedition Materials",
+        "Description": ""
+    },
+    {
+        "CategoryID": "DungeonMaterialMajor",
+        "ImagePath": "",
+        "DisplayText": "Rare Expedition Materials",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Ethereal",
+        "ImagePath": "",
+        "DisplayText": "Ethereal Armaments",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Conquerors",
+        "ImagePath": "",
+        "DisplayText": "Conquerors Armaments",
+        "Description": ""
+    },
+    {
+        "CategoryID": "EtherealRefinement",
+        "ImagePath": "",
+        "DisplayText": "Ethereal Dust Refining",
+        "Description": ""
+    },
+    {
+        "CategoryID": "EtherealDust",
+        "ImagePath": "",
+        "DisplayText": "Ethereal Dust XP Conversion",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Ore",
+        "ImagePath": "",
+        "DisplayText": "Ores",
+        "Description": ""
+    },
+    {
+        "CategoryID": "OrePrecious",
+        "ImagePath": "",
+        "DisplayText": "Precious Ores",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Fiber",
+        "ImagePath": "",
+        "DisplayText": "Fibers",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Rawhide",
+        "ImagePath": "",
+        "DisplayText": "Rawhides",
+        "Description": ""
+    },
+    {
+        "CategoryID": "Stone",
+        "ImagePath": "",
+        "DisplayText": "Stones",
         "Description": ""
     }
 ]

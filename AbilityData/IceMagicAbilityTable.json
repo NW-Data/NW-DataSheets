@@ -2072,7 +2072,7 @@
     {
         "AbilityID": "IceTempestPass3",
         "DisplayName": "Energized Critical",
-        "Description": "Increase critical damage of ice gauntlet abilities by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; while stamina is full.",
+        "Description": "Increase base damage of ice gauntlet ability critical hits by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.100000 * 100]}%\u0026lt;/font\u0026gt; while stamina is full.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Passive3.png",
@@ -3866,7 +3866,7 @@
     {
         "AbilityID": "IceShowerQuickShower",
         "DisplayName": "Quick Shower",
-        "Description": "Any ally, including self, will get a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}% haste\u0026lt;/font\u0026gt; for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt; when entering Ice Shower.",
+        "Description": "Any ally, including self, will get a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 * 100]}% haste\u0026lt;/font\u0026gt; when inside Ice Shower, and a haste that lasts \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[2.000000]}s\u0026lt;/font\u0026gt; when exiting Ice Shower.",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/iceMagic_Ability5_Mod2.png",

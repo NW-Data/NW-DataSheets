@@ -7382,7 +7382,7 @@
     {
         "AbilityID": "Passive_Greatsword_Def_3",
         "DisplayName": "Blade Honing",
-        "Description": "Base damage is increased by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.030000 * 100]}%\u0026lt;/font\u0026gt; for each greatsword \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;buff\u0026lt;/font\u0026gt; on you. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[4.000000]} buffs.)\u0026lt;/font\u0026gt;",
+        "Description": "For each greatsword \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;buff\u0026lt;/font\u0026gt; on you, base damage increases by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.030000 * 100]}%\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max {[4.000000]} buffs.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "UISpellForManaCheck": "",
         "Icon": "lyshineui/images/icons/abilities/greatsword_Passive11.png",

@@ -398,5 +398,10 @@
         "CostID": "Low_Stamina_Check",
         "StaminaCost": 5,
         "Category": ""
+    },
+    {
+        "CostID": "Swim_Dash",
+        "StaminaCost": 50,
+        "Category": ""
     }
 ]

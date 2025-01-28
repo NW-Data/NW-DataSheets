@@ -3144,12 +3144,6 @@
         "BaseVitalsId": "Avalancher_Shivers"
     },
     {
-        "VitalsID": "Avalancher_Shivers_YetiEncounter",
-        "DisplayName": "Avalancher",
-        "Level": 60,
-        "BaseVitalsId": "Avalancher_Shivers_YetiEncounter"
-    },
-    {
         "VitalsID": "Avalancher_Shivers_25",
         "DisplayName": "Avalancher",
         "Level": 25,
@@ -3178,12 +3172,6 @@
         "DisplayName": "Avalancher",
         "Level": 60,
         "BaseVitalsId": "Avalancher_Yeti_60"
-    },
-    {
-        "VitalsID": "Avalancher_YetiEncounter",
-        "DisplayName": "Avalancher",
-        "Level": 65,
-        "BaseVitalsId": "Avalancher_YetiEncounter"
     },
     {
         "VitalsID": "Barbary_Lion_60",
@@ -23466,12 +23454,6 @@
         "BaseVitalsId": "IceDryad_Fiend_Shivers_Frostgrip_60"
     },
     {
-        "VitalsID": "IceDryad_Fiend_Shivers_YetiEncounter",
-        "DisplayName": "Shiver",
-        "Level": 60,
-        "BaseVitalsId": "IceDryad_Fiend_Shivers_YetiEncounter"
-    },
-    {
         "VitalsID": "IceDryad_Melee_Frostfang",
         "DisplayName": "Ice Dryad Frostfang",
         "Level": 65,
@@ -23502,12 +23484,6 @@
         "BaseVitalsId": "IceDryad_Melee_Frostfang_65_ELITE"
     },
     {
-        "VitalsID": "IceDryad_Melee_Frostfang_YetiEncounter",
-        "DisplayName": "Ice Dryad Frostfang",
-        "Level": 60,
-        "BaseVitalsId": "IceDryad_Melee_Frostfang_YetiEncounter"
-    },
-    {
         "VitalsID": "IceDryad_Range_Frostgrip",
         "DisplayName": "Ice Dryad Frostgrip",
         "Level": 65,
@@ -23536,12 +23512,6 @@
         "DisplayName": "Frostgrip",
         "Level": 65,
         "BaseVitalsId": "IceDryad_Range_Frostgrip_65_ELITE"
-    },
-    {
-        "VitalsID": "IceDryad_Range_Frostgrip_YetiEncounter",
-        "DisplayName": "Ice Dryad Frostgrip",
-        "Level": 60,
-        "BaseVitalsId": "IceDryad_Range_Frostgrip_YetiEncounter"
     },
     {
         "VitalsID": "IceGolem",
@@ -38782,12 +38752,6 @@
         "DisplayName": "Front Gate",
         "Level": 65,
         "BaseVitalsId": "WorldEvent_Door_65"
-    },
-    {
-        "VitalsID": "Yeti_2022",
-        "DisplayName": "The Winter Warrior",
-        "Level": 70,
-        "BaseVitalsId": "Yeti_2022"
     },
     {
         "VitalsID": "Yeti",

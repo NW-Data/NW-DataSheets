@@ -45,6 +45,10 @@ TreeTiny:
     Name: Gatherable_Research_Strange_Wood_T2
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 TreeSmall:
   RollBonusSetting: AddToRoll
@@ -73,6 +77,10 @@ TreeSmall:
     Name: Gatherable_Research_Strange_Wood_T2
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 TreeMedium:
   RollBonusSetting: AddToRoll
@@ -101,6 +109,10 @@ TreeMedium:
     Name: Gatherable_Research_Strange_Wood_T2
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BananaTreeTiny:
   RollBonusSetting: AddToRoll
@@ -133,6 +145,10 @@ BananaTreeTiny:
     Name: BananaT1
     Qty: 0-1
     Threshold: '55000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BananaTreeSmall:
   RollBonusSetting: AddToRoll
@@ -165,6 +181,10 @@ BananaTreeSmall:
     Name: BananaT1
     Qty: 0-2
     Threshold: '65000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BananaTreeMedium:
   RollBonusSetting: AddToRoll
@@ -201,6 +221,10 @@ BananaTreeMedium:
     Name: BananaT1
     Qty: 0-10
     Threshold: '105000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 TreeLarge:
   RollBonusSetting: AddToRoll
@@ -229,6 +253,10 @@ TreeLarge:
     Name: Gatherable_Research_Strange_Wood_T2
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 TreeHuge:
   RollBonusSetting: AddToRoll
@@ -257,6 +285,10 @@ TreeHuge:
     Name: Gatherable_Research_Strange_Wood_T2
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 FallTreeSmall:
   RollBonusSetting: AddToRoll
@@ -285,6 +317,10 @@ FallTreeSmall:
     Name: Gatherable_Research_Strange_Wood_T2
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 FallTreeMedium:
   RollBonusSetting: AddToRoll
@@ -313,6 +349,10 @@ FallTreeMedium:
     Name: Gatherable_Research_Strange_Wood_T2
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 FallTreeLarge:
   RollBonusSetting: AddToRoll
@@ -341,6 +381,10 @@ FallTreeLarge:
     Name: Gatherable_Research_Strange_Wood_T2
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 WinterTreeSmall:
   RollBonusSetting: AddToRoll
@@ -369,6 +413,10 @@ WinterTreeSmall:
     Name: Gatherable_Research_Strange_Wood_T2
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 WinterTreeMedium:
   RollBonusSetting: AddToRoll
@@ -397,6 +445,10 @@ WinterTreeMedium:
     Name: Gatherable_Research_Strange_Wood_T2
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 WinterTreeLarge:
   RollBonusSetting: AddToRoll
@@ -425,6 +477,10 @@ WinterTreeLarge:
     Name: Gatherable_Research_Strange_Wood_T2
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 WyrdwoodTreeTiny:
   RollBonusSetting: AddToRoll
@@ -457,6 +513,10 @@ WyrdwoodTreeTiny:
     Name: Gatherable_Research_Unusual_Wood_T3
     Qty: '1'
     Threshold: '98000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 WyrdwoodTreeSmall:
   RollBonusSetting: AddToRoll
@@ -489,6 +549,10 @@ WyrdwoodTreeSmall:
     Name: Gatherable_Research_Unusual_Wood_T3
     Qty: '1'
     Threshold: '98000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 WyrdwoodTreeMedium:
   RollBonusSetting: AddToRoll
@@ -521,6 +585,10 @@ WyrdwoodTreeMedium:
     Name: Gatherable_Research_Unusual_Wood_T3
     Qty: '1'
     Threshold: '98000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 WyrdwoodTreeLarge:
   RollBonusSetting: AddToRoll
@@ -553,6 +621,10 @@ WyrdwoodTreeLarge:
     Name: Gatherable_Research_Unusual_Wood_T3
     Qty: '1'
     Threshold: '98000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 WyrdwoodTreeHuge:
   RollBonusSetting: AddToRoll
@@ -585,6 +657,10 @@ WyrdwoodTreeHuge:
     Name: Gatherable_Research_Unusual_Wood_T3
     Qty: '1'
     Threshold: '98000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 IronwoodTreeTiny:
   RollBonusSetting: AddToRoll
@@ -617,6 +693,10 @@ IronwoodTreeTiny:
     Name: Gatherable_Research_Abnormal_Wood_T4
     Qty: '1'
     Threshold: '103000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 IronwoodTreeSmall:
   RollBonusSetting: AddToRoll
@@ -649,6 +729,10 @@ IronwoodTreeSmall:
     Name: Gatherable_Research_Abnormal_Wood_T4
     Qty: '1'
     Threshold: '102000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 IronwoodTreeMedium:
   RollBonusSetting: AddToRoll
@@ -681,6 +765,10 @@ IronwoodTreeMedium:
     Name: Gatherable_Research_Abnormal_Wood_T4
     Qty: '1'
     Threshold: '101000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 IronwoodTreeLarge:
   RollBonusSetting: AddToRoll
@@ -713,6 +801,10 @@ IronwoodTreeLarge:
     Name: Gatherable_Research_Abnormal_Wood_T4
     Qty: '1'
     Threshold: '101000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 IronwoodTreeHuge:
   RollBonusSetting: AddToRoll
@@ -745,6 +837,10 @@ IronwoodTreeHuge:
     Name: Gatherable_Research_Abnormal_Wood_T4
     Qty: '1'
     Threshold: '101000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 CactusTiny:
   RollBonusSetting: AddToRoll
@@ -789,6 +885,10 @@ CactusSmall:
     Name: '[LTID]BagofEarthGifts_Roll'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 CactusMedium:
   RollBonusSetting: AddToRoll
@@ -807,6 +907,10 @@ CactusMedium:
     Threshold: '0'
   Item4:
     Name: '[LTID]BagofEarthGifts_Roll'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -829,6 +933,10 @@ CactusLarge:
     Name: '[LTID]BagofEarthGifts_Roll'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 CactusHuge:
   RollBonusSetting: AddToRoll
@@ -847,6 +955,10 @@ CactusHuge:
     Threshold: '0'
   Item4:
     Name: '[LTID]BagofEarthGifts_Roll'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -873,6 +985,10 @@ MycodendraTiny:
     Name: '[LTID]BagofEarthGifts_Roll'
     Qty: '1'
     Threshold: '0'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 MycodendraSmall:
   RollBonusSetting: AddToRoll
@@ -895,6 +1011,10 @@ MycodendraSmall:
     Threshold: '0'
   Item5:
     Name: '[LTID]BagofEarthGifts_Roll'
+    Qty: '1'
+    Threshold: '0'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -921,6 +1041,10 @@ MycodendraMedium:
     Name: '[LTID]BagofEarthGifts_Roll'
     Qty: '1'
     Threshold: '0'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 MycodendraLarge:
   RollBonusSetting: AddToRoll
@@ -945,6 +1069,10 @@ MycodendraLarge:
     Name: '[LTID]BagofEarthGifts_Roll'
     Qty: '1'
     Threshold: '0'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 MycodendraHuge:
   RollBonusSetting: AddToRoll
@@ -967,6 +1095,10 @@ MycodendraHuge:
     Threshold: '0'
   Item5:
     Name: '[LTID]BagofEarthGifts_Roll'
+    Qty: '1'
+    Threshold: '0'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -1001,6 +1133,10 @@ RunewoodTreeTiny:
     Name: Gatherable_Research_Bizzare_Wood_T5
     Qty: '1'
     Threshold: '110000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 RunewoodTreeSmall:
   RollBonusSetting: AddToRoll
@@ -1033,6 +1169,10 @@ RunewoodTreeSmall:
     Name: Gatherable_Research_Bizzare_Wood_T5
     Qty: '1'
     Threshold: '110000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 RunewoodTreeMedium:
   RollBonusSetting: AddToRoll
@@ -1065,6 +1205,10 @@ RunewoodTreeMedium:
     Name: Gatherable_Research_Bizzare_Wood_T5
     Qty: '1'
     Threshold: '110000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 RunewoodTreeLarge:
   RollBonusSetting: AddToRoll
@@ -1097,6 +1241,10 @@ RunewoodTreeLarge:
     Name: Gatherable_Research_Bizzare_Wood_T5
     Qty: '1'
     Threshold: '110000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 RunewoodTreeHuge:
   RollBonusSetting: AddToRoll
@@ -1129,6 +1277,10 @@ RunewoodTreeHuge:
     Name: Gatherable_Research_Bizzare_Wood_T5
     Qty: '1'
     Threshold: '110000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 LoggingResources:
   RollBonusSetting: AddToRoll
@@ -1539,6 +1691,10 @@ BoulderFinishSmall:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BoulderFinishMedium:
   RollBonusSetting: AddToRoll
@@ -1557,6 +1713,10 @@ BoulderFinishMedium:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -1579,6 +1739,10 @@ BoulderFinishLarge:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 GypsumOreFinishSmall:
   RollBonusSetting: AddToRoll
@@ -1597,6 +1761,10 @@ GypsumOreFinishSmall:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -1619,6 +1787,10 @@ GypsumOreFinishMedium:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 GypsumOreFinishLarge:
   RollBonusSetting: AddToRoll
@@ -1637,6 +1809,10 @@ GypsumOreFinishLarge:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -1659,6 +1835,10 @@ SandstoneFinishSmall:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 SandstoneFinishMedium:
   RollBonusSetting: AddToRoll
@@ -1677,6 +1857,10 @@ SandstoneFinishMedium:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -1699,6 +1883,10 @@ SandstoneFinishLarge:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BrimstoneFinishSmall:
   RollBonusSetting: AddToRoll
@@ -1717,6 +1905,10 @@ BrimstoneFinishSmall:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -1739,6 +1931,10 @@ BrimstoneFinishMedium:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BrimstoneFinishLarge:
   RollBonusSetting: AddToRoll
@@ -1757,6 +1953,10 @@ BrimstoneFinishLarge:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -1779,6 +1979,10 @@ LodestoneFinishSmall:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '3'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 LodestoneFinishMedium:
   RollBonusSetting: AddToRoll
@@ -1798,6 +2002,10 @@ LodestoneFinishMedium:
   Item4:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '3'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
 LodestoneFinishLarge:
@@ -1819,6 +2027,10 @@ LodestoneFinishLarge:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '3'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 SeepingStoneSmall:
   RollBonusSetting: AddToRoll
@@ -1837,6 +2049,10 @@ SeepingStoneSmall:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -1859,6 +2075,10 @@ SeepingStoneMedium:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 SeepingStoneLarge:
   RollBonusSetting: AddToRoll
@@ -1879,13 +2099,17 @@ SeepingStoneLarge:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 OreVeinFinishSmall:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Item1:
     Name: OreT1
-    Qty: 11-17
+    Qty: 11-21
     Threshold: '0'
   Item2:
     Name: '[LTID]GemsT1'
@@ -1911,13 +2135,17 @@ OreVeinFinishSmall:
     Name: Gatherable_Research_Strange_Ore_T2
     Qty: '1'
     Threshold: '98000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 OreVeinFinishMedium:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Item1:
     Name: OreT1
-    Qty: 18-30
+    Qty: 18-37
     Threshold: '0'
   Item2:
     Name: '[LTID]GemsT1'
@@ -1943,13 +2171,17 @@ OreVeinFinishMedium:
     Name: Gatherable_Research_Strange_Ore_T2
     Qty: '1'
     Threshold: '98000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 OreVeinFinishLarge:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Item1:
     Name: OreT1
-    Qty: 31-48
+    Qty: 31-60
     Threshold: '0'
   Item2:
     Name: '[LTID]GemsT1'
@@ -1975,6 +2207,10 @@ OreVeinFinishLarge:
     Name: Gatherable_Research_Strange_Ore_T2
     Qty: '1'
     Threshold: '98000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 StarmetalOreVeinFinishSmall:
   RollBonusSetting: AddToRoll
@@ -2007,6 +2243,10 @@ StarmetalOreVeinFinishSmall:
     Name: Gatherable_Research_Unusual_Ore_T3
     Qty: '1'
     Threshold: '98000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 StarmetalOreVeinFinishMedium:
   RollBonusSetting: AddToRoll
@@ -2039,6 +2279,10 @@ StarmetalOreVeinFinishMedium:
     Name: Gatherable_Research_Unusual_Ore_T3
     Qty: '1'
     Threshold: '98000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 StarmetalOreVeinFinishLarge:
   RollBonusSetting: AddToRoll
@@ -2071,6 +2315,10 @@ StarmetalOreVeinFinishLarge:
     Name: Gatherable_Research_Unusual_Ore_T3
     Qty: '1'
     Threshold: '98000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 OrichalcumOreVeinFinishSmall:
   RollBonusSetting: AddToRoll
@@ -2107,6 +2355,10 @@ OrichalcumOreVeinFinishSmall:
     Name: Gatherable_Research_Abnormal_Ore_T4
     Qty: '1'
     Threshold: '98000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 OrichalcumOreVeinFinishMedium:
   RollBonusSetting: AddToRoll
@@ -2143,6 +2395,10 @@ OrichalcumOreVeinFinishMedium:
     Name: Gatherable_Research_Abnormal_Ore_T4
     Qty: '1'
     Threshold: '98000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 OrichalcumOreVeinFinishLarge:
   RollBonusSetting: AddToRoll
@@ -2179,6 +2435,10 @@ OrichalcumOreVeinFinishLarge:
     Name: Gatherable_Research_Abnormal_Ore_T4
     Qty: '1'
     Threshold: '98000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 OrichalcumSpire:
   RollBonusSetting: AddToRoll
@@ -2251,6 +2511,10 @@ Silver_Small:
     Name: Gatherable_Research_Strange_Ore_T2
     Qty: '1'
     Threshold: '97000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Silver_Medium:
   RollBonusSetting: AddToRoll
@@ -2279,6 +2543,10 @@ Silver_Medium:
     Name: Gatherable_Research_Strange_Ore_T2
     Qty: '1'
     Threshold: '97000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Silver_Large:
   RollBonusSetting: AddToRoll
@@ -2307,6 +2575,10 @@ Silver_Large:
     Name: Gatherable_Research_Strange_Ore_T2
     Qty: '1'
     Threshold: '97000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Gold_Small:
   RollBonusSetting: AddToRoll
@@ -2335,6 +2607,10 @@ Gold_Small:
     Name: Gatherable_Research_Unusual_Ore_T3
     Qty: '1'
     Threshold: '97000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Gold_Medium:
   RollBonusSetting: AddToRoll
@@ -2363,6 +2639,10 @@ Gold_Medium:
     Name: Gatherable_Research_Unusual_Ore_T3
     Qty: '1'
     Threshold: '97000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Gold_Large:
   RollBonusSetting: AddToRoll
@@ -2391,6 +2671,10 @@ Gold_Large:
     Name: Gatherable_Research_Unusual_Ore_T3
     Qty: '1'
     Threshold: '97000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Platinum_Small:
   RollBonusSetting: AddToRoll
@@ -2419,6 +2703,10 @@ Platinum_Small:
     Name: Gatherable_Research_Abnormal_Ore_T4
     Qty: '1'
     Threshold: '97000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Platinum_Medium:
   RollBonusSetting: AddToRoll
@@ -2447,6 +2735,10 @@ Platinum_Medium:
     Name: Gatherable_Research_Abnormal_Ore_T4
     Qty: '1'
     Threshold: '97000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Platinum_Large:
   RollBonusSetting: AddToRoll
@@ -2475,6 +2767,10 @@ Platinum_Large:
     Name: Gatherable_Research_Abnormal_Ore_T4
     Qty: '1'
     Threshold: '97000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 MythrilOreVeinFinishSmall:
   RollBonusSetting: AddToRoll
@@ -2511,6 +2807,10 @@ MythrilOreVeinFinishSmall:
     Name: Gatherable_Research_Bizzare_Ore_T5
     Qty: '1'
     Threshold: '110000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 MythrilOreVeinFinishMedium:
   RollBonusSetting: AddToRoll
@@ -2547,6 +2847,10 @@ MythrilOreVeinFinishMedium:
     Name: Gatherable_Research_Bizzare_Ore_T5
     Qty: '1'
     Threshold: '110000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 MythrilOreVeinFinishLarge:
   RollBonusSetting: AddToRoll
@@ -2583,6 +2887,10 @@ MythrilOreVeinFinishLarge:
     Name: Gatherable_Research_Bizzare_Ore_T5
     Qty: '1'
     Threshold: '110000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BoulderResources:
   RollBonusSetting: AddToRoll
@@ -3299,6 +3607,10 @@ HempSmallT1:
     Name: Gatherable_Research_Strange_Fiber_T2
     Qty: '1'
     Threshold: '97000'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HempMediumT1:
   RollBonusSetting: AddToRoll
@@ -3323,6 +3635,10 @@ HempMediumT1:
     Name: Gatherable_Research_Strange_Fiber_T2
     Qty: '1'
     Threshold: '97000'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HempLargeT1:
   RollBonusSetting: AddToRoll
@@ -3347,6 +3663,10 @@ HempLargeT1:
     Name: Gatherable_Research_Strange_Fiber_T2
     Qty: '1'
     Threshold: '97000'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HempSmallT4:
   RollBonusSetting: AddToRoll
@@ -3371,6 +3691,10 @@ HempSmallT4:
     Name: Gatherable_Research_Unusual_Fiber_T3
     Qty: '1'
     Threshold: '97000'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HempMediumT4:
   RollBonusSetting: AddToRoll
@@ -3395,6 +3719,10 @@ HempMediumT4:
     Name: Gatherable_Research_Unusual_Fiber_T3
     Qty: '1'
     Threshold: '97000'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HempLargeT4:
   RollBonusSetting: AddToRoll
@@ -3419,6 +3747,10 @@ HempLargeT4:
     Name: Gatherable_Research_Unusual_Fiber_T3
     Qty: '1'
     Threshold: '97000'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HempSmallT5:
   RollBonusSetting: AddToRoll
@@ -3447,6 +3779,10 @@ HempSmallT5:
     Name: Gatherable_Research_Abnormal_Fiber_T4
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HempMediumT5:
   RollBonusSetting: AddToRoll
@@ -3475,6 +3811,10 @@ HempMediumT5:
     Name: Gatherable_Research_Abnormal_Fiber_T4
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HempLargeT5:
   RollBonusSetting: AddToRoll
@@ -3503,6 +3843,10 @@ HempLargeT5:
     Name: Gatherable_Research_Abnormal_Fiber_T4
     Qty: '1'
     Threshold: '98000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 CactusTinyBush:
   RollBonusSetting: AddToRoll
@@ -3521,6 +3865,10 @@ CactusTinyBush:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -3543,6 +3891,10 @@ CactusSmallBush:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 CactusMediumBush:
   RollBonusSetting: AddToRoll
@@ -3561,6 +3913,10 @@ CactusMediumBush:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -3583,6 +3939,10 @@ CactusLargeBush:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 CactusHugeBush:
   RollBonusSetting: AddToRoll
@@ -3601,6 +3961,10 @@ CactusHugeBush:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -3623,6 +3987,10 @@ MycodendraTinyBush:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 MycodendraSmallBush:
   RollBonusSetting: AddToRoll
@@ -3641,6 +4009,10 @@ MycodendraSmallBush:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -3663,6 +4035,10 @@ MycodendraMediumBush:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 MycodendraLargeBush:
   RollBonusSetting: AddToRoll
@@ -3683,6 +4059,10 @@ MycodendraLargeBush:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '1'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 MycodendraHugeBush:
   RollBonusSetting: AddToRoll
@@ -3701,6 +4081,10 @@ MycodendraHugeBush:
     Threshold: '0'
   Item4:
     Name: '[LTID]Loot_ToolMotes'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -3731,6 +4115,10 @@ HempSmallT52:
     Name: Gatherable_Research_Bizzare_Fiber_T5
     Qty: '1'
     Threshold: '110000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HempMediumT52:
   RollBonusSetting: AddToRoll
@@ -3759,6 +4147,10 @@ HempMediumT52:
     Name: Gatherable_Research_Bizzare_Fiber_T5
     Qty: '1'
     Threshold: '110000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HempLargeT52:
   RollBonusSetting: AddToRoll
@@ -3787,6 +4179,10 @@ HempLargeT52:
     Name: Gatherable_Research_Bizzare_Fiber_T5
     Qty: '1'
     Threshold: '110000'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HarvestingResources:
   RollBonusSetting: AddToRoll
@@ -6796,6 +7192,10 @@ Turkey:
     Name: '[LTID]TurkeyTerror_WithKnife'
     Qty: '1'
     Threshold: '0'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 LargeBird:
   RollBonusSetting: AddToRoll
@@ -6822,6 +7222,10 @@ LargeBird:
     Threshold: '101000'
   Item6:
     Name: '[LTID]SportsmanSpoils_Roll'
+    Qty: '1'
+    Threshold: '0'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -6877,6 +7281,10 @@ FarmPig:
     Name: PorkBellyT1
     Qty: '1'
     Threshold: '101000'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 FarmCow:
   RollBonusSetting: AddToRoll
@@ -6893,6 +7301,10 @@ FarmCow:
     Name: '[LBID]RareMeatsTerritoryCheck'
     Qty: 2-3
     Threshold: '101000'
+  Item4:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Sheep:
   RollBonusSetting: AddToRoll
@@ -6911,6 +7323,10 @@ Sheep:
     Threshold: '101000'
   Item4:
     Name: '[LTID]SportsmanSpoils_Roll'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -6937,6 +7353,10 @@ Goat:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 RabbitSkinning:
   RollBonusSetting: ClampMax
@@ -6951,6 +7371,10 @@ RabbitSkinning:
     Threshold: '99800'
   Item3:
     Name: '[LTID]SportsmanSpoils_Roll'
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -7005,6 +7429,10 @@ WolfSkinning:
     Name: '[LTID]GatherableBonusItems'
     Qty: '1'
     Threshold: '98000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 WolfMeats:
   RollBonusSetting: AddToRoll
@@ -7216,6 +7644,10 @@ CatSkinning:
     Name: '[LTID]GatherableBonusItems'
     Qty: '1'
     Threshold: '98000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 CatBabySkinning:
   RollBonusSetting: AddToRoll
@@ -7350,6 +7782,10 @@ AlligatorSkinning:
     Name: '[LTID]GatherableBonusItems'
     Qty: '1'
     Threshold: '98000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 AlligatorMeats:
   RollBonusSetting: AddToRoll
@@ -7550,6 +7986,10 @@ BoarSkinning:
     Name: '[LTID]GatherableBonusItems'
     Qty: '1'
     Threshold: '98000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BoarMeats:
   RollBonusSetting: AddToRoll
@@ -7664,6 +8104,10 @@ BearSkinning:
     Name: '[LTID]GatherableBonusItems'
     Qty: '1'
     Threshold: '98000'
+  Item9:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BearMeats:
   RollBonusSetting: AddToRoll
@@ -7867,6 +8311,10 @@ ElkCorruptedSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 ElkCorruptedResources:
   RollBonusSetting: AddToRoll
@@ -7936,6 +8384,10 @@ ScarabSkinning:
     Name: '[LTID]GatherableBonusItems'
     Qty: '1'
     Threshold: '101000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 ScarabMeats:
   RollBonusSetting: AddToRoll
@@ -8026,6 +8478,10 @@ ScorpionLargeSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   Item7:
     Name: '[LTID]GatherableBonusItems'
     Qty: '1'
@@ -8052,6 +8508,10 @@ ScorpionMediumSkinning:
     Threshold: '0'
   Item5:
     Name: '[LTID]SportsmanSpoils_Roll'
+    Qty: '1'
+    Threshold: '0'
+  Item6:
+    Name: '[LTID]PvPResourceGathering'
     Qty: '1'
     Threshold: '0'
   Item7:
@@ -8110,6 +8570,10 @@ BeetleSkinning:
     Name: '[LTID]GatherableBonusItems'
     Qty: '1'
     Threshold: '101000'
+  Item8:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BeetleSmallSkinning:
   RollBonusSetting: AddToRoll
@@ -8227,6 +8691,10 @@ ElkSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 ElkMeats:
   RollBonusSetting: AddToRoll
@@ -8333,6 +8801,10 @@ ElkFemaleSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 ElkFemaleMeats:
   RollBonusSetting: AddToRoll
@@ -8419,6 +8891,10 @@ BisonSkinning:
     Name: '[LTID]SportsmanSpoils_Roll'
     Qty: '1'
     Threshold: '0'
+  Item7:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 BisonMeats:
   RollBonusSetting: AddToRoll
@@ -8489,6 +8965,10 @@ Elk_Elemental:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
     Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Wolf_Elemental_Wood:
   RollBonusSetting: AddToRoll
@@ -8500,6 +8980,10 @@ Wolf_Elemental_Wood:
   Item2:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
+    Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
 Wolf_Elemental_Ice:
@@ -8513,6 +8997,10 @@ Wolf_Elemental_Ice:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
     Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Bear_Elemental_Stone:
   RollBonusSetting: AddToRoll
@@ -8524,6 +9012,10 @@ Bear_Elemental_Stone:
   Item2:
     Name: '[LTID]Loot_ToolMotes'
     Qty: '2'
+    Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
 SandElemental_Shaman_Sulfur:
@@ -8557,6 +9049,10 @@ ScorpionSulfurMining:
     Name: StoneT4
     Qty: 1-3
     Threshold: '0'
+  Item4:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 AnubianGuardian_Scarab_Stone:
   RollBonusSetting: AddToRoll
@@ -8573,6 +9069,10 @@ AnubianGuardian_Scarab_Stone:
     Name: '[LTID]BrimstoneGlyphCommon'
     Qty: '1'
     Threshold: '101150'
+  Item4:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 AnubianGuardian_Panther_Stone:
   RollBonusSetting: AddToRoll
@@ -8589,6 +9089,10 @@ AnubianGuardian_Panther_Stone:
     Name: '[LTID]BrimstoneGlyphCommon'
     Qty: '1'
     Threshold: '101150'
+  Item4:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 AnubianGuardian_Brute_Stone:
   RollBonusSetting: AddToRoll
@@ -8605,6 +9109,10 @@ AnubianGuardian_Brute_Stone:
     Name: '[LTID]BrimstoneGlyphCommon'
     Qty: '2'
     Threshold: '101150'
+  Item4:
+    Name: '[LTID]PvPResourceGathering'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 HercyneRat_Wood:
   RollBonusSetting: AddToRoll
@@ -10380,7 +10888,6 @@ ChestLootElite:
   AND/OR: AND
   Conditions: GlobalMod
   UseLevelGS: 'TRUE'
-  HWMMult: 15
   Item1:
     Name: '[LBID]ResourceItems'
     Qty: '1'
@@ -10439,6 +10946,10 @@ ChestLootElite:
     Threshold: '0'
   Item15:
     Name: '[LTID]DoubloonChestPvEElite'
+    Qty: '1'
+    Threshold: '0'
+  Item16:
+    Name: '[LTID]PvPResourceEliteChest'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -10502,12 +11013,16 @@ ChestLootEliteItemBonusRoll:
     Name: '[LBID]CraftingClothing'
     Qty: '1'
     Threshold: '95000'
+  Item4:
+    Name: '[LTID]MountRewardChance'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 ChestLootEliteGearGuarantee:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
-  HWMMult: 15
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FamilyWeapons'
     Qty: '1'
@@ -10525,7 +11040,7 @@ ChestLootEliteGearRoll:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
-  HWMMult: 15
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FamilyWeapons'
     Qty: '1'
@@ -10543,7 +11058,7 @@ ChestLootElitePOIGearRoll:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
-  HWMMult: 15
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]EliteWeapons'
     Qty: '1'
@@ -10580,6 +11095,18 @@ VoidEssence:
     Name: VoidEssence
     Qty: '1'
     Threshold: '100001'
+  MaxRoll: 100000
+MountRewardChance:
+  RollBonusSetting: AddToRoll
+  AND/OR: OR
+  Item1:
+    Name: '[LBID]MountBuffs'
+    Qty: '1'
+    Threshold: '98000'
+  Item2:
+    Name: '[LBID]MountAttachments'
+    Qty: '1'
+    Threshold: '98500'
   MaxRoll: 100000
 AlchemyEarthT2Salvage:
   RollBonusSetting: AddToRoll
@@ -10801,10 +11328,33 @@ AzothSaltVialTwoSalvage:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100
+MutatorRaidComboParent:
+  RollBonusSetting: ClampMax
+  AND/OR: AND
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
+  Item1:
+    Name: '[LTID]MutatorRaidCombo_HercyneRewards'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
+MutatorRaidCombo_HercyneRewards:
+  RollBonusSetting: ClampMax
+  AND/OR: AND
+  Conditions: HercyneRaidCombo
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
+  Item1:
+    Name: '[LBID]RaidMutatorCombo'
+    Qty: 1-3
+    Threshold: '0'
+  MaxRoll: 0
 CreatureLootRaid:
   RollBonusSetting: ClampMax
   AND/OR: AND
   Conditions: Raid
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]ProcRaid'
     Qty: '1'
@@ -10821,10 +11371,16 @@ CreatureLootRaid:
     Name: '[LBID]ProcRaid'
     Qty: '1'
     Threshold: '65000'
+  Item5:
+    Name: '[LBID]MutatorComboRewardCraftingMats'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 Raid_CompletionRewards:
   RollBonusSetting: IgnoreBonus
   AND/OR: AND
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]RaidTokens'
     Qty: '1'
@@ -10840,7 +11396,7 @@ Raid_CompletionRewards:
   Item4:
     Name: '[LBID]RaidSchematics'
     Qty: '1'
-    Threshold: '99500'
+    Threshold: '90000'
   Item5:
     Name: '[LBID]RaidInductors'
     Qty: '1'
@@ -10915,13 +11471,16 @@ CreatureLootMaster:
     Name: '[LTID]GuaranteedLimitedDrops'
     Qty: '1'
     Threshold: '0'
+  Item17:
+    Name: '[LTID]PvPResourceEliteCreature'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 1000000
 CreatureLootElite:
   RollBonusSetting: ClampMax
   AND/OR: OR
   Conditions: Elite
   UseLevelGS: 'TRUE'
-  HWMMult: 1.5
   Item1:
     Name: '[LTID]CreatureLootFamilyGear'
     Qty: '1'
@@ -10981,13 +11540,21 @@ CreatureLootNamed:
     Qty: '1'
     Threshold: '0'
   Item8:
+    Name: '[LTID]MountRewardChance'
+    Qty: '1'
+    Threshold: '0'
+  Item9:
     Name: '[LBID]ZoneNamedItems'
     Qty: '1'
     Threshold: '75000'
-  Item9:
+  Item10:
     Name: '[LBID]GlobalNamedListLow'
     Qty: '1'
     Threshold: '60000'
+  Item11:
+    Name: '[LTID]PvPResourceEliteCreatureNamed'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 CreatureLootCommon:
   RollBonusSetting: ClampMax
@@ -11130,6 +11697,7 @@ CreatureLootCommonGear:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]ProcWeapons'
     Qty: '1'
@@ -11155,6 +11723,7 @@ CreatureLootFamilyGear:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FamilyWeapons'
     Qty: '1'
@@ -11172,6 +11741,7 @@ CreatureLootEliteGear:
   RollBonusSetting: ClampMax
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]EliteArmor'
     Qty: '1'
@@ -11199,7 +11769,6 @@ CreatureLootNamedLootGearOdds1:
   AND/OR: OR
   Conditions: Named
   UseLevelGS: 'TRUE'
-  HWMMult: 4
   Item1:
     Name: '[LTID]NamedCreatureLootEliteGear_Filter'
     Qty: '1'
@@ -11217,6 +11786,7 @@ NamedCreatureLootEliteGear_Filter:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LTID]NamedCreatureLootEliteGear'
     Qty: '1'
@@ -11230,6 +11800,7 @@ NamedCreatureLootEliteGear:
   RollBonusSetting: ClampMax
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]EliteArmor'
     Qty: '1'
@@ -11279,6 +11850,7 @@ ProcArmorOnly:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]ProcArmorLight'
     Qty: '1'
@@ -11296,6 +11868,7 @@ ProcArmorAndTrinket:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]ProcArmorLight'
     Qty: '1'
@@ -11316,6 +11889,7 @@ ProcArmorAndTrinket:
 ProcArmorOrWeapon:
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LTID]ProcArmor'
     Qty: '1'
@@ -11330,6 +11904,7 @@ CreatureLootDungeon:
   AND/OR: OR
   Conditions: Dungeon
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]DungeonResources'
     Qty: '1'
@@ -11352,7 +11927,7 @@ CreatureLootDungeonBoss:
   AND/OR: AND
   Conditions: Dungeon
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LTID]GypsumBlue'
     Qty: '1'
@@ -11386,7 +11961,8 @@ CreatureLootDungeonBossEquipment:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]LootDungeonArmor'
     Qty: '1'
@@ -11421,7 +11997,7 @@ ContainerLootAlchemySmall:
     Qty: '1'
     Threshold: '0'
   Item3:
-    Name: '[LTID]DoubloonChestPvESmall'
+    Name: '[LTID]PvPResourceEliteChestSmall'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
@@ -11458,7 +12034,7 @@ ContainerLootAlchemyLarge:
     Qty: '1'
     Threshold: '0'
   Item3:
-    Name: '[LTID]DoubloonChestPvELarge'
+    Name: '[LTID]PvPResourceEliteChest'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
@@ -11499,7 +12075,7 @@ ContainerLootCookingSmall:
     Qty: '1'
     Threshold: '98000'
   Item3:
-    Name: '[LTID]DoubloonChestPvESmall'
+    Name: '[LTID]PvPResourceEliteChestSmall'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -11528,7 +12104,7 @@ ContainerLootCookingLarge:
     Qty: '1'
     Threshold: '95000'
   Item3:
-    Name: '[LTID]DoubloonChestPvELarge'
+    Name: '[LTID]PvPResourceEliteChest'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -11572,7 +12148,7 @@ ContainerLootSmallLeveled:
     Qty: '1'
     Threshold: '98500'
   Item7:
-    Name: '[LTID]DoubloonChestPvEMedium'
+    Name: '[LTID]PvPResourceEliteChestSmall'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -11731,6 +12307,10 @@ ContainerAncientLootSmall:
     Name: '[LTID]RareContainerList'
     Qty: '1'
     Threshold: '97500'
+  Item5:
+    Name: '[LTID]PvPResourceEliteChestSmall'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 ContainerLootLarge:
   RollBonusSetting: ClampMax
@@ -11778,7 +12358,7 @@ ContainerLootLarge:
     Qty: '1'
     Threshold: '99900'
   Item11:
-    Name: '[LTID]DoubloonChestPvELarge'
+    Name: '[LTID]PvPResourceEliteChest'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -11830,6 +12410,7 @@ ContainerLootGear:
   AND/OR: OR
   Conditions: GlobalMod
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]ProcWeapons'
     Qty: '1'
@@ -11856,6 +12437,7 @@ ContainerLootProcWeapons:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]ProcWeapons'
     Qty: '1'
@@ -12161,50 +12743,6 @@ SportsmanSpoils60:
     Qty: 1-3
     Threshold: '0'
   MaxRoll: 100000
-HastilyWrappedPresent:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: WCToken
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]WCGoldLockBoxT1LevelLimit'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 100000
-BeautifullyWrappedPresent:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: WCToken
-    Qty: '3'
-    Threshold: '0'
-  Item2:
-    Name: WCPToken
-    Qty: '1'
-    Threshold: '95000'
-  Item3:
-    Name: '[LTID]WCGoldLockBoxT1LevelLimit'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 100000
-ExquisitelyWrappedPresent:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: WCToken
-    Qty: '5'
-    Threshold: '0'
-  Item2:
-    Name: WCPToken
-    Qty: '1'
-    Threshold: '90000'
-  Item3:
-    Name: '[LTID]WCGoldLockBoxT1LevelLimit'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 100000
 WC_QuestPresent1:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -12290,7 +12828,6 @@ CraftingUmbralRewards:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]BonusUmbralCrafting'
     Qty: '1'
@@ -12300,7 +12837,6 @@ ItemCastHead:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12314,7 +12850,6 @@ ItemCastChest:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12328,7 +12863,6 @@ ItemCastHands:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12342,7 +12876,6 @@ ItemCastLegs:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12356,7 +12889,6 @@ ItemCastFeet:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12370,7 +12902,6 @@ ItemCastSword:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12384,7 +12915,6 @@ ItemCastHatchet:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12398,7 +12928,6 @@ ItemCastFlail:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12412,7 +12941,6 @@ ItemCastRapier:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12426,7 +12954,6 @@ ItemCastSpear:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12440,7 +12967,6 @@ ItemCastGreatAxe:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12454,7 +12980,6 @@ ItemCastWarHammer:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12468,7 +12993,6 @@ ItemCastGreatSword:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12482,7 +13006,6 @@ ItemCastBow:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12496,7 +13019,6 @@ ItemCastMusket:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12510,7 +13032,6 @@ ItemCastBlunderbuss:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12524,7 +13045,6 @@ ItemCastLifeStaff:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12538,7 +13058,6 @@ ItemCastFireStaff:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12552,7 +13071,6 @@ ItemCastIceGauntlet:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12566,7 +13084,6 @@ ItemCastVoidGauntlet:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12580,7 +13097,6 @@ ItemCastShield:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12594,7 +13110,6 @@ ItemCastRing:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12608,7 +13123,6 @@ ItemCastAmulet:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12622,7 +13136,6 @@ ItemCastEarring:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -12636,7 +13149,6 @@ FlameCoreGear:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]FlameCoreGearBucket'
     Qty: '1'
@@ -15414,7 +15926,7 @@ OutpostRushRewardT2:
     Qty: '1'
     Threshold: '0'
   Item4:
-    Name: '[LTID]PvPGM725RewardLimit'
+    Name: '[LTID]PvPGM725RewardLevelCheck'
     Qty: '1'
     Threshold: '99000'
   MaxRoll: 100000
@@ -15434,7 +15946,7 @@ OutpostRushRewardT3:
     Qty: '1'
     Threshold: '0'
   Item4:
-    Name: '[LTID]PvPGM725RewardLimit'
+    Name: '[LTID]PvPGM725RewardLevelCheck'
     Qty: '1'
     Threshold: '97500'
   MaxRoll: 100000
@@ -15454,7 +15966,7 @@ OutpostRushRewardT4:
     Qty: '1'
     Threshold: '0'
   Item4:
-    Name: '[LTID]PvPGM725RewardLimit'
+    Name: '[LTID]PvPGM725RewardLevelCheck'
     Qty: '1'
     Threshold: '95000'
   MaxRoll: 100000
@@ -15462,7 +15974,8 @@ OutpostRushRewardChestL60:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LTID]OutpostRushGearRoll'
     Qty: '2'
@@ -15480,7 +15993,8 @@ OutpostRushRewardChestL61:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LTID]OutpostRushGearRoll'
     Qty: '2'
@@ -15502,7 +16016,8 @@ OutpostRushRewardChestL62:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LTID]OutpostRushGearRoll'
     Qty: '2'
@@ -15524,7 +16039,8 @@ OutpostRushRewardChestL63:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LTID]OutpostRushGearRoll'
     Qty: '2'
@@ -15546,7 +16062,8 @@ OutpostRushRewardChestL64:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LTID]OutpostRushGearRoll'
     Qty: '2'
@@ -15568,7 +16085,8 @@ OutpostRushRewardChestL65:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LTID]OutpostRushGearRoll'
     Qty: '2'
@@ -15590,7 +16108,8 @@ OutpostRushGearRoll:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]ORArmors'
     Qty: '1'
@@ -15605,7 +16124,8 @@ OutpostRushWeaponRoll:
   AND/OR: OR
   Conditions: OPRLoot
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]ORWeapons'
     Qty: '1'
@@ -15614,7 +16134,6 @@ OutpostRushWeaponRoll:
 OutpostRushRewardChestRoll:
   RollBonusSetting: AddToRoll
   AND/OR: OR
-  HWMMult: 1000
   Item1:
     Name: '[LTID]ArmorCase'
     Qty: '1'
@@ -15640,7 +16159,7 @@ Arena3v3Reward_Win:
     Qty: '1'
     Threshold: '97500'
   Item4:
-    Name: '[LTID]PvPGM725RewardLimit'
+    Name: '[LTID]PvPGM725RewardLevelCheck'
     Qty: '1'
     Threshold: '95000'
   MaxRoll: 100000
@@ -15656,7 +16175,7 @@ Arena3v3Reward_GyspumGarnet:
     Qty: '1'
     Threshold: '50000'
   Item3:
-    Name: '[LTID]PvPGM725RewardLimit'
+    Name: '[LTID]PvPGM725RewardLevelCheck'
     Qty: '1'
     Threshold: '97500'
   MaxRoll: 100000
@@ -15673,6 +16192,7 @@ DailyArenaCacheResults:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LTID]DailyArenaCacheResults_L1'
     Qty: '1'
@@ -15706,6 +16226,7 @@ DailyArenaCacheResults_L60:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]ORArmors'
     Qty: '1'
@@ -15719,6 +16240,7 @@ DailyArenaCacheResults_L1:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]DailyArena_LowWeapons'
     Qty: '1'
@@ -16240,6 +16762,7 @@ DarkSprigganT4:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]DarkSprigganGearBucket'
     Qty: '1'
@@ -16253,6 +16776,7 @@ DarkSprigganT5:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]DarkSprigganGearBucket'
     Qty: '2'
@@ -16282,6 +16806,7 @@ SprigganT4:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]SprigganGearBucket'
     Qty: '1'
@@ -16291,6 +16816,7 @@ SprigganT5:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]SprigganGearBucket'
     Qty: '1'
@@ -16312,6 +16838,7 @@ RewardArmorT2:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardArmorBucket'
     Qty: '1'
@@ -16345,6 +16872,7 @@ RewardArmorT3:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardArmorBucket'
     Qty: '1'
@@ -16418,6 +16946,7 @@ RewardArmorT4:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardArmorBucket'
     Qty: '1'
@@ -16531,6 +17060,7 @@ RewardArmorT5:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardArmorBucket'
     Qty: '1'
@@ -16648,6 +17178,7 @@ RewardWeaponsT2:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardWeaponsBucket'
     Qty: '1'
@@ -16681,6 +17212,7 @@ RewardWeaponsT3:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardWeaponsBucket'
     Qty: '1'
@@ -16754,6 +17286,7 @@ RewardWeaponsT4:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardWeaponsBucket'
     Qty: '1'
@@ -16867,6 +17400,7 @@ RewardWeaponsT5:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardWeaponsBucket'
     Qty: '1'
@@ -16985,6 +17519,7 @@ RewardFamilyGearCorruptedT2:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardFamilyGearBucket'
     Qty: '1'
@@ -17019,6 +17554,7 @@ RewardFamilyGearCorruptedT3:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardFamilyGearBucket'
     Qty: '1'
@@ -17093,6 +17629,7 @@ RewardFamilyGearCorruptedT4:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardFamilyGearBucket'
     Qty: '1'
@@ -17207,6 +17744,7 @@ RewardFamilyGearCorruptedT5:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardFamilyGearBucket'
     Qty: '1'
@@ -17325,6 +17863,7 @@ RewardFamilyGearAngryEarthT2:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardFamilyGearBucket'
     Qty: '1'
@@ -17359,6 +17898,7 @@ RewardFamilyGearAngryEarthT3:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardFamilyGearBucket'
     Qty: '1'
@@ -17433,6 +17973,7 @@ RewardFamilyGearAngryEarthT4:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardFamilyGearBucket'
     Qty: '1'
@@ -17547,6 +18088,7 @@ RewardFamilyGearAngryEarthT5:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]RewardFamilyGearBucket'
     Qty: '1'
@@ -17665,6 +18207,7 @@ ArmorCase:
   AND/OR: OR
   UseLevelGS: 'TRUE'
   GSBonus: 10
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LTID]ProcArmor'
     Qty: '1'
@@ -17679,6 +18222,7 @@ WeaponCase:
   AND/OR: OR
   UseLevelGS: 'TRUE'
   GSBonus: 10
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]ProcWeapons'
     Qty: '1'
@@ -17691,12 +18235,20 @@ DarknessMinor1EventLoot25:
     Name: '[LBID]DarknessMinor1Containers25'
     Qty: '1'
     Threshold: '0'
+  Item2:
+    Name: '[LTID]PvPResourceDarknessMinor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMinor2EventLoot25:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Item1:
     Name: '[LBID]DarknessMinor2Containers25'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]PvPResourceDarknessMinor'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
@@ -17711,6 +18263,10 @@ DarknessMajor1EventLoot25:
     Name: '[LBID]EventDropDarkness'
     Qty: '1'
     Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceDarknessMajor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMajor2EventLoot25:
   RollBonusSetting: AddToRoll
@@ -17723,6 +18279,10 @@ DarknessMajor2EventLoot25:
     Name: '[LBID]EventDropDarkness'
     Qty: '1'
     Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceDarknessMajor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMinor1EventLoot35:
   RollBonusSetting: AddToRoll
@@ -17731,12 +18291,20 @@ DarknessMinor1EventLoot35:
     Name: '[LBID]DarknessMinor1Containers35'
     Qty: '1'
     Threshold: '0'
+  Item2:
+    Name: '[LTID]PvPResourceDarknessMinor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMinor2EventLoot35:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Item1:
     Name: '[LBID]DarknessMinor2Containers35'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]PvPResourceDarknessMinor'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
@@ -17751,6 +18319,10 @@ DarknessMajor1EventLoot35:
     Name: '[LBID]EventDropDarkness'
     Qty: '1'
     Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceDarknessMajor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMajor2EventLoot35:
   RollBonusSetting: AddToRoll
@@ -17763,6 +18335,10 @@ DarknessMajor2EventLoot35:
     Name: '[LBID]EventDropDarkness'
     Qty: '1'
     Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceDarknessMajor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMinor1EventLoot45:
   RollBonusSetting: AddToRoll
@@ -17771,12 +18347,20 @@ DarknessMinor1EventLoot45:
     Name: '[LBID]DarknessMinor1Containers45'
     Qty: '1'
     Threshold: '0'
+  Item2:
+    Name: '[LTID]PvPResourceDarknessMinor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMinor2EventLoot45:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Item1:
     Name: '[LBID]DarknessMinor2Containers45'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]PvPResourceDarknessMinor'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
@@ -17791,6 +18375,10 @@ DarknessMajor1EventLoot45:
     Name: '[LBID]EventDropDarkness'
     Qty: '1'
     Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceDarknessMajor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMajor2EventLoot45:
   RollBonusSetting: AddToRoll
@@ -17803,6 +18391,10 @@ DarknessMajor2EventLoot45:
     Name: '[LBID]EventDropDarkness'
     Qty: '1'
     Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceDarknessMajor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMinor1EventLoot55:
   RollBonusSetting: AddToRoll
@@ -17811,12 +18403,20 @@ DarknessMinor1EventLoot55:
     Name: '[LBID]DarknessMinor1Containers55'
     Qty: '1'
     Threshold: '0'
+  Item2:
+    Name: '[LTID]PvPResourceDarknessMinor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMinor2EventLoot55:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   Item1:
     Name: '[LBID]DarknessMinor2Containers55'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]PvPResourceDarknessMinor'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
@@ -17831,6 +18431,10 @@ DarknessMajor1EventLoot55:
     Name: '[LBID]EventDropDarkness'
     Qty: '1'
     Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceDarknessMajor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 DarknessMajor2EventLoot55:
   RollBonusSetting: AddToRoll
@@ -17841,6 +18445,10 @@ DarknessMajor2EventLoot55:
     Threshold: '0'
   Item2:
     Name: '[LBID]EventDropDarkness'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceDarknessMajor'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
@@ -17855,6 +18463,10 @@ DarknessMinor1EventLoot60:
     Name: '[LTID]GypsumPurpleDarknessRoll'
     Qty: '1'
     Threshold: '50000'
+  Item3:
+    Name: '[LTID]PvPResourceDarknessMinor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 DarknessMinor2EventLoot60:
   RollBonusSetting: AddToRoll
@@ -17867,6 +18479,10 @@ DarknessMinor2EventLoot60:
     Name: '[LTID]GypsumPurpleDarknessRoll'
     Qty: '1'
     Threshold: '50000'
+  Item3:
+    Name: '[LTID]PvPResourceDarknessMinor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 DarknessMajor1EventLoot60:
   RollBonusSetting: AddToRoll
@@ -17883,6 +18499,10 @@ DarknessMajor1EventLoot60:
     Name: '[LBID]EventDropDarkness'
     Qty: '1'
     Threshold: '0'
+  Item4:
+    Name: '[LTID]PvPResourceDarknessMajor'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 DarknessMajor2EventLoot60:
   RollBonusSetting: AddToRoll
@@ -17897,6 +18517,10 @@ DarknessMajor2EventLoot60:
     Threshold: '0'
   Item3:
     Name: '[LBID]EventDropDarkness'
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LTID]PvPResourceDarknessMajor'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -17917,6 +18541,10 @@ DarknessMajor2EventLoot65:
     Threshold: '0'
   Item4:
     Name: '[LBID]EventDropDarkness'
+    Qty: '1'
+    Threshold: '0'
+  Item5:
+    Name: '[LTID]PvPResourceDarknessMajor'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
@@ -17997,6 +18625,7 @@ DarknessMinor1Roll:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]DarknessWeaponBucket'
     Qty: '1'
@@ -18022,6 +18651,7 @@ DarknessMinor2Roll:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]DarknessWeaponBucket'
     Qty: '1'
@@ -18046,7 +18676,7 @@ DarknessMinor2Roll:
 DarknessEliteRoll:
   AND/OR: OR
   UseLevelGS: 'TRUE'
-  HWMMult: 20
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]DarknessBreach_EliteArmor'
     Qty: '1'
@@ -18059,7 +18689,6 @@ DarknessEliteRoll:
 DarknessMajor1Roll:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 5
   Item1:
     Name: '[LTID]DarknessMajor1'
     Qty: '2'
@@ -18088,7 +18717,6 @@ DarknessMajor1Roll:
 DarknessMajor2Roll:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 5
   Item1:
     Name: '[LTID]DarknessMajor2'
     Qty: '2'
@@ -18121,7 +18749,6 @@ DarknessMajor2Roll:
 DarknessMajor2Roll65:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 5
   Item1:
     Name: '[LTID]DarknessMajor2'
     Qty: '2'
@@ -18166,6 +18793,7 @@ DarknessMajor_NamedLimit:
   Conditions: '[LIM]DarknessBreachNamed'
   TriggerLimitOnVisit: '1'
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]DarknessGearbucket'
     Qty: '1'
@@ -18179,6 +18807,7 @@ DarknessMajor1:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]DarknessWeaponBucket'
     Qty: '1'
@@ -18200,6 +18829,7 @@ DarknessMajor2:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]DarknessWeaponBucket'
     Qty: '1'
@@ -18364,7 +18994,7 @@ AwardCorrupted:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]WeaponsCorrupted'
     Qty: '1'
@@ -18382,7 +19012,7 @@ AwardAncient:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]WeaponsAncient'
     Qty: '1'
@@ -18400,7 +19030,7 @@ AwardLost:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]WeaponsLost'
     Qty: '1'
@@ -18431,7 +19061,7 @@ AwardSirenQueen:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]ArenaLostSirenArmor'
     Qty: '2'
@@ -18462,7 +19092,7 @@ AwardAngryEarth:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]WeaponsAngryEarth'
     Qty: '1'
@@ -18480,7 +19110,7 @@ AwardSpriggan:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]ArenaAngryEarthWeapons'
     Qty: '1'
@@ -18498,7 +19128,7 @@ AwardSwampBeastArena:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]ArenaAngryEarthWeapons'
     Qty: '1'
@@ -18698,7 +19328,6 @@ WarRoll:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 100
   Item1:
     Name: '[LTID]War'
     Qty: '3'
@@ -18712,7 +19341,8 @@ War:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]WarWeapons'
     Qty: '1'
@@ -18734,7 +19364,8 @@ WarL61:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]WarWeapons'
     Qty: '1'
@@ -18760,7 +19391,8 @@ WarL62:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]WarWeapons'
     Qty: '1'
@@ -18786,7 +19418,8 @@ WarL63:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]WarWeapons'
     Qty: '1'
@@ -18812,7 +19445,8 @@ WarL64:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]WarWeapons'
     Qty: '1'
@@ -18838,7 +19472,8 @@ WarL65:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 100
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]WarWeapons'
     Qty: '1'
@@ -18907,7 +19542,6 @@ Invasion4Roll:
   AND/OR: OR
   Conditions: Level
   ConditionOverridesRoll: 'TRUE'
-  HWMMult: 100
   Item1:
     Name: '[LTID]Invasion4'
     Qty: '1'
@@ -18921,7 +19555,8 @@ Invasion1:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]InvasionArmor'
     Qty: '2'
@@ -18943,7 +19578,8 @@ Invasion2:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]InvasionArmor'
     Qty: '2'
@@ -18965,7 +19601,8 @@ Invasion3:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]InvasionArmor'
     Qty: '2'
@@ -18987,7 +19624,8 @@ Invasion4:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]InvasionArmor'
     Qty: '2'
@@ -19009,7 +19647,8 @@ Invasion1_MaxLvl:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]InvasionArmor'
     Qty: '2'
@@ -19031,7 +19670,8 @@ Invasion2_MaxLvl:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]InvasionArmor'
     Qty: '2'
@@ -19053,7 +19693,8 @@ Invasion3_MaxLvl:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]InvasionArmor'
     Qty: '2'
@@ -19075,7 +19716,8 @@ Invasion4_MaxLvl:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]InvasionArmor'
     Qty: '2'
@@ -19097,7 +19739,6 @@ Invasion1Event:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]Invasion1Containers'
     Qty: '1'
@@ -19111,7 +19752,6 @@ Invasion2Event:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]Invasion2Containers'
     Qty: '1'
@@ -19125,7 +19765,6 @@ Invasion3Event:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]Invasion3Containers'
     Qty: '1'
@@ -19139,7 +19778,6 @@ Invasion4Event:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]Invasion4Containers'
     Qty: '1'
@@ -20977,108 +21615,6 @@ OilCartElemental:
     Qty: 2-5
     Threshold: '0'
   MaxRoll: 100
-WinterConv_Settlement_Tree_T1:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: '[LTID]WinterConv_Settlement_Tree_T1_Limit'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]GypsumWhiteTable'
-    Qty: '2'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]WinterConv_Food'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Settlement_Tree_T1_Limit:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Conditions: '[LIM]WinterTree_Limit'
-  TriggerLimitOnVisit: 'TRUE'
-  Item1:
-    Name: WCContainer_HastilyWrappedPresent
-    Qty: '4'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Settlement_Tree_T2:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: '[LTID]WinterConv_Settlement_Tree_T2_Limit'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]GypsumWhiteTable'
-    Qty: '2'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]WinterConv_Food'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Settlement_Tree_T2_Limit:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Conditions: '[LIM]WinterTree_Limit'
-  TriggerLimitOnVisit: 'TRUE'
-  Item1:
-    Name: WCContainer_BeautifullyWrappedPresent
-    Qty: '4'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Settlement_Tree_T3:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: '[LTID]WinterConv_Settlement_Tree_T3_Limit'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]GypsumWhiteTable'
-    Qty: '2'
-    Threshold: '0'
-  Item3:
-    Name: '[LTID]WinterConv_Food'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Settlement_Tree_T3_Limit:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Conditions: '[LIM]WinterTree_Limit'
-  TriggerLimitOnVisit: 'TRUE'
-  Item1:
-    Name: WCContainer_ExquisitelyWrappedPresent
-    Qty: '4'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Food:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Item1:
-    Name: WCConsumable_SpicedNog
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: WCConsumable_Mealiewrap
-    Qty: '1'
-    Threshold: '0'
-  Item3:
-    Name: WCConsumable_ConvergenceCake
-    Qty: '1'
-    Threshold: '0'
-  Item4:
-    Name: WCConsumable_ButtercreamPudding
-    Qty: '1'
-    Threshold: '0'
-  Item5:
-    Name: WCConsumable_GingersnapCookie
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
 GypsumWhiteTable:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -21089,99 +21625,6 @@ GypsumWhiteTable:
     Qty: '1'
     Threshold: '59'
   MaxRoll: 0
-WinterConv_Village_GiftBag:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Item1:
-    Name: '[LTID]WinterConv_Village_GiftBag_Limit'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: '[LTID]WinterConv_Food'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Village_GiftBag_Limit:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  Conditions: '[LIM]WinterVillage_Limit'
-  TriggerLimitOnVisit: 'TRUE'
-  Item1:
-    Name: WCContainer_BeautifullyWrappedPresent
-    Qty: '3'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_LostPresent_Standard:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Item1:
-    Name: WCStolenPresent
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_LostPresent_Rare:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Item1:
-    Name: WCStolenPresent
-    Qty: '20'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Gleamite_Shard:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Item1:
-    Name: WCGleamite
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 1
-WinterConv_Gleamite_Chunk:
-  RollBonusSetting: AddToRoll
-  AND/OR: OR
-  Item1:
-    Name: WCGleamite
-    Qty: '15'
-    Threshold: '0'
-  MaxRoll: 1
-WinterWarrior:
-  AND/OR: AND
-  Item1:
-    Name: '[LTID]WinterWarriorDarkMatterLimit'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 100
-WinterWarriorBase:
-  AND/OR: OR
-  Item1:
-    Name: WC_WinterWarrior_Horn
-    Qty: '1'
-    Threshold: '1'
-  Item2:
-    Name: WC_WinterWarrior_Horn
-    Qty: '2'
-    Threshold: '11'
-  Item3:
-    Name: WC_WinterWarrior_Horn
-    Qty: '3'
-    Threshold: '81'
-  Item4:
-    Name: WC_WinterWarrior_Horn
-    Qty: '5'
-    Threshold: '91'
-  MaxRoll: 100
-WinterWarriorDarkMatterLimit:
-  AND/OR: AND
-  Conditions: '[LIM]WinterDarkMatter_Limit'
-  TriggerLimitOnVisit: 'TRUE'
-  Item1:
-    Name: Darkmatter
-    Qty: '15'
-    Threshold: '0'
-  Item2:
-    Name: WC_WinterWarrior_Horn
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 100
 Halloween_QuestCache:
   AND/OR: AND
   Item1:
@@ -21210,6 +21653,7 @@ MutatorLoot_Fire:
   AND/OR: OR
   Conditions: Fire
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: SmolderingWeaponShardT5
     Qty: '1'
@@ -21232,6 +21676,7 @@ MutatorLoot_Ice:
   AND/OR: OR
   Conditions: Ice
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: FrozenWeaponShardT5
     Qty: '1'
@@ -21254,6 +21699,7 @@ MutatorLoot_Nature:
   AND/OR: OR
   Conditions: Nature
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: EvergreenWeaponShardT5
     Qty: '1'
@@ -21276,6 +21722,7 @@ MutatorLoot_Void:
   AND/OR: OR
   Conditions: Void
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: HollowWeaponShardT5
     Qty: '1'
@@ -21310,12 +21757,18 @@ MutatorLoot_Difficulty:
     Name: '[LTID]MutatorLoot_Named'
     Qty: '1'
     Threshold: '87500'
+  Item4:
+    Name: '[LTID]MountRewardChance'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 MutatorLoot_Creature_RollChance:
   RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: MutDiff
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 100000
   Item1:
     Name: '[LTID]MutatorLoot_Creature'
     Qty: '1'
@@ -21326,6 +21779,8 @@ MutatorLoot_Creature:
   AND/OR: OR
   Conditions: MutDiff
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]MutDiffArmor'
     Qty: '1'
@@ -21671,7 +22126,6 @@ GoblinLoot:
   AND/OR: AND
   Conditions: Goblin
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GlobalNamedList'
     Qty: '1'
@@ -21686,7 +22140,6 @@ GoblinLoot60:
   AND/OR: AND
   Conditions: Goblin
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]ZoneNamedItems'
     Qty: '1'
@@ -21706,7 +22159,6 @@ GoblinLoot60_Portal:
   Conditions: '[LIM]RafflebonesPortal'
   TriggerLimitOnVisit: 'TRUE'
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GlobalNamedList'
     Qty: '1'
@@ -21889,7 +22341,6 @@ IsabellaQuest_Reward1:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 10
   Item1:
     Name: DarkMatter
     Qty: '2'
@@ -21919,7 +22370,6 @@ IsabellaQuest_Reward2:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 10
   Item1:
     Name: DarkMatter
     Qty: '2'
@@ -21957,7 +22407,6 @@ IsabellaQuest_Reward3:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 10
   Item1:
     Name: DarkMatter
     Qty: '2'
@@ -21991,7 +22440,6 @@ IsabellaQuest_Reward4:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 10
   Item1:
     Name: DarkMatter
     Qty: '2'
@@ -22025,7 +22473,6 @@ IsabellaQuest_Reward5:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 10
   Item1:
     Name: DarkMatter
     Qty: '4'
@@ -22059,7 +22506,6 @@ IsabellaQuest_Reward6:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 10
   Item1:
     Name: DarkMatter
     Qty: '4'
@@ -22113,7 +22559,6 @@ IsabellaQuest_Reward7:
   RollBonusSetting: ClampMax
   AND/OR: OR
   UseLevelGS: 'TRUE'
-  HWMMult: 15
   Item1:
     Name: '[LBID]TempestCache'
     Qty: '1'
@@ -22811,6 +23256,10 @@ Loot_MutDiff3T2_FLXpac:
     Name: DarkMatter
     Qty: '32'
     Threshold: '0'
+  Item3:
+    Name: MutatedDust
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 1
 Loot_MutDiff3T3_FLXpac:
   AND/OR: AND
@@ -22821,6 +23270,10 @@ Loot_MutDiff3T3_FLXpac:
   Item2:
     Name: DarkMatter
     Qty: '40'
+    Threshold: '0'
+  Item3:
+    Name: MutatedDust
+    Qty: '4'
     Threshold: '0'
   MaxRoll: 1
 Loot_ToolMotes:
@@ -22926,7 +23379,6 @@ BrimstoneSarcophagi:
   AND/OR: AND
   Conditions: GlobalMod
   UseLevelGS: 'TRUE'
-  HWMMult: 5
   Item1:
     Name: '[LTID]ContainerLootGearLeveled'
     Qty: 1-2
@@ -22969,7 +23421,6 @@ BrimstoneEliteSarcophagi:
   AND/OR: AND
   Conditions: GlobalMod
   UseLevelGS: 'TRUE'
-  HWMMult: 30
   Item1:
     Name: '[LBID]ResourceItems'
     Qty: '1'
@@ -23026,6 +23477,10 @@ BrimstoneEliteSarcophagi:
     Name: '[LTID]BrimstoneNamed'
     Qty: '1'
     Threshold: '90000'
+  Item15:
+    Name: '[LTID]PvPResourceEliteChest'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 100000
 ChestLootEliteSarcophagiItemRoll:
   RollBonusSetting: ClampMax
@@ -23048,6 +23503,10 @@ ChestLootEliteSarcophagiItemRoll:
     Qty: '1'
     Threshold: '85000'
   Item5:
+    Name: '[LTID]MountRewardChance'
+    Qty: '1'
+    Threshold: '0'
+  Item6:
     Name: '[LBID]ZoneNamedItems'
     Qty: '1'
     Threshold: '92500'
@@ -23057,7 +23516,6 @@ BrimstoneSulfurSarcophagi:
   AND/OR: AND
   Conditions: GlobalMod
   UseLevelGS: 'TRUE'
-  HWMMult: 30
   Item1:
     Name: '[LBID]ResourceItems'
     Qty: '1'
@@ -23226,7 +23684,6 @@ BrimstoneGlyphLockChests:
   AND/OR: AND
   Conditions: GlobalMod
   UseLevelGS: 'TRUE'
-  HWMMult: 30
   Item1:
     Name: '[LBID]ResourceItems'
     Qty: '1'
@@ -23433,16 +23890,17 @@ WorldEvent_Crassus_NormalLoot:
 WorldEvent_Crassus_ProcArmorOrWeapon:
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
-    Name: '[LBID]WorldEvent_Crassus_ProcWeapons'
+    Name: '[LBID]WorldEvent_Crassus_S7_ProcWeapons'
     Qty: '1'
     Threshold: '0'
   Item2:
-    Name: '[LBID]WorldEvent_Crassus_ProcArmor'
+    Name: '[LBID]WorldEvent_Crassus_S7_ProcArmor'
     Qty: '1'
     Threshold: '50000'
   Item3:
-    Name: '[LBID]WorldEvent_Crassus_ProcShields'
+    Name: '[LBID]WorldEvent_Crassus_S7_ProcShields'
     Qty: '1'
     Threshold: '97000'
   MaxRoll: 100000
@@ -23468,6 +23926,10 @@ WorldEvent_Crassus_BonusLoot:
     Name: '[LTID]WorldEvent_Crassus_SpecialLoot'
     Qty: '1'
     Threshold: '0'
+  Item6:
+    Name: '[LTID]WorldEventEquipment_Crassus_S7_710'
+    Qty: '1'
+    Threshold: '70000'
   MaxRoll: 100000
 WorldEvent_Crassus_PerkCheck:
   AND/OR: AND
@@ -23479,7 +23941,7 @@ WorldEvent_Crassus_PerkCheck:
 WorldEvent_Crassus_BonusOverride:
   AND/OR: AND
   Item1:
-    Name: '[LBID]WorldEvent_Crassus_NamedList'
+    Name: '[LTID]WorldEventEquipment_Crassus_S7_710'
     Qty: '1'
     Threshold: '0'
   Item2:
@@ -23499,7 +23961,7 @@ WorldEvent_Crassus_BonusOverride:
     Qty: '1'
     Threshold: '0'
   Item6:
-    Name: 2hPickCrassusT51
+    Name: 2hPick_Crassus_S7
     Qty: '1'
     Threshold: '0'
   Item7:
@@ -23523,15 +23985,11 @@ WorldEvent_Crassus_BossLootLevelFilter:
     Name: '[LBID]WorldEvent_Crassus_BossLoot_V2'
     Qty: '1'
     Threshold: '60'
-  Item5:
-    Name: '[LTID]WorldEvent_Crassus_PerkCheck'
-    Qty: '1'
-    Threshold: '0'
   MaxRoll: 100000
 WorldEvent_Crassus_SpecialLoot:
   AND/OR: AND
   Item1:
-    Name: 2hPickCrassusT51
+    Name: 2hPick_Crassus_S7
     Qty: '1'
     Threshold: '92500'
   Item2:
@@ -23543,6 +24001,17 @@ WorldEvent_Crassus_SpecialLoot:
     Qty: '1'
     Threshold: '97500'
   MaxRoll: 100000
+WorldEventEquipment_Crassus_S7_710:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  Conditions: '[LIM]WorldEventCrassus710Gear_Limit'
+  TriggerLimitOnVisit: 'TRUE'
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LBID]WorldEvent_Crassus_BossLoot_710'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
 Bundle_UmbralShard_300:
   RollBonusSetting: AddToRoll
   AND/OR: AND
@@ -23818,6 +24287,8 @@ PVPNoTrinket:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]PvPDrop_AllArmor'
     Qty: '1'
@@ -23831,6 +24302,8 @@ PVPWithTrinket:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]PvPDrop_AllArmor'
     Qty: '1'
@@ -23965,6 +24438,10 @@ Trial_Sandworm_MasterLoot_V2:
     Name: DarkMatter
     Qty: '20'
     Threshold: '0'
+  Item5:
+    Name: '[LTID]Sandworm_MutatorComboReward'
+    Qty: '1'
+    Threshold: '0'
   MaxRoll: 0
 Trial_Sandworm_WeeklyLoot_Chest_V2:
   AND/OR: AND
@@ -24020,10 +24497,16 @@ Trial_Sandworm_NamedOrRolled_V2:
     Qty: '1'
     Threshold: '80000'
   MaxRoll: 100000
+Sandworm_MutatorComboReward:
+  AND/OR: AND
+  Item1:
+    Name: '[LBID]MutatorComboRewardCraftingMats'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
 ItemCastLegendaryHead:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24032,7 +24515,6 @@ ItemCastLegendaryHead:
 ItemCastLegendaryChest:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24041,7 +24523,6 @@ ItemCastLegendaryChest:
 ItemCastLegendaryHands:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24050,7 +24531,6 @@ ItemCastLegendaryHands:
 ItemCastLegendaryLegs:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24059,7 +24539,6 @@ ItemCastLegendaryLegs:
 ItemCastLegendaryFeet:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24068,7 +24547,6 @@ ItemCastLegendaryFeet:
 ItemCastLegendarySword:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24077,7 +24555,6 @@ ItemCastLegendarySword:
 ItemCastLegendaryHatchet:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24086,7 +24563,6 @@ ItemCastLegendaryHatchet:
 ItemCastLegendaryFlail:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24095,7 +24571,6 @@ ItemCastLegendaryFlail:
 ItemCastLegendaryRapier:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24104,7 +24579,6 @@ ItemCastLegendaryRapier:
 ItemCastLegendarySpear:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24113,7 +24587,6 @@ ItemCastLegendarySpear:
 ItemCastLegendaryGreatAxe:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24122,7 +24595,6 @@ ItemCastLegendaryGreatAxe:
 ItemCastLegendaryWarHammer:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24131,7 +24603,6 @@ ItemCastLegendaryWarHammer:
 ItemCastLegendaryGreatSword:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24140,7 +24611,6 @@ ItemCastLegendaryGreatSword:
 ItemCastLegendaryBow:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24149,7 +24619,6 @@ ItemCastLegendaryBow:
 ItemCastLegendaryMusket:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24158,7 +24627,6 @@ ItemCastLegendaryMusket:
 ItemCastLegendaryBlunderbuss:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24167,7 +24635,6 @@ ItemCastLegendaryBlunderbuss:
 ItemCastLegendaryLifeStaff:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24176,7 +24643,6 @@ ItemCastLegendaryLifeStaff:
 ItemCastLegendaryFireStaff:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24185,7 +24651,6 @@ ItemCastLegendaryFireStaff:
 ItemCastLegendaryIceGauntlet:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24194,7 +24659,6 @@ ItemCastLegendaryIceGauntlet:
 ItemCastLegendaryVoidGauntlet:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24203,7 +24667,6 @@ ItemCastLegendaryVoidGauntlet:
 ItemCastLegendaryShield:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24212,7 +24675,6 @@ ItemCastLegendaryShield:
 ItemCastLegendaryRing:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24221,7 +24683,6 @@ ItemCastLegendaryRing:
 ItemCastLegendaryAmulet:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24230,7 +24691,6 @@ ItemCastLegendaryAmulet:
 ItemCastLegendaryEarring:
   RollBonusSetting: AddToRoll
   AND/OR: AND
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GypsumCasts'
     Qty: '1'
@@ -24239,6 +24699,7 @@ ItemCastLegendaryEarring:
 09A_M1_ArmorBox:
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_MainQuestLootCrates'
     Qty: '1'
@@ -24247,6 +24708,7 @@ ItemCastLegendaryEarring:
 09A_M3_ChestBox:
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_MainQuestLootCrates'
     Qty: '1'
@@ -24255,6 +24717,7 @@ ItemCastLegendaryEarring:
 09A_M7_WeaponBox:
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_MainQuestLootCrates'
     Qty: '1'
@@ -24263,6 +24726,7 @@ ItemCastLegendaryEarring:
 09A_M9_MeleeWeaponBox:
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_MainQuestLootCrates'
     Qty: '1'
@@ -24271,6 +24735,7 @@ ItemCastLegendaryEarring:
 09A_M10_ShieldBox:
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_MainQuestLootCrates'
     Qty: '1'
@@ -24318,6 +24783,7 @@ ItemCastLegendaryEarring:
 09A_M12_ArcaneWeaponBox:
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_MainQuestLootCrates'
     Qty: '1'
@@ -24326,6 +24792,7 @@ ItemCastLegendaryEarring:
 09A_M13_ArmorBox:
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_MainQuestLootCrates'
     Qty: '1'
@@ -24334,6 +24801,7 @@ ItemCastLegendaryEarring:
 09A_S2_ArmorBox:
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_SideQuestLootCrates'
     Qty: '1'
@@ -24342,6 +24810,7 @@ ItemCastLegendaryEarring:
 09A_S8_ArmorBox:
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_SideQuestLootCrates'
     Qty: '1'
@@ -24365,6 +24834,7 @@ ItemCastLegendaryEarring:
 09A_S16_ArmorBox:
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_SideQuestLootCrates'
     Qty: '1'
@@ -24373,6 +24843,7 @@ ItemCastLegendaryEarring:
 09A_S18_ArcaneWeaponBox:
   AND/OR: OR
   Conditions: Level
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_SideQuestLootCrates'
     Qty: '1'
@@ -24749,7 +25220,6 @@ FirstLightRevampElafryChest:
   AND/OR: AND
   Conditions: GlobalMod
   UseLevelGS: 'TRUE'
-  HWMMult: 30
   Item1:
     Name: '[LBID]ResourceItems'
     Qty: '1'
@@ -24824,6 +25294,7 @@ ElafryEliteItemRoll:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_ZoneArmor'
     Qty: '1'
@@ -24846,7 +25317,6 @@ FirstLightRevampBeastlandsChest:
   AND/OR: AND
   Conditions: GlobalMod
   UseLevelGS: 'TRUE'
-  HWMMult: 30
   Item1:
     Name: '[LBID]ResourceItems'
     Qty: '1'
@@ -24933,6 +25403,7 @@ BeastlandsEliteItemRoll:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_HeroicPOIArmor'
     Qty: '1'
@@ -24989,6 +25460,7 @@ DH_ResourcesRoll:
 FL_Generic_GearRoll:
   RollBonusSetting: AddToRoll
   AND/OR: OR
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: '[LBID]FL_ZoneWeapons'
     Qty: '1'
@@ -25027,7 +25499,6 @@ RafflebonesEvent:
   AND/OR: AND
   Conditions: Goblin
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
   Item1:
     Name: '[LBID]GlobalNamedList'
     Qty: '1'
@@ -25053,10 +25524,40 @@ RafflebonesEvent:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
+InfluenceRaceWinner:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LBID]InfluenceRaceCache'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: GypsumRed
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100000
+InfluenceRaceLoser:
+  RollBonusSetting: AddToRoll
+  AND/OR: AND
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: '[LBID]InfluenceRaceCache_Loser'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: GypsumRed
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100000
 InfluenceRace:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
+  Conditions: Level
+  ConditionOverridesRoll: 'TRUE'
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LTID]InfluenceRaceItemGrant'
     Qty: '2'
@@ -25070,7 +25571,8 @@ InfluenceRaceItemGrant:
   RollBonusSetting: AddToRoll
   AND/OR: AND
   UseLevelGS: 'TRUE'
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]Influence_AllArmor'
     Qty: '1'
@@ -25088,49 +25590,29 @@ InfluenceRaceItemGrant:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 100000
-InfluenceRaceWinner:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]InfluenceRaceCache'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: GypsumRed
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 100000
-InfluenceRaceLoser:
-  RollBonusSetting: AddToRoll
-  AND/OR: AND
-  UseLevelGS: 'TRUE'
-  HWMMult: 1000
-  Item1:
-    Name: '[LBID]InfluenceRaceCache_Loser'
-    Qty: '1'
-    Threshold: '0'
-  Item2:
-    Name: GypsumRed
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 100000
 InfluenceRace_LoserResult:
   RollBonusSetting: IgnoreBonus
-  AND/OR: OR
-  UseLevelGS: 'TRUE'
-  Item1:
-    Name: '[LBID]Influence_AllArmor'
-    Qty: '1'
-    Threshold: '0'
-  MaxRoll: 100000
-InfluenceDarkMatter:
-  RollBonusSetting: AddToRoll
   AND/OR: OR
   Conditions: Level
   ConditionOverridesRoll: 'TRUE'
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  Item1:
+    Name: '[LBID]Influence_AllArmor'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]Influence_AllArmor'
+    Qty: '1'
+    Threshold: '64'
+  MaxRoll: 100000
+InfluenceDarkMatter:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  Conditions: Level
+  ConditionOverridesRoll: 'TRUE'
+  UseLevelGS: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
   Item1:
     Name: DarkMatter
     Qty: '5'
@@ -25139,6 +25621,8 @@ InfluenceDarkMatter:
 PUG_Expedition_DailyReward_BelowMaxLevel_LT:
   RollBonusSetting: IgnoreBonus
   AND/OR: AND
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: AzureVialT1
     Qty: '3'
@@ -25149,6 +25633,8 @@ PUG_Expedition_Random_BelowMaxLvl_Cache:
   AND/OR: AND
   Conditions: '[LIM]PUGFinder_Expedition_DailyRandomRewards_Limit'
   TriggerLimitOnVisit: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: PUG_Expedition_DailyReward_BelowMaxLvl_LootCache
     Qty: '1'
@@ -25159,6 +25645,8 @@ PUG_Expedition_Random_AtMaxLvl_Cache:
   AND/OR: AND
   Conditions: '[LIM]PUGFinder_Expedition_DailyRandomRewards_Limit'
   TriggerLimitOnVisit: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: PUG_Expedition_DailyReward_AtMaxLvl_LootCache
     Qty: '1'
@@ -25168,6 +25656,8 @@ PUG_Expedition_PostDailyRuns_Cache:
   RollBonusSetting: IgnoreBonus
   AND/OR: AND
   TriggerLimitOnVisit: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: PUG_Expedition_PostDailyRuns_LootCache
     Qty: '1'
@@ -25178,6 +25668,8 @@ PUG_Expedition_RoleInDemand_BelowMaxLvl_Cache:
   AND/OR: AND
   Conditions: '[LIM]PUGFinder_Expedition_DailyRoleRewards_Limit'
   TriggerLimitOnVisit: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: PUG_Expedition_RoleInDemand_BelowMaxLvl_LootCache
     Qty: '1'
@@ -25188,6 +25680,8 @@ PUG_Expedition_RoleInDemand_AtMaxLvl_Cache:
   AND/OR: AND
   Conditions: '[LIM]PUGFinder_Expedition_DailyRoleRewards_Limit'
   TriggerLimitOnVisit: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: PUG_Expedition_RoleInDemand_AtMaxLvl_LootCache
     Qty: '1'
@@ -25198,6 +25692,8 @@ PUG_MutatedExpedition_Random_Cache:
   AND/OR: AND
   Conditions: '[LIM]PUGFinder_MutatedExpedition_DailyRandomRewards_Limit'
   TriggerLimitOnVisit: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: PUG_MutatedExpedition_DailyReward_LootCache
     Qty: '1'
@@ -25208,6 +25704,8 @@ PUG_MutatedExpedition_RoleInDemand_Cache:
   AND/OR: AND
   Conditions: '[LIM]PUGFinder_MutatedExpedition_DailyRoleRewards_Limit'
   TriggerLimitOnVisit: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: PUG_MutatedExpedition_RoleInDemand_LootCache
     Qty: '1'
@@ -25218,6 +25716,8 @@ PUG_MutatedExpedition_Carry_Cache:
   AND/OR: AND
   Conditions: '[LIM]PUGFinder_MutatedExpedition_DailyCarryRewards_Limit'
   TriggerLimitOnVisit: 'TRUE'
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: PUG_MutatedExpedition_Carry_LootCache
     Qty: '1'
@@ -25253,7 +25753,7 @@ DoubloonChestPvPLarge:
     Qty: 20-30
     Threshold: '0'
   Item2:
-    Name: DoubloonAntique05
+    Name: '[LBID]GoldenCoconut'
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
@@ -25294,7 +25794,7 @@ DoubloonChestPvEElite:
   UseLevelGS: 'TRUE'
   Item1:
     Name: CK_PVEResource_DoubloonToken
-    Qty: 15-20
+    Qty: 10-15
     Threshold: '0'
   MaxRoll: 0
 DoubloonChestPvE_TreasureMap:
@@ -25302,7 +25802,6 @@ DoubloonChestPvE_TreasureMap:
   AND/OR: AND
   Conditions: CutlassKeys
   UseLevelGS: 'TRUE'
-  HWMMult: 30
   Item1:
     Name: CK_PVEResource_DoubloonToken
     Qty: 10-15
@@ -25452,10 +25951,26 @@ DoubloonCreatureEliteBoss:
     Qty: 12-17
     Threshold: '0'
   MaxRoll: 0
+DoubloonChestPvPLarge_Spectral:
+  RollBonusSetting: ClampMax
+  AND/OR: AND
+  Conditions: CutlassKeys
+  UseLevelGS: 'TRUE'
+  Item1:
+    Name: CK_PVPResource_DoubloonToken
+    Qty: 45-55
+    Threshold: '0'
+  Item2:
+    Name: '[LBID]GoldenCoconut'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 0
 DoubloonCrateHelm_Table_700:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]DoubloonCrateApex'
     Qty: '1'
@@ -25465,6 +25980,8 @@ DoubloonCrateChest_Table_700:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]DoubloonCrateApex'
     Qty: '1'
@@ -25474,6 +25991,8 @@ DoubloonCrateGloves_Table_700:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]DoubloonCrateApex'
     Qty: '1'
@@ -25483,6 +26002,8 @@ DoubloonCrateLegs_Table_700:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]DoubloonCrateApex'
     Qty: '1'
@@ -25492,6 +26013,8 @@ DoubloonCrateFeet_Table_700:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]DoubloonCrateApex'
     Qty: '1'
@@ -25501,6 +26024,8 @@ DoubloonCrateTrinkets_Table_700:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]DoubloonCrateApex'
     Qty: '1'
@@ -25510,6 +26035,8 @@ DoubloonCrateRanged_Table_700:
   RollBonusSetting: ClampMax
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]DoubloonCrateApex'
     Qty: '1'
@@ -25523,6 +26050,8 @@ DoubloonCrate1hMelee_Table_700:
   RollBonusSetting: ClampMax
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]DoubloonCrateApex'
     Qty: '1'
@@ -25536,6 +26065,8 @@ DoubloonCrate2hMelee_Table_700:
   RollBonusSetting: ClampMax
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]DoubloonCrateApex'
     Qty: '1'
@@ -25549,6 +26080,8 @@ DoubloonCrateMagic_Table_700:
   RollBonusSetting: ClampMax
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]DoubloonCrateApex'
     Qty: '1'
@@ -25562,6 +26095,8 @@ DoubloonCrateShields_Table_700:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '0'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]DoubloonCrateApex'
     Qty: '1'
@@ -25571,6 +26106,7 @@ DoubloonCrateHelm_Table_690Cap:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonCrateNonApex'
     Qty: '1'
@@ -25580,6 +26116,7 @@ DoubloonCrateChest_Table_690Cap:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonCrateNonApex'
     Qty: '1'
@@ -25589,6 +26126,7 @@ DoubloonCrateGloves_Table_690Cap:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonCrateNonApex'
     Qty: '1'
@@ -25598,6 +26136,7 @@ DoubloonCrateLegs_Table_690Cap:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonCrateNonApex'
     Qty: '1'
@@ -25607,6 +26146,7 @@ DoubloonCrateFeet_Table_690Cap:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonCrateNonApex'
     Qty: '1'
@@ -25616,6 +26156,7 @@ DoubloonCrateTrinkets_Table_690Cap:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonCrateNonApex'
     Qty: '1'
@@ -25625,6 +26166,7 @@ DoubloonCrateRanged_Table_690Cap:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonCrateNonApex'
     Qty: '1'
@@ -25634,6 +26176,7 @@ DoubloonCrate1hMelee_Table_690Cap:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonCrateNonApex'
     Qty: '1'
@@ -25643,6 +26186,7 @@ DoubloonCrate2hMelee_Table_690Cap:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonCrateNonApex'
     Qty: '1'
@@ -25652,6 +26196,7 @@ DoubloonCrateMagic_Table_690Cap:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonCrateNonApex'
     Qty: '1'
@@ -25661,6 +26206,7 @@ DoubloonCrateShields_Table_690Cap:
   RollBonusSetting: ClampMax
   AND/OR: AND
   UseLevelGS: 'TRUE'
+  LootBiasingEnabled: '0'
   Item1:
     Name: '[LBID]DoubloonCrateNonApex'
     Qty: '1'
@@ -25670,6 +26216,7 @@ DoubloonGrabBagEpic_Table:
   RollBonusSetting: ClampMax
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonGrabBagResources'
     Qty: '1'
@@ -25691,6 +26238,7 @@ DoubloonGrabBagRare_Table:
   RollBonusSetting: ClampMax
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DoubloonGrabBagResources'
     Qty: '1'
@@ -27397,6 +27945,7 @@ DoubloonPouch_Table:
   RollBonusSetting: ClampMax
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
   Item1:
     Name: CK_PVEResource_DoubloonToken
     Qty: 10-12
@@ -27415,6 +27964,7 @@ DailySoloTrials:
   AND/OR: AND
   Conditions: SoloTrial
   TriggerLimitOnVisit: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DailySoloTrialsUnique'
     Qty: '1'
@@ -27445,6 +27995,7 @@ DailySoloTrials_ExtraItem:
   AND/OR: AND
   Conditions: NoUnique
   TriggerLimitOnVisit: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DailySoloTrialsGeneric'
     Qty: '1'
@@ -27455,6 +28006,7 @@ DailySoloTrials_DailyCompleted:
   AND/OR: AND
   Conditions: SoloTrial_NoDaily
   TriggerLimitOnVisit: 'TRUE'
+  LootBiasingEnabled: '1'
   Item1:
     Name: '[LBID]DailySoloTrialsGeneric'
     Qty: '1'
@@ -27464,6 +28016,8 @@ CRX_RewardLTT2_Chestwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27473,6 +28027,8 @@ CRX_RewardLTT2_Footwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27482,6 +28038,8 @@ CRX_RewardLTT2_Handwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27491,6 +28049,8 @@ CRX_RewardLTT2_Headgear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27500,6 +28060,8 @@ CRX_RewardLTT2_Legwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27509,6 +28071,8 @@ CRX_RewardLTT3_Chestwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27518,6 +28082,8 @@ CRX_RewardLTT3_Footwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27527,6 +28093,8 @@ CRX_RewardLTT3_Handwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27536,6 +28104,8 @@ CRX_RewardLTT3_Headgear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27545,6 +28115,8 @@ CRX_RewardLTT3_Legwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27554,6 +28126,8 @@ CRX_RewardLTT4_Chestwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27563,6 +28137,8 @@ CRX_RewardLTT4_Footwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27572,6 +28148,8 @@ CRX_RewardLTT4_Handwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27581,6 +28159,8 @@ CRX_RewardLTT4_Headgear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27590,6 +28170,8 @@ CRX_RewardLTT4_Legwear:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27600,6 +28182,8 @@ CRX_RewardLTT5_Chestwear:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27614,6 +28198,8 @@ CRX_RewardLTT5_Footwear:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27628,6 +28214,8 @@ CRX_RewardLTT5_Handwear:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27642,6 +28230,8 @@ CRX_RewardLTT5_Headgear:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27656,6 +28246,8 @@ CRX_RewardLTT5_Legwear:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcReward'
     Qty: '1'
@@ -27669,6 +28261,8 @@ CRX_RewardLTT4_Weapons:
   RollBonusSetting: IgnoreBonus
   AND/OR: OR
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcRewardWeap'
     Qty: '1'
@@ -27679,6 +28273,8 @@ CRX_RewardLTT5_Weapons:
   AND/OR: OR
   Conditions: Level
   UseLevelGS: '1'
+  LootBiasingEnabled: '1'
+  LootBiasingChanceOverride: 1
   Item1:
     Name: '[LBID]CRX_ProcRewardWeap'
     Qty: '1'
@@ -27744,9 +28340,19 @@ CRX_FQ_TreasureT4:
     Qty: '1'
     Threshold: '0'
   MaxRoll: 0
+PvPGM725RewardLevelCheck:
+  AND/OR: AND
+  Conditions: Level
+  ConditionOverridesRoll: 'TRUE'
+  Item1:
+    Name: '[LTID]PvPGM725RewardLimit'
+    Qty: '1'
+    Threshold: '64'
+  MaxRoll: 0
 PvPGM725RewardLimit:
-  AND/OR: OR
+  AND/OR: AND
   Conditions: '[LIM]PvPGM725Gear_Limit'
+  TriggerLimitOnVisit: 'TRUE'
   Item1:
     Name: PvPGM725RewardContainer
     Qty: '1'
@@ -27754,7 +28360,8 @@ PvPGM725RewardLimit:
   MaxRoll: 0
 PvPGM725RewardRoll:
   AND/OR: OR
-  HWMMult: 1000
+  LootBiasingEnabled: 'TRUE'
+  LootBiasingChanceOverride: 100000
   Item1:
     Name: '[LBID]ORArmors'
     Qty: '1'
@@ -27763,4 +28370,214 @@ PvPGM725RewardRoll:
     Name: '[LBID]ORJewelry'
     Qty: '1'
     Threshold: '65'
+  MaxRoll: 100
+PvPResourceGathering:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Item1:
+    Name: '[LTID]PvPResourceGathering_ResultsMining'
+    Qty: '1'
+    Threshold: '0'
+  Item2:
+    Name: '[LTID]PvPResourceGathering_ResultsLogging'
+    Qty: '1'
+    Threshold: '0'
+  Item3:
+    Name: '[LTID]PvPResourceGathering_ResultsSkinning'
+    Qty: '1'
+    Threshold: '0'
+  Item4:
+    Name: '[LTID]PvPResourceGathering_ResultsHarvesting'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100
+PvPResourceGathering_ResultsMining:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  Conditions: EtherealMining
+  Item1:
+    Name: ConquerorsTrophyT2
+    Qty: '1'
+    Threshold: '75'
+  Item2:
+    Name: ConquerorsTrophyT2
+    Qty: '5'
+    Threshold: '100'
+  MaxRoll: 100
+PvPResourceGathering_ResultsLogging:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  Conditions: EtherealLogging
+  Item1:
+    Name: ConquerorsTrophyT2
+    Qty: '1'
+    Threshold: '75'
+  Item2:
+    Name: ConquerorsTrophyT2
+    Qty: '5'
+    Threshold: '100'
+  MaxRoll: 100
+PvPResourceGathering_ResultsSkinning:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  Conditions: EtherealSkinning
+  Item1:
+    Name: ConquerorsTrophyT2
+    Qty: '1'
+    Threshold: '75'
+  Item2:
+    Name: ConquerorsTrophyT2
+    Qty: '5'
+    Threshold: '100'
+  MaxRoll: 100
+PvPResourceGathering_ResultsHarvesting:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  Conditions: EtherealHarvesting
+  Item1:
+    Name: ConquerorsTrophyT2
+    Qty: '1'
+    Threshold: '75'
+  Item2:
+    Name: ConquerorsTrophyT2
+    Qty: '5'
+    Threshold: '100'
+  MaxRoll: 100
+PvPResourceDarknessMinor:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: EtherealWeapon
+  Item1:
+    Name: ConquerorsTrophyT2
+    Qty: '30'
+    Threshold: '0'
+  MaxRoll: 100
+PvPResourceDarknessMajor:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: EtherealWeapon
+  Item1:
+    Name: ConquerorsTrophyT2
+    Qty: '120'
+    Threshold: '0'
+  MaxRoll: 100
+PvPResourceEliteChest:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: EPOI
+  Item1:
+    Name: '[LTID]PvPResourceEliteChest_Grant'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100
+PvPResourceEliteChest_Grant:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: EtherealArmor
+  Item1:
+    Name: ConquerorsTrophyT2
+    Qty: '35'
+    Threshold: '0'
+  MaxRoll: 100
+PvPResourceEliteChestSmall:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: EPOI
+  Item1:
+    Name: '[LTID]PvPResourceEliteChestSmall_Grant'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100
+PvPResourceEliteChestSmall_Grant:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: AND
+  Conditions: EtherealArmor
+  Item1:
+    Name: ConquerorsTrophyT2
+    Qty: '15'
+    Threshold: '0'
+  MaxRoll: 100
+PvPResourceEliteCreature:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  Conditions: EPOI
+  Item1:
+    Name: '[LTID]PvPResourceEliteCreature_Grant'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100
+PvPResourceEliteCreature_Grant:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  Conditions: EtherealJewelry
+  Item1:
+    Name: ConquerorsTrophyT2
+    Qty: '10'
+    Threshold: '0'
+  Item2:
+    Name: ConquerorsTrophyT2
+    Qty: '25'
+    Threshold: '90'
+  MaxRoll: 100
+PvPResourceEliteCreatureNamed:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  Conditions: EPOI
+  Item1:
+    Name: '[LTID]PvPResourceEliteCreatureNamed_Grant'
+    Qty: '1'
+    Threshold: '0'
+  MaxRoll: 100
+PvPResourceEliteCreatureNamed_Grant:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  Conditions: EtherealJewelry
+  Item1:
+    Name: ConquerorsTrophyT2
+    Qty: '25'
+    Threshold: '0'
+  Item2:
+    Name: ConquerorsTrophyT2
+    Qty: '50'
+    Threshold: '90'
+  MaxRoll: 100
+PvPDustBox:
+  RollBonusSetting: IgnoreBonus
+  AND/OR: OR
+  Item1:
+    Name: SandpaperT5
+    Qty: '25'
+    Threshold: '55'
+  Item2:
+    Name: TanninT5
+    Qty: '25'
+    Threshold: '60'
+  Item3:
+    Name: SolventT5
+    Qty: '25'
+    Threshold: '65'
+  Item4:
+    Name: FluxT5
+    Qty: '25'
+    Threshold: '70'
+  Item5:
+    Name: ClothweaveT5
+    Qty: '25'
+    Threshold: '75'
+  Item6:
+    Name: Ethereal_MountFood
+    Qty: '1'
+    Threshold: '80'
+  Item7:
+    Name: '[LBID]PvPDustMountBuffs'
+    Qty: '1'
+    Threshold: '85'
+  Item8:
+    Name: '[LBID]PvPDustRunes'
+    Qty: '1'
+    Threshold: '90'
+  Item9:
+    Name: '[LBID]ConquerorsRecipes'
+    Qty: '1'
+    Threshold: '95'
   MaxRoll: 100

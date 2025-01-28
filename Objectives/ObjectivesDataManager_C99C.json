@@ -286,7 +286,7 @@
         "Title": "A Face in the Mist",
         "Description": "Travel through the barrier at Morgaine's cave, tell her about your vision, and learn about Morgaine's past.",
         "PlayerPrompt": "\"She confessed to all of it?",
-        "ObjectiveProposalResponse": "\u0026lt;g id=\"male_wavehandDismissive\" /\u0026gt;I would hardly call it a confession! \u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;She has an explanation for everything, of course, \u0026lt;g id=\"male_nodunderstand\" /\u0026gt;as she always did.",
+        "ObjectiveProposalResponse": "\u0026lt;g id=\"male_hopeless\" /\u0026gt;I would hardly call it a confession! She has an explanation for \u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;everything, of course, as she always did.",
         "InProgressResponse": "\u0026lt;g id=\"male_shakehead\" /\u0026gt;If even half of what she claims is true, then \u0026lt;g id=\"female_shrugnothingicando\" /\u0026gt;things are far different than I imagined.",
         "DestinationCompletionAvailablePrompt": "Complete the Quest",
         "DestinationCompletionAvailableResponse": "\u0026lt;g id=\"male_quidproquo\" /\u0026gt;So you see now that I have neither insight nor responsibility in whatever fate befell the High King.",

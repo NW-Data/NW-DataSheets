@@ -91,7 +91,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -249,7 +249,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "FireStaff_Incinerate_Stun5s",
@@ -343,7 +344,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -501,7 +502,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "FireStaff_FlameThrower",
@@ -595,7 +597,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -753,7 +755,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "FireStaff_DoT_Upgrade_Slow",
@@ -847,7 +850,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -1005,7 +1008,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "FireStaff_ScorchedEarth_DOT",
@@ -1099,7 +1103,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -1257,7 +1261,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": 0.26,
         "SourceRuneChargeOnHealthChangeOnly": true,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "FireStaff_Burnout_DOT",
@@ -1351,7 +1356,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -1509,7 +1514,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "FireStaff_Burnout_DMG_DOT",
@@ -1603,7 +1609,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -1761,7 +1767,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "FireStaff_FireRes_Aura_Passive",
@@ -1855,7 +1862,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -2013,7 +2020,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "FireStaff_Damaging_Aura_Passive",
@@ -2107,7 +2115,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -2265,7 +2273,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": 0.43,
         "SourceRuneChargeOnHealthChangeOnly": true,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "TrialByFireTimer",
@@ -2359,7 +2368,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 0,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -2517,7 +2526,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "FireStaff_FireDMG_Aura_Passive",
@@ -2611,7 +2621,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -2769,7 +2779,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "FireStaff_LowHealth_FireDmgBonus",
@@ -2863,7 +2874,7 @@
         "RemoveOnDeath": 0,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "TRUE",
@@ -3021,7 +3032,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Elemental_Fire_AoE",
@@ -3115,7 +3127,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -3273,7 +3285,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Elemental_CC_Slow",
@@ -3367,7 +3380,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -3525,7 +3538,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Elemental_CC_Silenced",
@@ -3619,7 +3633,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -3777,7 +3791,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Elemental_CC_Weakness",
@@ -3871,7 +3886,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -4029,7 +4044,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "FireStaff_Pyro_DOT",
@@ -4123,7 +4139,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -4252,7 +4268,7 @@
         "InheritDuration": "",
         "InheritTotalDuration": "",
         "RefreshDuration": "",
-        "StackMax": 5,
+        "StackMax": 4,
         "InitialStackSize": "",
         "RemoveUnappliedStacks": "TRUE",
         "PotencyMax": null,
@@ -4281,7 +4297,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": 0.065,
         "SourceRuneChargeOnHealthChangeOnly": true,
-        "ApplicationCooldown": 0
+        "ApplicationCooldown": 0,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_FortOnBurn",
@@ -4375,7 +4392,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -4533,7 +4550,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": 1
+        "ApplicationCooldown": 1,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_FireMage_DmgFullMana",
@@ -4627,7 +4645,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "1",
@@ -4785,7 +4803,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_FireMage_DmgNoDmg_Timer",
@@ -4879,7 +4898,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 0,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "1",
@@ -5037,7 +5056,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_FireMage_DmgNoDmg",
@@ -5131,7 +5151,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "1",
@@ -5289,7 +5309,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Haste",
@@ -5383,7 +5404,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "1",
@@ -5541,7 +5562,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Haste_Timer",
@@ -5635,7 +5657,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 0,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "1",
@@ -5793,7 +5815,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Ultimate_Timer",
@@ -5887,7 +5910,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 0,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -6045,7 +6068,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Ultimate",
@@ -6139,7 +6163,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -6297,7 +6321,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Ultimate_Removal_Tick",
@@ -6391,7 +6416,7 @@
         "RemoveOnDeath": null,
         "RemoveOnDeathsDoor": null,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -6549,7 +6574,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_Ultimate_Removal",
@@ -6643,7 +6669,7 @@
         "RemoveOnDeath": 0,
         "RemoveOnDeathsDoor": 0,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -6801,7 +6827,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Ultimate_Firemage",
@@ -6895,7 +6922,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "1",
@@ -7053,7 +7080,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Ultimate_Firemage_DMG",
@@ -7147,7 +7175,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": true,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "1",
@@ -7305,7 +7333,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Ultimate_Firemage_Timer",
@@ -7399,7 +7428,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 0,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": 1,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "1",
@@ -7557,7 +7586,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": 1
     },
     {
         "StatusID": "Status_Passive_Firestaff_Pyro_BurnNearby",
@@ -7651,7 +7681,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -7809,7 +7839,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": 0.43,
         "SourceRuneChargeOnHealthChangeOnly": true,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_FireStaff_ScorchedEarth_DOT",
@@ -7903,7 +7934,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -8061,7 +8092,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": 0.26,
         "SourceRuneChargeOnHealthChangeOnly": true,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_FireStaff_MeteorShower_Damage",
@@ -8155,7 +8187,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -8313,7 +8345,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": 0.325,
         "SourceRuneChargeOnHealthChangeOnly": true,
-        "ApplicationCooldown": 0.5
+        "ApplicationCooldown": 0.5,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_FireStaff_MeteorShower_DamageUpgrade",
@@ -8407,7 +8440,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -8565,7 +8598,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": 0.325,
         "SourceRuneChargeOnHealthChangeOnly": true,
-        "ApplicationCooldown": 0.5
+        "ApplicationCooldown": 0.5,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_FireStaff_MeteorShower_Disease",
@@ -8607,7 +8641,7 @@
         "HealthModifierPercent": null,
         "HealthModifierDamageBased": null,
         "UseHealScalingValue": "",
-        "HealScalingValueMultiplier": -0.1,
+        "HealScalingValueMultiplier": -0.05,
         "StaminaDamageModifier": "",
         "ManaModifierDamageBased": "",
         "DamageType": "",
@@ -8621,7 +8655,7 @@
         "FromAlchemy": 0,
         "FromSpell": 1,
         "NoHealthRegen": 0,
-        "HealMod": -0.2,
+        "HealMod": -0.1,
         "MaxHealthMod": 0,
         "HealthRate": 0,
         "CoreTempMod": 0,
@@ -8659,7 +8693,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -8817,7 +8851,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_FireStaff_PyroUlt_Explosion",
@@ -8911,7 +8946,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -9069,7 +9104,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": 0.325,
         "SourceRuneChargeOnHealthChangeOnly": true,
-        "ApplicationCooldown": 0.5
+        "ApplicationCooldown": 0.5,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_PyroUlt_Explosion_Timer",
@@ -9163,7 +9199,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 0,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -9321,7 +9357,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_incinerate_Empower",
@@ -9415,7 +9452,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -9573,7 +9610,8 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     },
     {
         "StatusID": "Status_Passive_Firestaff_incinerate_Weaken",
@@ -9667,7 +9705,7 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 1,
         "RemoveOnRespawn": "",
-        "RemoveOnGameModeExit": null,
+        "RemoveOnGameModeExit": "",
         "IgnoreDiminishingReturns": null,
         "OnlyChangeOwnedStatusEffects": "",
         "AlwaysReplicate": "",
@@ -9825,6 +9863,7 @@
         "SourceRuneChargeOnApply": "",
         "SourceRuneChargeOnTick": null,
         "SourceRuneChargeOnHealthChangeOnly": null,
-        "ApplicationCooldown": null
+        "ApplicationCooldown": null,
+        "RemoveWhenEnteringGameModeRequiringTeleport": null
     }
 ]

@@ -2414,7 +2414,7 @@
     {
         "AbilityID": "Ultimate_Greataxe_Reaper",
         "DisplayName": "Blood Lust",
-        "Description": "You move \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; faster and gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Empower\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; more damage when looking at a foe within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[7.000000 * 2]}m\u0026lt;/font\u0026gt;.",
+        "Description": "When looking at a foe within \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[7.000000 * 2]}m\u0026lt;/font\u0026gt;, you move \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.200000 * 100]}%\u0026lt;/font\u0026gt; faster and gain \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;Empower\u0026lt;/font\u0026gt;, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.150000 * 100]}%\u0026lt;/font\u0026gt; more damage.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/GreatAxe_Ult01.png",
         "StatusEffectIcon": "",
@@ -2548,7 +2548,7 @@
     {
         "AbilityID": "Ability_Greataxe_Whirlwind",
         "DisplayName": "Whirlwind",
-        "Description": "Spin and attack all nearby foes in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2.5m\u0026lt;/font\u0026gt; radius, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. If you hit a foe, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;spin again\u0026lt;/font\u0026gt;. You can move while spinning. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Max 4 spins.) (This attack cannot backstab.)\u0026lt;/font\u0026gt;\\n\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;Whirlwind can be block/dodge cancelled after the first spin.\u0026lt;/font\u0026gt;\\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
+        "Description": "Spin around \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;4\u0026lt;/font\u0026gt; times and attack all nearby foes in a \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;2.5m\u0026lt;/font\u0026gt; radius, dealing \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt; \u0026lt;img src=\"lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque\" xPadding=\"4\" scale=\"1.7\" yOffset=\"4\"\u0026gt;\u0026lt;/img\u0026gt;weapon damage. You can move while spinning. \\n\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;This attack cannot backstab.\u0026lt;/font\u0026gt;\\n\u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;Whirlwind can be block/dodge cancelled after the first spin.\u0026lt;/font\u0026gt;\\n\\nThis ability has \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;grit\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(Grit prevents you from being staggered by incoming attacks.)\u0026lt;/font\u0026gt;",
         "UICategory": "Attack",
         "Icon": "lyshineui/images/icons/abilities/GreatAxe_Ability04.png",
         "StatusEffectIcon": "",
@@ -2682,7 +2682,7 @@
     {
         "AbilityID": "Upgrade_Greataxe_Whirlwind_MoreSpins",
         "DisplayName": "Unending Winds",
-        "Description": "Whirlwind's maximum number of spins is increased to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;7\u0026lt;/font\u0026gt;. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;(This only increases the max number of spins per cast by hitting foes while spinning)\u0026lt;/font\u0026gt;",
+        "Description": "If you hit a foe, \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;gain an additional spin\u0026lt;/font\u0026gt;. Whirlwind's maximum number of spins is increased to \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;7\u0026lt;/font\u0026gt;.",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/GreatAxe_Ability04_Mod01.png",
         "StatusEffectIcon": "",

@@ -688,5 +688,20 @@
         "Keybind": "",
         "KeybindActionmap": "",
         "NumberFields": ""
+    },
+    {
+        "NotificationId": "Trade_Failure_Not_In_PVP_State",
+        "DisplayTitle": "Trade Failed",
+        "DisplayText": "Item cannot be transferred because you are not PVP flagged.",
+        "SecondaryText": "",
+        "IconPath": "",
+        "MaxDisplayCount": -1,
+        "NotificationType": "Minor",
+        "TrackDisplayCount": null,
+        "DurationOverride": null,
+        "CooldownSeconds": null,
+        "Keybind": "",
+        "KeybindActionmap": "",
+        "NumberFields": ""
     }
 ]

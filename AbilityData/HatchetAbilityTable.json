@@ -2720,7 +2720,7 @@
     {
         "AbilityID": "Ult_Passive_Hatchet_ImmortalWhen0HP",
         "DisplayName": "Defy Death",
-        "Description": "When you receive lethal damage, avoid death and become invulnerable for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000]}s\u0026lt;/font\u0026gt; and restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[500.000000]} HP\u0026lt;/font\u0026gt; + \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt; of your base health upon activation. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[60.000000]}s cooldown.)\u0026lt;/font\u0026gt;",
+        "Description": "When you receive lethal damage, avoid death and become invulnerable for \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000]}s\u0026lt;/font\u0026gt; and restore \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[500.000000]} HP\u0026lt;/font\u0026gt; + \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.500000 * 100]}%\u0026lt;/font\u0026gt; of your base health upon activation. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[70.000000]}s cooldown.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ult01.png",
         "StatusEffectIcon": "",
@@ -5739,7 +5739,7 @@
     },
     {
         "AbilityID": "Ult_Passive_Hatchet_ExtendDebuffDuration",
-        "DisplayName": "Persistent Hinderance",
+        "DisplayName": "Persistent Hindrance",
         "Description": "Hitting a target with a thrown hatchet extends the duration of all hatchet \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuffs\u0026lt;/font\u0026gt; you applied on the target by \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.250000 *100]}%\u0026lt;/font\u0026gt;.\\n\\nAll attacks deal \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;{[0.040000 *100]}%\u0026lt;/font\u0026gt; additional base damage per \u0026lt;font face=\"lyshineui/fonts/Nimbus_SemiBold.font\" color=\"#edc63e\"\u0026gt;debuff\u0026lt;/font\u0026gt; on the target. \u0026lt;font face=\"lyshineui/fonts/Nimbus_Regular_Italic.font\" color=\"#828282\"\u0026gt;({[4.000000]} debuffs max.)\u0026lt;/font\u0026gt;",
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/hatchet_Ult02.png",

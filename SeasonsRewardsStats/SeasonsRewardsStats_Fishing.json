@@ -7,7 +7,8 @@
         "MinWeight": "",
         "PerUse": null,
         "Precision": 2,
-        "ItemRarity": null
+        "ItemRarity": null,
+        "RequiredWorldTag": ""
     },
     {
         "TrackedStatID": "CatchRareFish",
@@ -17,7 +18,8 @@
         "MinWeight": "",
         "PerUse": true,
         "Precision": null,
-        "ItemRarity": 1
+        "ItemRarity": 1,
+        "RequiredWorldTag": ""
     },
     {
         "TrackedStatID": "CatchTreasureChest",
@@ -27,7 +29,8 @@
         "MinWeight": "",
         "PerUse": true,
         "Precision": null,
-        "ItemRarity": null
+        "ItemRarity": null,
+        "RequiredWorldTag": ""
     },
     {
         "TrackedStatID": "CatchBrimstoneLegendaryFish",
@@ -37,7 +40,8 @@
         "MinWeight": "",
         "PerUse": null,
         "Precision": null,
-        "ItemRarity": null
+        "ItemRarity": null,
+        "RequiredWorldTag": ""
     },
     {
         "TrackedStatID": "CatchAeternumSturgeon",
@@ -47,6 +51,18 @@
         "MinWeight": "",
         "PerUse": true,
         "Precision": null,
-        "ItemRarity": null
+        "ItemRarity": null,
+        "RequiredWorldTag": ""
+    },
+    {
+        "TrackedStatID": "CatchNonFishSS",
+        "StatType": "Fishing",
+        "TargetID": "FishingSeaweedT1,FishingBootT2,FishingAnchorT2,FishingFishSwordT2,FishingHeadedHammerT2,FishingOarT2,FishingTreasureChestT3,FishingTreasureBootT2,FishingTreasureOarT2,FishingTreasureGoodProvisionT3,FishingTreasurePigmentT3,FishingTreasureMoteT3,FishingTreasureGearT3,FishingTreasureHammerT2,FishingTreasureSwordT2,FishingTreasureSeaweedT2",
+        "Level": null,
+        "MinWeight": "",
+        "PerUse": true,
+        "Precision": null,
+        "ItemRarity": null,
+        "RequiredWorldTag": "SeasonalServer"
     }
 ]

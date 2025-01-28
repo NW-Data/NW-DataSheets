@@ -4621,8 +4621,8 @@
     },
     {
         "AbilityID": "Con_Bonus_300_1",
-        "DisplayName": "• Gain GRIT when charging and performing heavy attacks \\n• {[0.250000 * 100]}% chance to chop down a tree in a single swing",
-        "Description": "• Gain GRIT when charging and performing heavy attacks \\n• {[0.250000 * 100]}% chance to chop down a tree in a single swing",
+        "DisplayName": "• Gain GRIT when charging and performing melee heavy attacks and during the melee light attack start ups \\n• {[0.250000 * 100]}% chance to chop down a tree in a single swing",
+        "Description": "• Gain GRIT when charging and performing melee heavy attacks and during the melee light attack start ups \\n• {[0.250000 * 100]}% chance to chop down a tree in a single swing",
         "UICategory": "",
         "Icon": "bowAbility5_mod2",
         "StatusEffectIcon": "",

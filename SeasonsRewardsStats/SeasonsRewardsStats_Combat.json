@@ -22,5 +22,13 @@
         "IsHealing": true,
         "IsDamage": null,
         "GameMode": ""
+    },
+    {
+        "TrackedStatID": "DamageOrHealRaid",
+        "StatType": "Combat",
+        "IsPVP": null,
+        "IsHealing": true,
+        "IsDamage": true,
+        "GameMode": "RaidCutlassKeys00"
     }
 ]

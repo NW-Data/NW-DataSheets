@@ -3987,7 +3987,7 @@
         "StatusID": "Spear_Perforate_WeakenStack",
         "DisplayName": "Weaken",
         "Description": "Outgoing damage is reduced by {[-0.100000 * -100]}% per stack.",
-        "EffectCategories": "Debuff+Weaken+Debilitate",
+        "EffectCategories": "Debuff+Weaken+Debilitate+Spear",
         "PlaceholderIcon": "lyshineui/images/status/SE_WeakenT3.png",
         "ShowInUITray": true,
         "ShowTextInDamageNumbers": true,

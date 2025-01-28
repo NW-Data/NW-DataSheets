@@ -250,7 +250,7 @@
     {
         "ContentId": "WeaponSwordShield3Dialogue_01",
         "SubtitleText": "Sword and Shield: Ultimates",
-        "BodyText": "The ultimate ability for the Swordmaster tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Leadership\u0026lt;/font\u0026gt;, provides a persistent damage bonus to all members in your group, including yourself. \\n\\nThe ultimate ability for the Defender tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Defensive Formation\u0026lt;/font\u0026gt;, will summon a defensive area whenever you are blocking and reduces the damage taken by all nearby allies. Positioning is key for this ultimate, as it can aid in keeping nearby allies alive while they deal damage to targets focused on you. Pair this ultimate with taunts to maximize its power against non-player enemies.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;TANKING WITH THE SWORD AND SHIELD\u0026lt;/font\u0026gt;\\nYou can tank using the Sword and Shield by using a \u0026lt;font color=\"#edc63e\"\u0026gt;Carnelian gem\u0026lt;/font\u0026gt; in your Sword to activate certain taunt abilities. Taunting non-player enemies will cause them to focus on you, allowing your allies to capitalize on the enemy's distraction. Keep an eye out the \"Taunt Gem Compatible\" text in ability tooltips to learn what abilities can trigger taunts.",
+        "BodyText": "The ultimate ability for the Swordmaster tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Leadership\u0026lt;/font\u0026gt;, provides a persistent damage bonus to all members in your group, including yourself. \\n\\nThe ultimate ability for the Defender tree, \u0026lt;font color=\"#edc63e\"\u0026gt;Defensive Formation\u0026lt;/font\u0026gt;, will summon a defensive area whenever you are blocking and reduces the damage taken by all nearby allies. Positioning is key for this ultimate, as it can aid in keeping nearby allies alive while they deal damage to targets focused on you. Pair this ultimate with taunts to maximize its power against non-player enemies.\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;TANKING WITH THE SWORD AND SHIELD\u0026lt;/font\u0026gt;\\nYou can tank using the Sword and Shield by using a \u0026lt;font color=\"#edc63e\"\u0026gt;Carnelian gem\u0026lt;/font\u0026gt; in your Sword to activate certain taunt abilities. Taunting non-player enemies will cause them to focus on you, allowing your allies to capitalize on the enemy's distraction. Keep an eye out for the \"Taunt Gem Compatible\" text in ability tooltips to learn what abilities can trigger taunts.",
         "KeyboardButtonDisplayOverride": "",
         "ImagePath": "",
         "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/icon_title_combat.png"
@@ -2012,6 +2012,70 @@
         "SubtitleText": "Prone to Hide",
         "BodyText": "{$movement.prone_toggle_pad$} \u0026lt;font color=\"#edc63e\"\u0026gt;Prone during PvP\u0026lt;/font\u0026gt; to hide your nameplate from rivals.",
         "KeyboardButtonDisplayOverride": "{$movement.prone_toggle$} \u0026lt;font color=\"#edc63e\"\u0026gt;Prone during PvP\u0026lt;/font\u0026gt; to hide your nameplate from rivals.",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "S7SeasonalServerIntro1Prompt_01",
+        "SubtitleText": "Seasonal World Rules",
+        "BodyText": "Entering a \u0026lt;font color=\"#edc63e\"\u0026gt;Seasonal World\u0026lt;/font\u0026gt;.\\n\\nCraft and battle for \u0026lt;font color=\"#edc63e\"\u0026gt;Conqueror's Gear\u0026lt;/font\u0026gt; - never before seen weapons and armor. Get ready, you will \u0026lt;font color=\"#edc63e\"\u0026gt;automatically flag for PvP\u0026lt;/font\u0026gt; at Level {^u|javelin.pvp-always-on-min-level^}.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "S7SeasonalServerIntro1Dialogue_01",
+        "SubtitleText": "Seasonal World Rules",
+        "BodyText": "Aeternum has revealed a powerful new resource called \u0026lt;font color=\"#edc63e\"\u0026gt;Wrathstone\u0026lt;/font\u0026gt;, leading to a battle between Factions over this resource and the formidable Conqueror's Gear that can be crafted from it. \u0026lt;font color=\"#edc63e\"\u0026gt;Welcome to Season 7's Seasonal World\u0026lt;/font\u0026gt;. \\n\\nThis is a Player versus Player World (PvP) where you \u0026lt;font color=\"#edc63e\"\u0026gt;automatically flag for PvP at level {^u|javelin.pvp-always-on-min-level^}\u0026lt;/font\u0026gt;.\r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;CONQUEROR'S GEAR\u0026lt;/font\u0026gt;\r\n\t\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Gather Wrathstone by wearing craftable Ethereal Gear\u0026lt;/font\u0026gt; while gathering resources, doing corrupted portals and in Elite Areas. Use Wrathstone to craft extremely powerful \u0026lt;font color=\"#edc63e\"\u0026gt;Conqueror's Gear\u0026lt;/font\u0026gt; for the battlefield. \r\n\t\\n\\nSalvage Conqueror and Ethereal items or refine basic materials such as ore, wood, stone, fiber and hides into \u0026lt;font color=\"#edc63e\"\u0026gt;Ethereal Dust\u0026lt;/font\u0026gt; which can be further refined into \u0026lt;font color=\"#edc63e\"\u0026gt;Ethereal Expertise Animus\u0026lt;/font\u0026gt;. These items can be consumed to gain experience and a chance to earn crafting patterns for Conqueror's Gear as well as other items to speed up your progress. Craft your first mount with Ethereal Dust at any camp and is usable at level 15. \r\n\t\\n\\nEthereal, Conqueror's Gear and Wrathstones \u0026lt;font color=\"#edc63e\"\u0026gt;drop on death\u0026lt;/font\u0026gt; in the open world and can be gathered by other players. Ethereal and Conqueror's Gear have \u0026lt;font color=\"#edc63e\"\u0026gt;durability\u0026lt;/font\u0026gt; and cannot be repaired. \r\n\t\\n\\n\u0026lt;font face=\"lyshineui/fonts/Pica_Regular.font\" color=\"#c6b694\" \u0026gt;REWARDS AND SEASON END\u0026lt;/font\u0026gt;\r\n\t\\nEarn unique skins, titles, and rewards from the \u0026lt;font color=\"#edc63e\"\u0026gt;Season Journey\u0026lt;/font\u0026gt; and leaderboards.\r\n\t\\n\\nAt the end of the season, you can \u0026lt;font color=\"#edc63e\"\u0026gt;transfer your character to another world\u0026lt;/font\u0026gt;, keeping progression and rewards such as skins and titles that you've earned. Ethereal and Conqueror's gear will be converted into alternative gear available on standard worlds. The leaderboard season ends early in this world. Ensure to log in before world closes for good to claim leaderboard rewards.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/Icon_Tutorial_season_server.png"
+    },
+    {
+        "ContentId": "S7EtherealGear1Prompt_01",
+        "SubtitleText": "Ethereal Gear",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Equip Ethereal Gear\u0026lt;/font\u0026gt; to obtain \u0026lt;font color=\"#edc63e\"\u0026gt;Wrathstone\u0026lt;/font\u0026gt; from gathering resources, Elite areas and Corrupted Portals. \\n\\nCareful, Ethereal gear drops on death.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "S7EtherealGear1Dialogue_01",
+        "SubtitleText": "Ethereal Gear",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Equip Ethereal Gear to acquire Wrathstone\u0026lt;/font\u0026gt; from gathering resources, Elite areas, and Corrupted Portals. Use Wrathstone to \u0026lt;font color=\"#edc63e\"\u0026gt;craft Conqueror's Gear\u0026lt;/font\u0026gt; - gear with powerful perks only found in Seasonal Worlds.\\n\\nEthereal Gear can be crafted at various crafting stations. Alternatively, acquire Ethereal Gear from other players as it \u0026lt;font color=\"#edc63e\"\u0026gt;drops on death\u0026lt;/font\u0026gt;. \\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Ethereal Gear has durability\u0026lt;/font\u0026gt; and cannot be repaired. You can store Ethereal Gear in your gear set storage, but it will not protect your gear from dropping on death.\\n\\nIn all instanced activities, such as 3v3 Arenas, Outpost Rush, expeditions, and Invasions, Ethereal Gear perks are disabled and will not drop on death.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/Icon_Tutorial_season_server.png"
+    },
+    {
+        "ContentId": "S7ConquerorsGear1Prompt_01",
+        "SubtitleText": "Conqueror's Gear",
+        "BodyText": "You've acquired a piece of powerful \u0026lt;font color=\"#edc63e\"\u0026gt;Conqueror's Gear\u0026lt;/font\u0026gt;! \\n\\nDiscover its unique perk in the item's tooltip.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "S7ConquerorsGear1Dialogue_01",
+        "SubtitleText": "Conqueror's Gear",
+        "BodyText": "\u0026lt;font color=\"#edc63e\"\u0026gt;Conqueror's Gear\u0026lt;/font\u0026gt; changes the Player versus Player landscape. They feature unique, powerful perks only found on Seasonal Worlds. \\n\\nCraft Conqueror's Gear at various crafting stations using Wrathstone. Wrathstone is obtainable when wearing Ethereal Gear. Alternatively, acquire Conqueror's Gear from other players as it \u0026lt;font color=\"#edc63e\"\u0026gt;drops on death\u0026lt;/font\u0026gt;. \\n\\n\u0026lt;font color=\"#edc63e\"\u0026gt;Conqueror's Gear has durability\u0026lt;/font\u0026gt; and cannot be repaired. You can store Conqueror's Gear in your gear set storage, but it will not protect your gear from dropping on death.\\n\\nIn all instanced activities, such as 3v3 Arenas, Outpost Rush, expeditions, and Invasions, Conqueror's Gear perks are disabled and will not drop on death.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": "LyShineUI/Images/Icons/PlayerTutorials/Icon_Tutorial_season_server.png"
+    },
+    {
+        "ContentId": "S7SeasonalServerPvP1Prompt_01",
+        "SubtitleText": "Seasonal World PvP",
+        "BodyText": "Reminder: You will \u0026lt;font color=\"#edc63e\"\u0026gt;permanently flag for PvP at level {^u|javelin.pvp-always-on-min-level^}\u0026lt;/font\u0026gt;.",
+        "KeyboardButtonDisplayOverride": "",
+        "ImagePath": "",
+        "IconPath": ""
+    },
+    {
+        "ContentId": "S7SeasonalServerPvP2Prompt_01",
+        "SubtitleText": "PvP Flagged",
+        "BodyText": "You are now \u0026lt;font color=\"#edc63e\"\u0026gt;permanently flagged for PvP\u0026lt;/font\u0026gt; on this world. Good luck!",
+        "KeyboardButtonDisplayOverride": "",
         "ImagePath": "",
         "IconPath": ""
     }
